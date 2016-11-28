@@ -14,3 +14,7 @@ For more two letter language codes see http://www.loc.gov/standards/iso639-2/php
 You might just add an apropriate directory in order to add a new language.
 English and German translations will always be up to date. The others can be built from them.
 
+How translation works:
+Each values.xml file contains lines of the form
+<tagname>My translation</tagname>
+You have just to translate the part in between (here „My Translation“). Special characters like \n might be used to indicate a new line.
