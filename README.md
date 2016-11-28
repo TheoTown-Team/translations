@@ -15,6 +15,6 @@ You might just add an apropriate directory in order to add a new language.
 English and German translations will always be up to date. The others can be built from them.
 
 How translation works:</br>
-Each values.xml file contains lines of the form
-<em>\<tagname\></em>My translation<em>\</tagname\></em>
+Each values.xml file contains lines of the form<br>
+<em>\<tagname\></em>My translation<em>\</tagname\></em><br>
 You have just to translate the part in between (here „My Translation“). Special characters like \n might be used to indicate a new line.
