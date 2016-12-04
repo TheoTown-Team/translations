@@ -5,7 +5,9 @@ Every directory contains a values.xml file. The corresponding languages are:</br
 values: English (default langauge)</br>
 values-cs: Czech</br>
 values-de: German</br>
+values-es: Spanish</br>
 values-fr: French</br>
+values-it: Italian</br>
 values-pl: Polish</br>
 values-zh: Chinese</br>
 values-zh-rTW: Traditional Chinese</br>
