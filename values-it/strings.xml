@@ -28,8 +28,8 @@
     <string name="createcity_sizebig">Grande</string>
     <string name="createcity_sizeother">Altro</string>
     <string name="game_monthlyincome">%1$,+d$</string>
-    <string name="game_estate">Estate: %1$,d$</string>
-    <string name="game_rating">Rating: %1$d</string>
+    <string name="game_estate">Bilancio: %1$,d$</string>
+    <string name="game_rating">Valutazione: %1$d</string>
     <string name="settings_resolutionlowlow">Molto bassa</string>
     <string name="settings_resolutionlow">Bassa</string>
     <string name="settings_resolutionnormal">Normale</string>
@@ -61,7 +61,7 @@
     <string name="dialog_screenshot_text">L\'immagine è stata salvata come %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, grazie</string>
     <string name="draftselector_titleparks">Parchi</string>
-    <string name="draftselector_titlepublics">Amministrazione</string>
+    <string name="draftselector_titlepublics">Comune</string>
     <string name="draftselector_titleenergy">Energia</string>
     <string name="draftselector_titlewater">Acqua</string>
     <string name="draftselector_titleschool">Educazione</string>
@@ -155,7 +155,7 @@
     <string name="draft_management00_title">Dipartimento di polizia</string>
     <string name="draft_management00_text">Per ulteriore sicurezza.</string>
     <string name="draft_firedepartment00_title">Stazione dei pompieri</string>
-    <string name="draft_firedepartment00_text">Protegge i villaggi dagli incendi.</string>
+    <string name="draft_firedepartment00_text">Protegge la città dagli incendi.</string>
     <string name="draft_statue00_title">Statua</string>
     <string name="draft_statue00_text">Una statua del sindaco.</string>
     <string name="draft_gillender00_title">Palazzo Gilleder</string>
@@ -209,8 +209,7 @@
     <string name="topic_nice">Hai una bella città :)</string>
     <string name="topic_trolls">Non dar da mangiare ai troll</string>
     <string name="settings_reversedbuildtool">Movimento inverso nello strumento di costruzione.</string>
-    <string name="draft_karlsruhecastle00_title">Palazzo
-Karlsruhe</string>
+    <string name="draft_karlsruhecastle00_title">Palazzo Karlsruhe</string>
     <string name="draft_karlsruhecastle00_text">I turisti lo ameranno.</string>
     <string name="shader_old">Vecchio</string>
     <string name="topic_narcissistic">Non dar peso alle persone narcisiste</string>
@@ -277,7 +276,7 @@ Karlsruhe</string>
     <string name="settings_debugmode">Modalità debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Rimuovi</string>
-    <string name="draftselector_titleview">Vedi</string>
+    <string name="draftselector_titleview">Indicatori</string>
     <string name="toolremove_default_title">Rimuovi</string>
     <string name="toolremove_default_text">Con questo strumento puoi rimuovere qualsiasi cosa ad eccezione dei cavi e delle condutture per l\'acqua.</string>
     <string name="toolremove_pipe_text">Questo strumento può essere utilizzato per rimuovere le condutture.</string>
@@ -287,19 +286,19 @@ Karlsruhe</string>
     <string name="busstopinfo_usage">Aspettando: %2$d/%3$d\nUsage: %1$.1f%%</string>
     <string name="ci_rating_title">Valutazione</string>
     <string name="ci_energy_networks">%1$d rete/i</string>
-    <string name="ci_energy_produced">Prodotti: %1$,.0fkWh (%2$,d buildings)</string>
-    <string name="ci_energy_consumed">Utilizzati: %1$,.0fkWh (%2$,d buildings)</string>
+    <string name="ci_energy_produced">Prodotti: %1$,.0fkWh (%2$,d edifici)</string>
+    <string name="ci_energy_consumed">Utilizzati: %1$,.0fkWh (%2$,d edifici)</string>
     <string name="ci_energy_ratio">Uso: %1$.1f%%</string>
     <string name="ci_energy_all">Generale</string>
     <string name="ci_energy_single">Singolo</string>
     <string name="ci_water_all">Generale</string>
     <string name="ci_water_single">Singolo</string>
     <string name="ci_water_networks">%1$d rete/i</string>
-    <string name="ci_water_consumed">Utilizzati: %1$,.0fL/h (%2$,d buildings)</string>
-    <string name="ci_water_produced">Prodotti: %1$,.0fL/h (%2$,d buildings)</string>
+    <string name="ci_water_consumed">Utilizzati: %1$,.0fL/h (%2$,d edifici)</string>
+    <string name="ci_water_produced">Prodotti: %1$,.0fL/h (%2$,d edifici)</string>
     <string name="ci_water_ratio">Utilizzati: %1$.1f%%</string>
     <string name="ci_general_cityname">Nome città: %1$s</string>
-    <string name="ci_general_population">Abitanti complessivi: %1$,d</string>
+    <string name="ci_general_population">Popolazione complessiva: %1$,d</string>
     <string name="draftselector_titlerawbuilding">Tutti gli edifici</string>
     <string name="budget_busdepot">Depositi degli autobus</string>
     <string name="ci_budget_overallincome">Entrate complessive</string>
@@ -530,10 +529,10 @@ Karlsruhe</string>
     <string name="draft_zoneindustrial_lvl2_text">Una zona industriale ad alta densità.</string>
     <string name="draft_zonefarm_title">Fattoria</string>
     <string name="draft_zonefarm_text">Una zona economica per le fattorie. La dimensione minima di una fattoria è 4x4.</string>
-    <string name="requirement_peoplecount_all">Necessario: una popolazione di %1$,d</string>
-    <string name="requirement_peoplecount_poor">Bisogno: una popolazione povera di %1$,d</string>
-    <string name="requirement_peoplecount_middle">Bisogno: una popolazione facoltosa di %1$,d</string>
-    <string name="requirement_peoplecount_rich">Bisogno: una popolazione ricca di %1$,d</string>
+    <string name="requirement_peoplecount_all">Abitanti necessari: di %1$,d</string>
+    <string name="requirement_peoplecount_poor">Abitanti poveri necessari: %1$,d</string>
+    <string name="requirement_peoplecount_middle">Abitanti facoltosi necessari: %1$,d</string>
+    <string name="requirement_peoplecount_rich">Abitanti ricchi necessari: di %1$,d</string>
     <string name="requirement_building">Bisogno: %1$s</string>
     <string name="draftselector_onlyone">Può essere costruita solo una volta</string>
     <string name="draftselector_onlyn">Può essere costruita solo %1$d volte</string>
