@@ -1,4 +1,4 @@
- <-# theotown-translation
+<-# theotown-translation
 Here everybody can help to localize TheoTown to other languages.
 
 Every directory contains a values.xml file. The corresponding languages are:</br>
@@ -8,6 +8,7 @@ values-de: German <- Always up to date</br>
 values-es: Spanish</br>
 values-fr: French</br>
 values-it: Italian</br>
+values-ko: Korean</br>
 values-pl: Polish</br>
 values-zh: Chinese</br>
 values-zh-rTW: Traditional Chinese</br>
