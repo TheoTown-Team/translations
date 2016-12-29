@@ -82,7 +82,7 @@
     <string name="dialog_leave_text">TheoTown에서 나가겠습니까?</string>
     <string name="dialog_leave_title">TheoTown 종료</string>
     <string name="dialog_leave_cmdcancel">닫기</string>
-    <string name="dialog_leave_cmdleave">떠나기</string>
+    <string name="dialog_leave_cmdleave">종료</string>
     <string name="savewaiting_title">도시 저장중</string>
     <string name="loadwaiting_title">불러오는중..</string>
     <string name="dialog_invalidcityname_title">도시 이름이 유효하지 않습니다.</string>
@@ -262,16 +262,16 @@
     <string name="draft_road01_text">차들이 씽씽 달릴 것입니다.</string>
     <string name="draftselector_titleterrain">지형</string>
     <string name="draft_terrainwater_title">물</string>
-    <string name="draft_terrainwater_text">물을 맵에 배치하세요.</string>
+    <string name="draft_terrainwater_text">물을 맵에 배치합니다.</string>
     <string name="draft_terrainland_title">토지</string>
-    <string name="draft_terrainland_text">토지를 맵에 배치하세요.</string>
+    <string name="draft_terrainland_text">토지를 맵에 배치합니다.</string>
     <string name="draft_tree00_title">나무</string>
-    <string name="draft_tree00_text">약간의 나무를 설치하세요.</string>
+    <string name="draft_tree00_text">약간의 나무를 설치합니다.</string>
     <string name="draft_busstop00_title">버스정류장</string>
     <string name="draft_busstop00_text">이곳에서 시민들이 버스를 이용해 도시의 다른 곳으로 이동할 수 있습니다.</string>
     <string name="settings_orientation">화면 방향</string>
-    <string name="settings_orientationlandscape">경관</string>
-    <string name="settings_orientationportrait">초상화</string>
+    <string name="settings_orientationlandscape">눕히기</string>
+    <string name="settings_orientationportrait">세우기</string>
     <string name="settings_orientationauto">자동</string>
     <string name="draft_busdepot00_title">버스 차고지</string>
     <string name="draft_busdepot00_text">버스가 도시에 돌아다니게 하려면 버스 차고지가 필요합니다.</string>
@@ -408,24 +408,24 @@
     <string name="draft_radio00_news_title">뉴스 104,0</string>
     <string name="draft_radio00_news_text">도시에 대한 새 이야기를 전합니다. 지식에 영향을 줍니다. 
 \n
-\n동시에 하나의 라디오 프로그램만 허용됩니다. </string>
+\n오직 하나의 프로그램만이 방송될 수 있습니다.. </string>
     <string name="draft_radio00_sport_title">스포츠 FM</string>
     <string name="draft_radio00_sport_text">이제 스포츠 경기를 집에서도 볼 수 있어요!! 만세!! (스타디움 역할을 합니다.)
 \n
-\n오직 하나의 프로그램만이 한 번에 방송될 수 있습니다. </string>
+\n오직 하나의 프로그램만이 방송될 수 있습니다. </string>
     <string name="draft_radio00_fun_title">음악방송</string>
     <string name="draft_radio00_fun_text">힐링이 되는 음악을 시민들에게 틀어줍니다. (공원 역할을 합니다.)
 \n
-\n오직 하나의 프로그램만이 한 번에 방송될 수 있습니다.
+\n오직 하나의 프로그램만이 방송될 수 있습니다.
 .</string>
     <string name="draft_radio00_faith_title">종교방송</string>
     <string name="draft_radio00_faith_text">시민들의 신앙심을 키워줍니다.
 \n
-\n 오직 하나의 프로그램만이 한 번에 방송될 수 있습니다.</string>
+\n 오직 하나의 프로그램만이  방송될 수 있습니다.</string>
     <string name="draft_lighthouse00_title">등대</string>
     <string name="draft_lighthouse00_text">잠깐만 배가 없잖아?</string>
     <string name="draft_road02_title">고속도로</string>
-    <string name="draft_road02_text">차들이 아주 빠르게 달려요.
+    <string name="draft_road02_text">차들이 아주 빠르게 달립니다.
 \n\n건물 사이를 연결하지 않습니다.</string>
     <string name="budget_road">도로</string>
     <string name="topic_birthday_phoenix">Phoenix, 생일 축하해 :)</string>
@@ -497,21 +497,21 @@
     <string name="disaster_illness_cmdtext">신종 바이러스다!</string>
     <string name="disaster_flooding_title">홍수</string>
     <string name="disaster_flooding_text">매우 많은 물이 덮칩니다.</string>
-    <string name="disaster_flooding_cmdtext">비가오게 하기</string>
+    <string name="disaster_flooding_cmdtext">대홍수 일으키기</string>
     <string name="buildinginfo_influences">영향</string>
     <string name="ci_loan_title">대출</string>
-    <string name="ci_loan_donate">빌리다</string>
-    <string name="ci_loan_get">증가</string>
+    <string name="ci_loan_donate">광고로 기부하기</string>
+    <string name="ci_loan_get">추가</string>
     <string name="ci_loan_donate_text">우리에게 돈을 주세요. 저희는 자금이 많이 필요해요 :(</string>
     <string name="ci_loan_get_text">기본 대출, 10,000$
-\n시간 범위: 24 months
-\n월간 비용: 500$</string>
+\n시간 범위: 24 달
+\n월간 이자: 500$</string>
     <string name="draft_crater4x4_title">크레이터(큼)</string>
     <string name="draft_crater4x4_text">운석이 충돌한 자리입니다.</string>
     <string name="draft_crater1x1_title">크레이터(작음)</string>
     <string name="draft_crater1x1_text">작은 운석 크레이터.</string>
     <string name="settings_disaster_nuke">핵</string>
-    <string name="disaster_nuke_title">핵전쟁</string>
+    <string name="disaster_nuke_title">핵</string>
     <string name="disaster_nuke_text">무해한듯 싶습니다.</string>
     <string name="disaster_nuke_cmdtext">한번 시도해 보시죠.</string>
     <string name="budget_loans">융자</string>
@@ -639,7 +639,7 @@
     <string name="shader_fancy2">초-아름다움</string>
     <string name="draft_sewerpipe00_title">하수관</string>
     <string name="draft_sewerpipe00_text">폐수를 자연으로 방출합니다. 나쁜 영향을 끼칩니다.</string>
-    <string name="settings_lowresmapscreenshot">스크린샷 해상도가 낮습니다.</string>
+    <string name="settings_lowresmapscreenshot">스크린샷 해상도를 .</string>
     <string name="draft_marina00_title">마리나</string>
     <string name="draft_marina00_text">부자들을 위한 놀잇거리</string>
     <string name="loadcity_version">버전 %1$d</string>
@@ -670,9 +670,9 @@
     <string name="draft_carcinema00_title">드라이브-인 영화관</string>
     <string name="draft_carcinema00_text">%1$s의 시민들을 위한 엔터테인먼트 건물입니다.</string>
     <string name="notify_lowbudget">돈이 부족해요!!</string>
-    <string name="settings_rightsidebar">사이다 바를 오른쪽에 두기</string>
-    <string name="settings_topstatusbar">상황 바를 위쪽에 두기</string>
-    <string name="settings_leftminimap">미니맵을 왼쪽에 두기</string>
+    <string name="settings_rightsidebar">사이드 바를 오른쪽에 두기</string>
+    <string name="settings_topstatusbar">현황 바를 위쪽에 두기</string>
+    <string name="settings_leftminimap">미니맵을 왼쪽에 두기</string>
     <string name="settings_category_ui">유저 인터페이스</string>
     <string name="influence_radioactive_title">방사능</string>
     <string name="influence_radioactive_text">인간과 자연에 위해를 끼칩니다.</string>
@@ -712,13 +712,13 @@
     <string name="happiness_environment">환경</string>
     <string name="happiness_freetime">자유시간</string>
     <string name="notify_noroad">몇몇 건물들이 도로와 연결되지 않았습니다.</string>
-    <string name="notify_water_waste">이곳엔 정말 오염된 물이 있다!</string>
+    <string name="notify_water_waste"> 이 건물에는 오염된 물이 있습니다.</string>
     <string name="influence_management_title">관리</string>
     <string name="influence_management_text">도시를 제어합니다.</string>
     <string name="happiness_management">관리</string>
-    <string name="dialog_oldmap_title">오래된 도시</string>
+    <string name="dialog_oldmap_title">오래된 맵</string>
     <string name="dialog_oldmap_text">오래된 맵은 우리의/당신의 뜻대로 작동하지 않을 수 있습니다. 우리를 증오하지 말아주세요. (제발...)</string>
-    <string name="dialog_oldmap_cmdproceed">완료됨</string>
+    <string name="dialog_oldmap_cmdproceed">로딩하기</string>
     <string name="dialog_oldmap_cmdcancel">닫기</string>
     <string name="notify_bad_health">건강이 낮습니다. 병원을 설치하세요.</string>
     <string name="dialog_rename_cmdok">재설정</string>
@@ -752,7 +752,7 @@
     <string name="dialog_copycity_cmdcancel">취소</string>
     <string name="waiting_screenshot">사진 찍는 중…</string>
     <string name="waiting_copycity">도시 복사 중...</string>
-    <string name="app_name_premium">TheoTown 프리미엄</string>
+    <string name="app_name_premium">TheoTown 프리미엄</string>
     <string name="busstopinfo_title">버스정류장</string>
     <string name="roadinfo_title">도로</string>
     <string name="roadinfo_trafficlights_on">신호등 켜기</string>
@@ -776,7 +776,7 @@
     <string name="draft_marker_powermarker_title">에너지</string>
     <string name="draft_road04_text">나무가 있는 좋은 길입니다.</string>
     <string name="draft_marker_watermarker_title">수도</string>
-    <string name="draft_road05_text">멀리떨어진 곳을 연결해주는 좋은도로입니다.건물과는 연결되지 않습니다.</string>
+    <string name="draft_road05_text">멀리떨어진 곳을 연결해주는 고속도로보다 더좋 은도로입니다.건물과는 연결되지 않습니다.</string>
     <string name="notify_demonstration">%1s으로 인해 시위가 일어나고 있습니다!</string>
     <string name="draft_road05_title">대륙연결도로</string>
     <string name="draft_road04_title">골목</string>
