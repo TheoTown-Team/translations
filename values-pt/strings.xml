@@ -13,7 +13,7 @@
     <string name="loadcity_load">Começar</string>
     <string name="welcome_agree">Eu aceito</string>
     <string name="welcome_content">
-    Bem Vindo ao TheoTown \n\nEste aplicativo está atualmente em desenvolvimento.Esteja ciente de que pode ocorrer alguns bugs.Por favor, não vote abaixo dessas pequenanas questões.Se você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele. \n\nDivirta-se :)
+    Bem Vindo ao TheoTown \n\nEste aplicativo está atualmente em desenvolvimento.Esteja ciente de que pode ocorrer alguns bugs.Por favor, não vote abaixo dessas pequenas questões.Se você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele. \n\nDivirta-se :)
     </string>
     <string name="game_date">Date: %1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitantes: %1$,d</string>
@@ -36,7 +36,7 @@
     <string name="dialog_nocities_text">Não pode encontrar nenhuma cidade.</string>
     <string name="dialog_nocities_cmdback">Cancelar</string>
     <string name="dialog_nocities_cmdnewcity">Nova cidade</string>
-    <string name="settings_showads">Mostrar tudo</string>
+    <string name="settings_showads">Tirar anúncios</string>
     <string name="settings_drawcars">Desenhar carros</string>
     <string name="settings_drawsmoke">Desenhar fumaças</string>
     <string name="settings_transparencybuildmode">Transparência no modo de construção</string>
@@ -57,7 +57,7 @@
     <string name="loadcity_errordialog_cmdcancel">Cancelar</string>
     <string name="dialog_screenshot_title">Captura de tela</string>
     <string name="dialog_screenshot_text">A imagem foi salva como %1$s.</string>
-    <string name="dialog_screenshot_cmdok">OK, obrigado</string>
+    <string name="dialog_screenshot_cmdok">Ok, obrigado</string>
     <string name="draftselector_titleparks">Parques</string>
     <string name="draftselector_titlepublics">Públicos</string>
     <string name="draftselector_titleenergy">Energia</string>
@@ -218,7 +218,7 @@
     <string name="ci_general_text">FORA DE USO</string>
     <string name="topic_reddit">Olá Reddit :)</string>
     <string name="topic_animals">Nenhum animal foi prejudicado na produção!</string>
-    <string name="topic_users">Agradecendo à 100.000 jogadores</string>
+    <string name="topic_users">Em busca de 100.000 jogadores</string>
     <string name="topic_free">O jogo é grátis :D</string>
     <string name="topic_about">Você pode tentar tocar no canto inferior direito</string>
     <string name="topic_letsplay">Vamos jogar ;)</string>
@@ -395,7 +395,7 @@
     <string name="draft_footballstadion00_fanshop_text">Acessório é vendido aqui.</string>
     <string name="notify_requirementbuilding">Você desbloqueou %1$s.</string>
     <string name="notify_requirementupgrade">
-    Parabéns, você desbloqueou a atualização %1$s para construção %2$s!
+    Parabéns, você desbloqueou uma melhoria:  %1$s para construção %2$s!
     </string>
     <string name="draftselector_titlesports">Esportes</string>
     <string name="draftselector_titlealert">Emergências</string>
@@ -445,7 +445,7 @@
     <string name="topic_birthday_theo">Feliz aniversário theo :)</string>
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">42</string>
-    <string name="draft_radio00_news_title">Notícias 104,0</string>
+    <string name="draft_radio00_news_title">Notícias</string>
     <string name="draft_radio00_news_text">
     Envia as novidades sobre a cidade. Melhora o conhecimento. \n \nSomente um programa de rádio permitido ao mesmo tempo. Programas antigos serão removidos.
     </string>
@@ -604,9 +604,9 @@
     <string name="buildinginfo_untouchable">Intocável</string>
     <string name="draft_zoneresidential_lvl2_title">Redidêncial densa</string>
     <string name="draft_zoneresidential_lvl2_text">Uma zona residencial com maior densidade.</string>
-    <string name="draft_zonecommercial_lvl2_title">Comércio denso</string>
+    <string name="draft_zonecommercial_lvl2_title">Comércial denso</string>
     <string name="draft_zonecommercial_lvl2_text">Uma zona comercial com alta densidade.</string>
-    <string name="draft_zoneindustrial_lvl2_title">Indùstria densa</string>
+    <string name="draft_zoneindustrial_lvl2_title">Indústrial densa</string>
     <string name="draft_zoneindustrial_lvl2_text">Zona industrial com alta densidade.</string>
     <string name="draft_zonefarm_title">Fazenda</string>
     <string name="draft_zonefarm_text">
@@ -698,10 +698,10 @@
     <string name="draft_marker_trafficmarker_title">Trafego</string>
     <string name="draft_marker_trafficmarker_text">Trafego.</string>
     <string name="draft_mayorvilla00_title">Vivenda</string>
-    <string name="draft_mayorvilla00_text">Um residencial agradável para o prefeito.</string>
+    <string name="draft_mayorvilla00_text">Uma residencia agradável para o prefeito.</string>
     <string name="happiness_health">Saúde</string>
     <string name="happiness_firedanger">Perigo de incêndio</string>
-    <string name="dialog_screenshot_show">Motrar</string>
+    <string name="dialog_screenshot_show">Mostrar</string>
     <string name="draft_townhall01_title">Prefeitura</string>
     <string name="draft_townhall01_text">Uma prefeitura se adequaria à sua cidade.</string>
     <string name="loadcity_errordialog_cmdrecover">Recuperar</string>
@@ -760,13 +760,13 @@
     <string name="draft_gasplant00_text">Mais barato do que outras usinas. Pouca poluição.</string>
     <string name="draft_carcinema00_title">Cinema Drive-in</string>
     <string name="draft_carcinema00_text">Algum entretenimento para os habitantes de TheoTown.</string>
-    <string name="notify_lowbudget">Não há mais dinheiro. Você pode tomar alguns empréstimos.</string>
+    <string name="notify_lowbudget">Não há mais dinheiro. Você pode pegar alguns empréstimos.</string>
     <string name="settings_rightsidebar">Barra lateral no lado direito</string>
     <string name="settings_topstatusbar">Barra de status em cima</string>
     <string name="settings_leftminimap">Minimapa no lado esquerdo</string>
     <string name="settings_category_ui">Interface do usuário</string>
     <string name="influence_radioactive_title">Radioatividade</string>
-    <string name="influence_radioactive_text">Risco para humanos e natureza.</string>
+    <string name="influence_radioactive_text">Risco para humanos e para natureza.</string>
     <string name="draft_rail00_title">Trilhos</string>
     <string name="draft_rail00_text">Alguns trilhos para trens de passageiros.</string>
     <string name="draft_railwaystation00_title">Estação ferroviária</string>
@@ -820,8 +820,7 @@
     <string name="influence_management_text">Controlar sua cidade.</string>
     <string name="happiness_management">Administração</string>
     <string name="dialog_oldmap_title">Cidade antiga</string>
-    <string name="dialog_oldmap_text">Controlar sua cidade
-    TheoTown desenvolveu muito desde que esta cidade foi criada. Por conseguinte, não pode funcionar como esperado. Por favor, não nos odeie (◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">TheoTown desenvolveu muito desde que esta cidade foi criada. Por conseguinte, não pode funcionar como esperado. Por favor, não nos odeie (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">Proceder</string>
     <string name="dialog_oldmap_cmdcancel">Cancelar</string>
     <string name="notify_bad_health">
@@ -894,28 +893,28 @@
     <string name="notify_demonstration">" Há uma manifestação em nossa cidade por causa de %1s! Faça algo ou algo ruim vai acontecer!"</string>
     <string name="draft_road05_title">Rodovia</string>
     <string name="draft_road04_title">Aléia</string>
-    <string name="happiness_general">General happiness</string>
-    <string name="notify_unhappy">People here are unhappy because of %1$s. You should try to improve the happiness.</string>
-    <string name="draft_decoroad00_title">Alley trees</string>
-    <string name="draft_rnk_city_big_title">Big City</string>
-    <string name="draft_rnk_city_medium_title">Medium City</string>
-    <string name="draft_rnk_city_large_title">Large City</string>
-    <string name="draft_rnk_conurbation_title">Conurbation</string>
-    <string name="draft_rnk_city_small_title">Small City</string>
-    <string name="draft_rnk_isolateddwelling_title">Isolated Dwelling</string>
-    <string name="draft_rnk_hamlet_title">Hamlet</string>
-    <string name="rank_needed_people">At least %1$,d inhabitants</string>
-    <string name="draft_rnk_village_small_title">Small Village</string>
-    <string name="draft_rnk_village_medium_title">Medium Village</string>
-    <string name="draft_rnk_village_big_title">Big Village</string>
-    <string name="draft_rnk_town_small_title">Small Town</string>
-    <string name="draft_rnk_town_medium_title">Medium Town</string>
-    <string name="draft_rnk_town_large_title">Medium Town</string>
-    <string name="draft_rnk_town_big_title">Big Town</string>
-    <string name="draft_rnk_metropolis_title">Metropolis</string>
-    <string name="draft_rnk_megalopolis_title">Megalopolis</string>
+    <string name="happiness_general">Felicidade em geral</string>
+    <string name="notify_unhappy">As pessoas aqui estão infelizes por causa de %1$s.Você deve tentar melhorar as felicidades.</string>
+    <string name="draft_decoroad00_title">Aléia de árvores</string>
+    <string name="draft_rnk_city_big_title">Cidade grande</string>
+    <string name="draft_rnk_city_medium_title">Cidade média</string>
+    <string name="draft_rnk_city_large_title">Cidade grande</string>
+    <string name="draft_rnk_conurbation_title">Conurbação</string>
+    <string name="draft_rnk_city_small_title">Cidade pequena</string>
+    <string name="draft_rnk_isolateddwelling_title">Habitação isolada</string>
+    <string name="draft_rnk_hamlet_title">Vila</string>
+    <string name="rank_needed_people">Pelo menos %1$,d habitantes</string>
+    <string name="draft_rnk_village_small_title">Vila pequena</string>
+    <string name="draft_rnk_village_medium_title">Vila média</string>
+    <string name="draft_rnk_village_big_title">Vila grande</string>
+    <string name="draft_rnk_town_small_title">Cidade pequena</string>
+    <string name="draft_rnk_town_medium_title">Cidade média</string>
+    <string name="draft_rnk_town_large_title">Cidade média</string>
+    <string name="draft_rnk_town_big_title">Cidade grande</string>
+    <string name="draft_rnk_metropolis_title">Metrópolis</string>
+    <string name="draft_rnk_megalopolis_title">Megalópolis</string>
     <string name="draft_decoroad00_text">.</string>
-    <string name="settings_experimental">Experimental features</string>
-    <string name="about_thanks">Special thanks to</string>
-    <string name="about_community">And the rest of our community</string>
+    <string name="settings_experimental">Recursos experimentais</string>
+    <string name="about_thanks">Agradecimentos especiais para</string>
+    <string name="about_community">E o resto da nossa comunidade</string>
 </resources>
