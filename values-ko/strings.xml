@@ -688,7 +688,7 @@
     <string name="budget_railstation">기차역</string>
     <string name="draft_marker_ticketmarker_title">티켓</string>
     <string name="draft_marker_ticketmarker_text">티켓 만족도를 표시합니다.</string>
-    <string name="trainstationinfo_usage">사용됨: %1$.01f%%</string>
+    <string name="trainstationinfo_usage">대기자: %2$d/%3$d\n사용량: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">작은 소방서</string>
     <string name="draft_firedepartment01_text">화재를 막습니다.</string>
     <string name="draft_police01_title">작은 경찰서</string>
@@ -807,5 +807,8 @@
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="dialog_tosandbox_title">Sandbox mode</string>
     <string name="dialog_tosandbox_text">Convert city into sandbox mode?\n\nThis cannot be undone!</string>
+    <string name="requirement_rank">At least %1$s</string>
+    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
 
 </resources>
