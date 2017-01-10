@@ -683,7 +683,7 @@
     <string name="budget_railstation">Gares ferroviaires</string>
     <string name="draft_marker_ticketmarker_title">Tickets</string>
     <string name="draft_marker_ticketmarker_text">Affiche la distribution des tickets.</string>
-    <string name="trainstationinfo_usage">Utilisation: %1$.01f%%</string>
+    <string name="trainstationinfo_usage">En attente: %2$d/%3$d\nUtilisation: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Petite caserne de pompiers</string>
     <string name="draft_firedepartment01_text">Permet de lutter contre les incendies.</string>
     <string name="draft_police01_title">Petit poste de police</string>
@@ -727,7 +727,7 @@
     <string name="loadcity_author">_?</string>
     <string name="about_homepage">_?</string>
     <string name="app_name_premium">TheoTown Premium</string>
-    <string name="busstopinfo_title">_?</string>
+    <string name="busstopinfo_title">Bus stop</string>
     <string name="ci_general_authorname">_?</string>
     <string name="control_cancel">_?</string>
     <string name="control_ok">_?</string>
@@ -802,5 +802,8 @@
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="dialog_tosandbox_title">Sandbox mode</string>
     <string name="dialog_tosandbox_text">Convert city into sandbox mode?\n\nThis cannot be undone!</string>
+    <string name="requirement_rank">At least %1$s</string>
+    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
 
 </resources>

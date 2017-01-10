@@ -683,7 +683,7 @@
     <string name="budget_railstation">Zeleznicni stanice</string>
     <string name="draft_marker_ticketmarker_title">Listky</string>
     <string name="draft_marker_ticketmarker_text">Shows ticket satisfaction.</string>
-    <string name="trainstationinfo_usage">Usage: %1$.01f%%</string>
+    <string name="trainstationinfo_usage">Cekejte: %2$d/%3$d\nPouzito: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Small fire dep.</string>
     <string name="draft_firedepartment01_text">Against fire.</string>
     <string name="draft_police01_title">Small police dep.</string>
@@ -802,5 +802,8 @@
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="dialog_tosandbox_title">Sandbox mode</string>
     <string name="dialog_tosandbox_text">Convert city into sandbox mode?\n\nThis cannot be undone!</string>
+    <string name="requirement_rank">At least %1$s</string>
+    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
 
 </resources>
