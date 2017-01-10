@@ -684,7 +684,7 @@
     <string name="budget_railstation">Estaciones de tren</string>
     <string name="draft_marker_ticketmarker_title">Entradas</string>
     <string name="draft_marker_ticketmarker_text">Muestra la satisfacción del boleto.</string>
-    <string name="trainstationinfo_usage">Uso: %1$.01f%%</string>
+    <string name="trainstationinfo_usage">Esperando: %2$d/%3$d\nUsado: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Pequeño dep. de fuego.</string>
     <string name="draft_firedepartment01_text">Combate el fuego.</string>
     <string name="draft_police01_title">Pequeño dep. de policía.</string>
@@ -803,5 +803,8 @@
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="dialog_tosandbox_title">Modo sandbox</string>
     <string name="dialog_tosandbox_text">¿Convertir la ciudad en modo sandbox?\n\n¡Esto no se puede deshacer!</string>
+    <string name="requirement_rank">At least %1$s</string>
+    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
 
 </resources>

@@ -681,7 +681,7 @@
     <string name="budget_railstation">Bahnhöfe</string>
     <string name="draft_marker_ticketmarker_title">Tickets</string>
     <string name="draft_marker_ticketmarker_text">Zeigt Ticketzufriedenheit.</string>
-    <string name="trainstationinfo_usage">Auslastung: %1$.01f%%</string>
+    <string name="trainstationinfo_usage">Wartend: %2$d/%3$d\nAuslastung: %1$.1f%%</string>
     <string name="draft_police01_title">Kleine Polizeistat.</string>
     <string name="draft_firedepartment01_title">Kleine Feuerwehrstat.</string>
     <string name="draft_police01_text">Gibt Einwohnern  etwas Sicherheit und verringert Kriminalität.</string>
@@ -801,4 +801,7 @@
     <string name="dialog_tosandbox_title">Sandkastenmodus</string>
     <string name="dialog_tosandbox_text">Stadt im Sandkastenmodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
     <string name="dialog_tosandbox_cmdconvert">Sandkasten</string>
+    <string name="requirement_rank">Mindestens %1$s</string>
+    <string name="ca_bodydisposal_text">Beisetzungen: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Müllentsorgung: %1$,d/%2$,d</string>
 </resources>
