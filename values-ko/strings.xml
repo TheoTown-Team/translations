@@ -772,7 +772,7 @@
     <string name="control_continue">계속</string>
     <string name="settings_winter">겨울</string>
     <string name="notify_riot_noreason">아무런 이유없는 폭동입니다!</string>
-    <string name="notify_riot_reason"> 폭동이 %1s이 원인이 되어 일어났습니다!</string>
+    <string name="notify_riot_reason">" 폭동이 %1$s이 원인이 되어 일어났습니다!"</string>
     <string name="draft_marker_powermarker_title">에너지</string>
     <string name="draft_road04_text">나무가 있는 좋은 길입니다.</string>
     <string name="draft_marker_watermarker_title">수도</string>
@@ -784,7 +784,7 @@
     <string name="notify_unhappy">%1$s으로 인해 시민들이 불만을 표시합니다. 설치 혹은 제거를 통해 행복도를 높이세요.</string>
     <string name="draft_decoroad00_title">골목길</string>
     <string name="draft_rnk_city_big_title">살짝더 큰 도시</string>
-    <string name="draft_rnk_city_medium_title">중소도시</string>
+    <string name="draft_rnk_city_medium_title">City</string>
     <string name="draft_rnk_city_large_title">큰 도시</string>
     <string name="draft_rnk_conurbation_title">교외지방</string>
     <string name="draft_rnk_city_small_title">소도시</string>
@@ -792,10 +792,10 @@
     <string name="draft_rnk_hamlet_title">쬐끄만한 촌락</string>
     <string name="rank_needed_people"> %1$,d 명이 더 있어야 랭킹이 오릅니다.</string>
     <string name="draft_rnk_village_small_title">작디 작은 마을</string>
-    <string name="draft_rnk_village_medium_title">약간 커진 마을</string>
+    <string name="draft_rnk_village_medium_title">Village</string>
     <string name="draft_rnk_village_big_title">큰 마을</string>
     <string name="draft_rnk_town_small_title">어쨌건 도시</string>
-    <string name="draft_rnk_town_medium_title">중소도시</string>
+    <string name="draft_rnk_town_medium_title">Town</string>
     <string name="draft_rnk_town_large_title">대형도시</string>
     <string name="draft_rnk_town_big_title">큼지막한 도시</string>
     <string name="draft_rnk_metropolis_title">메트로폴리스</string>
@@ -810,5 +810,27 @@
     <string name="requirement_rank">At least %1$s</string>
     <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
+    <string name="draftselector_titledecoration">Decoration</string>
+    <string name="draftselector_titlewastedisposal">Waste disposal</string>
+    <string name="ci_rank_title">Ranks</string>
+    <string name="draft_cemetery00_title">Cemetery</string>
+    <string name="draft_crematory00_title">Crematorium</string>
+    <string name="draft_firedepartment02_heli00_title">Helipad</string>
+    <string name="draft_landfill00_title">Landfill</string>
+    <string name="draft_mltry_depot00_title">Depot</string>
+    <string name="draft_mltry_road00_title">Military Road</string>
+    <string name="draft_firedepartment02_title">Main fire station</string>
+    <string name="draft_mltry_rocketlauncher00_title">Rocket launcher</string>
+    <string name="draft_wasteincinerator00_title">Waste incinerator</string>
+    <string name="rank_title">New city rank</string>
+    <string name="rank_reward">You get %1$s as reward.</string>
+    <string name="rank_newrank">Congratulations, your city %1$s reached a new rank:</string>
+    <string name="rank_available">Now available:</string>
+    <string name="draftselector_titlemilitary">Military</string>
+    <string name="draft_zonemilitary_title">Military Area</string>
+    <string name="draft_mltry_tankbase00_title">Tank Base</string>
+    <string name="draft_mltry_hq00_title">Headquarters</string>
+    <string name="draft_mltry_baracks00_title">Baracks</string>
+    <string name="draft_firedepartment02_heli00_text">Helicopters may land and start here.\n\nIncreses the range of the fire department.</string>
 
 </resources>
