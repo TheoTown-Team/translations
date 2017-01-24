@@ -12,7 +12,7 @@
 <string name="about_thanks">Особое спасибо</string>
 <string name="about_title">Создатели</string>
 <string name="about_translation">Перевод</string>
-<string name="app_name">TheoTown (Русская)</string>
+<string name="app_name">TheoTown</string>
 <string name="app_name_premium">TheoTown Премиум</string>
 <string name="blank_text">Здесь будет твоя реклама</string>
 <string name="budget_award">Награды</string>
@@ -67,9 +67,9 @@
 <string name="busstopinfo_title">Автобусная остановка</string>
 <string name="busstopinfo_usage">"Ожидание: %2$d/%3$d
 Использовано: %1$.1f%%"</string>
-<string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
+<string name="ca_bodydisposal_text">Похорон: %1$,d/%2$,d</string>
 <string name="ca_education_high_text">Высшее образование: %1$,d/%2$,d учеников</string>
-<string name="ca_education_low_text">Низшее образование: %1$,d/%2$,d учеников</string>
+<string name="ca_education_low_text">Низкое образование: %1$,d/%2$,d учеников</string>
 <string name="ca_health_text">Забота о здоровье: %1$,d/%2$,d пациентов</string>
 <string name="ca_wastedisposal_text">Утилизация мусора: %1$,d/%2$,d</string>
 <string name="ci_budget_income">Прибыль (за месяц)</string>
@@ -81,7 +81,7 @@
 <string name="ci_budget_title">Финансы</string>
 <string name="ci_budget_title_nomoney">Финансы (теоретически)</string>
 <string name="ci_education_high">Высшее образование</string>
-<string name="ci_education_low">Низшее образование</string>
+<string name="ci_education_low">Низкое образование</string>
 <string name="ci_education_needed">Требуется: %1$,d</string>
 <string name="ci_education_provided">Производится: %1$,d</string>
 <string name="ci_education_reached">Достигнуто: %1$,d</string>
@@ -121,7 +121,7 @@
 <string name="ci_loan_remaining_runtime">Оставшееся время: %2$d месяц(ев), %1$d день(ей)</string>
 <string name="ci_loan_title">Займ</string>
 <string name="ci_not_available">Отсутствует информация</string>
-<string name="ci_rank_title">Ранки</string>
+<string name="ci_rank_title">Звания</string>
 <string name="ci_rating_title">Рейтинг</string>
 <string name="ci_rci_com0">Ком $</string>
 <string name="ci_rci_com1">Ком $$</string>
@@ -343,7 +343,7 @@
 <string name="draft_middlepark00_title">Средний парк</string>
 <string name="draft_mltry_baracks00_title">Бараки</string>
 <string name="draft_mltry_depot00_title">Депо</string>
-<string name="draft_mltry_hq00_title">Headquarters</string>
+<string name="draft_mltry_hq00_title">Главное управление</string>
 <string name="draft_mltry_road00_title">Военная дорога</string>
 <string name="draft_mltry_rocketlauncher00_title">Ракетная установка</string>
 <string name="draft_mltry_tankbase00_title">Танковая база</string>
@@ -401,7 +401,7 @@
 <string name="draft_railwaystation00_title">Ж/Д станция</string>
 <string name="draft_rnk_city_big_title">Большой город</string>
 <string name="draft_rnk_city_large_title">Огромный город</string>
-<string name="draft_rnk_city_medium_title">Средний город</string>
+<string name="draft_rnk_city_medium_title">Город</string>
 <string name="draft_rnk_city_small_title">Маленький город</string>
 <string name="draft_rnk_conurbation_title">Конурбация</string>
 <string name="draft_rnk_hamlet_title">Поселок</string>
@@ -410,10 +410,10 @@
 <string name="draft_rnk_metropolis_title">Метрополис</string>
 <string name="draft_rnk_town_big_title">Большой пригород</string>
 <string name="draft_rnk_town_large_title">Огромный пригород</string>
-<string name="draft_rnk_town_medium_title">Средний пригрод</string>
+<string name="draft_rnk_town_medium_title">Пригрод</string>
 <string name="draft_rnk_town_small_title">Маленький пригород</string>
 <string name="draft_rnk_village_big_title">Большая деревня</string>
-<string name="draft_rnk_village_medium_title">Средняя деревня</string>
+<string name="draft_rnk_village_medium_title">Деревня</string>
 <string name="draft_rnk_village_small_title">Маленькая деревня</string>
 <string name="draft_road00_text">Просто грязевая дорога.</string>
 <string name="draft_road00_title">Грязевая дорога</string>
@@ -520,7 +520,7 @@
 <string name="draftselector_titlemilitary">Военные</string>
 <string name="draftselector_titleparks">Парки</string>
 <string name="draftselector_titlepolice">Полиция</string>
-<string name="draftselector_titlepublics">Парламенты</string>
+<string name="draftselector_titlepublics">Общественные</string>
 <string name="draftselector_titlerawbuilding">Все здания</string>
 <string name="draftselector_titlereligion">Религия</string>
 <string name="draftselector_titleremove">Убрать</string>
@@ -558,7 +558,7 @@
 <string name="happiness_general">Генеральное счастье</string>
 <string name="happiness_health">Здоровье</string>
 <string name="happiness_level">Уровень</string>
-<string name="happiness_management">Памятник</string>
+<string name="happiness_management">Управление</string>
 <string name="happiness_noise">Шум</string>
 <string name="happiness_park">Парк</string>
 <string name="happiness_police">Полиция</string>
@@ -566,7 +566,7 @@
 <string name="happiness_religion">Религия</string>
 <string name="happiness_road">Дорога</string>
 <string name="happiness_sport">Спорт</string>
-<string name="happiness_supply">Supply</string>
+<string name="happiness_supply">Поставка</string>
 <string name="happiness_taxes">Налоги</string>
 <string name="happiness_transportation">Перевозка</string>
 <string name="happiness_water">Вода</string>
@@ -575,19 +575,19 @@
 <string name="influence_culture_title">Культура</string>
 <string name="influence_education_high_text">Высшее образование получают в высшей школе.</string>
 <string name="influence_education_high_title">Высшее образование</string>
-<string name="influence_education_low_text">Школы обеспечивают низшее образование.</string>
-<string name="influence_education_low_title">Низшее образование</string>
+<string name="influence_education_low_text">Школы обеспечивают низкое образование.</string>
+<string name="influence_education_low_title">Низкое образование</string>
 <string name="influence_firedep_text">Зона от пожарной части снижает вероятность пожара.</string>
 <string name="influence_firedep_title">Пожарные</string>
 <string name="influence_health_text">Доктора помогают жителям быть здоровыми.</string>
 <string name="influence_health_title">Здоровье</string>
 <string name="influence_management_text">Контролирует твой город.</string>
-<string name="influence_management_title">Памятник</string>
+<string name="influence_management_title">Управление</string>
 <string name="influence_noise_text">Никто не хочет жить в шумной области.</string>
 <string name="influence_noise_title">Шум</string>
 <string name="influence_park_text">Делает жителей счастливыми и улучшает строительство.</string>
 <string name="influence_park_title">Парк</string>
-<string name="influence_police_text">Останавливает криминал.</string>
+<string name="influence_police_text">Останавливает приступников.</string>
 <string name="influence_police_title">Полиция</string>
 <string name="influence_pollution_text">Никто не хочет жить в загрязненной области.</string>
 <string name="influence_pollution_title">Загрязнение</string>
@@ -617,7 +617,7 @@
 <string name="loadcity_memdialog_title">Нет доступа к карте памяти</string>
 <string name="loadcity_preview">Обычный город</string>
 <string name="loadcity_title">Загрузка города</string>
-<string name="loadcity_version">Версия %1$d (Русская)</string>
+<string name="loadcity_version">Версия %1$d</string>
 <string name="loadcity_version_premium">Версия %1$d (Премиум)</string>
 <string name="loadwaiting_title">Загрузка города</string>
 <string name="locale">ен</string>
@@ -626,13 +626,13 @@
 <string name="money">%1$,d$</string>
 <string name="notify_bad_health">Слабое здоровье. Ты должен улучшить окружающую среду или построить больницу.</string>
 <string name="notify_citysize">Поздравляем, твой город вырос до %1$,d жителей!</string>
-<string name="notify_crime">Криминал здесь. Ты должен построить полицейский участок или увеличить счастье.</string>
+<string name="notify_crime">Преступники здесь. Ты должен построить полицейский участок или увеличить счастье.</string>
 <string name="notify_demonstration">Этот протест потому что проблемы с %1s! Сделай что-то или случится что нибудь плохое!</string>
-<string name="notify_fire">Пожар! Отправь пожарных чтобы его потушить. Также построй больше пожарных департаментов.</string>
-<string name="notify_firenodp">В городе пожар! Построй пожарный департамент и потушить его.</string>
+<string name="notify_fire">Пожар! Отправь пожарных чтобы его потушить. Также построй больше пожарных участков.</string>
+<string name="notify_firenodp">В городе пожар! Построй пожарный участок и потуши его.</string>
 <string name="notify_lowbudget">Кончились деньги. Ты можешь взять займы.</string>
 <string name="notify_nocomzone">Построй коммерческую зону и в твоём городе появится коммерция.</string>
-<string name="notify_noenergy">Тут здание без воды!</string>
+<string name="notify_noenergy">Тут здание без энергии!</string>
 <string name="notify_noindzone">Индустрия может быть построена в городе, но тебе нужна индустриальная зона в городе.</string>
 <string name="notify_noise">Слишком шумно!</string>
 <string name="notify_noreszone">Люди хотят жить в твоём городе. Построй жилищную зону.</string>
@@ -656,9 +656,9 @@
 <string name="population_unit">%1$,d</string>
 <string name="rank_available">Сейчас доступно:</string>
 <string name="rank_needed_people">Не меньше %1$,d жителей</string>
-<string name="rank_newrank">Поздравляем, твой город %1$s достиг нового ранка:</string>
+<string name="rank_newrank">Поздравляем, твой город %1$s достиг нового звания:</string>
 <string name="rank_reward">Ты получил %1$s как награду.</string>
-<string name="rank_title">Новый ранк города</string>
+<string name="rank_title">Новое звание города</string>
 <string name="requirement_building">Нужно: %1$s</string>
 <string name="requirement_peoplecount_all">Нужно: Популяция %1$,d</string>
 <string name="requirement_peoplecount_middle">Нужно: Популяция средних жителей %1$,d</string>
@@ -674,7 +674,7 @@
 <string name="settings_auto_road_for_zones">Строить дороги автоматически</string>
 <string name="settings_autorestoresamples">Удалить города</string>
 <string name="settings_autountouchable">Делать свои здания неприкасаемыми</string>
-<string name="settings_blur">Свечение</string>
+<string name="settings_blur">Размытие</string>
 <string name="settings_buildgrid">Сетка в режиме строительства</string>
 <string name="settings_carsimulation">Симуляция машин</string>
 <string name="settings_category_audio">Аудио</string>
@@ -688,7 +688,7 @@
 <string name="settings_disaster_earthquake">Землетрясение</string>
 <string name="settings_disaster_fire">Пожар</string>
 <string name="settings_disaster_flooding">Наводнение</string>
-<string name="settings_disaster_godzilla">Годзилла :)</string>
+<string name="settings_disaster_godzilla">Годзилла</string>
 <string name="settings_disaster_illness">Эпидемия</string>
 <string name="settings_disaster_meteorite">Метеорит</string>
 <string name="settings_disaster_nuke">Атомный взрыв</string>
@@ -730,7 +730,7 @@
 <string name="settings_shadertype_fancy">Замечательные</string>
 <string name="settings_shadertype_normal">Нормальные</string>
 <string name="settings_shadertype_xfancy">Сверх замечательные</string>
-<string name="settings_showads">Показать рекламу</string>
+<string name="settings_showads">Показывать рекламу</string>
 <string name="settings_showinfluencepreview">Показать список покрытий</string>
 <string name="settings_sound_game">Игровые звуки</string>
 <string name="settings_sound_ui">Звуки устройства</string>
@@ -760,7 +760,7 @@
 <string name="topic_big">Создай большой город</string>
 <string name="topic_birthday_lobby">С днём рождения Lobby :)</string>
 <string name="topic_birthday_lucasking">С днём рождения Lucas!</string>
-<string name="topic_birthday_phoenix">С днём рождения феникс!</string>
+<string name="topic_birthday_phoenix">С днём рождения phoenix!</string>
 <string name="topic_birthday_theo">С днём рождения theo :)</string>
 <string name="topic_birthday_theotown">С днём рождения TheoTown :D</string>
 <string name="topic_cake">Торт это ложь!</string>
