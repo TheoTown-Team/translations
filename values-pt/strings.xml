@@ -23,8 +23,8 @@
     <string name="createcity_sizemiddle">Médio</string>
     <string name="createcity_sizebig">Grande</string>
     <string name="createcity_sizeother">Outros</string>
-    <string name="game_monthlyincome">%1$,+d$</string>
-    <string name="game_estate">Estado: %1$,d$</string>
+    <string name="game_monthlyincome">%1$,+dͲ</string>
+    <string name="game_estate">Estado: %1$,dͲ</string>
     <string name="game_rating">Avaliação: %1$d</string>
     <string name="settings_resolutionlowlow">Muito baixo</string>
     <string name="settings_resolutionlow">Baixo</string>
@@ -67,8 +67,8 @@
     <string name="draftselector_titlepolice">Polícia</string>
     <string name="draftselector_titlefiredepartment">Departamento de Bombeiros</string>
     <string name="draftselector_cmdbuild">Construir</string>
-    <string name="draftselector_price">Preço: %1$,d$</string>
-    <string name="draftselector_monthlyprice">Preço mensal: %1$,d$</string>
+    <string name="draftselector_price">Preço: %1$,dͲ</string>
+    <string name="draftselector_monthlyprice">Preço mensal: %1$,dͲ</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Deletar</string>
     <string name="loadcity_deletedialog_text">Deseja realmente excluir?</string>
@@ -187,15 +187,15 @@
     </string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Finanças</string>
-    <string name="budget_res0">Residenciais $ (%1$,d)</string>
-    <string name="budget_res1">Residenciais $$ (%1$,d)</string>
-    <string name="budget_res2">Residenciais $$$ (%1$,d)</string>
-    <string name="budget_com0">Comerciais $ (%1$,d)</string>
-    <string name="budget_com1">Comerciais $$ (%1$,d)</string>
-    <string name="budget_com2">Comerciais $$$ (%1$,d)</string>
-    <string name="budget_ind0">Industriais $ (%1$,d)</string>
-    <string name="budget_ind1">Industriais $$ (%1$,d)</string>
-    <string name="budget_ind2">Industriais $$$ (%1$,d)</string>
+    <string name="budget_res0">Residenciais Ͳ (%1$,d)</string>
+    <string name="budget_res1">Residenciais ͲͲ (%1$,d)</string>
+    <string name="budget_res2">Residenciais ͲͲͲ (%1$,d)</string>
+    <string name="budget_com0">Comerciais Ͳ (%1$,d)</string>
+    <string name="budget_com1">Comerciais ͲͲ (%1$,d)</string>
+    <string name="budget_com2">Comerciais ͲͲͲ (%1$,d)</string>
+    <string name="budget_ind0">Industriais Ͳ (%1$,d)</string>
+    <string name="budget_ind1">Industriais ͲͲ (%1$,d)</string>
+    <string name="budget_ind2">Industriais ͲͲͲ (%1$,d)</string>
     <string name="budget_park">Parques</string>
     <string name="budget_education">Educação</string>
     <string name="budget_firebrigade">Corpo de bombeiros</string>
@@ -209,7 +209,7 @@
     <string name="ci_budget_income">Renda (por mês)</string>
     <string name="ci_budget_spending">Gastos (por mês)</string>
     <string name="ci_budget_taxes">Taxas</string>
-    <string name="money">%1$,d$</string>
+    <string name="money">%1$,dͲ</string>
     <string name="ci_water_title">Água</string>
     <string name="ci_energy_title">Energia</string>
     <string name="ci_info_title">Visão da cidade</string>
@@ -239,22 +239,22 @@
     <string name="notify_citysize">
     Parabéns, sua cidade excede o tamanho de %1$,d habitantes!
     </string>
-    <string name="game_placedprice">%1$,d$</string>
+    <string name="game_placedprice">%1$,dͲ</string>
     <string name="draft_waterfountain01_title">Fonte de agua</string>
     <string name="draft_waterfountain01_text">Habitantes vão gostar.</string>
     <string name="draft_treepark01_title">Parque de árvore</string>
     <string name="draft_treepark01_text">
     Um pequeno parque com árvores. Seus habitantes vão gostar.
     </string>
-    <string name="buildinginfo_res0">Residencial $</string>
-    <string name="buildinginfo_com0">Comercial $</string>
-    <string name="buildinginfo_ind0">Industrial $</string>
-    <string name="buildinginfo_res1">Residencial $$</string>
-    <string name="buildinginfo_res2">Residencial $$$</string>
-    <string name="buildinginfo_com1">Comercial $$</string>
-    <string name="buildinginfo_com2">Comercial $$$</string>
-    <string name="buildinginfo_ind1">Industrial $$</string>
-    <string name="buildinginfo_ind2">Industrial $$$</string>
+    <string name="buildinginfo_res0">Residencial Ͳ</string>
+    <string name="buildinginfo_com0">Comercial Ͳ</string>
+    <string name="buildinginfo_ind0">Industrial Ͳ</string>
+    <string name="buildinginfo_res1">Residencial ͲͲ</string>
+    <string name="buildinginfo_res2">Residencial ͲͲͲ</string>
+    <string name="buildinginfo_com1">Comercial ͲͲ</string>
+    <string name="buildinginfo_com2">Comercial ͲͲͲ</string>
+    <string name="buildinginfo_ind1">Industrial ͲͲ</string>
+    <string name="buildinginfo_ind2">Industrial ͲͲͲ</string>
     <string name="buildinginfo_habitants">Habitantes: %1$d/%2$d</string>
     <string name="buildinginfo_worker">Trabalhadores: %1$d/%2$d</string>
     <string name="topic_giveup">Nunca desista</string>
@@ -332,18 +332,18 @@
     <string name="ci_budget_overallincome">Rendimento gerais</string>
     <string name="ci_budget_overallspending">Despesas gerais</string>
     <string name="ci_rci_title">Demandas</string>
-    <string name="ci_rci_res0">Res $</string>
-    <string name="ci_rci_res1">Res $$</string>
-    <string name="ci_rci_res2">Res $$$</string>
-    <string name="ci_rci_com0">Com $</string>
-    <string name="ci_rci_com1">Com $$</string>
-    <string name="ci_rci_com2">Com $$$</string>
-    <string name="ci_rci_ind0">Ind $</string>
-    <string name="ci_rci_ind1">Ind $$</string>
-    <string name="ci_rci_ind2">Ind $$$</string>
-    <string name="ci_general_population0">Habitantes Pobres ($): %1$,d</string>
-    <string name="ci_general_population1">Habitantes Médios ($$): %1$,d</string>
-    <string name="ci_general_population2">Habitantes Ricos ($$$): %1$,d</string>
+    <string name="ci_rci_res0">Res Ͳ</string>
+    <string name="ci_rci_res1">Res ͲͲ</string>
+    <string name="ci_rci_res2">Res ͲͲͲ</string>
+    <string name="ci_rci_com0">Com Ͳ</string>
+    <string name="ci_rci_com1">Com ͲͲ</string>
+    <string name="ci_rci_com2">Com ͲͲͲ</string>
+    <string name="ci_rci_ind0">Ind Ͳ</string>
+    <string name="ci_rci_ind1">Ind ͲͲ</string>
+    <string name="ci_rci_ind2">Ind ͲͲͲ</string>
+    <string name="ci_general_population0">Habitantes Pobres (Ͳ): %1$,d</string>
+    <string name="ci_general_population1">Habitantes Médios (ͲͲ): %1$,d</string>
+    <string name="ci_general_population2">Habitantes Ricos (ͲͲͲ): %1$,d</string>
     <string name="draft_footballfield00_title">Campo de futebol</string>
     <string name="draft_footballfield00_text">Um campo de futebol vai fazer seus habitantes felizes.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
@@ -579,7 +579,7 @@
     <string name="ci_loan_get">Levantar</string>
     <string name="ci_loan_donate_text">Por favor, me dê um centavo, eu preciso tanto :(</string>
     <string name="ci_loan_get_text">
-    Empréstimo padrão, 10,000$ \nIntervalo de tempo: 24 mêses \nCusto mensal: 500$
+    Empréstimo padrão, 10,000Ͳ \nIntervalo de tempo: 24 mêses \nCusto mensal: 500$
     </string>
     <string name="draft_crater4x4_title">Cratera de meteorito</string>
     <string name="draft_crater4x4_text">Uma grande cratera de meteorito. Você deve removê-lo.</string>
@@ -591,11 +591,11 @@
     <string name="disaster_nuke_cmdtext">Experimente</string>
     <string name="budget_loans">Empréstimo</string>
     <string name="ci_loan_loanlist">
-    Empréstimos ativos (total %1$,d$ in %2$,d/%3$,d empréstimos):
+    Empréstimos ativos (total %1$,dͲ in %2$,d/%3$,d empréstimos):
     </string>
     <string name="ci_loan_remaining_runtime">Tempo restante: %2$d mês(es), %1$d dia(s)</string>
-    <string name="ci_loan_paybackcost">Pagar o preço: %1$,d$</string>
-    <string name="ci_loan_estate">Estado: %1$,d$</string>
+    <string name="ci_loan_paybackcost">Pagar o preço: %1$,dͲ</string>
+    <string name="ci_loan_estate">Estado: %1$,dͲ</string>
     <string name="topic_support_ads">Você pode nos apoiar, tocando em anúncios:)</string>
     <string name="settings_disaster_tornado">Tornado</string>
     <string name="disaster_tornado_title">Tornado</string>
@@ -964,4 +964,24 @@
     <string name="draft_feature_tourism00_title">Tourism package</string>
     <string name="draft_feature_premium00_title">Premium</string>
     <string name="features_money">Get %1$s ingame for %2$s</string>
+    <string name="features_getrank">Get rank now %1$s</string>
+    <string name="settings_hide_rank_features">Hide rank upgrades</string>
+    <string name="draftselector_titleairport">Airport</string>
+    <string name="disaster_ufo_title">Ufo</string>
+    <string name="disaster_ufo_text">An UFO attacks your city!</string>
+    <string name="disaster_ufo_cmdtext">Set target</string>
+    <string name="topic_theons">We have a new currency: Theons Ͳ</string>
+    <string name="topic_wip">Work in progress. Do not cross the line.</string>
+    <string name="topic_belong">Your cities belong to us >:D</string>
+    <string name="topic_love">All you need is love</string>
+    <string name="topic_build">I will build my own city with skyscrapers and parks</string>
+    <string name="topic_news">Good news everyone!</string>
+    <string name="topic_welcome">Welcome back :)</string>
+    <string name="topic_spoon">There is no spoon</string>
+    <string name="topic_relax">Relax, it\'s just a game</string>
+    <string name="topic_cats">Cats are so sweeeet</string>
+    <string name="topic_force">May the Force be with you</string>
+    <string name="topic_plugins">We now have plugins</string>
+    <string name="topic_page">Visit us at www.theotown.de</string>
+    <string name="topic_habitants">You may reach 700,000</string>
 </resources>
