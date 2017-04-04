@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Podešavanja</string>
@@ -368,7 +367,7 @@
     <string name="draftselector_cmdalert">Kreni!</string>
     <string name="draft_alert_police00_title">Pozovi policiju</string>
     <string name="draft_alert_police00_text">Pozovi policiju da zaustaviš kriminalce.</string>
-    <string name="draft_alert_fire00_title">Pozovi vatrogasnu brigadu</string>
+    <string name="draft_alert_fire00_title">Pozovi vatro. brigadu</string>
     <string name="draft_alert_fire00_text">Pozovi vatrogasnu brigadu ako nešto gori.</string>
     <string name="draft_alert_medic00_title">Pozovi Doktora</string>
     <string name="draft_alert_medic00_text">Kada se desi neka nesreća, moraš da pozoveš Doktora.</string>
@@ -465,7 +464,7 @@
     <string name="draft_road03_text">Auti će voziti samo u jednom pravcu na ovom putu. Koristi ga da kontrolišeš saobraćaj.</string>
     <string name="budget_sports">Sport</string>
     <string name="budget_religion">Religija</string>
-    <string name="population_unit">%1$,d</string>
+    <string name="population_unit">%1$,d</string> 
     <string name="draftselector_titlecatastrophes">Katastrofe</string>
     <string name="settings_category_disasters">Katastrofe</string>
     <string name="settings_disaster_fire">Vatra</string>
@@ -911,7 +910,7 @@
     <string name="dialog_present_cmdad">Udvostruči</string>
     <string name="dialog_connectroad_title">Poveži se sa komšijom</string>
     <string name="dialog_connectroad_text">Da li želiš da povežeš ovaj put sa ostalim gradovima?</string>
-    <string name="settings_autosave">Automacko</string>
+    <string name="settings_autosave">Automatsko čuvanje</string>
     <string name="region_unlock">Otključaj</string>
     <string name="dialog_unlockcity_title">Otključaj</string>
     <string name="dialog_unlockcity_text">Da li želiš da otključaš ovu oblast da bi napravio novi grad ovde?</string>
@@ -937,24 +936,24 @@
     <string name="task_reachrank_title">Novi rang</string>
     <string name="task_reachrank_text">Čestitam, tvoj grad je dostigao novi rang.\n\nSvaki rang otključava nove građevine i dobijaš nagradu.</string>
     <string name="welcome_sorry_title">Vesti</string>
-    <string name="welcome_sorry_text">Dragi igrače,\n\nMi smo nedavno napravi mnogo promeni u TheoTown-u. Nažalost, ovo nebi bilo moguće da nismo dodali novu valutu i izmene u dinamici koje će možda pokvariti neke stare gradove.\n\nNadamo se da razumeš. Imamo mali poklon kao zahvalu.</string>
+    <string name="welcome_sorry_text">Dragi igrače,\n\nMi smo nedavno napravili mnogo promeni u TheoTown-u. Nažalost, ovo nebi bilo moguće da nismo dodali novu valutu i izmene u dinamici koje će možda pokvariti neke stare gradove.\n\nNadamo se da razumeš. Imamo mali poklon kao zahvalu.</string>
     <string name="menu_achievements">Dostignuća</string>
     <string name="menu_leaderboards">Tabele</string>
     <string name="menu_screenshot">Slikaj</string>
     <string name="menu_mapscreenshot">Slikaj mapu</string>
     <string name="menu_save">Sačuvaj</string>
     <string name="menu_title">Meni</string>
-    <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$d maps at once.</string>
-    <string name="dialog_unlocktime_title">Shorten time</string>
-    <string name="dialog_unlocktime_text">It\'s a lot of work to unlock a map. May you want us to support us? This can reduce unlocking time by 30 minutes.</string>
-    <string name="region_speedup">Speed up</string>
-    <string name="region_waitingtime">We currently unlock this map for you.</string>
-    <string name="settings_autoload">Auto load last city</string>
-    <string name="dialog_renameregion_title">Rename region</string>
-    <string name="dialog_renameregion_text">Enter here a new name for the region:</string>
-    <string name="shop_diamonds">%1$,d diamonds for %2$s</string>
-    <string name="draft_townhall02_title">Big cityhall</string>
-    <string name="draft_townhall02_text">A big city hall for a big city. It\'s a thank you for 1 M downloads.</string>
+    <string name="region_maxconcurrentunlocks">Ne možeš da otključaš više od %1$d mapi odjednom.</string>
+    <string name="dialog_unlocktime_title">Skrati vreme</string>
+    <string name="dialog_unlocktime_text">Potrebno je mnogo rada da se otključa mapa. Da li želiš da nas podržiš? Ovo će skratiti vreme otključavanja za 30 minuta.</string>
+    <string name="region_speedup">Ubrzaj</string>
+    <string name="region_waitingtime">Otključali smo ovu mapu za tebe.</string>
+    <string name="settings_autoload">Automatski učitaj prošli grad</string>
+    <string name="dialog_renameregion_title">Preimenuj region</string>
+    <string name="dialog_renameregion_text">Unesi novo ime za ovaj region.</string>
+    <string name="shop_diamonds">%1$,d dijamanata za %2$s</string>
+    <string name="draft_townhall02_title">Velika Grad. Skup.</string>
+    <string name="draft_townhall02_text">Velika Gradska Skupština za veliki grad. Hvala za 1 M preuzimanja.</string>
     <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
     <string name="notify_destroyedtiles">We better dispose of this rubbish before someone notices it.</string>
     <string name="notify_loweducationneeded">I think it\'s time to give our children some education. Build an elementary school.</string>
