@@ -68,8 +68,8 @@
 <string name="busstopinfo_usage">"Ожидание: %2$d/%3$d
 Использовано: %1$.1f%%"</string>
 <string name="ca_bodydisposal_text">Похорон: %1$,d/%2$,d</string>
-<string name="ca_education_high_text">Высшее образование: %1$,d/%2$,d учеников</string>
-<string name="ca_education_low_text">Низкое образование: %1$,d/%2$,d учеников</string>
+<string name="ca_education_high_text">Среднее образование: %1$,d/%2$,d учеников</string>
+<string name="ca_education_low_text">Начальное образование: %1$,d/%2$,d учеников</string>
 <string name="ca_health_text">Здравохранение: %1$,d/%2$,d пациентов</string>
 <string name="ca_wastedisposal_text">Утилизация мусора: %1$,d/%2$,d</string>
 <string name="ci_budget_income">Прибыль (за месяц)</string>
@@ -80,8 +80,8 @@
 <string name="ci_budget_taxes">Налоги</string>
 <string name="ci_budget_title">Финансы</string>
 <string name="ci_budget_title_nomoney">Финансы (теоретически)</string>
-<string name="ci_education_high">Высшее образование</string>
-<string name="ci_education_low">Низкое образование</string>
+<string name="ci_education_high">Среднее образование</string>
+<string name="ci_education_low">Начальное образование</string>
 <string name="ci_education_needed">Требуется: %1$,d</string>
 <string name="ci_education_provided">Производится: %1$,d</string>
 <string name="ci_education_reached">Достигнуто: %1$,d</string>
@@ -428,9 +428,9 @@
 <string name="draft_road05_text">Превосходная дорога для соединения дальних зон.</string>
 <string name="draft_road05_title">Шоссе</string>
 <string name="draft_school00_text">Место, где учатся дети.</string>
-<string name="draft_school00_title">Средняя школа</string>
+<string name="draft_school00_title">Начальная школа</string>
 <string name="draft_school01_text">Место где учатся студенты.</string>
-<string name="draft_school01_title">Высшая школа</string>
+<string name="draft_school01_title">Средняя школа</string>
 <string name="draft_school02_text">Маленькая школа для небольших городов.</string>
 <string name="draft_school02_title">Маленькая школа</string>
 <string name="draft_sewerpipe00_text">Сливает грязную воду в землю. Очень загрязняет окружающую среду.</string>
@@ -569,10 +569,10 @@
 <string name="happiness_zone">Зона</string>
 <string name="influence_culture_text">Культурный уровень твоего города.</string>
 <string name="influence_culture_title">Культура</string>
-<string name="influence_education_high_text">Высшее образование получают в высшей школе.</string>
-<string name="influence_education_high_title">Высшее образование</string>
-<string name="influence_education_low_text">Школы обеспечивают низкое образование.</string>
-<string name="influence_education_low_title">Низкое образование</string>
+<string name="influence_education_high_text">Среднее образование получают в средней школе.</string>
+<string name="influence_education_high_title">Среднее образование</string>
+<string name="influence_education_low_text">Школы обеспечивают начальное образование.</string>
+<string name="influence_education_low_title">Начальное образование</string>
 <string name="influence_firedep_text">Зона от пожарной части снижает вероятность пожара.</string>
 <string name="influence_firedep_title">Пожарные</string>
 <string name="influence_health_text">Доктора помогают жителям быть здоровыми.</string>
@@ -641,9 +641,9 @@
 <string name="notify_requirementbuilding">Ты открыл %1$s.</string>
 <string name="notify_requirementupgrade">Поздравляем, ты открыл улучшение %1$s для здания %2$s!</string>
 <string name="notify_riot_noreason">Здесь бунт!</string>
-<string name="notify_riot_reason">Здесь бунт потому что проблемы с %1s!</string>
+<string name="notify_riot_reason">Здесь бунт потому что хотят %1s!</string>
 <string name="notify_sport">Мы хотим больше спорта.</string>
-<string name="notify_unhappy">Люди несчастны потому что проблемы с %1$s. Помоги им.</string>
+<string name="notify_unhappy">Люди несчастны потому что хотят %1$s. Помоги им.</string>
 <string name="notify_water_low">У тебя осталось мало воды. Может быть тебе построить новые водокачки?</string>
 <string name="notify_water_waste">Грязная вода здесь!</string>
 <string name="notify_welcome">Эй, добро пожаловать в %1$s.</string>
@@ -793,7 +793,7 @@
 <string name="tutorial_buildenergy_a">Давай построим солнечную панель.</string>
 <string name="tutorial_buildenergy_b">Размести в отмеченных клетках.</string>
 <string name="tutorial_buildenergy_c">Великолепно!</string>
-<string name="tutorial_buildindustrial_a">Теперь создай индустриальн ую зону. Тут будут строиться фабрики.</string>
+<string name="tutorial_buildindustrial_a">Теперь создай индустриальную зону. Тут будут строиться фабрики.</string>
 <string name="tutorial_buildindustrial_b">Размести зону в отмеченных клетках.</string>
 <string name="tutorial_buildindustrial_c">Неплохо. Сейчас здания начнут строиться.</string>
 <string name="tutorial_buildpipe_a">Водонапорная башня одна не справится. Тебе нужны трубы чтобы провести воду.</string>
@@ -885,8 +885,8 @@
     <string name="control_auto">Авто</string>
     <string name="control_on">Включить</string>
     <string name="control_off">Выключить</string>
-    <string name="draft_school03_title">Большая высшая школа</string>
-    <string name="draft_school03_text">Большая высшая школа для большего количества студентов.</string>
+    <string name="draft_school03_title">Большая средняя школа</string>
+    <string name="draft_school03_text">Большая средняя школа для большого количества студентов.</string>
     <string name="gamemode_sandbox_desc">Используйте этот игровой режим, чтобы играть без денег. Не имеет званий и некоторых достижений.</string>
     <string name="gamemode_easy_desc">В этом игровом режиме вы начинаете с большим колличеством денег, и это в целом облегчает игру.</string>
     <string name="gamemode_middle_desc">Режим игры по умолчанию. Вы начинаете с хорошим колличеством денег и это не должно усложнить строительство города вашей мечты.</string>
@@ -964,14 +964,14 @@
     <string name="notify_pollutedwaterpump">Этот водяной насос находится в загрязненной зоне. Лучше поместите его в другое место, чтобы вода оставалась чистой.</string>
     <string name="notify_destroyedtiles">Вам лучше избавиться от этого мусора, прежде чем кто-нибудь его заметит.</string>
     <string name="notify_loweducationneeded">Я думаю, что пришло время дать вашим детям образование. Постройте начальную школу.</string>
-    <string name="notify_higheducationneeded">Давайте получим гениев, построив среднюю школу.</string>
-    <string name="dialog_ffwd1_text">Allows you to use faster game speed for %1$s.</string>
-    <string name="notify_badtraffic">There\'s too much traffic on this road. I recommend to build more or better roads.</string>
-    <string name="dialog_wb_title">Welcome back</string>
-    <string name="dialog_wb_text">%1$s earned %2$s while you were absent.</string>
-    <string name="notify_fullschool">This school is full. Build more of them, please.</string>
-    <string name="dialog_notenoughmoney_title">Not enough money</string>
-    <string name="dialog_notenoughmoney_text">We have not enough money to buy this.\n\nDo you want to get the missing %1$s immediately?</string>
-    <string name="notify_fullhospital">There\'s not enough space in this hospital. We have to build another one.</string>
+    <string name="notify_higheducationneeded">Давайте обучим студентов, постройте среднюю школу.</string>
+    <string name="dialog_ffwd1_text">Позволяет использовать более высокую скорость игры для %1$s.</string>
+    <string name="notify_badtraffic">На этой дороге слишком много трафика. Я рекомендую строить больше или лучше дороги.</string>
+    <string name="dialog_wb_title">Добро пожаловать</string>
+    <string name="dialog_wb_text">%1$s заработал %2$s, пока вы отсутствовали.</string>
+    <string name="notify_fullschool">Эта школа полна. Постройте больше, пожалуйста.</string>
+    <string name="dialog_notenoughmoney_title">Недостаточно денег</string>
+    <string name="dialog_notenoughmoney_text">У вас недостаточно денег, чтобы купить это.\n\nВы хотите получить отстствующие %1$s сразу?</string>
+    <string name="notify_fullhospital">В этой больнице не хватает места. Вы должны построить еще одну.</string>
 
 </resources>
