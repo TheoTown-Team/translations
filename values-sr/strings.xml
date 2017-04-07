@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Podešavanja</string>
@@ -19,7 +18,7 @@
 \n\nAko ti se sviđa ova aplikacija, pomozi tako što ćeš je preporučiti prijateljima.
 
 \n\nZabavi se :)</string>
-    <string name="game_date">Datum: %1$02d/%2$02d/%3$02d</string>
+    <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Stanovnici: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">Seme:</string>
@@ -27,7 +26,7 @@
     <string name="createcity_sizemiddle">Srednje</string>
     <string name="createcity_sizebig">Veliko</string>
     <string name="createcity_sizeother">Drugo</string>
-    <string name="game_monthlyincome">%1$,+dͲ</string>
+    <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Novac: %1$,dͲ</string>
     <string name="game_rating">Rejting: %1$d</string>
     <string name="settings_resolutionlowlow">Veoma malo</string>
@@ -77,7 +76,7 @@
     <string name="loadcity_deletedialog_title">Izbriši grad</string>
     <string name="loadcity_deletedialog_cmdcancel">Otkaži</string>
     <string name="loadcity_deletedialog_cmddelete">Izbriši</string>
-    <string name="createcity_sizebigbig">Ogromno</string>
+    <string name="createcity_sizebigbig">Ogrom.</string>
     <string name="dialog_leave_text">Da li si siguran da želiš da izađeš iz TheoTown?</string>
     <string name="dialog_leave_title">Izađi iz TheoTown</string>
     <string name="dialog_leave_cmdcancel">Otkaži</string>
@@ -698,7 +697,7 @@
     <string name="notify_noreszone">Ljudi žele da žive u našem gradu. Deklariši stambenu zonu za njih.</string>
     <string name="notify_nocomzone">Izgradi komercijalne zone da bi se prodavnice gradile u našem gradu.</string>
     <string name="notify_noindzone">Industrije će se možda graditi u našem gradu, ali prvo moraš da deklarišeš zone za njih.</string>
-    <string name="createcity_sizebigbigbig">Gigantsko</string>
+    <string name="createcity_sizebigbigbig">Gigant.</string>
     <string name="locale">sr</string>
     <string name="draft_police02_title">S.A.J. Štab</string>
     <string name="draft_police02_text">Ova policijska stanica će dovesti tišinu i red u tvoj grad.</string>
@@ -954,19 +953,18 @@
     <string name="dialog_renameregion_text">Unesi novo ime za ovaj region.</string>
     <string name="shop_diamonds">%1$,d dijamanata za %2$s</string>
     <string name="draft_townhall02_title">Velika Grad. Skup.</string>
-    <string name="draft_townhall02_text">Velika Gradska Skupština za veliki grad. Hvala za 1 M preuzimanja.</string>
-    <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
-    <string name="notify_destroyedtiles">We better dispose of this rubbish before someone notices it.</string>
-    <string name="notify_loweducationneeded">I think it\'s time to give our children some education. Build an elementary school.</string>
-    <string name="notify_higheducationneeded">Let\'s get some genies by building a high school.</string>
-    <string name="dialog_ffwd1_text">Allows you to use faster game speed for %1$s.</string>
-    <string name="notify_badtraffic">There\'s too much traffic on this road. I recommend to build more or better roads.</string>
-    <string name="dialog_wb_title">Welcome back</string>
-    <string name="dialog_wb_text">%1$s earned %2$s while you were absent.</string>
-    <string name="notify_fullschool">This school is full. Build more of them, please.</string>
-    <string name="dialog_notenoughmoney_title">Not enough money</string>
-    <string name="dialog_notenoughmoney_text">We have not enough money to buy this.\n\nDo you want to get the missing %1$s immediately?</string>
-    <string name="notify_fullhospital">There\'s not enough space in this hospital. We have to build another one.</string>
-
+    <string name="draft_townhall02_text">Velika Gradska Skupština za veliki grad. Hvala za 1 M preuzimanja.</string>        
+    <string name="notify_pollutedwaterpump">Ova pumpa za vodu je u zagađenoj okolini. Trebalo bi da je premestimo negde da bi zadržali vodu čistom.</string>
+    <string name="notify_destroyedtiles">Trebamo da uklonimo ovo đubre pre nego što ga neko primeti.</string>
+    <string name="notify_loweducationneeded">Vreme je da obrazujemo našu decu. Napravi osnovnu školu.</string>
+    <string name="notify_higheducationneeded">Hajde da obrazujemo našu stariju decu. Napravi srednju školu.</string>
+    <string name="dialog_ffwd1_text">Omogućava ubrzanje vremena za %1$s.</string>
+    <string name="notify_badtraffic">Ima previše saobraćaja na ovom putu. Trebalo bi da napraviš više ili boljih puteva.</string>
+    <string name="dialog_wb_title">Dobrodošao nazad</string>
+    <string name="dialog_wb_text">%1$s je zaradio %2$s dok si bio odsutan.</string>
+    <string name="notify_fullschool">Ova škola je puna. Molim te, napravi više škola.</string>
+    <string name="dialog_notenoughmoney_title">Nema dovoljno novca</string>
+    <string name="dialog_notenoughmoney_text">Nemamo dovoljno novca da kupimo ovo.\n\nDa li želiš da uzmeš nedostajalih %1$s odma?</string>
+    <string name="notify_fullhospital">Nema dovoljno mesta u ovoj bolnici. Moramo da napravimo još jednu.</string>
 
 </resources>
