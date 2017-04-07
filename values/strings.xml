@@ -18,7 +18,7 @@
 \n\nIf you like this app you might support us by telling your friends about it.
 
 \n\nHave fun :)</string>
-    <string name="game_date">Date: %1$02d/%2$02d/%3$02d</string>
+    <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitants: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">Seed:</string>
@@ -26,7 +26,7 @@
     <string name="createcity_sizemiddle">Medium</string>
     <string name="createcity_sizebig">Big</string>
     <string name="createcity_sizeother">Other</string>
-    <string name="game_monthlyincome">%1$,+dͲ</string>
+    <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Estate: %1$,dͲ</string>
     <string name="game_rating">Rating: %1$d</string>
     <string name="settings_resolutionlowlow">Really low</string>
@@ -966,5 +966,13 @@
     <string name="dialog_notenoughmoney_title">Not enough money</string>
     <string name="dialog_notenoughmoney_text">We have not enough money to buy this.\n\nDo you want to get the missing %1$s immediately?</string>
     <string name="notify_fullhospital">There\'s not enough space in this hospital. We have to build another one.</string>
+    <string name="dialog_rate_title">Do you like TheoTown?</string>
+    <string name="dialog_rate_text">Then rate us please. It takes just a moment.</string>
+    <string name="dialog_rate_cmdok">I like it</string>
+    <string name="dialog_rate_cmdcancel">I don\'t like it</string>
+    <string name="dialog_feedback_title">Give us feedback</string>
+    <string name="dialog_feedback_text">Any suggestions how we can improve the game? Please tell us.</string>
+    <string name="dialog_feedback_cmdok">I have feedback</string>
+    <string name="dialog_feedback_cmdcancel">No feedback</string>
 
 </resources>
