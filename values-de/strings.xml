@@ -6,7 +6,7 @@
     <string name="createcity_mapsize">Größe:</string>
     <string name="createcity_start">Start</string>
     <string name="game_cityname">%1$s</string>
-    <string name="game_date">Datum: %1$02d.%2$02d.%3$02d</string>
+    <string name="game_date">%1$02d.%2$02d.%3$02d</string>
     <string name="game_habitants">Einwohner: %1$,d</string>
     <string name="loadcity_load">Start</string>
     <string name="loadcity_title">Stadt laden</string>
@@ -26,7 +26,7 @@
     <string name="createcity_sizesmall">Klein</string>
     <string name="createcity_sizeother">Anderes</string>
     <string name="game_estate">Geld: %1$,dͲ</string>
-    <string name="game_monthlyincome">%1$,+dͲ</string>
+    <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_rating">Bewertung: %1$d</string>
     <string name="settings_resolution">Auflösung</string>
     <string name="settings_resolutionbig">Groß</string>
@@ -966,4 +966,12 @@
     <string name="dialog_notenoughmoney_title">Nicht genug Geld</string>
     <string name="dialog_notenoughmoney_text">Wir haben nicht genug Geld um das zu kaufen.\n\nSollen wir die fehlenden %1$s sofort beschaffen?</string>
     <string name="notify_fullhospital">Dieses Krankenhaus ist nicht groß genug. Wir sollten noch eines bauen.</string>
+    <string name="dialog_rate_text">Dann bewerte uns bitte. Es dauert auch nur einen kurzen Moment.</string>
+    <string name="dialog_rate_title">Gefällt dir TheoTown?</string>
+    <string name="dialog_rate_cmdcancel">Gefällt mir nicht</string>
+    <string name="dialog_rate_cmdok">Gefällt mir</string>
+    <string name="dialog_feedback_title">Gib uns Feedback</string>
+    <string name="dialog_feedback_text">Du hast Ideen, was wir verbessern können? Dann lass es uns wissen.</string>
+    <string name="dialog_feedback_cmdok">Feedback geben</string>
+    <string name="dialog_feedback_cmdcancel">Kein Feedback</string>
 </resources>
