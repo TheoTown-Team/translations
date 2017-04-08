@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Podešavanja</string>
@@ -29,7 +28,7 @@
     <string name="createcity_sizeother">Drugo</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Novac: %1$,dͲ</string>
-    <string name="game_rating">Rejting: %1$d</string>
+    <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">Veoma malo</string>
     <string name="settings_resolutionlow">Malo</string>
     <string name="settings_resolutionnormal">Normalno</string>
@@ -667,7 +666,7 @@
     <string name="notify_lowbudget">Nema preostalog novca. Trebalo bi da uzmeš kredit.</string>
     <string name="settings_rightsidebar">Traka na desnoj strani</string>
     <string name="settings_topstatusbar">Statusna traka na vrhu</string>
-    <string name="settings_leftminimap">Minimapa na levoj strani</string>
+    <string name="settings_leftminimap">Minimapa na desnoj strani</string>
     <string name="settings_category_ui">Korisnički Interfejs</string>
     <string name="influence_radioactive_title">Radijacija</string>
     <string name="influence_radioactive_text">Rizik za čovečanstvo i prirodu.</string>
@@ -966,16 +965,16 @@
     <string name="notify_fullschool">Ova škola je puna. Molim te, napravi više škola.</string>
     <string name="dialog_notenoughmoney_title">Nema dovoljno novca</string>
     <string name="dialog_notenoughmoney_text">Nemamo dovoljno novca da kupimo ovo.\n\nDa li želiš da uzmeš nedostajalih %1$s odma?</string>
-    <string name="notify_fullhospital">Nema dovoljno mesta u ovoj bolnici. Moramo da napravimo još jednu.</string>
-    <string name="dialog_rate_title">Do you like TheoTown?</string>
-    <string name="dialog_rate_text">Then rate us please. It takes just a moment.</string>
-    <string name="dialog_rate_cmdok">I like it</string>
-    <string name="dialog_rate_cmdcancel">I don\'t like it</string>
-    <string name="dialog_feedback_title">Give us feedback</string>
-    <string name="dialog_feedback_text">Any suggestions how we can improve the game? Please tell us.</string>
-    <string name="dialog_feedback_cmdok">I have feedback</string>
-    <string name="dialog_feedback_cmdcancel">No feedback</string>
-    <string name="dialog_buildnow_title">Finish now</string>
-    <string name="dialog_buildnow_text">Would you like to skip %1$,d days?</string>
+    <string name="notify_fullhospital">Nema dovoljno mesta u ovoj bolnici. Moramo da napravimo još jednu.</string>      <string name="dialog_rate_title">Do you like TheoTown?</string>
+    <string name="dialog_rate_title">Da li ti se sviđa TheoTown?</string>
+    <string name="dialog_rate_text">Onda nas oceni, molim te. Potreban je samo jedan momenat.</string>
+    <string name="dialog_rate_cmdok">Sviđa mi se</string>
+    <string name="dialog_rate_cmdcancel">Ne sviđa mi se</string>
+    <string name="dialog_feedback_title">Daj nam povratne informacije</string>
+    <string name="dialog_feedback_text">Bilo kakvi predlozi kako bi mogli da poboljšamo igru? Molim te, kaži nam.</string>
+    <string name="dialog_feedback_cmdok">Imam PI</string>
+    <string name="dialog_feedback_cmdcancel">Nemam PI</string>
+    <string name="dialog_buildnow_title">Završi sada</string>
+    <string name="dialog_buildnow_text">Da li želiš da preskočiš %1$,d dana?</string>
 
 </resources>
