@@ -142,7 +142,7 @@
     <string name="about_text">TheoTown App for Android is a product of</string>
     <string name="settings_music">Music</string>
     <string name="draftselector_titleaward">Awards</string>
-    <string name="shader_default">Default</string>
+    <string name="shader_default">Classic</string>
     <string name="shader_test">Test</string>
     <string name="settings_shader">Shader</string>
     <string name="shader_colorful">Colorful</string>
@@ -924,8 +924,8 @@
     <string name="dialog_resetcity_title">Reset city</string>
     <string name="dialog_resetcity_text">Do you want to reset this city to it\'s original state? This cannot be undone.</string>
     <string name="dialog_resetcity_cmdreset">Reset</string>
-    <string name="draft_devroad01_title">National one way</string>
-    <string name="draft_devroad01_text">One way built and paid by the state.</string>
+    <string name="draft_devroad01_title">National one-way road</string>
+    <string name="draft_devroad01_text">One-way road built and paid by the state.</string>
     <string name="task_openworld_title">Region</string>
     <string name="task_openworld_text">Your city is just part of something bigger. Here you can see all of your cities.</string>
     <string name="task_openrci_title">Building demand</string>
@@ -957,7 +957,7 @@
     <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
     <string name="notify_destroyedtiles">We better dispose of this rubbish before someone notices it.</string>
     <string name="notify_loweducationneeded">I think it\'s time to give our children some education. Build an elementary school.</string>
-    <string name="notify_higheducationneeded">Let\'s get some genies by building a high school.</string>
+    <string name="notify_higheducationneeded">Let\'s get some genius by building a high school.</string>
     <string name="dialog_ffwd1_text">Allows you to use faster game speed for %1$s.</string>
     <string name="notify_badtraffic">There\'s too much traffic on this road. I recommend to build more or better roads.</string>
     <string name="dialog_wb_title">Welcome back</string>
@@ -984,10 +984,22 @@
     <string name="shader_smooth">Smooth</string>
     <string name="topic_dumbledore">Dumbledore wouldn\'t let this happen.</string>
     <string name="draft_mltry_missilesilo00_title">Missile silo</string>
-    <string name="draft_feature_military00_text">A military base for protection of your city.\n\nThis plugin isn\'t finished yet! However, you can already get it.</string>
-    <string name="topic_tribute">Tribute to Matison</string>
-    <string name="topic_tribute1">Tribute to Ahmad Nur</string>
-    <string name="topic_tribute2">Tribute to Dusko</string>
-    <string name="topic_tribute3">Tribute to Bearbear</string>
-    
+    <string name="draft_feature_military00_text">Build your own military base to protect your city. Includes an ufo disaster.</string>
+    <string name="dialog_smooth_title">Smooth graphics</string>
+    <string name="dialog_smooth_text">Science! We found a solution to improve game resolution. Would you like to use it?\n\nThis can be changed in the settings any time.</string>
+    <string name="budget_military">Military</string>
+    <string name="draftselector_monthlyincome">Monthly income: %1$,dͲ</string>
+    <string name="draft_decosmallmountain00_title">Small mountain</string>
+    <string name="draft_feature_mountain00_title">Small mountain</string>
+    <string name="draft_zonemilitary_text">Military buildings may only be placed within this zone.</string>
+    <string name="draft_mltry_road00_text">A road dedicated to military vehicles and emergency cars. You might not build other roads in military area.</string>
+    <string name="draft_mltry_hq00_text">The headquarters is the most important building of your military base.</string>
+    <string name="draft_mltry_baracks00_text">Soldiers live here.</string>
+    <string name="draft_mltry_depot00_text">Depot for any military stock.</string>
+    <string name="draft_mltry_tankbase00_text">Depot for heavy military vehicles.</string>
+    <string name="draft_mltry_rocketlauncher00_text">Can be used to shoot UFOs. May not be used to shoot civil buildings or vehicles.</string>
+    <string name="draft_mltry_missilesilo00_text">The government would like to do some rocket testing in your town. As this may lead to disasters you get a compensation for the risk.</string>
+    <string name="draft_decosmallmountain00_text">This small mountain is a tourist attraction in this mostly flat land.</string>
+    <string name="draft_feature_mountain00_text">This small mountain is a tourist attraction in this mostly flat land.</string>
+
 </resources>
