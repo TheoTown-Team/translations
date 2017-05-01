@@ -20,6 +20,7 @@ values-tr: Turkish</br>
 values-uk: Ukrainian</br>
 values-zh-rTW: Traditional Chinese</br>
 values-zh: Chinese</br>
+values-zh-rTW: Traditional Chinese</br>
 
 For more two letter language codes see http://www.loc.gov/standards/iso639-2/php/code_list.php
 You might just add an apropriate directory in order to add a new language.
@@ -28,4 +29,4 @@ English and German translations will always be up to date. The others can be bui
 How translation works:</br>
 Each values.xml file contains lines of the form<br>
 <em>\<tagname\></em>My translation<em>\</tagname\></em><br>
-You have just to translate the part in between (here "My Translation“). Special characters like \n might be used to indicate a new line.
+You have just to translate the part in between (here "My Translation"). Special characters like \n might be used to indicate a new line.
