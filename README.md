@@ -10,7 +10,7 @@ values-fr: French</br>
 values-it: Italian</br>
 values-ja: Japanese</br>
 values-ko: Korean</br>
-values-ms: Malay</br>
+values-ms: Malay, Indonesian</br>
 values-nl: Dutch</br>
 values-pl: Polish</br>
 values-pt: Portuguese</br>
