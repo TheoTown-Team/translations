@@ -27,7 +27,7 @@
     <string name="createcity_sizebig">Velky</string>
     <string name="createcity_sizeother">Ostatni</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Majetek: %1$,dͲ</string>
+    <string name="game_estate">Majetek: %1$s</string>
     <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">Velmi male</string>
     <string name="settings_resolutionlow">Male</string>
@@ -68,8 +68,8 @@
     <string name="draftselector_titlepolice">Policie</string>
     <string name="draftselector_titlefiredepartment">Hasici</string>
     <string name="draftselector_cmdbuild">Postavit</string>
-    <string name="draftselector_price">Cena: %1$,dͲ</string>
-    <string name="draftselector_monthlyprice">Mesicni naklady: %1$,dͲ</string>
+    <string name="draftselector_price">Cena: %s</string>
+    <string name="draftselector_monthlyprice">Mesicni naklady: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Vymazat</string>
     <string name="loadcity_deletedialog_text">Opravdu chcete smazat?</string>
@@ -218,7 +218,7 @@
     <string name="draftselector_water">Voda: %1$,dL/h</string>
     <string name="notify_welcome">Ahoj,vitejte v %1$s.</string>
     <string name="notify_citysize">Congratulations, your city exceeds a size of %1$,d inhabitants!</string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Water fountain</string>
     <string name="draft_waterfountain01_text">Habitants will like it.</string>
     <string name="draft_treepark01_title">Tree park</string>
@@ -509,7 +509,7 @@
     <string name="disaster_nuke_text">Looks harmless.</string>
     <string name="disaster_nuke_cmdtext">Vyskouset to</string>
     <string name="budget_loans">Pujcky</string>
-    <string name="ci_loan_loanlist">Aktivni pujcky (ceklove %1$,dͲ v %2$,d/%3$,d pujcek):</string>
+    <string name="ci_loan_loanlist">Aktivni pujcky (ceklove %1$s v %2$,d/%3$,d pujcek):</string>
     <string name="ci_loan_remaining_runtime">Doba splaceni: %2$d mesic(u), %1$d dnu</string>
     <string name="ci_loan_paybackcost">Zbyva splatit: %1$,dT</string>
     <string name="ci_loan_estate">Majetek: %1$,dT</string>
@@ -951,7 +951,7 @@
     <string name="settings_autoload">Auto load last city</string>
     <string name="dialog_renameregion_title">Rename region</string>
     <string name="dialog_renameregion_text">Enter here a new name for the region:</string>
-    <string name="shop_diamonds">%1$,d diamonds for %2$s</string>
+    <string name="shop_diamonds">%1$s diamonds for %2$s</string>
     <string name="draft_townhall02_title">Big cityhall</string>
     <string name="draft_townhall02_text">A big city hall for a big city. It\'s a thank you for 1 M downloads.</string>
     <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
@@ -988,7 +988,7 @@
     <string name="dialog_smooth_title">Smooth graphics</string>
     <string name="dialog_smooth_text">Science! We found a solution to improve game resolution. Would you like to use it?\n\nThis can be changed in the settings any time.</string>
     <string name="budget_military">Military</string>
-    <string name="draftselector_monthlyincome">Monthly income: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">Monthly income: %s</string>
     <string name="draft_decosmallmountain00_title">Small mountain</string>
     <string name="draft_feature_mountain00_title">Small mountain</string>
     <string name="draft_zonemilitary_text">Military buildings may only be placed within this zone.</string>
@@ -1018,5 +1018,18 @@
     <string name="notification00_text">Tuan, kami mahu anda belanja duit lebihan anda!</string>
     <string name="roadinfo_bridgetype">Jenis jambatan</string>
     <string name="draft_feature_buildings01_text">Bangunan-bangunan perumahan, komersial, dan industri yang besar untuk lebih variasi pada bandar anda. Meningkatkan taraf hidup penduduk anda.</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>

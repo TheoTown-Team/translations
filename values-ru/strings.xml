@@ -111,13 +111,13 @@
 <string name="ci_info_title">Вид города</string>
 <string name="ci_loan_donate">Попросить</string>
 <string name="ci_loan_donate_text">Пожалуйста, дайте денег, очень нужно :(</string>
-<string name="ci_loan_estate">Баланс: %1$,dͲ</string>
+<string name="ci_loan_estate">Баланс: %1$s</string>
 <string name="ci_loan_get">Занять</string>
 <string name="ci_loan_get_text">"Обычный займ, 10,000Ͳ
 Времени: 24 месяца
 Оплата за месяц: 500$"</string>
-<string name="ci_loan_loanlist">Активные займы (в целом %1$,dͲ в %2$,d/%3$,d займов):</string>
-<string name="ci_loan_paybackcost">Вернуть деньги: %1$,dͲ</string>
+<string name="ci_loan_loanlist">Активные займы (в целом %1$s в %2$,d/%3$,d займов):</string>
+<string name="ci_loan_paybackcost">Вернуть деньги: %1$s</string>
 <string name="ci_loan_remaining_runtime">Оставшееся время: %2$d месяц(ев), %1$d день(ей)</string>
 <string name="ci_loan_title">Займ</string>
 <string name="ci_not_available">Отсутствует информация</string>
@@ -500,11 +500,11 @@
 <string name="draftselector_commercial">Коммерция</string>
 <string name="draftselector_id">ID: %1$s</string>
 <string name="draftselector_industrial">Индустрия</string>
-<string name="draftselector_monthlyprice">Ежемесячная оплата: %1$,dͲ</string>
+<string name="draftselector_monthlyprice">Ежемесячная оплата: %s</string>
 <string name="draftselector_onlyn">Может быть построено %1$d раз</string>
 <string name="draftselector_onlyone">Может быть построено только один раз</string>
 <string name="draftselector_power">Электричество: %1$,dкВч</string>
-<string name="draftselector_price">Цена: %1$,dͲ</string>
+<string name="draftselector_price">Цена: %s</string>
 <string name="draftselector_residential">Резиденция</string>
 <string name="draftselector_titlealert">Службы</string>
 <string name="draftselector_titleaward">Награды</string>
@@ -533,11 +533,11 @@
 <string name="game_cityauthor">от %1$s</string>
 <string name="game_cityname">%1$s</string>
 <string name="game_date">%1$02d/%2$02d/%3$02d</string>
-<string name="game_estate">Баланс: %1$,dͲ</string>
+<string name="game_estate">Баланс: %1$s</string>
 <string name="game_habitants">Жителей: %1$,d</string>
 <string name="game_infinitemoney">Бесплатная игра</string>
 <string name="game_monthlyincome">%1$,+dͲ</string>
-<string name="game_placedprice">%1$,dͲ</string>
+<string name="game_placedprice">%1$s</string>
 <string name="game_rating">%1$d</string>
 <string name="gamemode_easy">Легкий</string>
 <string name="gamemode_hard">Сложный</string>
@@ -619,7 +619,7 @@
 <string name="locale">ен</string>
 <string name="menu_cmddonate">Пожертвование</string>
 <string name="menu_premium">Премиум</string>
-<string name="money">%1$,dͲ</string>
+<string name="money">%1$s</string>
 <string name="notify_bad_health">Слабое здоровье. Ты должен улучшить окружающую среду или построить больницу.</string>
 <string name="notify_citysize">Поздравляем, твой город вырос до %1$,d жителей!</string>
 <string name="notify_crime">Преступники здесь. Ты должен построить полицейский участок или увеличить счастье.</string>
@@ -958,7 +958,7 @@
     <string name="settings_autoload">Автозагрузка последнего города</string>
     <string name="dialog_renameregion_title">Переименовать регион</string>
     <string name="dialog_renameregion_text">Введите здесь новое название для региона:</string>
-    <string name="shop_diamonds">%1$,d брилиантов на %2$s</string>
+    <string name="shop_diamonds">%1$s брилиантов на %2$s</string>
     <string name="draft_townhall02_title">Большая городская ратуша</string>
     <string name="draft_townhall02_text">Большая городская ратуша для большого города. Спасибо за 1 М загрузок.</string>
     <string name="notify_pollutedwaterpump">Этот водяной насос находится в загрязненной зоне. Лучше поместите его в другое место, чтобы вода оставалась чистой.</string>
@@ -995,7 +995,7 @@
     <string name="dialog_smooth_title">Плавная графика</string>
     <string name="dialog_smooth_text">Эврика! Мы нашли решение для улучшения игрового разрешения. Вы хотите его использовать?\n\nЭто может быть изменено в настройках в любое время.</string>
     <string name="budget_military">Военные</string>
-    <string name="draftselector_monthlyincome">Ежемесячный доход: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">Ежемесячный доход: %s</string>
     <string name="draft_decosmallmountain00_title">Маленькая гора</string>
     <string name="draft_feature_mountain00_title">Маленькая гора</string>
     <string name="draft_zonemilitary_text">Военные здания могут быть размещены только в этой зоне.</string>
@@ -1025,5 +1025,18 @@
     <string name="notification00_text">Мэр, нам нужно, чтобы вы потратить все деньги!</string>
     <string name="roadinfo_bridgetype">Тип моста</string>
     <string name="draft_feature_buildings01_text">Крупные жилые, коммерческие и промышленные здания, чтобы разнообразить город. Повышает жизненный уровень твоих жителей.</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>
