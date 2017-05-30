@@ -28,7 +28,7 @@
     <string name="createcity_sizebig">大きい</string>
     <string name="createcity_sizeother">その他</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">財産: %1$,dͲ</string>
+    <string name="game_estate">財産: %1$s</string>
     <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">最小</string>
     <string name="settings_resolutionlow">小さい</string>
@@ -69,8 +69,8 @@
     <string name="draftselector_titlepolice">警察署</string>
     <string name="draftselector_titlefiredepartment">消防署</string>
     <string name="draftselector_cmdbuild">建設</string>
-    <string name="draftselector_price">価格: %1$,dͲ</string>
-    <string name="draftselector_monthlyprice">月額: %1$,dͲ</string>
+    <string name="draftselector_price">価格: %s</string>
+    <string name="draftselector_monthlyprice">月額: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">削除</string>
     <string name="loadcity_deletedialog_text">本当に削除しますか?</string>
@@ -191,7 +191,7 @@
     <string name="ci_budget_income">収入 (毎月)</string>
     <string name="ci_budget_spending">支出 (毎月)</string>
     <string name="ci_budget_taxes">税金</string>
-    <string name="money">%1$,dͲ</string>
+    <string name="money">%1$s</string>
     <string name="ci_water_title">水道</string>
     <string name="ci_energy_title">電力</string>
     <string name="ci_info_title">街一覧</string>
@@ -219,7 +219,7 @@
     <string name="draftselector_water">水道: %1$,dL/h</string>
     <string name="notify_welcome">%1$s へようこそ</string>
     <string name="notify_citysize">おめでとう、あなたの街は %1$,d人の住民を超えました! </string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">噴水</string>
     <string name="draft_waterfountain01_text">住民達は喜ぶでしょう</string>
     <string name="draft_treepark01_title">木の生えた公園</string>
@@ -510,10 +510,10 @@
     <string name="disaster_nuke_text">無害かも知れません</string>
     <string name="disaster_nuke_cmdtext">試す</string>
     <string name="budget_loans">ローン</string>
-    <string name="ci_loan_loanlist">アクティブローン (全体で%1$dͲ、%2$,d/%3$,dのローン):</string>
+    <string name="ci_loan_loanlist">アクティブローン (全体で%1$s、%2$,d/%3$,dのローン):</string>
     <string name="ci_loan_remaining_runtime">期限: %2$dヶ月, %1$d日</string>
-    <string name="ci_loan_paybackcost">返済価格: %1$,dͲ</string>
-    <string name="ci_loan_estate">財産: %1$,dͲ</string>
+    <string name="ci_loan_paybackcost">返済価格: %1$s</string>
+    <string name="ci_loan_estate">財産: %1$s</string>
     <string name="topic_support_ads">You may support us by tapping on ads :)</string>
     <string name="settings_disaster_tornado">竜巻</string>
     <string name="disaster_tornado_title">竜巻</string>
@@ -989,7 +989,7 @@
     <string name="dialog_smooth_title">滑らかなグラフィックス</string>
     <string name="dialog_smooth_text">科学だ！ゲームの解像度を向上させる方法が見つかりました。あなたはそれを使用しますか？\n\nこれはいつでも設定で変更することができます</string>
     <string name="budget_military">軍事</string>
-    <string name="draftselector_monthlyincome">月収: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">月収: %s</string>
     <string name="draft_decosmallmountain00_title">小さな山</string>
     <string name="draft_feature_mountain00_title">小さな山</string>
     <string name="draft_zonemilitary_text">軍用建築物はこの地区にのみ置くことができます</string>
@@ -1018,4 +1018,19 @@
     <string name="notification00_title">ニュース: %1$sには多額のお金があります</string>
     <string name="roadinfo_bridgetype">橋の種類</string>
     <string name="draft_feature_buildings01_text">都市のより多様なもののための大きい住宅、商業および産業の建物。あなたの住人の生活水準を高めます</string>
+    <string name="notification00_text">Mayor, we need you to spend all the money!</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
+
 </resources>
