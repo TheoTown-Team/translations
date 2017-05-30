@@ -28,7 +28,7 @@
     <string name="createcity_sizebig">Besar</string>
     <string name="createcity_sizeother">Lain-lain</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Kewangan: %1$,dͲ</string>
+    <string name="game_estate">Kewangan: %1$s</string>
     <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">Sangat Rendah</string>
     <string name="settings_resolutionlow">Rendah</string>
@@ -69,8 +69,8 @@
     <string name="draftselector_titlepolice">Polis</string>
     <string name="draftselector_titlefiredepartment">Bomba</string>
     <string name="draftselector_cmdbuild">Bina</string>
-    <string name="draftselector_price">Harga: %1$,dͲ</string>
-    <string name="draftselector_monthlyprice">Harga bulanan: %1$,dͲ</string>
+    <string name="draftselector_price">Harga: %s</string>
+    <string name="draftselector_monthlyprice">Harga bulanan: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Buang</string>
     <string name="loadcity_deletedialog_text">Betulkah anda ingin untuk membuang bandar ini?</string>
@@ -190,7 +190,7 @@
     <string name="ci_budget_income">Pendapatan (bulanan)</string>
     <string name="ci_budget_spending">Perbelanjaan (bulanan)</string>
     <string name="ci_budget_taxes">Cukai</string>
-    <string name="money">%1$,dͲ</string>
+    <string name="money">%1$s</string>
     <string name="ci_water_title">Bekalan air</string>
     <string name="ci_energy_title">Bekalan tenaga</string>
     <string name="ci_info_title">Pandangan keseluruhan bandar</string>
@@ -214,7 +214,7 @@
     <string name="draftselector_water">WAir: %1$,dL/h</string>
     <string name="notify_welcome">Selamat datang ke %1$s.</string>
     <string name="notify_citysize">Tahniah, bandar anda telah melebihi %1$,d penduduk!</string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Air pancut</string>
     <string name="draft_waterfountain01_text">Penduduk menyukainya.</string>
     <string name="draft_treepark01_title">Taman pokok</string>
@@ -499,10 +499,10 @@
     <string name="disaster_nuke_text">Nampak seperti tidak berbahaya.</string>
     <string name="disaster_nuke_cmdtext">Cubalah</string>
     <string name="budget_loans">Pinjaman</string>
-    <string name="ci_loan_loanlist">Pinjaman aktif (keseluruhan %1$,dͲ in %2$,d/%3$,d pinjaman):</string>
+    <string name="ci_loan_loanlist">Pinjaman aktif (keseluruhan %1$s in %2$,d/%3$,d pinjaman):</string>
     <string name="ci_loan_remaining_runtime">Tempoh tinggal: %2$d bulan, %1$d hari</string>
-    <string name="ci_loan_paybackcost">Kos bayar semula: %1$,dͲ</string>
-    <string name="ci_loan_estate">Harta: %1$,dͲ</string>
+    <string name="ci_loan_paybackcost">Kos bayar semula: %1$s</string>
+    <string name="ci_loan_estate">Harta: %1$s</string>
     <string name="topic_support_ads">Anda boleh sokong kami dengan menakan pada iklan :)</string>
     <string name="settings_disaster_tornado">Puting beliung</string>
     <string name="disaster_tornado_title">Puting beliung</string>
@@ -952,7 +952,7 @@
     <string name="settings_autoload">Muat auto bandar akhir</string>
     <string name="dialog_renameregion_title">Namakan semula daerah</string>
     <string name="dialog_renameregion_text">Masukkan nama baru daerah di sini:</string>
-    <string name="shop_diamonds">%1$,d berlian untuk %2$s</string>
+    <string name="shop_diamonds">%1$s berlian untuk %2$s</string>
     <string name="draft_townhall02_title">Dewan bandaraya besar</string>
     <string name="draft_townhall02_text">Sebuah dewan bandaraya untuk bandar yang besar. Ia adalah tanda penghargaan untuk 1 juta muat turun.</string>
     <string name="notify_pollutedwaterpump">Pam air in berada di kawasan yang tercemar. Kita perlu alihkannya di kawasan lain demi menjaga kebersihan bekalan air.</string>
@@ -988,7 +988,7 @@
     <string name="dialog_smooth_title">Grafik licin</string>
     <string name="dialog_smooth_text">Sains! Kami menemui penyelesaian untuk menambahbaikan resolusi permainan. Mahukah anda untuk mencubanya?\n\nIni boleh diubah dalam tetapan pada bila-bila masa</string>
     <string name="budget_military">Ketenteraan</string>
-    <string name="draftselector_monthlyincome">Pendapatan bulanan: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">Pendapatan bulanan: %s</string>
     <string name="draft_decosmallmountain00_title">Gunung kecil</string>
     <string name="draft_feature_mountain00_title">Gunung kecil</string>
     <string name="draft_zonemilitary_text">Bangunan tentera hanya boleh dibina di dalam zon ini sahaja.</string>
@@ -1019,5 +1019,18 @@
     <string name="notification00_text">Mayor, we need you to spend all the money!</string>
     <string name="roadinfo_bridgetype">Bridge type</string>
     <string name="draft_feature_buildings01_text">Big residential, commercial and industrial buildings for more variety in the city. Boosts living standard of your inhabitants.</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>

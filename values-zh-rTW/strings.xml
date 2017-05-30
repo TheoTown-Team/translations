@@ -192,7 +192,7 @@
     <string name="loadcity_version">版本 %1$d</string>
     <string name="loadwaiting_title">載入城市</string>
     <string name="loadcity_title">加載城市</string>
-    <string name="money">%1$,dͲ</string>
+    <string name="money">%1$s</string>
     <string name="loadcity_errordialog_text">這個城市不能成功加載，因為所需的文件已損壞。\n\n我們很抱歉。</string>
     <string name="loadcity_errordialog_cmdrecover">恢復</string>
     <string name="loadcity_errordialog_cmdcancel">取消</string>
@@ -202,7 +202,7 @@
     <string name="influence_religion_title">宗教</string>
     <string name="influence_sport_title">體育</string>
     <string name="game_cityname">%1$s</string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="buildinginfo_habitants">居民: %1$d/%2$d</string>
     <string name="buildinginfo_untouchable">受保護建築</string>
     <string name="ca_health_text">醫療設施: %1$,d/%2$,d患者</string>
@@ -284,7 +284,7 @@
     <string name="draftselector_cmdremove">拆除</string>
     <string name="draftselector_cmdview">顯示</string>
     <string name="draftselector_industrial">工業</string>
-    <string name="draftselector_price">價錢: %1$,dͲ</string>
+    <string name="draftselector_price">價錢: %s</string>
     <string name="draftselector_titlealert">意外</string>
     <string name="draftselector_titleaward">獎賞</string>
     <string name="draftselector_titlecatastrophes">災害</string>
@@ -300,7 +300,7 @@
     <string name="draftselector_titlesports">體育</string>
     <string name="draftselector_titleterrain">地形</string>
     <string name="draftselector_water">水: %1$,dL/h</string>
-    <string name="game_estate">金錢: %1$,dͲ</string>
+    <string name="game_estate">金錢: %1$s</string>
     <string name="game_habitants">居民: %1$,d</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_rating">%1$d</string>
@@ -378,13 +378,13 @@
     <string name="ci_health_reached">已達到: %1$,d</string>
     <string name="ci_info_title">城市概況</string>
     <string name="ci_loan_donate_text">請給我一點點錢吧, 我很需要它 :(</string>
-    <string name="ci_loan_estate">財產: %1$,dͲ</string>
+    <string name="ci_loan_estate">財產: %1$s</string>
     <string name="ci_loan_get">收下</string>
     <string name="ci_loan_get_text">默認貸款: 10000Ͳ
 \n期限: 24個月
 \n每月費用: 500Ͳ</string>
-    <string name="ci_loan_loanlist">所得貸款 (總 %1$,dͲ在%2$,d/%3$,d筆貸款):</string>
-    <string name="ci_loan_paybackcost">歸還金額: %1$,dͲ</string>
+    <string name="ci_loan_loanlist">所得貸款 (總 %1$s在%2$,d/%3$,d筆貸款):</string>
+    <string name="ci_loan_paybackcost">歸還金額: %1$s</string>
     <string name="ci_loan_remaining_runtime">剩餘時間: %2$d月, %1$d天</string>
     <string name="ci_not_available">無可顯示信息</string>
     <string name="ci_water_consumed">消耗: %1$,.0fL/h (%2$,d建築物)</string>
@@ -640,7 +640,7 @@
     <string name="draftselector_cmdShow">顯示</string>
     <string name="draftselector_commercial">商業</string>
     <string name="draftselector_id">ID: %1$s</string>
-    <string name="draftselector_monthlyprice">每月費用: %1$,dͲ</string>
+    <string name="draftselector_monthlyprice">每月費用: %s</string>
     <string name="draftselector_onlyn">只能建造%1$d次。</string>
     <string name="draftselector_onlyone">只能建造一次。</string>
     <string name="draftselector_power">電: %1$,dkWh</string>
@@ -942,7 +942,7 @@
     <string name="settings_autoload">自動加載最新的城市。</string>
     <string name="dialog_renameregion_title">重命名區域</string>
     <string name="dialog_renameregion_text">請輸入一個新的區域名稱:</string>
-    <string name="shop_diamonds">%1$,d鑽石%2$s</string>
+    <string name="shop_diamonds">%1$s鑽石%2$s</string>
     <string name="draft_townhall02_title">大型市政廳厅</string>
     <string name="draft_townhall02_text">大城市裡的大型市政廳。這是一個對一百萬下載量的感謝。</string>
     <string name="notify_pollutedwaterpump">這個水泵位於被污染的區域。我們最好把它放到別處以保持水的清潔。</string>
@@ -979,7 +979,7 @@
     <string name="dialog_smooth_title">光滑圖像</string>
     <string name="dialog_smooth_text">科學！我們發現了一個能改善遊戲像素的辦法。你想要試試它嗎？\n\n你可以隨時更改這個設置。</string>
     <string name="budget_military">軍事</string>
-    <string name="draftselector_monthlyincome">月收入: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">月收入: %s</string>
     <string name="draft_decosmallmountain00_title">小山</string>
     <string name="draft_feature_mountain00_title">小山</string>
     <string name="draft_zonemilitary_text">軍事建築物只能放置在這個區域裏。</string>
@@ -1009,5 +1009,18 @@
     <string name="notification00_text">市長，我們需要您來處理這些錢!</string>
     <string name="roadinfo_bridgetype">橋梁種類</string>
     <string name="draft_feature_buildings01_text">大型居民建築物，商業建築物和工業建築物以增添城市的多元化。可以大大提高居民的生活標準。</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>

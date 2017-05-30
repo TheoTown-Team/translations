@@ -245,7 +245,7 @@
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="loadcity_version">版本 %1$d</string>
     <string name="loadcity_title">加载城市</string>
-    <string name="money">%1$,dͲ</string>
+    <string name="money">%1$s</string>
     <string name="loadcity_errordialog_text">这个城市无法成功加载，因为所需的文件已损坏。\n\n我们很抱歉。</string>
     <string name="loadcity_deletedialog_title">删除城市</string>
     <string name="loadcity_deletedialog_text">你真的想要删掉这个城市吗?</string>
@@ -270,7 +270,7 @@
     <string name="ci_general_population1">中产阶级 (ͲͲ): %1$,d</string>
     <string name="ci_health_buildings">建筑物: %1$,d</string>
     <string name="ci_general_seed">随机值: %1$s</string>
-    <string name="ci_loan_estate">财产: %1$,dͲ</string>
+    <string name="ci_loan_estate">财产: %1$s</string>
     <string name="topic_android">安卓专享</string>
     <string name="shader_default">默认</string>
     <string name="shader_colorful">鲜艳</string>
@@ -312,9 +312,9 @@
     <string name="happiness_sport">运动</string>
     <string name="happiness_health">健康</string>
     <string name="happiness_firedanger">火灾危险</string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="game_habitants">居民: %1$,d</string>
-    <string name="game_estate">金钱: %1$,dͲ</string>
+    <string name="game_estate">金钱: %1$s</string>
     <string name="game_cityname">%1$s</string>
     <string name="draftselector_water">水: %1$,dL/h</string>
     <string name="draftselector_titlezone">区域</string>
@@ -325,7 +325,7 @@
     <string name="draftselector_titleschool">教育</string>
     <string name="draftselector_titlepublics">公共</string>
     <string name="draftselector_titlefiredepartment">消防</string>
-    <string name="draftselector_price">价钱: %1$,dͲ</string>
+    <string name="draftselector_price">价钱: %s</string>
     <string name="draftselector_cmdview">显示</string>
     <string name="draftselector_building_zone">区域: %1$s</string>
     <string name="draftselector_building_workers">工人: %1$d</string>
@@ -587,7 +587,7 @@
     <string name="draftselector_onlyone">只能建造一次。</string>
     <string name="draftselector_power">电: %1$,dkWh</string>
     <string name="draftselector_onlyn">只能建造%1$d次。</string>
-    <string name="draftselector_monthlyprice">每月费用: %1$,dͲ</string>
+    <string name="draftselector_monthlyprice">每月费用: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="draftselector_commercial">商业</string>
     <string name="draftselector_cmdShow">显示</string>
@@ -602,7 +602,7 @@
     <string name="draft_waterpump01_text">必须要建在水源附近。</string>
     <string name="draft_wire00_text">可以把电力输送到城市的各个角落。</string>
     <string name="dialog_screenshot_error">目标文件夹%1$s无法建立, 请设置游戏的权限。</string>
-    <string name="ci_loan_paybackcost">归还金额: %1$,dͲ</string>
+    <string name="ci_loan_paybackcost">归还金额: %1$s</string>
     <string name="draft_carcinema00_text">多一些娱乐给TheoTown的居民。</string>
     <string name="draft_marker_levelmarker_text">建筑物等级</string>
     <string name="draft_marker_trafficmarker_text">街道的饱和度</string>
@@ -657,7 +657,7 @@
     <string name="draft_radio00_faith_title">信仰电台</string>
     <string name="draft_radio00_fun_text">播放很多的音乐和一些娱乐。\n \n同一时间只能存在一种电视台, 已有的电台节目将被替换掉。</string>
     <string name="draft_radio00_fun_title">娱乐电台</string>
-    <string name="ci_loan_loanlist">所得贷款 (总 %1$,dͲ在%2$,d/%3$,d笔贷款):</string>
+    <string name="ci_loan_loanlist">所得贷款 (总 %1$s在%2$,d/%3$,d笔贷款):</string>
     <string name="draft_marker_ticketmarker_text">Shows ticket satisfaction.</string>
     <string name="draft_marker_ticketmarker_title">Tickets</string>
     <string name="draft_railwaystation00_text">火车车站</string>
@@ -942,7 +942,7 @@
     <string name="settings_autoload">自动加载最新的城市。</string>
     <string name="dialog_renameregion_title">重命名区域</string>
     <string name="dialog_renameregion_text">请输入一个新的区域名称:</string>
-    <string name="shop_diamonds">%1$,d钻石%2$s</string>
+    <string name="shop_diamonds">%1$s钻石%2$s</string>
     <string name="draft_townhall02_title">大型市政厅</string>
     <string name="draft_townhall02_text">大城市里的大型市政厅。这是一个对一百万下载量的感谢。</string>
     <string name="notify_pollutedwaterpump">这个水泵位于被污染的区域。我们最好把它放到别处以保持水的清洁。</string>
@@ -979,7 +979,7 @@
     <string name="dialog_smooth_title">光滑图像</string>
     <string name="dialog_smooth_text">科学！我们发现了一个能改善游戏像素的办法。你想要试试它吗？\n\n你可以随时更改这个设置。</string>
     <string name="budget_military">军事</string>
-    <string name="draftselector_monthlyincome">月收入: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">月收入: %s</string>
     <string name="draft_decosmallmountain00_title">小山</string>
     <string name="draft_feature_mountain00_title">小山</string>
     <string name="draft_zonemilitary_text">军事建筑物只能放置在这个区域里。</string>
@@ -1009,5 +1009,18 @@
     <string name="notification00_text">市长，我们需要您来处理这些钱!</string>
     <string name="roadinfo_bridgetype">桥梁种类</string>
     <string name="draft_feature_buildings01_text">大型居民建筑物，商业建筑物和工业建筑物以增添城市的多元化。可以大大提高居民的生活标准。</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>

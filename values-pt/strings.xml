@@ -24,7 +24,7 @@
     <string name="createcity_sizebig">Grande</string>
     <string name="createcity_sizeother">Outros</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Estado: %1$,dͲ</string>
+    <string name="game_estate">Estado: %1$s</string>
     <string name="game_rating">%1$d</string>
     <string name="settings_resolutionlowlow">Muito baixo</string>
     <string name="settings_resolutionlow">Baixo</string>
@@ -67,8 +67,8 @@
     <string name="draftselector_titlepolice">Polícia</string>
     <string name="draftselector_titlefiredepartment">Departamento de Bombeiros</string>
     <string name="draftselector_cmdbuild">Construir</string>
-    <string name="draftselector_price">Preço: %1$,dͲ</string>
-    <string name="draftselector_monthlyprice">Preço mensal: %1$,dͲ</string>
+    <string name="draftselector_price">Preço: %s</string>
+    <string name="draftselector_monthlyprice">Preço mensal: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Deletar</string>
     <string name="loadcity_deletedialog_text">Deseja realmente excluir?</string>
@@ -209,7 +209,7 @@
     <string name="ci_budget_income">Renda (por mês)</string>
     <string name="ci_budget_spending">Gastos (por mês)</string>
     <string name="ci_budget_taxes">Taxas</string>
-    <string name="money">%1$,dͲ</string>
+    <string name="money">%1$s</string>
     <string name="ci_water_title">Água</string>
     <string name="ci_energy_title">Energia</string>
     <string name="ci_info_title">Visão da cidade</string>
@@ -239,7 +239,7 @@
     <string name="notify_citysize">
     Parabéns, sua cidade excede o tamanho de %1$,d habitantes!
     </string>
-    <string name="game_placedprice">%1$,dͲ</string>
+    <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Fonte de agua</string>
     <string name="draft_waterfountain01_text">Habitantes vão gostar.</string>
     <string name="draft_treepark01_title">Parque de árvore</string>
@@ -589,11 +589,11 @@
     <string name="disaster_nuke_cmdtext">Experimente</string>
     <string name="budget_loans">Empréstimo</string>
     <string name="ci_loan_loanlist">
-    Empréstimos ativos (total %1$,dͲ in %2$,d/%3$,d empréstimos):
+    Empréstimos ativos (total %1$s in %2$,d/%3$,d empréstimos):
     </string>
     <string name="ci_loan_remaining_runtime">Tempo restante: %2$d mês(es), %1$d dia(s)</string>
-    <string name="ci_loan_paybackcost">Pagar o preço: %1$,dͲ</string>
-    <string name="ci_loan_estate">Estado: %1$,dͲ</string>
+    <string name="ci_loan_paybackcost">Pagar o preço: %1$s</string>
+    <string name="ci_loan_estate">Estado: %1$s</string>
     <string name="topic_support_ads">Você pode nos apoiar, tocando em anúncios:)</string>
     <string name="settings_disaster_tornado">Tornado</string>
     <string name="disaster_tornado_title">Tornado</string>
@@ -1068,7 +1068,7 @@
     <string name="settings_autoload">Auto load last city</string>
     <string name="dialog_renameregion_title">Rename region</string>
     <string name="dialog_renameregion_text">Enter here a new name for the region:</string>
-    <string name="shop_diamonds">%1$,d diamonds for %2$s</string>
+    <string name="shop_diamonds">%1$s diamonds for %2$s</string>
     <string name="draft_townhall02_title">Big cityhall</string>
     <string name="draft_townhall02_text">A big city hall for a big city. It\'s a thank you for 1 M downloads.</string>
     <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
@@ -1105,7 +1105,7 @@
     <string name="dialog_smooth_title">Smooth graphics</string>
     <string name="dialog_smooth_text">Science! We found a solution to improve game resolution. Would you like to use it?\n\nThis can be changed in the settings any time.</string>
     <string name="budget_military">Military</string>
-    <string name="draftselector_monthlyincome">Monthly income: %1$,dͲ</string>
+    <string name="draftselector_monthlyincome">Monthly income: %s</string>
     <string name="draft_decosmallmountain00_title">Small mountain</string>
     <string name="draft_feature_mountain00_title">Small mountain</string>
     <string name="draft_zonemilitary_text">Military buildings may only be placed within this zone.</string>
@@ -1135,5 +1135,18 @@
     <string name="notification00_text">Mayor, we need you to spend all the money!</string>
     <string name="roadinfo_bridgetype">Bridge type</string>
     <string name="draft_feature_buildings01_text">Big residential, commercial and industrial buildings for more variety in the city. Boosts living standard of your inhabitants.</string>
+    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_presentdaily_title">Daily delivery</string>
+    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_day">Day %1$d</string>
+    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="settings_shortmoney">Abbreviate money</string>
+    <string name="dialog_newsign_title">New label</string>
+    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_editsign_title">Edit label</string>
+    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
+    <string name="dialog_editsign_delete">Delete</string>
+    <string name="draft_sign_tool_title">Label</string>
+    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
 
 </resources>
