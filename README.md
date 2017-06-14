@@ -20,7 +20,6 @@ values-tr: Turkish</br>
 values-uk: Ukrainian</br>
 values-zh-rTW: Traditional Chinese</br>
 values-zh: Chinese</br>
-values-zh-rTW: Traditional Chinese</br>
 
 For more two letter language codes see http://www.loc.gov/standards/iso639-2/php/code_list.php
 You might just add an apropriate directory in order to add a new language.
