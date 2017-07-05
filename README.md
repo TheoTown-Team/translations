@@ -15,7 +15,7 @@ values-nl: Dutch</br>
 values-pl: Polish</br>
 values-pt: Portuguese</br>
 values-ru: Russian</br>
-values-sr: Bosnian</br>
+values-sr: Serbian</br>
 values-tr: Turkish</br>
 values-uk: Ukrainian</br>
 values-zh-rTW: Traditional Chinese</br>
