@@ -597,6 +597,7 @@
     <string name="draftselector_building_workers">직장인: %1$d</string>
     <string name="draftselector_building_size">크기: %1$dx%2$d</string>
     <string name="happiness_education">교육</string>
+    
     <string name="draft_marker_densitymarker_title">밀도</string>
     <string name="draft_marker_densitymarker_text">건물의 밀도를 보여줍니다.</string>
     <string name="draft_marker_happinessmarker_title">상태</string>
@@ -1058,74 +1059,74 @@
     <string name="settings_buildingtoolold">Old building tool</string>
     <string name="settings_roadautojoin">Auto join road tool</string>
 
-    <string name="tut_start00">What a lovely place, isn\'t it?</string>
-    <string name="tut_start01">However, let\'s build a big city, but maybe we should start slowly.</string>
-    <string name="tut_start02">Tap on the screen to move the map. You can zoom with two fingers.</string>
-    <string name="tut_start03">Great, I think you have some feeling for the controls now. So we can start with your first city.</string>
-    <string name="tut_build00">How convenient, the nation has already built some roads here, so we can use them for free.</string>
-    <string name="tut_build01">Let\'s declare a residential area here. People will build houses on their own then.</string>
-    <string name="tut_build02">Better we surround the area with some roads. People will only build near roads.</string>
-    <string name="tut_build03">Now we have to wait for people to move into our town.</string>
-    <string name="tut_build030">Hey, whats that, looks as if someone has no energy?!</string>
-    <string name="tut_build04">Of course not. We have no energy source, yet. Let\'s build some solar panels near the highway.</string>
-    <string name="tut_build05">Now we need some wires to connect the residential area with the panels.</string>
-    <string name="tut_build06">Construction of the panels takes some time. You can either wait or tap on it to accelerate building process for free.</string>
-    <string name="tut_build07">Ok, we have energy now. But wait, what\'s that? People also want to have water?</string>
-    <string name="tut_build08">It\'s not that difficult. Let\'s build a water tower to provide some water.</string>
-    <string name="tut_build09">Here we also have to wait for the building to complete. Instead of waiting we might buy it for diamonds.</string>
-    <string name="tut_build10">For water we use pipes to transport it to your buildings. Build some for future purposes.</string>
-    <string name="tut_build11">Great, we have now some inhabitants with power and water. But wait, something is still missing...</string>
-    <string name="tut_build110">Mayor, we have no jobs nor a place to buy things!</string>
-    <string name="tut_build12">Alright, we also need commercial and industrial zones. Let\'s have a look into the demand overview.</string>
-    <string name="tut_build13">Here you can see demand for res (residential), com (commercial) and ind (industrial) buildings.</string>
-    <string name="tut_build14">For each type (res, com or ind)) there are three levels of wealth: Ͳ, ͲͲ and ͲͲͲ which correspond to poor, medium and rich.</string>
-    <string name="tut_build15">Of course we want to have rich inhabitants only, but we have to start slowly. As you can see we need some Ͳ commercials for now.</string>
-    <string name="tut_build16">Declaring some more commercial zones? I think you can do that.</string>
-    <string name="tut_build17">Well done! According to the demand graph there\'s demand for industrial zone, now. Let\'s declare it short of our residential area.</string>
-    <string name="tut_build18">On average you need as much commercial and industrial zones as you have residential ones.</string>
-    <string name="tut_build19">You may have noticed that it\'s easy to lose clear view in your city. Therefore I would like to present you: The Minimap</string>
-    <string name="tut_build22">Great. Let\'s have a look into other magic stuff.</string>
-    <string name="tut_build23">Here you can see general information about your city. You can rename it by tapping on it\'s current name.</string>
-    <string name="tut_build24">Another useful tool is this one.</string>
-    <string name="tut_build25">It shows you details about the happiness of your inhabitants.</string>
-    <string name="tut_build26">Wouldn\'t it be cool to be the master of time? Try to make anything faster.</string>
-    <string name="tut_build27">Now pause the game.</string>
-    <string name="tut_build28">And now go back to normal speed...</string>
-    <string name="tut_build29">I\'m sorry to interrupt you, but there\'s also non magical stuff. Money for example.</string>
-    <string name="tut_build30">Here I give you a short overview about our money. We can earn money by taxes, so it\'s in our interest to get more inhabitants.</string>
-    <string name="tut_build31">In some cases we might have to take a loan... let\'s hope that this won\'t happen.</string>
-    <string name="tut_build32">I think we have enough money...for now. Let\'s focus more on building. Lets build some parks. People like parks.</string>
-    <string name="tut_build33">Oops, that\'s one park more than I wanted. Let\'s remove one.</string>
-    <string name="tut_build34">Good work, so far. Now I want to present you the rank indicator. It shows you the current rank of your city.</string>
-    <string name="tut_build35">Gain inhabitants and solve disasters to reach the next rank. This way you can unlock more buildings.</string>
-    <string name="tut_build36">About disasters, they will happen... You can access action forces via this tab, when available.</string>
-    <string name="tut_build37">To make things visible you can use this tab.</string>
-    <string name="tut_present00">I told you most of the things I know. But one important thing left: There are presents</string>
-    <string name="tut_present01">You\'ll get a present for free every day.</string>
-    <string name="tut_end00">If you\'re searching for a great community, you will find it on www.theotown.com</string>
-    <string name="tut_end01">And now, have fun :)</string>
+    <string name="tut_start00">얼마나 아름다운 장소인가요, 그렇지 않습니까?</string>
+    <string name="tut_start01">그렇지만, 큰 도시를 지어봅시다, 단 아마 우리는 천천히 시작해야 할 것입니다.</string>
+    <string name="tut_start02">맵을 움직이기 위해 탭하세요. 2개의 손가락으로 확대할 수도 있습니다.</string>
+    <string name="tut_start03">좋습니다, 전 이제 당신이 조정에 대해 느낌이 왔을 것이라 생각됩니다. 그런고로 우린 당신의 첫번째 도시를 시작할 수 있습니다.</string>
+    <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이것들을 무료로 사용할 수 습니다.</string>
+    <string name="tut_build01">이곳에 주거구역을 지정해 봅시다. 사람들은 자신들의 집을 지을 것입니다.</string>
+    <string name="tut_build02">구역 주위로 도로를 건설하는 것이 더 좋겠습니다. 사람들은 오직 도로 근처에만 건물을 건설합니다.</string>
+    <string name="tut_build03">이제 우리는 사람들이 마을에 오도록 기달릴 필요가 있습니다.</string>
+    <string name="tut_build030">저기요, 저게뭔가요, 마치 누군가 전력이 없는 것처럼 보입니다!</string>
+    <string name="tut_build04">당연합니다. 우리는 전력 공급원이 없습니다, 아직은요. 고속도로 근처에 태양광 발전기를 지어봅시다.</string>
+    <string name="tut_build05">이제 우리는 발전기와 주거구역을 이을 전선이 필요합니다.</string>
+    <string name="tut_build06">발전소를 건설하는데는 시간이 조금 걸립니다. 당신은 기달리거나 이곳을 눌러 무료로 건설을 가속화 할수 있습니다.</string>
+    <string name="tut_build07">좋아요, 우리는 전력이 있습니다. 하지만 잠시만요, 저게 뭔가요? 사람들이 또한 물도 원한다구요?</string>
+    <string name="tut_build08">이것은 어렵지 않습니다. 물을 공급하기 위해 급수탑을 지어봅시다.</string>
+    <string name="tut_build09">여기서 우린 또한 건물이 완공되기까지 기달려야 합니다. 기달리는 것을 대신해 우리는 다이아몬드로 구매할수도 있습니다.</string>
+    <string name="tut_build10">물을 위해서 우리는 수도관으로 건물에 물을 공급할수 있습니다. 후일을 위해서 더 지으세요.</string>
+    <string name="tut_build11">좋습니다, 우리는 이제 물과 전력을 시민들에게 공급합니다. 근데 잠만요, 아직도 뭔가가 없습니다...</string>
+    <string name="tut_build110">시장님, 우리는 직장과 물건을 살 장소가 없습니다!</string>
+    <string name="tut_build12">일단, 우리는 상업과 공업구역이 필요합니다. 수요 개요를 한번 보도록 합시다.</string>
+    <string name="tut_build13">여기서 당신은 각각 res(주거), com(상업) 그리고 ind (공업) 건물을 위한 수요를 볼수 있습니다.</string>
+    <string name="tut_build14">각각의 유형엔 (주거, 상업, 공업) 부에 따라서 Ͳ(1등급), ͲͲ(2등급), ͲͲͲ(3등급), 각각 저소득층,중산층,고소득층에 대응되는 3가지 등급이 있습니다.</string>
+    <string name="tut_build15">당연히 우리는 고소득층시민만 살기를 원합니다, 하지만 우리는 천천히 시작해야만 합니다. 보다싶이 지금 우리는 Ͳ(1등급)상업시설이 필요합니다.</string>
+    <string name="tut_build16">상업구역을 지정하는거요? 제생각엔 당신은 잘 해낼 겁니다.</string>
+    <string name="tut_build17">아주 좋습니다! 수요그래프에 따르면 공업시설의 수요가 있습니다. 이제, 우리의 부족한 주거구역을 지정해 봅시다.</string>
+    <string name="tut_build18">평균적으로 당신은 상업구역과 공업구역 만큼의 주거구역이 필요합니다.</string>
+    <string name="tut_build19">당신은 아마 당신의 도시의 분명한 전망을 잃기가 쉬움을 눈치챘을 겁니다. 그런 이유로 저는 당신에게 선물을 하나 주고 싶습니다. 바로 미니맵</string>
+    <string name="tut_build22">좋습니다. 이제 다른 마법도구를 조사해봅시다.</string>
+    <string name="tut_build23">여기엔 당신의 도시에 대한 일반적인 정보가 있습니다. 당신은 원래의 이름을 눌러서 이름을 바꿀 수 있습니다.</string>
+    <string name="tut_build24">또다른 유용한 도구는 이것입니다.</string>
+    <string name="tut_build25">이것의 당신에게 당신의 시민들의 행복도를 보여줍니다.</string>
+    <string name="tut_build26">시간의 주인이 되는것도 멋지지 않을까요? 무엇이든 빨라지도록 해보세요.</string>
+    <string name="tut_build27">게임을 일시정지 해보세요.</string>
+    <string name="tut_build28">그리고 이제 일반속도로 되돌아갈 겁니다...</string>
+    <string name="tut_build29">당신을 방해해서 죄송합니다만, 여기엔 마법이 아닌것들이 필요합니다. 예시로 자본이라든지요.</string>
+    <string name="tut_build30">여기 우리의 자본에 대한 개요를 보여드리겠습니다. 우리는 세금으로 돈을 법니다, 그래서 이것은 우리가 인구수를 늘리는것과 관련이 있습니다.</string>
+    <string name="tut_build31">만일의 경우엔 우리는 대출을 할겁니다...그런일이 일어나지 않도록 바랍니다.</string>
+    <string name="tut_build32">제 생각엔 우린 돈이 충분한것 같습니다...지금으로서는요. 더많은 건물에 초점을 맞춰봅시다. 공원을 건설합니다. 사람들은 공원을 좋아합니다.</string>
+    <string name="tut_build33">이런, 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
+    <string name="tut_build34">아주 좋아요, 지금까지. 이제 저는 수준척도를 보여주고 싶습니다. 이것은 당신의 도시의 현재 수준을 보여줍니다.</string>
+    <string name="tut_build35">다음 수준으로 가기위해 인구수를 늘리고 재앙을 해결합니다. 이방법으로 당신은 더많은 건물을 해금할 수 있습니다.</string>
+    <string name="tut_build36">재앙에 대해서는, 그건 발생할 겁니다... 이창을 통해서 대테러부대와 연락할 수 있습니다, 사용가능 하다면요.</string>
+    <string name="tut_build37">상황을 보이게 하려면 당신은 이 창을 사용할 수 있습니다.</string>
+    <string name="tut_present00">제가아는 모든 중요한 것들을 말했습니다. 하지만 중요한것 하나가 남았습니다: 여기 선물입니다</string>
+    <string name="tut_present01">당신은 매일매일 무료로 선물을 하나 받을 것입니다.</string>
+    <string name="tut_end00">만약 당신이 거대한 커뮤니티를 찾는다면, 이곳, www.theotown.com에서 찾을 수 있을 겁니다</string>
+    <string name="tut_end01">그리고 이젠, 즐겜하세요 :)</string>
 
-    <string name="featureselector_time">%1$s of super fast speed</string>
-    <string name="draft_feature_time00_title">Time controller</string>
-    <string name="draft_feature_time00_text">Gives you limited ability for super fast game speed.</string>
-    <string name="draft_feature_time01_title">Advanced time mage</string>
-    <string name="draft_feature_time01_text">You can use super fast game speed for a longer time.</string>
-    <string name="draft_feature_time02_title">MASTER of Time</string>
-    <string name="draft_feature_time02_text">You\'re the ultimate master of all times. Gives you great stamina for super fast speed usage.</string>
+    <string name="featureselector_time">%1$s 만큼의 매우빠름속도</string>
+    <string name="draft_feature_time00_title">시간 조정기</string>
+    <string name="draft_feature_time00_text">매우빠름속도를 위한 제한된 능력을 제공합니다.</string>
+    <string name="draft_feature_time01_title">고급 시간술사</string>
+    <string name="draft_feature_time01_text">매우빠름속도를 더 오랜시간 동안 사용할 수 있습니다.</string>
+    <string name="draft_feature_time02_title">시간의 마스터</string>
+    <string name="draft_feature_time02_text">당신은 모든 시간에 대해 절대적인 주인입니다. 매우빠름속도에 사용하기 위한 능력을 제공합니다.</string>
 
-    <string name="draft_feature_weather_machine00_title">Weather machine</string>
-    <string name="draft_feature_weather_machine00_text">Uses some top secret technology to control weather.</string>
-    <string name="draft_weather_machine00_title">Weather machine</string>
-    <string name="draft_weather_machine00_text">Uses some top secret technology! You can use it to control weather.</string>
+    <string name="draft_feature_weather_machine00_title">기상 조정 장치</string>
+    <string name="draft_feature_weather_machine00_text">날씨를 조정하기 위한 극비 과학기술을 사용하세요.</string>
+    <string name="draft_weather_machine00_title">기상 조정 장치</string>
+    <string name="draft_weather_machine00_text">극비 과학기술을 사용하세요! 이것으로 날씨를 조정할 수 있습니다.</string>
 
-    <string name="draft_mltry_fence01_title">Military fence</string>
-    <string name="draft_mltry_fence01_text">A military fence for decoration purposes.</string>
+    <string name="draft_mltry_fence01_title">군 철책</string>
+    <string name="draft_mltry_fence01_text">장식목적의 군 철책 입니다.</string>
 
     <string name="store_title">TheoTown</string>
-    <string name="store_shortdesc">Build your own city in this city simulation game.</string>
-    <string name="store_longdesc">Do you want to build your own city? In TheoTown you can watch your own city growing. Declare zones for residential, commercial or industrial buildings and build road to connect them. Make your city more attractive by building parks, schools and many more facilities.
+    <string name="store_shortdesc">당신만의 도시를 이 도시건설 시뮬레이션 게임에서 만드세요.</string>
+    <string name="store_longdesc">당신만의 도시를 만들고 싶나요? TheoTown에서 당신은 당신의 도시가 발전하는 것을 볼수 있습니다. 주거, 상업, 공업 건물를위한 구역을 지정하고, 도로를 건설하여 이들을 연결하세요. 공원, 학교 그리고 더많은 시설을 지어서 당신의 도시를 더욱 매력적으로 만드세요.
 
-If you provide TheoTown access to external storage, it will save cities in the directory TheoTown/maps on your device so you have access to them.</string>
+만일 당신이 TheoTown에 외부 저장공간 제공을 허용한다면, 당신의 도시가 디바이스의 TheoTown/maps 디렉토리에 저장될 것입니다. 그러니 접근권한을 주십시오.</string>
 
     <string name="settings_sound_weather">날씨</string>
 
@@ -1139,18 +1140,18 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_ranger00_title">산림업자의 오두막</string>
     <string name="draft_ranger00_text">가끔 자연이 너무 오염되었을때 나무를 다시 심어야 할 수도 있습니다. 이 집은 나무를 자동으로 다시 심습니다.</string>
 
-    <string name="ci_general_citypoints">City points: %1$s</string>
-    <string name="settings_ringbuildindicator">Construction indicator</string>
+    <string name="ci_general_citypoints">도시 포인트 : %1$s</string>
+    <string name="settings_ringbuildindicator">건설 지표</string>
 
-    <string name="draft_tool_car_follower00_title">Follow car</string>
-    <string name="draft_tool_car_follower00_text">Just follows a random car.</string>
-    <string name="draft_mltry_bunker00_title">Bunker</string>
-    <string name="draft_mltry_bunker00_text">Inhabitants feel save near bunkers. They\'re at least fire proof.</string>
-    <string name="draft_zoneairport_title">Airfield</string>
-    <string name="draft_zoneairport_text">Build your airport within this airfield zone.</string>
-    <string name="draft_decoletters00_title">Letters</string>
-    <string name="draft_decoletters00_text">Just some letters to give %1$s a personal touch.</string>
-    <string name="draft_feature_letters00_title">Letters decoration</string>
-    <string name="draft_feature_letters00_text">Some placeable letters that can be used for decorative purposes.</string>
+    <string name="draft_tool_car_follower00_title">차량 따라가기</string>
+    <string name="draft_tool_car_follower00_text">무작위 차량 따라가기.</string>
+    <string name="draft_mltry_bunker00_title">벙커</string>
+    <string name="draft_mltry_bunker00_text">시민들은 벙커 주위에서 안전함을 느낍니다. 최소 내화입니다.</string>
+    <string name="draft_zoneairport_title">비행장</string>
+    <string name="draft_zoneairport_text">이 비행장 구역에 당신의 공항을 지으세요.</string>
+    <string name="draft_decoletters00_title">편지</string>
+    <string name="draft_decoletters00_text">조금의 편지로 %1$s 에게 개인적인 손길을 보내세요.</string>
+    <string name="draft_feature_letters00_title">편지 장식</string>
+    <string name="draft_feature_letters00_text">장식적으로 사용가능한 배치 가능한 편지입니다.</string>
 
 </resources>
