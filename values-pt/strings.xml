@@ -25,7 +25,7 @@
     <string name="createcity_sizeother">Outros</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Estado: %1$s</string>
-    <string name="game_rating">%1$d</string>
+    <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">Muito baixo</string>
     <string name="settings_resolutionlow">Baixo</string>
     <string name="settings_resolutionnormal">Normal</string>
@@ -255,8 +255,8 @@
     <string name="buildinginfo_com2">Comercial ͲͲͲ</string>
     <string name="buildinginfo_ind1">Industrial ͲͲ</string>
     <string name="buildinginfo_ind2">Industrial ͲͲͲ</string>
-    <string name="buildinginfo_habitants">Habitantes: %1$d/%2$d</string>
-    <string name="buildinginfo_worker">Trabalhadores: %1$d/%2$d</string>
+    <string name="buildinginfo_habitants">Habitantes: %1$,d/%2$,d</string>
+    <string name="buildinginfo_worker">Trabalhadores: %1$,d/%2$,d</string>
     <string name="topic_giveup">Nunca desista</string>
     <string name="dialog_screenshot_error">
     Não pode criar o diretório salvo para %1$s.Verifique as permissões do app.
@@ -311,9 +311,9 @@
     <string name="toolremove_pipe_title">Remover tubulação</string>
     <string name="draftselector_cmdremove">Remover</string>
     <string name="draftselector_cmdview">Ver</string>
-    <string name="busstopinfo_usage">Esperando: %2$d/%3$d\nUso: %1$.1f%%</string>
+    <string name="busstopinfo_usage">Esperando: %2$,d/%3$,d\nUso: %1$.1f%%</string>
     <string name="ci_rating_title">Avaliação</string>
-    <string name="ci_energy_networks">%1$d rede(s)</string>
+    <string name="ci_energy_networks">%1$,d rede(s)</string>
     <string name="ci_energy_produced">Produzido: %1$,.0fkWh (%2$,d construções)</string>
     <string name="ci_energy_consumed">Usado: %1$,.0fkWh (%2$,d construçõess)</string>
     <string name="ci_energy_ratio">Uso: %1$.1f%%</string>
@@ -321,7 +321,7 @@
     <string name="ci_energy_single">único</string>
     <string name="ci_water_all">Geral</string>
     <string name="ci_water_single">único</string>
-    <string name="ci_water_networks">%1$d rede(s)</string>
+    <string name="ci_water_networks">%1$,d rede(s)</string>
     <string name="ci_water_consumed">Usado: %1$,.0fL/h (%2$,d construções)</string>
     <string name="ci_water_produced">Produzido: %1$,.0fL/h (%2$,d construções)</string>
     <string name="ci_water_ratio">Uso: %1$.1f%%</string>
@@ -347,10 +347,10 @@
     <string name="draft_footballfield00_title">Campo de futebol</string>
     <string name="draft_footballfield00_text">Um campo de futebol vai fazer seus habitantes felizes.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="draftselector_upgrades">%1$d Melhoria(s) disponível</string>
-    <string name="buildinginfo_upgrades">%1$d/%2$d Melhoria(s)</string>
+    <string name="draftselector_upgrades">%1$,d Melhoria(s) disponível</string>
+    <string name="buildinginfo_upgrades">%1$,d/%2$,d Melhoria(s)</string>
     <string name="buildinginfo_construction">
-    Em construção: %1$.0f%% (%2$d dia(s) restantes)
+    Em construção: %1$.0f%% (%2$,d dia(s) restantes)
     </string>
     <string name="draft_footballstadion00_title">Estádio</string>
     <string name="draft_footballstadion00_text">Um estádio de futebol.</string>
@@ -591,7 +591,7 @@
     <string name="ci_loan_loanlist">
     Empréstimos ativos (total %1$s in %2$,d/%3$,d empréstimos):
     </string>
-    <string name="ci_loan_remaining_runtime">Tempo restante: %2$d mês(es), %1$d dia(s)</string>
+    <string name="ci_loan_remaining_runtime">Tempo restante: %2$,d mês(es), %1$,d dia(s)</string>
     <string name="ci_loan_paybackcost">Pagar o preço: %1$s</string>
     <string name="ci_loan_estate">Estado: %1$s</string>
     <string name="topic_support_ads">Você pode nos apoiar, tocando em anúncios:)</string>
@@ -616,7 +616,7 @@
     <string name="requirement_peoplecount_rich">Necessidade: Uma população rica de %1$,d</string>
     <string name="requirement_building">Nessesidade: %1$s</string>
     <string name="draftselector_onlyone">Só pode ser construído uma vez</string>
-    <string name="draftselector_onlyn">Só pode ser construído %1$d vezes</string>
+    <string name="draftselector_onlyn">Só pode ser construído %1$,d vezes</string>
     <string name="draft_church02_title">Pequena Igreja</string>
     <string name="draft_church02_text">Uma igreja para cidades pequenas.</string>
     <string name="draft_mosque01_title">Pequena mesquita</string>
@@ -679,11 +679,11 @@
     <string name="draftselector_residential">Residencial</string>
     <string name="draftselector_commercial">Comercial</string>
     <string name="draftselector_industrial">Industrial</string>
-    <string name="draftselector_building_level">Nível: %1$d</string>
+    <string name="draftselector_building_level">Nível: %1$,d</string>
     <string name="draftselector_building_zone">Zona: %1$s</string>
-    <string name="draftselector_building_habitants">Habitantes: %1$d</string>
-    <string name="draftselector_building_workers">Trabalhadores: %1$d</string>
-    <string name="draftselector_building_size">Tamanho: %1$dx%2$d</string>
+    <string name="draftselector_building_habitants">Habitantes: %1$,d</string>
+    <string name="draftselector_building_workers">Trabalhadores: %1$,d</string>
+    <string name="draftselector_building_size">Tamanho: %1$,dx%2$,d</string>
     <string name="happiness_education">Educação</string>
     <string name="draft_marker_densitymarker_title">Densidade</string>
     <string name="draft_marker_densitymarker_text">Densidade da construção.</string>
@@ -727,7 +727,7 @@
     <string name="settings_lowresmapscreenshot">Resolução mais baixa para a captura de tela do mapa</string>
     <string name="draft_marina00_title">Marinha</string>
     <string name="draft_marina00_text">Entretenimento para habitantes ricos.</string>
-    <string name="loadcity_version">Versão %1$d</string>
+    <string name="loadcity_version">Versão %1$,d</string>
     <string name="loadcity_memdialog_title">Sem acesso à memória externa</string>
     <string name="loadcity_memdialog_text">
     As cidades serão salvas no armazenamento interno. Você não terá acesso a eles.
@@ -777,7 +777,7 @@
     <string name="budget_railstation">Estação ferroviária</string>
     <string name="draft_marker_ticketmarker_title">Ingressos</string>
     <string name="draft_marker_ticketmarker_text">Mostra a satisfação dos ingressos.</string>
-    <string name="trainstationinfo_usage">Esperando: %2$d/%3$d\nUso: %1$.1f%%</string>
+    <string name="trainstationinfo_usage">Esperando: %2$,d/%3$,d\nUso: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Pequeno dpt. de bombeiros.</string>
     <string name="draft_firedepartment01_text">Contra o fogo.</string>
     <string name="draft_police01_title">Pequeno dpt. de polícia</string>
@@ -874,7 +874,7 @@
     <string name="tutorial_buildbridge_c">Então, nós terminamos com a construção.</string>
     <string name="draft_beachnearwater00_title">Praia</string>
     <string name="draft_beachnearwater00_text">Tenha um dia maravilhoso na praia.</string>
-    <string name="loadcity_version_premium">Versão %1$d (Premium)</string>
+    <string name="loadcity_version_premium">Versão %1$,d (Premium)</string>
     <string name="loadcity_preview">Cidade exemplo</string>
     <string name="settings_autorestoresamples">Restaurar cidades de exemplo</string>
     <string name="settings_autountouchable">Definir edifícios intocáveis</string>
@@ -1060,7 +1060,7 @@
     <string name="menu_mapscreenshot">Take map picture</string>
     <string name="menu_save">Save</string>
     <string name="menu_title">Menu</string>
-    <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$d maps at once.</string>
+    <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$,d maps at once.</string>
     <string name="dialog_unlocktime_title">Shorten time</string>
     <string name="dialog_unlocktime_text">It\'s a lot of work to unlock a map. May you want us to support us? This can reduce unlocking time by 30 minutes.</string>
     <string name="region_speedup">Speed up</string>
@@ -1138,8 +1138,8 @@
     <string name="dialog_diamondshop_recommended">Recommended</string>
     <string name="dialog_presentdaily_title">Daily delivery</string>
     <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
-    <string name="dialog_presentdaily_day">Day %1$d</string>
-    <string name="rank_needed_xp">At least %1$d city points needed</string>
+    <string name="dialog_presentdaily_day">Day %1$,d</string>
+    <string name="rank_needed_xp">At least %1$,d city points needed</string>
     <string name="settings_shortmoney">Abbreviate money</string>
     <string name="dialog_newsign_title">New label</string>
     <string name="dialog_newsign_text">Enter a name for this area.</string>
@@ -1159,7 +1159,7 @@
     <string name="draft_searocks00_text">Some rocks in the water.</string>
     <string name="createcity_decos">With decorations</string>
     <string name="tutorial_cmdskip">Skip tutorial</string>
-    <string name="dialog_skipbuildtime_ad">Skip %1$d days</string>
+    <string name="dialog_skipbuildtime_ad">Skip %1$,d days</string>
     <string name="setting_showtrafficmarker">Show traffic in road tool</string>
     <string name="menu_console">Console</string>
     <string name="topic_crispr">CRISPR may change your life</string>
@@ -1273,5 +1273,48 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="settings_language">Language</string>
     <string name="settings_language_hint">You may have to restart the app to properly change the language.</string>
     <string name="settings_language_default">Default (%s)</string>
+
+    <string name="settings_showroadlength">Show road length</string>
+    <string name="draft_rnk_metropolis_small_title">Small Metropolis</string>
+    <string name="draft_rnk_metropolis_big_title">Big Metropolis</string>
+    <string name="draft_rnk_metropolis_large_title">Large Metropolis</string>
+    <string name="draft_rnk_conurbation_small_title">Small Conurbation</string>
+    <string name="draft_rnk_conurbation_big_title">Big Conurbation</string>
+    <string name="draft_rnk_conurbation_large_title">Large Conurbation</string>
+    <string name="draft_rnk_megalopolis_small_title">Small Megalopolis</string>
+    <string name="draft_rnk_megalopolis_big_title">Big Megalopolis</string>
+    <string name="draft_rnk_megalopolis_large_title">Large Megalopolis</string>
+    <string name="draft_rnk_country_small_title">Small Country</string>
+    <string name="draft_rnk_country_medium_title">Country</string>
+    <string name="draft_rnk_country_big_title">Big Country</string>
+    <string name="draft_rnk_country_large_title">Large Country</string>
+    <string name="draft_rnk_continent_small_title">Small Continent</string>
+    <string name="draft_rnk_continent_medium_title">Continent</string>
+    <string name="draft_rnk_continent_big_title">Big Continent</string>
+    <string name="draft_rnk_continent_large_title">Large Continent</string>
+    <string name="draft_rnk_planet_small_title">Small Planet</string>
+    <string name="draft_rnk_planet_medium_title">Planet</string>
+    <string name="draft_rnk_planet_big_title">Big Planet</string>
+    <string name="draft_rnk_planet_large_title">Large Planet</string>
+    <string name="draft_rnk_solar_system_small_title">Small Solar System</string>
+    <string name="draft_rnk_solar_system_medium_title">Solar System</string>
+    <string name="draft_rnk_solar_system_big_title">Big Solar System</string>
+    <string name="draft_rnk_solar_system_large_title">Large Solar System</string>
+    <string name="draft_rnk_universe_small_title">Small Universe</string>
+    <string name="draft_rnk_universe_medium_title">Universe</string>
+    <string name="draft_rnk_universe_big_title">Big Universe</string>
+    <string name="draft_rnk_universe_large_title">Large Universe</string>
+    <string name="draft_rnk_multiverse_small_title">Small Multiverse</string>
+    <string name="draft_rnk_multiverse_medium_title">Multiverse</string>
+    <string name="draft_rnk_multiverse_big_title">Big Multiverse</string>
+    <string name="draft_rnk_multiverse_large_title">Large Multiverse</string>
+    <string name="draft_rnk_infinity_small_title">Small Infinity</string>
+    <string name="draft_rnk_infinity_medium_title">Infinity</string>
+    <string name="draft_rnk_infinity_big_title">Big Infinity</string>
+    <string name="draft_rnk_infinity_large_title">Large Infinity</string>
+    <string name="draft_prm_park00_title">Big Fountain</string>
+    <string name="draft_prm_park00_text">A wonderful fountain that will delight the inhabitants of %1$s and you, too.</string>
+    <string name="draft_feature_fountain00_title">Big Fountain</string>
+    <string name="draft_feature_fountain00_text">A wonderful fountain that will delight the inhabitants of your town and also you.</string>
 
 </resources>
