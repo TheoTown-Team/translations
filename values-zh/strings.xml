@@ -215,14 +215,14 @@
     <string name="ci_water_title">供水</string>
     <string name="buildinginfo_happiness_comp">最低满意度: %2$.0f%% (%1$s)</string>
     <string name="buildinginfo_happiness">总满意度: %1$.0f%%</string>
-    <string name="buildinginfo_habitants">居民: %1$d/%2$d</string>
-    <string name="buildinginfo_construction">建设中: %1$.0f%% (还需%2$d天)</string>
+    <string name="buildinginfo_habitants">居民: %1$,d/%2$,d</string>
+    <string name="buildinginfo_construction">建设中: %1$.0f%% (还需%2$,d天)</string>
     <string name="buildinginfo_upgrade">升级</string>
     <string name="buildinginfo_powerusage">使用: %1$.01f%%</string>
-    <string name="buildinginfo_upgrades">%1$d/%2$d升级</string>
+    <string name="buildinginfo_upgrades">%1$,d/%2$,d升级</string>
     <string name="buildinginfo_waterusage">使用: %1$.01f%%</string>
     <string name="buildinginfo_waterwaste">水污染: %1$.1f%%</string>
-    <string name="buildinginfo_worker">工人: %1$d/%2$d</string>
+    <string name="buildinginfo_worker">工人: %1$,d/%2$,d</string>
     <string name="ca_education_high_text">高等教育: %1$,d/%2$,d大学生</string>
     <string name="ca_education_low_text">小学教育: %1$,d/%2$,d小学生</string>
     <string name="ca_health_text">医疗设施: %1$,d/%2$,d患者</string>
@@ -243,7 +243,7 @@
     <string name="loadcity_memdialog_cmdremind">提醒我</string>
     <string name="loadcity_errordialog_title">加载失败</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="loadcity_version">版本 %1$d</string>
+    <string name="loadcity_version">版本 %1$,d</string>
     <string name="loadcity_title">加载城市</string>
     <string name="money">%1$s</string>
     <string name="loadcity_errordialog_text">这个城市无法成功加载，因为所需的文件已损坏。\n\n我们很抱歉。</string>
@@ -255,11 +255,11 @@
     <string name="influence_police_title">警察局</string>
     <string name="influence_park_title">公园</string>
     <string name="buildinginfo_untouchable">受保护建筑</string>
-    <string name="busstopinfo_usage">乘客: %2$d/%3$d\n可用: %1$.1f%%</string>
+    <string name="busstopinfo_usage">乘客: %2$,d/%3$,d\n可用: %1$.1f%%</string>
     <string name="ci_education_provided">可用位置: %1$,d</string>
     <string name="ci_education_reached">已用位置: %1$,d</string>
     <string name="ci_energy_consumed">消耗: %1$,.0fkWh (%2$,d建筑物)</string>
-    <string name="ci_energy_networks">%1$d网络</string>
+    <string name="ci_energy_networks">%1$,d网络</string>
     <string name="ci_energy_produced">生产: %1$,.0fkWh (%2$,d建筑物)</string>
     <string name="ci_energy_single">详细</string>
     <string name="ci_energy_text">不在使用中</string>
@@ -328,8 +328,8 @@
     <string name="draftselector_price">价钱: %s</string>
     <string name="draftselector_cmdview">显示</string>
     <string name="draftselector_building_zone">区域: %1$s</string>
-    <string name="draftselector_building_workers">工人: %1$d</string>
-    <string name="draftselector_building_size">大小: %1$dx%2$d</string>
+    <string name="draftselector_building_workers">工人: %1$,d</string>
+    <string name="draftselector_building_size">大小: %1$,dx%2$,d</string>
     <string name="draft_waterfountain01_title">喷泉</string>
     <string name="draft_waterfountain00_title">喷泉</string>
     <string name="draft_treepark01_title">室内公园</string>
@@ -427,7 +427,7 @@
     <string name="draft_radio00_sport_title">体育电台</string>
     <string name="draft_school00_text">为儿童提供基础教育。</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_rating">%1$d</string>
+    <string name="game_rating">%1$,d</string>
     <string name="ci_health_needed">需要: %1$,d</string>
     <string name="draft_church00_text">每个小镇都需要一个教堂</string>
     <string name="draft_townhall00_text">一个较大的城镇需要一个市政厅, 居民会喜欢它的。</string>
@@ -441,10 +441,10 @@
     <string name="ci_loan_get">收下</string>
     <string name="ci_not_available">无可显示信息</string>
     <string name="ci_water_consumed">消耗: %1$,.0fL/h (%2$,d建筑物)</string>
-    <string name="ci_water_networks">%1$d网络</string>
+    <string name="ci_water_networks">%1$,d网络</string>
     <string name="ci_water_produced">制造: %1$,.0fL/h (%2$,d建筑物)</string>
     <string name="ci_water_ratio">负荷率: %1$.1f%%</string>
-    <string name="ci_loan_remaining_runtime">剩余时间: %2$d月, %1$d天</string>
+    <string name="ci_loan_remaining_runtime">剩余时间: %2$,d月, %1$,d天</string>
     <string name="ci_water_single">详细</string>
     <string name="ci_water_text">不在使用中</string>
     <string name="createcity_seed">随机值:</string>
@@ -553,7 +553,7 @@
 \n\n如果你觉得这个游戏很有潜力，请向你们的朋友们推荐它 :)
 
 \n\n祝你玩的愉快！</string>
-    <string name="trainstationinfo_usage">乘客: %2$d/%3$d\n可用: %1$.1f%%</string>
+    <string name="trainstationinfo_usage">乘客: %2$,d/%3$,d\n可用: %1$.1f%%</string>
     <string name="topic_cake">蛋糕是个谎言!</string>
     <string name="topic_birthday_theotown">生日快乐, TheoTown :D</string>
     <string name="topic_birthday_theo">生日快乐, Theo :)</string>
@@ -582,17 +582,17 @@
     <string name="influence_firedep_text">会减少火灾。</string>
     <string name="influence_noise_text">噪音在住宅区是很不受欢迎的。</string>
     <string name="influence_park_text">居民生活会有更多乐趣, 人口密度也会增高。</string>
-    <string name="game_date">%1$d.%2$d.%3$d</string>
-    <string name="draftselector_upgrades">%1$d升级可行</string>
+    <string name="game_date">%1$,d.%2$,d.%3$,d</string>
+    <string name="draftselector_upgrades">%1$,d升级可行</string>
     <string name="draftselector_onlyone">只能建造一次。</string>
     <string name="draftselector_power">电: %1$,dkWh</string>
-    <string name="draftselector_onlyn">只能建造%1$d次。</string>
+    <string name="draftselector_onlyn">只能建造%1$,d次。</string>
     <string name="draftselector_monthlyprice">每月费用: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="draftselector_commercial">商业</string>
     <string name="draftselector_cmdShow">显示</string>
-    <string name="draftselector_building_level">等级: %1$d</string>
-    <string name="draftselector_building_habitants">居民: %1$d</string>
+    <string name="draftselector_building_level">等级: %1$,d</string>
+    <string name="draftselector_building_habitants">居民: %1$,d</string>
     <string name="draft_zoneresidential_lvl2_text">建筑密度很高的住宅区。</string>
     <string name="draft_zoneindustrial_lvl2_title">密集工业区</string>
     <string name="draft_zoneharbor_title">港口</string>
@@ -748,7 +748,7 @@
     <string name="roadinfo_trafficlights_on">开启信号灯</string>
     <string name="draft_beachnearwater00_title">沙滩</string>
     <string name="draft_beachnearwater00_text">没有什么能比在沙滩上度过一天还要更惬意的了!</string>
-    <string name="loadcity_version_premium">版本%1$d (Premium)</string>
+    <string name="loadcity_version_premium">版本%1$,d (Premium)</string>
     <string name="loadcity_preview">示范城市</string>
     <string name="settings_autorestoresamples">恢复示范城市</string>
     <string name="settings_autountouchable">建筑物默认受保护</string>
@@ -934,7 +934,7 @@
     <string name="menu_mapscreenshot">地图截图</string>
     <string name="menu_save">保存</string>
     <string name="menu_title">菜单</string>
-    <string name="region_maxconcurrentunlocks">最多%1$d地图可以同时解锁。</string>
+    <string name="region_maxconcurrentunlocks">最多%1$,d地图可以同时解锁。</string>
     <string name="dialog_unlocktime_title">减少等待时间</string>
     <string name="dialog_unlocktime_text">解锁一个地图很麻烦。你想要支持我们吗？这样的话可以使解锁加快30分钟。</string>
     <string name="region_speedup">加速</string>
@@ -1012,8 +1012,8 @@
     <string name="dialog_diamondshop_recommended">推荐</string>
     <string name="dialog_presentdaily_title">每日奖励。</string>
     <string name="dialog_presentdaily_text">明天会有更多的</string>
-    <string name="dialog_presentdaily_day">第%1$d天</string>
-    <string name="rank_needed_xp">还需要至少%1$d城市点数</string>
+    <string name="dialog_presentdaily_day">第%1$,d天</string>
+    <string name="rank_needed_xp">还需要至少%1$,d城市点数</string>
     <string name="settings_shortmoney">缩写金钱数目</string>
     <string name="dialog_newsign_title">新建标签</string>
     <string name="dialog_newsign_text">为这个地区输入一个名词。</string>
@@ -1033,7 +1033,7 @@
     <string name="draft_searocks00_text">一些在水中的岩石。</string>
     <string name="createcity_decos">带装饰</string>
     <string name="tutorial_cmdskip">跳过教程</string>
-    <string name="dialog_skipbuildtime_ad">略过%1$d天</string>
+    <string name="dialog_skipbuildtime_ad">略过%1$,d天</string>
     <string name="setting_showtrafficmarker">在交通工具中显示交通负荷</string>
     <string name="menu_console">控制台</string>
     <string name="topic_crispr">CRISPR可以改变你的生活</string>
@@ -1146,6 +1146,49 @@
     <string name="settings_language">Language</string>
     <string name="settings_language_hint">You may have to restart the app to properly change the language.</string>
     <string name="settings_language_default">Default (%s)</string>
+
+    <string name="settings_showroadlength">Show road length</string>
+    <string name="draft_rnk_metropolis_small_title">Small Metropolis</string>
+    <string name="draft_rnk_metropolis_big_title">Big Metropolis</string>
+    <string name="draft_rnk_metropolis_large_title">Large Metropolis</string>
+    <string name="draft_rnk_conurbation_small_title">Small Conurbation</string>
+    <string name="draft_rnk_conurbation_big_title">Big Conurbation</string>
+    <string name="draft_rnk_conurbation_large_title">Large Conurbation</string>
+    <string name="draft_rnk_megalopolis_small_title">Small Megalopolis</string>
+    <string name="draft_rnk_megalopolis_big_title">Big Megalopolis</string>
+    <string name="draft_rnk_megalopolis_large_title">Large Megalopolis</string>
+    <string name="draft_rnk_country_small_title">Small Country</string>
+    <string name="draft_rnk_country_medium_title">Country</string>
+    <string name="draft_rnk_country_big_title">Big Country</string>
+    <string name="draft_rnk_country_large_title">Large Country</string>
+    <string name="draft_rnk_continent_small_title">Small Continent</string>
+    <string name="draft_rnk_continent_medium_title">Continent</string>
+    <string name="draft_rnk_continent_big_title">Big Continent</string>
+    <string name="draft_rnk_continent_large_title">Large Continent</string>
+    <string name="draft_rnk_planet_small_title">Small Planet</string>
+    <string name="draft_rnk_planet_medium_title">Planet</string>
+    <string name="draft_rnk_planet_big_title">Big Planet</string>
+    <string name="draft_rnk_planet_large_title">Large Planet</string>
+    <string name="draft_rnk_solar_system_small_title">Small Solar System</string>
+    <string name="draft_rnk_solar_system_medium_title">Solar System</string>
+    <string name="draft_rnk_solar_system_big_title">Big Solar System</string>
+    <string name="draft_rnk_solar_system_large_title">Large Solar System</string>
+    <string name="draft_rnk_universe_small_title">Small Universe</string>
+    <string name="draft_rnk_universe_medium_title">Universe</string>
+    <string name="draft_rnk_universe_big_title">Big Universe</string>
+    <string name="draft_rnk_universe_large_title">Large Universe</string>
+    <string name="draft_rnk_multiverse_small_title">Small Multiverse</string>
+    <string name="draft_rnk_multiverse_medium_title">Multiverse</string>
+    <string name="draft_rnk_multiverse_big_title">Big Multiverse</string>
+    <string name="draft_rnk_multiverse_large_title">Large Multiverse</string>
+    <string name="draft_rnk_infinity_small_title">Small Infinity</string>
+    <string name="draft_rnk_infinity_medium_title">Infinity</string>
+    <string name="draft_rnk_infinity_big_title">Big Infinity</string>
+    <string name="draft_rnk_infinity_large_title">Large Infinity</string>
+    <string name="draft_prm_park00_title">Big Fountain</string>
+    <string name="draft_prm_park00_text">A wonderful fountain that will delight the inhabitants of %1$s and you, too.</string>
+    <string name="draft_feature_fountain00_title">Big Fountain</string>
+    <string name="draft_feature_fountain00_text">A wonderful fountain that will delight the inhabitants of your town and also you.</string>
 
 
 </resources>

@@ -44,8 +44,8 @@
 <string name="buildinginfo_com0">Коммерция Ͳ</string>
 <string name="buildinginfo_com1">Коммерция ͲͲ</string>
 <string name="buildinginfo_com2">Коммерция ͲͲͲ</string>
-<string name="buildinginfo_construction">Строительство: %1$.0f%% (%2$d дней осталось)</string>
-<string name="buildinginfo_habitants">Жители: %1$d/%2$d</string>
+<string name="buildinginfo_construction">Строительство: %1$.0f%% (%2$,d дней осталось)</string>
+<string name="buildinginfo_habitants">Жители: %1$,d/%2$,d</string>
 <string name="buildinginfo_happiness">Счастье в целом: %1$.0f%%</string>
 <string name="buildinginfo_happiness_comp">Наименьшее счастье: %2$.0f%% (%1$s)</string>
 <string name="buildinginfo_ind0">Индустрия Ͳ</string>
@@ -60,12 +60,12 @@
 <string name="buildinginfo_upgrade">Улучшение(я)</string>
 <string name="buildinginfo_upgraded">Уже улучшено</string>
 <string name="buildinginfo_upgradenotavail">Не выбрано</string>
-<string name="buildinginfo_upgrades">%1$d/%2$d Улучшение(я)</string>
+<string name="buildinginfo_upgrades">%1$,d/%2$,d Улучшение(я)</string>
 <string name="buildinginfo_waterusage">Использовано: %1$.1f%%</string>
 <string name="buildinginfo_waterwaste">Загрязнено воды: %1$.1f%%</string>
-<string name="buildinginfo_worker">Рабочие: %1$d/%2$d</string>
+<string name="buildinginfo_worker">Рабочие: %1$,d/%2$,d</string>
 <string name="busstopinfo_title">Автобусная остановка</string>
-<string name="busstopinfo_usage">"Ожидание: %2$d/%3$d
+<string name="busstopinfo_usage">"Ожидание: %2$,d/%3$,d
 Использовано: %1$.1f%%"</string>
 <string name="ca_bodydisposal_text">Похорон: %1$,d/%2$,d</string>
 <string name="ca_education_high_text">Среднее образование: %1$,d/%2$,d учеников</string>
@@ -89,7 +89,7 @@
 <string name="ci_education_title">Образование</string>
 <string name="ci_energy_all">Все</string>
 <string name="ci_energy_consumed">Использовано: %1$,.0fкВч (%2$,d здания)</string>
-<string name="ci_energy_networks">%1$d сеть(и)</string>
+<string name="ci_energy_networks">%1$,d сеть(и)</string>
 <string name="ci_energy_produced">Произведено: %1$,.0fкВч (%2$,d зданий)</string>
 <string name="ci_energy_ratio">Использовано: %1$.1f%%</string>
 <string name="ci_energy_single">Одиночный</string>
@@ -118,7 +118,7 @@
 Оплата за месяц: 500$"</string>
 <string name="ci_loan_loanlist">Активные займы (в целом %1$s в %2$,d/%3$,d займов):</string>
 <string name="ci_loan_paybackcost">Вернуть деньги: %1$s</string>
-<string name="ci_loan_remaining_runtime">Оставшееся время: %2$d месяц(ев), %1$d день(ей)</string>
+<string name="ci_loan_remaining_runtime">Оставшееся время: %2$,d месяц(ев), %1$,d день(ей)</string>
 <string name="ci_loan_title">Займ</string>
 <string name="ci_not_available">Отсутствует информация</string>
 <string name="ci_rank_title">Звания</string>
@@ -135,7 +135,7 @@
 <string name="ci_rci_title">Требования</string>
 <string name="ci_water_all">Все</string>
 <string name="ci_water_consumed">Использовано: %1$,.0fЛ/ч (%2$,d зданий)</string>
-<string name="ci_water_networks">%1$d сеть(и)</string>
+<string name="ci_water_networks">%1$,d сеть(и)</string>
 <string name="ci_water_produced">Произведено: %1$,.0fЛ/с (%2$,d зданий)</string>
 <string name="ci_water_ratio">Использовано: %1$.1f%%</string>
 <string name="ci_water_single">Отдельно</string>
@@ -487,10 +487,10 @@
 <string name="draft_zoneresidential_lvl2_title">Продвинутая резиденция</string>
 <string name="draft_zoneresidential_text">Жители будут строить дома в этой зоне.</string>
 <string name="draft_zoneresidential_title">Резиденция</string>
-<string name="draftselector_building_habitants">Жителей: %1$d</string>
-<string name="draftselector_building_level">Уровень: %1$d</string>
-<string name="draftselector_building_size">Размер: %1$dx%2$d</string>
-<string name="draftselector_building_workers">Рабочих: %1$d</string>
+<string name="draftselector_building_habitants">Жителей: %1$,d</string>
+<string name="draftselector_building_level">Уровень: %1$,d</string>
+<string name="draftselector_building_size">Размер: %1$,dx%2$,d</string>
+<string name="draftselector_building_workers">Рабочих: %1$,d</string>
 <string name="draftselector_building_zone">Зона: %1$s</string>
 <string name="draftselector_cmdShow">Показать</string>
 <string name="draftselector_cmdalert">Вперёд!</string>
@@ -501,7 +501,7 @@
 <string name="draftselector_id">ID: %1$s</string>
 <string name="draftselector_industrial">Индустрия</string>
 <string name="draftselector_monthlyprice">Ежемесячная оплата: %s</string>
-<string name="draftselector_onlyn">Может быть построено %1$d раз</string>
+<string name="draftselector_onlyn">Может быть построено %1$,d раз</string>
 <string name="draftselector_onlyone">Может быть построено только один раз</string>
 <string name="draftselector_power">Электричество: %1$,dкВч</string>
 <string name="draftselector_price">Цена: %s</string>
@@ -528,7 +528,7 @@
 <string name="draftselector_titlewastedisposal">Удаление мусора</string>
 <string name="draftselector_titlewater">Вода</string>
 <string name="draftselector_titlezone">Зоны</string>
-<string name="draftselector_upgrades">%1$d улучшение(я) доступно</string>
+<string name="draftselector_upgrades">%1$,d улучшение(я) доступно</string>
 <string name="draftselector_water">Вода: %1$,dЛ/ч</string>
 <string name="game_cityauthor">от %1$s</string>
 <string name="game_cityname">%1$s</string>
@@ -538,7 +538,7 @@
 <string name="game_infinitemoney">Бесплатная игра</string>
 <string name="game_monthlyincome">%1$,+dͲ</string>
 <string name="game_placedprice">%1$s</string>
-<string name="game_rating">%1$d</string>
+<string name="game_rating">%1$,d</string>
 <string name="gamemode_easy">Легкий</string>
 <string name="gamemode_hard">Сложный</string>
 <string name="gamemode_middle">Средний</string>
@@ -613,8 +613,8 @@
 <string name="loadcity_memdialog_title">Нет доступа к карте памяти</string>
 <string name="loadcity_preview">Обычный город</string>
 <string name="loadcity_title">Загрузка города</string>
-<string name="loadcity_version">Версия %1$d</string>
-<string name="loadcity_version_premium">Версия %1$d (Премиум)</string>
+<string name="loadcity_version">Версия %1$,d</string>
+<string name="loadcity_version_premium">Версия %1$,d (Премиум)</string>
 <string name="loadwaiting_title">Загрузка города</string>
 <string name="locale">ru</string>
 <string name="menu_cmddonate">Пожертвование</string>
@@ -782,7 +782,7 @@
 <string name="topic_tryharder">Попробуй потяжелее</string>
 <string name="topic_tutorial">Обучение пройдено :)</string>
 <string name="topic_users">Наблюдайте за 100,000 игроков</string>
-<string name="trainstationinfo_usage">"Ожидание: %2$d/%3$d
+<string name="trainstationinfo_usage">"Ожидание: %2$,d/%3$,d
 Использовано: %1$.1f%%"</string>
 <string name="tutorial_buildbridge_a">Тебе требуется провести дороги для зданий. Выбери обычную дорогу.</string>
 <string name="tutorial_buildbridge_b">Нажми на начало и конец дороги, чтобы провести её. Заметь, что мосты строятся автоматически.</string>
@@ -950,7 +950,7 @@
     <string name="menu_mapscreenshot">Сделать фотографию карты</string>
     <string name="menu_save">Сохранить</string>
     <string name="menu_title">Меню</string>
-    <string name="region_maxconcurrentunlocks">Невозможно открыть более %1$d карт одновременно.</string>
+    <string name="region_maxconcurrentunlocks">Невозможно открыть более %1$,d карт одновременно.</string>
     <string name="dialog_unlocktime_title">Сократить время</string>
     <string name="dialog_unlocktime_text">Очень много работы мы делаем, чтобы разблокировать карту. Может, вы хотите поддержать нас? Это может сократить время разблокировки на 30 минут.</string>
     <string name="region_speedup">Ускорить</string>
@@ -1028,8 +1028,8 @@
     <string name="dialog_diamondshop_recommended">Рекомендуем</string>
     <string name="dialog_presentdaily_title">Ежедневная доставка</string>
     <string name="dialog_presentdaily_text">Завтра вы получите больше.</string>
-    <string name="dialog_presentdaily_day">День %1$d</string>
-    <string name="rank_needed_xp">Требуется не менее %1$d городских очков</string>
+    <string name="dialog_presentdaily_day">День %1$,d</string>
+    <string name="rank_needed_xp">Требуется не менее %1$,d городских очков</string>
     <string name="settings_shortmoney">Сокращение денег</string>
     <string name="dialog_newsign_title">Новая метка</string>
     <string name="dialog_newsign_text">Введите название для этой области.</string>
@@ -1049,7 +1049,7 @@
     <string name="draft_searocks00_text">Немного скал в воде</string>
     <string name="createcity_decos">С украшениями</string>
     <string name="tutorial_cmdskip">Пропустить обучение</string>
-    <string name="dialog_skipbuildtime_ad">Пропустить %1$d дней</string>
+    <string name="dialog_skipbuildtime_ad">Пропустить %1$,d дней</string>
     <string name="setting_showtrafficmarker">Показывать трафик в дорожном инструменте</string>
     <string name="menu_console">Консоль</string>
     <string name="topic_crispr">CRISPR может изменить вашу жизнь</string>
@@ -1163,5 +1163,48 @@
     <string name="settings_language">Язык</string>
     <string name="settings_language_hint">Возможно, вам придется перезапустить приложение, чтобы изменить язык.</string>
     <string name="settings_language_default">По умолчанию (%s)</string>
+
+    <string name="settings_showroadlength">Show road length</string>
+    <string name="draft_rnk_metropolis_small_title">Small Metropolis</string>
+    <string name="draft_rnk_metropolis_big_title">Big Metropolis</string>
+    <string name="draft_rnk_metropolis_large_title">Large Metropolis</string>
+    <string name="draft_rnk_conurbation_small_title">Small Conurbation</string>
+    <string name="draft_rnk_conurbation_big_title">Big Conurbation</string>
+    <string name="draft_rnk_conurbation_large_title">Large Conurbation</string>
+    <string name="draft_rnk_megalopolis_small_title">Small Megalopolis</string>
+    <string name="draft_rnk_megalopolis_big_title">Big Megalopolis</string>
+    <string name="draft_rnk_megalopolis_large_title">Large Megalopolis</string>
+    <string name="draft_rnk_country_small_title">Small Country</string>
+    <string name="draft_rnk_country_medium_title">Country</string>
+    <string name="draft_rnk_country_big_title">Big Country</string>
+    <string name="draft_rnk_country_large_title">Large Country</string>
+    <string name="draft_rnk_continent_small_title">Small Continent</string>
+    <string name="draft_rnk_continent_medium_title">Continent</string>
+    <string name="draft_rnk_continent_big_title">Big Continent</string>
+    <string name="draft_rnk_continent_large_title">Large Continent</string>
+    <string name="draft_rnk_planet_small_title">Small Planet</string>
+    <string name="draft_rnk_planet_medium_title">Planet</string>
+    <string name="draft_rnk_planet_big_title">Big Planet</string>
+    <string name="draft_rnk_planet_large_title">Large Planet</string>
+    <string name="draft_rnk_solar_system_small_title">Small Solar System</string>
+    <string name="draft_rnk_solar_system_medium_title">Solar System</string>
+    <string name="draft_rnk_solar_system_big_title">Big Solar System</string>
+    <string name="draft_rnk_solar_system_large_title">Large Solar System</string>
+    <string name="draft_rnk_universe_small_title">Small Universe</string>
+    <string name="draft_rnk_universe_medium_title">Universe</string>
+    <string name="draft_rnk_universe_big_title">Big Universe</string>
+    <string name="draft_rnk_universe_large_title">Large Universe</string>
+    <string name="draft_rnk_multiverse_small_title">Small Multiverse</string>
+    <string name="draft_rnk_multiverse_medium_title">Multiverse</string>
+    <string name="draft_rnk_multiverse_big_title">Big Multiverse</string>
+    <string name="draft_rnk_multiverse_large_title">Large Multiverse</string>
+    <string name="draft_rnk_infinity_small_title">Small Infinity</string>
+    <string name="draft_rnk_infinity_medium_title">Infinity</string>
+    <string name="draft_rnk_infinity_big_title">Big Infinity</string>
+    <string name="draft_rnk_infinity_large_title">Large Infinity</string>
+    <string name="draft_prm_park00_title">Big Fountain</string>
+    <string name="draft_prm_park00_text">A wonderful fountain that will delight the inhabitants of %1$s and you, too.</string>
+    <string name="draft_feature_fountain00_title">Big Fountain</string>
+    <string name="draft_feature_fountain00_text">A wonderful fountain that will delight the inhabitants of your town and also you.</string>
 
 </resources>
