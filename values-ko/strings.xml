@@ -215,7 +215,7 @@
     <string name="topic_narcissistic">전 미르가 좋더라구요 아하핳.</string>
     <string name="topic_great">여러분을 좋아합니다! &lt;3</string>
     <string name="settings_ultrafastspeed">매우빠름 모드</string>
-    <string name="draftselector_power">전력: %1$,dkWh</string>
+    <string name="draftselector_power">전력: %1$,dkW</string>
     <string name="draftselector_water">수도: %1$,dL/h</string>
     <string name="notify_welcome">안녕하세요? %1$s 에 온것을 환영합니다.</string>
     <string name="notify_citysize">축하드립니다. 당신의 도시는 %1$,d 만큼의 인구를 넘어섰습니다!!</string>
@@ -286,8 +286,8 @@
     <string name="busstopinfo_usage">대기: %2$,d/%3$,d\n사용량: %1$.1f%%</string>
     <string name="ci_rating_title">평가</string>
     <string name="ci_energy_networks">%1$,d개의 네트워크</string>
-    <string name="ci_energy_produced">생산: %1$,.0fkWh (%2$,d buildings)</string>
-    <string name="ci_energy_consumed">사용: %1$,.0fkWh (%2$,d buildings)</string>
+    <string name="ci_energy_produced">생산: %1$,.0fkW (%2$,d buildings)</string>
+    <string name="ci_energy_consumed">사용: %1$,.0fkW (%2$,d buildings)</string>
     <string name="ci_energy_ratio">사용량: %1$.1f%%</string>
     <string name="ci_energy_all">전체</string>
     <string name="ci_energy_single">단독</string>
@@ -1009,7 +1009,7 @@
     <string name="ci_neighbor_notavailable">현재 사용불가</string>
     <string name="ci_neighbor_import">불러오기</string>
     <string name="ci_neighbor_export">내보내기</string>
-    <string name="energy">%1$,dkWh</string>
+    <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
     <string name="ci_neighbor_power">전력</string>
     <string name="ci_neighbor_water">하수도</string>

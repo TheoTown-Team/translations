@@ -212,7 +212,7 @@
     <string name="topic_narcissistic">Іди почитай про Нарциса</string>
     <string name="topic_great">Ти мені подобаєшся! &lt;3</string>
     <string name="settings_ultrafastspeed">Супер швидка швидкість</string>
-    <string name="draftselector_power">Енергія: %1$,dkWh</string>
+    <string name="draftselector_power">Енергія: %1$,dkW</string>
     <string name="draftselector_water">Вода: %1$,dL/h</string>
     <string name="notify_welcome">Гей,привіт,ласкаво просимо до %1$s.</string>
     <string name="notify_citysize">Вітаємо,твоє місто тепер має %1$,d мешканців!</string>
@@ -283,8 +283,8 @@
     <string name="busstopinfo_usage">Чекають: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
     <string name="ci_rating_title">Оцінка</string>
     <string name="ci_energy_networks">%1$,d мережа(ж)</string>
-    <string name="ci_energy_produced">Зроблено: %1$,.0fkWh (%2$,d buildings)</string>
-    <string name="ci_energy_consumed">Використано: %1$,.0fkWh (%2$,d buildings)</string>
+    <string name="ci_energy_produced">Зроблено: %1$,.0fkW (%2$,d buildings)</string>
+    <string name="ci_energy_consumed">Використано: %1$,.0fkW (%2$,d buildings)</string>
     <string name="ci_energy_ratio">Використання: %1$.1f%%</string>
     <string name="ci_energy_all">Всього</string>
     <string name="ci_energy_single">Один</string>
@@ -1007,7 +1007,7 @@
     <string name="ci_neighbor_notavailable">Not available at the moment</string>
     <string name="ci_neighbor_import">Import</string>
     <string name="ci_neighbor_export">Export</string>
-    <string name="energy">%1$,dkWh</string>
+    <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
     <string name="ci_neighbor_power">Power</string>
     <string name="ci_neighbor_water">Water</string>
