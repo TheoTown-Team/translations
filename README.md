@@ -7,6 +7,7 @@ values-cs: Czech</br>
 values-de: German <- Always up to date</br>
 values-es: Spanish</br>
 values-fr: French</br>
+values-in: Indonesian</br>
 values-it: Italian</br>
 values-ja: Japanese</br>
 values-ko: Korean</br>
