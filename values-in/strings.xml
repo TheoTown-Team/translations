@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Pengaturan</string>
@@ -1023,7 +1024,6 @@
     <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
     <string name="dialog_presentdaily_day">Day %1$,d</string>
     <string name="rank_needed_xp">At least %1$,d city points needed</string>
-    <string name="currency_symbol" translatable="false">Ͳ</string>
     <string name="settings_shortmoney">Abbreviate money</string>
     <string name="dialog_newsign_title">New label</string>
     <string name="dialog_newsign_text">Enter a name for this area.</string>
@@ -1213,5 +1213,11 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_rnk_supercluster_medium_title">Supercluster</string>
     <string name="draft_rnk_supercluster_big_title">Big Supercluster</string>
     <string name="draft_rnk_supercluster_large_title">Large Supercluster</string>
+
+    <string name="ci_airport_title">Airport</string>
+    <string name="draft_wire01_title">Transmission line</string>
+    <string name="draft_wire01_text">Big wires for a lot of energy. For regional energy exchange.</string>
+    <string name="draft_transformator00_title">Transformer</string>
+    <string name="draft_transformator00_text">A transformer is needed to transform between high and normal voltage. Build it near a transmission line.</string>
 
 </resources>
