@@ -634,7 +634,7 @@
     <string name="shader_fancy2">초ㅡ화려함</string>
     <string name="draft_sewerpipe00_title">하수관</string>
     <string name="draft_sewerpipe00_text">폐수를 자연으로 방출합니다. 나쁜 영향을 끼칩니다.</string>
-    <string name="settings_lowresmapscreenshot">저해상도로 맵 스크린샷을 찍습니다.</string>
+    <string name="settings_lowresmapscreenshot">저해상도 맵 스크린샷</string>
     <string name="draft_marina00_title">선착장</string>
     <string name="draft_marina00_text">부자들이 이곳에서 여가생활을 즐깁니다.</string>
     <string name="loadcity_version">버전 %1$,d</string>
@@ -857,7 +857,7 @@
     <string name="topic_wip">작업진행중이니 선만 넘지마세요 ㅠㅠ</string>
     <string name="topic_belong">Team nose-cone이 돌아왔습니다! Yvelkrem님 감사합니다! 앞으로도 계속 이어나갑시다!</string>
     <string name="topic_love">필요한것은 사랑뿐입니다</string>
-    <string name="topic_build">길은 찾는게 답이라지만, 만든다고 누가 뭐라 그럴까?</string>
+    <string name="topic_build">나는 길을 찾든지 만들든지 하겠다.</string>
     <string name="topic_news">모두에게 좋은소식!</string>
     <string name="topic_welcome">잘왔어요 :)</string>
     <string name="topic_spoon">강아지는 절대적일 정도로 귀엽다네요!</string>
@@ -1040,12 +1040,12 @@
     <string name="draft_feature_slowspeed00_text">느린 속도 모드는 다양한 상황에서 당신이 더 상황을 통제하기 쉽도록 할 것입니다.</string>
     <string name="buildinginfo_patrol">순찰소</string>
     <string name="draft_beach_gnd00_title">모래</string>
-    <string name="draft_beach_gnd00_text">더 이상 형용할 필요 없는 모래입니다. 해변에서 사용됩니다.</string>
+    <string name="draft_beach_gnd00_text">더 이상 형용할 필요가 없는 모래입니다. 가에서 사용됩니다.</string>
     <string name="draft_searocks00_title">암초</string>
     <string name="draft_searocks00_text">물에 있는 바위입니다.</string>
     <string name="createcity_decos">장식 포함</string>
     <string name="tutorial_cmdskip">튜토리얼 건너뛰기</string>
-    <string name="dialog_skipbuildtime_ad">%1$,d 건설 시간 건너뛰기 (광고)</string>
+    <string name="dialog_skipbuildtime_ad">%1$,d 일 건너뛰기</string>
     <string name="setting_showtrafficmarker">도로 건설 도구에서 교통량 보이기</string>
     <string name="menu_console">콘솔</string>
     <string name="topic_crispr">유전공학은 당신의 삶을 바꿀것 입니다</string>
@@ -1217,32 +1217,32 @@
     <string name="draft_rnk_supercluster_large_title">우주 거대 구조</string>
 
     <string name="ci_airport_title">공항</string>
-    <string name="draft_wire01_title">전송선</string>
-    <string name="draft_wire01_text">지역간 많은 에너지 교환을 위해 만들어진 큰 전선입니다.</string>
+    <string name="draft_wire01_title">송전선로</string>
+    <string name="draft_wire01_text">지역간 전력 교류를 위해 사용되는 고압의 전력을 위한 큰 전선 입니다. 지역간전력교류에, .</string>
     <string name="draft_transformator00_title">변압기</string>
-    <string name="draft_transformator00_text">고전압과 일반 전압을 변환하기 위해서는 변압기가 필요합니다. 송전선 가까이에 건설하세요.</string>
+    <string name="draft_transformator00_text">고전압과 일반 전압을 변압하기 위해서는 변압기가 필요합니다. 선 가까이에 건설하세요.</string>
 
-    <string name="settings_showtouchpoints">Show touch points</string>
-    <string name="shop_promotion_limited">Limited promotion</string>
-    <string name="shop_promotion_time">Only %s left</string>
+    <string name="settings_showtouchpoints">터치 포인트 보이기</string>
+    <string name="shop_promotion_limited">한정된 프로모션</string>
+    <string name="shop_promotion_time">오직 %s 만큼 남음</string>
     <string name="airport_lane_rename">이름 바꾸기</string>
     <string name="airport_airplane_rename">이름 바꾸기</string>
-    <string name="airport_lane_show">Show</string>
-    <string name="airport_lane_assign">Assign</string>
-    <string name="airport_lane_assign_airplane">Add</string>
-    <string name="airport_lane_add">Add lane</string>
-    <string name="airport_airplanes">비행기</string>
-    <string name="airport_virtual_lane">Not assigned yet</string>
-    <string name="airport_lane_no_airplane">No airplane set</string>
-    <string name="topic_lightside">Come to the light side, we have icecream</string>
-    <string name="topic_handmade">모든 픽셀은 직접 만듭니다!</string>
-    <string name="topic_lunch">Build from here till lunch</string>
-    <string name="topic_watching">개발자가 당신을 바라보고 있습니다</string>
-    <string name="topic_code">이제 5% 더 많은 코드가 첨가됩니다!</string>
+    <string name="airport_lane_show">보이기</string>
+    <string name="airport_lane_assign">할당</string>
+    <string name="airport_lane_assign_airplane">추가</string>
+    <string name="airport_lane_add">노선 추가</string>
+    <string name="airport_airplanes">항공기</string>
+    <string name="airport_virtual_lane">할당된것 없음</string>
+    <string name="airport_lane_no_airplane">항공기 지정 않됨</string>
+    <string name="topic_lightside">오른쪽으로 오세요, 우리는 아이스크림이 있습니다.</string>
+    <string name="topic_handmade">모든 픽셀은 수제작입니다.</string>
+    <string name="topic_lunch">점심때까지 여기에 더 건설하세요.</string>
+    <string name="topic_watching">Lobby가 당신을 바라보고 있습니다</string>
+    <string name="topic_code">이제 5% 더 많은 코드!</string>
     <string name="topic_banana">바나나나나나나</string>
-    <string name="topic_finish">Let\'s finish this sen</string>
-    <string name="topic_threed">"Just make it 3D"</string>
-    <string name="topic_work">May contain traces of hard work</string>
-    <string name="topic_funfun">재미있게 즐기세요</string>
+    <string name="topic_finish">이 특별한 일을 끝냅시다.</string>
+    <string name="topic_threed">"3D로 만드세요"</string>
+    <string name="topic_work">열심히 한 일의 흔적이 포함되 있을 수 있습니다.</string>
+    <string name="topic_funfun">이제는 재미와 함께</string>
 
 </resources>
