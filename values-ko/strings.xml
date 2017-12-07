@@ -12,7 +12,7 @@
     <string name="createcity_start">시작</string>
     <string name="loadcity_load">불러오기</string>
     <string name="welcome_agree">동의합니다</string>
-    <string name="welcome_content">TheoTown에 오신 걸 환영합니다.
+    <string name="welcome_content">TheoTown에 오신 것을 환영합니다.
 
 \n\n이 앱은 개발중입니다. 사소한 버그들이 있다는 점을 기억해 주세요. 그러니 이러한 이유로 이 앱을 저평가 하지 말아주세요. 다만 이 앱이 무료라는 점은 꼭 기억해 주세요.
 
@@ -80,15 +80,15 @@
     <string name="createcity_sizebigbig">거대함</string>
     <string name="dialog_leave_text">TheoTown에서 나가겠습니까?</string>
     <string name="dialog_leave_title">TheoTown 종료</string>
-    <string name="dialog_leave_cmdcancel">도시 저장하기</string>
-    <string name="dialog_leave_cmdleave">도시 불러오기</string>
+    <string name="dialog_leave_cmdcancel">취소</string>
+    <string name="dialog_leave_cmdleave">나가기</string>
     <string name="savewaiting_title">도시 저장중</string>
     <string name="loadwaiting_title">불러오는중..</string>
     <string name="dialog_invalidcityname_title">인식 불가능한 이름</string>
     <string name="dialog_invalidcityname_text">다른 이름을 사용해 주세요. 공백은 허용되지 않습니다.</string>
     <string name="dialog_invalidcityname_cmdok">네</string>
     <string name="dialog_hugesize_title">거대한 맵</string>
-    <string name="dialog_hugesize_text">이 맵 크기는 당신의 기기에서 작동하지 않을 수 있습니다. 정말로 이 맵이 필요합니까?</string>
+    <string name="dialog_hugesize_text">이 맵 크기는 기기에서 작동하지 않을 수 있습니다. 정말로 이 맵이 필요합니까?</string>
     <string name="dialog_hugesize_cmdyes">네.</string>
     <string name="dialog_hugesize_cmdno">아니요.</string>
     <string name="draft_church00_title">교회</string>
@@ -96,7 +96,7 @@
     <string name="draft_townhall00_title">시청</string>
     <string name="draft_townhall00_text">큰 도시는 시청을 필요로 합니다. 시민들이 좋아할 겁니다.</string>
     <string name="draft_wire00_title">전선</string>
-    <string name="draft_wire00_text">당신의 도시와 발전소를 연결하기 위해 사용됩니다.</string>
+    <string name="draft_wire00_text">도시와 발전소를 연결하기 위해 사용됩니다.</string>
     <string name="draft_windturbine00_title">풍력 발전기</string>
     <string name="draft_windturbine00_text">풍력 발전기는 소음을 발생시키나, 오염은 발생시키지 않습니다.</string>
     <string name="draft_coalplant00_title">석탄 발전소</string>
@@ -218,7 +218,7 @@
     <string name="draftselector_power">전력: %1$,dkW</string>
     <string name="draftselector_water">수도: %1$,dL/h</string>
     <string name="notify_welcome">안녕하세요? %1$s 에 온것을 환영합니다.</string>
-    <string name="notify_citysize">축하드립니다. 당신의 도시는 %1$,d 만큼의 인구를 넘어섰습니다!!</string>
+    <string name="notify_citysize">축하드립니다. 이 도시는 %1$,d 만큼의 인구를 넘어섰습니다!!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">분수대</string>
     <string name="draft_waterfountain01_text">시민들이 좋아할 것입니다.</string>
@@ -348,7 +348,7 @@
     <string name="notify_power_low">전력이 충분치 않습니다. 아마 발전소를 더 지어야 할지도 모릅니다.</string>
     <string name="notify_water_low">물이 충분치 않습니다. 아마 취수시설을 더 지어야 할지도 모릅니다.</string>
     <string name="notify_religion">저희를 위해 종교적인 건물을 더 지어주세요.</string>
-    <string name="notify_park">우리는 공원이 더 많았으면 좋겠습니다.</string>
+    <string name="notify_park">공원이 더 많았으면 좋겠습니다.</string>
     <string name="notify_sport">우린 운동하고 싶습니다.</string>
     <string name="buildinginfo_happiness">총 행복도: %1$.0f%%</string>
     <string name="notify_noenergy">전력이 공급되지 않는 건물이 있습니다!</string>
@@ -458,7 +458,7 @@
     <string name="tutorial_rci">이것을 눌러서 여러 구역들에 대해서 자세한 수요정보를 확인할 수 있습니다.</string>
     <string name="tutorial_speed_fast">대기시간을 줄이기 위해서 시물레이션 속도를 변경할 수도 있습니다.</string>
     <string name="tutorial_speed_normal">이제 다시 원래의 속도로 맞추세요.</string>
-    <string name="tutorial_money_task">당신의 임무는 당신의 도시를 세금으로 얻은 돈으로서 발선시켜 나가는 것입니다.</string>
+    <string name="tutorial_money_task">당신의 임무는 이 도시를 세금으로 얻은 돈으로서 발선시켜 나가는 것입니다.</string>
     <string name="tutorial_money_info">우측하단의 버튼을 눌러서 재정과 세율에 대한 자세한 정보를 확인할 수 있습니다.</string>
     <string name="tutorial_congrats">축하합니다! Theotown의 기본을 모두 배웠습니다. 이젠 당신만의 도시를 시작할 수 있습니다. :)</string>
     <string name="draft_road03_title">일방 통행 도로</string>
@@ -613,7 +613,7 @@
     <string name="happiness_firedanger">화재 위험</string>
     <string name="dialog_screenshot_show">보기</string>
     <string name="draft_townhall01_title">시청</string>
-    <string name="draft_townhall01_text">당신의 도시에 어울릴 건물입니다.</string>
+    <string name="draft_townhall01_text">이 도시에 어울릴 건물입니다.</string>
     <string name="loadcity_errordialog_cmdrecover">회복</string>
     <string name="draft_plaza00_title">마을 광장</string>
     <string name="draft_plaza00_text">마을 회관을 위한 마을광장</string>
@@ -695,9 +695,9 @@
     <string name="draft_beach00_text">해변에서의 멋진 하루를 보냅니다.</string>
     <string name="draft_biergarten00_title">맥주 정원</string>
     <string name="draft_biergarten00_text">휴식하기에 좋은 곳입니다.</string>
-    <string name="notify_noreszone">사람들이 우리의 도시에서 살기를 원합니다. 그들을 위해 거주구역을 지정해 주세요.</string>
+    <string name="notify_noreszone">사람들이 도시에서 살기를 원합니다. 그들을 위해 거주구역을 지정해 주세요.</string>
     <string name="notify_nocomzone">상업 구역을 지정하면 상업 건물이 건설될 것입니다.</string>
-    <string name="notify_noindzone">공업 건물이 우리의 도시에 지어져야 하지만 먼저 구역을 지정 해야만 합니다.</string>
+    <string name="notify_noindzone">공업 건물이 도시에 지어져야 하지만 먼저 구역을 지정 해야만 합니다.</string>
     <string name="createcity_sizebigbigbig">매우 거대함</string>
     <string name="locale">ko</string>
     <string name="draft_police02_title">경찰특공대 본부</string>
@@ -753,9 +753,9 @@
     <string name="roadinfo_trafficlights_on">신호등 켜기</string>
     <string name="roadinfo_trafficlights_off">신호등 끄기</string>
     <string name="notify_crime">이런, 범죄가 발생하였군요! 경찰서를 더 건설히거나, 항복도를 올릴 필요가 있습니다.</string>
-    <string name="tutorial_buildbridge_a">아마도 우리는 간선도로를 건설함으로서 교통을 발전시킬 필요가 있습니다. 일반도로를 선택하세요.</string>
+    <string name="tutorial_buildbridge_a">아마도 간선도로를 건설함으로서 교통을 발전시킬 필요가 있습니다. 일반도로를 선택하세요.</string>
     <string name="tutorial_buildbridge_b">계획된 도로의 시점과 종점을 터치하세요. 강위로 다리가 자동건설 되는지 봅시다.</string>
-    <string name="tutorial_buildbridge_c">그래서, 우리는 건설이 끝났습니다!</string>
+    <string name="tutorial_buildbridge_c">그래서, 건설이 끝났습니다!</string>
     <string name="draft_beachnearwater00_title">해변</string>
     <string name="draft_beachnearwater00_text">해변에서 환상적인 날을 보네세요.</string>
     <string name="loadcity_version_premium">버전 %1$,d (프리미엄)</string>
@@ -798,7 +798,7 @@
     <string name="draft_decoroad00_text">큰길에 있는 가로수 입니다. 겉보기엔 공원과 다를바가 없네요...</string>
     <string name="settings_experimental">실험적 기능</string>
     <string name="about_thanks">이분들에게 특별히 감사드립니다.</string>
-    <string name="about_community">그리고 우리의 커뮤니티에서 쉬어보세요..</string>
+    <string name="about_community">그리고 저희 커뮤니티에서 쉬어보세요..</string>
 
     <string name="dialog_tosandbox_cmdconvert">자유</string>
     <string name="dialog_tosandbox_title">자유 모드</string>
@@ -854,8 +854,8 @@
     <string name="disaster_ufo_text">UFO가 당신의 도시를 침공합니다!!</string>
     <string name="disaster_ufo_cmdtext">타겟 지정</string>
     <string name="topic_theons">새로운 화폐단위: Theons의 Ͳ</string>
-    <string name="topic_wip"></string>
-    <string name="topic_belong">번역 - Yvelkrem (번역오류는 메세지주세요!!)</string>
+    <string name="topic_wip">로오오오오오딩.</string>
+    <string name="topic_belong">번역 - Yvelkrem / Team nose-cone</string>
     <string name="topic_love">필요한것은 사랑뿐입니다</string>
     <string name="topic_build">나는 길을 찾든지 만들든지 하겠다.</string>
     <string name="topic_news">모두에게 좋은소식!</string>
@@ -900,11 +900,11 @@
     <string name="ci_budget_doublemoney_text">%1$,d 일동안 수입 두배.</string>
     <string name="ci_budget_getmoney_title">%1$s 만큼 얻기</string>
     <string name="ci_budget_getmoney_text">약깐의 보수으로 %1$s 만큼 교환하기.</string>
-    <string name="notify_badattribute">우리는 %2$s 가 우리 도시로 이사오도록 %1$s 의 행복도를 증진시킬 필요가 있습니다.</string>
+    <string name="notify_badattribute">이제, %2$s 가 우리 도시로 이사오도록 %1$s 의 행복도를 증진시킬 필요가 있습니다.</string>
     <string name="game_remaining_doubleincome">%1$,d 일동안의 수입두배</string>
     <string name="dialog_diamondshop_title">상점</string>
     <string name="features_notenough">%1$s 불충분함</string>
-    <string name="dialog_getrank_text">만일 당신이 원한다면, 이 랭크를 바로 잠금해제 할수 있습니다.</string>
+    <string name="dialog_getrank_text">만일 원한다면, 이 랭크를 바로 잠금해제 할수 있습니다.</string>
     <string name="features_buy">지금 바로 구매하세요</string>
     <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약깐의 작은 주거,상업,산업 건물. 겨울을 위한 그래픽 포함.</string>
     <string name="dialog_redeempromo_title">당신은 다이아를 얻었습니다.</string>
@@ -931,18 +931,18 @@
     <string name="task_openworld_title">지역</string>
     <string name="task_openworld_text">당신</string>
     <string name="task_openrci_title">건설수요</string>
-    <string name="task_openrci_text">TheoTown에서 우리는 건물의 서로다른 수준과 종류에 따른 각기의 건설 수요를 볼수 있습니다. 건물 종류는 주거,상업,공업. 건물의 3가지 수준은, 저소득층 (Ͳ), 중산층 (ͲͲ), 고소득층(ͲͲͲ).</string>
+    <string name="task_openrci_text">TheoTown에서 건물의 서로다른 수준과 종류에 따른 각기의 건설 수요를 볼수 있습니다. 건물 종류는 주거,상업,공업. 건물의 3가지 수준은, 저소득층 (Ͳ), 중산층 (ͲͲ), 고소득층(ͲͲͲ).</string>
     <string name="control_gotit">오케이</string>
     <string name="task_firstcity_title">새로운 마을</string>
     <string name="task_firstcity_text">당신의 첫번째 마을에 오신 것을 환영합니다.\n\n 300명의 인구수를 달성해 보세요.</string>
     <string name="task_reachrank_title">새로운 랭크</string>
     <string name="task_reachrank_text">당신의 도시가 새로운 랭크에 도달한 것을 축하합니다.\n\n각각의 랭크는 건물을 잠금해제 하거나 보상을 획득할 것입니다.</string>
     <string name="welcome_sorry_title">News</string>
-    <string name="welcome_sorry_text">플레이어에게,\n\n우리는 최근에 TheoTown에서 수많은 작업들을 해왔습니다. 불행히도, 오래된 도시를 망가뜨리는 특별한 게임 시스템 변화를 추가하지 않은 것은 불가능 했을겁니다.\n\n우리는 당신이 이해했기를 바라며. 당신을 위해 감사 선물을 드리겠습니다.</string>
+    <string name="welcome_sorry_text">플레이어에게,\n\n저희는 최근에 TheoTown에서 수많은 작업들을 해왔습니다. 불행히도, 이 오래된 도시를 망가뜨리는 특별한 게임 시스템 변화를 추가하지 않은 것은 불가능 했을겁니다.\n\n저희는 이것을 이해했길 바라며. 당신을 위해 감사 선물을 드리겠습니다.</string>
     <string name="menu_achievements">도전과제</string>
     <string name="menu_leaderboards">리더보드</string>
     <string name="menu_screenshot">사진 찍기</string>
-    <string name="menu_mapscreenshot">맵의 사진을 찍습니다</string>
+    <string name="menu_mapscreenshot">맵 사진 찍기</string>
     <string name="menu_save">저장</string>
     <string name="menu_title">메뉴</string>
     <string name="region_maxconcurrentunlocks">한번에 %1$,d 개보다 더 많은 맵을 잠금해제 할수 없습니다.</string>
@@ -956,18 +956,18 @@
     <string name="shop_diamonds">%2$s 를 위한 %1$s 개의 다이아</string>
      <string name="draft_townhall02_title">광역시청</string>
     <string name="draft_townhall02_text">큰도시를 위한 광역시청 입니다. 백만 다운로드 감사합니다 :D</string>
-    <string name="notify_pollutedwaterpump">이 급수탑은 오염된 구역에 있습니다. 우리는 물을 깨끗이 하기 위해 이걸 다른 장소에 배치하는것이 좋을겁니다.</string>
-    <string name="notify_destroyedtiles">우리는 이 쓰레기를 누군가 알아차리기 전에 처리해야할 필요가 있습니다.</string>
+    <string name="notify_pollutedwaterpump">이 급수탑은 오염된 구역에 있습니다. 물을 깨끗이 하기 위해 이걸 다른 장소에 배치하는것이 좋을겁니다.</string>
+    <string name="notify_destroyedtiles">이 쓰레기를 누군가 알아차리기 전에 처리해야할 필요가 있습니다.</string>
     <string name="notify_loweducationneeded">제 생각에는 우리 아이들에게 체계적인 교육이 필요한듯 하군요. 초등학교를 건설하세요.</string>
     <string name="notify_higheducationneeded">고등학교를 건설함으로서 인재를 육성 해봅시다.</string>
     <string name="dialog_ffwd1_text">%1$s 동안의 빠름게임속도를 허용할것 입니다</string>
     <string name="notify_badtraffic">이 도로에 정체가 너무 심합니다. 도로를 더만들거나 더욱이 좋은 도로를 건설하세요.</string>
-    <string name="dialog_wb_title">돌아온걸을 환영합니다.</string>
-    <string name="dialog_wb_text">%1$s 에서 당신이 없는 동안 %2$s 만큼을 벌었습니다.</string>
-    <string name="notify_fullschool">이 학교는 사람이 너무 많습니다. 더 건설하세요, 제발요.</string>
+    <string name="dialog_wb_title">돌아온것을 환영합니다.</string>
+    <string name="dialog_wb_text">%1$s 에서 시장님이 자리를 비운 동안 %2$s 만큼을 벌었습니다.</string>
+    <string name="notify_fullschool">이 학교는 사람이 너무 많습니다. 학교를 더 건설하세요, 제발요.</string>
     <string name="dialog_notenoughmoney_title">돈이 충분치 않음</string>
-    <string name="dialog_notenoughmoney_text">우리는 이것을 사기에 돈이 부족합니다.\n\n부족한 %1$s 만큼을 바로 얻길 원하신가요?</string>
-    <string name="notify_fullhospital">이 병원에 공간이 부족합니다. 우리는 다른 병원을 지어야만 합니다.</string>
+    <string name="dialog_notenoughmoney_text">이것을 사기에 돈이 부족합니다.\n\n부족한 %1$s 만큼을 바로 얻길 원하신가요?</string>
+    <string name="notify_fullhospital">이 병원에 공간이 부족합니다. 다른 병원을 지어야만 합니다.</string>
     <string name="dialog_rate_title">TheoTown을 좋아하시나요?</string>
     <string name="dialog_rate_text">그러면 긍정적 평가를 남겨주세요. 잠깐이면 됩니다.</string>
     <string name="dialog_rate_cmdok">좋습니다.</string>
@@ -984,11 +984,11 @@
     <string name="draft_mltry_deco00_title">군사 기지 장식</string>
     <string name="draft_mltry_deco00_text">군사 기지를 위한 장식입니다</string>
     <string name="shader_smooth">부드러움</string>
-    <string name="topic_dumbledore">덤블도어는 이 일을 발생하지 않도록 할 것입니다.</string>
+    <string name="topic_dumbledore">덤블도어는 이 일 발생하지 않도록 할 것입니다.</string>
     <string name="draft_mltry_missilesilo00_title">미사일 발사대</string>
     <string name="draft_feature_military00_text">도시를 보호하기 위한 당신만의 군사기지를 건설하세요. UFO침공이 포함되어 있습니다.</string>
     <string name="dialog_smooth_title">부드러운 그래픽</string>
-    <string name="dialog_smooth_text">과학이여! 우리는 게임의 해상도를 증진시키기 위한 방법을 발견했습니다. 이것을 사용하길 원하신가요?\n\n이것은 설정에서 언재든지 바꿀 수 있습니다.</string>
+    <string name="dialog_smooth_text">과학이여! 저희는 게임의 해상도를 증진시키기 위한 방법을 발견했습니다. 이것을 사용하길 원하신가요?\n\n이것은 설정에서 언재든지 바꿀 수 있습니다.</string>
     <string name="budget_military">군부대</string>
     <string name="draftselector_monthlyincome">매달 수입: %s</string>
     <string name="draft_decosmallmountain00_title">작은 산</string>
@@ -1001,7 +1001,7 @@
     <string name="draft_mltry_tankbase00_text">군용 중장비를 위한 병참부입니다.</string>
 
     <string name="draft_mltry_rocketlauncher00_text">UFO격추를 위해 사용가능 합니다. 민간 차량이나 건물을 향해서는 발사되지 않을것 입니다.</string>
-    <string name="draft_mltry_missilesilo00_text">정부는 당신의 도시에서 로켓실험을 하는것을 원할겁니다. 이것으로 재해가 닥친다면, 피해에 대한 보상을 받을 것입니다.</string>
+    <string name="draft_mltry_missilesilo00_text">정부는 이 도시에서 로켓실험을 하는것을 원할겁니다. 이것으로 재해가 닥친다면, 피해에 대한 보상을 받을 것입니다.</string>
     <string name="draft_decosmallmountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
     <string name="draft_feature_mountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
     <string name="dialog_connect_title">이웃 도시와의 연결</string>
@@ -1018,7 +1018,7 @@
     <string name="dialog_buy_free">무료로 구매</string>
     <string name="notify_missiledisaster">이런...저는 우주적 재난 때문에 시행하는 마지막 로켓테스트가 두렵군요.</string>
     <string name="notification00_title">특보: %1$s 에는 예산이 너무 많다!</string>
-    <string name="notification00_text">시장님, 우리는 예산을 탕진하기 위해 시장님이 필요합니다!</string>
+    <string name="notification00_text">시장님, 우리 도시는 예산을 탕진하기 위해 시장님이 필요합니다!</string>
     <string name="roadinfo_bridgetype">교량 종류</string>
     <string name="draft_feature_buildings01_text">도시를 더 다양하게 만들 큰 주거,상업,공업 건물. 시민 생활 수준 상향.</string>
     <string name="dialog_diamondshop_recommended">추천</string>
@@ -1030,7 +1030,7 @@
     <string name="dialog_newsign_title">새로운 간판</string>
     <string name="dialog_newsign_text">이 구역을 위한 이름을 지어주세요.</string>
     <string name="dialog_editsign_title">간판 수정</string>
-    <string name="dialog_editsign_text">당신의 간판에 새로운 이름을 입력하거나, 제거하세요.</string>
+    <string name="dialog_editsign_text">간판에 새로운 이름을 입력하거나, 제거하세요.</string>
     <string name="dialog_editsign_delete">제거</string>
     <string name="draft_sign_tool_title">간판도구</string>
     <string name="draft_sign_tool_text">이 도구로 간판을 제거하거나 편집하세요.</string>
@@ -1040,7 +1040,7 @@
     <string name="draft_feature_slowspeed00_text">느린 속도 모드는 다양한 상황에서 당신이 더 상황을 통제하기 쉽도록 할 것입니다.</string>
     <string name="buildinginfo_patrol">순찰소</string>
     <string name="draft_beach_gnd00_title">모래</string>
-    <string name="draft_beach_gnd00_text">더 이상 형용할 필요가 없는 모래입니다. 가에서 사용됩니다.</string>
+    <string name="draft_beach_gnd00_text">더 이상 형용할 필요가 없는 모래입니다. 물가에서 사용됩니다.</string>
     <string name="draft_searocks00_title">암초</string>
     <string name="draft_searocks00_text">물에 있는 바위입니다.</string>
     <string name="createcity_decos">장식 포함</string>
@@ -1048,11 +1048,11 @@
     <string name="dialog_skipbuildtime_ad">%1$,d 일 건너뛰기</string>
     <string name="setting_showtrafficmarker">도로 건설 도구에서 교통량 보이기</string>
     <string name="menu_console">콘솔</string>
-    <string name="topic_crispr">유전공학은 당신의 삶을 바꿀것 입니다</string>
+    <string name="topic_crispr">유전공학은 여러분의 삶을 바꿀 것 입니다.</string>
     <string name="draft_feature_firestation00_title">거점 소방서</string>
     <string name="draft_feature_firestation00_text">넓은 반경을 가지는 소방서입니다, 수많은 차량과 헬리콥터를 위한 헬리페드가 있습니다.</string>
     <string name="draft_feature_gocart00_title">고ㅡ카트 경주트랙</string>
-    <string name="draft_feature_gocart00_text">당신의 도시에 모토가 될만한 스포츠는 어떠신가요? 또한 일반도로에 고ㅡ카트가 생성될 것입니다.</string>
+    <string name="draft_feature_gocart00_text">이 도시의 모토가 될만한 스포츠는 어떠신가요? 또한 일반도로에 고ㅡ카트가 생성될 것입니다.</string>
     <string name="draft_firedepartment02_text">수많은 차량과 넓은 반경을 가집니다. 화제를 예방,진압하는데 매우 유용합니다.</string>
     <string name="draft_prmgocart00_title">고ㅡ카트 경주트랙</string>
     <string name="draft_prmgocart00_text">당신의 도시에 모토가 될만한 스포츠는 어떠신가요? 또한 일반도로에 고ㅡ카트가 생성될 것입니다.</string>
@@ -1060,52 +1060,52 @@
     <string name="settings_buildingtoolold">구식 건물 도구</string>
     <string name="settings_roadautojoin">자동 도로 연결 도구</string>
 
-    <string name="tut_start00">얼마나 아름다운 장소인가요, 그렇지 않습니까? /n (튜토리얼 편집중. 낮은 퀄리티 양해 부탁 드립니다)</string>
-    <string name="tut_start01">그렇지만, 큰 도시를 지어봅시다, 단 아마 우리는 천천히 시작해야 할 것입니다.</string>
+    <string name="tut_start00">얼마나 아름다운 장소인가요, 그렇지 않습니까?</string>
+    <string name="tut_start01">그렇다면, 이곳에 큰 도시를 지어봅시다, 하지만 아마도 천천히 진행해야 할 것입니다.</string>
     <string name="tut_start02">맵을 움직이기 위해 탭하세요. 2개의 손가락으로 확대할 수도 있습니다.</string>
-    <string name="tut_start03">좋습니다, 전 이제 당신이 조정에 대해 느낌이 왔을 것이라 생각됩니다. 그런고로 우린 당신의 첫번째 도시를 시작할 수 있습니다.</string>
-    <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이것들을 무료로 사용할 수 습니다.</string>
+    <string name="tut_start03">좋습니다, 이제 화면조정에 대해 느낌이 왔을 것이라 생각됩니다. 그런고로 첫번째 도시의 건설을 시작할 수 있습니다.</string>
+    <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이것들을 바로 사용할 수 있습니다.</string>
     <string name="tut_build01">이곳에 주거구역을 지정해 봅시다. 사람들은 자신들의 집을 지을 것입니다.</string>
-    <string name="tut_build02">구역 주위로 도로를 건설하는 것이 더 좋겠습니다. 사람들은 오직 도로 근처에만 건물을 건설합니다.</string>
-    <string name="tut_build03">이제 우리는 사람들이 마을에 오도록 기달릴 필요가 있습니다.</string>
-    <string name="tut_build030">저기요, 저게뭔가요, 마치 누군가 전력이 없는 것처럼 보입니다!</string>
-    <string name="tut_build04">당연합니다. 우리는 전력 공급원이 없습니다, 아직은요. 고속도로 근처에 태양광 발전기를 지어봅시다.</string>
-    <string name="tut_build05">이제 우리는 발전기와 주거구역을 이을 전선이 필요합니다.</string>
-    <string name="tut_build06">발전소를 건설하는데는 시간이 조금 걸립니다. 당신은 기달리거나 이곳을 눌러 무료로 건설을 가속화 할수 있습니다.</string>
-    <string name="tut_build07">좋아요, 우리는 전력이 있습니다. 하지만 잠시만요, 저게 뭔가요? 사람들이 또한 물도 원한다구요?</string>
-    <string name="tut_build08">이것은 어렵지 않습니다. 물을 공급하기 위해 급수탑을 지어봅시다.</string>
-    <string name="tut_build09">여기서 우린 또한 건물이 완공되기까지 기달려야 합니다. 기달리는 것을 대신해 우리는 다이아몬드로 구매할수도 있습니다.</string>
-    <string name="tut_build10">물을 위해서 우리는 수도관으로 건물에 물을 공급할수 있습니다. 후일을 위해서 더 지으세요.</string>
-    <string name="tut_build11">좋습니다, 우리는 이제 물과 전력을 시민들에게 공급합니다. 근데 잠만요, 아직도 뭔가가 없습니다...</string>
-    <string name="tut_build110">시장님, 우리는 직장과 물건을 살 장소가 없습니다!</string>
-    <string name="tut_build12">일단, 우리는 상업과 공업구역이 필요합니다. 수요 개요를 한번 보도록 합시다.</string>
-    <string name="tut_build13">여기서 당신은 각각 res(주거), com(상업) 그리고 ind (공업) 건물을 위한 수요를 볼수 있습니다.</string>
-    <string name="tut_build14">각각의 유형엔 (주거, 상업, 공업) 부에 따라서 Ͳ(1등급), ͲͲ(2등급), ͲͲͲ(3등급), 각각 저소득층,중산층,고소득층에 대응되는 3가지 등급이 있습니다.</string>
-    <string name="tut_build15">당연히 우리는 고소득층시민만 살기를 원합니다, 하지만 우리는 천천히 시작해야만 합니다. 보다싶이 지금 우리는 Ͳ(1등급)상업시설이 필요합니다.</string>
-    <string name="tut_build16">상업구역을 지정하는거요? 제생각엔 당신은 잘 해낼 겁니다.</string>
-    <string name="tut_build17">아주 좋습니다! 수요그래프에 따르면 공업시설의 수요가 있습니다. 이제, 우리의 부족한 주거구역을 지정해 봅시다.</string>
-    <string name="tut_build18">평균적으로 당신은 상업구역과 공업구역 만큼의 주거구역이 필요합니다.</string>
-    <string name="tut_build19">당신은 아마 당신의 도시의 분명한 전망을 잃기가 쉬움을 눈치챘을 겁니다. 그런 이유로 저는 당신에게 선물을 하나 주고 싶습니다. 바로 미니맵</string>
-    <string name="tut_build22">좋습니다. 이제 다른 마법도구를 조사해봅시다.</string>
-    <string name="tut_build23">여기엔 당신의 도시에 대한 일반적인 정보가 있습니다. 당신은 원래의 이름을 눌러서 이름을 바꿀 수 있습니다.</string>
+    <string name="tut_build02">구역 주위로 도로를 건설하는 것이 더 좋겠습니다. 사람들은 오로지 도로 근처에만 건물을 건설합니다.</string>
+    <string name="tut_build03">이제 사람들이 마을에 오도록 기다립시다.</string>
+    <string name="tut_build030">저기요, 저게뭔가요, 마치 누군가의 집에 전력이 공급되지 않는 것처럼 보입니다!</string>
+    <string name="tut_build04">당연합니다. 전력 공급원이 없습니다, 아직은요. 고속도로 근처에 태양광 발전기를 지어봅시다.</string>
+    <string name="tut_build05">이젠, 발전기와 주거구역을 연결할 전선이 필요합니다.</string>
+    <string name="tut_build06">발전소를 건설하는데는 시간이 조금 걸립니다. 기달리거나 이곳을 눌러 무료로 건설을 가속화 할수 있습니다.</string>
+    <string name="tut_build07">좋아요, 우리 도시는 전력이 있습니다. 하지만 잠시만요, 저게 뭔가요? 사람들이 또한 물의 공급도 원한다네요?</string>
+    <string name="tut_build08">이것도 어렵지 않습니다. 물을 공급하기 위해 급수탑을 지어봅시다.</string>
+    <string name="tut_build09">여기서도 건물이 완공되기까지 기달려야 합니다. 기달리는 것을 대신해 다이아로 건설 가속화를 구매할수도 있습니다.</string>
+    <string name="tut_build10">물의 공급을 위해서 수도관으로 건물에 물을 공급할 수 있습니다. 나중을 위해서 몇개 더 지으세요.</string>
+    <string name="tut_build11">좋습니다, 우리 도시는 이제 물과 전력을 시민들에게 공급합니다. 근데 잠만요, 아직도 뭔가가 없습니다...</string>
+    <string name="tut_build110">시장님, 우리 도시는 일할 직장과 물건을 살 장소가 없습니다!</string>
+    <string name="tut_build12">그렇습니다, 상업과 공업구역이 필요합니다. 그전에, 수요 개요를 한번 보도록 합시다.</string>
+    <string name="tut_build13">여기서 res(주거), com(상업) 그리고 ind (공업) 건물을 위한 각각의 수요를 볼수 있습니다.</string>
+    <string name="tut_build14">각각의 유형, 주거, 상업, 공업에는 재산 수준에 따라서 Ͳ(3등급), ͲͲ(2등급), ͲͲͲ(일등급). 혹은, 저소득층,중산층,고소득층에 대응되는 3가지 등급이 있습니다.</string>
+    <string name="tut_build15">당연히 세금을 많이내는 고소득층시민만 살기를 원합니다, 하지만 천천히 시작해야만 합니다. 보다싶이 지금은 Ͳ(3등급)상업시설이 필요합니다.</string>
+    <string name="tut_build16">상업구역을 지정하는거요? 제생각에도 당신은 잘 해낼 겁니다.</string>
+    <string name="tut_build17">아주 좋습니다! 수요 개요에 따르면 공업시설의 수요가 있습니다. 그전에, 부족한 주거구역을 지정해 봅시다.</string>
+    <string name="tut_build18">평균적으로 일정비율의 상업구역과 공업구역 만큼의 주거구역이 필요합니다.</string>
+    <string name="tut_build19">아마도 도시개발이 순식간에 난잡해 진다는 것을 알았을 것입니다. 그런 이유로 저는 당신에게 선물을 하나 주고 싶습니다. 바로 미니맵!</string>
+    <string name="tut_build22">좋습니다. 이제 다른 마법도구도 조사해봅시다.</string>
+    <string name="tut_build23">여기엔 도시에 대한 핵심적인 정보가 있습니다. 원래의 이름을 눌러서 도시이름을 바꿀 수도 있습니다.</string>
     <string name="tut_build24">또다른 유용한 도구는 이것입니다.</string>
-    <string name="tut_build25">이것의 당신에게 당신의 시민들의 행복도를 보여줍니다.</string>
-    <string name="tut_build26">시간의 주인이 되는것도 멋지지 않을까요? 무엇이든 빨라지도록 해보세요.</string>
+    <string name="tut_build25">이것은 시민들의 행복도를 보여줍니다.</string>
+    <string name="tut_build26">생각해보면, 시간의 주인이 되는것도 멋지지 않을까요? 무엇이든 빨라지도록 해보세요.</string>
     <string name="tut_build27">게임을 일시정지 해보세요.</string>
     <string name="tut_build28">그리고 이제 일반속도로 되돌아갈 겁니다...</string>
-    <string name="tut_build29">당신을 방해해서 죄송합니다만, 여기엔 마법이 아닌것들이 필요합니다. 예시로 자본이라든지요.</string>
-    <string name="tut_build30">여기 우리의 자본에 대한 개요를 보여드리겠습니다. 우리는 세금으로 돈을 법니다, 그래서 이것은 우리가 인구수를 늘리는것과 관련이 있습니다.</string>
-    <string name="tut_build31">만일의 경우엔 우리는 대출을 할겁니다...그런일이 일어나지 않도록 바랍니다.</string>
-    <string name="tut_build32">제 생각엔 우린 돈이 충분한것 같습니다...지금으로서는요. 더많은 건물에 초점을 맞춰봅시다. 공원을 건설합니다. 사람들은 공원을 좋아합니다.</string>
-    <string name="tut_build33">이런, 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
-    <string name="tut_build34">아주 좋아요, 지금까지. 이제 저는 수준척도를 보여주고 싶습니다. 이것은 당신의 도시의 현재 수준을 보여줍니다.</string>
+    <string name="tut_build29">시간조정을 즐기고 있는 중 방해해서 죄송합니다만, 여기엔 마법이 아닌것들도 필요합니다. 자본이라든지요.</string>
+    <string name="tut_build30">여기, 우리 도시의 자본에 대한 개요를 보여드리겠습니다. 우리 도시는 세금으로 돈을 법니다, 그래서 이것이 바로 인구수를 늘리는것에 관심을 두는 의유입니다.</string>
+    <string name="tut_build31">최악의 경우엔 우리 도시는 대출을 할 것입니다... 그런일이 일어나지 않도록 바랍시다.</string>
+    <string name="tut_build32">제 생각엔 돈이 충분한것 같습니다, 지금으로서는요. 그런의미로, 더 많은 건물에 초점을 맞춰봅시다. 공원을 건설합시다. 사람들은 공원을 좋아합니다.</string>
+    <string name="tut_build33"> 이런 , 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
+    <string name="tut_build34">지금까지 아주 좋아요. 이제 저는 수준척도를 보여주고 싶습니다. 이것은 이 도시의 현재 수준을 보여줍니다.</string>
     <string name="tut_build35">다음 수준으로 가기위해 인구수를 늘리고 재앙을 해결합니다. 이방법으로 당신은 더많은 건물을 해금할 수 있습니다.</string>
-    <string name="tut_build36">재앙에 대해서는, 그건 발생할 겁니다... 이창을 통해서 대테러부대와 연락할 수 있습니다, 사용가능 하다면요.</string>
-    <string name="tut_build37">상황을 보이게 하려면 당신은 이 창을 사용할 수 있습니다.</string>
-    <string name="tut_present00">제가아는 모든 중요한 것들을 말했습니다. 하지만 중요한것 하나가 남았습니다: 여기 선물입니다</string>
-    <string name="tut_present01">당신은 매일매일 무료로 선물을 하나 받을 것입니다.</string>
-    <string name="tut_end00">만약 당신이 거대한 커뮤니티를 찾는다면, 이곳, www.theotown.com에서 찾을 수 있을 겁니다</string>
-    <string name="tut_end01">그리고 이젠, 즐겜하세요 :)</string>
+    <string name="tut_build36">재앙에 대해서는, 그건 반드시 발생할 겁니다, 이창을 통해서 사용가능 하다면 경찰 특공대 와도 연락할 수 있습니다.</string>
+    <string name="tut_build37">상황을 보이게 하려면 이 창을 사용할 수 있습니다.</string>
+    <string name="tut_present00">제가 알고있는 모든 중요한 것들을 말했습니다. 하지만 중요한 것 하나가 남았습니다: 여기 선물입니다</string>
+    <string name="tut_present01">매일매일 무료로 선물을 하나 받을 것입니다.</string>
+    <string name="tut_end00">만약 거대한 커뮤니티를 찾는다면, 이곳, www.theotown.com에서 찾을 수 있을 겁니다</string>
+    <string name="tut_end01">그리고 이제는... 즐겜하세요 :)</string>
 
     <string name="featureselector_time">%1$s 만큼의 매우빠름속도</string>
     <string name="draft_feature_time00_title">시간 조정기</string>
@@ -1120,21 +1120,21 @@
     <string name="draft_weather_machine00_title">기상 조정 장치</string>
     <string name="draft_weather_machine00_text">극비 과학기술을 사용하세요! 이것으로 날씨를 조정할 수 있습니다.</string>
 
-    <string name="draft_mltry_fence01_title">군 철책</string>
-    <string name="draft_mltry_fence01_text">장식목적의 군 철책 입니다.</string>
+    <string name="draft_mltry_fence01_title">군용 철책</string>
+    <string name="draft_mltry_fence01_text">장식목적의 군용 철책 입니다.</string>
 
     <string name="store_title">TheoTown</string>
-    <string name="store_shortdesc">당신만의 도시를 이 도시건설 시뮬레이션 게임에서 만드세요.</string>
-    <string name="store_longdesc">당신만의 도시를 만들고 싶나요? TheoTown에서 당신은 당신의 도시가 발전하는 것을 볼수 있습니다. 주거, 상업, 공업 건물를위한 구역을 지정하고, 도로를 건설하여 이들을 연결하세요. 공원, 학교 그리고 더많은 시설을 지어서 당신의 도시를 더욱 매력적으로 만드세요.
+    <string name="store_shortdesc">여러분만의 도시를 이 도시건설 시뮬레이션 게임에서 만드세요.</string>
+    <string name="store_longdesc">여러분만의 도시를 만들고 싶나요? TheoTown에서 여러분의 도시가 발전하는 것을 볼수 있습니다. 주거, 상업, 공업 건물를위한 구역을 지정하고, 도로를 건설하여 이들을 연결하세요. 공원, 학교 그리고 더많은 시설을 지어서 당신의 도시를 더욱 매력적으로 만드세요.
 
-만일 당신이 TheoTown에 외부 저장공간 제공을 허용한다면, 당신의 도시가 디바이스의 TheoTown/maps 디렉토리에 저장될 것입니다. 그러니 접근권한을 주십시오.</string>
+만일 TheoTown에 외부 저장공간 접근권한을 허용한다면, 이 도시가 디바이스의 TheoTown/maps 디렉토리에 저장될 것입니다. 필요하다면 접근권한을 허용해 주세요.</string>
 
     <string name="settings_sound_weather">날씨</string>
 
     <string name="settings_energysavingplus">에너지 절약 플러스</string>
     <string name="topic_designed">인간을 위해 디자인되었습니다.</string>
-    <string name="draft_weather_machine00_fog00_title">안개 생성 기계</string>
-    <string name="draft_weather_machine00_fog00_text">커다란 안개 생성 기계는 도시 전체를 뒤덮는 안개를 생성할 수 있습니다.</string>
+    <string name="draft_weather_machine00_fog00_title">안개 생성 장치</string>
+    <string name="draft_weather_machine00_fog00_text">커다란 안개 생성 장치는 도시 전체를 뒤덮는 안개를 생성할 수 있습니다.</string>
     <string name="dialog_cancelupgrade">업그레이드 취소</string>
     <string name="draft_feature_ranger00_title">산림업자의 오두막</string>
     <string name="draft_feature_ranger00_text">가끔 자연이 너무 오염되었을때 나무를 다시 심어야 할 수도 있습니다. 산림업자의 오두막은 나무를 자동으로 다시 심습니다.</string>
@@ -1149,16 +1149,16 @@
     <string name="draft_mltry_bunker00_title">벙커</string>
     <string name="draft_mltry_bunker00_text">시민들은 벙커 주위에서 안전함을 느낍니다. 최소 내화입니다.</string>
     <string name="draft_zoneairport_title">비행장</string>
-    <string name="draft_zoneairport_text">이 비행장 구역에 당신의 공항을 지으세요.</string>
+    <string name="draft_zoneairport_text">이 비행장 구역에 당신만의 공항을 지으세요.</string>
     <string name="draft_decoletters00_title">편지</string>
-    <string name="draft_decoletters00_text">조금의 편지로 %1$s 에게 개인적인 손길을 보내세요.</string>
-    <string name="draft_feature_letters00_title">편지 장식</string>
-    <string name="draft_feature_letters00_text">장식적으로 사용가능한 배치 가능한 편지입니다.</string>
+    <string name="draft_decoletters00_text">사소한 편지로 %1$s 에게 개인적인 손길을 보내세요.</string>
+    <string name="draft_feature_letters00_title">글자 장식</string>
+    <string name="draft_feature_letters00_text">장식적으로 사용가능한 배치 가능한 글자입니다.</string>
 
     <string name="tool_eye_dropper">건물 선택</string>
     <string name="settings_language">언어</string>
     <string name="settings_language_hint">당신은 아마도 언어를 바꾸기 위해 앱을 재시작 할 필요가 있을 겁니다.</string>
-    <string name="settings_language_default">일반 (%s)</string>
+    <string name="settings_language_default">기본 (%s)</string>
 
     <string name="settings_showroadlength">도로 길이 보이기</string>
     <string name="draft_rnk_metropolis_small_title">작은 대도시</string>
@@ -1218,7 +1218,7 @@
 
     <string name="ci_airport_title">공항</string>
     <string name="draft_wire01_title">송전선로</string>
-    <string name="draft_wire01_text">지역간 전력 교류를 위해 사용되는 고압의 전력을 위한 큰 전선 입니다. 지역간전력교류에, .</string>
+    <string name="draft_wire01_text">지역간 전력 교류를 위해 사용되는 고압의 전력을 위한 큰 전선 입니다.</string>
     <string name="draft_transformator00_title">변압기</string>
     <string name="draft_transformator00_text">고전압과 일반 전압을 변압하기 위해서는 변압기가 필요합니다. 선 가까이에 건설하세요.</string>
 
@@ -1234,7 +1234,7 @@
     <string name="airport_airplanes">항공기</string>
     <string name="airport_virtual_lane">할당된것 없음</string>
     <string name="airport_lane_no_airplane">항공기 지정 않됨</string>
-    <string name="topic_lightside">오른쪽으로 오세요, 우리는 아이스크림이 있습니다.</string>
+    <string name="topic_lightside">오른쪽으로 오세요, 아이스크림이 있습니다.</string>
     <string name="topic_handmade">모든 픽셀은 수제작입니다.</string>
     <string name="topic_lunch">점심때까지 여기에 더 건설하세요.</string>
     <string name="topic_watching">Lobby가 당신을 바라보고 있습니다</string>
@@ -1244,5 +1244,72 @@
     <string name="topic_threed">"3D로 만드세요"</string>
     <string name="topic_work">열심히 한 일의 흔적이 포함되 있을 수 있습니다.</string>
     <string name="topic_funfun">이제는 재미와 함께</string>
+
+    <string name="settings_lesscars">교통량</string>
+    <string name="settings_uploadgameplay">게임플레이 업로드 (ID: %s)</string>
+    <string name="settings_uploadgameplaymobile">Wi-Fi연결없이 게임플레이 업로드 (비쌀겁니다!)</string>
+    <string name="createcity_sizebigbigextra">터무니없이 거대한</string>
+    <string name="settings_uploadgameplay_quality">세부내용 업로드</string>
+    <string name="settings_uploadgameplay_qlow">나쁨</string>
+    <string name="settings_uploadgameplay_qmedium">보통</string>
+    <string name="settings_uploadgameplay_qhigh">좋음</string>
+    <string name="dialog_addairplane_title">항공기 추가</string>
+    <string name="draftselector_airplane_buy">구매</string>
+    <string name="dialog_airplanes_title">항공기</string>
+    <string name="dialog_airplanes_cmdadd">추가</string>
+    <string name="dialog_airplanes_usethis">사용</string>
+    <string name="dialog_airplanes_selected">선택</string>
+    <string name="dialog_airplanes_inuse">사용중</string>
+    <string name="dialog_renameairplane_title">항공기 이름 변경</string>
+    <string name="dialog_renameairplane_text">항공기의 새로운 이름 입력:</string>
+    <string name="draft_airplane00_title">T340</string>
+    <string name="draft_airplane00_text">데오항공의 장거리 항공기.</string>
+    <string name="draft_prm_airplane00_title">T340 Gold</string>
+    <string name="draft_prm_airplane00_text">데오항공의 황금도색 버전 장거리 항공기.</string>
+    <string name="draftselector_airplane_passenger">승객: %1$,d</string>
+    <string name="draft_ap_deco00_title">공항 장식</string>
+    <string name="draft_ap_deco00_text">이 장식으로 공항을 더욱 사실같이 만드세요.</string>
+    <string name="airport_needtower_title">관제탑 없음</string>
+    <string name="airport_needtower_text">공항을 통제하기 위해서는 관제탑이 반드시 필요합니다</string>
+    <string name="airport_needworkingtower_title">관제탑 미작동중</string>
+    <string name="airport_needworkingtower_text">관제탑이 작동하는지 점검해야 할 필요가 있습니다.</string>
+    <string name="airport_needworkingtower_cmdshow">보이기</string>
+    <string name="ci_airport_newlane_title">새로운 노선</string>
+    <string name="ci_airport_newlane_text">공항에 새로운 노선 추가</string>
+    <string name="ci_airport_onelaneatatime">Only one lane at a time can be added</string>
+    <string name="ci_airport_cmdunlock">잠금해제</string>
+    <string name="ci_airport_cmdlocked">잠김</string>
+    <string name="ci_airport_unlocking">잠금해제중</string>
+    <string name="ci_airport_cmdspeedup">빨리감기</string>
+    <string name="dialog_renamelane_title">노선명 변경</string>
+    <string name="dialog_renamelane_text">새로운 노선명 입력:</string>
+    <string name="dialog_redeemcode_title">재구매 코드 사용</string>
+    <string name="dialog_redeemcode_text">재구매 하기 위해 재구매 코드를 입력 하세요:</string>
+    <string name="dialog_redeemcode_cmdredeem">재구매</string>
+    <string name="dialog_redeemsuccess_title">완료</string>
+    <string name="dialog_redeemsuccess_text">축하드립니다, %1$s 개의 다이아를 얻었습니다 :)</string>
+    <string name="dialog_redeemfailure_title">실패</string>
+    <string name="dialog_redeemfialire_text">입력한 재구매 코드는 재구매 되어있지 않습니다. 입력 오류 인지 확인하세요.</string>
+    <string name="shop_redeemcode">재구매코드</string>
+    <string name="draft_ap_tower00_title">관제탑</string>
+    <string name="draft_ap_tower00_text">공항이 제대로 작동하기 위해 최소 하나의 관제탑이 필요합니다.</string>
+    <string name="draft_ap_hall00_title">공항 정문</string>
+    <string name="draft_ap_hall00_text">사람들이 공항으로 들어오도록 입구가 필요합니다.</string>
+    <string name="draft_ap_gate00_title">게이트</string>
+    <string name="draft_ap_gate00_text">타고 내릴 승객들을 위해 게이트가 필요합니다.</string>
+    <string name="draft_ap_field00_title">활주로</string>
+    <string name="draft_ap_field00_text">항공기가 이착륙하기 위해 반드시 필요합니다. 최소 거리는 12칸 입니다.</string>
+    <string name="settings_usezoneradius">구역 범위 사용</string>
+    <string name="draft_airplane01_title">T380</string>
+    <string name="draft_airplane01_text">데오항공의 2층 구조 장거리 항공기. 공간이 많습니다.</string>
+    <string name="dialog_waitingtime_title">대기시간 줄이기</string>
+    <string name="dialog_waitingtime_text">대기시간을 조금 줄이길 바라는가요?\n%1$s 만큼 .</string>
+
+    <string name="topic_rate">좋은평점으로 TheoTown을 도와주세요!</string>
+    <string name="ci_airport_lane_unassign">노선 폐지</string>
+    <string name="tool_airplanelane_title">비어있는 활주로 선택</string>
+    <string name="draft_feature_starter_pack00_title">스타터팩</string>
+    <string name="draft_feature_starter_pack00_text">스타터팩은 다음을 포함합니다:</string>
+    <string name="pluginerror_cmdchecksyntax">온라인 구문 검사</string>
 
 </resources>
