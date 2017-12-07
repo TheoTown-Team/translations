@@ -60,14 +60,14 @@
     <string name="dialog_screenshot_title">Ekran görüntüsü alındı</string>
     <string name="dialog_screenshot_text">Resim %1$s haydedildi.</string>
     <string name="dialog_screenshot_cmdok">Tamam, teşekkürler</string>
-    <string name="draftselector_titleparks">Parklar</string>
-    <string name="draftselector_titlepublics">Toplum</string>
-    <string name="draftselector_titleenergy">Enerji</string>
-    <string name="draftselector_titlewater">Su</string>
-    <string name="draftselector_titleschool">Eğitim</string>
-    <string name="draftselector_titlehealth">Sağlık</string>
-    <string name="draftselector_titlepolice">Polis</string>
-    <string name="draftselector_titlefiredepartment">İtfaiye</string>
+    <string name="draftselector_titleparks">parklar</string>
+    <string name="draftselector_titlepublics">toplum</string>
+    <string name="draftselector_titleenergy">enerji</string>
+    <string name="draftselector_titlewater">su</string>
+    <string name="draftselector_titleschool">eğitim</string>
+    <string name="draftselector_titlehealth">sağlık</string>
+    <string name="draftselector_titlepolice">polis</string>
+    <string name="draftselector_titlefiredepartment">itfaiye</string>
     <string name="draftselector_cmdbuild">İnşa Et</string>
     <string name="draftselector_price">Ücret: %s</string>
     <string name="draftselector_monthlyprice">Aylık Ücret: %s</string>
@@ -133,14 +133,14 @@
     <string name="draft_watertower00_text">Binalar için su sağlar.</string>
     <string name="settings_areazonetool">Alan bölge aracını kullan</string>
     <string name="createcity_gamemode">Oyun modu:</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Serbest</string>
     <string name="gamemode_easy">Kolay</string>
     <string name="gamemode_middle">Orta</string>
     <string name="gamemode_hard">Zor</string>
     <string name="game_infinitemoney">Serbest oyun</string>
     <string name="about_title">Jenerik</string>
     <string name="about_cmdback">Geri</string>
-    <string name="about_text">TheoTown emeği geçenler</string>
+    <string name="about_text">TheoTown\'da emeği geçenler</string>
     <string name="settings_music">Müzik</string>
     <string name="draftselector_titleaward">Ödüller</string>
     <string name="shader_default">Varsayılan</string>
@@ -148,7 +148,7 @@
     <string name="settings_shader">Gölge</string>
     <string name="shader_colorful">Renkli</string>
     <string name="shader_gray">Gri</string>
-    <string name="shader_fancy">Fancy</string>
+    <string name="shader_fancy">Süslü</string>
     <string name="settings_category_graphics">Grafikler</string>
     <string name="settings_category_audio">Ses</string>
     <string name="settings_category_other">Diğer</string>
@@ -161,12 +161,12 @@
     <string name="draft_gillender00_title">Gillender Binası</string>
     <string name="draft_gillender00_text">Gillender binası. 250,000 indirme için teşekkürler :D</string>
     <string name="topic_thanks">Destekleriniz için teşekkürler!</string>
-    <string name="topic_cake">Kek bir palavra!</string>
+    <string name="topic_cake">Kek bir yalan!</string>
     <string name="topic_panic">Panik yapma</string>
     <string name="draft_bigschool00_title">Lise</string>
     <string name="draft_bigschool00_text">Genç insanların birşeyler öğrenebileceği bir yer.</string>
     <string name="draft_treepark00_title">Ağaç Parkı</string>
-    <string name="draft_treepark00_text">Ağaçlı küçük park. Şehirdeki insanlar bunu sevecekler.</string>
+    <string name="draft_treepark00_text">Ağaçlı küçük park. Şehirdeki insanlar bunu sevecek.</string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Finansal</string>
     <string name="budget_res0">Konut Ͳ (%1$,d)</string>
@@ -217,10 +217,10 @@
     <string name="settings_ultrafastspeed">Ultra hızlı simülasyon</string>
     <string name="draftselector_power">Güç: %1$,dkW</string>
     <string name="draftselector_water">Su: %1$,dL/h</string>
-    <string name="notify_welcome">Hey oradaki, %1$s hoşgeldin.</string>
+    <string name="notify_welcome">Hey oradaki, %1$s adlı şehre hoşgeldin.</string>
     <string name="notify_citysize">Tebrikler, şehrin %1$,d nüfusa ulaştı!</string>
     <string name="game_placedprice">%1$s</string>
-    <string name="draft_waterfountain01_title">Su fiskiyesi</string>
+    <string name="draft_waterfountain01_title">Su fıskiyesi</string>
     <string name="draft_waterfountain01_text">Şehirdeki insanlar bunu sevecekler.</string>
     <string name="draft_treepark01_title">Ağaçlı Park</string>
     <string name="draft_treepark01_text">Küçük ağaçlı park. Şehirdeki insanlar bunu sevecekler.</string>
@@ -236,7 +236,7 @@
     <string name="buildinginfo_habitants">Nüfus: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Çalışan: %1$,d/%2$,d</string>
     <string name="topic_giveup">Asla pes etme</string>
-    <string name="dialog_screenshot_error"> %1$s klasörü oluşturulamamış olabilir. Uygulama izinlerini kontrol edin.</string>
+    <string name="dialog_screenshot_error"> %1$s dosyası oluşturulamamış olabilir. Lütfen uygulama izinlerini kontrol edin.</string>
     <string name="settings_energysaving">Enerji tasarrufu modu</string>
     <string name="about_idea">Fikir</string>
     <string name="about_programming">Programlama</string>
@@ -357,7 +357,7 @@
     <string name="draft_footballstadion00_roof_text">Çatı sayesinde her havada oyun oynanabilir.</string>
     <string name="draft_footballstadion00_fanshop_title">Hayran Mağazası</string>
     <string name="draft_footballstadion00_fanshop_text">Aksesuarlar burada satılır.</string>
-    <string name="notify_requirementbuilding">%1$s kilidini açtınız.</string>
+    <string name="notify_requirementbuilding">%1$s adlı binanın kilidini açtınız.</string>
     <string name="notify_requirementupgrade">Tebrikler,%2$s binası için %1$s yükseltmesinin kilidini açtınız!</string>
     <string name="draftselector_titlesports">Sporlar</string>
     <string name="draftselector_titlealert">Aciller</string>
@@ -400,10 +400,10 @@
     <string name="topic_christmas">Mutlu Noeller!</string>
     <string name="topic_newyear">Mutlu yeni yıllar</string>
     <string name="topic_birthday_lobby">Mutlu yıllar Lobby :)</string>
-    <string name="topic_birthday_theo">Mutlu yıllar theo :)</string>
+    <string name="topic_birthday_theo">Mutlu yıllar Theo :)</string>
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">42</string>
-    <string name="draft_radio00_news_title">Haberler 104,0</string>
+    <string name="draft_radio00_news_title">Haberler 104.0</string>
     <string name="draft_radio00_news_text">En yeni haberleri yayınlar. İnsanların bilgisini artırır.
 \n
 \nAynı anda sadece bir radyo programına izin verilir. Eski radyo programı yayınlanmaz.</string>
@@ -420,22 +420,22 @@
 \n
 \nAynı anda sadece bir radyo programına izin verilir. Eski radyo programı yayınlanmaz.</string>
     <string name="draft_lighthouse00_title">Deniz Feneri</string>
-    <string name="draft_lighthouse00_text">Uzakta bir gemi yok, ama bir deniz feneri var .... ilginç.</string>
+    <string name="draft_lighthouse00_text">Uzakta bir gemi yok, ama bir deniz feneri var... ilginç.</string>
     <string name="draft_road02_title">Otoyol</string>
     <string name="draft_road02_text">İki bölge arasında hızlı bağlantı.</string>
     <string name="budget_road">Yollar</string>
-    <string name="topic_birthday_phoenix">Mutlu yıllar phoenix!</string>
+    <string name="topic_birthday_phoenix">Mutlu yıllar Phoenix!</string>
     <string name="topic_birthday_lucasking">Mutlu yıllar Lucas!</string>
     <string name="tutorial_title">Öğretici</string>
     <string name="tutorial_welcome">Öğreticiye hoşgeldiniz!</string>
     <string name="tutorial_minimap">Mini haritayı daima gizleyip açabilirsiniz.</string>
-    <string name="tutorial_buildroad_a">Bir kaç yol yaparak işe başlayalım. En basit yol tipini seçin.</string>
+    <string name="tutorial_buildroad_a">Birkaç yol yaparak işe başlayalım. En basit yol tipini seçin.</string>
     <string name="tutorial_buildroad_b">Yolları işaretli kareler böyunca yerleştirin. İnşa etmek için başlangıç ve bitiş noktalarına dokunun.</string>
     <string name="tutorial_buildroad_c">Harika! Şimdi yol aracını kapatın.</string>
     <string name="tutorial_buildenergy_a">Hadi bir güneş paneli inşa etmeyi deneyelim.</string>
     <string name="tutorial_buildenergy_b">İşaretli kareler üzerine yerleştirin.</string>
     <string name="tutorial_buildenergy_c">Harika!</string>
-    <string name="tutorial_buildwire_a">Enerjiyi nakletmek iin enerji hattını kullanabilirsiniz.</string>
+    <string name="tutorial_buildwire_a">Enerjiyi nakletmek için enerji hattını kullanabilirsiniz.</string>
     <string name="tutorial_buildwire_b">İşaretli kareler boyunca yerleştirin.</string>
     <string name="tutorial_buildwire_c">Harika!</string>
     <string name="tutorial_buildwater_a">Hadi su sağlamak için su kulesi inşa edelim.</string>
@@ -443,9 +443,9 @@
     <string name="tutorial_buildwater_c">Harika!</string>
     <string name="tutorial_buildpipe_a">Su kulesi tek başına yeterli değildir. Suyu nakletmek için borulara ihtiyacınız var.</string>
     <string name="tutorial_buildpipe_b">Boruları işaretli kareler boyunca yerleştirin.</string>
-    <string name="tutorial_buildpipe_c">Harika. Şimdi bölgeleri belirtebilirsin.</string>
+    <string name="tutorial_buildpipe_c">Harika. Artık bölgeleri tanımlayabilirsin.</string>
     <string name="tutorial_buildzones">Bölge tanımlama o bölgeye neyin yapılacağıdır. Üç çeşidi vardır.</string>
-    <string name="tutorial_buildresidential_a">Hadi konutsal bölge tanımlayalım. İnsanlar buraya evlerini inşa edecekler.</string>
+    <string name="tutorial_buildresidential_a">Hadi önce konutsal bölge tanımlayalım. İnsanlar buraya evlerini inşa edecekler.</string>
     <string name="tutorial_buildresidential_b">İşaretli kareler üzerine yerleştirin.</string>
     <string name="tutorial_buildresidential_c">Harika.</string>
     <string name="tutorial_buildcommercial_a">Hadi ticari bölgelerle devam edelim. Dükkan, ofis vb. buraya inşa edilecek.</string>
@@ -457,7 +457,7 @@
     <string name="tutorial_industrial_keepaway">Gürültü ve kirlilik sebebiyle endüstriyel bölgeleri diğer bölgelerden uzak tutmalısınız.</string>
     <string name="tutorial_rci">Bu butona tıklayın ve bölgeler için talepleri görün.</string>
     <string name="tutorial_speed_fast">Daha az beklemek için simülasyon hızını değiştirebilirsiniz.</string>
-    <string name="tutorial_speed_normal">Şimdilik geri yavaşlatalım.</string>
+    <string name="tutorial_speed_normal">Şimdilik yeniden yavaşlatalım.</string>
     <string name="tutorial_money_task">Sizin göreviniz şehrinizi büyütmek için vergiler sayesinde para kazanmak.</string>
     <string name="tutorial_money_info">Kazancınız hakkında bilgi almak ya da vergi oranlarını değiştirmek için sağ alt köşeye dokunun.</string>
     <string name="tutorial_congrats">Tebrikler, TheoTown\'ın temellerini öğrendiniz. Şimdi kendi şehrinize başlayabilirsiniz :)</string>
@@ -492,7 +492,7 @@
     <string name="disaster_illness_cmdtext">Virüs</string>
     <string name="disaster_flooding_title">Baskın</string>
     <string name="disaster_flooding_text">Çok fazla su.</string>
-    <string name="disaster_flooding_cmdtext">Yağmur yağdır</string>
+    <string name="disaster_flooding_cmdtext">Yağdır!</string>
     <string name="buildinginfo_influences">Etkiler</string>
     <string name="ci_loan_title">Kredi</string>
     <string name="ci_loan_donate">Dilen</string>
@@ -515,10 +515,10 @@
     <string name="ci_loan_paybackcost">Geri ödeme tutarı: %1$s</string>
     <string name="ci_loan_estate">Toplam: %1$s</string>
     <string name="topic_support_ads">Reklama dokunarak bize destek olabilirsiniz :)</string>
-    <string name="settings_disaster_tornado">Tornado</string>
-    <string name="disaster_tornado_title">Tornado</string>
-    <string name="disaster_tornado_text">Tornadolar şehriniz için büyük tehlikedir.</string>
-    <string name="disaster_tornado_cmdtext">Rüzgar oluştur</string>
+    <string name="settings_disaster_tornado">Hortum</string>
+    <string name="disaster_tornado_title">Hortum</string>
+    <string name="disaster_tornado_text">Hortumlar şehriniz için büyük tehlikedir.</string>
+    <string name="disaster_tornado_cmdtext">Estir!</string>
     <string name="buildinginfo_untouchable">Dokunulmaz</string>
     <string name="draft_zoneresidential_lvl2_title">Yoğun Konut</string>
     <string name="draft_zoneresidential_lvl2_text">Daha yoğun konut bölgesi.</string>
@@ -527,11 +527,11 @@
     <string name="draft_zoneindustrial_lvl2_title">Yoğun Endüstri</string>
     <string name="draft_zoneindustrial_lvl2_text">Daha yoğun endüstriyel bölge.</string>
     <string name="draft_zonefarm_title">Çiftlik</string>
-    <string name="draft_zonefarm_text">Çiftlik binaları için ucuz bölge. Çiftlik çin minimum bölge boyutu 4x4.</string>
-    <string name="requirement_peoplecount_all">Nüfusun %1$,d olması gerekli.</string>
-    <string name="requirement_peoplecount_poor">Fakir nüfusun %1$,d olması gerekli.</string>
-    <string name="requirement_peoplecount_middle">Orta direk nüfusun %1$,d olması gerekli.</string>
-    <string name="requirement_peoplecount_rich">Zengin nüfusun %1$,d olması gerekli</string>
+    <string name="draft_zonefarm_text">Çiftlik binaları için ucuz bölge. Çiftlik için minimum bölge boyutu 4x4.</string>
+    <string name="requirement_peoplecount_all">Nüfusun en az %1$,d olması gerekli.</string>
+    <string name="requirement_peoplecount_poor">Fakir nüfusun en az %1$,d olması gerekli.</string>
+    <string name="requirement_peoplecount_middle">Orta gelirli nüfusun  en az %1$,d olması gerekli.</string>
+    <string name="requirement_peoplecount_rich">Zengin nüfusun en az %1$,d olması gerekli</string>
     <string name="requirement_building">%1$s olması gerekli.</string>
     <string name="draftselector_onlyone">Sadece bir tane inşa edilebilir</string>
     <string name="draftselector_onlyn">Sadece %1$,d tane inşa edilebilir</string>
@@ -623,8 +623,8 @@
     <string name="draft_waterpump01_text">Suyun yakınına inşa edilmeli.</string>
     <string name="draft_filterplant00_title">Arıtma Tesisi</string>
     <string name="draft_filterplant00_text">Suyu temizler.</string>
-    <string name="topic_fun">iyi eğlenceler! :)</string>
-    <string name="topic_android">Sadece android için</string>
+    <string name="topic_fun">İyi eğlenceler! :)</string>
+    <string name="topic_android">Sadece Android için</string>
     <string name="topic_tryharder">Daha sağlam dene</string>
     <string name="topic_nature">Doğayı koru</string>
     <string name="topic_time">Biraz zaman al</string>
@@ -648,8 +648,8 @@
     <string name="draft_decoind00_title">Endüstriyel alan</string>
     <string name="settings_shaderconfig">Renkler</string>
     <string name="settings_shadertype_normal">Normal</string>
-    <string name="settings_shadertype_fancy">Zevkli</string>
-    <string name="settings_shadertype_xfancy">X-Zevkli</string>
+    <string name="settings_shadertype_fancy">Süslü</string>
+    <string name="settings_shadertype_xfancy">X-Süslü</string>
     <string name="draft_buoy00_title">Şamandıra</string>
     <string name="draft_buoy00_text">Gemilerin yolunu bulmasında yardımcı olur.</string>
     <string name="ci_general_seed">Harita No: %1$s</string>
@@ -695,18 +695,18 @@
     <string name="draft_beach00_text">Plajda harika bir gün geçirin.</string>
     <string name="draft_biergarten00_title">Bira Bahçesi</string>
     <string name="draft_biergarten00_text">Dinlenmek için güzel bir yer.</string>
-    <string name="notify_noreszone">İnsanlar kasabanızda yaşamak istiyor. Onlar için konut bölgesi tanımlayınız.</string>
-    <string name="notify_nocomzone">Ticari alanlar tanımlayın.Dükkan ve ofisler şehrinizde inşa edilsin.</string>
-    <string name="notify_noindzone">Şehrinizde endüstri gelişşebilir.Ancak önce endüstri bölgeleri tanımlamalısnız.</string>
+    <string name="notify_noreszone">İnsanlar kasabanızda yaşamak istiyor. Onlar için konut bölgesi tanımlayın.</string>
+    <string name="notify_nocomzone">Ticari alanlar tanımlayın. Dükkan ve ofisler şehrinizde inşa edilsin.</string>
+    <string name="notify_noindzone">Şehrinizde endüstri gelişebilir. Ancak önce endüstri bölgeleri tanımlamalısınız.</string>
     <string name="createcity_sizebigbigbig">Devasa</string>
     <string name="locale">tr</string>
     <string name="draft_police02_title">S.W.A.T. Merkezi</string>
     <string name="draft_police02_text">Bu polis istasyonu şehrinize kanun ve huzur sağlayacaktr.</string>
     <string name="settings_blur">Bulanıklık</string>
-    <string name="happiness_supply">Tedarik</string>
+    <string name="happiness_supply">Eğitim</string>
     <string name="happiness_environment">Çevre</string>
     <string name="happiness_freetime">Boş zaman</string>
-    <string name="notify_noroad">Bazı binaların yol bağlantısı yok.Bunu düzeltmelisin.</string>
+    <string name="notify_noroad">Bazı binaların yol bağlantısı yok. Bunu düzeltmelisin.</string>
     <string name="notify_water_waste">Suyumuz gerçekten çok kirli!</string>
     <string name="influence_management_title">Yönetim</string>
     <string name="influence_management_text">Şehrinizi kontrol eder.</string>
@@ -772,21 +772,21 @@
     <string name="draft_marker_powermarker_title">Enerji</string>
     <string name="draft_marker_watermarker_title">Su</string>
     <string name="draft_road04_title">Bulvar</string>
-    <string name="draft_road05_title">Duble Yol</string>
+    <string name="draft_road05_title">İkili Yol</string>
     <string name="draft_road04_text">Ağaçlı hoş bir yol.</string>
     <string name="draft_road05_text">Uzak bölgeleri bağlamak için mükemmel bir yol.</string>
-    <string name="notify_unhappy">İnsanlar çok mutsuz sebebi %1$s. Mutluluğu artırmayı denemelisiniz.</string>
+    <string name="notify_unhappy">%1$s. Yüzünden insanlar çok mutsuz! Bu soruna hemen bir çözüm bulmalısınız.</string>
     <string name="happiness_general">Genel mutluluk</string>
     <string name="draft_rnk_isolateddwelling_title">İzole Konut</string>
     <string name="draft_rnk_hamlet_title">Mezra</string>
-    <string name="draft_rnk_village_small_title">Küçük Köy</string>
+    <string name="draft_rnk_village_Küçük_title">Küçük Köy</string>
     <string name="draft_rnk_village_medium_title">Village</string>
     <string name="draft_rnk_village_big_title">Büyük Köy</string>
-    <string name="draft_rnk_town_small_title">Küçük Kasaba</string>
+    <string name="draft_rnk_town_Küçük_title">Küçük Kasaba</string>
     <string name="draft_rnk_town_medium_title">Town</string>
     <string name="draft_rnk_town_big_title">Büyük Kasaba</string>
     <string name="draft_rnk_town_large_title">Geniş Kasaba</string>
-    <string name="draft_rnk_city_small_title">Küçük Şehir</string>
+    <string name="draft_rnk_city_Küçük_title">Küçük Şehir</string>
     <string name="draft_rnk_city_medium_title">City</string>
     <string name="draft_rnk_city_big_title">Büyük Şehir</string>
     <string name="draft_rnk_city_large_title">Geniş Şehir</string>
@@ -893,7 +893,7 @@
     <string name="diamonds">%1$,d</string>
     <string name="dialog_present_title">Senin için bir hediye.</string>
     <string name="dialog_present_text">İdareli kullan.</string>
-    <string name="dialog_present_cmdok">Teşekkür ederiz!</string>
+    <string name="dialog_present_cmdok">Teşekkür ederim!</string>
     <string name="settings_saveminimap">Dış minimap\'ı kaydet.</string>
     <string name="ci_budget_doublemoney_title">İki katına çıkarılmış gelir</string>
     <string name="ci_budget_doublemoney_text">Gelirini %1$,d günlüğüne iki katına çıkarır.</string>
@@ -1123,8 +1123,8 @@
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bu simülasyonda kendi şehrini yarat.</string>
-    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binala kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
 
+    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binala kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
 Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritaları yükleyecektir ve sende bunlara erişebileceksin.</string>
 
     <string name="settings_sound_weather">Hava durumu</string>
@@ -1148,10 +1148,10 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_mltry_bunker00_text">İnsanlar sığınakların yakınında kendilerini daha rahat hissederler. En azından yanmıyorlar.</string>
     <string name="draft_zoneairport_title">Havaalanı</string>
     <string name="draft_zoneairport_text">Buraya havaalanı kurabilirsiniz.</string>
-    <string name="draft_decoletters00_title">Mektuplar</string>
-    <string name="draft_decoletters00_text">%1$s \'a biraz mektuplar ki o biraz kişisel görüşme yapabilsin.</string>
-    <string name="draft_feature_letters00_title">Mektup dekorasyonları</string>
-    <string name="draft_feature_letters00_text">Dekorasyon için koyulabilir mektuplar.</string>
+    <string name="draft_decoletters00_title">Harfler</string>
+    <string name="draft_decoletters00_text">%1$s \'a bazı harfler ki o biraz kişisel görüşme yapabilsin.</string>
+    <string name="draft_feature_letters00_title">Harf dekorasyonları</string>
+    <string name="draft_feature_letters00_text">Dekorasyon için koyulabilir harfler.</string>
 
     <string name="tool_eye_dropper">Bina seç</string>
     <string name="settings_language">Dil</string>
@@ -1159,6 +1159,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="settings_language_default">Varsayılan (%s)</string>
 
     <string name="settings_showroadlength">Yol uzunluğunu göster</string>
+
     <string name="draft_rnk_metropolis_small_title">Küçük metropolis</string>
     <string name="draft_rnk_metropolis_big_title">Büyük metropolis</string>
     <string name="draft_rnk_metropolis_large_title">Çok büyük metropolis</string>
@@ -1200,7 +1201,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_prm_park00_text">Güzel bir fıskiye. Nüfusun zevkini %1$s kadar artıracak, senin de.</string>
     <string name="draft_feature_fountain00_title">Büyük fıskiye</string>
     <string name="draft_feature_fountain00_text">Güzel bir fıskiye. Nüfusun zevkini baya kadar artıracak, senin de.</string>
-
     <string name="draft_rnk_galaxy_small_title">Küçük Galaksi</string>
     <string name="draft_rnk_galaxy_medium_title">Galaksi</string>
     <string name="draft_rnk_galaxy_big_title">Büyük Galaksi</string>
