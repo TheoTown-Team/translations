@@ -268,8 +268,8 @@
     <string name="draft_busstop00_title">버스 정류장</string>
     <string name="draft_busstop00_text">이곳에서 시민들이 버스를 타고서 도시의 다른 곳으로 이동할 수 있습니다.</string>
     <string name="settings_orientation">화면 방향</string>
-    <string name="settings_orientationlandscape">풍경화</string>
-    <string name="settings_orientationportrait">초상화</string>
+    <string name="settings_orientationlandscape">풍경화(가로)</string>
+    <string name="settings_orientationportrait">초상화(세로)</string>
     <string name="settings_orientationauto">자동</string>
     <string name="draft_busdepot00_title">버스 차고지</string>
     <string name="draft_busdepot00_text">버스 차고지에서 버스가 생성 됩니다.</string>
@@ -358,7 +358,7 @@
     <string name="draft_footballstadion00_fanshop_title">기념품 가게</string>
     <string name="draft_footballstadion00_fanshop_text">기념품은 여기서 팔립니다.</string>
     <string name="notify_requirementbuilding">다음을 해제하였습니다!: %1$s.</string>
-    <string name="notify_requirementupgrade">축하드려요. 당신은 %2$s (을)를 위한 %1$s 개의 업그레이드를 해제했습니다!</string>
+    <string name="notify_requirementupgrade">축하드려요. %2$s (을)를 위한 %1$s 개의 업그레이드를 해제했습니다!</string>
     <string name="draftselector_titlesports">스포츠</string>
     <string name="draftselector_titlealert">비상상황</string>
     <string name="notify_fire">으어어어어 불이야! 화재진화를 위해 소방대를 보내세요! 또한 더많은 소방서를 건설하는 것도 고려하십시오.</string>
@@ -631,7 +631,7 @@
     <string name="topic_big">큰것들을 만들어 봅시다!</string>
     <string name="buildinginfo_waterwaste">하수: %1$.1f%%</string>
     <string name="ci_water_waste">사용된: %1$.1f%%</string>
-    <string name="shader_fancy2">초ㅡ화려함</string>
+    <string name="shader_fancy2">초ㅡ화려</string>
     <string name="draft_sewerpipe00_title">하수관</string>
     <string name="draft_sewerpipe00_text">폐수를 자연으로 방출합니다. 나쁜 영향을 끼칩니다.</string>
     <string name="settings_lowresmapscreenshot">저해상도 맵 스크린샷</string>
@@ -648,8 +648,8 @@
     <string name="draft_decoind00_title">공업 구역</string>
     <string name="settings_shaderconfig">색상</string>
     <string name="settings_shadertype_normal">보통</string>
-    <string name="settings_shadertype_fancy">화려함</string>
-    <string name="settings_shadertype_xfancy">초ㅡ화려함</string>
+    <string name="settings_shadertype_fancy">화려</string>
+    <string name="settings_shadertype_xfancy">초ㅡ화려</string>
     <string name="draft_buoy00_title">부표</string>
     <string name="draft_buoy00_text">선박이 길을 찾기 위해 필요합니다.</string>
     <string name="ci_general_seed">시드: %1$s</string>
@@ -907,7 +907,7 @@
     <string name="dialog_getrank_text">만일 원한다면, 이 랭크를 바로 잠금해제 할수 있습니다.</string>
     <string name="features_buy">지금 바로 구매하세요</string>
     <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약깐의 작은 주거,상업,산업 건물. 겨울을 위한 그래픽 포함.</string>
-    <string name="dialog_redeempromo_title">당신은 다이아를 얻었습니다.</string>
+    <string name="dialog_redeempromo_title">다이아를 얻었습니다.</string>
     <string name="dialog_redeempromo_text">이제 이 다이아는 당신 소유인것 같네요.</string>
     <string name="dialog_present_cmdad">두배로 하기</string>
     <string name="dialog_connectroad_title">이웃 도시와 연결</string>
@@ -994,7 +994,7 @@
     <string name="draft_decosmallmountain00_title">작은 산</string>
     <string name="draft_feature_mountain00_title">작은 산</string>
     <string name="draft_zonemilitary_text">군사 시설은 이 구역내에 건설될 것입니다.</string>
-    <string name="draft_mltry_road00_text">응급파량과 군 차량만을 위한 도로입니다. 당신은 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
+    <string name="draft_mltry_road00_text">응급파량과 군 차량만을 위한 도로입니다. 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
     <string name="draft_mltry_hq00_text">본부는 군부대의 건물중 중 가장 중요한 시설입니다.</string>
     <string name="draft_mltry_baracks00_text">군인들이 거주합니다.</string>
     <string name="draft_mltry_depot00_text">군수물자를 위한 병참부입니다.</string>
@@ -1005,7 +1005,7 @@
     <string name="draft_decosmallmountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
     <string name="draft_feature_mountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
     <string name="dialog_connect_title">이웃 도시와의 연결</string>
-    <string name="dialog_connect_text">당신은 외부와의 연결을 설정하고 싶으신가요?</string>
+    <string name="dialog_connect_text">외부와의 연결을 설정하고 싶으신가요?</string>
     <string name="menu_hideui">UI 숨기기</string>
     <string name="ci_neighbor_title">이웃 도시와의 교류</string>
     <string name="ci_neighbor_notavailable">현재시점에선 사용불가</string>
@@ -1099,7 +1099,7 @@
     <string name="tut_build32">제 생각엔 돈이 충분한것 같습니다, 지금으로서는요. 그런의미로, 더 많은 건물에 초점을 맞춰봅시다. 공원을 건설합시다. 사람들은 공원을 좋아합니다.</string>
     <string name="tut_build33"> 이런 , 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
     <string name="tut_build34">지금까지 아주 좋아요. 이제 저는 수준척도를 보여주고 싶습니다. 이것은 이 도시의 현재 수준을 보여줍니다.</string>
-    <string name="tut_build35">다음 수준으로 가기위해 인구수를 늘리고 재앙을 해결합니다. 이방법으로 당신은 더많은 건물을 해금할 수 있습니다.</string>
+    <string name="tut_build35">다음 수준으로 가기위해 인구수를 늘리고 재앙을 해결합니다. 이방법으로 더많은 건물을 해금할 수 있습니다.</string>
     <string name="tut_build36">재앙에 대해서는, 그건 반드시 발생할 겁니다, 이창을 통해서 사용가능 하다면 경찰 특공대 와도 연락할 수 있습니다.</string>
     <string name="tut_build37">상황을 보이게 하려면 이 창을 사용할 수 있습니다.</string>
     <string name="tut_present00">제가 알고있는 모든 중요한 것들을 말했습니다. 하지만 중요한 것 하나가 남았습니다: 여기 선물입니다</string>
@@ -1157,7 +1157,7 @@
 
     <string name="tool_eye_dropper">건물 선택</string>
     <string name="settings_language">언어</string>
-    <string name="settings_language_hint">당신은 아마도 언어를 바꾸기 위해 앱을 재시작 할 필요가 있을 겁니다.</string>
+    <string name="settings_language_hint">아마도 게임 언어를 바꾸기 위해서 앱을 재시작 할 필요가 있을 겁니다.</string>
     <string name="settings_language_default">기본 (%s)</string>
 
     <string name="settings_showroadlength">도로 길이 보이기</string>
@@ -1312,27 +1312,27 @@
     <string name="draft_feature_starter_pack00_text">스타터팩은 다음을 포함합니다:</string>
     <string name="pluginerror_cmdchecksyntax">온라인 구문 검사</string>
 
-    <string name="fb_login_title">Connect with Facebook</string>
-    <string name="fb_login_text">Login so that we can synchronize your profile.</string>
-    <string name="fb_login_cancel">Cancel</string>
-    <string name="toast_seed_copy">Copied seed into clipboard</string>
-    <string name="toast_recordingid_copy">Copied recording ID into clipboard</string>
-    <string name="draft_ap_road00_title">Transport road</string>
-    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways.</string>
-    <string name="requirement_upgrade">Needs upgrade %1$s</string>
-    <string name="requirement_upgrade_invert">Cannot be combined with %1$s</string>
-    <string name="draft_deco_chr_present00_title">Present</string>
-    <string name="draft_deco_chr_present00_text">Just a present.</string>
-    <string name="settings_touch_rotate">Rotate on touch</string>
-    <string name="disaster_green_slime_title">Green Slime</string>
-    <string name="disaster_green_slime_text">Ever-expanding slime that will slowly consume not everything in sight.</string>
-    <string name="disaster_green_slime_cmdtext">Slime!</string>
-    <string name="disaster_pink_slime_title">Pink Slime</string>
-    <string name="disaster_pink_slime_text">Ever-expanding slime that will slowly consume everything in sight.</string>
-    <string name="disaster_pink_slime_cmdtext">Slime!</string>
-    <string name="draft_hydroplant00_title">River Power Plant</string>
-    <string name="draft_hydroplant00_text">A hydroelectric Power Plant that can be used to create electricity using the power of rivers. Does not generate pollution.</string>
-    <string name="draft_feature_slime00_title">Slime disaster</string>
-    <string name="draft_feature_slime00_text">Slime disasters will eat up your city. Of course, only if you want it to do so.</string>
+    <string name="fb_login_title">페이스북에 연결</string>
+    <string name="fb_login_text">프로필을 동기화 할 수 있도록 로그인 하세요.</string>
+    <string name="fb_login_cancel">취소</string>
+    <string name="toast_seed_copy">클립보드에 시드 복사</string>
+    <string name="toast_recordingid_copy">클립보드에 녹화ID 복사</string>
+    <string name="draft_ap_road00_title">유도로</string>
+    <string name="draft_ap_road00_text">게이트와 활주로을 연결하기 위해 이 도로를 사용합니다.</string>
+    <string name="requirement_upgrade">%1$s 업그레이드 필요</string>
+    <string name="requirement_upgrade_invert">%1$s 와 합쳐질 수 없음</string>
+    <string name="draft_deco_chr_present00_title">선물</string>
+    <string name="draft_deco_chr_present00_text">그냥 선물.</string>
+    <string name="settings_touch_rotate">터치로 회전</string>
+    <string name="disaster_green_slime_title">초록 슬라임</string>
+    <string name="disaster_green_slime_text">시야안에 있는 거이 모든 것을 먹어치우고 계속 늘어나는 슬라임.</string>
+    <string name="disaster_green_slime_cmdtext">슬라임!</string>
+    <string name="disaster_pink_slime_title">핑크 슬라임</string>
+    <string name="disaster_pink_slime_text">시야안에 있는 모든 것을 먹어치우고 계속 늘어나는 슬라임.</string>
+    <string name="disaster_pink_slime_cmdtext">슬라임!</string>
+    <string name="draft_hydroplant00_title">수력 발전기</string>
+    <string name="draft_hydroplant00_text">장물의 힘을 이용하여 전기를 생산하는데 사용될 수 있는 수력 발전기 입니다. 오염을 생산하지 않을 것 입니다.</string>
+    <string name="draft_feature_slime00_title">슬라임 대재앙</string>
+    <string name="draft_feature_slime00_text">슬라임 재앙은 도시의 모든 것을 먹어치울 겁니다. 당현히, 오직 당신이 그것을 하길 바랄 때 만요.</string>
 
 </resources>
