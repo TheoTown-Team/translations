@@ -1295,10 +1295,10 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_ap_gate00_title">Gate</string>
     <string name="draft_ap_gate00_text">Gates werden für ankommende/abreisende Passagiere benötigt.</string>
     <string name="draft_ap_field00_title">Landebahn</string>
-    <string name="draft_ap_field00_text">Eine Landebahn auf der Flugzeuge starten- und landen können. Die minimale Länge beträgt 12 Einheiten.</string>
+    <string name="draft_ap_field00_text">Eine Landebahn, auf der Flugzeuge starten und landen können. Die minimale Länge beträgt 12 Felder.</string>
     <string name="settings_usezoneradius">Verwende Radius für Zonen</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">Ein Flugzeuge mit zwei Ebenen und großer Reichweite von TheoAir. Es bietet sehr viel Platz für Passagiere.</string>
+    <string name="draft_airplane01_text">Ein Flugzeug mit zwei Ebenen und großer Reichweite von TheoAir. Es bietet sehr viel Platz für Passagiere.</string>
     <string name="dialog_waitingtime_title">Wartezeit verkürzen</string>
     <string name="dialog_waitingtime_text">Wie wäre es, die Wartezeit etwas abzukürzen?\n%1$s verbleibend.</string>
 
@@ -1306,7 +1306,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="ci_airport_lane_unassign">Verwerfen</string>
     <string name="tool_airplanelane_title">Tippe auf eine freie Landebahn</string>
     <string name="draft_feature_starter_pack00_title">Starter Paket</string>
-    <string name="draft_feature_starter_pack00_text">Mit dem Starter Paket erhälst du:</string>
+    <string name="draft_feature_starter_pack00_text">Mit dem Starter Paket erhältst du:</string>
     <string name="pluginerror_cmdchecksyntax">Syntax online überprüfen</string>
 
     <string name="fb_login_title">Mit Facebook verbinden</string>
@@ -1319,17 +1319,39 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="requirement_upgrade">Benötigt Upgrade %1$s</string>
     <string name="requirement_upgrade_invert">Kann nicht kombiniert werden mit %1$s</string>
     <string name="draft_deco_chr_present00_title">Geschenk</string>
-    <string name="draft_deco_chr_present00_text">Einfach nur ein Geschenk.</string>
+    <string name="draft_deco_chr_present00_text">Einfach nur ein Geschenk. Du kannst es antippen.</string>
     <string name="settings_touch_rotate">Drehen durch zwei Fingern</string>
     <string name="disaster_green_slime_title">Grüner Schleim</string>
-    <string name="disaster_green_slime_text">Ein sich ausbreitender Schleim der nach und nach Teile deiner Stadt verschlingt.</string>
+    <string name="disaster_green_slime_text">Ein sich ausbreitender Schleim, der nach und nach Teile deiner Stadt verschlingt.</string>
     <string name="disaster_green_slime_cmdtext">Losschleimen</string>
     <string name="disaster_pink_slime_title">Rosa Schleim</string>
-    <string name="disaster_pink_slime_text">Eine agressivere Variante von Schleim die ganze Städte vernichten kann.</string>
+    <string name="disaster_pink_slime_text">Eine aggressivere Variante von Schleim, die ganze Städte vernichten kann.</string>
     <string name="disaster_pink_slime_cmdtext">Losschleimen</string>
     <string name="draft_hydroplant00_title">Wasserkraftwerk</string>
     <string name="draft_hydroplant00_text">Ein Wasserkraftwerk gewinnt Strom aus bewegten Gewässern. Verursacht keine Verschmutzung.</string>
     <string name="draft_feature_slime00_title">Schleim Katastrophe</string>
-    <string name="draft_feature_slime00_text">Schleimkatastrophen werden deine Städte verschlingnen. Aber natürlich nur, wenn du das möchtest.</string>
+    <string name="draft_feature_slime00_text">Schleimkatastrophen werden deine Städte verschlingen. Aber natürlich nur, wenn du das möchtest.</string>
+
+    <string name="settings_terrainshading">Landschaftsschattierung</string>
+    <string name="draft_deco_chr_tree00_title">Weihnachtsbaum</string>
+    <string name="draft_deco_chr_tree00_text">Das Weihnachtsbaum wird die Herzen deiner Stadt mit Glück und Freude erfüllen. Und dich auch :) Siehst du die Geschenke?</string>
+    <string name="draft_jardinehouse00_title">Jardine Haus</string>
+    <string name="draft_jardinehouse00_text">Das Jardine Haus ist ein Büroturm in Hong Kong. Es besitzt 52 Stockwerke und ist 179m hoch. Der Bau wurde 1972 abgeschlossen.</string>
+    <string name="draft_bankofchina00_title">Bank of China</string>
+    <string name="draft_bankofchina00_text">Der Bank of China Tower in Hong Kong beherbergt das Hauptquartier der Bank of China HK. Er besteht aus 70 Stockwerken und ist 367m hoch. Der Bau wurde 1990 abgeschlossen.</string>
+    <string name="settings_road_zone_width">Zonenbreite zwischen Straßen</string>
+    <string name="settings_road_zone_height">Zonenhöhe zwischen Straßen</string>
+    <string name="draft_feature_christmas_pack00_title">Weihnachtsaktion</string>
+    <string name="draft_feature_christmas_pack00_text">Die begrenzte Aktion umfasst:</string>
+    <string name="draft_feature_christmas00_title">Weihnachtszeit!</string>
+    <string name="draft_feature_christmas00_text">Verschiedene Dekorationen für die Weihnachtszeit :)</string>
+    <string name="draft_category_christmas00_title">Winterzeit</string>
+    <string name="draft_deco_chr_snowman00_title">Schneemann</string>
+    <string name="draft_deco_chr_snowman00_text">Kinder lieben den Bau von Schneemännern zur Winterzeit.</string>
+    <string name="draft_internationalcommercecentre00_title">ICC</string>
+    <string name="draft_internationalcommercecentre00_text">Bei dem International Commerce Centre in Hong Kong handelt es sich um einen 108 stöckigen, gewerblichen Wolkenkratzer. Es ist das höchste Gebäude Hong Kongs mit einer Höhe von 484m. Der Bau wurde 2010 abgeschlossen.</string>
+    <string name="settings_autosave_interval">Autosave Interval</string>
+    <string name="settings_autosave_interval_off">Aus</string>
+    <string name="settings_autosave_interval_minutes">%1$d min</string>
 
 </resources>
