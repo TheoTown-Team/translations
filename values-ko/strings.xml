@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="euc-kr"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">설정</string>
@@ -804,10 +804,10 @@
     <string name="dialog_tosandbox_title">자유 모드</string>
     <string name="dialog_tosandbox_text">도시를 자유모드로 변경하시겠습니까?\n\n작동하지 않을수도 있습니다!!</string>
     <string name="requirement_rank">적어도 %1$s (%2$,d)</string>
-    <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
-    <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
-    <string name="draftselector_titledecoration">장식</string>
-    <string name="draftselector_titlewastedisposal">Waste disposal</string>
+    <string name="ca_bodydisposal_text">장례: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">폐기물 처리: %1$,d/%2$,d</string>
+    <string name="draftselector_titledecoration">Decoration</string>
+    <string name="draftselector_titlewastedisposal">폐기물 처리</string>
     <string name="ci_rank_title">랭크</string>
     <string name="draft_cemetery00_title">묘지</string>
     <string name="draft_crematory00_title">화장장</string>
@@ -1062,47 +1062,47 @@
 
     <string name="tut_start00">얼마나 아름다운 장소인가요, 그렇지 않습니까?</string>
     <string name="tut_start01">그렇다면, 이곳에 큰 도시를 지어봅시다, 하지만 아마도 천천히 진행해야 할 것입니다.</string>
-    <string name="tut_start02">맵을 움직이기 위해 탭하세요. 2개의 손가락으로 확대할 수도 있습니다.</string>
-    <string name="tut_start03">좋습니다, 이제 화면조정에 대해 느낌이 왔을 것이라 생각됩니다. 그런고로 첫번째 도시의 건설을 시작할 수 있습니다.</string>
+    <string name="tut_start02">맵을 움직이기 위해 탭 하세요. 2개의 손가락으로 확대할 수도 있습니다.</string>
+    <string name="tut_start03">좋습니다, 이제 화면조정에 대해 느낌이 왔을 것이라 생각합니다. 그런고로 첫 번째 도시의 건설을 시작할 수 있습니다.</string>
     <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이것들을 바로 사용할 수 있습니다.</string>
     <string name="tut_build01">이곳에 주거구역을 지정해 봅시다. 사람들은 자신들의 집을 지을 것입니다.</string>
     <string name="tut_build02">구역 주위로 도로를 건설하는 것이 더 좋겠습니다. 사람들은 오로지 도로 근처에만 건물을 건설합니다.</string>
     <string name="tut_build03">이제 사람들이 마을에 오도록 기다립시다.</string>
-    <string name="tut_build030">저기요, 저게뭔가요? 마치 누군가의 집에 전력이 공급되지 않는 것처럼 보입니다!</string>
+    <string name="tut_build030">저기요, 저게 뭔가요? 마치 누군가의 집에 전력이 공급되지 않는 것처럼 보입니다!</string>
     <string name="tut_build04">당연합니다. 전력 공급원이 없습니다, 아직은요. 고속도로 근처에 태양광 발전기를 지어봅시다.</string>
     <string name="tut_build05">이젠, 발전기와 주거구역을 연결할 전선이 필요합니다.</string>
-    <string name="tut_build06">발전소를 건설하는데는 시간이 조금 걸립니다. 기달리거나 이곳을 눌러 무료로 건설을 가속화 할수 있습니다.</string>
+    <string name="tut_build06">발전소를 건설하는 데는 시간이 조금 걸립니다. 기다리거나 이곳을 눌러 무료로 건설을 가속화 할 수 있습니다.</string>
     <string name="tut_build07">좋아요, 우리 도시는 전력이 있습니다. 하지만 잠시만요, 저게 뭔가요? 사람들이 또한 물의 공급도 원한다네요?</string>
     <string name="tut_build08">이것도 어렵지 않습니다. 물을 공급하기 위해 급수탑을 지어봅시다.</string>
-    <string name="tut_build09">여기서도 건물이 완공되기까지 기달려야 합니다. 기달리는 것을 대신해 다이아로 건설 가속화를 구매할수도 있습니다.</string>
-    <string name="tut_build10">물의 공급을 위해서 수도관으로 건물에 물을 공급할 수 있습니다. 나중을 위해서 몇개 더 지으세요.</string>
+    <string name="tut_build09">여기서도 건물이 완공되기까지 기다려야 합니다. 기다리는 것을 대신해 다이아로 건설 가속화를 구매할 수도 있습니다.</string>
+    <string name="tut_build10">물의 공급을 위해서 수도관으로 건물에 물을 공급할 수 있습니다. 나중을 위해서 몇 개 더 지으세요.</string>
     <string name="tut_build11">좋습니다, 우리 도시는 이제 물과 전력을 시민들에게 공급합니다. 근데 잠만요, 아직도 뭔가가 없습니다...</string>
     <string name="tut_build110">시장님, 우리 도시는 일할 직장과 물건을 살 장소가 없습니다!</string>
     <string name="tut_build12">그렇습니다, 상업과 공업구역이 필요합니다. 그전에, 수요 개요를 한번 보도록 합시다.</string>
-    <string name="tut_build13">여기서 res(주거), com(상업) 그리고 ind (공업) 건물을 위한 각각의 수요를 볼수 있습니다.</string>
-    <string name="tut_build14">각각의 유형, 주거, 상업, 공업에는 재산 수준에 따라서 Ͳ(3등급), ͲͲ(2등급), ͲͲͲ(일등급). 혹은, 저소득층,중산층,고소득층에 대응되는 3가지 등급이 있습니다.</string>
-    <string name="tut_build15">당연히 세금을 많이내는 고소득층시민만 살기를 원합니다, 하지만 천천히 시작해야만 합니다. 보다싶이 지금은 Ͳ(3등급)상업시설이 필요합니다.</string>
-    <string name="tut_build16">상업구역을 지정하는거요? 제생각에도 당신은 잘 해낼 겁니다.</string>
+    <string name="tut_build13">여기서 res(주거), com(상업) 그리고 ind (공업) 건물을 위한 각각의 수요를 볼 수 있습니다.</string>
+    <string name="tut_build14">각각의 유형, 주거, 상업, 공업에는 재산 수준에 따라서 Ͳ(3등급), ͲͲ(2등급), ͲͲͲ(1등급). 혹은, 저소득층, 중산층, 고소득층에 대응되는 3가지 등급이 있습니다.</string>
+    <string name="tut_build15">당연히 세금을 많이내는 고소득층시민만 살기를 원합니다, 하지만 천천히 시작해야만 합니다. 보다시피 지금은 Ͳ(3등급) 상업시설이 필요합니다.</string>
+    <string name="tut_build16">상업구역을 지정하는 거요? 제생각에도 당신은 잘 해낼 겁니다.</string>
     <string name="tut_build17">아주 좋습니다! 수요 개요에 따르면 공업시설의 수요가 있습니다. 그전에, 부족한 주거구역을 지정해 봅시다.</string>
-    <string name="tut_build18">평균적으로 일정비율의 상업구역과 공업구역 만큼의 주거구역이 필요합니다.</string>
-    <string name="tut_build19">아마도 도시개발이 순식간에 난잡해 진다는 것을 알았을 것입니다. 그런 이유로 저는 당신에게 선물을 하나 주고 싶습니다. 바로 미니맵!</string>
-    <string name="tut_build22">좋습니다. 이제 다른 마법도구도 조사해봅시다.</string>
-    <string name="tut_build23">여기엔 도시에 대한 핵심적인 정보가 있습니다. 원래의 이름을 눌러서 도시이름을 바꿀 수도 있습니다.</string>
-    <string name="tut_build24">또다른 유용한 도구는 이것입니다.</string>
+    <string name="tut_build18">평균적으로 일정 비율의 상업구역과 공업구역만큼의 주거구역이 필요합니다.</string>
+    <string name="tut_build19">아마도 도시개발이 순식간에 난잡해진다는 것을 알았을 것입니다. 그런 이유로 저는 당신에게 선물을 하나 주고 싶습니다. 바로 미니맵!</string>
+    <string name="tut_build22">좋습니다. 이제 다른 마법 도구도 조사해봅시다.</string>
+    <string name="tut_build23">여기엔 도시에 대한 핵심적인 정보가 있습니다. 원래의 이름을 눌러서 도시 이름을 바꿀 수도 있습니다.</string>
+    <string name="tut_build24">또 다른 유용한 도구는 이것입니다.</string>
     <string name="tut_build25">이것은 시민들의 행복도를 보여줍니다.</string>
-    <string name="tut_build26">생각해보면, 시간의 주인이 되는것도 멋지지 않을까요? 무엇이든 빨라지도록 해보세요.</string>
-    <string name="tut_build27">게임을 일시정지 해보세요.</string>
+    <string name="tut_build26">생각해보면, 시간의 주인이 되는 것도 멋지지 않을까요? 무엇이든 빨라지도록 해보세요.</string>
+    <string name="tut_build27">게임을 일시 정지 해보세요.</string>
     <string name="tut_build28">그리고 이제 일반속도로 되돌아갈 겁니다...</string>
-    <string name="tut_build29">시간조정을 즐기고 있는 중 방해해서 죄송합니다만, 여기엔 마법이 아닌것들도 필요합니다. 자본이라든지요.</string>
-    <string name="tut_build30">여기, 우리 도시의 자본에 대한 개요를 보여드리겠습니다. 우리 도시는 세금으로 돈을 법니다, 그래서 이것이 바로 인구수를 늘리는것에 관심을 두는 의유입니다.</string>
-    <string name="tut_build31">최악의 경우엔 우리 도시는 대출을 할 것입니다... 그런일이 일어나지 않도록 바랍시다.</string>
-    <string name="tut_build32">제 생각엔 돈이 충분한것 같습니다, 지금으로서는요. 그런의미로, 더 많은 건물에 초점을 맞춰봅시다. 공원을 건설합시다. 사람들은 공원을 좋아합니다.</string>
-    <string name="tut_build33"> 이런 , 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
-    <string name="tut_build34">지금까지 아주 좋아요. 이제 저는 수준척도를 보여주고 싶습니다. 이것은 이 도시의 현재 수준을 보여줍니다.</string>
-    <string name="tut_build35">다음 수준으로 가기위해 인구수를 늘리고 재앙을 해결합니다. 이방법으로 더많은 건물을 해금할 수 있습니다.</string>
-    <string name="tut_build36">재앙에 대해서는, 그건 반드시 발생할 겁니다, 이창을 통해서 사용가능 하다면 경찰 특공대 와도 연락할 수 있습니다.</string>
+    <string name="tut_build29">시간 조정을 즐기고 있는 중 방해해서 죄송합니다만, 여기엔 마법이 아닌 것들도 필요합니다. 자본이라든지요.</string>
+    <string name="tut_build30">여기, 우리 도시의 자본에 대한 개요를 보여드리겠습니다. 우리 도시는 세금으로 돈을 법니다, 그래서 이것이 바로 인구수를 늘리는것에 관심을 두는 이유입니다.</string>
+    <string name="tut_build31">최악의 경우엔 우리 도시는 대출을 할 것입니다... 그런 일이 일어나지 않도록 바랍시다.</string>
+    <string name="tut_build32">제 생각엔 돈이 충분한 것 같습니다, 지금으로서는요. 그런 의미로, 더 많은 건물에 초점을 맞춰봅시다. 공원을 건설합시다. 사람들은 공원을 좋아합니다.</string>
+    <string name="tut_build33"> 이런, 제가 원했던 것보다 하나가 더 많군요. 철거합시다.</string>
+    <string name="tut_build34">지금까지 아주 좋아요. 이제 저는 수준 척도를 보여주고 싶습니다. 이것은 이 도시의 현재 수준을 보여줍니다.</string>
+    <string name="tut_build35">다음 수준으로 가기 위해 인구수를 늘리고 재앙을 해결합니다. 이 방법으로 더 많은 건물을 해금할 수 있습니다.</string>
+    <string name="tut_build36">재앙에 대해서는, 그건 반드시 발생할 겁니다, 이 창을 통해서 사용가능 하다면 경찰 특공대 와도 연락할 수 있습니다.</string>
     <string name="tut_build37">상황을 보이게 하려면 이 창을 사용할 수 있습니다.</string>
-    <string name="tut_present00">제가 알고있는 모든 중요한 것들을 말했습니다. 하지만 중요한 것 하나가 남았습니다: 여기 선물입니다</string>
+    <string name="tut_present00">제가 알고 있는 모든 중요한 것들을 말했습니다. 하지만 중요한 것 하나가 남았습니다: 여기 선물입니다</string>
     <string name="tut_present01">매일매일 무료로 선물을 하나 받을 것입니다.</string>
     <string name="tut_end00">만약 거대한 커뮤니티를 찾는다면, 이곳, www.theotown.com에서 찾을 수 있을 겁니다</string>
     <string name="tut_end01">그리고 이제는... 즐겜하세요 :)</string>
@@ -1362,7 +1362,7 @@
     <string name="draft_syl_spawner01_title">원 모양</string>
     <string name="draft_syl_spawner01_text">오히려 단순한 폭죽.</string>
     <string name="draft_syl_spawner02_title">해파리 모양</string>
-    <string name="draft_syl_spawner02_text">해파리 모양을 따라한 폭죽.</string>
+    <string name="draft_syl_spawner02_text">해파리 모양을 따라 한 폭죽.</string>
     <string name="draft_syl_emitter00_title">스위치</string>
     <string name="draft_syl_emitter00_text">폭죽 놀이를 시작하는 스위치. 도화선으로 연결하세요.</string>
     <string name="draft_syl_wire_title">도화선</string>
@@ -1371,8 +1371,27 @@
     <string name="draft_feature_firework_pack00_title">새해 특별판</string>
     <string name="draft_feature_firework_pack00_text">한정된 제안으로 다음을 포함합니다:</string>
     <string name="draft_feature_firework00_title">폭죽 놀이</string>
-    <string name="draft_feature_firework00_text">당신만의 폭죽 놀이를 구성하고 설치하세요.</string>
+    <string name="draft_feature_firework00_text">당신만의 폭죽놀이를 구성하고 설치하세요.</string>
     <string name="draft_syl_emitter01_title">타임 스위치</string>
-    <string name="draft_syl_emitter01_text">새해에 자동으로 신호를 보내는 스위치 입니다.</string>
+    <string name="draft_syl_emitter01_text">새해에 자동으로 신호를 보내는 스위치입니다.</string>
 
 </resources>
+
+<!--
+한글 번역에 대한 안내
+1. 업데이트 로그 양식은 다음과 같이 해주세요.
+ ㄱ. 제목
+   a. 한글 번역 업데이트 / Korean translation Update (Fix type) 오타 수정이 없는 경우 괄호 부분은 생략하셔도 됩니다.
+   b. 한글 맞춤법 수정 / Update about Korean grammar (Fix typo)
+ ㄴ. 내용
+   a. 수정 문장 줄 ㅡ 자세한 수정 내용
+   b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
+2. 현재 작업중 내용은 다음과 같습니다.
+ ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~)
+ ㄴ. 번역물에 대한 어감 수정 (상시)
+3. 기타 주의사항
+ ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 왜냐하면 번역물이 Merged 돼야 본 게임에 적용되기 때문입니다.
+ ㄴ. 최대한 원문에 충실 한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
+ ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬등의문자또한 사용에 주의하시기 바랍니다.
+ ㄹ. dialog 내용에 대해서 의문이 드신다면 이전에 제가 번역한 자료를 참고하시기 바랍니다.
+-->
