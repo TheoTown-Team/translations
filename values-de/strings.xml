@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="control_back">Zurück</string>
     <string name="createcity_cityname">Stadtname:</string>
@@ -852,7 +851,7 @@
     <string name="disaster_ufo_text">Ein unbekanntes Flugobjekt greift deine Stadt an!</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="topic_theons">We have a new currency: Theons Ͳ</string>
-    <string name="topic_belong">All deine Städte gehören uns >:D</string>
+    <string name="topic_belong">All deine Städte gehören uns &gt;:D</string>
     <string name="topic_build">Ich werde eine Stadt mit Wolkenkratzern bauen</string>
     <string name="topic_cats">Katzen sind so süüüß</string>
     <string name="topic_force">Die Macht sei mit dir</string>
@@ -1237,7 +1236,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="topic_watching">Lobby beobachtet dich</string>
     <string name="topic_code">Jetzt mit 5% mehr Code!</string>
     <string name="topic_banana">Banane</string>
-    <string name="topic_finish">Beenden wir diesen Sa</string>
+    <string name="topic_finish">Beenden wir diesen Sa...</string>
     <string name="topic_threed">"Macht es doch einfach 3D"</string>
     <string name="topic_work">Könnte Spuren harter Arbeit enthalten</string>
     <string name="topic_funfun">Jetzt auch mit Fun</string>
@@ -1371,5 +1370,60 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_feature_firework00_text">Baue und koordiniere deine eignene Feuerwerke.</string>
     <string name="draft_syl_emitter01_title">Zeitschalter</string>
     <string name="draft_syl_emitter01_text">Ein zeitgesteuerter Schalter für Feuerwerk, der an Neujahr ausgelöst wird.</string>
+
+
+    <string name="draft_airplane02_title">T430</string>
+    <string name="draft_airplane02_text">Ein schnelles Langstreckenflugzeug von TheoAir.</string>
+    <string name="draft_syl_spawner03_title">Flaming Stars</string>
+    <string name="draft_syl_spawner03_text">Eine epische, rot-goldene Explosion.</string>
+    <string name="draft_syl_spawner04_title">Colored Stars</string>
+    <string name="draft_syl_spawner04_text">Eine rote Explosion mit gelbem Glimmer.</string>
+    <string name="draft_syl_spawner05_title">Borr</string>
+    <string name="draft_syl_spawner05_text">Eine rote Explosion mit eindrucksvollen Lichteffekten.</string>
+    <string name="draft_syl_spawner06_title">Glitter willow</string>
+    <string name="draft_syl_spawner06_text">Eine großartige Explosion mit verschiedenen Farben.</string>
+    <string name="draft_syl_spawner07_title">Tears from Heaven</string>
+    <string name="draft_syl_spawner07_text">Drei weiße Explosionen mit rötlichem Nachglühen.</string>
+    <string name="draft_syl_spawner08_title">Sizzling Ears</string>
+    <string name="draft_syl_spawner08_text">Große Raketen fliegen durch die Luft.</string>
+    <string name="draft_syl_spawner09_title">Willow</string>
+    <string name="draft_syl_spawner09_text">Eine... Weide?</string>
+    <string name="draft_deco_chr_present_helipad00_title">Cool!</string>
+    <string name="draft_deco_chr_present_helipad00_text">Dein erster eigener Helikopter. Leider hört er nicht auf dich.</string>
+    <string name="draft_ufo_crater00_title">Seltsames Gebilde</string>
+    <string name="draft_ufo_crater00_text">Hier Steckt etwas Großes im Boden fest. Wo das wohl herkommt?</string>
+    <string name="draft_destroyedtileradioactive00_title">Verseuchtes Gebiet</string>
+    <string name="draft_destroyedtileradioactive00_text">Radioaktiv verseuchtes Gebiet, das bereinigt werden sollte.</string>
+    <string name="settings_disaster_ufo">UFO</string>
+    <string name="dialog_externalstorage_text">TheoTown benötigt Zugriff auf den Speicher deines Geräts, um Spielstände sicher abspeichern zu können.</string>
+    <string name="dialog_externalstorage_cancel">Abbrechen</string>
+    <string name="dialog_externalstorage_retry">Erneut versuchen</string>
+    <string name="notify_disaster_earthquake">Die Seismographen vermelden ein Erdbeben!</string>
+    <string name="notify_disaster_flooding">Bürgermeister, hier kommt es zu einer Überflutung!</string>
+    <string name="notify_disaster_meteorite">Rießiger Himmelskörper fällt vom Himmel!</string>
+    <string name="notify_disaster_nuke">Nukleare Explosion verzeichnet!</string>
+    <string name="notify_disaster_tornado">Hier weht ein rauhes Lüftchen!</string>
+    <string name="notify_disaster_ufo">Aliens greifen die Stadt an!</string>
+    <string name="settings_download_static_files">Dateien downloaden</string>
+    <string name="pluginerror_visitforum">Im Forum melden</string>
+    <string name="dialog_gameplay_title">Gameplay hochladen</string>
+    <string name="dialog_gameplay_text">Indem du den Gameplay hochladen aktivierst, erlaubst du uns dein Gameplay auf unsere Server hochzuladen. Siehe unsere Erklärung für weitere Informationen zur Verwendung und dem Umfang der Daten.</string>
+    <string name="control_enable">Einschalten</string>
+    <string name="dialog_gameplay_disclaimer">Erklärung</string>
+    <string name="busgame_newbus">%d. Bus hinzufügen</string>
+    <string name="busgame_route">Route</string>
+    <string name="busgame_speed">Geschwindigkeit</string>
+    <string name="busgame_speed_unit">m/s</string>
+    <string name="busgame_capacity">Kapazität</string>
+    <string name="busgame_capacity_unit">pl</string>
+    <string name="busgame_income">Einkommen</string>
+    <string name="busgame_currency">Tickets</string>
+    <string name="busgame_upgrade">Upgrade</string>
+    <string name="busgame_upgrade_title">Level %d</string>
+    <string name="busgame_unlock">Freischalten</string>
+    <string name="draft_small_church00_title">Gemeinde Kirche</string>
+    <string name="draft_small_church00_text">Etwas Glauben für deine Einwohner.</string>
+    <string name="draft_small_mosque00_title">Gemeinde Moschee</string>
+    <string name="draft_small_mosque00_text">Etwas Glauben für deine Einwohner.</string>
 
 </resources>
