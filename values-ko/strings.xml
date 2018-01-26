@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="euc-kr"?>
-<resources>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">설정</string>
     <string name="loadcity_title">도시 불러오기</string>
@@ -1375,9 +1374,62 @@
     <string name="draft_syl_emitter01_title">타임 스위치</string>
     <string name="draft_syl_emitter01_text">새해에 자동으로 신호를 보내는 스위치입니다.</string>
 
-</resources>
 
-<!--
+    <string name="draft_airplane02_title">T430</string>
+    <string name="draft_airplane02_text">A fast long range airplane from TheoAir.</string>
+    <string name="draft_syl_spawner03_title">Flaming Stars</string>
+    <string name="draft_syl_spawner03_text">A red and yellow explosion combined with white fade.</string>
+    <string name="draft_syl_spawner04_title">Colored Stars</string>
+    <string name="draft_syl_spawner04_text">A red explosion with a yellow fade out.</string>
+    <string name="draft_syl_spawner05_title">Borr</string>
+    <string name="draft_syl_spawner05_text">A red explosion with a cool light effect.</string>
+    <string name="draft_syl_spawner06_title">Glitter willow</string>
+    <string name="draft_syl_spawner06_text">A beautiful explosion with mixed colors and a fade out.</string>
+    <string name="draft_syl_spawner07_title">Tears from Heaven</string>
+    <string name="draft_syl_spawner07_text">Three white explosions combined with a red fade out.</string>
+    <string name="draft_syl_spawner08_title">Sizzling Ears</string>
+    <string name="draft_syl_spawner08_text">Big rockets shot into the air.</string>
+    <string name="draft_syl_spawner09_title">Willow</string>
+    <string name="draft_syl_spawner09_text">A big willow.</string>
+    <string name="draft_deco_chr_present_helipad00_title">Cool!</string>
+    <string name="draft_deco_chr_present_helipad00_text">Your first very own helicopter. Unfortunately, it won\'t listen to you.</string>
+    <string name="draft_ufo_crater00_title">Strange thing</string>
+    <string name="draft_ufo_crater00_text">Looks as if something is stucking in the ground. Better you remove it.</string>
+    <string name="draft_destroyedtileradioactive00_title">Scrap</string>
+    <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You should remove it.</string>
+    <string name="settings_disaster_ufo">UFO</string>
+    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
+    <string name="dialog_externalstorage_cancel">Cancel</string>
+    <string name="dialog_externalstorage_retry">Retry</string>
+    <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
+    <string name="notify_disaster_flooding">City under water!</string>
+    <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
+    <string name="notify_disaster_nuke">We have a nuclear explosion right here!</string>
+    <string name="notify_disaster_tornado">It\'s more than windy here!</string>
+    <string name="notify_disaster_ufo">Aliens attack!</string>
+    <string name="settings_download_static_files">Download static files</string>
+    <string name="pluginerror_visitforum">Report on forum</string>
+    <string name="dialog_gameplay_title">Gameplay upload</string>
+    <string name="dialog_gameplay_text">By enabling gameplay upload you allow us to upload your gameplay to our servers. See the disclaimer for more information.</string>
+    <string name="control_enable">Enable</string>
+    <string name="dialog_gameplay_disclaimer">Show disclaimer</string>
+    <string name="busgame_newbus">Add %d. bus</string>
+    <string name="busgame_route">Route</string>
+    <string name="busgame_speed">Speed</string>
+    <string name="busgame_speed_unit">m/s</string>
+    <string name="busgame_capacity">Capacity</string>
+    <string name="busgame_capacity_unit">pl</string>
+    <string name="busgame_income">Income</string>
+    <string name="busgame_currency">Tickets</string>
+    <string name="busgame_upgrade">Upgrade</string>
+    <string name="busgame_upgrade_title">Level %d</string>
+    <string name="busgame_unlock">Unlock</string>
+    <string name="draft_small_church00_title">Neighborhood Church</string>
+    <string name="draft_small_church00_text">Some faith for your citizens.</string>
+    <string name="draft_small_mosque00_title">Neighborhood Mosque</string>
+    <string name="draft_small_mosque00_text">Some faith for your citizens.</string>
+
+</resources><!--
 한글 번역에 대한 안내
 1. 업데이트 로그 양식은 다음과 같이 해주세요.
  ㄱ. 제목
@@ -1387,11 +1439,11 @@
    a. 수정 문장 줄 ㅡ 자세한 수정 내용
    b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
 2. 현재 작업중 내용은 다음과 같습니다.
- ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : ~277, 1064~1108, 1360~)
+ ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~)
  ㄴ. 번역물에 대한 어감 수정 (상시)
 3. 기타 주의사항
  ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 왜냐하면 번역물이 Merged 돼야 본 게임에 적용되기 때문입니다.
- ㄴ. 최대한 원문에 충실한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
- ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬 등의 문자 또한 사용에 주의하시기 바랍니다.
+ ㄴ. 최대한 원문에 충실 한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
+ ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬등의문자또한 사용에 주의하시기 바랍니다.
  ㄹ. dialog 내용에 대해서 의문이 드신다면 이전에 제가 번역한 자료를 참고하시기 바랍니다.
 -->
