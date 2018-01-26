@@ -6,15 +6,15 @@
     <string name="createcity_title">도시 새로만들기</string>
     <string name="settings_defaults">초기 설정</string>
     <string name="settings_apply">적용</string>
-    <string name="createcity_mapsize">크기:</string>
+    <string name="createcity_mapsize">크기 : </string>
     <string name="createcity_cityname">도시 이름</string>
     <string name="control_back">뒤로가기</string>
-    <string name="createcity_start">시작</string>
+    <string name="createcity_start">시작하기</string>
     <string name="loadcity_load">불러오기</string>
     <string name="welcome_agree">동의합니다</string>
     <string name="welcome_content">TheoTown에 오신 것을 환영합니다.
 
-\n\n이 앱은 개발중입니다. 사소한 버그들이 있다는 점을 기억해 주세요. 그러니 이러한 이유로 이 앱을 저평가 하지 말아주세요. 다만 이 앱이 무료라는 점은 꼭 기억해 주세요.
+\n\n이 앱은 개발 중입니다. 사소한 버그들이 있을 수 있다는 점을 명심해 주세요. 그러니 이러한 이유로 앱을 저평가하지 말아주세요. 하지만 이 앱이 무료라는 점은 꼭 기억해 주세요.
 
 \n\n이 앱이 마음에 든다면 주위에 친구에게 추천해주세요.
 
@@ -49,7 +49,7 @@
     <string name="settings_drawwatersparkle">물결 보이기</string>
     <string name="settings_drawmapedges">맵 경계 보이기</string>
     <string name="settings_hideads_title">광고 보이기</string>
-    <string name="settings_hideads_text">정말로 광고를 지우길 원한다면, 우리를 돕기 위해 친구들에게 이 앱을 홍보해 주시길 바랍니다.
+    <string name="settings_hideads_text">정말로 광고를 끄길 원한다면, 저희를 위해 친구들에게 이 앱을 홍보해 주시길 바랍니다.
 
 \n\n그럴거죠?</string>
     <string name="settings_hideads_yes">네. 저를 믿으세요.</string>
@@ -61,7 +61,7 @@
     <string name="dialog_screenshot_text">다음과 같이 저장되었습니다: %1$s.</string>
     <string name="dialog_screenshot_cmdok">네. 감사합니다.</string>
     <string name="draftselector_titleparks">공원</string>
-    <string name="draftselector_titlepublics">공공시설</string>
+    <string name="draftselector_titlepublics">공공</string>
     <string name="draftselector_titleenergy">전력</string>
     <string name="draftselector_titlewater">수도</string>
     <string name="draftselector_titleschool">교육</string>
@@ -82,13 +82,13 @@
     <string name="dialog_leave_title">TheoTown 종료</string>
     <string name="dialog_leave_cmdcancel">취소</string>
     <string name="dialog_leave_cmdleave">나가기</string>
-    <string name="savewaiting_title">도시 저장중</string>
-    <string name="loadwaiting_title">불러오는중..</string>
+    <string name="savewaiting_title">도시 저장중..</string>
+    <string name="loadwaiting_title">도시 불러오는중..</string>
     <string name="dialog_invalidcityname_title">인식 불가능한 이름</string>
-    <string name="dialog_invalidcityname_text">다른 이름을 사용해 주세요. 공백은 허용되지 않습니다.</string>
+    <string name="dialog_invalidcityname_text">다른 이름을 사용해 주세요. 공백이 될 수 없습니다.</string>
     <string name="dialog_invalidcityname_cmdok">네</string>
     <string name="dialog_hugesize_title">거대한 맵</string>
-    <string name="dialog_hugesize_text">이 맵 크기는 기기에서 작동하지 않을 수 있습니다. 정말로 이 맵이 필요합니까?</string>
+    <string name="dialog_hugesize_text">이 크기는 실험적이고, 기기에서 잘 작동하지 않을 수 있습니다. 정말로 거대한 맵이 필요합니까?</string>
     <string name="dialog_hugesize_cmdyes">네.</string>
     <string name="dialog_hugesize_cmdno">아니요.</string>
     <string name="draft_church00_title">교회</string>
@@ -98,7 +98,7 @@
     <string name="draft_wire00_title">전선</string>
     <string name="draft_wire00_text">도시와 발전소를 연결하기 위해 사용됩니다.</string>
     <string name="draft_windturbine00_title">풍력 발전기</string>
-    <string name="draft_windturbine00_text">풍력 발전기는 소음을 발생시키나, 오염은 발생시키지 않습니다.</string>
+    <string name="draft_windturbine00_text">풍력 발전기는 소음을 발생시키나, 오염을 발생시키진 않습니다.</string>
     <string name="draft_coalplant00_title">석탄 발전소</string>
     <string name="draft_coalplant00_text">석탄 발전소는 대규모 전력을 생산하나, 환경에 매우 나쁩니다.</string>
     <string name="draft_solarpanels00_title">태양광 발전기</string>
@@ -116,17 +116,17 @@
     <string name="draft_bigpark00_text">시민들은 큰 공원을 좋아할 것입니다.</string>
     <string name="draft_park03_text">시민들이 좋아할 것입니다.</string>
     <string name="draft_medic00_title">의원</string>
-    <string name="draft_medic00_text">여기서 시민들이 의사에게 진찰받을 수 있습니다.</string>
+    <string name="draft_medic00_text">이곳에서 시민들이 의사에게 진찰받을 수 있습니다.</string>
     <string name="draft_medic01_title">병원</string>
-    <string name="draft_medic01_text">시민들은 병원 근처에서 안전함을 느낍니다.</string>
-    <string name="draft_school00_title">초등 학교</string>
-    <string name="draft_school00_text">이곳에서 아이들은 여러가지를 배웁니다.</string>
+    <string name="draft_medic01_text">시민들은 병원 근처에서 안전하다고 느낍니다.</string>
+    <string name="draft_school00_title">초등학교</string>
+    <string name="draft_school00_text">이곳에서 아이들은 여러 가지를 배웁니다.</string>
     <string name="draft_school01_title">고등 학교</string>
-    <string name="draft_school01_text">이곳에서 청소년들은 여러가지를 배웁니다.</string>
+    <string name="draft_school01_text">이곳에서 청소년들은 여러 가지를 배웁니다.</string>
     <string name="draft_museum00_title">박물관</string>
-    <string name="draft_museum00_text">이곳에서 노인들은 여러가지를 배웁니다.</string>
+    <string name="draft_museum00_text">이곳에서 노인들은 여러 가지를 배웁니다.</string>
     <string name="draft_pipe00_title">수도관</string>
-    <string name="draft_pipe00_text">수도관은 건물에 물을 공급하기위해 사용됩니다.</string>
+    <string name="draft_pipe00_text">수도관은 건물에 물을 공급하기 위해 사용됩니다.</string>
     <string name="draft_waterpump00_title">취수시설</string>
     <string name="draft_waterpump00_text">건물에 물 공급합니다.</string>
     <string name="draft_watertower00_title">급수탑</string>
@@ -140,7 +140,7 @@
     <string name="game_infinitemoney">자유 모드</string>
     <string name="about_title">개발자</string>
     <string name="about_cmdback">뒤로가기</string>
-    <string name="about_text">Theotown 앱은 이분들의 작품입니다.</string>
+    <string name="about_text">Theotown은 이분들의 작품입니다.</string>
     <string name="settings_music">음악</string>
     <string name="draftselector_titleaward">업적</string>
     <string name="shader_default">클래식</string>
@@ -153,9 +153,9 @@
     <string name="settings_category_audio">소리</string>
     <string name="settings_category_other">기타</string>
     <string name="draft_management00_title">경찰서</string>
-    <string name="draft_management00_text">더 나은 치안을 위해.</string>
+    <string name="draft_management00_text">더욱 발전된 치안을 위해.</string>
     <string name="draft_firedepartment00_title">소방서</string>
-    <string name="draft_firedepartment00_text">화제을 예방, 진압합니다. 2대의 소방차와 적당한 관할구역을 가집니다.</string>
+    <string name="draft_firedepartment00_text">화제을 예방하고 진압합니다. 2대의 소방차와 적절한 관할구역을 가집니다.</string>
     <string name="draft_statue00_title">동상</string>
     <string name="draft_statue00_text">시장의 동상입니다.</string>
     <string name="draft_gillender00_title">질렌더 빌딩</string>
@@ -164,11 +164,11 @@
     <string name="topic_cake">케이크는 거짓말이다!</string>
     <string name="topic_panic">멘붕하지 마세요!</string>
     <string name="draft_bigschool00_title">중학교</string>
-    <string name="draft_bigschool00_text">초등학교에 다니기에는 나이가 많은 어린 아이들이 여러가지를 배웁니다.</string>
+    <string name="draft_bigschool00_text">초등학교에 다니기엔 나이가 많은 아이들이 여러 가지를 배웁니다.</string>
     <string name="draft_treepark00_title">작은 공원</string>
     <string name="draft_treepark00_text">나무가 있는 작은 공원입니다. 시민들이 좋아할 것입니다.</string>
     <string name="menu_premium">프리미엄</string>
-    <string name="ci_budget_title">금융</string>
+    <string name="ci_budget_title">재정</string>
     <string name="budget_res0">주거 Ͳ (%1$,d)</string>
     <string name="budget_res1">주거 ͲͲ (%1$,d)</string>
     <string name="budget_res2">주거 ͲͲͲ (%1$,d)</string>
@@ -207,10 +207,10 @@
     <string name="topic_tutorial">튜토리얼 사용가능! :)</string>
     <string name="topic_donate">홈페이지에 기부버튼이 있어요.</string>
     <string name="topic_nice">멋있는 도시네요. :ㅇ</string>
-    <string name="topic_trolls">트롤에게 먹이을 주지 마시오.</string>
+    <string name="topic_trolls">트롤에게 관심을 주지 마세요!</string>
     <string name="settings_reversedbuildtool">건설 모드에서 좌우반전</string>
     <string name="draft_karlsruhecastle00_title">카를스루에 궁전</string>
-    <string name="draft_karlsruhecastle00_text">여행객들이 좋아할 겁니다.</string>
+    <string name="draft_karlsruhecastle00_text">카를스루에(Karlsruhe)는 성을 중심으로 32개 거리가 방사형으로 뻗어 나가는 계획도시입니다. 여러분들도 이 성을 중심으로 멋있는 도시를 지어보세요! -역자</string>
     <string name="shader_old">구 버전</string>
     <string name="topic_narcissistic">시간의 마술사는 레번클로 출신이라네요.</string>
     <string name="topic_great">여러분을 좋아합니다! &lt;3</string>
@@ -235,17 +235,17 @@
     <string name="buildinginfo_ind2">공업 ͲͲͲ</string>
     <string name="buildinginfo_habitants">주민: %1$,d/%2$,d 명</string>
     <string name="buildinginfo_worker">사원: %1$,d/%2$,d 명</string>
-    <string name="topic_giveup">포기는 배추 셀 때나 쓰는 말이다. 포기하지 말아라.</string>
+    <string name="topic_giveup">포기하지 마세요! 포기는 배추 샐 때나 사용하는 단어입니다!</string>
     <string name="dialog_screenshot_error">사진 저장 폴더를 만들 수 없습니다: %1$s. 앱 권한을 확인해 주십시오.</string>
-    <string name="settings_energysaving">절전모드</string>
+    <string name="settings_energysaving">절전 모드</string>
     <string name="about_idea">아이디어 제공</string>
     <string name="about_programming">프로그래머</string>
     <string name="about_graphics">그래픽</string>
     <string name="about_music">음악</string>
     <string name="about_engine">그래픽 엔진</string>
     <string name="draft_police00_title">경찰서</string>
-    <string name="draft_police00_text">더 나은 치안을 위해.</string>
-    <string name="settings_showinfluencepreview">영향 미리보기</string>
+    <string name="draft_police00_text">더욱 발전된 치안을 위해.</string>
+    <string name="settings_showinfluencepreview">영향 미리보기 보이기</string>
     <string name="draftselector_titletransport">교통</string>
     <string name="draftselector_titlezone">구역</string>
     <string name="draft_zoneresidential_title">주거구역</string>
@@ -260,16 +260,16 @@
     <string name="draft_road01_text">빠르게 달릴 수 있습니다.</string>
     <string name="draftselector_titleterrain">지형</string>
     <string name="draft_terrainwater_title">물</string>
-    <string name="draft_terrainwater_text">땅을 파서 강을 만듭니다.</string>
+    <string name="draft_terrainwater_text">땅을 파서 강이나 바다를 만듭니다.</string>
     <string name="draft_terrainland_title">땅</string>
-    <string name="draft_terrainland_text">강을 간척합니다.</string>
+    <string name="draft_terrainland_text">강이나 바다를 간척합니다.</string>
     <string name="draft_tree00_title">나무</string>
     <string name="draft_tree00_text">나무를 심습니다.</string>
     <string name="draft_busstop00_title">버스 정류장</string>
-    <string name="draft_busstop00_text">이곳에서 시민들이 버스를 타고서 도시의 다른 곳으로 이동할 수 있습니다.</string>
+    <string name="draft_busstop00_text">이곳에서 시민들이 버스를 타고 도시의 다른 곳으로 이동할 수 있습니다.</string>
     <string name="settings_orientation">화면 방향</string>
-    <string name="settings_orientationlandscape">풍경화(가로)</string>
-    <string name="settings_orientationportrait">초상화(세로)</string>
+    <string name="settings_orientationlandscape">풍경화 (가로)</string>
+    <string name="settings_orientationportrait">초상화 (세로)</string>
     <string name="settings_orientationauto">자동</string>
     <string name="draft_busdepot00_title">버스 차고지</string>
     <string name="draft_busdepot00_text">버스 차고지에서 버스가 생성 됩니다.</string>
@@ -403,7 +403,7 @@
     <string name="topic_birthday_theo">theo, 생일 축하합니다! :)</string>
     <string name="topic_np">P집합과 NP집합이 같을까요?</string>
     <string name="topic_42">42!</string>
-    <string name="draft_radio00_news_title">뉴스 104,0</string>
+    <string name="draft_radio00_news_title">뉴스 104.0</string>
     <string name="draft_radio00_news_text">도시에 대한 새 이야기를 전합니다. 지식에 영향을 줍니다. 
 \n
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
@@ -860,11 +860,11 @@
     <string name="topic_build">나는 길을 찾든지 만들든지 하겠다.</string>
     <string name="topic_news">모두에게 좋은소식!</string>
     <string name="topic_welcome">잘왔어요 :)</string>
-    <string name="topic_spoon">강아지는 절대적일 정도로 귀엽다네요!</string>
+    <string name="topic_spoon">숫가락은 없다는 것.</string>
     <string name="topic_relax">진정하세요. 장비는 정지 가능합니다.</string>
     <string name="topic_cats">고양이는 형용할 수 없을 정도로 귀엽다네요.</string>
     <string name="topic_force">포스가 함께하길</string>
-    <string name="topic_plugins">에드온이 있습니다!</string>
+    <string name="topic_plugins">이제, 플러그인이 있습니다!</string>
     <string name="topic_page">www.theotown.com에 방문하세요!</string>
     <string name="topic_habitants">인구수 1,000,000 에 도달할 수 있습니다.</string>
     <string name="ci_statistics_title">통계</string>
@@ -1132,7 +1132,7 @@
     <string name="settings_sound_weather">날씨</string>
 
     <string name="settings_energysavingplus">에너지 절약 플러스</string>
-    <string name="topic_designed">인간을 위해 디자인되었습니다.</string>
+    <string name="topic_designed">인간에 의해 설계되었습니다.</string>
     <string name="draft_weather_machine00_fog00_title">안개 생성 장치</string>
     <string name="draft_weather_machine00_fog00_text">커다란 안개 생성 장치는 도시 전체를 뒤덮는 안개를 생성할 수 있습니다.</string>
     <string name="dialog_cancelupgrade">업그레이드 취소</string>
@@ -1387,11 +1387,11 @@
    a. 수정 문장 줄 ㅡ 자세한 수정 내용
    b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
 2. 현재 작업중 내용은 다음과 같습니다.
- ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~)
+ ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : ~277, 1064~1108, 1360~)
  ㄴ. 번역물에 대한 어감 수정 (상시)
 3. 기타 주의사항
  ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 왜냐하면 번역물이 Merged 돼야 본 게임에 적용되기 때문입니다.
- ㄴ. 최대한 원문에 충실 한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
- ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬등의문자또한 사용에 주의하시기 바랍니다.
+ ㄴ. 최대한 원문에 충실한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
+ ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬 등의 문자 또한 사용에 주의하시기 바랍니다.
  ㄹ. dialog 내용에 대해서 의문이 드신다면 이전에 제가 번역한 자료를 참고하시기 바랍니다.
 -->
