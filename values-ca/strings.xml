@@ -1,4 +1,4 @@
-<resources>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Ajustos</string>
     <string name="loadcity_title">Carregar Ciutat</string>
@@ -10,7 +10,7 @@
     <string name="control_back">Tornar</string>
     <string name="createcity_start">Crear Ciutat</string>
     <string name="loadcity_load">Carregar Ciutat</string>
-    <string name="welcome_agree">D\\'acord</string>
+    <string name="welcome_agree">D\'acord</string>
     <string name="welcome_content">Benvingut al TheoTown
 
 \n\nAquesta aplicació està actualment en desenvolupament. Tingueu en compte que encara hi ha alguns petits errors. Si us plau, no ens doni una mala qualificació per aquests petits problemes. Recordeu que aquest joc és gratuït.
@@ -853,7 +853,7 @@
     <string name="disaster_ufo_cmdtext">Estableix l\'objectiu</string>
     <string name="topic_theons">Tenim una nova moneda: Theons Ͳ</string>
     <string name="topic_wip">Treball en curs. No creueu la línia.</string>
-    <string name="topic_belong">Totes les vostres ciutats pertanyen a nosaltres >:D</string>
+    <string name="topic_belong">Totes les vostres ciutats pertanyen a nosaltres &gt;:D</string>
     <string name="topic_love">Tot el que necessites és amor</string>
     <string name="topic_build">Construiré la meva pròpia ciutat amb gratacels i parcs</string>
     <string name="topic_news">Bones notícies a tothom!</string>
@@ -1426,5 +1426,32 @@ Si proporcioneu accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_small_mosque00_title">Mesquita de barri</string>
     <string name="draft_small_mosque00_text">Una mica de fe pels vostres ciutadans</string>
 
+
+
+    <string name="minigame_reachlevel">Reach level %d</string>
+    <string name="minigame_price">Price</string>
+    <string name="minigame_time">Time</string>
+    <string name="busgame_unlockimmediately_title">Unlock immediately</string>
+    <string name="busgame_unlockimmediately_text">Would you like to unlock this bus immediately?</string>
+    <string name="dialog_dbuilding_title">Build here</string>
+    <string name="dialog_dbuilding_text">Do you want to place this building here?</string>
+    <string name="dialog_performance_title">Performance</string>
+    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
+    <string name="draft_brandenburgertor00_text">The Brandenburg Gate is a German landmark that was built in the 18th century. It\'s located in Berlin.</string>
+    <string name="control_accept">Accept</string>
+    <string name="control_dismiss">Dismiss</string>
+    <string name="settings_citytasks">Tasks</string>
+    <string name="dialog_disabletasks_title">Disable tasks</string>
+    <string name="dialog_disabletasks_text">You dismissed multiple tasks, so would you like to disable them for this city?</string>
+    <string name="control_disable">Disable</string>
+    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
+    <string name="draft_arcdetriomphe00_text">The Arc de Triomphe in Paris honours those who fought and died in the French Revolutionary.</string>
+    <string name="featureselector_shortbuildtime">Short building time for %1$s</string>
+    <string name="game_remaining_shortbuildtime">Short build time for %s</string>
+    <string name="shop_open_features">Spend diamonds</string>
+    <string name="draft_feature_shortbuildingtime00_title">Short building time</string>
+    <string name="draft_feature_shortbuildingtime00_text">Drastic reduce of building time for all buildings.</string>
+    <string name="dialog_shortbuildtime_title">Built time boost</string>
+    <string name="dialog_shortbuildtime_text">Watch a short video to boost building time for %s.</string>
 
 </resources>
