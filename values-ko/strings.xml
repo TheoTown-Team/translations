@@ -209,7 +209,7 @@
     <string name="topic_trolls">트롤에게 관심을 주지 마세요!</string>
     <string name="settings_reversedbuildtool">건설 모드에서 좌우반전</string>
     <string name="draft_karlsruhecastle00_title">카를스루에 궁전</string>
-    <string name="draft_karlsruhecastle00_text">카를스루에(Karlsruhe)는 성을 중심으로 32개 거리가 방사형으로 뻗어 나가는 계획도시입니다. 여러분들도 이 성을 중심으로 멋있는 도시를 지어보세요! -역자</string>
+    <string name="draft_karlsruhecastle00_text">카를스루에(Karlsruhe)는 이 성을 중심으로 32개 거리가 방사형으로 뻗어 나가는 계획도시입니다. 여러분들도 이 성을 중심으로 멋있는 도시를 지어보세요!</string>
     <string name="shader_old">구 버전</string>
     <string name="topic_narcissistic">시간의 마술사는 레번클로 출신이라네요.</string>
     <string name="topic_great">여러분을 좋아합니다! &lt;3</string>
@@ -983,7 +983,7 @@
     <string name="draft_mltry_deco00_title">군사 기지 장식</string>
     <string name="draft_mltry_deco00_text">군사 기지를 위한 장식입니다</string>
     <string name="shader_smooth">부드러움</string>
-    <string name="topic_dumbledore">덤블도어는 이 일 발생하지 않도록 할 것입니다.</string>
+    <string name="topic_dumbledore">덤블도어는 이 일을 발생하지 않도록 할 것입니다.</string>
     <string name="draft_mltry_missilesilo00_title">미사일 발사대</string>
     <string name="draft_feature_military00_text">도시를 보호하기 위한 당신만의 군사기지를 건설하세요. UFO침공이 포함되어 있습니다.</string>
     <string name="dialog_smooth_title">부드러운 그래픽</string>
@@ -1425,54 +1425,55 @@
     <string name="busgame_upgrade_title">레벨 %d</string>
     <string name="busgame_unlock">잠금해제</string>
     <string name="draft_small_church00_title">근처에 있는 교회</string>
-    <string name="draft_small_church00_text">시민을 위한 조금의 신앙.</string>
+    <string name="draft_small_church00_text">시민을 위한 다소의 신앙.</string>
     <string name="draft_small_mosque00_title">근처에 있는 모스크</string>
-    <string name="draft_small_mosque00_text">시민을 위한 조금의 신앙.</string>
+    <string name="draft_small_mosque00_text">시민을 위한 다소의 신앙.</string>
 
 
-    <string name="minigame_reachlevel">Reach level %d</string>
-    <string name="minigame_price">Price</string>
-    <string name="minigame_time">Time</string>
-    <string name="busgame_unlockimmediately_title">Unlock immediately</string>
-    <string name="busgame_unlockimmediately_text">Would you like to unlock this bus immediately?</string>
-    <string name="dialog_dbuilding_title">Build here</string>
-    <string name="dialog_dbuilding_text">Do you want to place this building here? We will finish the building immediately for you.</string>
-    <string name="dialog_performance_title">Performance</string>
-    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
-    <string name="draft_brandenburgertor00_text">The Brandenburg Gate is a German landmark that was built in the 18th century. It\'s located in Berlin.</string>
+    <string name="minigame_reachlevel">%d 레벨에 도달</string>
+    <string name="minigame_price">비용</string>
+    <string name="minigame_time">시간</string>
+    <string name="busgame_unlockimmediately_title">즉시 잠금해제</string>
+    <string name="busgame_unlockimmediately_text">이 버스를 즉시 잠금해제 하길 원하신 가요?</string>
+    <string name="dialog_dbuilding_title">여기에 건설하기</string>
+    <string name="dialog_dbuilding_text">이곳에 건물을 건설하고 싶으신가요? 당신을 위해서 즉시 완공시켜 드리죠.</string>
+    <string name="dialog_performance_title">작업</string>
+    <string name="draft_brandenburgertor00_title">브란덴부르크 문</string>
+    <string name="draft_brandenburgertor00_text">브란덴부르크 문(Brandenburger Thor)은 1791년에 완공된 독일 베를린에 위치한 개선문입니다. 과거 베를린 관세벽의 18문중 하나였으며, 상단엔 4두마차가 있습니다. 오늘날엔 평화를 상징하는 문으로 인식되고 있습니다.</string>
 
 
-    <string name="control_accept">Accept</string>
-    <string name="control_dismiss">Dismiss</string>
-    <string name="settings_citytasks">Tasks</string>
-    <string name="dialog_disabletasks_title">Disable tasks</string>
-    <string name="dialog_disabletasks_text">You dismissed multiple tasks, so would you like to disable them for this city?</string>
-    <string name="control_disable">Disable</string>
-    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">The Arc de Triomphe in Paris honours those who fought and died in the French Revolutionary.</string>
-    <string name="featureselector_shortbuildtime">Short building time for %1$s</string>
-    <string name="game_remaining_shortbuildtime">Short build time for %s</string>
-    <string name="shop_open_features">Spend diamonds</string>
-    <string name="draft_feature_shortbuildingtime00_title">Short building time</string>
-    <string name="draft_feature_shortbuildingtime00_text">Drastic reduce of building time for all buildings.</string>
-    <string name="dialog_shortbuildtime_title">Built time boost</string>
-    <string name="dialog_shortbuildtime_text">Watch a short video to boost building time for %s.</string>
+    <string name="control_accept">승낙</string>
+    <string name="control_dismiss">거절</string>
+    <string name="settings_citytasks">작업</string>
+    <string name="dialog_disabletasks_title">작업 사용 안 함</string>
+    <string name="dialog_disabletasks_text">당신은 여러 작업을 거절했습니다, 이 도시를 위해서 그것들을 사용 해제하길 원하신 가요??</string>
+    <string name="control_disable">사용 안 함</string>
+    <string name="draft_arcdetriomphe00_title">에투알 개선문</string>
+    <string name="draft_arcdetriomphe00_text">별의 광장의 승리의 아치(Arc de triomphe de l' Etoile)은 프랑스 파리의 상징적인 건물입니다. 1805년 아우스터리츠전투에서 승리한 기념으로 나폴레옹이 건설을 지시한 문입니다.</string>
+    <string name="featureselector_shortbuildtime">%1$s 동안의 고속 건설 모드</string>
+    <string name="game_remaining_shortbuildtime">%s 동안의 고속 건설 모드</string>
+    <string name="shop_open_features">다이아몬드 사용하기</string>
+    <string name="draft_feature_shortbuildingtime00_title">고속 건설 모드</string>
+    <string name="draft_feature_shortbuildingtime00_text">모든 건물에 대해 건설시간을 대폭감소 시킵니다..</string>
+    <string name="dialog_shortbuildtime_title">고속 건설 부스트</string>
+    <string name="dialog_shortbuildtime_text">%s 동안의 고속 건설 부스트를 위해 짧은 광고 보기.</string>
 
 </resources><!--
-한글 번역에 대한 안내
+ㅡ한글 번역에 대한 안내ㅡ
 1. 업데이트 로그 양식은 다음과 같이 해주세요.
  ㄱ. 제목
-   a. 한글 번역 업데이트 / Korean translation Update (Fix type) 오타 수정이 없는 경우 괄호 부분은 생략하셔도 됩니다.
-   b. 한글 맞춤법 수정 / Update about Korean grammar (Fix typo)
+   a. 한글 번역 업데이트 / Korean translation Update
+   b. 한글 맞춤법 수정 / Update about Korean grammar
+   c. 오타 수정 / Fix typo
  ㄴ. 내용
    a. 수정 문장 줄 ㅡ 자세한 수정 내용
    b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
 2. 현재 작업중 내용은 다음과 같습니다.
- ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~1375)
+ ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~1375, 1433~1459)
  ㄴ. 번역물에 대한 어감 수정 (상시)
 3. 기타 주의사항
  ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 왜냐하면 번역물이 Merged 돼야 본 게임에 적용되기 때문입니다.
  ㄴ. 최대한 원문에 충실 한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
- ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬등의문자또한 사용에 주의하시기 바랍니다.
- ㄹ. dialog 내용에 대해서 의문이 드신다면 이전에 제가 번역한 자료를 참고하시기 바랍니다.
+ ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬 등의 문자 또한 사용에 주의하시기 바랍니다.
+ ㄹ. dialog 내용에 대해서 의문이 드신다면 네이버 카페 게시글을 참고하시기 바랍니다.
 -->
