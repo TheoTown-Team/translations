@@ -2,6 +2,7 @@
 Here everybody can help to localize TheoTown to other languages.
 
 Every directory contains a values.xml file. The corresponding languages are:</br>
+values-ca: Catalan</br>
 values-cs: Czech</br>
 values-de: German <- Always up to date</br>
 values-es: Spanish</br>
