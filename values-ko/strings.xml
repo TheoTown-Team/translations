@@ -1462,7 +1462,7 @@
     <string name="settings_saveonappswitch">앱 스위치에 저장</string>
     <string name="settings_saveforscreenshot">스크린샷 저장</string>
     <string name="draft_eiffeltower00_title">에펠탑</string>
-    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
+    <string name="draft_eiffeltower00_text">에펠탑(Tour Eiffel)은 파리에 위치한 가장 눈에 띄는 프랑스의 렌드마크입니다. 324m 에 1889년 완공된, 만국박람회의 입구로서, 귀스타브 에펠이 설계한 건축물입니다.</string>
     <string name="dialog_wb_text02">당신이 부재중이었던 동안 %1$s 에서 얻은 수익을 가지길 원하신가요?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">가지기</string>
     <string name="dialog_wb_cmdforfeit">버리기</string>
@@ -1480,9 +1480,11 @@
    a. 한글 번역 업데이트 / Korean translation Update
    b. 한글 맞춤법 수정 / Update about Korean grammar
    c. 오타 수정 / Fix typo
+   d. 부가 번역 / Addition
  ㄴ. 내용
    a. 수정 문장 줄 ㅡ 자세한 수정 내용
    b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
+   c. 부가 번역에 대해서는 이미 pull request를 한 경우 사용해 주시기바랍니다.
 2. 현재 작업중 내용은 다음과 같습니다.
  ㄱ. 번역물에 대한 한글 맞춤법 검사 (완료 : 1064~1108, 1360~1375, 1433~1459)
  ㄴ. 번역물에 대한 어감 수정 (상시)
