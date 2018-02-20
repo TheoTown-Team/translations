@@ -50,7 +50,7 @@
     <string name="settings_hideads_title">Sembunyikan iklan</string>
     <string name="settings_hideads_text">Jika Anda benar-benar ingin menyembunyikan iklan, sebaiknya Anda mendukung kami dengan memberi tahu teman Anda tentang aplikasi ini.
 
-\n\nAre you sure?</string>
+\n\nApa anda yakin?</string>
     <string name="settings_hideads_yes">Ya, saya benar-benar yakin</string>
     <string name="settings_hideads_no">Kembali</string>
     <string name="loadcity_errordialog_title">Muatan gagal</string>
@@ -149,7 +149,7 @@
     <string name="shader_gray">Abu abu</string>
     <string name="shader_fancy">Mewah</string>
     <string name="settings_category_graphics">Grafik</string>
-    <string name="settings_category_audio">Audio</string>
+    <string name="settings_category_audio">Suara</string>
     <string name="settings_category_other">Lainnya</string>
     <string name="draft_management00_title">Kantor polisi</string>
     <string name="draft_management00_text">Untuk keamanan lebih.</string>
@@ -165,7 +165,7 @@
     <string name="draft_bigschool00_title">Sekolah dasar besar</string>
     <string name="draft_bigschool00_text">Sebuah tempat dimana para anak anak muda belajar.</string>
     <string name="draft_treepark00_title">Taman pohon</string>
-    <string name="draft_treepark00_text">Sebuah taman kecil dengan pohon. Para penduduk akan menyukaina.</string>
+    <string name="draft_treepark00_text">Sebuah taman kecil dengan pohon. Para penduduk akan menyukainya.</string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Keuangan</string>
     <string name="budget_res0">Penduduk Ͳ (%1$,d)</string>
@@ -202,7 +202,7 @@
     <string name="topic_users">Mencari 100.000 pemain</string>
     <string name="topic_free">Game ini gratis :D</string>
     <string name="topic_about">Anda dapat menekan kanan bawah pojok</string>
-    <string name="topic_letsplay">Ayo bermain aku ;)</string>
+    <string name="topic_letsplay">Ayo mulai bermain ;)</string>
     <string name="topic_tutorial">Tutorial tersedia :)</string>
     <string name="topic_donate">There\'s a donate button on the homepage</string>
     <string name="topic_nice">Anda memiliki kota yang menyenangkan :)</string>
@@ -221,7 +221,7 @@
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Air mancur</string>
     <string name="draft_waterfountain01_text">Habitants will like it.</string>
-    <string name="draft_treepark01_title">Tree park</string>
+    <string name="draft_treepark01_title">Taman Pohon</string>
     <string name="draft_treepark01_text">A little park with trees. Your habitants will like it.</string>
     <string name="buildinginfo_res0">Penduduk Ͳ</string>
     <string name="buildinginfo_com0">Komersil Ͳ</string>
@@ -235,7 +235,7 @@
     <string name="buildinginfo_habitants">Penduduk: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Pekerja: %1$,d/%2$,d</string>
     <string name="topic_giveup">Jangan menyerah!</string>
-    <string name="dialog_screenshot_error">Might not create save directory for %1$s. Please check app permissions.</string>
+    <string name="dialog_screenshot_error">Tidak dapat menyimpan di direktori %1$s. Mohon periksa ijin perangkat anda.</string>
     <string name="settings_energysaving">Mode hemat energi</string>
     <string name="about_idea">Ide</string>
     <string name="about_programming">Programming</string>
@@ -318,9 +318,9 @@
     <string name="draft_footballfield00_title">Lapangan sepak bola</string>
     <string name="draft_footballfield00_text">Sebuah lapangan sepak bola akan membuat penduduk Anda bahagia.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="draftselector_upgrades">%1$,d upgrade(s) available</string>
+    <string name="draftselector_upgrades">%1$,d upgrade(s) tersedia</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Upgrade(s)</string>
-    <string name="buildinginfo_construction">Under construction: %1$.0f%% (%2$,d day(s) remaining)</string>
+    <string name="buildinginfo_construction">Dalam pembangunan: %1$.0f%% (%2$,d hari(s) berjalan)</string>
     <string name="draft_footballstadion00_title">Stadion</string>
     <string name="draft_footballstadion00_text">Sebuah Stadion sepak bola.</string>
     <string name="buildinginfo_cmdupgrade">Tingkatkan</string>
@@ -357,7 +357,7 @@
     <string name="draft_footballstadion00_fanshop_title">Toko FANS</string>
     <string name="draft_footballstadion00_fanshop_text">Semua aksesoris dijual disini.</string>
     <string name="notify_requirementbuilding">Kamu membuka %1$s.</string>
-    <string name="notify_requirementupgrade">Congrats, you unlocked the upgrade %1$s for building %2$s!</string>
+    <string name="notify_requirementupgrade">Selamat, kamu membuka upgrade %1$s untuk bangunan %2$s!</string>
     <string name="draftselector_titlesports">Olahraga</string>
     <string name="draftselector_titlealert">Darurat</string>
     <string name="notify_fire">Kebakaran! Kirimkan truk pemadam kebakaran untuk memadamkan api. Pertimbangkan untuk membangun lebih banyak departemen pemadam kebakaran.</string>
@@ -403,21 +403,21 @@
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">42</string>
     <string name="draft_radio00_news_title">News 104,0</string>
-    <string name="draft_radio00_news_text">Sends the newest news about the city. Improves knowledge.
+    <string name="draft_radio00_news_text">Mengirim berita terbaru tentang kota. Meningkatkan pengetahuan.
 \n
-\nOnly one radio program allowed at the same time. Old programs will be removed.</string>
+\nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_sport_title">Sport FM</string>
-    <string name="draft_radio00_sport_text">Sends sports reports and exciting live broadcasts of sporting events. Acts like a sports court with very long range.
+    <string name="draft_radio00_sport_text">Mengirimkan laporan olahraga dan siaran langsung acara olahraga yang menarik. Bertindak seperti lapangan olah raga dengan jarak yang sangat jauh.
 \n
-\nOnly one radio program allowed at the same time. Old programs will be removed.</string>
+\nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_fun_title">FUN Radio</string>
-    <string name="draft_radio00_fun_text">Sends mostly music and a light entertainment program. The listeners feel better. So acts like a park with very long range.
+    <string name="draft_radio00_fun_text">Mengirim sebagian besar musik dan program hiburan ringan. Pendengarnya merasa lebih baik. Jadi bertindak seperti taman dengan jarak yang sangat jauh..
 \n
-\nOnly one radio program allowed at the same time. Old programs will be removed.</string>
+\nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_faith_title">Faith Talk</string>
-    <string name="draft_radio00_faith_text">Sends conversations on the subject of faith and our existence on earth. Basically works as a house of worship with a long range in the city.
+    <string name="draft_radio00_faith_text">Mengirimkan percakapan tentang masalah iman dan keberadaan kita di bumi. Pada dasarnya bekerja sebagai rumah ibadah dengan jarak jauh di kota.
 \n
-\nOnly one radio program allowed at the same time. Old programs will be removed.</string>
+\nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_lighthouse00_title">Mercusuar</string>
     <string name="draft_lighthouse00_text">Tidak ada kapal yang jauh dan luas, tapi ada mercusuar .... aneh.</string>
     <string name="draft_road02_title">Jalan tol</string>
@@ -426,62 +426,62 @@
     <string name="topic_birthday_phoenix">Selamat ulang tahun phoenix!</string>
     <string name="topic_birthday_lucasking">Selamat ulang tahun Lucas!</string>
     <string name="tutorial_title">Tutorial</string>
-    <string name="tutorial_welcome">Welcome to the tutorial!</string>
-    <string name="tutorial_minimap">You can always show and hide the minimap.</string>
-    <string name="tutorial_buildroad_a">We start with building some road. Select the simpliest road type.</string>
-    <string name="tutorial_buildroad_b">Place the road along the marked tiles. To build it tap to set a start point, tap again to set the end point.</string>
-    <string name="tutorial_buildroad_c">Great work! Now close the road tool.</string>
-    <string name="tutorial_buildenergy_a">Let\'s try to build some solar panels.</string>
-    <string name="tutorial_buildenergy_b">Place it on the marked tiles.</string>
-    <string name="tutorial_buildenergy_c">Great work!</string>
-    <string name="tutorial_buildwire_a">You can use wires to transport energy.</string>
-    <string name="tutorial_buildwire_b">Place it along the marked tiles.</string>
-    <string name="tutorial_buildwire_c">Great work!</string>
-    <string name="tutorial_buildwater_a">Let\'s try to build a water tower to provide some water.</string>
-    <string name="tutorial_buildwater_b">Place it on the marked tile.</string>
-    <string name="tutorial_buildwater_c">Great work!</string>
-    <string name="tutorial_buildpipe_a">A water tower alone isn\'t enough. You need pipes in order to transport it.</string>
-    <string name="tutorial_buildpipe_b">Place the pipes along the marked tiles.</string>
-    <string name="tutorial_buildpipe_c">Great work. Now you can start with declaring zones.</string>
-    <string name="tutorial_buildzones">Zones describe who can build where. There are three types of them.</string>
-    <string name="tutorial_buildresidential_a">Let\'s declare a residential zone. Habitants can build their houses there.</string>
-    <string name="tutorial_buildresidential_b">Place the zone on the marked tiles.</string>
-    <string name="tutorial_buildresidential_c">Great work.</string>
-    <string name="tutorial_buildcommercial_a">Let\'s continue with a commercial zone. Commercials will build there.</string>
-    <string name="tutorial_buildcommercial_b">Place the zone on the marked tiles.</string>
-    <string name="tutorial_buildcommercial_c">Great work.</string>
-    <string name="tutorial_buildindustrial_a">Last but not least, industrial zones. That\'s where factories will be built.</string>
-    <string name="tutorial_buildindustrial_b">Place the zone on the marked tiles.</string>
-    <string name="tutorial_buildindustrial_c">Great work. Now buildings will be built.</string>
-    <string name="tutorial_industrial_keepaway">You should keep industrial zones away from other ones because of pollution and noise.</string>
-    <string name="tutorial_rci">Tap on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_speed_fast">You can change simulation speed in order to shorten waiting time.</string>
-    <string name="tutorial_speed_normal">Just set it back to normal speed.</string>
-    <string name="tutorial_money_task">Your task is it to gain money from taxes to enlarge your city.</string>
-    <string name="tutorial_money_info">Tap at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_congrats">Congratulations, you learned the basics of TheoTown. Now you can start your own city :)</string>
-    <string name="draft_road03_title">One-way road</string>
-    <string name="draft_road03_text">Cars may only drive in one direction on this road type. Use it to control traffic.</string>
-    <string name="budget_sports">Sports</string>
-    <string name="budget_religion">Religion</string>
+    <string name="tutorial_welcome">Selamat datang di tutorial!</string>
+    <string name="tutorial_minimap">Kamu selalu bisa menunjukkan dan menyembunyikan minimap.</string>
+    <string name="tutorial_buildroad_a">Kita mulai dengan membangun jalan. Pilih tipe jalan yang paling simpel.</string>
+    <string name="tutorial_buildroad_b">Tempatkan jalan di sepanjang kotak yang ditandai. Untuk membangunnya tekan untuk menetapkan titik awal, tekan lagi untuk mengatur titik akhir.</string>
+    <string name="tutorial_buildroad_c">Kerja bagus! Sekarang tutup alat jalan.</string>
+    <string name="tutorial_buildenergy_a">Ayo coba buat beberapa panel surya.</string>
+    <string name="tutorial_buildenergy_b">Tempatkan di kotak yang ditandai.</string>
+    <string name="tutorial_buildenergy_c">Kerja bagus!</string>
+    <string name="tutorial_buildwire_a">Kamu bisa menggunakan kabel untuk menyalurkan energi listrik.</string>
+    <string name="tutorial_buildwire_b">Tempatkan di sepanjang kotak yang ditandai.</string>
+    <string name="tutorial_buildwire_c">Kerja bagus!</string>
+    <string name="tutorial_buildwater_a"> Ayo coba buat menara air untuk menyediakan air.</string>
+    <string name="tutorial_buildwater_b">Tempatkan di kotak yang ditandai.</string>
+    <string name="tutorial_buildwater_c">Kerja bagus!</string>
+    <string name="tutorial_buildpipe_a">Sebuah menara air saja tidak cukup. Kamu perlu pipa untuk menyalurkannya.</string>
+    <string name="tutorial_buildpipe_b">Tempatkan pipa di sepanjang kotak yang ditandai.</string>
+    <string name="tutorial_buildpipe_c">Kerja bagus. Sekarang Kamu bisa memulai dengan mendeklarasikan zona.</string>
+    <string name="tutorial_buildzones">Zona menunjukkan apa yang bisa di bangun di situ. Ada tiga tipe Zona yang tersedia.</string>
+    <string name="tutorial_buildresidential_a">Mari deklarasikan zona hunian. Penduduk bisa membangun rumahnya di sana.</string>
+    <string name="tutorial_buildresidential_b">Tempatkan zona pada kotak yang ditandai.</string>
+    <string name="tutorial_buildresidential_c">Kerja Bagus.</string>
+    <string name="tutorial_buildcommercial_a">Mari lanjutkan dengan zona komersial. Area komersil akan dibangun di sana.</string>
+    <string name="tutorial_buildcommercial_b">Tempatkan zona pada kotak yang ditandai.</string>
+    <string name="tutorial_buildcommercial_c">Kerja Bagus.</string>
+    <string name="tutorial_buildindustrial_a">Yang terakhir tapi bukan yang akhir, Zona Industri. Di situlah pabrik akan dibangun.</string>
+    <string name="tutorial_buildindustrial_b">Tempatkan zona pada kotak yang ditandai.</string>
+    <string name="tutorial_buildindustrial_c">Kerja Bagus. Sekarang bangunan akan segera dibangun.</string>
+    <string name="tutorial_industrial_keepaway">Kamu harus menjaga kawasan industri dari area yang lain karena akan menyebabkan polusi dan kebisingan.</string>
+    <string name="tutorial_rci">Ketuk tombol ini untuk melihat informasi permintaan rinci untuk setiap jenis zona.</string>
+    <string name="tutorial_speed_fast">Kamu bisa mengubah kecepatan simulasi untuk mempersingkat waktu tunggu.</string>
+    <string name="tutorial_speed_normal">Cukup atur kembali ke kecepatan normal.</string>
+    <string name="tutorial_money_task">Tugas kamu adalah untuk mendapatkan uang dari pajak untuk memperbesar kota mu.</string>
+    <string name="tutorial_money_info">Ketuk di sudut kanan bawah untuk mendapatkan lebih banyak informasi tentang uang kamu atau untuk mengubah nilai pajak.</string>
+    <string name="tutorial_congrats">Selamat,Kamu sudah mempelajari dasar-dasar cara bermain TheoTown. Sekarang kamu bisa memulai kota mu sendiri :)</string>
+    <string name="draft_road03_title">Jalan satu arah</string>
+    <string name="draft_road03_text">Mobil hanya bisa melaju dalam satu arah pada tipe jalan ini. Gunakan untuk mengontrol lalu lintas.</string>
+    <string name="budget_sports">Olah Raga</string>
+    <string name="budget_religion">Keagamaan</string>
     <string name="population_unit">%1$,d</string>
-    <string name="draftselector_titlecatastrophes">Catastrophes</string>
-    <string name="settings_category_disasters">Catastrophes</string>
-    <string name="settings_disaster_fire">Fire</string>
-    <string name="settings_disaster_meteorite">Meteorite</string>
-    <string name="settings_disaster_earthquake">Earthquake</string>
-    <string name="settings_disaster_illness">Illness</string>
-    <string name="settings_disaster_flooding">Flooding</string>
+    <string name="draftselector_titlecatastrophes">Bencana</string>
+    <string name="settings_category_disasters">Bencana</string>
+    <string name="settings_disaster_fire">Kebakaran</string>
+    <string name="settings_disaster_meteorite">Serangan Meteor</string>
+    <string name="settings_disaster_earthquake">Gempa Bumi</string>
+    <string name="settings_disaster_illness">Wabah Penyakit</string>
+    <string name="settings_disaster_flooding">Longsor</string>
     <string name="settings_disaster_godzilla">Godzilla</string>
-    <string name="settings_disaster_auto">Automatic catastrophes</string>
-    <string name="notify_firenodp">Kebakaran diPenduduk kota kamu!. Bangun stasiun damkar untuk memadamkan api.</string>
+    <string name="settings_disaster_auto">Bencana Otomatis</string>
+    <string name="notify_firenodp">Kebakaran di Penduduk kota kamu!. Bangun stasiun damkar untuk memadamkan api.</string>
     <string name="draft_destroyedtile_title">Puing</string>
     <string name="draft_destroyedtile_text">Sebuah puing bangunan yang hancur. Kamu bisa menghapus lagi.</string>
     <string name="disaster_fire_title">Kebakaran</string>
     <string name="disaster_fire_text">Bakar semuanya!</string>
     <string name="disaster_fire_cmdtext">Bakar!</string>
     <string name="disaster_meteorite_title">Meteorit</string>
-    <string name="disaster_meteorite_text">Biarkan meteorit jatuh dari langit.</string>
+    <string name="disaster_meteorite_text">Biarkan meteor jatuh dari langit.</string>
     <string name="disaster_meteorite_cmdtext">Jatuhkan!</string>
     <string name="disaster_earthquake_title">Gempa bumi</string>
     <string name="disaster_earthquake_text">Biarkan tanah bergetar.</string>
@@ -498,7 +498,7 @@
     <string name="ci_loan_get">Menaikan</string>
     <string name="ci_loan_donate_text">Tolong beri saya sepeser pun, saya sangat membutuhkannya :(</string>
     <string name="ci_loan_get_text">Default pinjaman, 10,000Ͳ
-\nRentang waktu: 24 months
+\nRentang waktu: 24 bulan
 \nBiaya per bulan: 500Ͳ</string>
     <string name="draft_crater4x4_title">Meteorite crater</string>
     <string name="draft_crater4x4_text">A big meteorite crater. You should remove it.</string>
@@ -721,57 +721,56 @@
     <string name="dialog_renamecity_text">Enter the new name for your city here.</string>
     <string name="dialog_renamebuilding_title">Rename building</string>
     <string name="dialog_renamebuilding_text">Enter the new name for this building.</string>
-    <string name="happiness_police">Police</string>
-    <string name="happiness_firedepartment">Fire brigade</string>
-    <string name="dialog_renameauthor_title">Rename Author</string>
-    <string name="dialog_renameauthor_text">Please enter a new author.</string>
-    <string name="ci_general_authorname">Author: %1$s</string>
+    <string name="happiness_police">Polisi</string>
+    <string name="happiness_firedepartment">Pemadam Kebakaran</string>
+    <string name="dialog_renameauthor_title">Ganti nama pencipta</string>
+    <string name="dialog_renameauthor_text">Mohon masukkan nama pencipta.</string>
+    <string name="ci_general_authorname">Pencipta: %1$s</string>
     <string name="loadcity_author">by %1$s</string>
     <string name="game_cityauthor">by %1$s</string>
     <string name="control_ok">Ok</string>
-    <string name="control_cancel">Cancel</string>
-    <string name="createcity_settings">More...</string>
-    <string name="createcity_cityauthor">Author:</string>
+    <string name="control_cancel">Batal</string>
+    <string name="createcity_settings">Selanjutnya...</string>
+    <string name="createcity_cityauthor">Pencipta:</string>
     <string name="about_homepage">Homepage</string>
-    <string name="oome_title">Not enough memory</string>
-    <string name="oome_text">Sorry, your device has not sufficient amount of RAM to run TheoTown.</string>
-    <string name="createcity_trees">With trees</string>
+    <string name="oome_title">Tidak cukup memori</string>
+    <string name="oome_text">Maaf, Perangkat anda tidak memiliki banyak ruang RAM yang cukup untuk menjalankan TheoTown.</string>
+    <string name="createcity_trees">Dengan pohon</string>
     <string name="dialog_closecity_text">Do you want to save your progress before closing?</string>
-    <string name="dialog_closecity_title">Leave city</string>
+    <string name="dialog_closecity_title">Tinggalkan kota</string>
     <string name="dialog_closecity_cmdsave">Save</string>
     <string name="dialog_closecity_cmddontsave">Don\'t save</string>
     <string name="dialog_copycity_title">Copy city</string>
     <string name="dialog_copycity_text">Enter a name for the copy.</string>
-    <string name="dialog_copycity_cmdok">Copy</string>
-    <string name="dialog_copycity_cmdcancel">Cancel</string>
-    <string name="waiting_screenshot">Taking picture</string>
-    <string name="waiting_copycity">Copying city</string>
+    <string name="dialog_copycity_cmdok">Salin</string>
+    <string name="dialog_copycity_cmdcancel">Batal</string>
+    <string name="waiting_screenshot">Ambil gambar</string>
+    <string name="waiting_copycity">Salin kota</string>
     <string name="app_name_premium">TheoTown Premium</string>
     <string name="busstopinfo_title">Bus stop</string>
-    <string name="roadinfo_title">Road</string>
-    <string name="roadinfo_trafficlights_on">Traffic lights on</string>
-    <string name="roadinfo_trafficlights_off">Traffic lights off</string>
+    <string name="roadinfo_title">Jalan</string>
+    <string name="roadinfo_trafficlights_on">Lampu merah hidup</string>
+    <string name="roadinfo_trafficlights_off">Lampu merah mati</string>
     <string name="notify_crime">We have some crime here. You should build more police stations or improve happiness.</string>
     <string name="tutorial_buildbridge_a">Maybe we should improve traffic by building a main road. Select the country road.</string>
     <string name="tutorial_buildbridge_b">Tap on the start and the end point of the planned road. See how a bridge will be built automaticially over the river.</string>
     <string name="tutorial_buildbridge_c">So, we\'re done with building.</string>
-    <string name="draft_beachnearwater00_title">Beach</string>
+    <string name="draft_beachnearwater00_title">Pantai</string>
     <string name="draft_beachnearwater00_text">Have a wonderful day at the beach.</string>
-    <string name="loadcity_version_premium">Version %1$,d (Premium)</string>
+    <string name="loadcity_version_premium">Versi %1$,d (Premium)</string>
     <string name="loadcity_preview">Sample city</string>
     <string name="settings_autorestoresamples">Restore sample cities</string>
     <string name="settings_autountouchable">Set own buildings untouchable</string>
-    <string name="draft_alert_swat00_title">Call SWAT</string>
+    <string name="draft_alert_swat00_title">Panggil SWAT</string>
     <string name="draft_alert_swat00_text">If there\'s a riot only SWAT teams can hande it.</string>
-    <string name="control_continue">Continue</string>
+    <string name="control_continue">Lanjutkan</string>
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
     <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
     <string name="notify_demonstration">There\'s a demonstration in our town because of %1s! Do something or something bad will happen!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
-    <string name="draft_marker_watermarker_title">Water</string>
+    <string name="draft_marker_watermarker_title">Air</string>
     <string name="draft_road04_title">Alley</string>
-    <string name="draft_road05_title">Highway</string>
     <string name="draft_road04_text">A nice road with trees.</string>
     <string name="draft_road05_text">The perfect road to connect distant areas.</string>
     <string name="notify_unhappy">People here are unhappy because of %1$s. You should try to improve the happiness.</string>
@@ -837,7 +836,7 @@
     <string name="features_included">Is included in %s</string>
     <string name="requirement_feature">Part of %s</string>
     <string name="draft_feature_military00_title">Military base</string>
-    <string name="draft_feature_airport00_title">Airport</string>
+    <string name="draft_feature_airport00_title">Bandara</string>
     <string name="draft_feature_buildings00_title">Building package 1</string>
     <string name="draft_feature_buildings01_title">Building package 2</string>
     <string name="draft_feature_buildings02_title">Building package 3</string>
@@ -847,7 +846,7 @@
     <string name="features_money">Get %1$s for %2$s</string>
     <string name="features_getrank">Get rank now</string>
     <string name="settings_hide_rank_features">Hide rank upgrades</string>
-    <string name="draftselector_titleairport">Airport</string>
+    <string name="draftselector_titleairport">Bandara</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">An unidentified flying object attacks your city!</string>
     <string name="disaster_ufo_cmdtext">Set target</string>
