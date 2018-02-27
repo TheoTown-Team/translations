@@ -277,7 +277,7 @@
     <string name="draftselector_titleremove">Remove</string>
     <string name="draftselector_titleview">View</string>
     <string name="toolremove_default_title">Remove</string>
-    <string name="toolremove_default_text">You can remove anything with this tool. Except zones and pipes.</string>
+    <string name="toolremove_default_text">You can remove anything with this tool. Except zones, pipes, tunnels and underground wires.</string>
     <string name="toolremove_pipe_text">This tool may be used to remove water pipes.</string>
     <string name="toolremove_pipe_title">Remove pipes</string>
     <string name="draftselector_cmdremove">Remove</string>
@@ -1572,5 +1572,8 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
     <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
     <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
-    
+
+    <string name="tool_removeuwire_title">Underground wires</string>
+    <string name="tool_removeuwire_text">This tool removes underground wires.</string>
+
 </resources>
