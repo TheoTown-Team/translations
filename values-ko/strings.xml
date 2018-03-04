@@ -255,8 +255,8 @@
     <string name="draft_zoneindustrial_text">공업 시설이 들어설 것입니다.</string>
     <string name="draft_road00_title">비포장 도로</string>
     <string name="draft_road00_text">단순한 더러운 흙길입니다. 덜컹!</string>
-    <string name="draft_road01_title">포장 도로</string>
-    <string name="draft_road01_text">빠르게 달릴 수 있습니다.</string>
+    <string name="draft_road01_title">일반 도로</string>
+    <string name="draft_road01_text">흙길에 비해 빠르게 달릴 수 있습니다.</string>
     <string name="draftselector_titleterrain">지형</string>
     <string name="draft_terrainwater_title">물</string>
     <string name="draft_terrainwater_text">땅을 파서 강이나 바다를 만듭니다.</string>
@@ -420,7 +420,7 @@
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_lighthouse00_title">등대</string>
     <string name="draft_lighthouse00_text">저 멀리에도 배가 없습니다. 그러나 이곳에는 등대가 있습니다... 이상합니다.</string>
-    <string name="draft_road02_title">고속도로</string>
+    <string name="draft_road02_title">2차로 고속도로</string>
     <string name="draft_road02_text">두 지역을 잇는 가장 빠른 연결입니다.</string>
     <string name="budget_road">도로</string>
     <string name="topic_birthday_phoenix">Phoenix, 생일 축하합니다. :)</string>
@@ -705,7 +705,7 @@
     <string name="happiness_supply">공급</string>
     <string name="happiness_environment">환경</string>
     <string name="happiness_freetime">여가</string>
-    <string name="notify_noroad">몇몇의 건물들이 도로와 연결되지 않았습니다. 고쳐야만 합니다.</string>
+    <string name="notify_noroad">몇몇의 건물들이 도로와 연결되지 않았습니다. 연결해야만 합니다.</string>
     <string name="notify_water_waste">이 건물에 오염된 물이 있어요!</string>
     <string name="influence_management_title">관리</string>
     <string name="influence_management_text">도시를 관리합니다.</string>
@@ -770,10 +770,10 @@
     <string name="notify_demonstration">%1s 때문에 시위가 일어나고 있습니다! 나쁜일이 생기기 전에 뭐라도 하세요!</string>
     <string name="draft_marker_powermarker_title">전력</string>
     <string name="draft_marker_watermarker_title">수도</string>
-    <string name="draft_road04_title">큰길</string>
-    <string name="draft_road05_title">고속도로</string>
+    <string name="draft_road04_title">가로수 도로</string>
+    <string name="draft_road05_title">4차로 고속도로</string>
     <string name="draft_road04_text">나무가 있는 멋진 도로입니다.</string>
-    <string name="draft_road05_text">서로다른 지역을 이어주는 완벽한 도로입니다.</string>
+    <string name="draft_road05_text">서로 다른 지역을 이어주는 완벽한 도로입니다.</string>
     <string name="notify_unhappy">%1$s 떄문에 시민들이 행복하지 않습니다. 행복도를 개선할 필요가 있습니다.</string>
     <string name="happiness_general">평균 행복도</string>
     <string name="draft_rnk_isolateddwelling_title">외딴 건물</string>
@@ -790,11 +790,11 @@
     <string name="draft_rnk_city_big_title">큰 도시</string>
     <string name="draft_rnk_city_large_title">대 도시</string>
     <string name="draft_rnk_metropolis_title">중심 도시</string>
-    <string name="draft_rnk_conurbation_title">도시권역</string>
+    <string name="draft_rnk_conurbation_title">도시 권역</string>
     <string name="draft_rnk_megalopolis_title">광역시</string>
     <string name="rank_needed_people">최소 %1$,d 명의 인구수.</string>
-    <string name="draft_decoroad00_title">큰길 가로수</string>
-    <string name="draft_decoroad00_text">큰길에 있는 가로수 입니다. 겉보기엔 공원과 다를바가 없네요.</string>
+    <string name="draft_decoroad00_title">가로수</string>
+    <string name="draft_decoroad00_text">가로수 도로에 있는 가로수 입니다. 겉보기엔 공원과 다를바가 없네요.</string>
     <string name="settings_experimental">실험적 기능</string>
     <string name="about_thanks">이분들에게 특별히 감사드립니다.</string>
     <string name="about_community">그리고 저희 커뮤니티에서 쉬어보세요.</string>
@@ -925,8 +925,8 @@
     <string name="dialog_resetcity_title">도시 초기화</string>
     <string name="dialog_resetcity_text">원래의 땅으로 이 도시를 전부 초가화 하고 싶으신가요? 이것은 되돌릴 수 없습니다.</string>
     <string name="dialog_resetcity_cmdreset">초기화</string>
-    <string name="draft_devroad01_title">일방통행 국도</string>
-    <string name="draft_devroad01_text">국가에서 투자하고 건설한 일방통행도로.</string>
+    <string name="draft_devroad01_title">일방 통행 국도</string>
+    <string name="draft_devroad01_text">국가에서 투자하고 건설한 일방 통행 포장도로.</string>
     <string name="task_openworld_title">지역</string>
     <string name="task_openworld_text">당신</string>
     <string name="task_openrci_title">건설수요</string>
@@ -1160,9 +1160,9 @@
     <string name="settings_language_default">기본 (%s)</string>
 
     <string name="settings_showroadlength">도로 길이 보이기</string>
-    <string name="draft_rnk_metropolis_small_title">작은 대도시</string>
-    <string name="draft_rnk_metropolis_big_title">큰 대도시</string>
-    <string name="draft_rnk_metropolis_large_title">거대한 대도시</string>
+    <string name="draft_rnk_metropolis_small_title">작은 중심 도시</string>
+    <string name="draft_rnk_metropolis_big_title">큰 중심 도시</string>
+    <string name="draft_rnk_metropolis_large_title">거대한 중심 도시</string>
     <string name="draft_rnk_conurbation_small_title">작은 도시 권역</string>
     <string name="draft_rnk_conurbation_big_title">큰 도시 권역</string>
     <string name="draft_rnk_conurbation_large_title">거대한 도시 권역</string>
@@ -1172,11 +1172,11 @@
     <string name="draft_rnk_country_small_title">도시 국가</string>
     <string name="draft_rnk_country_medium_title">국가</string>
     <string name="draft_rnk_country_big_title">거대 국가</string>
-    <string name="draft_rnk_country_large_title">초거대 국가</string>
+    <string name="draft_rnk_country_large_title">대륙 국가</string>
     <string name="draft_rnk_continent_small_title">작은 대륙</string>
     <string name="draft_rnk_continent_medium_title">대륙</string>
     <string name="draft_rnk_continent_big_title">큰 대륙</string>
-    <string name="draft_rnk_continent_large_title">거대한 대륙</string>
+    <string name="draft_rnk_continent_large_title">하나의 거대한 대륙</string>
     <string name="draft_rnk_planet_small_title">소규모 행성</string>
     <string name="draft_rnk_planet_medium_title">행성</string>
     <string name="draft_rnk_planet_big_title">거대 행성</string>
