@@ -255,8 +255,8 @@
     <string name="draft_zoneindustrial_text">공업 시설이 들어설 것입니다.</string>
     <string name="draft_road00_title">비포장 도로</string>
     <string name="draft_road00_text">단순한 더러운 흙길입니다. 덜컹!</string>
-    <string name="draft_road01_title">포장 도로</string>
-    <string name="draft_road01_text">빠르게 달릴 수 있습니다.</string>
+    <string name="draft_road01_title">일반 도로</string>
+    <string name="draft_road01_text">흙길에 비해 빠르게 달릴 수 있습니다.</string>
     <string name="draftselector_titleterrain">지형</string>
     <string name="draft_terrainwater_title">물</string>
     <string name="draft_terrainwater_text">땅을 파서 강이나 바다를 만듭니다.</string>
@@ -420,7 +420,7 @@
 \n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_lighthouse00_title">등대</string>
     <string name="draft_lighthouse00_text">저 멀리에도 배가 없습니다. 그러나 이곳에는 등대가 있습니다... 이상합니다.</string>
-    <string name="draft_road02_title">고속도로</string>
+    <string name="draft_road02_title">2차로 고속도로</string>
     <string name="draft_road02_text">두 지역을 잇는 가장 빠른 연결입니다.</string>
     <string name="budget_road">도로</string>
     <string name="topic_birthday_phoenix">Phoenix, 생일 축하합니다. :)</string>
@@ -683,10 +683,10 @@
     <string name="draft_marker_ticketmarker_title">제공권</string>
     <string name="draft_marker_ticketmarker_text">제공권 만족도 표시.</string>
     <string name="trainstationinfo_usage">대기자: %2$,d/%3$,d\n이용도: %1$.1f%%</string>
-    <string name="draft_firedepartment01_title">작은 소방서</string>
+    <string name="draft_firedepartment01_title">119 안전센터</string>
     <string name="draft_firedepartment01_text">화제를 예방,진압 합니다. 작은범위에 차량은 한대뿐 입니다</string>
-    <string name="draft_police01_title">작은 경찰서</string>
-    <string name="draft_police01_text">약간의 치안.</string>
+    <string name="draft_police01_title">파출소</string>
+    <string name="draft_police01_text">경범죄를 예방합니다</string>
     <string name="disaster_riot_title">폭동</string>
     <string name="disaster_riot_text">경찰 특공대를 통해서만 진압 가능한 폭동을 개시합니다.</string>
     <string name="disaster_riot_cmdtext">그들을 내보내라!</string>
@@ -705,7 +705,7 @@
     <string name="happiness_supply">공급</string>
     <string name="happiness_environment">환경</string>
     <string name="happiness_freetime">여가</string>
-    <string name="notify_noroad">몇몇의 건물들이 도로와 연결되지 않았습니다. 고쳐야만 합니다.</string>
+    <string name="notify_noroad">몇몇의 건물들이 도로와 연결되지 않았습니다. 연결해야만 합니다.</string>
     <string name="notify_water_waste">이 건물에 오염된 물이 있어요!</string>
     <string name="influence_management_title">관리</string>
     <string name="influence_management_text">도시를 관리합니다.</string>
@@ -751,7 +751,7 @@
     <string name="roadinfo_title">도로</string>
     <string name="roadinfo_trafficlights_on">신호등 켜기</string>
     <string name="roadinfo_trafficlights_off">신호등 끄기</string>
-    <string name="notify_crime">이런, 범죄가 발생하였군요! 경찰서를 더 건설히거나, 항복도를 올릴 필요가 있습니다.</string>
+    <string name="notify_crime">이런, 범죄가 발생하였군요! 경찰서를 더 건설히거나, 행복도를 올릴 필요가 있습니다.</string>
     <string name="tutorial_buildbridge_a">아마도 간선도로를 건설함으로서 교통을 발전시킬 필요가 있습니다. 일반도로를 선택하세요.</string>
     <string name="tutorial_buildbridge_b">계획된 도로의 시점과 종점을 터치하세요. 강위로 다리가 자동건설 되는지 봅시다.</string>
     <string name="tutorial_buildbridge_c">그래서, 건설이 끝났습니다!</string>
@@ -770,14 +770,14 @@
     <string name="notify_demonstration">%1s 때문에 시위가 일어나고 있습니다! 나쁜일이 생기기 전에 뭐라도 하세요!</string>
     <string name="draft_marker_powermarker_title">전력</string>
     <string name="draft_marker_watermarker_title">수도</string>
-    <string name="draft_road04_title">큰길</string>
-    <string name="draft_road05_title">고속도로</string>
+    <string name="draft_road04_title">가로수 도로</string>
+    <string name="draft_road05_title">4차로 고속도로</string>
     <string name="draft_road04_text">나무가 있는 멋진 도로입니다.</string>
-    <string name="draft_road05_text">서로다른 지역을 이어주는 완벽한 도로입니다.</string>
+    <string name="draft_road05_text">서로 다른 지역을 이어주는 완벽한 도로입니다.</string>
     <string name="notify_unhappy">%1$s 떄문에 시민들이 행복하지 않습니다. 행복도를 개선할 필요가 있습니다.</string>
     <string name="happiness_general">평균 행복도</string>
     <string name="draft_rnk_isolateddwelling_title">외딴 건물</string>
-    <string name="draft_rnk_hamlet_title">작은 마을</string>
+    <string name="draft_rnk_hamlet_title">오지 마을</string>
     <string name="draft_rnk_village_small_title">작은 마을</string>
     <string name="draft_rnk_village_medium_title">마을</string>
     <string name="draft_rnk_village_big_title">큰 마을</string>
@@ -790,14 +790,14 @@
     <string name="draft_rnk_city_big_title">큰 도시</string>
     <string name="draft_rnk_city_large_title">대 도시</string>
     <string name="draft_rnk_metropolis_title">중심 도시</string>
-    <string name="draft_rnk_conurbation_title">도시권역</string>
+    <string name="draft_rnk_conurbation_title">도시 권역</string>
     <string name="draft_rnk_megalopolis_title">광역시</string>
     <string name="rank_needed_people">최소 %1$,d 명의 인구수.</string>
-    <string name="draft_decoroad00_title">큰길 가로수</string>
-    <string name="draft_decoroad00_text">큰길에 있는 가로수 입니다. 겉보기엔 공원과 다를바가 없네요...</string>
+    <string name="draft_decoroad00_title">가로수</string>
+    <string name="draft_decoroad00_text">가로수 도로에 있는 가로수 입니다. 겉보기엔 공원과 다를바가 없네요.</string>
     <string name="settings_experimental">실험적 기능</string>
     <string name="about_thanks">이분들에게 특별히 감사드립니다.</string>
-    <string name="about_community">그리고 저희 커뮤니티에서 쉬어보세요..</string>
+    <string name="about_community">그리고 저희 커뮤니티에서 쉬어보세요.</string>
 
     <string name="dialog_tosandbox_cmdconvert">자유</string>
     <string name="dialog_tosandbox_title">자유 모드</string>
@@ -805,7 +805,7 @@
     <string name="requirement_rank">적어도 %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">장례: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">폐기물 처리: %1$,d/%2$,d</string>
-    <string name="draftselector_titledecoration">Decoration</string>
+    <string name="draftselector_titledecoration">장식</string>
     <string name="draftselector_titlewastedisposal">폐기물 처리</string>
     <string name="ci_rank_title">랭크</string>
     <string name="draft_cemetery00_title">묘지</string>
@@ -820,7 +820,7 @@
     <string name="rank_title">새로운 도시 랭크</string>
     <string name="rank_reward">보상으로 %1$s 얻음.</string>
     <string name="rank_newrank">축하드립니다! 도시가 새로운 랭크에 도달 하였습니다:</string>
-    <string name="rank_available">이제 사용가능함:</string>
+    <string name="rank_available">이제 사용 가능함:</string>
     <string name="draftselector_titlemilitary">군대</string>
     <string name="draft_zonemilitary_title">군대 구역</string>
     <string name="draft_mltry_tankbase00_title">탱크기지</string>
@@ -836,7 +836,7 @@
     <string name="features_title">추가기능</string>
     <string name="features_getit">%s만큼 가져오기</string>
     <string name="features_included">%s에 포함됨</string>
-    <string name="requirement_feature">%s의 부분</string>
+    <string name="requirement_feature">%s가 필요함</string>
     <string name="draft_feature_military00_title">군사기지</string>
     <string name="draft_feature_airport00_title">공항</string>
     <string name="draft_feature_buildings00_title">빌딩 패키지 1</string>
@@ -845,7 +845,7 @@
     <string name="draft_feature_services00_title">서비스 패키지</string>
     <string name="draft_feature_tourism00_title">관광 패키지</string>
     <string name="draft_feature_premium00_title">프리미엄</string>
-    <string name="features_money">%2$s로%1$s얻기</string>
+    <string name="features_money">%2$s로 %1$s얻기</string>
     <string name="features_getrank">다이아로 얻기</string>
     <string name="settings_hide_rank_features">랭크 업그레이드 숨기기</string>
     <string name="draftselector_titleairport">공항</string>
@@ -858,14 +858,14 @@
     <string name="topic_love">필요한것은 사랑뿐입니다</string>
     <string name="topic_build">나는 길을 찾든지 만들든지 하겠다.</string>
     <string name="topic_news">모두에게 좋은소식!</string>
-    <string name="topic_welcome">잘왔어요 :)</string>
+    <string name="topic_welcome">반가워요 :)</string>
     <string name="topic_spoon">숫가락은 없다는 것.</string>
     <string name="topic_relax">진정하세요. 장비는 정지 가능합니다.</string>
     <string name="topic_cats">고양이는 형용할 수 없을 정도로 귀엽다네요.</string>
     <string name="topic_force">포스가 함께하길</string>
     <string name="topic_plugins">이제, 플러그인이 있습니다!</string>
     <string name="topic_page">www.theotown.com에 방문하세요! 데오타운 네이버 카페도 방문하세요!</string>
-    <string name="topic_habitants">인구수 1,000,000 에 도달할 수 있습니다.</string>
+    <string name="topic_habitants">인구수 1,000,000명에 도달할 수 있습니다.</string>
     <string name="ci_statistics_title">통계</string>
     <string name="statistics_inh_all">주민</string>
     <string name="statistics_inh_0">저소득층 시민 (Ͳ)</string>
@@ -884,7 +884,7 @@
     <string name="gamemode_sandbox_desc">자본의 제약 없이 마음껏 놀려면, 이 게임 모드를 사용 하세요. 랭크가 없고 도전과제가 적습니다.</string>
     <string name="gamemode_easy_desc">많은 자본을 가지고 시작할 수 있는 게임모드 입니다. 그리고, 전체적으로 조금 쉽습니다.</string>
     <string name="gamemode_middle_desc">일반 게임모드. 적당량의 자본을 가지고 시작하며 여러분만의 꿈의 도시를 건설 하는것이 그렇게 어렵지는 않을 겁니다.</string>
-    <string name="gamemode_hard_desc">TheoTown의 전문가 이신가요? 그러면 이모드는 당신을 위한 모드입니다. 적은양의 자본으로 시작하며, 전체적으로 어렵습니다.</string>
+    <string name="gamemode_hard_desc">TheoTown의 전문가 이신가요? 그러면 이 모드는 당신을 위한 모드입니다. 적은양의 자본으로 시작하며, 전체적으로 어렵습니다.</string>
     <string name="dialog_ffwd_title">앞으로 빨리감기</string>
     <string name="dialog_ffwd_text">%1$,d 일의 빠른 게임모드.</string>
     <string name="dialog_ffwd_cmdplayad">무료</string>
@@ -898,14 +898,14 @@
     <string name="ci_budget_doublemoney_title">수입 두배</string>
     <string name="ci_budget_doublemoney_text">%1$,d 일동안 수입 두배.</string>
     <string name="ci_budget_getmoney_title">%1$s 만큼 얻기</string>
-    <string name="ci_budget_getmoney_text">약깐의 보수으로 %1$s 만큼 교환하기.</string>
-    <string name="notify_badattribute">이제, %2$s 가 우리 도시로 이사오도록 %1$s 의 행복도를 증진시킬 필요가 있습니다.</string>
+    <string name="ci_budget_getmoney_text">약간의 보수로 %1$s 만큼 교환하기.</string>
+    <string name="notify_badattribute">%2$s가 우리 도시로 이사오도록 %1$s의 행복도를 증진시킬 필요가 있습니다.</string>
     <string name="game_remaining_doubleincome">%1$,d 일동안의 수입두배</string>
     <string name="dialog_diamondshop_title">상점</string>
     <string name="features_notenough">%1$s 불충분함</string>
     <string name="dialog_getrank_text">만일 원한다면, 이 랭크를 바로 잠금해제 할수 있습니다.</string>
     <string name="features_buy">지금 바로 구매하세요</string>
-    <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약깐의 작은 주거,상업,산업 건물. 겨울을 위한 그래픽 포함.</string>
+    <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약간의 작은 주거, 상업, 산업 건물. 겨울을 위한 그래픽 포함.</string>
     <string name="dialog_redeempromo_title">다이아를 얻었습니다.</string>
     <string name="dialog_redeempromo_text">이제 이 다이아는 당신 소유인것 같네요.</string>
     <string name="dialog_present_cmdad">두배로 하기</string>
@@ -923,19 +923,19 @@
     <string name="draft_devroad00_title">국도</string>
     <string name="draft_devroad00_text">국가에서 투자하고 건설한 포장도로.</string>
     <string name="dialog_resetcity_title">도시 초기화</string>
-    <string name="dialog_resetcity_text">원래의 땅으로 이 도시를 전부 초가화 하고 싶으신가요? 이것은 되돌릴 수 없습니다.</string>
+    <string name="dialog_resetcity_text">원래의 땅으로 이 도시를 전부 초기화 하고 싶으신가요? 이것은 되돌릴 수 없습니다.</string>
     <string name="dialog_resetcity_cmdreset">초기화</string>
-    <string name="draft_devroad01_title">일방통행 국도</string>
-    <string name="draft_devroad01_text">국가에서 투자하고 건설한 일방통행도로.</string>
+    <string name="draft_devroad01_title">일방 통행 국도</string>
+    <string name="draft_devroad01_text">국가에서 투자하고 건설한 일방 통행 포장도로.</string>
     <string name="task_openworld_title">지역</string>
     <string name="task_openworld_text">당신</string>
-    <string name="task_openrci_title">건설수요</string>
+    <string name="task_openrci_title">건설 수요</string>
     <string name="task_openrci_text">TheoTown에서 건물의 서로다른 수준과 종류에 따른 각기의 건설 수요를 볼수 있습니다. 건물 종류는 주거,상업,공업. 건물의 3가지 수준은, 저소득층 (Ͳ), 중산층 (ͲͲ), 고소득층(ͲͲͲ).</string>
     <string name="control_gotit">오케이</string>
     <string name="task_firstcity_title">새로운 마을</string>
     <string name="task_firstcity_text">당신의 첫번째 마을에 오신 것을 환영합니다.\n\n 300명의 인구수를 달성해 보세요.</string>
     <string name="task_reachrank_title">새로운 랭크</string>
-    <string name="task_reachrank_text">당신의 도시가 새로운 랭크에 도달한 것을 축하합니다.\n\n각각의 랭크는 건물을 잠금해제 하거나 보상을 획득할 것입니다.</string>
+    <string name="task_reachrank_text">도시가 새로운 랭크에 도달한 것을 축하합니다.\n\n각각의 랭크는 건물을 잠금해제 하거나 보상을 획득하게 해줄 것입니다.</string>
     <string name="welcome_sorry_title">News</string>
     <string name="welcome_sorry_text">플레이어에게,\n\n저희는 최근에 TheoTown에서 수많은 작업들을 해왔습니다. 불행히도, 이 오래된 도시를 망가뜨리는 특별한 게임 시스템 변화를 추가하지 않은 것은 불가능 했을겁니다.\n\n저희는 이것을 이해했길 바라며. 당신을 위해 감사 선물을 드리겠습니다.</string>
     <string name="menu_achievements">도전과제</string>
@@ -946,9 +946,9 @@
     <string name="menu_title">메뉴</string>
     <string name="region_maxconcurrentunlocks">한번에 %1$,d 개보다 더 많은 맵을 잠금해제 할수 없습니다.</string>
     <string name="dialog_unlocktime_title">시간 최소화</string>
-    <string name="dialog_unlocktime_text">맵을 잠금해제 하기 위해선 많은 일들이 필요합니다. 저희에게 우리를 지원하길 원하신가요? 이것으로서 잠금해제 시간을 30분으로 줄일 수 있습니다.</string>
+    <string name="dialog_unlocktime_text">맵을 잠금해제 하기 위해선 많은 일들이 필요합니다. 저희를 지원하길 원하신가요? 이것으로 잠금해제 시간을 30분으로 줄일 수 있습니다.</string>
     <string name="region_speedup">속도 올리기</string>
-    <string name="region_waitingtime">우린 이미 맵을 잠금해제 하는중 입니다.</string>
+    <string name="region_waitingtime">이미 맵을 잠금해제 하는중 입니다.</string>
     <string name="settings_autoload">마지막 도시 자동 불러오기</string>
     <string name="dialog_renameregion_title">지역 이름변경</string>
     <string name="dialog_renameregion_text">지역을 위한 새로운 이름을 입력하세요:</string>
@@ -956,11 +956,11 @@
      <string name="draft_townhall02_title">광역시청</string>
     <string name="draft_townhall02_text">큰도시를 위한 광역시청 입니다. 백만 다운로드 감사합니다 :D</string>
     <string name="notify_pollutedwaterpump">이 급수탑은 오염된 구역에 있습니다. 물을 깨끗이 하기 위해 이걸 다른 장소에 배치하는것이 좋을겁니다.</string>
-    <string name="notify_destroyedtiles">이 쓰레기를 누군가 알아차리기 전에 처리해야할 필요가 있습니다.</string>
+    <string name="notify_destroyedtiles">이 쓰레기를 누군가 신경쓰기 전에 처리해야할 필요가 있습니다.</string>
     <string name="notify_loweducationneeded">제 생각에는 우리 아이들에게 체계적인 교육이 필요한듯 하군요. 초등학교를 건설하세요.</string>
     <string name="notify_higheducationneeded">고등학교를 건설함으로서 인재를 육성 해봅시다.</string>
     <string name="dialog_ffwd1_text">%1$s 동안의 빠름게임속도를 허용할것 입니다</string>
-    <string name="notify_badtraffic">이 도로에 정체가 너무 심합니다. 도로를 더만들거나 더욱이 좋은 도로를 건설하세요.</string>
+    <string name="notify_badtraffic">이 도로에 정체가 너무 심합니다. 도로를 더 건설하거나 더욱이 좋은 도로를 건설하세요.</string>
     <string name="dialog_wb_title">돌아온것을 환영합니다.</string>
     <string name="dialog_wb_text">%1$s 에서 시장님이 자리를 비운 동안 %2$s 만큼을 벌었습니다.</string>
     <string name="notify_fullschool">이 학교는 사람이 너무 많습니다. 학교를 더 건설하세요, 제발요.</string>
@@ -993,7 +993,7 @@
     <string name="draft_decosmallmountain00_title">작은 산</string>
     <string name="draft_feature_mountain00_title">작은 산</string>
     <string name="draft_zonemilitary_text">군사 시설은 이 구역내에 건설될 것입니다.</string>
-    <string name="draft_mltry_road00_text">응급파량과 군 차량만을 위한 도로입니다. 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
+    <string name="draft_mltry_road00_text">응급 차량과 군용 차량만을 위한 도로입니다. 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
     <string name="draft_mltry_hq00_text">본부는 군부대의 건물중 중 가장 중요한 시설입니다.</string>
     <string name="draft_mltry_baracks00_text">군인들이 거주합니다.</string>
     <string name="draft_mltry_depot00_text">군수물자를 위한 병참부입니다.</string>
@@ -1015,9 +1015,9 @@
     <string name="ci_neighbor_power">전력</string>
     <string name="ci_neighbor_water">수도</string>
     <string name="dialog_buy_free">무료로 구매</string>
-    <string name="notify_missiledisaster">이런...저는 우주적 재난 때문에 시행하는 마지막 로켓테스트가 두렵군요.</string>
-    <string name="notification00_title">특보: %1$s 에는 예산이 너무 많다!</string>
-    <string name="notification00_text">시장님, 우리 도시는 예산을 탕진하기 위해 시장님이 필요합니다!</string>
+    <string name="notify_missiledisaster">이런... 저는 우주적 재난 때문에 시행하는 마지막 로켓테스트가 두렵군요.</string>
+    <string name="notification00_title">특보 : %1$s 에는 예산이 너무 많다!</string>
+    <string name="notification00_text">시장님, 우리 도시는 예산을 탕진시키기 위해 시장님이 필요합니다!</string>
     <string name="roadinfo_bridgetype">교량 종류</string>
     <string name="draft_feature_buildings01_text">도시를 더 다양하게 만들 큰 주거,상업,공업 건물. 시민 생활 수준 상향.</string>
     <string name="dialog_diamondshop_recommended">추천</string>
@@ -1160,9 +1160,9 @@
     <string name="settings_language_default">기본 (%s)</string>
 
     <string name="settings_showroadlength">도로 길이 보이기</string>
-    <string name="draft_rnk_metropolis_small_title">작은 대도시</string>
-    <string name="draft_rnk_metropolis_big_title">큰 대도시</string>
-    <string name="draft_rnk_metropolis_large_title">거대한 대도시</string>
+    <string name="draft_rnk_metropolis_small_title">작은 중심 도시</string>
+    <string name="draft_rnk_metropolis_big_title">큰 중심 도시</string>
+    <string name="draft_rnk_metropolis_large_title">거대한 중심 도시</string>
     <string name="draft_rnk_conurbation_small_title">작은 도시 권역</string>
     <string name="draft_rnk_conurbation_big_title">큰 도시 권역</string>
     <string name="draft_rnk_conurbation_large_title">거대한 도시 권역</string>
@@ -1172,7 +1172,7 @@
     <string name="draft_rnk_country_small_title">도시 국가</string>
     <string name="draft_rnk_country_medium_title">국가</string>
     <string name="draft_rnk_country_big_title">거대 국가</string>
-    <string name="draft_rnk_country_large_title">초거대 국가</string>
+    <string name="draft_rnk_country_large_title">대륙 국가</string>
     <string name="draft_rnk_continent_small_title">작은 대륙</string>
     <string name="draft_rnk_continent_medium_title">대륙</string>
     <string name="draft_rnk_continent_big_title">큰 대륙</string>
@@ -1576,14 +1576,14 @@
     <string name="draft_statueofliberty00_text">세계를 밝히는 자유(La liberté éclairant le monde)가 본명인 미국 뉴옥 리버티섬에 위치한 1886년에 완공된 이 조각상은 미국독립 100주년을 축하하기위해 프랑스가 준 선물입니다.</string>
     <string name="draft_decorustywatertower00_title">녹슨 급수탑</string>
     <string name="draft_decorustywatertower00_text">녹슬고 오래된 급수탑. 아무일도 하지 않을 것입니다.</string>
-    <string name="draft_underground_wire00_title">전선 지하화</string>
-    <string name="draft_underground_wire00_text">일반 전선과 기능이 같습니다, 하지만 지하에 건설되기 때문에 누구도 전선을 볼 수 없을 것입니다.</string>
+    <string name="draft_underground_wire00_title">전선 지중화</string>
+    <string name="draft_underground_wire00_text">일반 전선과 기능이 같습니다, 하지만 땅속에 건설되기 때문에 누구도 전선을 볼 수 없을 것입니다.</string>
     <string name="draft_feature_freedombuildings00_title">랜드마크 1번 팩</string>
     <string name="draft_feature_freedombuildings00_text">영구 사용으로써 다음건물을 포함합니다.:</string>
 
 
-    <string name="tool_removeuwire_title">전선 지하화</string>
-    <string name="tool_removeuwire_text">이 도구는 지하화된 전선을 철거합니다.</string>
+    <string name="tool_removeuwire_title">전선 지중화</string>
+    <string name="tool_removeuwire_text">이 도구는 지중화된 전선을 철거합니다.</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
