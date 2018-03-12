@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Ayarlar</string>
@@ -14,9 +14,9 @@
     <string name="welcome_agree">Kabul Ediyorum</string>
     <string name="welcome_content">TheoTown\'a hoşgeldin
 
-\n\nBu uygulama şuanda geliştirme aşamasında. Hala ufak tefek hatalar olabilir. Bu yüzden lütfen düşük oy vermeyin. Ücretsiz olduğunu aklınızda tutun.
+\n\nBu uygulama şu anda geliştirme aşamasında. Hala ufak tefek hatalar olabilir. Bu yüzden lütfen düşük oy vermeyin. Bu uygulamanın ücretsiz olduğunu aklınızda bulundurun.
 
-\n\nEğer bu uygulamayı sevdiyseniz, bize destek olmak için arkadaşlarınıza oyundan bahsedebilirsiniz.
+\n\nEğer bu uygulamayı sevdiyseniz, bize destek olmak için arkadaşlarınıza bu oyundan bahsedebilirsiniz.
 
 \n\nİyi eğlenceler :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -49,7 +49,7 @@
     <string name="settings_drawwatersparkle">Su parıldamasını göster</string>
     <string name="settings_drawmapedges">Harita kenarlarını göster</string>
     <string name="settings_hideads_title">Reklamı Gizle</string>
-    <string name="settings_hideads_text">Reklamı gizlemek istiyorsanız uygulamamızdan arkadalarınıza bahsederek bize destek olabilirsiniz.
+    <string name="settings_hideads_text">Reklamları gizlemek istiyorsanız uygulamamızdan arkadaşlarınıza bahsederek bize destek olabilirsiniz.
 
 \n\nEmin misiniz?</string>
     <string name="settings_hideads_yes">Evet, Eminim</string>
@@ -60,13 +60,13 @@
     <string name="dialog_screenshot_title">Ekran görüntüsü alındı</string>
     <string name="dialog_screenshot_text">Resim %1$s haydedildi.</string>
     <string name="dialog_screenshot_cmdok">Tamam, teşekkürler</string>
-    <string name="draftselector_titleparks">parklar</string>
-    <string name="draftselector_titlepublics">toplum</string>
-    <string name="draftselector_titleenergy">enerji</string>
-    <string name="draftselector_titlewater">su</string>
-    <string name="draftselector_titleschool">eğitim</string>
-    <string name="draftselector_titlehealth">sağlık</string>
-    <string name="draftselector_titlepolice">polis</string>
+    <string name="draftselector_titleparks">Parklar</string>
+    <string name="draftselector_titlepublics">Toplum</string>
+    <string name="draftselector_titleenergy">Enerji</string>
+    <string name="draftselector_titlewater">Su</string>
+    <string name="draftselector_titleschool">Eğitim</string>
+    <string name="draftselector_titlehealth">Sağlık</string>
+    <string name="draftselector_titlepolice">P olis</string>
     <string name="draftselector_titlefiredepartment">itfaiye</string>
     <string name="draftselector_cmdbuild">İnşa Et</string>
     <string name="draftselector_price">Ücret: %s</string>
@@ -779,14 +779,14 @@
     <string name="happiness_general">Genel mutluluk</string>
     <string name="draft_rnk_isolateddwelling_title">İzole Konut</string>
     <string name="draft_rnk_hamlet_title">Mezra</string>
-    <string name="draft_rnk_village_Küçük_title">Küçük Köy</string>
+    <string name="draft_rnk_village_small_title">Küçük Köy</string>
     <string name="draft_rnk_village_medium_title">Village</string>
     <string name="draft_rnk_village_big_title">Büyük Köy</string>
-    <string name="draft_rnk_town_Küçük_title">Küçük Kasaba</string>
+    <string name="draft_rnk_town_small_title">Küçük Kasaba</string>
     <string name="draft_rnk_town_medium_title">Town</string>
     <string name="draft_rnk_town_big_title">Büyük Kasaba</string>
     <string name="draft_rnk_town_large_title">Geniş Kasaba</string>
-    <string name="draft_rnk_city_Küçük_title">Küçük Şehir</string>
+    <string name="draft_rnk_city_small_title">Küçük Şehir</string>
     <string name="draft_rnk_city_medium_title">City</string>
     <string name="draft_rnk_city_big_title">Büyük Şehir</string>
     <string name="draft_rnk_city_large_title">Geniş Şehir</string>
@@ -854,7 +854,7 @@
     <string name="disaster_ufo_cmdtext">Hedef Belirle</string>
     <string name="topic_theons">Yeni bir para birimimiz var: Theons Ͳ</string>
     <string name="topic_wip">Yapım aşamasında. Çizgiyi geçmeyin.</string>
-    <string name="topic_belong">Şehrin bize ait >:D</string>
+    <string name="topic_belong">Şehrin bize ait &gt;:D</string>
     <string name="topic_love">Tek ihtiyacın sevgi</string>
     <string name="topic_build">Kendi şehrimi inşa edeceğim, gökdelenlerle ve parklarla çevrili olacak</string>
     <string name="topic_news">Haberler iyi millet!</string>
@@ -884,8 +884,8 @@
     <string name="gamemode_sandbox_desc">Paranın sınırsız olduğu bir oyun modu. Rütbeler yoktur ve başarımlar azaltılmıştır.</string>
     <string name="gamemode_easy_desc">Bu oyun modunda fazla miktarda para ile başlarsınız. Daha kolaydır.</string>
     <string name="gamemode_middle_desc">Varsayılan oyun modu. İyi bir miktar parayla oyuna başlarsınız. Hayallerinizdeki şehri kurmak o kadar zor olmamalı.</string>
-    <string name="gamemode_hard_desc">TheoTown\'da profesyonel misin? O zaman bu oyun modu tam sana göre. Az miktar parayla başlarsın ve bu daha zor olacak.</string>
-    <string name="dialog_ffwd_title">Fast forward</string>
+    <string name="gamemode_hard_desc">TheoTown\'da profesyonel misin? O zaman bu oyun modu tam sana göre. Oyuna az miktar parayla başlarsın ve ilerlemek olduğundan daha zor olacak.</string>
+    <string name="dialog_ffwd_title">Hızlı Çekim</string>
     <string name="dialog_ffwd_text">%1$,d gün için daha hızlı oyun simulasyonu.</string>
     <string name="dialog_ffwd_cmdplayad">Video reklam</string>
     <string name="game_ramaining_ffwd">%1$,d hızlı simülasyon günü kaldı.</string>
@@ -1110,8 +1110,8 @@
     <string name="draft_feature_time00_text">Sınırlı bir süreliğine size zamanı kontrol edebilme özelliğini verir.</string>
     <string name="draft_feature_time01_title">Geliştirilmiş zaman kontrolü</string>
     <string name="draft_feature_time01_text">Süper hızlı oyun hızını daha uzun süreli yapar.</string>
-    <string name="draft_feature_time02_title">Zaman KONTROLCÜSÜ</string>
-    <string name="draft_feature_time02_text">Sen artık tamamen bir zaman kontrolcüsün. Daha uzun süre zamanı kontrol edebilmeni sağlar.</string>
+    <string name="draft_feature_time02_title">SÜPER ZAMAN KONTROLCÜSÜ</string>
+    <string name="draft_feature_time02_text">Sen artık tamamen bir zaman kontrolcüsüsün. Daha uzun süre zamanı kontrol edebilmeni sağlar.</string>
 
     <string name="draft_feature_weather_machine00_title">Hava durumu makinesi</string>
     <string name="draft_feature_weather_machine00_text">Çok gizli bir hava durumu makinesi. Hava durumunu kontrol edebilmeni sağlar.</string>
@@ -1124,8 +1124,9 @@
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bu simülasyonda kendi şehrini yarat.</string>
 
-    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binala kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
-Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritaları yükleyecektir ve sende bunlara erişebileceksin.</string>
+    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binalar kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
+
+Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritalarını yükleyecektir ve sen de bunlara erişebileceksin.</string>
 
     <string name="settings_sound_weather">Hava durumu</string>
 
@@ -1159,7 +1160,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="settings_language_default">Varsayılan (%s)</string>
 
     <string name="settings_showroadlength">Yol uzunluğunu göster</string>
-
     <string name="draft_rnk_metropolis_small_title">Küçük metropolis</string>
     <string name="draft_rnk_metropolis_big_title">Büyük metropolis</string>
     <string name="draft_rnk_metropolis_large_title">Çok büyük metropolis</string>
@@ -1201,6 +1201,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_prm_park00_text">Güzel bir fıskiye. Nüfusun zevkini %1$s kadar artıracak, senin de.</string>
     <string name="draft_feature_fountain00_title">Büyük fıskiye</string>
     <string name="draft_feature_fountain00_text">Güzel bir fıskiye. Nüfusun zevkini baya kadar artıracak, senin de.</string>
+
     <string name="draft_rnk_galaxy_small_title">Küçük Galaksi</string>
     <string name="draft_rnk_galaxy_medium_title">Galaksi</string>
     <string name="draft_rnk_galaxy_big_title">Büyük Galaksi</string>
@@ -1239,75 +1240,366 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="topic_code">Şimdi 5% daha fazla kodla!</string>
     <string name="topic_banana">Muz</string>
     <string name="topic_finish">Hadi bu cümleyi biti</string>
-    <string name="topic_threed">"Sadece bunu 3 boyutlu yap"</string>
+    <string name="topic_threed">"Tek yapman gereken bunu 3 boyutlu yapmak"</string>
     <string name="topic_work">Zor çalışma izlerini içerebilir</string>
     <string name="topic_funfun">Şimdi daha zevkli</string>
 
-    <string name="settings_lesscars">Traffic volume</string>
-    <string name="settings_uploadgameplay">Upload gameplay (your id: %s)</string>
-    <string name="settings_uploadgameplaymobile">Allow gameplay upload without Wifi connection (may be expensive!)</string>
-    <string name="createcity_sizebigbigextra">Colossal</string>
-    <string name="settings_uploadgameplay_quality">Upload quality</string>
-    <string name="settings_uploadgameplay_qlow">Bad</string>
-    <string name="settings_uploadgameplay_qmedium">Medium</string>
-    <string name="settings_uploadgameplay_qhigh">High</string>
-    <string name="dialog_addairplane_title">Add airplane</string>
-    <string name="draftselector_airplane_buy">Buy</string>
-    <string name="dialog_airplanes_title">Your airplanes</string>
-    <string name="dialog_airplanes_cmdadd">Add</string>
-    <string name="dialog_airplanes_usethis">Use this one</string>
-    <string name="dialog_airplanes_selected">Current</string>
-    <string name="dialog_airplanes_inuse">In use</string>
-    <string name="dialog_renameairplane_title">Rename airplane</string>
-    <string name="dialog_renameairplane_text">Enter a new name for your airplane:</string>
+    <string name="settings_lesscars">Trafik sesi</string>
+    <string name="settings_uploadgameplay">Oynanışı yükle (id: %s)</string>
+    <string name="settings_uploadgameplaymobile">Wi-Fi olmadan oynanışı yüklemeye izin ver (pahalıya patlayabilir!)</string>
+    <string name="createcity_sizebigbigextra">Devasa</string>
+    <string name="settings_uploadgameplay_quality">Yükleme kalitesi</string>
+    <string name="settings_uploadgameplay_qlow">Kötü</string>
+    <string name="settings_uploadgameplay_qmedium">Orta</string>
+    <string name="settings_uploadgameplay_qhigh">İyi</string>
+    <string name="dialog_addairplane_title">Uçak ekle</string>
+    <string name="draftselector_airplane_buy">Satın Al</string>
+    <string name="dialog_airplanes_title">Uçakların</string>
+    <string name="dialog_airplanes_cmdadd">Ekle</string>
+    <string name="dialog_airplanes_usethis">Bunu kullan</string>
+    <string name="dialog_airplanes_selected">Geçerli</string>
+    <string name="dialog_airplanes_inuse">Kullanımda</string>
+    <string name="dialog_renameairplane_title">Uçağı yeniden adlandır</string>
+    <string name="dialog_renameairplane_text">Uçağın için yeni bir ad yaz:</string>
     <string name="draft_airplane00_title">T340</string>
-    <string name="draft_airplane00_text">A long range airplane from TheoAir.</string>
-    <string name="draft_prm_airplane00_title">T340 Gold</string>
-    <string name="draft_prm_airplane00_text">A golden variant of the long range airplane from TheoAir.</string>
-    <string name="draftselector_airplane_passenger">Passengers: %1$,d</string>
-    <string name="draft_ap_deco00_title">Airport decoration</string>
-    <string name="draft_ap_deco00_text">Make your airport more realistic with these decorations.</string>
-    <string name="airport_needtower_title">No tower</string>
-    <string name="airport_needtower_text">You have to build a tower in oder to control your airport</string>
-    <string name="airport_needworkingtower_title">Tower not working</string>
-    <string name="airport_needworkingtower_text">You have to ensure that your tower is working</string>
-    <string name="airport_needworkingtower_cmdshow">Show</string>
-    <string name="ci_airport_newlane_title">New lane</string>
-    <string name="ci_airport_newlane_text">Add a new lane for your airport</string>
-    <string name="ci_airport_onelaneatatime">Only one lane at a time can be added</string>
-    <string name="ci_airport_cmdunlock">Unlock</string>
-    <string name="ci_airport_cmdlocked">Locked</string>
-    <string name="ci_airport_unlocking">Unlocking</string>
-    <string name="ci_airport_cmdspeedup">Speed up</string>
-    <string name="dialog_renamelane_title">Rename lane</string>
-    <string name="dialog_renamelane_text">Enter a new name for your lane:</string>
-    <string name="dialog_redeemcode_title">Redeem code</string>
-    <string name="dialog_redeemcode_text">Enter your redeem code here to redeem it:</string>
-    <string name="dialog_redeemcode_cmdredeem">Redeem</string>
-    <string name="dialog_redeemsuccess_title">Success</string>
-    <string name="dialog_redeemsuccess_text">Congratulations, you just got %1$s diamonds :)</string>
-    <string name="dialog_redeemfailure_title">Failure</string>
-    <string name="dialog_redeemfialire_text">The entered redeem code could not be redeemed. Please check for typing errors.</string>
-    <string name="shop_redeemcode">Redeem code</string>
-    <string name="draft_ap_tower00_title">Tower</string>
-    <string name="draft_ap_tower00_text">An airport needs at least one tower to work properly.</string>
-    <string name="draft_ap_hall00_title">Entry</string>
-    <string name="draft_ap_hall00_text">An airport needs an entry so people can come into it.</string>
-    <string name="draft_ap_gate00_title">Gate</string>
-    <string name="draft_ap_gate00_text">Gates are needed for incoming/outgoing passengers.</string>
-    <string name="draft_ap_field00_title">Runway</string>
-    <string name="draft_ap_field00_text">A runway where planes can start and land. Minimum length is 12.</string>
-    <string name="settings_usezoneradius">Use zone radius</string>
+    <string name="draft_airplane00_text">TheoAir\'den uzak mesafelere uçabilen bir uçak.</string>
+    <string name="draft_prm_airplane00_title">Altın T340</string>
+    <string name="draft_prm_airplane00_text">TheoAir\'den uzak mesafelere uçabilen altın bir uçak.</string>
+    <string name="draftselector_airplane_passenger">%1$,d yolcu</string>
+    <string name="draft_ap_deco00_title">Havaalanı dekorasyonu</string>
+    <string name="draft_ap_deco00_text">Havaalanını bu dekorasyonlarla daha gerçekçi yap.</string>
+    <string name="airport_needtower_title">Kule yok</string>
+    <string name="airport_needtower_text">Havaalanını kontrol edebilmek için bir kule kurman gerekiyor.</string>
+    <string name="airport_needworkingtower_title">Kule çalışmıyor</string>
+    <string name="airport_needworkingtower_text">Kulenin çalıştığından emin olmalısın.</string>
+    <string name="airport_needworkingtower_cmdshow">Göster</string>
+    <string name="ci_airport_newlane_title">Yeni pist</string>
+    <string name="ci_airport_newlane_text">Havaalanın için yeni bir pist ekle.</string>
+    <string name="ci_airport_onelaneatatime">Aynı anda birden çok pist ekleyemezsin.</string>
+    <string name="ci_airport_cmdunlock">Kilidi aç</string>
+    <string name="ci_airport_cmdlocked">Kilitli</string>
+    <string name="ci_airport_unlocking">Kilit açılıyor</string>
+    <string name="ci_airport_cmdspeedup">Hızlandır</string>
+    <string name="dialog_renamelane_title">Pisti yeniden adlandır</string>
+    <string name="dialog_renamelane_text">Pistin için yeni bir ad gir:</string>
+    <string name="dialog_redeemcode_title">Kod kullan</string>
+    <string name="dialog_redeemcode_text">Almak için elinde olan kodu gir:</string>
+    <string name="dialog_redeemcode_cmdredeem">Al</string>
+    <string name="dialog_redeemsuccess_title">Başarı</string>
+    <string name="dialog_redeemsuccess_text">Hayırlı olsun, %1$s tane elmas kazandınız :)</string>
+    <string name="dialog_redeemfailure_title">Başarısız</string>
+    <string name="dialog_redeemfialire_text">Girdiğin kod kullanılamıyor. Lütfen doğru olup olmadığını kontrol et.</string>
+    <string name="shop_redeemcode">Kod kullan</string>
+    <string name="draft_ap_tower00_title">Kule</string>
+    <string name="draft_ap_tower00_text">Bir havaalanının doğru dürüst çalışabilmesi için en az 1 kule gerekir.</string>
+    <string name="draft_ap_hall00_title">Giriş</string>
+    <string name="draft_ap_hall00_text">Bir havaalanının en az 1 girişe ihtiyacı vardır ki yolcular gelebilsin.</string>
+    <string name="draft_ap_gate00_title">Gişe</string>
+    <string name="draft_ap_gate00_text">Gişeler gelen ve giden yolcular için gereklidir.</string>
+    <string name="draft_ap_field00_title">Pist</string>
+    <string name="draft_ap_field00_text">Bir uçağın inip kalkması için piste ihtiyacı vardır. En az 12lik bir pist oluşturabilirsin.</string>
+    <string name="settings_usezoneradius">Alanın çevresini kullan</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">A double-deck, long range airplane from TheoAir. It has a lot of space.</string>
-    <string name="dialog_waitingtime_title">Reduce waiting time</string>
-    <string name="dialog_waitingtime_text">Would you like to shorten this waiting time a bit?\n%1$s left.</string>
+    <string name="draft_airplane01_text">TheoAir\'den çift katlı, uzun mesafelere gidebilen bir uçak. Normalden fazla yolcu alabilir.</string>
+    <string name="dialog_waitingtime_title">Bekleme zamanını azalt</string>
+    <string name="dialog_waitingtime_text">Bunun için bekleme zamanını azaltmak istediğine emin misin? \n%1$s kadar kaldı.</string>
 
-    <string name="topic_rate">Please help us and rate TheoTown</string>
-    <string name="ci_airport_lane_unassign">Discard</string>
-    <string name="tool_airplanelane_title">Tap on a free lane</string>
-    <string name="draft_feature_starter_pack00_title">Starter Pack</string>
-    <string name="draft_feature_starter_pack00_text">With the Starter Package you\'ll receive:</string>
-    <string name="pluginerror_cmdchecksyntax">Check syntax online</string>
+    <string name="topic_rate">Lütfen TheoTown\'u oylayarak bize destekte bulunun</string>
+    <string name="ci_airport_lane_unassign">Sil</string>
+    <string name="tool_airplanelane_title">Açık olan bir piste dokun.</string>
+    <string name="draft_feature_starter_pack00_title">Başlangıç paketi</string>
+    <string name="draft_feature_starter_pack00_text">Başlangıç paketiyle alacaklarınız:</string>
+    <string name="pluginerror_cmdchecksyntax">Sözdizimini çevrimiçi kontrol et</string>
+
+    <string name="fb_login_title">Facebook ile bağlan</string>
+    <string name="fb_login_text">Login so that we can synchronize your profile.</string>
+    <string name="fb_login_cancel">Cancel</string>
+    <string name="toast_seed_copy">Copied seed into clipboard</string>
+    <string name="toast_recordingid_copy">Copied recording ID into clipboard</string>
+    <string name="draft_ap_road00_title">Transport road</string>
+    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways.</string>
+    <string name="requirement_upgrade">Needs upgrade %1$s</string>
+    <string name="requirement_upgrade_invert">Cannot be combined with %1$s</string>
+    <string name="draft_deco_chr_present00_title">Present</string>
+    <string name="draft_deco_chr_present00_text">Just a present.</string>
+    <string name="settings_touch_rotate">Rotate on touch</string>
+    <string name="disaster_green_slime_title">Green Slime</string>
+    <string name="disaster_green_slime_text">Ever-expanding slime that will slowly consume not everything in sight.</string>
+    <string name="disaster_green_slime_cmdtext">Slime!</string>
+    <string name="disaster_pink_slime_title">Pink Slime</string>
+    <string name="disaster_pink_slime_text">Ever-expanding slime that will slowly consume everything in sight.</string>
+    <string name="disaster_pink_slime_cmdtext">Slime!</string>
+    <string name="draft_hydroplant00_title">River Power Plant</string>
+    <string name="draft_hydroplant00_text">A hydroelectric Power Plant that can be used to create electricity using the power of rivers. Does not generate pollution.</string>
+    <string name="draft_feature_slime00_title">Slime disaster</string>
+    <string name="draft_feature_slime00_text">Slime disasters will eat up your city. Of course, only if you want it to do so.</string>
+
+    <string name="settings_terrainshading">Terrain shading</string>
+    <string name="draft_deco_chr_tree00_title">Christmas tree</string>
+    <string name="draft_deco_chr_tree00_text">The Christmas tree will fill the hearts of your inhabitants with joy and glory. Do you see any presents?</string>
+    <string name="draft_jardinehouse00_title">Jardine House</string>
+    <string name="draft_jardinehouse00_text">The Jardine House is a office tower placed in Hong Kong. It has 52 floors and has a height of 179 m. It was completed in 1972.</string>
+    <string name="draft_bankofchina00_title">Bank of China</string>
+    <string name="draft_bankofchina00_text">The Bank of China Tower in Hong Kong houses the headquarters for the Bank of China HK. It has 70 floors, is 367 m high and was finished in 1990.</string>
+    <string name="settings_road_zone_width">Width between zone roads</string>
+    <string name="settings_road_zone_height">Height between zone roads</string>
+    <string name="draft_feature_christmas_pack00_title">Christmas special</string>
+    <string name="draft_feature_christmas_pack00_text">The limited offer contains:</string>
+    <string name="draft_feature_christmas00_title">Christmas Time!</string>
+    <string name="draft_feature_christmas00_text">Various decorations for Christmas time :)</string>
+    <string name="draft_category_christmas00_title">Winter time</string>
+    <string name="draft_deco_chr_snowman00_title">Snowman</string>
+    <string name="draft_deco_chr_snowman00_text">Children like to build snowmen in winter time.</string>
+    <string name="draft_internationalcommercecentre00_title">ICC</string>
+    <string name="draft_internationalcommercecentre00_text">The International Commerce Centre in Hong Kong is a 108 storey, commercial skyscraper. It\'s the tallest building in Hong Kong with a height of 484 m. It was completed in 2010.</string>
+    <string name="settings_autosave_interval">Autosave interval</string>
+    <string name="settings_autosave_interval_off">Off</string>
+    <string name="settings_autosave_interval_minutes">%1$d min</string>
+
+    <string name="draft_syl_spawner00_title">Torch</string>
+    <string name="draft_syl_spawner00_text">A firework with the shape of a torch.</string>
+    <string name="draft_syl_spawner01_title">Circles</string>
+    <string name="draft_syl_spawner01_text">A rather simple firework.</string>
+    <string name="draft_syl_spawner02_title">Jellyfish</string>
+    <string name="draft_syl_spawner02_text">This firework mimics the shape of a jellyfish.</string>
+    <string name="draft_syl_emitter00_title">Switch</string>
+    <string name="draft_syl_emitter00_text">A switch to initiate fireworks. Connect it to wires.</string>
+    <string name="draft_syl_wire_title">Wire</string>
+    <string name="draft_syl_wire_text">Wiring for fireworks.</string>
+    <string name="draft_category_firework00_title">Fireworks</string>
+    <string name="draft_feature_firework_pack00_title">New Year special</string>
+    <string name="draft_feature_firework_pack00_text">The limited offer contains:</string>
+    <string name="draft_feature_firework00_title">Fireworks</string>
+    <string name="draft_feature_firework00_text">Place and compose your own fireworks.</string>
+    <string name="draft_syl_emitter01_title">Time switch</string>
+    <string name="draft_syl_emitter01_text">A switch that will automatically emit a signal on new year.</string>
+
+
+    <string name="draft_airplane02_title">T430</string>
+    <string name="draft_airplane02_text">A fast long range airplane from TheoAir.</string>
+    <string name="draft_syl_spawner03_title">Flaming Stars</string>
+    <string name="draft_syl_spawner03_text">A red and yellow explosion combined with white fade.</string>
+    <string name="draft_syl_spawner04_title">Colored Stars</string>
+    <string name="draft_syl_spawner04_text">A red explosion with a yellow fade out.</string>
+    <string name="draft_syl_spawner05_title">Borr</string>
+    <string name="draft_syl_spawner05_text">A red explosion with a cool light effect.</string>
+    <string name="draft_syl_spawner06_title">Glitter willow</string>
+    <string name="draft_syl_spawner06_text">A beautiful explosion with mixed colors and a fade out.</string>
+    <string name="draft_syl_spawner07_title">Tears from Heaven</string>
+    <string name="draft_syl_spawner07_text">Three white explosions combined with a red fade out.</string>
+    <string name="draft_syl_spawner08_title">Sizzling Ears</string>
+    <string name="draft_syl_spawner08_text">Big rockets shot into the air.</string>
+    <string name="draft_syl_spawner09_title">Willow</string>
+    <string name="draft_syl_spawner09_text">A big willow.</string>
+    <string name="draft_deco_chr_present_helipad00_title">Cool!</string>
+    <string name="draft_deco_chr_present_helipad00_text">Your first very own helicopter. Unfortunately, it won\'t listen to you.</string>
+    <string name="draft_ufo_crater00_title">Strange thing</string>
+    <string name="draft_ufo_crater00_text">Looks as if something is stucking in the ground. Better you remove it.</string>
+    <string name="draft_destroyedtileradioactive00_title">Scrap</string>
+    <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You should remove it.</string>
+    <string name="settings_disaster_ufo">UFO</string>
+    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
+    <string name="dialog_externalstorage_cancel">Cancel</string>
+    <string name="dialog_externalstorage_retry">Retry</string>
+    <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
+    <string name="notify_disaster_flooding">City under water!</string>
+    <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
+    <string name="notify_disaster_nuke">We have a nuclear explosion right here!</string>
+    <string name="notify_disaster_tornado">It\'s more than windy here!</string>
+    <string name="notify_disaster_ufo">Aliens attack!</string>
+    <string name="settings_download_static_files">Download static files</string>
+    <string name="pluginerror_visitforum">Report on forum</string>
+    <string name="dialog_gameplay_title">Gameplay upload</string>
+    <string name="dialog_gameplay_text">By enabling gameplay upload you allow us to upload your gameplay to our servers. See the disclaimer for more information.</string>
+    <string name="control_enable">Enable</string>
+    <string name="dialog_gameplay_disclaimer">Show disclaimer</string>
+    <string name="busgame_newbus">Add %d. bus</string>
+    <string name="busgame_route">Route</string>
+    <string name="busgame_speed">Speed</string>
+    <string name="busgame_speed_unit">m/s</string>
+    <string name="busgame_capacity">Capacity</string>
+    <string name="busgame_capacity_unit">pl</string>
+    <string name="busgame_income">Income</string>
+    <string name="busgame_currency">Tickets</string>
+    <string name="busgame_upgrade">Upgrade</string>
+    <string name="busgame_upgrade_title">Level %d</string>
+    <string name="busgame_unlock">Unlock</string>
+    <string name="draft_small_church00_title">Neighborhood Church</string>
+    <string name="draft_small_church00_text">Some faith for your citizens.</string>
+    <string name="draft_small_mosque00_title">Neighborhood Mosque</string>
+    <string name="draft_small_mosque00_text">Some faith for your citizens.</string>
+
+
+    <string name="minigame_reachlevel">Reach level %d</string>
+    <string name="minigame_price">Price</string>
+    <string name="minigame_time">Time</string>
+    <string name="busgame_unlockimmediately_title">Unlock immediately</string>
+    <string name="busgame_unlockimmediately_text">Would you like to unlock this bus immediately?</string>
+    <string name="dialog_dbuilding_title">Build here</string>
+    <string name="dialog_dbuilding_text">Do you want to place this building here? We will finish the building immediately for you.</string>
+    <string name="dialog_performance_title">Performance</string>
+    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
+    <string name="draft_brandenburgertor00_text">The Brandenburg Gate is a German landmark that was built in the 18th century. It\'s located in Berlin.</string>
+
+
+    <string name="control_accept">Accept</string>
+    <string name="control_dismiss">Dismiss</string>
+    <string name="settings_citytasks">Tasks</string>
+    <string name="dialog_disabletasks_title">Disable tasks</string>
+    <string name="dialog_disabletasks_text">You dismissed multiple tasks, so would you like to disable them for this city?</string>
+    <string name="control_disable">Disable</string>
+    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
+    <string name="draft_arcdetriomphe00_text">The Arc de Triomphe in Paris honours those who fought and died in the French Revolutionary.</string>
+    <string name="featureselector_shortbuildtime">Short building time for %1$s</string>
+    <string name="game_remaining_shortbuildtime">Short build time for %s</string>
+    <string name="shop_open_features">Spend diamonds</string>
+    <string name="draft_feature_shortbuildingtime00_title">Short building time</string>
+    <string name="draft_feature_shortbuildingtime00_text">Drastic reduce of building time for all buildings.</string>
+    <string name="dialog_shortbuildtime_title">Built time boost</string>
+    <string name="dialog_shortbuildtime_text">Watch a short video to boost building time for %s.</string>
+
+
+    <string name="settings_saveonappswitch">Save on app switch</string>
+    <string name="settings_saveforscreenshot">Save for screenshot</string>
+    <string name="draft_eiffeltower00_title">Eiffel Tower</string>
+    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
+    <string name="dialog_wb_text02">Would you like to collect what %1$s earned while you were absent?\n\n%2$s</string>
+    <string name="dialog_wb_cmdtake">Take it</string>
+    <string name="dialog_wb_cmdforfeit">Forfeit</string>
+    <string name="dialog_diamondtool_title">Finish construction</string>
+    <string name="dialog_diamondtool_text">Shall we build that?</string>
+    <string name="draft_feature_valentinesday00_title">Happy Valentine\'s Day</string>
+    <string name="draft_feature_valentinesday00_text">Unlock these buildings permanently</string>
+    <string name="tool_removetunnel_title">Remove tunnel</string>
+    <string name="tool_removetunnel_text">Let\'s remove some tunnels.</string>
+
+
+    <string name="dialog_halftunnelprice_title">Half tunnel price</string>
+    <string name="dialog_halftunnelprice_text">Want to save some diamonds? This boost reduces tunnel price by 50%% for %s.</string>
+    <string name="game_remaining_halftunnelprice">Half tunnel price for %s</string>
+    <string name="shop_diamonds_sole">%s diamonds</string>
+    <string name="dialog_diamondshop_bestvalue">Best value</string>
+    <string name="draft_draft_edl_title">Education low</string>
+    <string name="draft_draft_edl_text">Low education.</string>
+    <string name="draft_draft_edh_title">Education high</string>
+    <string name="draft_draft_edh_text">High education.</string>
+    <string name="draft_draft_crm_title">Criminality</string>
+    <string name="draft_draft_crm_text">Indicator for criminality.</string>
+    <string name="draft_draft_fire_title">Fire danger</string>
+    <string name="draft_draft_fire_text">Indicator for fire danger.</string>
+    <string name="draft_draft_wp_title">Water pollution</string>
+    <string name="draft_draft_wp_text">Indicator for water pollution.</string>
+    <string name="draft_draft_plt_title">Pollution</string>
+    <string name="draft_draft_plt_text">Indicator for pollution.</string>
+    <string name="draft_draft_prk_title">Park</string>
+    <string name="draft_draft_prk_text">Indicator for park availability.</string>
+    <string name="draft_draft_sp_title">Sport</string>
+    <string name="draft_draft_sp_text">Indicator for spot availability.</string>
+    <string name="draft_draft_fth_title">Faith</string>
+    <string name="draft_draft_fth_text">Indicator for faith of inhabitants.</string>
+    <string name="draft_draft_hlth_title">Health</string>
+    <string name="draft_draft_hlth_text">Indicator for health of inhabitants.</string>
+    <string name="draft_draft_hedu_title">Education happiness</string>
+    <string name="draft_draft_hedu_text">Indicator for happiness about education availability.</string>
+    <string name="draft_draft_hlvl_title">Level happiness</string>
+    <string name="draft_draft_hlvl_text">Happiness about level of neighboring buildings.</string>
+    <string name="draft_draft_htx_title">Tax happiness</string>
+    <string name="draft_draft_htx_text">Happiness about taxes.</string>
+    <string name="draft_draft_htr_title">Transport happiness</string>
+    <string name="draft_draft_htr_text">Happiness about transports.</string>
+    <string name="draft_draft_hzn_title">Zone happiness</string>
+    <string name="draft_draft_hzn_text">Happiness about near zones.</string>
+    <string name="draft_draft_hspl_title">Supply hapiness</string>
+    <string name="draft_draft_hspl_text">Happiness about available energy and water.</string>
+    <string name="draft_draft_hft_title">Free time happiness</string>
+    <string name="draft_draft_hft_text">Happiness about facilities for free time.</string>
+    <string name="draft_draft_henv_title">Environment happiness</string>
+    <string name="draft_draft_henv_text">Happiness about environment.</string>
+    <string name="draft_draft_hpd_title">Police happiness</string>
+    <string name="draft_draft_hpd_text">Happiness about police.</string>
+    <string name="draft_draft_hfd_title">Fire dept. happiness</string>
+    <string name="draft_draft_hfd_text">Happiness about fire departments.</string>
+    <string name="draft_draft_hpk_title">Park happiness</string>
+    <string name="draft_draft_hpk_text">Hapiness about parks.</string>
+    <string name="draft_draft_hsp_title">Sport happiness</string>
+    <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
+    <string name="draft_draft_hgen_title">General happiness</string>
+    <string name="draft_draft_hgen_text">General happiness.</string>
+    <string name="influence_passenger_bus_title">Bus transport</string>
+    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
+    <string name="influence_passenger_train_title">Train transport</string>
+    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
+    <string name="influence_residential_title">Residential area</string>
+    <string name="influence_residential_text">People prefer to live in a residential area.</string>
+    <string name="influence_commercial_title">Commercial area</string>
+    <string name="influence_commercial_text">Commercials are often groupes togther to attract customers.</string>
+    <string name="influence_industrial_title">Industrial area</string>
+    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
+    <string name="influence_level_low_title">low level</string>
+    <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
+    <string name="influence_level_middle_title">Medium level</string>
+    <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
+    <string name="influence_level_high_title">High level</string>
+    <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
+    <string name="influence_density_title">Density</string>
+    <string name="influence_density_text">High buildings are typically more dense.</string>
+    <string name="influence_nature_title">Nature</string>
+    <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
+    <string name="influence_waste_disposal_title">Waste disposal</string>
+    <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..</string>
+    <string name="draft_bus_road00_title">Bus road</string>
+    <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
+    <string name="draft_bus_oneway_road00_title">One-way bus road</string>
+    <string name="draft_bus_oneway_road00_text">A one-way road only buses can drive on.</string>
+    <string name="task_build_res">Build %s residential zones.</string>
+    <string name="task_build_com">Build %s commercial zones.</string>
+    <string name="task_build_ind">Build %s industrial zones.</string>
+    <string name="task_build_roads">Build %s roads.</string>
+    <string name="task_build_parks">Build %s parks.</string>
+    <string name="task_get_inhabitants">Get %s new inhabitants.</string>
+    <string name="task_get_money">Earn %sͲ.</string>
+    <string name="task_spend_money">Spend %sͲ.</string>
+    <string name="task_spend_diamonds">Spend %s diamonds.</string>
+    <string name="task_tap_screen">Tap %s times on the screen.</string>
+    <string name="task_current">Current task</string>
+
+
+    <string name="dialog_adreward_title">Rewarded ad</string>
+    <string name="dialog_adreward_text">Want to get some diamonds for free by watching an ad?</string>
+    <string name="dialog_adreward_cmdwatch">Get them now</string>
+    <string name="draftselector_titlelandmark">Landmarks</string>
+    <string name="draft_bigben00_title">Big Ben</string>
+    <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
+    <string name="draft_angelofindependence00_title">Angel of Independence</string>
+    <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
+    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
+    <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
+    <string name="draft_decorustywatertower00_title">Rusty water tower</string>
+    <string name="draft_decorustywatertower00_text">An old and rusty water tower. It does absolutely nothing.</string>
+    <string name="draft_underground_wire00_title">Underground wires</string>
+    <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
+    <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
+    <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
+
+
+    <string name="tool_removeuwire_title">Underground wires</string>
+    <string name="tool_removeuwire_text">This tool removes underground wires.</string>
+
+
+    <string name="draft_aircraft_boneyard00_title">Aircraft boneyard</string>
+    <string name="draft_aircraft_boneyard00_text">A place for retired aircraft. It\'s dirty but produces some income.</string>
+    <string name="notify_tutorial_reminder_title">Time to get started</string>
+    <string name="notify_tutorial_reminder_text">Hey mayor, did you forget about your mission to build a great city?</string>
+    <string name="dialog_insufficientspace_title">We\'re running out of space</string>
+    <string name="dialog_insufficientspace_text">There\'s not much free space left on your device (%,d MB).\n\nCities might not be saved due to insufficient space!</string>
+    <string name="dialog_insufficientspace_cmdproceed">Proceed at own risk</string>
+    <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
+    <string name="draft_sydneyoperahouse00_text">The Sydney Opera House is a multi-venue performing arts centre that is located in Sydney, Australia. It was completed in 1973 and has a height of 65 meters.</string>
+    <string name="draft_onerafflesplace00_title">One Raffles Place</string>
+    <string name="draft_onerafflesplace00_text">The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.</string>
+    <string name="draft_willistower00_title">Willis Tower</string>
+    <string name="draft_willistower00_text">The Willis Tower (also known as Sears Tower) is a skyscraper that is located in Chicago, United States. The tower was built in 1973 and is 442 meters high.</string>
+    <string name="draft_feature_landmarks01_title">Landmarks II</string>
+    <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
 
 </resources>
