@@ -13,9 +13,9 @@
     <string name="welcome_agree">Kabul Ediyorum</string>
     <string name="welcome_content">TheoTown\'a hoşgeldin
 
-\n\nBu uygulama şuanda geliştirme aşamasında. Hala ufak tefek hatalar olabilir. Bu yüzden lütfen düşük oy vermeyin. Ücretsiz olduğunu aklınızda tutun.
+\n\nBu uygulama şu anda geliştirme aşamasında. Hala ufak tefek hatalar olabilir. Bu yüzden lütfen düşük oy vermeyin. Bu uygulamanın ücretsiz olduğunu aklınızda bulundurun.
 
-\n\nEğer bu uygulamayı sevdiyseniz, bize destek olmak için arkadaşlarınıza oyundan bahsedebilirsiniz.
+\n\nEğer bu uygulamayı sevdiyseniz, bize destek olmak için arkadaşlarınıza bu oyundan bahsedebilirsiniz.
 
 \n\nİyi eğlenceler :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -48,7 +48,7 @@
     <string name="settings_drawwatersparkle">Su parıldamasını göster</string>
     <string name="settings_drawmapedges">Harita kenarlarını göster</string>
     <string name="settings_hideads_title">Reklamı Gizle</string>
-    <string name="settings_hideads_text">Reklamı gizlemek istiyorsanız uygulamamızdan arkadalarınıza bahsederek bize destek olabilirsiniz.
+    <string name="settings_hideads_text">Reklamları gizlemek istiyorsanız uygulamamızdan arkadaşlarınıza bahsederek bize destek olabilirsiniz.
 
 \n\nEmin misiniz?</string>
     <string name="settings_hideads_yes">Evet, Eminim</string>
@@ -59,13 +59,13 @@
     <string name="dialog_screenshot_title">Ekran görüntüsü alındı</string>
     <string name="dialog_screenshot_text">Resim %1$s haydedildi.</string>
     <string name="dialog_screenshot_cmdok">Tamam, teşekkürler</string>
-    <string name="draftselector_titleparks">parklar</string>
-    <string name="draftselector_titlepublics">toplum</string>
-    <string name="draftselector_titleenergy">enerji</string>
-    <string name="draftselector_titlewater">su</string>
-    <string name="draftselector_titleschool">eğitim</string>
-    <string name="draftselector_titlehealth">sağlık</string>
-    <string name="draftselector_titlepolice">polis</string>
+    <string name="draftselector_titleparks">Parklar</string>
+    <string name="draftselector_titlepublics">Toplum</string>
+    <string name="draftselector_titleenergy">Enerji</string>
+    <string name="draftselector_titlewater">Su</string>
+    <string name="draftselector_titleschool">Eğitim</string>
+    <string name="draftselector_titlehealth">Sağlık</string>
+    <string name="draftselector_titlepolice">P olis</string>
     <string name="draftselector_titlefiredepartment">itfaiye</string>
     <string name="draftselector_cmdbuild">İnşa Et</string>
     <string name="draftselector_price">Ücret: %s</string>
@@ -883,8 +883,8 @@
     <string name="gamemode_sandbox_desc">Paranın sınırsız olduğu bir oyun modu. Rütbeler yoktur ve başarımlar azaltılmıştır.</string>
     <string name="gamemode_easy_desc">Bu oyun modunda fazla miktarda para ile başlarsınız. Daha kolaydır.</string>
     <string name="gamemode_middle_desc">Varsayılan oyun modu. İyi bir miktar parayla oyuna başlarsınız. Hayallerinizdeki şehri kurmak o kadar zor olmamalı.</string>
-    <string name="gamemode_hard_desc">TheoTown\'da profesyonel misin? O zaman bu oyun modu tam sana göre. Az miktar parayla başlarsın ve bu daha zor olacak.</string>
-    <string name="dialog_ffwd_title">Fast forward</string>
+    <string name="gamemode_hard_desc">TheoTown\'da profesyonel misin? O zaman bu oyun modu tam sana göre. Oyuna az miktar parayla başlarsın ve ilerlemek olduğundan daha zor olacak.</string>
+    <string name="dialog_ffwd_title">Hızlı Çekim</string>
     <string name="dialog_ffwd_text">%1$,d gün için daha hızlı oyun simulasyonu.</string>
     <string name="dialog_ffwd_cmdplayad">Video reklam</string>
     <string name="game_ramaining_ffwd">%1$,d hızlı simülasyon günü kaldı.</string>
@@ -1109,8 +1109,8 @@
     <string name="draft_feature_time00_text">Sınırlı bir süreliğine size zamanı kontrol edebilme özelliğini verir.</string>
     <string name="draft_feature_time01_title">Geliştirilmiş zaman kontrolü</string>
     <string name="draft_feature_time01_text">Süper hızlı oyun hızını daha uzun süreli yapar.</string>
-    <string name="draft_feature_time02_title">Zaman KONTROLCÜSÜ</string>
-    <string name="draft_feature_time02_text">Sen artık tamamen bir zaman kontrolcüsün. Daha uzun süre zamanı kontrol edebilmeni sağlar.</string>
+    <string name="draft_feature_time02_title">SÜPER ZAMAN KONTROLCÜSÜ</string>
+    <string name="draft_feature_time02_text">Sen artık tamamen bir zaman kontrolcüsüsün. Daha uzun süre zamanı kontrol edebilmeni sağlar.</string>
 
     <string name="draft_feature_weather_machine00_title">Hava durumu makinesi</string>
     <string name="draft_feature_weather_machine00_text">Çok gizli bir hava durumu makinesi. Hava durumunu kontrol edebilmeni sağlar.</string>
@@ -1123,9 +1123,9 @@
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bu simülasyonda kendi şehrini yarat.</string>
 
-    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binala kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
+    <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binalar kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
 
-Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritaları yükleyecektir ve sende bunlara erişebileceksin.</string>
+Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritalarını yükleyecektir ve sen de bunlara erişebileceksin.</string>
 
     <string name="settings_sound_weather">Hava durumu</string>
 
@@ -1239,78 +1239,78 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="topic_code">Şimdi 5% daha fazla kodla!</string>
     <string name="topic_banana">Muz</string>
     <string name="topic_finish">Hadi bu cümleyi biti</string>
-    <string name="topic_threed">"Sadece bunu 3 boyutlu yap"</string>
+    <string name="topic_threed">"Tek yapman gereken bunu 3 boyutlu yapmak"</string>
     <string name="topic_work">Zor çalışma izlerini içerebilir</string>
     <string name="topic_funfun">Şimdi daha zevkli</string>
 
-    <string name="settings_lesscars">Traffic volume</string>
-    <string name="settings_uploadgameplay">Upload gameplay (your id: %s)</string>
-    <string name="settings_uploadgameplaymobile">Allow gameplay upload without Wifi connection (may be expensive!)</string>
-    <string name="createcity_sizebigbigextra">Colossal</string>
-    <string name="settings_uploadgameplay_quality">Upload quality</string>
-    <string name="settings_uploadgameplay_qlow">Bad</string>
-    <string name="settings_uploadgameplay_qmedium">Medium</string>
-    <string name="settings_uploadgameplay_qhigh">High</string>
-    <string name="dialog_addairplane_title">Add airplane</string>
-    <string name="draftselector_airplane_buy">Buy</string>
-    <string name="dialog_airplanes_title">Your airplanes</string>
-    <string name="dialog_airplanes_cmdadd">Add</string>
-    <string name="dialog_airplanes_usethis">Use this one</string>
-    <string name="dialog_airplanes_selected">Current</string>
-    <string name="dialog_airplanes_inuse">In use</string>
-    <string name="dialog_renameairplane_title">Rename airplane</string>
-    <string name="dialog_renameairplane_text">Enter a new name for your airplane:</string>
+    <string name="settings_lesscars">Trafik sesi</string>
+    <string name="settings_uploadgameplay">Oynanışı yükle (id: %s)</string>
+    <string name="settings_uploadgameplaymobile">Wi-Fi olmadan oynanışı yüklemeye izin ver (pahalıya patlayabilir!)</string>
+    <string name="createcity_sizebigbigextra">Devasa</string>
+    <string name="settings_uploadgameplay_quality">Yükleme kalitesi</string>
+    <string name="settings_uploadgameplay_qlow">Kötü</string>
+    <string name="settings_uploadgameplay_qmedium">Orta</string>
+    <string name="settings_uploadgameplay_qhigh">İyi</string>
+    <string name="dialog_addairplane_title">Uçak ekle</string>
+    <string name="draftselector_airplane_buy">Satın Al</string>
+    <string name="dialog_airplanes_title">Uçakların</string>
+    <string name="dialog_airplanes_cmdadd">Ekle</string>
+    <string name="dialog_airplanes_usethis">Bunu kullan</string>
+    <string name="dialog_airplanes_selected">Geçerli</string>
+    <string name="dialog_airplanes_inuse">Kullanımda</string>
+    <string name="dialog_renameairplane_title">Uçağı yeniden adlandır</string>
+    <string name="dialog_renameairplane_text">Uçağın için yeni bir ad yaz:</string>
     <string name="draft_airplane00_title">T340</string>
-    <string name="draft_airplane00_text">A long range airplane from TheoAir.</string>
-    <string name="draft_prm_airplane00_title">T340 Gold</string>
-    <string name="draft_prm_airplane00_text">A golden variant of the long range airplane from TheoAir.</string>
-    <string name="draftselector_airplane_passenger">Passengers: %1$,d</string>
-    <string name="draft_ap_deco00_title">Airport decoration</string>
-    <string name="draft_ap_deco00_text">Make your airport more realistic with these decorations.</string>
-    <string name="airport_needtower_title">No tower</string>
-    <string name="airport_needtower_text">You have to build a tower in oder to control your airport</string>
-    <string name="airport_needworkingtower_title">Tower not working</string>
-    <string name="airport_needworkingtower_text">You have to ensure that your tower is working</string>
-    <string name="airport_needworkingtower_cmdshow">Show</string>
-    <string name="ci_airport_newlane_title">New lane</string>
-    <string name="ci_airport_newlane_text">Add a new lane for your airport</string>
-    <string name="ci_airport_onelaneatatime">Only one lane at a time can be added</string>
-    <string name="ci_airport_cmdunlock">Unlock</string>
-    <string name="ci_airport_cmdlocked">Locked</string>
-    <string name="ci_airport_unlocking">Unlocking</string>
-    <string name="ci_airport_cmdspeedup">Speed up</string>
-    <string name="dialog_renamelane_title">Rename lane</string>
-    <string name="dialog_renamelane_text">Enter a new name for your lane:</string>
-    <string name="dialog_redeemcode_title">Redeem code</string>
-    <string name="dialog_redeemcode_text">Enter your redeem code here to redeem it:</string>
-    <string name="dialog_redeemcode_cmdredeem">Redeem</string>
-    <string name="dialog_redeemsuccess_title">Success</string>
-    <string name="dialog_redeemsuccess_text">Congratulations, you just got %1$s diamonds :)</string>
-    <string name="dialog_redeemfailure_title">Failure</string>
-    <string name="dialog_redeemfialire_text">The entered redeem code could not be redeemed. Please check for typing errors.</string>
-    <string name="shop_redeemcode">Redeem code</string>
-    <string name="draft_ap_tower00_title">Tower</string>
-    <string name="draft_ap_tower00_text">An airport needs at least one tower to work properly.</string>
-    <string name="draft_ap_hall00_title">Entry</string>
-    <string name="draft_ap_hall00_text">An airport needs an entry so people can come into it.</string>
-    <string name="draft_ap_gate00_title">Gate</string>
-    <string name="draft_ap_gate00_text">Gates are needed for incoming/outgoing passengers.</string>
-    <string name="draft_ap_field00_title">Runway</string>
-    <string name="draft_ap_field00_text">A runway where planes can start and land. Minimum length is 12.</string>
-    <string name="settings_usezoneradius">Use zone radius</string>
+    <string name="draft_airplane00_text">TheoAir\'den uzak mesafelere uçabilen bir uçak.</string>
+    <string name="draft_prm_airplane00_title">Altın T340</string>
+    <string name="draft_prm_airplane00_text">TheoAir\'den uzak mesafelere uçabilen altın bir uçak.</string>
+    <string name="draftselector_airplane_passenger">%1$,d yolcu</string>
+    <string name="draft_ap_deco00_title">Havaalanı dekorasyonu</string>
+    <string name="draft_ap_deco00_text">Havaalanını bu dekorasyonlarla daha gerçekçi yap.</string>
+    <string name="airport_needtower_title">Kule yok</string>
+    <string name="airport_needtower_text">Havaalanını kontrol edebilmek için bir kule kurman gerekiyor.</string>
+    <string name="airport_needworkingtower_title">Kule çalışmıyor</string>
+    <string name="airport_needworkingtower_text">Kulenin çalıştığından emin olmalısın.</string>
+    <string name="airport_needworkingtower_cmdshow">Göster</string>
+    <string name="ci_airport_newlane_title">Yeni pist</string>
+    <string name="ci_airport_newlane_text">Havaalanın için yeni bir pist ekle.</string>
+    <string name="ci_airport_onelaneatatime">Aynı anda birden çok pist ekleyemezsin.</string>
+    <string name="ci_airport_cmdunlock">Kilidi aç</string>
+    <string name="ci_airport_cmdlocked">Kilitli</string>
+    <string name="ci_airport_unlocking">Kilit açılıyor</string>
+    <string name="ci_airport_cmdspeedup">Hızlandır</string>
+    <string name="dialog_renamelane_title">Pisti yeniden adlandır</string>
+    <string name="dialog_renamelane_text">Pistin için yeni bir ad gir:</string>
+    <string name="dialog_redeemcode_title">Kod kullan</string>
+    <string name="dialog_redeemcode_text">Almak için elinde olan kodu gir:</string>
+    <string name="dialog_redeemcode_cmdredeem">Al</string>
+    <string name="dialog_redeemsuccess_title">Başarı</string>
+    <string name="dialog_redeemsuccess_text">Hayırlı olsun, %1$s tane elmas kazandınız :)</string>
+    <string name="dialog_redeemfailure_title">Başarısız</string>
+    <string name="dialog_redeemfialire_text">Girdiğin kod kullanılamıyor. Lütfen doğru olup olmadığını kontrol et.</string>
+    <string name="shop_redeemcode">Kod kullan</string>
+    <string name="draft_ap_tower00_title">Kule</string>
+    <string name="draft_ap_tower00_text">Bir havaalanının doğru dürüst çalışabilmesi için en az 1 kule gerekir.</string>
+    <string name="draft_ap_hall00_title">Giriş</string>
+    <string name="draft_ap_hall00_text">Bir havaalanının en az 1 girişe ihtiyacı vardır ki yolcular gelebilsin.</string>
+    <string name="draft_ap_gate00_title">Gişe</string>
+    <string name="draft_ap_gate00_text">Gişeler gelen ve giden yolcular için gereklidir.</string>
+    <string name="draft_ap_field00_title">Pist</string>
+    <string name="draft_ap_field00_text">Bir uçağın inip kalkması için piste ihtiyacı vardır. En az 12lik bir pist oluşturabilirsin.</string>
+    <string name="settings_usezoneradius">Alanın çevresini kullan</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">A double-deck, long range airplane from TheoAir. It has a lot of space.</string>
-    <string name="dialog_waitingtime_title">Reduce waiting time</string>
-    <string name="dialog_waitingtime_text">Would you like to shorten this waiting time a bit?\n%1$s left.</string>
+    <string name="draft_airplane01_text">TheoAir\'den çift katlı, uzun mesafelere gidebilen bir uçak. Normalden fazla yolcu alabilir.</string>
+    <string name="dialog_waitingtime_title">Bekleme zamanını azalt</string>
+    <string name="dialog_waitingtime_text">Bunun için bekleme zamanını azaltmak istediğine emin misin? \n%1$s kadar kaldı.</string>
 
-    <string name="topic_rate">Please help us and rate TheoTown</string>
-    <string name="ci_airport_lane_unassign">Discard</string>
-    <string name="tool_airplanelane_title">Tap on a free lane</string>
-    <string name="draft_feature_starter_pack00_title">Starter Pack</string>
-    <string name="draft_feature_starter_pack00_text">With the Starter Package you\'ll receive:</string>
-    <string name="pluginerror_cmdchecksyntax">Check syntax online</string>
+    <string name="topic_rate">Lütfen TheoTown\'u oylayarak bize destekte bulunun</string>
+    <string name="ci_airport_lane_unassign">Sil</string>
+    <string name="tool_airplanelane_title">Açık olan bir piste dokun.</string>
+    <string name="draft_feature_starter_pack00_title">Başlangıç paketi</string>
+    <string name="draft_feature_starter_pack00_text">Başlangıç paketiyle alacaklarınız:</string>
+    <string name="pluginerror_cmdchecksyntax">Sözdizimini çevrimiçi kontrol et</string>
 
-    <string name="fb_login_title">Connect with Facebook</string>
+    <string name="fb_login_title">Facebook ile bağlan</string>
     <string name="fb_login_text">Login so that we can synchronize your profile.</string>
     <string name="fb_login_cancel">Cancel</string>
     <string name="toast_seed_copy">Copied seed into clipboard</string>
@@ -1602,3 +1602,4 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
 
 </resources>
+
