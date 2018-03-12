@@ -2,6 +2,7 @@
 Here everybody can help to localize TheoTown to other languages.
 
 Every directory contains a values.xml file. The corresponding languages are:</br>
+values-ca: Catalan</br>
 values-cs: Czech</br>
 values-de: German <- Always up to date</br>
 values-es: Spanish</br>
@@ -29,6 +30,7 @@ English and German translations will always be up to date. The others can be bui
 
 How translation works:</br>
 Each values.xml file contains lines of the form<br>
-<em>\<tagname\></em>My translation<em>\</tagname\></em><br>
+<em>\<tagname\></em>"My translation"<em>\</tagname\></em><br>
 You have just to translate the part in between (here "My Translation"). Special characters like \n might be used to indicate a new line.
-
+And, your translation is done, make sure create a 'pull request' to it can be combined to main branch. 
+If you does not creat this, Your translation will not add to main branch.
