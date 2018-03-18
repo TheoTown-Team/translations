@@ -60,7 +60,7 @@
     <string name="dialog_screenshot_text">다음과 같이 저장되었습니다: %1$s.</string>
     <string name="dialog_screenshot_cmdok">네. 감사합니다.</string>
     <string name="draftselector_titleparks">공원</string>
-    <string name="draftselector_titlepublics">공공</string>
+    <string name="draftselector_titlepublics">공공시설물</string>
     <string name="draftselector_titleenergy">전력</string>
     <string name="draftselector_titlewater">수도</string>
     <string name="draftselector_titleschool">교육</string>
@@ -680,8 +680,8 @@
     <string name="toolremove_zone_text">이 도구로 영역 지정을 해제하세요.</string>
     <string name="budget_rail">경전철 선로</string>
     <string name="budget_railstation">역</string>
-    <string name="draft_marker_ticketmarker_title">서비스 제공 만족도</string>
-    <string name="draft_marker_ticketmarker_text">시에서 제공하는 공공서비스 만족도 표시.</string>
+    <string name="draft_marker_ticketmarker_title">도시기반시설 만족도</string>
+    <string name="draft_marker_ticketmarker_text">도시기반시설을 통해 시에서 제공하는 공공서비스 만족도 표시.</string>
     <string name="trainstationinfo_usage">대기자: %2$,d/%3$,d\n이용도: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">119 안전센터</string>
     <string name="draft_firedepartment01_text">화제를 예방,진압 합니다. 작은범위에 차량은 한대뿐 입니다</string>
@@ -820,8 +820,8 @@
     <string name="rank_reward">보상으로 %1$s 얻음.</string>
     <string name="rank_newrank">축하드립니다! %1$s에서 새로운 랭크에 도달하였습니다:</string>
     <string name="rank_available">%1$s이 사용 가능해졌습니다.</string>
-    <string name="draftselector_titlemilitary">군대</string>
-    <string name="draft_zonemilitary_title">군대 구역</string>
+    <string name="draftselector_titlemilitary">군사</string>
+    <string name="draft_zonemilitary_title">군사 구역</string>
     <string name="draft_mltry_tankbase00_title">탱크기지</string>
     <string name="draft_mltry_hq00_title">참모본부</string>
     <string name="draft_mltry_baracks00_title">생활관</string>
@@ -838,16 +838,16 @@
     <string name="requirement_feature">%s가 필요함</string>
     <string name="draft_feature_military00_title">군사기지</string>
     <string name="draft_feature_airport00_title">공항</string>
-    <string name="draft_feature_buildings00_title">빌딩 패키지 1</string>
-    <string name="draft_feature_buildings01_title">빌딩 패키지 2</string>
-    <string name="draft_feature_buildings02_title">빌딩 패키지 3</string>
-    <string name="draft_feature_services00_title">서비스 패키지</string>
+    <string name="draft_feature_buildings00_title">빌딩 패키지 제 1번</string>
+    <string name="draft_feature_buildings01_title">빌딩 패키지 제 2번</string>
+    <string name="draft_feature_buildings02_title">빌딩 패키지 제 3번</string>
+    <string name="draft_feature_services00_title">도시기반시설 패키지</string>
     <string name="draft_feature_tourism00_title">관광 패키지</string>
     <string name="draft_feature_premium00_title">프리미엄</string>
     <string name="features_money">%2$s로 %1$s얻기</string>
     <string name="features_getrank">다이아몬드로 얻기</string>
     <string name="settings_hide_rank_features">랭크 업그레이드 숨기기</string>
-    <string name="draftselector_titleairport">공항</string>
+    <string name="draftselector_titleairport">항공</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">미확인 비행 물체가 당신의 도시를 침공합니다!!</string>
     <string name="disaster_ufo_cmdtext">타겟 지정</string>
@@ -1462,7 +1462,7 @@
     <string name="settings_saveforscreenshot">스크린샷 저장</string>
     <string name="draft_eiffeltower00_title">에펠탑</string>
     <string name="draft_eiffeltower00_text">에펠탑(Tour Eiffel)은 파리에 위치한 가장 눈에 띄는 프랑스의 렌드마크입니다. 324m 에 1889년 완공된, 만국박람회의 입구로서, 귀스타브 에펠이 설계한 건축물입니다.</string>
-    <string name="dialog_wb_text02">당신이 부재중이었던 동안 %1$s 에서 얻은 수익을 가지길 원하신가요?\n\n%2$s</string>
+    <string name="dialog_wb_text02">부재중이었던 동안 %1$s에서 얻은 수익을 얻길 원하시나요?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">가지기</string>
     <string name="dialog_wb_cmdforfeit">버리기</string>
     <string name="dialog_diamondtool_title">건설 완료</string>
@@ -1508,7 +1508,7 @@
     <string name="draft_draft_htr_text">교통에 대한 만족도.</string>
     <string name="draft_draft_hzn_title">구역 만족도</string>
     <string name="draft_draft_hzn_text">근처의 구역에 대한 만족도.</string>
-    <string name="draft_draft_hspl_title">공급 만족도</string>
+    <string name="draft_draft_hspl_title">공급 및 환경기초 만족도</string>
     <string name="draft_draft_hspl_text">사용 가능한 전력과 수도에 대한 만족도.</string>
     <string name="draft_draft_hft_title">여가 시간 만족도</string>
     <string name="draft_draft_hft_text">여가 시간을 위한 시설에 대한 만족도.</string>
@@ -1602,23 +1602,23 @@
     <string name="draft_feature_landmarks01_text">영구적으로 사용할 수 있는 다음 건물을 포함합니다.:</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
-    <string name="draft_cat_bus00_title">Bus</string>
-    <string name="draft_cat_train00_title">Train</string>
-    <string name="draft_cat_recent00_title">Recent</string>
-    <string name="draft_cat_service00_title">Services</string>
-    <string name="draft_tool_eyedropper00_title">Eyedropper</string>
-    <string name="draft_tool_eyedropper00_text">Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.</string>
-    <string name="draft_cat_level00_title">Level Ͳ</string>
-    <string name="draft_cat_level01_title">Level ͲͲ</string>
-    <string name="draft_cat_level02_title">Level ͲͲͲ</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
-    <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
+    <string name="draft_cat_supply00_title">공급 및 환경기초</string>
+    <string name="draft_cat_road00_title">도로</string>
+    <string name="draft_cat_bus00_title">버스</string>
+    <string name="draft_cat_train00_title">철도</string>
+    <string name="draft_cat_recent00_title">최근</string>
+    <string name="draft_cat_service00_title">도시기반시설</string>
+    <string name="draft_tool_eyedropper00_title">스포이드</string>
+    <string name="draft_tool_eyedropper00_text">특별한 건물이나 도로를 다시 건설하고 싶으신가요? 이 도구를 사용하여 탭해보세요. 모든 구조물이 지원되지 않습니다.</string>
+    <string name="draft_cat_level00_title">Ͳ 수준</string>
+    <string name="draft_cat_level01_title">ͲͲ 수준</string>
+    <string name="draft_cat_level02_title">ͲͲͲ 수준</string>
+    <string name="draft_tool_movebuilding00_title">건물 이동</string>
+    <string name="draft_tool_movebuilding00_text">순서대로 건물을 선택하여 새로운 장소로 옮길 수 있습니다. 모든 건물이 이동되지 않을 수 있습니다.</string>
+    <string name="tool_movebuilding_cmd">건물 선택하기</string>
 
 
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">전체</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
