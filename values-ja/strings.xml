@@ -333,7 +333,7 @@
     <string name="draft_pool00_text">市民プールがあったら住民達は喜ぶでしょう</string>
     <string name="draft_pool00_waterslide_title">ウオータースライド</string>
     <string name="draft_pool00_waterslide_text">ウオータースライドと日傘</string>
-    <string name="blank_text">The Soviet Bears coming !!</string>
+    <string name="blank_text">ここにあなたの広告を掲示することができます</string>
     <string name="draft_middlepark00_title">中央公園</string>
     <string name="draft_middlepark00_text">住民達は喜ぶでしょう</string>
     <string name="draft_basketball00_title">バスケットボールコート</string>
@@ -390,10 +390,10 @@
     <string name="happiness_zone">地区</string>
     <string name="buildinginfo_happiness_comp">最低満足度: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">宗教</string>
-    <string name="draft_church01_title">教会</string>
+    <string name="draft_church01_title">大きな教会。街の信者も喜ぶでしょう</string>
     <string name="draft_church01_text">大きな教会</string>
-    <string name="draft_mosque00_title">モスク</string>
-    <string name="draft_mosque00_text">大きなモスク</string>
+    <string name="draft_mosque00_title">大きなモスク</string>
+    <string name="draft_mosque00_text">大きなモスク。街の信者も喜ぶでしょう</string>
     <string name="settings_carsimulation">Car simulation</string>
     <string name="settings_weather">天気</string>
     <string name="topic_christmas">メリークリスマス!</string>
@@ -534,10 +534,10 @@
     <string name="requirement_building">必要: %1$s</string>
     <string name="draftselector_onlyone">1回のみ構築することができます</string>
     <string name="draftselector_onlyn">%1$,d回しか建設できません</string>
-    <string name="draft_church02_title">小さな教会</string>
-    <string name="draft_church02_text">小さな町のための教会</string>
-    <string name="draft_mosque01_title">小さなモスク</string>
-    <string name="draft_mosque01_text">小さな町のためのモスク</string>
+    <string name="draft_church02_title">教会</string>
+    <string name="draft_church02_text">街のための教会</string>
+    <string name="draft_mosque01_title">モスク</string>
+    <string name="draft_mosque01_text">街のためのモスク</string>
     <string name="settings_sound_ui">UIサウンド</string>
     <string name="settings_sound_game">インゲーム サウンド</string>
     <string name="settings_preserveedges">エッジを保持する</string>
@@ -680,8 +680,8 @@
     <string name="toolremove_zone_text">地区を撤去するには、このツールを使用します </string>
     <string name="budget_rail">線路</string>
     <string name="budget_railstation">鉄道駅</string>
-    <string name="draft_marker_ticketmarker_title">チケット</string>
-    <string name="draft_marker_ticketmarker_text">チケットの満足度を示します</string>
+    <string name="draft_marker_ticketmarker_title">券</string>
+    <string name="draft_marker_ticketmarker_text">券の満足度を示します</string>
     <string name="trainstationinfo_usage">待っている: %2$,d/%3$,d\n使用率: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">小さな消防署</string>
     <string name="draft_firedepartment01_text">火災防止</string>
@@ -1399,49 +1399,49 @@
     <string name="dialog_externalstorage_text">TheoTownはあなたの街を保存するために外部ストレージにアクセスする必要があります</string>
     <string name="dialog_externalstorage_cancel">キャンセル</string>
     <string name="dialog_externalstorage_retry">リトライ</string>
-    <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
-    <string name="notify_disaster_flooding">City under water!</string>
-    <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
-    <string name="notify_disaster_nuke">We have a nuclear explosion right here!</string>
-    <string name="notify_disaster_tornado">It\'s more than windy here!</string>
-    <string name="notify_disaster_ufo">Aliens attack!</string>
+    <string name="notify_disaster_earthquake">地震が発生しました！</string>
+    <string name="notify_disaster_flooding">洪水が起こりました！</string>
+    <string name="notify_disaster_meteorite">空から石が降ってきた！</string>
+    <string name="notify_disaster_nuke">今、核爆発が起こりました！</string>
+    <string name="notify_disaster_tornado">街の近くで少し危ない風が吹いております！</string>
+    <string name="notify_disaster_ufo">宇宙人が攻めてきました！</string>
     <string name="settings_download_static_files">Download static files</string>
     <string name="pluginerror_visitforum">Report on forum</string>
-    <string name="dialog_gameplay_title">Gameplay upload</string>
-    <string name="dialog_gameplay_text">By enabling gameplay upload you allow us to upload your gameplay to our servers. See the disclaimer for more information.</string>
-    <string name="control_enable">Enable</string>
-    <string name="dialog_gameplay_disclaimer">Show disclaimer</string>
-    <string name="busgame_newbus">Add %d. bus</string>
-    <string name="busgame_route">Route</string>
-    <string name="busgame_speed">Speed</string>
+    <string name="dialog_gameplay_title">ゲームプレイをアップロード</string>
+    <string name="dialog_gameplay_text">ゲームプレイのアップロードを有効にすることで、ゲームプレイをサーバーにアップロードすることができます。 詳細については、免責条項を参照してください</string>
+    <string name="control_enable">有効にする</string>
+    <string name="dialog_gameplay_disclaimer">免責条項を参照する</string>
+    <string name="busgame_newbus">バス %d号を追加する</string>
+    <string name="busgame_route">経路</string>
+    <string name="busgame_speed">速度</string>
     <string name="busgame_speed_unit">m/s</string>
-    <string name="busgame_capacity">Capacity</string>
-    <string name="busgame_capacity_unit">pl</string>
-    <string name="busgame_income">Income</string>
-    <string name="busgame_currency">Tickets</string>
-    <string name="busgame_upgrade">Upgrade</string>
-    <string name="busgame_upgrade_title">Level %d</string>
-    <string name="busgame_unlock">Unlock</string>
-    <string name="draft_small_church00_title">Neighborhood Church</string>
+    <string name="busgame_capacity">乗客数</string>
+    <string name="busgame_capacity_unit">人</string>
+    <string name="busgame_income">収入</string>
+    <string name="busgame_currency">券</string>
+    <string name="busgame_upgrade">アップグレート</string>
+    <string name="busgame_upgrade_title">レベル %d</string>
+    <string name="busgame_unlock">解除</string>
+    <string name="draft_small_church00_title">小さな教会</string>
     <string name="draft_small_church00_text">Some faith for your citizens.</string>
-    <string name="draft_small_mosque00_title">Neighborhood Mosque</string>
+    <string name="draft_small_mosque00_title">小さなモスク</string>
     <string name="draft_small_mosque00_text">Some faith for your citizens.</string>
 
 
-    <string name="minigame_reachlevel">Reach level %d</string>
-    <string name="minigame_price">Price</string>
-    <string name="minigame_time">Time</string>
-    <string name="busgame_unlockimmediately_title">Unlock immediately</string>
-    <string name="busgame_unlockimmediately_text">Would you like to unlock this bus immediately?</string>
-    <string name="dialog_dbuilding_title">Build here</string>
-    <string name="dialog_dbuilding_text">Do you want to place this building here? We will finish the building immediately for you.</string>
-    <string name="dialog_performance_title">Performance</string>
-    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
-    <string name="draft_brandenburgertor00_text">The Brandenburg Gate is a German landmark that was built in the 18th century. It\'s located in Berlin.</string>
+    <string name="minigame_reachlevel">レベル %d に到達する</string>
+    <string name="minigame_price">値段</string>
+    <string name="minigame_time">時間</string>
+    <string name="busgame_unlockimmediately_title">今すぐ解除する</string>
+    <string name="busgame_unlockimmediately_text">今すぐこのバスを解除したいですか？</string>
+    <string name="dialog_dbuilding_title">ここに建設する</string>
+    <string name="dialog_dbuilding_text">この建物をここに建てたいですか？ すぐに建物を完成させます</string>
+    <string name="dialog_performance_title">パフォーマンス</string>
+    <string name="draft_brandenburgertor00_title">ブランデンブルク門</string>
+    <string name="draft_brandenburgertor00_text">ブランデンブルク門は、18世紀に建てられたドイツのランドマークです。 それはベルリンにあります</string>
 
 
-    <string name="control_accept">Accept</string>
-    <string name="control_dismiss">Dismiss</string>
+    <string name="control_accept">同意する</string>
+    <string name="control_dismiss">却下する</string>
     <string name="settings_citytasks">Tasks</string>
     <string name="dialog_disabletasks_title">Disable tasks</string>
     <string name="dialog_disabletasks_text">You dismissed multiple tasks, so would you like to disable them for this city?</string>
@@ -1564,23 +1564,23 @@
 
     <string name="dialog_adreward_title">Rewarded ad</string>
     <string name="dialog_adreward_text">Want to get some diamonds for free by watching an ad?</string>
-    <string name="dialog_adreward_cmdwatch">Get them now</string>
-    <string name="draftselector_titlelandmark">Landmarks</string>
+    <string name="dialog_adreward_cmdwatch">今すぐ手に入れる</string>
+    <string name="draftselector_titlelandmark">ランドマーク</string>
     <string name="draft_bigben00_title">Big Ben</string>
     <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
     <string name="draft_angelofindependence00_title">Angel of Independence</string>
     <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
     <string name="draft_statueofliberty00_title">Statue of Liberty</string>
     <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
-    <string name="draft_decorustywatertower00_title">Rusty water tower</string>
-    <string name="draft_decorustywatertower00_text">An old and rusty water tower. It does absolutely nothing.</string>
-    <string name="draft_underground_wire00_title">Underground wires</string>
-    <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
-    <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
-    <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_decorustywatertower00_title">錆びた貯水塔</string>
+    <string name="draft_decorustywatertower00_text">古い錆びた貯水塔。現在は使用されていないまま放置されている</string>
+    <string name="draft_underground_wire00_title">地下電線</string>
+    <string name="draft_underground_wire00_text">通常の電線のように働きますが、地下に置かれているので誰も見ることはありません</string>
+    <string name="draft_feature_freedombuildings00_title">ランドマーク I</string>
+    <string name="draft_feature_freedombuildings00_text">以下の建物が含まれています：</string>
 
 
-    <string name="tool_removeuwire_title">Underground wires</string>
+    <string name="tool_removeuwire_title">地下電線</string>
     <string name="tool_removeuwire_text">This tool removes underground wires.</string>
 
 
@@ -1597,58 +1597,58 @@
     <string name="draft_onerafflesplace00_text">The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.</string>
     <string name="draft_willistower00_title">Willis Tower</string>
     <string name="draft_willistower00_text">The Willis Tower (also known as Sears Tower) is a skyscraper that is located in Chicago, United States. The tower was built in 1973 and is 442 meters high.</string>
-    <string name="draft_feature_landmarks01_title">Landmarks II</string>
-    <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_feature_landmarks01_title">ランドマーク II</string>
+    <string name="draft_feature_landmarks01_text">以下の建物が含まれています：</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
-    <string name="draft_cat_bus00_title">Bus</string>
-    <string name="draft_cat_train00_title">Train</string>
-    <string name="draft_cat_recent00_title">Recent</string>
+    <string name="draft_cat_supply00_title">供給</string>
+    <string name="draft_cat_road00_title">道路</string>
+    <string name="draft_cat_bus00_title">バス</string>
+    <string name="draft_cat_train00_title">電車</string>
+    <string name="draft_cat_recent00_title">最近</string>
     <string name="draft_cat_service00_title">Services</string>
-    <string name="draft_tool_eyedropper00_title">Eyedropper</string>
-    <string name="draft_tool_eyedropper00_text">Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.</string>
-    <string name="draft_cat_level00_title">Level Ͳ</string>
-    <string name="draft_cat_level01_title">Level ͲͲ</string>
-    <string name="draft_cat_level02_title">Level ͲͲͲ</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
-    <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
+    <string name="draft_tool_eyedropper00_title">スポイト</string>
+    <string name="draft_tool_eyedropper00_text">特定の道路や建物をもう一度建設したいですか？ このツールを使用して、もう一度建設したい建物をタップして建設します</string>
+    <string name="draft_cat_level00_title">レベル Ͳ</string>
+    <string name="draft_cat_level01_title">レベル ͲͲ</string>
+    <string name="draft_cat_level02_title">レベル ͲͲͲ</string>
+    <string name="draft_tool_movebuilding00_title">建物を移動</string>
+    <string name="draft_tool_movebuilding00_text">新しい場所に移動するために建物を選択てください。 すべての建物を移動することはできません</string>
+    <string name="tool_movebuilding_cmd">建物を選択してください</string>
 
 
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">全て</string>
 
 
-    <string name="draft_cat_residential00_title">Res buildings</string>
-    <string name="draft_cat_commercial00_title">Com buildings</string>
-    <string name="draft_cat_industrial00_title">Ind buildings</string>
-    <string name="offerstage_saving">You save %d%%</string>
+    <string name="draft_cat_residential00_title">住 建設物</string>
+    <string name="draft_cat_commercial00_title">商 建設物</string>
+    <string name="draft_cat_industrial00_title">工 建設物</string>
+    <string name="offerstage_saving">%d%%引き</string>
     <string name="draft_pickle00_title">Almighty pickle</string>
     <string name="draft_pickle00_text">.</string>
 
 
-    <string name="settings_newtoolbar">Use toolbar</string>
+    <string name="settings_newtoolbar">新しいツールバーを使用する</string>
 
 
-    <string name="gallery">Gallery</string>
-    <string name="gallery_upload">Upload screenshot</string>
-    <string name="dialog_galleryupload_title">Uploading</string>
-    <string name="dialog_galleryupload_text">I\'m uploading your image :)</string>
-    <string name="gallery_recent">Recent</string>
-    <string name="gallery_trends">Trends</string>
-    <string name="gallery_own">Own</string>
-    <string name="dialog_gallerydelete_title">Delete Screenshot</string>
-    <string name="dialog_gallerydelete_text">Are you sure that you want to delete this screenshot? This cannot be undone!</string>
-    <string name="dialog_gallerydelete_cmd">Delete</string>
-    <string name="dialog_gallerypolicy_title">First things first</string>
-    <string name="dialog_gallerypolicy_text">Hi, I\'m glad that you\'d like to contribute to our gallery. However, before we can start you have to agree to our policy to allow us to upload screenshots for you.
+    <string name="gallery">ギャラリー</string>
+    <string name="gallery_upload">街の画像をアップロードする</string>
+    <string name="dialog_galleryupload_title">アップロード中...</string>
+    <string name="dialog_galleryupload_text">あなたの画像をアップロードしています :)</string>
+    <string name="gallery_recent">最近アップロードされた画像</string>
+    <string name="gallery_trends">急上昇</string>
+    <string name="gallery_own">自分の画像</string>
+    <string name="dialog_gallerydelete_title">画像を削除する</string>
+    <string name="dialog_gallerydelete_text">このスクリーンショットを削除してもよろしいですか？ これは、元に戻すことはできません！</string>
+    <string name="dialog_gallerydelete_cmd">削除</string>
+    <string name="dialog_gallerypolicy_title">まず初めに</string>
+    <string name="dialog_gallerypolicy_text">こんにちは、あなたが私たちのギャラリーに貢献したいと思っていることを嬉しく思っています。 ただし、開始する前に、画像をアップロードできるよう、私たちのポリシーに同意する必要があります
 
-\n\nOnly tap on agree if you agree to our policy for screenshot uploading.</string>
-    <string name="dialog_gallerypolicy_cmdpolicy">Open policy</string>
-    <string name="dialog_gallerypolicy_cmdok">I agree</string>
-    <string name="dialog_gallerypolicy_cmdcancel">I disagree</string>
-    <string name="settings_pushnotifications">Push notifications</string>
+\n\n画像のアップロードに関する私たちのポリシーに同意する場合にのみ同意を押してください</string>
+    <string name="dialog_gallerypolicy_cmdpolicy">ポリシーを読む</string>
+    <string name="dialog_gallerypolicy_cmdok">同意する</string>
+    <string name="dialog_gallerypolicy_cmdcancel">同意しない</string>
+    <string name="settings_pushnotifications">通知を送る</string>
     <string name="draft_leaningtowerofpisa00_title">Leaning Tower of Pisa</string>
     <string name="draft_leaningtowerofpisa00_text">The Leaning Tower of Pisa is a bell tower located in the Italian City of Pisa that was completed in 1372 and its height amounts to 56 meters.</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
