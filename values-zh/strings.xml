@@ -32,7 +32,7 @@
     <string name="settings_showads">显示广告</string>
     <string name="settings_music">音乐</string>
     <string name="settings_hideads_no">取消</string>
-    <string name="settings_drawcars">显示汽车</string>
+    <string name="settings_drawcars">显示车辆</string>
     <string name="settings_disaster_tornado">龙卷风</string>
     <string name="settings_disaster_earthquake">地震</string>
     <string name="settings_defaults">重置</string>
@@ -167,10 +167,10 @@
     <string name="savewaiting_title">保存城市</string>
     <string name="notify_pollution">我们收到了来自这个地区雪片般的关于污染的投诉，可能不久就会导致游行。</string>
     <string name="notify_noise">我们收到了这个地区的市民对噪音污染的投诉。</string>
-    <string name="notify_nowater">有的建筑物没有水!</string>
+    <string name="notify_nowater">这些建筑物没有水!</string>
     <string name="notify_citysize">恭喜! 你已经有了%1$,d居民!</string>
     <string name="menu_cmddonate">捐款</string>
-    <string name="menu_premium">Premium</string>
+    <string name="menu_premium">豪华版</string>
     <string name="loadcity_load">开始</string>
     <string name="influence_noise_title">噪音</string>
     <string name="influence_health_title">医疗保障</string>
@@ -241,13 +241,13 @@
     <string name="loadcity_memdialog_cmdok">无所谓ㅍ_ㅍ</string>
     <string name="loadcity_memdialog_cmdremind">提醒我</string>
     <string name="loadcity_errordialog_title">城市加载失败</string>
-    <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="loadcity_version">版本 %1$,d</string>
+    <string name="loadcity_kbsize">大小：%1$,d KB</string>
+    <string name="loadcity_version">版本：%1$,d</string>
     <string name="loadcity_title">正在加载城市...</string>
     <string name="money">%1$s</string>
-    <string name="loadcity_errordialog_text">这个城市无法成功加载，因为城市文件已损坏。\n\n我们很抱歉。</string>
+    <string name="loadcity_errordialog_text">这个城市无法成功加载，因为城市文件已损坏。\n\n我们对此深表抱歉。</string>
     <string name="loadcity_deletedialog_title">删除城市</string>
-    <string name="loadcity_deletedialog_text">你确定要删掉这个城市吗？</string>
+    <string name="loadcity_deletedialog_text">你确定要删除这个城市吗？</string>
     <string name="loadcity_errordialog_cmdrecover">恢复</string>
     <string name="influence_sport_title">体育</string>
     <string name="influence_religion_title">宗教</string>
@@ -292,7 +292,7 @@
     <string name="happiness_road">道路</string>
     <string name="happiness_park">公园</string>
     <string name="happiness_noise">噪音</string>
-    <string name="happiness_energy">电</string>
+    <string name="happiness_energy">电力</string>
     <string name="game_infinitemoney">自由游戏</string>
     <string name="draftselector_titleenergy">电力</string>
     <string name="draftselector_titlecatastrophes">灾害</string>
@@ -1110,9 +1110,8 @@
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">在这个城市模拟游戏中建立属于你自己的城市。</string>
-    <string name="store_longdesc">建一个属于你的城市怎么样？在TheoTown里，你可以见证你自己的城市通过建造不同的居民区，商业区和工业区慢慢的成长。建立道路来使交通更加发达；你也可以建立学校，公园等等来让你的居民游泳更加丰富多彩的生活。
-如果你允许TheoTown访问你的外部储存，TheoTown会把你的城市存在你的手机的TheoTown/maps文件夹里。同样的，你可以从官网下载插件，放在TheoTown/plugins里。</string>
-
+    <string name="store_longdesc">建造一个属于你的像素城市怎么样？\n在TheoTown里，你可以见证你自己的城市发展壮大，通过建造不同的居民区、商业区和工业区使其慢慢的成长。建立道路来使交通更加发达；你也可以建立学校、公园等等来让你的居民有更加丰富多彩的生活\n。
+如果你允许TheoTown访问你的外部存储，TheoTown会把你的地图存在你的手机的TheoTown/maps，区域存储在/regions文件夹里。\n 本应用有内购项目，需要钻石，但是每天开游戏送钻石。\n 你可以到论坛与其他人讨论、下载或创作插件、查看游戏文档。\n 传送门：www.theotown.com</string>
     <string name="settings_sound_weather">天气</string>
     
     <string name="settings_energysavingplus">更节能</string>
