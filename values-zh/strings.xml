@@ -1380,7 +1380,7 @@
     <string name="draft_ufo_crater00_title">怪异的东西</string>
     <string name="draft_ufo_crater00_text">看起来好像有什么东西在地上插着。把它拆了吧。</string>
     <string name="draft_destroyedtileradioactive00_title">Scrap</string>
-    <string name="draft_destroyedtileradioactive00_text"></string>
+    <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You should remove it.</string>
     <string name="settings_disaster_ufo">UFO</string>
     <string name="dialog_externalstorage_text">TheoTown需要访问外部存储权限来保存您的进度。</string>
     <string name="dialog_externalstorage_cancel">取消</string>
@@ -1447,8 +1447,7 @@
     <string name="settings_saveforscreenshot">截图时保存</string>
     <string name="draft_eiffeltower00_title">埃菲尔铁塔</string>
     <string name="draft_eiffeltower00_text">巴黎的埃菲尔铁塔是法国最著名的地标。这座塔高324米，于1889年完工。</string>
-    <string name="dialog_wb_text02">在你不在的时候，%1$s赚取了这些财产（其实是我们想给你点补贴）：\n\n%2$s\n你要拿走补贴吗？看个广告就行。
-</string>
+    <string name="dialog_wb_text02">在你不在的时候，%1$s赚取了这些财产（其实是我们想给你点补贴）：\n\n%2$s\n你要拿走补贴吗？看个广告就行。</string>
     <string name="dialog_wb_cmdtake">看广告拿走</string>
     <string name="dialog_wb_cmdforfeit">不管了</string>
     <string name="dialog_diamondtool_title">完成建造</string>
@@ -1670,5 +1669,10 @@
 
 
 
+
+
+    <string name="dialog_removediamondbuildings_title">Remove diamond buildings</string>
+    <string name="dialog_removediamondbuildings_text">You selected %d diamond priced buildings for removal. Are you sure that you want to remove them? There\'s a move building tool if you just want to move them.</string>
+    <string name="settings_renderpollution">Render pollution</string>
 
 </resources>
