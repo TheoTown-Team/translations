@@ -1062,7 +1062,7 @@
     <string name="tut_start01">그렇다면, 이곳에 큰 도시를 지어봅시다, 하지만 아마도 천천히 진행해야 할 것입니다.</string>
     <string name="tut_start02">맵을 움직이기 위해 탭 하세요. 2개의 손가락으로 확대할 수도 있습니다.</string>
     <string name="tut_start03">좋습니다, 이제 화면조정에 대해 느낌이 왔을 것이라 생각합니다. 그런고로 첫 번째 도시의 건설을 시작할 수 있습니다.</string>
-    <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이것들을 바로 사용할 수 있습니다.</string>
+    <string name="tut_build00">얼마나 편리한지, 시에서 이미 이곳에 도로를 건설했네요, 따라서 우린 이 도로를 바로 사용할 수 있습니다.</string>
     <string name="tut_build01">이곳에 주거구역을 지정해 봅시다. 사람들은 자신들의 집을 지을 것입니다.</string>
     <string name="tut_build02">구역 주위로 도로를 건설하는 것이 더 좋겠습니다. 사람들은 오로지 도로 근처에만 건물을 건설합니다.</string>
     <string name="tut_build03">이제 사람들이 마을에 오도록 기다립시다.</string>
@@ -1671,33 +1671,32 @@
     <string name="draft_feature_landmarks03_text">상하이의 절묘한 건물들</string>
     <string name="draft_cat_asphalt00_title">아스팔트</string>
     <string name="draft_asphalt00_title">회색 아스팔트</string>
-    <string name="draft_asphalt00_text">자연을 이것으로 뒤덮으러 하지 마세요!</string>
+    <string name="draft_asphalt00_text">자연을 아스팔트로 뒤덮으러 하지 마세요!</string>
     <string name="draft_asphalt01_title">어두운 아스팔트</string>
     <string name="draft_asphalt02_title">푸르스름한 아스팔트</string>
 
     <string name="draft_cat_management00_title">행정</string>
     <string name="draft_sakura00_title">도지 5중탑</string>
-    <string name="draft_sakura00_text">도지(東寺)의 본명인 교오고코쿠지(教王護国寺)는 교토 미나미구에 위치한 불교 사찰입니다. 이곳에 위치한 5중탑(五重塔)은 55m로 일본에서 가장 높은 목조 건축물이면서 일본의 국보 건조물 제86호입니다. 826년에 지어졌으나 4차례나 소실된적이 있습니다.</string>
+    <string name="draft_sakura00_text">도지(東寺)의 본명인 교오고코쿠지(教王護国寺)는 796년에 지어진 교토 미나미구에 위치한 불교 사찰입니다. 이곳의 5중탑(五重塔)은 55m로 일본의 국보 건조물 제86호이자 일본내 가장 높은 목조 건축물 입니다. 826년에 지어졌으나 4차례나 소실된적이 있습니다.</string>
     <string name="draft_stbasilcathedral00_title">성 바실리 대성당</string>
     <string name="draft_stbasilcathedral00_text">성 바실리 대성당(Храм Василия Блаженого)은 러시아 모스크바의 붉은 광장 남쪽에 위치한 9개의 독특한 양파형 지붕이 특징인 성당입니다. 1560년에 115m로 완공되었고, 테트리스의 배경으로도 유명합니다.</string>
 
-
-    <string name="draft_toji00_title">Tō-ji</string>
-    <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
-    <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
-    <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
-    <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
-    <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
-    <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
-    <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
-    <string name="happiness_waste">Waste disposal</string>
-    <string name="settings_new_content_marker">Highlight new content in toolbar</string>
+    <string name="draft_toji00_title">도지사 5중탑</string>
+    <string name="draft_toji00_text">도지(東寺)의 본명인 교오고코쿠지(教王護国寺)는 796년에 지어진 교토도 미나미구에 위치한 불교 사찰입니다. 이곳의 5중탑(五重塔)은 일본의 국보 건조물 제86호이자 55m로 일본내 가장 높은 목조 건축물 입니다. 826년에 지어졌으나 4차례나 소실된적이 있습니다.</string>
+    <string name="ca_wastedisposal_text2">폐기물 수송량: %1$,d/%2$,d L/d</string>
+    <string name="notify_waste_needer00">이 건물의 쓰레기가 수거되지 않았습니다.</string>
+    <string name="notify_waste_producer00">이 매립지는 가득 찼습니다, 정리할 필요가 있습니다!</string>
+    <string name="draft_landfill00_text">모든 쓰레기를 수거하기 위한 충분히 넓은 공간입니다. 오직 비어있을 때만 철거할 수 있습니다.</string>
+    <string name="waste_clear">쓰레기를 옆으로 밀어서 치우세요.</string>
+    <string name="waste_cmdclear">지금 치우기</string>
+    <string name="dialog_wasteclear_title">바로지금 치우세요</string>
+    <string name="dialog_wasteclear_text">저희는 도시를 위해 매립지를 치워드릴 수 있습니다.</string>
+    <string name="draft_wasteincinerator00_text">이 모든 쓰레기를 치울 수 있는 가장 빠르고 더러운 방법.</string>
+    <string name="budget_waste_disposal">폐기물 처리</string>
+    <string name="draft_alert_garbage00_title">쓰레기차 부르기</string>
+    <string name="draft_alert_garbage00_text">도로 위의 쓰레기를 치우기 위해 쓰레기차를 부르세요.</string>
+    <string name="happiness_waste">폐기물 처리</string>
+    <string name="settings_new_content_marker">툴바에서 새로운 컨텐츠 강조하기</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
