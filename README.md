@@ -32,5 +32,5 @@ How translation works:</br>
 Each values.xml file contains lines of the form<br>
 <em>\<tagname\></em>"My translation"<em>\</tagname\></em><br>
 You have just to translate the part in between (here "My Translation"). Special characters like \n might be used to indicate a new line.
-And, your translation is done, make sure create a 'pull request' to it can be combined to main branch. 
-If you does not creat this, Your translation will not add to main branch.
+When your translation is done, make sure to create a 'pull request' so it can be merged to main branch. 
+If you forget to do that step your translation won't be added to the main branch. Follow 2kluvu to find some great stuff.
