@@ -1269,15 +1269,15 @@
     <string name="airport_needworkingtower_title">La torre no funciona</string>
     <string name="airport_needworkingtower_text">Tiene que asegurarse de que la torre está trabajando</string>
     <string name="airport_needworkingtower_cmdshow">Mostrar</string>
-    <string name="ci_airport_newlane_title">Nuevo carril</string>
-    <string name="ci_airport_newlane_text">Agregar un nuevo carril para el aeropuerto</string>
-    <string name="ci_airport_onelaneatatime">Sólo se puede añadir un carril a la vez</string>
+    <string name="ci_airport_newlane_title">Nueva pista</string>
+    <string name="ci_airport_newlane_text">Agregar una nueva pista para el aeropuerto</string>
+    <string name="ci_airport_onelaneatatime">Sólo se puede añadir una pista a la vez</string>
     <string name="ci_airport_cmdunlock">Desbloquear</string>
     <string name="ci_airport_cmdlocked">Bloqueado</string>
     <string name="ci_airport_unlocking">Desbloqueo</string>
     <string name="ci_airport_cmdspeedup">Acelerar</string>
-    <string name="dialog_renamelane_title">Renombrar carril</string>
-    <string name="dialog_renamelane_text">Introduzca un nuevo nombre para el carril:</string>
+    <string name="dialog_renamelane_title">Renombrar pista</string>
+    <string name="dialog_renamelane_text">Introduzca un nuevo nombre para el pista:</string>
     <string name="dialog_redeemcode_title">Canjear código</string>
     <string name="dialog_redeemcode_text">Ingresa el código de canje aquí para canjearlo:</string>
     <string name="dialog_redeemcode_cmdredeem">Redimir</string>
@@ -1299,9 +1299,9 @@
     <string name="draft_airplane01_text">Un avión de doble cubierta, y de largo alcance, diseñada por TheoAir, tiene mucho espacio.</string>
     <string name="dialog_waitingtime_title">Reducir el tiempo de espera</string>
     <string name="dialog_waitingtime_text">¿Desea acortar un poco el tiempo de espera?\n%1$s restante.</string>
-    <string name="topic_rate">Por favor, ayúdenos y califique TheoTown!</string>
+    <string name="topic_rate">¡Por favor, ayúdenos y califique TheoTown!</string>
     <string name="ci_airport_lane_unassign">Descarte</string>
-    <string name="tool_airplanelane_title">Toque en un carril libre</string>
+    <string name="tool_airplanelane_title">Toque en una pista libre</string>
     <string name="draft_feature_starter_pack00_title">Paquete de inicio</string>
     <string name="draft_feature_starter_pack00_text">Con el paquete de inicio, recibirás:</string>
     <string name="pluginerror_cmdchecksyntax">Comprobar la sintaxis en línea</string>
@@ -1458,8 +1458,8 @@
     <string name="draft_eiffeltower00_title">Torre Eiffel</string>
     <string name="draft_eiffeltower00_text">La Torre Eiffel en París es el hito más destacado de Francia, mide 324 metros de altura y fue terminada en 1889.</string>
     <string name="dialog_wb_text02">Deseas recopilar el %1$s que ganaste mientras estabas ausente?\n\n%2$s</string>
-    <string name="dialog_wb_cmdtake">Tomarlo!t</string>
-    <string name="dialog_wb_cmdforfeit">Perderlo!</string>
+    <string name="dialog_wb_cmdtake">¡Tomarlo!</string>
+    <string name="dialog_wb_cmdforfeit">Perderlo</string>
     <string name="dialog_diamondtool_title">Terminar la construcción</string>
     <string name="dialog_diamondtool_text">¿Construimos eso?</string>
     <string name="draft_feature_valentinesday00_title">Feliz día de San Valentín</string>
@@ -1655,8 +1655,8 @@
     <string name="draft_feature_landmarks02_title">Hitos III</string>
 
 
-    <string name="draft_recyclingyard00_title">Centro recompra</string>
-    <string name="draft_recyclingyard00_text">¿Por qué quemar la basura o llevarla al vertedero si se puede reciclar en el centro de recompra?</string>
+    <string name="draft_recyclingyard00_title">Centro de reciclaje</string>
+    <string name="draft_recyclingyard00_text">¿Por qué quemar la basura o llevarla al vertedero si se puede reciclar en el centro de reciclaje?</string>
     <string name="draft_notify_pickle_spawned00_text">Un pepinillo salvaje apareció en %s. ¿Qué hará al respecto, alcalde?</string>
     <string name="draft_rugbyfield00_title">Campo del rugbi</string>
     <string name="draft_rugbyfield00_text">Un campo de Rugby para fanáticos del rugby.</string>
@@ -1756,60 +1756,60 @@
     <string name="draft_cat_roaddeco00_title">Decoración vial</string>
 
 
-    <string name="draft_feature_doubledincome00_title">Doubled income</string>
-    <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
-    <string name="features_duration">Duration %s</string>
-    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
-    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
-    <string name="draft_roaddeco_bumps00_title">Bumps</string>
-    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
-    <string name="draft_fence00_title">Fence</string>
-    <string name="draft_fence00_text">Just a simple fence.</string>
-    <string name="draft_fence01_title">White fence</string>
-    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+    <string name="draft_feature_doubledincome00_title">Ingresos duplicados</string>
+    <string name="draft_feature_doubledincome00_text">Simplemente duplica los ingresos.</string>
+    <string name="features_duration">Duración %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Paso de peatones</string>
+    <string name="draft_roaddeco_crosswalk00_text">Es muy peligroso simplemente cruzar la carretera.</string>
+    <string name="draft_roaddeco_bumps00_title">Baches</string>
+    <string name="draft_roaddeco_bumps00_text">Los baches hace que el tráfico vaya mas lento.</string>
+    <string name="draft_fence00_title">Valla</string>
+    <string name="draft_fence00_text">Es una simple valla.</string>
+    <string name="draft_fence01_title">Valla blanca</string>
+    <string name="draft_fence01_text">Es una valla pero es blanco.</string>
 
 
-    <string name="draft_jungletree00_title">Jungle tree</string>
-    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+    <string name="draft_jungletree00_title">Árbol de la selva</string>
+    <string name="draft_jungletree00_text">En la selva, la mitica selva, el león duerme esta noche.</string>
 
 
-    <string name="draft_igloo00_title">Igloo</string>
-    <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
-    <string name="features_more">More content</string>
-    <string name="features_diamonds">Get diamonds</string>
+    <string name="draft_igloo00_title">Iglú</string>
+    <string name="draft_igloo00_text">Sorprendentemente, no hace tando frío en un iglú.</string>
+    <string name="features_more">Mas contenidos</string>
+    <string name="features_diamonds">Consegir diamantes</string>
 
 
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="dialog_privacy_title">Privacy Policy</string>
-    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
-    <string name="dialog_privacy_cmdopen">Open Policy</string>
-    <string name="dialog_privacy_cmdlater">Got it</string>
-    <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
-    <string name="draft_metrostation00_text">A station to access metro.</string>
-    <string name="draft_metroline00_title">Metro tunnel</string>
-    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
-    <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
-    <string name="dialog_search_text">Enter a search keyword below.</string>
-    <string name="dialog_search_cmdok">Search</string>
-    <string name="dialog_search_cmdcancel">Cancel</string>
-    <string name="search_results_title">Search results for \"%s\"</string>
-    <string name="draft_rail01_title">Urban Railway</string>
-    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
-    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
-    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
-    <string name="settings_realmmres">Real minimap resolution</string>
-    <string name="feature_coming_soon_fulfilled">An early gift</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="dialog_privacy_title">Política de privacidad</string>
+    <string name="dialog_privacy_text">¡Hola! Hemos actualizado nuestra Política de privacidad. Por favor, tome su tiempo para leerlo.</string>
+    <string name="dialog_privacy_cmdopen">Abrir la política de privacidad</string>
+    <string name="dialog_privacy_cmdlater">Vale</string>
+    <string name="settings_drawzones">Dibujar zonas</string>
+    <string name="draft_metrostation00_title">Estación de metro</string>
+    <string name="draft_metrostation00_text">Una estación para el metro.</string>
+    <string name="draft_metroline00_title">Tunel del metro</string>
+    <string name="draft_metroline00_text">Un tunel del metro. No puedes verlo y sin embargo está allí.</string>
+    <string name="feature_coming_soon">Próximamente</string>
+    <string name="dialog_search_title">Burcar</string>
+    <string name="dialog_search_text">Ingrese una palabra clave de búsqueda a continuación.</string>
+    <string name="dialog_search_cmdok">Buscar</string>
+    <string name="dialog_search_cmdcancel">Cancelar</string>
+    <string name="search_results_title">Resultados de búsqueda de \"%s\"</string>
+    <string name="draft_rail01_title">Ferrocarril Urbano</string>
+    <string name="draft_rail01_text">Ferrocarril elevado para zonas urbanas para una velocidad más rápida.</string>
+    <string name="draft_nativerailwaystation01_title">Estación de tren urbana</string>
+    <string name="draft_nativerailwaystation01_text">Una estación de tren compacta para lugares con poco espacio.</string>
+    <string name="settings_realmmres">Resolución real del minimapa</string>
+    <string name="feature_coming_soon_fulfilled">Un regalo temprano</string>
 
 
-    <string name="draft_tree_sakura00_title">Cherry blossom</string>
-    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
-    <string name="draft_circus00_title">Circus</string>
-    <string name="draft_circus00_text">It\'s time for circus!</string>
-    <string name="draft_chrysler00_title">Chrysler Building</string>
-    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
-    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
-    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
+    <string name="draft_tree_sakura00_title">Flor de cerezo</string>
+    <string name="draft_tree_sakura00_text">Aunque técnicamente son cerezos, no crecen cerezas.</string>
+    <string name="draft_circus00_title">Circo</string>
+    <string name="draft_circus00_text">¡Es hora del circo!</string>
+    <string name="draft_chrysler00_title">Edificio Chrysler</string>
+    <string name="draft_chrysler00_text">El edificio Chrysler en Nueva York es famoso por su aspecto icónico. Probablemente has visto este edificio antes. El edificio fue construido en 1930 y el edificio mide 319m.</string>
+    <string name="draft_greatpyramid00_text">El complejo de la pirámide de Giza es la más antigua de las Siete Maravillas del Mundo Antiguo y muy conocida en todo el mundo. La Gran Pirámide es la más grande de las tres pirámides y tiene una altura de 139 m.</string>
+    <string name="draft_feature_landmarks04_text">Ten algunos edificios geniales</string>
 
 </resources>
