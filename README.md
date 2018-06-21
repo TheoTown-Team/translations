@@ -16,6 +16,7 @@ values-ms: Malay, Indonesian</br>
 values-nl: Dutch</br>
 values-pl: Polish</br>
 values-pt: Portuguese</br>
+values-pr: Pirate</br>
 values-ru: Russian</br>
 values-sr: Serbian</br>
 values-tr: Turkish</br>
