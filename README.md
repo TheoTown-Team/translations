@@ -19,6 +19,7 @@ values-pt: Portuguese</br>
 values-pr: Pirate</br>
 values-ru: Russian</br>
 values-sr: Serbian</br>
+values-th: Thai</br>
 values-tr: Turkish</br>
 values-uk: Ukrainian</br>
 values-zh-rTW: Traditional Chinese</br>
