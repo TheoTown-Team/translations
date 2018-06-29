@@ -523,8 +523,8 @@
     <string name="draft_zoneresidential_lvl2_text">높은 밀도의 주거 구역입니다.</string>
     <string name="draft_zonecommercial_lvl2_title">밀집 상업 구역</string>
     <string name="draft_zonecommercial_lvl2_text">높은 밀도의 상업 구역입니다.</string>
-    <string name="draft_zoneindustrial_lvl2_title">밀집 산업 구역</string>
-    <string name="draft_zoneindustrial_lvl2_text">높은 밀도의 산업 구역입니다.</string>
+    <string name="draft_zoneindustrial_lvl2_title">밀집 공업 구역</string>
+    <string name="draft_zoneindustrial_lvl2_text">높은 밀도의 공업 구역입니다.</string>
     <string name="draft_zonefarm_title">농장</string>
     <string name="draft_zonefarm_text">농장을 위한 저렴한 구역입니다. 농장을 건설하기 위한 최소크기는 4x4입니다.</string>
     <string name="requirement_peoplecount_all">%1$,d 명의 인구 필요.</string>
@@ -583,7 +583,7 @@
     <string name="ca_health_text">건강 관리: %2$,d명중 %1$,d명의 환자</string>
     <string name="gamemode_nomoney">자금 없음</string>
     <string name="draft_zoneharbor_title">항만</string>
-    <string name="draft_zoneharbor_text">도시의 해안가를 위한 산업 구역입니다</string>
+    <string name="draft_zoneharbor_text">도시의 해안가를 위한 공업 구역입니다</string>
     <string name="settings_auto_road_for_zones">구역지정 도구에서 도로 건설.</string>
     <string name="settings_relaxed_line_tool">간단한 직선도구</string>
     <string name="topic_fstapril">오늘은 만우절이 아닙니다.</string>
@@ -654,7 +654,7 @@
     <string name="ci_general_seed">시드: %1$s</string>
     <string name="draft_decores00_text">주거 구역 장식</string>
     <string name="draft_decocom00_text">상업 구역 장식</string>
-    <string name="draft_decoind00_text">산업 구역 장식</string>
+    <string name="draft_decoind00_text">공업 구역 장식</string>
     <string name="ci_budget_title_nomoney">금융</string>
     <string name="dialog_notification_cmdok">네</string>
     <string name="draft_nuclearplant00_title">원자력 발전소</string>
@@ -904,7 +904,7 @@
     <string name="features_notenough">%1$s 불충분함</string>
     <string name="dialog_getrank_text">만약 정말로 원한다면, 이 랭크를 바로 잠금해제 할수 있습니다.</string>
     <string name="features_buy">지금 바로 구매하세요</string>
-    <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약간의 작은 주거, 상업, 산업 건물. 겨울을 위한 그래픽 포함.</string>
+    <string name="draft_feature_buildings00_text">도시를 더 다양하게할 약간의 작은 주거, 상업, 공업 건물. 겨울을 위한 그래픽 포함.</string>
     <string name="dialog_redeempromo_title">다이아를 얻었습니다.</string>
     <string name="dialog_redeempromo_text">이제 이 다이아는 당신 소유인것 같네요.</string>
     <string name="dialog_present_cmdad">두배로 하기</string>
@@ -1526,7 +1526,7 @@
     <string name="influence_residential_text">시민들은 주거 구역에서 살기를 선호합니다.</string>
     <string name="influence_commercial_title">상업 구역</string>
     <string name="influence_commercial_text">상업시설은 손님들을 끌어당기기위해 종종 서로 모여있습니다.</string>
-    <string name="influence_industrial_title">산업 구역</string>
+    <string name="influence_industrial_title">공업 구역</string>
     <string name="influence_industrial_text">시민들은 이 근처에서 거주하기를 원치 않습니다.</string>
     <string name="influence_level_low_title">저소득 수준</string>
     <string name="influence_level_low_text">이 수준의 건물은 대개 가난합니다.</string>
@@ -1546,7 +1546,7 @@
     <string name="draft_bus_oneway_road00_text">오직 버스만 통행 가능한 일방 통행 버스 전용 도로 입니다.</string>
     <string name="task_build_res">%s 만큼의 주거 구역을 지정함.</string>
     <string name="task_build_com">%s 만큼의 상업 구역을 지정함.</string>
-    <string name="task_build_ind">%s 만큼의 산업 구역을 지정함.</string>
+    <string name="task_build_ind">%s 만큼의 공업 구역을 지정함.</string>
     <string name="task_build_roads">%s 개의 공원을 건설함.</string>
     <string name="task_build_parks">%s 개의 공원을 건설함.</string>
     <string name="task_get_inhabitants">%s 명의 새로운 시민이 들어옴.</string>
@@ -1610,7 +1610,7 @@
 
     <string name="draft_cat_residential00_title">주거 건물</string>
     <string name="draft_cat_commercial00_title">상업 건물</string>
-    <string name="draft_cat_industrial00_title">산업 건물</string>
+    <string name="draft_cat_industrial00_title">공업 건물</string>
     <string name="offerstage_saving">%d%% 절약</string>
     <string name="draft_pickle00_title">전능한 피클</string>
     <string name="draft_pickle00_text">.</string>
@@ -1783,15 +1783,14 @@
     <string name="draft_greatpyramid00_text">기자의 피라미드 군(أهرامات الجيزة)은 고대 세계의 가장 오래된 7대 불가사의이고, 전세계에 잘 알려져 있습니다. 대피라미드는 3개의 피라미드 중에서 가장 거대하며, 기원전 26세기 경에 146m로 건설되었습니다.</string>
     <string name="draft_feature_landmarks04_text">멋있는 몇몇의 건물을 권해드립니다.</string>
 
-
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
+    <string name="draft_roaddeco_barrier_open00_title">차단기</string>
+    <string name="draft_roaddeco_barrier_open00_text">눌러서 폐쇄하세요. 교통체증을 만드는 훌륭한 방법입니다.</string>
     <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
-    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
-    <string name="lang_pirate">Pirate</string>
+    <string name="gallery_upload_success">성공</string>
+    <string name="gallery_upload_fail">업로드 실패</string>
+    <string name="draft_medic02_title">작은 병원</string>
+    <string name="draft_medic02_text">작은 병원은 더 많은 환자들을 위한 더 많은 공간을 제공합니다.</string>
+    <string name="lang_pirate">해적(pirate)</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
