@@ -79,13 +79,13 @@
     <string name="dialog_invalidcityname_cmdok">同意</string>
     <string name="dialog_leave_cmdcancel">取消</string>
     <string name="dialog_leave_cmdleave">退出</string>
-    <string name="dialog_leave_text">你确定，一定，肯定要退出西奥小镇吗？</string>
+    <string name="dialog_leave_text">你确定要退出西奥小镇吗？</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_notification_cmdok">确认</string>
     <string name="dialog_nocities_title">竟然找不到城市</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
     <string name="dialog_leave_title">退出西奥小镇</string>
-    <string name="dialog_nocities_text">你还没有任何城市，请建一个新的城市。</string>
+    <string name="dialog_nocities_text">你目前还没有任何城市，你可以新建新的城市。这里的城市可以定制。</string>
     <string name="about_title">制作团队</string>
     <string name="budget_ind0">工业 Ͳ (%1$,d)</string>
     <string name="budget_ind1">工业 ͲͲ (%1$,d)</string>
@@ -1815,14 +1815,15 @@
     <string name="draft_feature_landmarks04_text">来点宏大的建筑！</string>
 
 
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
-    <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
-    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
-    <string name="lang_pirate">Pirate</string>
+    <string name="draft_roaddeco_barrier_open00_title">车辆闸门</string>
+    <string name="draft_roaddeco_barrier_open00_text">点一下可以拦停/通行车辆。可以很好的创造堵车情景。</string>
+    <string name="selectable_find">查找 (%,d)</string>
+    <string name="gallery_upload_success">成功了</string>
+    <string name="gallery_upload_fail">上传失败</string>
+    <string name="draft_medic02_title">小医院</string>
+    <string name="draft_medic02_text">小医院为更多患者提供更多空间，但还是比不上大医院。</string>
+    <string name="lang_pirate">海盗话（英语）</string>
+
 
 
     <string name="draft_church10_title">Baroque Church</string>
