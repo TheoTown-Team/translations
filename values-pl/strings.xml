@@ -322,12 +322,12 @@
     <string name="buildinginfo_construction">W budowie: %1$.0f%% (%2$,d dni pozostało)</string>
     <string name="draft_footballstadion00_title">Stadion</string>
     <string name="draft_footballstadion00_text">Stadion piłkarski o podobnym działaniu do zykłego boiska, jednak wiekszym zasięgu.</string>
-    <string name="buildinginfo_cmdupgrade">Ulepszenia</string>
+    <string name="buildinginfo_cmdupgrade">Ulepsz</string>
     <string name="draft_footballstadion00_lights_title">Reflektory</string>
     <string name="draft_footballstadion00_lights_text">Dają wiecej światła.</string>
     <string name="buildinginfo_upgraded">Już ulepszone</string>
     <string name="buildinginfo_upgradenotavail">Niedostępne</string>
-    <string name="buildinginfo_upgrade">Ulepsz</string>
+    <string name="buildinginfo_upgrade">Ulepszenia</string>
     <string name="draft_pool00_title">Kąpielisko</string>
     <string name="draft_pool00_text">Chodźmy popływać.</string>
     <string name="draft_pool00_waterslide_title">Zjeżdżalnia</string>
@@ -1428,13 +1428,13 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
 
 
     <string name="minigame_reachlevel">Osiągnij poziom %d</string>
-    <string name="minigame_price">Książe</string>
+    <string name="minigame_price">Cena</string>
     <string name="minigame_time">Czas</string>
     <string name="busgame_unlockimmediately_title">Odblokuj natychmiast</string>
     <string name="busgame_unlockimmediately_text">Czy chcesz odblokować autobus?</string>
     <string name="dialog_dbuilding_title">Buduj</string>
     <string name="dialog_dbuilding_text">Czy chcesz wybudować tu budynek? Zbudujemy go natychmiast.</string>
-    <string name="dialog_performance_title">Performance</string>
+    <string name="dialog_performance_title">Wydajność</string>
     <string name="draft_brandenburgertor00_title">Brama Brandenburska</string>
     <string name="draft_brandenburgertor00_text">Brama Brandenburska to niemiecki zabytek zbudowany w XVIII wieku. Znajduje się w Berlinie.</string>
 
@@ -1445,8 +1445,8 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="dialog_disabletasks_title">Odrzuć zadanie</string>
     <string name="dialog_disabletasks_text">Odrzuciłeś kilka zadań, czy chcesz je wyłączyć?</string>
     <string name="control_disable">Wyłącz</string>
-    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">Arc de Triomphe w Paryżu oddaje cześć pamięci walczącym w Rewolucji Francuskiej.</string>
+    <string name="draft_arcdetriomphe00_title">Łuk Triumfalny</string>
+    <string name="draft_arcdetriomphe00_text">Łuk Triumfalny w Paryżu oddaje cześć pamięci walczącym w Rewolucji Francuskiej.</string>
     <string name="featureselector_shortbuildtime">Skróć czas budowy o %1$s</string>
     <string name="game_remaining_shortbuildtime">Skróć czas budowy za %s</string>
     <string name="shop_open_features">Wydaj diamenty</string>
@@ -1458,17 +1458,17 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
 
     <string name="settings_saveonappswitch">Save on app switch</string>
     <string name="settings_saveforscreenshot">Save for screenshot</string>
-    <string name="draft_eiffeltower00_title">Eiffel Tower</string>
-    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
-    <string name="dialog_wb_text02">Would you like to collect what %1$s earned while you were absent?\n\n%2$s</string>
-    <string name="dialog_wb_cmdtake">Take it</string>
-    <string name="dialog_wb_cmdforfeit">Forfeit</string>
-    <string name="dialog_diamondtool_title">Finish construction</string>
-    <string name="dialog_diamondtool_text">Shall we build that?</string>
-    <string name="draft_feature_valentinesday00_title">Happy Valentine\'s Day</string>
-    <string name="draft_feature_valentinesday00_text">Unlock these buildings permanently</string>
-    <string name="tool_removetunnel_title">Remove tunnel</string>
-    <string name="tool_removetunnel_text">Let\'s remove some tunnels.</string>
+    <string name="draft_eiffeltower00_title">Wieża Eiffla</string>
+    <string name="draft_eiffeltower00_text">Najbardziej znana budowla Paryża i całej Francji, Ma 324 metry wysokości i została ukończona w 1889.</string>
+    <string name="dialog_wb_text02">Czy chciałbyś zebrać to co miasto %1$s zarobiło kiedy byłeś nieobecny?\n\n%2$s</string>
+    <string name="dialog_wb_cmdtake">Zbierz</string>
+    <string name="dialog_wb_cmdforfeit">Odrzuć</string>
+    <string name="dialog_diamondtool_title">Ukończ budowę</string>
+    <string name="dialog_diamondtool_text">Zbudować to?</string>
+    <string name="draft_feature_valentinesday00_title">Szczęśliwych walentynek</string>
+    <string name="draft_feature_valentinesday00_text">Odblokuj te budowle na zawsze</string>
+    <string name="tool_removetunnel_title">Usuń tunel</string>
+    <string name="tool_removetunnel_text">Usuńmy trochę tuneli.</string>
 
 
     <string name="dialog_halftunnelprice_title">Half tunnel price</string>
@@ -1561,30 +1561,30 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="task_current">Current task</string>
 
 
-    <string name="dialog_adreward_title">Rewarded ad</string>
-    <string name="dialog_adreward_text">Want to get some diamonds for free by watching an ad?</string>
-    <string name="dialog_adreward_cmdwatch">Get them now</string>
-    <string name="draftselector_titlelandmark">Landmarks</string>
+    <string name="dialog_adreward_title">Nagradzana reklama</string>
+    <string name="dialog_adreward_text">Chcesz dostać diamenty za darmo dzięki oglądnięciu reklamy?</string>
+    <string name="dialog_adreward_cmdwatch">Zdobądź je!</string>
+    <string name="draftselector_titlelandmark">Atrakcje</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
-    <string name="draft_angelofindependence00_title">Angel of Independence</string>
-    <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
-    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
-    <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
-    <string name="draft_decorustywatertower00_title">Rusty water tower</string>
-    <string name="draft_decorustywatertower00_text">An old and rusty water tower. It does absolutely nothing.</string>
-    <string name="draft_underground_wire00_title">Underground wires</string>
-    <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
-    <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
-    <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_bigben00_text">Big Ben jest wieżą zegarową w Londynie o wysokości 96 m. Zbudowany w 1859.</string>
+    <string name="draft_angelofindependence00_title">Anioł Niepodległości</string>
+    <string name="draft_angelofindependence00_text">Anioł Niepodległości jest monumentem w mieście Meksyku zbudowanym w 1910 na pamiątkę wojny o niepodległość.</string>
+    <string name="draft_statueofliberty00_title">Statua Wolności</string>
+    <string name="draft_statueofliberty00_text">Statua Wolności była prezentem Francji dla narodu amerykańskiego. Została odsłonięta w 1886 i ma 93 m wysokości.</string>
+    <string name="draft_decorustywatertower00_title">Zardzewiała wieża ciśnień</string>
+    <string name="draft_decorustywatertower00_text">Stara i zardzewiała wieża ciśnień. Nie robi zupełnie nic.</string>
+    <string name="draft_underground_wire00_title">Podziemne przewody</string>
+    <string name="draft_underground_wire00_text">Działają jak normalne przewody, ale są pod ziemią co sprawia że sa niewidoczne.</string>
+    <string name="draft_feature_freedombuildings00_title">Atrakcje I</string>
+    <string name="draft_feature_freedombuildings00_text">Zawiera następujące budynki do permanentnego użytku:</string>
 
 
-    <string name="tool_removeuwire_title">Underground wires</string>
-    <string name="tool_removeuwire_text">This tool removes underground wires.</string>
+    <string name="tool_removeuwire_title">Podziemne przewody</string>
+    <string name="tool_removeuwire_text">To narzędzie usuwa podziemne przewody elektryczne.</string>
 
 
-    <string name="draft_aircraft_boneyard00_title">Aircraft boneyard</string>
-    <string name="draft_aircraft_boneyard00_text">A place for retired aircraft. It\'s dirty but produces some income.</string>
+    <string name="draft_aircraft_boneyard00_title">Złomowisko lotnicze</string>
+    <string name="draft_aircraft_boneyard00_text">Miejsce na zużyte saoloty. Jest brudne, ale przynosi niewielki dochód.</string>
     <string name="notify_tutorial_reminder_title">Time to get started</string>
     <string name="notify_tutorial_reminder_text">Hey mayor, did you forget about your mission to build a great city?</string>
     <string name="dialog_insufficientspace_title">We\'re running out of space</string>
@@ -1600,30 +1600,30 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
-    <string name="draft_cat_bus00_title">Bus</string>
-    <string name="draft_cat_train00_title">Train</string>
-    <string name="draft_cat_recent00_title">Recent</string>
-    <string name="draft_cat_service00_title">Services</string>
+    <string name="draft_cat_supply00_title">Media</string>
+    <string name="draft_cat_road00_title">Drogi</string>
+    <string name="draft_cat_bus00_title">Autobusy</string>
+    <string name="draft_cat_train00_title">Kolej</string>
+    <string name="draft_cat_recent00_title">Ostatnie</string>
+    <string name="draft_cat_service00_title">Służby</string>
     <string name="draft_tool_eyedropper00_title">Eyedropper</string>
     <string name="draft_tool_eyedropper00_text">Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.</string>
-    <string name="draft_cat_level00_title">Level Ͳ</string>
-    <string name="draft_cat_level01_title">Level ͲͲ</string>
-    <string name="draft_cat_level02_title">Level ͲͲͲ</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
-    <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
+    <string name="draft_cat_level00_title">Poziom Ͳ</string>
+    <string name="draft_cat_level01_title">Poziom ͲͲ</string>
+    <string name="draft_cat_level02_title">Poziom ͲͲͲ</string>
+    <string name="draft_tool_movebuilding00_title">Przenieś budynek</string>
+    <string name="draft_tool_movebuilding00_text">Wybierz budynek aby przenieść go w nowe miejsce. Nie każdy budynek może być przeniesiony.</string>
+    <string name="tool_movebuilding_cmd">Wybierz budynek</string>
 
 
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">Wszystko</string>
 
 
-    <string name="draft_cat_residential00_title">Res buildings</string>
-    <string name="draft_cat_commercial00_title">Com buildings</string>
-    <string name="draft_cat_industrial00_title">Ind buildings</string>
-    <string name="offerstage_saving">You save %d%%</string>
-    <string name="draft_pickle00_title">Almighty pickle</string>
+    <string name="draft_cat_residential00_title">Mieszk. budynki</string>
+    <string name="draft_cat_commercial00_title">Komerc. budynki</string>
+    <string name="draft_cat_industrial00_title">Przem. budynki</string>
+    <string name="offerstage_saving">Oszczędzasz %d%%</string>
+    <string name="draft_pickle00_title">Przepotężny Ogórek</string>
     <string name="draft_pickle00_text">.</string>
 
 
@@ -1657,13 +1657,13 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_feature_landmarks02_title">Landmarks III</string>
 
 
-    <string name="draft_recyclingyard00_title">Buyback center</string>
-    <string name="draft_recyclingyard00_text">Why burn the garbage or bring it to the landfill if it can be recycled in the buyback center?</string>
-    <string name="draft_notify_pickle_spawned00_text">A wild pickle appeared in %s. What will you do about it, mayor?</string>
-    <string name="draft_rugbyfield00_title">Rugby field</string>
-    <string name="draft_rugbyfield00_text">A rugby field for rugby fans.</string>
-    <string name="menu_facebook">Facebook connection</string>
-    <string name="facebook_privacy">Privacy</string>
+    <string name="draft_recyclingyard00_title">Przetwórnia surowców wtórnych</string>
+    <string name="draft_recyclingyard00_text">Po co spalać śmieci lub składować je na wysypisku, skoro mogą być przetworzone?</string>
+    <string name="draft_notify_pickle_spawned00_text">Dziki ogórek pojawił się w %s. Co chcesz z tym zrobić, Burmistrzu?</string>
+    <string name="draft_rugbyfield00_title">Boisko do rugby</string>
+    <string name="draft_rugbyfield00_text">Boisko do rugby dla fanów rugby.</string>
+    <string name="menu_facebook">Połączenie Facebooka</string>
+    <string name="facebook_privacy">Prywatność</string>
 
 
     <string name="settings_smoothcarmovement">Smooth car movement</string>
@@ -1673,25 +1673,25 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_notify_easteregg_found00_text">Congratulations, you found the Easter egg :)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Remove diamond buildings</string>
-    <string name="dialog_removediamondbuildings_text">You selected %d diamond priced buildings for removal. Are you sure that you want to remove them? There\'s a move building tool if you just want to move them.</string>
-    <string name="settings_renderpollution">Render pollution</string>
+    <string name="dialog_removediamondbuildings_title">Usuń budynki warte diamentów</string>
+    <string name="dialog_removediamondbuildings_text">Wybrałeś %d budynków kupionych za diamenty do zniszczenia. Czy jesteś pewien że chcesz je usunąć? Dostępne jest narzędzie do ich przenoszenia.</string>
+    <string name="settings_renderpollution">Renderuj zanieczyszczenia</string>
 
 
-    <string name="settings_cloudshadow">Cloud shadows</string>
+    <string name="settings_cloudshadow">Cienie chmur</string>
 
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
-    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower is a TV tower in Shanghai whose construction was completed in 1994. The height of the tower amounts to 470 meters.</string>
+    <string name="draft_orientalpearltower00_text">Oriental Pearl Tower jest wieżą telewizyjną w Szanghaju, której budowa została ukończona w 1994. Wysokośc wieży to 470 m.</string>
     <string name="draft_swfc_tower00_title">SWFC Tower</string>
-    <string name="draft_swfc_tower00_text">The Shanghai World Financial Center is a skyscraper that is located in Shanghai and was completed 2008. It\'s height is 494 meters.</string>
-    <string name="draft_feature_landmarks03_title">Landmarks IV</string>
-    <string name="draft_feature_landmarks03_text">Exquisite buildings from Shanghai</string>
-    <string name="draft_cat_asphalt00_title">Asphalt</string>
-    <string name="draft_asphalt00_title">Gray asphalt</string>
-    <string name="draft_asphalt00_text">Don\'t replace nature with it!</string>
-    <string name="draft_asphalt01_title">Dark asphalt</string>
-    <string name="draft_asphalt02_title">Blueish asphalt</string>
+    <string name="draft_swfc_tower00_text">The Shanghai World Financial Center jest wieżowcem ulokowanym w Szanghaju i został ukończony w 2008. Jego wysokość to 494 m.</string>
+    <string name="draft_feature_landmarks03_title">Atrakcje IV</string>
+    <string name="draft_feature_landmarks03_text">Wspaniałe buudowle Szanghaju</string>
+    <string name="draft_cat_asphalt00_title">Asfalt</string>
+    <string name="draft_asphalt00_title">Szary asfalt</string>
+    <string name="draft_asphalt00_text">Nie zastępuj tym natury!</string>
+    <string name="draft_asphalt01_title">Ciemny asfalt</string>
+    <string name="draft_asphalt02_title">Niebieskawy asfalt</string>
 
 
     <string name="draft_cat_management00_title">Management</string>
@@ -1719,8 +1719,8 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="settings_new_content_marker">Highlight new content in toolbar</string>
 
 
-    <string name="tool_removeroaddeco_title">Remove road deco</string>
-    <string name="tool_removeroaddeco_text">Use this tool to remove road decoration overlays.</string>
+    <string name="tool_removeroaddeco_title">Usuń dekoracje drogowe</string>
+    <string name="tool_removeroaddeco_text">Użyj tego narzędzia aby usunąć nakładki na drogi.</string>
 
 
     <string name="draft_palmtree00_title">Palm tree</string>
@@ -1783,28 +1783,28 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="features_diamonds">Get diamonds</string>
 
 
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="dialog_privacy_title">Privacy Policy</string>
-    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
-    <string name="dialog_privacy_cmdopen">Open Policy</string>
-    <string name="dialog_privacy_cmdlater">Got it</string>
-    <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
-    <string name="draft_metrostation00_text">A station to access metro.</string>
-    <string name="draft_metroline00_title">Metro tunnel</string>
-    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
-    <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
-    <string name="dialog_search_text">Enter a search keyword below.</string>
-    <string name="dialog_search_cmdok">Search</string>
-    <string name="dialog_search_cmdcancel">Cancel</string>
-    <string name="search_results_title">Search results for \"%s\"</string>
-    <string name="draft_rail01_title">Urban Railway</string>
-    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
-    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
-    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
-    <string name="settings_realmmres">Real minimap resolution</string>
-    <string name="feature_coming_soon_fulfilled">An early gift</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="dialog_privacy_title">Polityka prywatności</string>
+    <string name="dialog_privacy_text">Aktualizujemy naszą polityke prywatności, prosimy o poświęcenie chwili czasu na jej przeglądnięcie.</string>
+    <string name="dialog_privacy_cmdopen">Otwórz</string>
+    <string name="dialog_privacy_cmdlater">Rozumiem</string>
+    <string name="settings_drawzones">Rysuj strefy</string>
+    <string name="draft_metrostation00_title">Stacja metra</string>
+    <string name="draft_metrostation00_text">Stacja dostępu i zaplecza metra.</string>
+    <string name="draft_metroline00_title">Tunel metra</string>
+    <string name="draft_metroline00_text">Tunel metra. Niewidoczny z powierzchni.</string>
+    <string name="feature_coming_soon">Już wkrótce</string>
+    <string name="dialog_search_title">Wyszukaj</string>
+    <string name="dialog_search_text">Wpisz słowo do wyszukania poniżej.</string>
+    <string name="dialog_search_cmdok">Szukaj</string>
+    <string name="dialog_search_cmdcancel">Anuluj</string>
+    <string name="search_results_title">Wyniki wyszukiwania dla \"%s\"</string>
+    <string name="draft_rail01_title">Kolej miejska</string>
+    <string name="draft_rail01_text">Nadziemna torowiska o podwyższonej prędkości jazdy.</string>
+    <string name="draft_nativerailwaystation01_title">Miejski przystanek kolejowy</string>
+    <string name="draft_nativerailwaystation01_text">Kompaktowy przystanek kolejowy dla miejsc o ograniczonej przestrzeni.</string>
+    <string name="settings_realmmres">Realna rozdzielczość minimapy</string>
+    <string name="feature_coming_soon_fulfilled">Wczesny prezent</string>
 
 
     <string name="draft_tree_sakura00_title">Cherry blossom</string>
@@ -1817,49 +1817,49 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_feature_landmarks04_text">Have some great buildings</string>
 
 
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
-    <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
-    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
-    <string name="lang_pirate">Pirate</string>
+    <string name="draft_roaddeco_barrier_open00_title">Rogatki</string>
+    <string name="draft_roaddeco_barrier_open00_text">Kliknij na nie by je zamknąć. Świetny sposób do tworzenia korków drogowych.</string>
+    <string name="selectable_find">Znajdź (%,d)</string>
+    <string name="gallery_upload_success">Sukces</string>
+    <string name="gallery_upload_fail">Przesył nieudany</string>
+    <string name="draft_medic02_title">Mały szpital</string>
+    <string name="draft_medic02_text">Mały szpital oferujący nieco więcej miejsca dla pacjentów.</string>
+    <string name="lang_pirate">Piracki</string>
 
 
-    <string name="draft_church10_title">Baroque Church</string>
-    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
-    <string name="draft_roaddeco_construction00_title">Backhoe</string>
-    <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
+    <string name="draft_church10_title">Barokowy kościół</string>
+    <string name="draft_church10_text">Piękny kościół i klasztor dla Twojego miasta.</string>
+    <string name="draft_roaddeco_construction00_title">Koparka</string>
+    <string name="draft_roaddeco_construction00_text">Koparka na środku drogi nie brzmi jak dobry pomysł, czyż nie?</string>
 
 
-    <string name="infoline_freetunnels">%d tunnels left</string>
-    <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
-    <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
-    <string name="draft_roaddeco_barrier01_title">Barricades</string>
-    <string name="draft_roaddeco_barrier01_text">Can be used to barricade the road.</string>
-    <string name="draft_roaddeco_construction01_title">Gravel mountains</string>
-    <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
+    <string name="infoline_freetunnels">%d tuneli pozostało</string>
+    <string name="buildinginfo_idletime">Czas bezczynności: %s (jeśli nie jesteś w mieście)</string>
+    <string name="dialog_wb_completed">Gratulacje, %d budynków zostało ukończonych od Twojej ostatniej wizyty.</string>
+    <string name="draft_roaddeco_barrier01_title">Barierki</string>
+    <string name="draft_roaddeco_barrier01_text">Używane do zastawiania drogi.</string>
+    <string name="draft_roaddeco_construction01_title">Góry żwiru</string>
+    <string name="draft_roaddeco_construction01_text">Część solidnych robót drogowych.</string>
 
 
-    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
-    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
-    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
-    <string name="notification01_text">Mayor, please come back!</string>
+    <string name="notification00_sandbox_title">NEWS: %1$s to wspaniałe miasto!</string>
+    <string name="notification00_sandbox_text">Burmistrzu, możesz być z siebie dumny!</string>
+    <string name="notification01_title">NEWS: %1$s czuje się samotnie!</string>
+    <string name="notification01_text">Burmistrzu, proszę wróć!</string>
 
 
-    <string name="shop_adreward">Free diamonds</string>
-    <string name="draft_smallmetrostation00_title">Metro access point</string>
-    <string name="draft_smallmetrostation00_text">A station to access the metro. For trains you have to build a metro station.</string>
-    <string name="draft_roaddeco_trafficisland00_title">Traffic island</string>
-    <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
-    <string name="draft_roaddeco_buildingsite00_title">Building site</string>
-    <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
-    <string name="draft_roaddeco_trafficlights00_title">Traffic light</string>
-    <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
+    <string name="shop_adreward">Darmowe diamenty</string>
+    <string name="draft_smallmetrostation00_title">Przystanek metra</string>
+    <string name="draft_smallmetrostation00_text">Podziemny przystanek metra. Aby uruchomić pociągi potrzebna jest stacja.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Wysepka drogowa</string>
+    <string name="draft_roaddeco_trafficisland00_text">Pozwala ludziom bezpiecznie przekraczać jezdnię.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Plac budowy</string>
+    <string name="draft_roaddeco_buildingsite00_text">Uwaga! Roboty drogowe!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Sygnalizacja świetlna</string>
+    <string name="draft_roaddeco_trafficlights00_text">Bezpieczniejsze niż przejście dla pieszych i wysepka drogowa</string>
 
 
-    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
-    <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
+    <string name="tool_removemetrotunnel_title">Usuń tunel metra</string>
+    <string name="tool_removemetrotunnel_text">Usuńmy nieco tuneli metra.</string>
 
 </resources>
