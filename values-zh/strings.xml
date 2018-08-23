@@ -367,7 +367,7 @@
     <string name="tutorial_industrial_keepaway">工业应该区远离其他区域，因为它会产生污染和噪音。</string>
     <string name="tutorial_rci">点击这个按钮你会看到城市现在的具体需求。</string>
     <string name="tutorial_speed_fast">你可以改变游戏速度以避免太长的等待时间。</string>
-    <string name="tutorial_money_task">你的任务就是利用税收来挣钱来不断扩大你的城市。</string>
+    <string name="tutorial_money_task">你的任务就是利用税收来挣钱，用钱来不断扩大你的城市。</string>
     <string name="tutorial_money_info">点击右下角的方框，你可以了解城市的财政明细或者调整税率。</string>
     <string name="tutorial_congrats">同志，你已经掌握了最基础的操作，现在就来建造你自己的理想城市吧 :)</string>
     <string name="draft_road03_text">车辆只能从一个方向通过，可以用它布控城市交通。</string>
@@ -753,7 +753,7 @@
     <string name="draft_alert_swat00_text">只有特种部队才能平息一场暴乱。</string>
     <string name="control_continue">继续</string>
     <string name="settings_winter">冬天主题</string>
-    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！</string>
+    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！（市长，你是不是动了灾难菜单？）</string>
     <string name="notify_riot_reason">这里因为%1$s而引发了一场暴乱!</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_road04_text">一条美丽的林荫大道。</string>
@@ -788,7 +788,7 @@
     <string name="about_community">以及其它的社区成员</string>
     <string name="dialog_tosandbox_cmdconvert">沙盒</string>
     <string name="dialog_tosandbox_title">沙盒模式</string>
-    <string name="dialog_tosandbox_text">确定切换城市至沙盒模式？\n这一步不能撤回！</string>
+    <string name="dialog_tosandbox_text">确定切换城市至沙盒模式？\n这一步不能撤回！\n提示：沙盒模式将使你不再受预算的束缚，但预算是这个游戏很重要的一点。</string>
     <string name="requirement_rank">至少%1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">葬礼：%1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">垃圾处理：%1$,d/%2$,d</string>
@@ -840,7 +840,7 @@
     <string name="disaster_ufo_text">一个UFO袭击了你的城市！</string>
     <string name="disaster_ufo_cmdtext">设定目标</string>
     <string name="topic_theons">我们有了新的货币：Theons Ͳ</string>
-    <string name="topic_wip">建设中。请不要穿越。</string>
+    <string name="topic_wip">正在建设，请不要通行。</string>
     <string name="topic_belong">你的城市是属于我们的 &gt;:D</string>
     <string name="topic_love">你所需要的就是爱。</string>
     <string name="topic_build">我要在我的城市里建设高楼大厦和花园</string>
@@ -990,7 +990,7 @@
     <string name="draft_decosmallmountain00_text">这座小山是这片平坦的土地上的旅游胜地。</string>
     <string name="draft_feature_mountain00_text">这座小山是这片平坦的土地上的旅游胜地。</string>
     <string name="dialog_connect_title">连接</string>
-    <string name="dialog_connect_text">你想要与外部建立连接吗?</string>
+    <string name="dialog_connect_text">你想要与其他城市建立连接吗?</string>
     <string name="menu_hideui">隐藏界面</string>
     <string name="ci_neighbor_title">邻里商业</string>
     <string name="ci_neighbor_notavailable">暂时不可用</string>
@@ -1002,8 +1002,8 @@
     <string name="ci_neighbor_water">水</string>
     <string name="dialog_buy_free">免费</string>
     <string name="notify_missiledisaster">哦…你的上一个火箭实验好像引发了一个银河灾难。</string>
-    <string name="notification00_title">新鲜事: %1$s的金钱堆满仓库啦!</string>
-    <string name="notification00_text">市长，我们需要您来处理这些钱!</string>
+    <string name="notification00_title">来自%1$s的新邮件</string>
+    <string name="notification00_text">[“捏合”以查看更多]市长您好：\n得益于您的帮助，我们赚到了堆积如山的钱。但事实上，钱太多也不是好事。是时候把钱砸在民生工程上了。\n--市议会</string>
     <string name="roadinfo_bridgetype">桥梁种类</string>
     <string name="draft_feature_buildings01_text">大型居民建筑物，商业建筑物和工业建筑物以增添城市的多元化。可以大大提高居民的生活标准。</string>
     <string name="dialog_diamondshop_recommended">推荐</string>
@@ -1610,8 +1610,8 @@
     <string name="draft_cat_commercial00_title">商业</string>
     <string name="draft_cat_industrial00_title">工业</string>
     <string name="offerstage_saving">你会节省 %d%%</string>
-    <string name="draft_pickle00_title">全能泡菜</string>
-    <string name="draft_pickle00_text">看什么看！没有简介，就是泡菜。</string>
+    <string name="draft_pickle00_title">全能黄瓜怪</string>
+    <string name="draft_pickle00_text">想象一下，一个路上跑着黄瓜的城市...</string>
 
 
     <string name="settings_newtoolbar">使用新的工具栏</string>
@@ -1709,7 +1709,7 @@
     <string name="waste_cmdclear">立即清理</string>
     <string name="dialog_wasteclear_title">立即清理</string>
     <string name="dialog_wasteclear_text">我们可以为你清除在填埋场的垃圾</string>
-    <string name="draft_wasteincinerator00_text">摆脱所有的垃圾的快速而肮脏的方式。</string>
+    <string name="draft_wasteincinerator00_text">摆脱垃圾的快速而肮脏的方式。</string>
     <string name="budget_waste_disposal">垃圾处理</string>
     <string name="draft_alert_garbage00_title">通知垃圾车</string>
     <string name="draft_alert_garbage00_text">呼叫垃圾车来清理马路上堆积的垃圾</string>
@@ -1790,7 +1790,7 @@
     <string name="draft_metrostation00_title">地铁总站</string>
     <string name="draft_metrostation00_text">车库兼登上地铁的车站。</string>
     <string name="draft_metroline00_title">地铁隧道</string>
-    <string name="draft_metroline00_text">地铁隧道。你看不见它，但是确实在那里。</string>
+    <string name="draft_metroline00_text">地铁隧道。在地下，你正常来说看不到它。</string>
     <string name="feature_coming_soon">敬请期待</string>
     <string name="dialog_search_title">搜索</string>
     <string name="dialog_search_text">在这里输入搜索关键字。</string>
@@ -1829,7 +1829,7 @@
     <string name="draft_church10_text">为您的城市修建这个美丽的教堂兼修道院。\n\n科普：\n巴洛克（Baroque)，是一种代表欧洲文化的典型艺术风格。
 这个词最早来源于葡萄牙语（BARROCO)，意为“不圆的珍珠”，最初特指形状怪异的珍珠。而在意大利语（BAROCCO)中有“奇特，古怪，变形”等解释。\n巴洛克建筑是17～18世纪在意大利文艺复兴建筑基础上发展起来的一种建筑和装饰风格。其特点是外形自由，追求动态，喜好富丽的装饰和雕刻、强烈的色彩，常用穿插的曲面和椭圆形空间。它的风格自由奔放，造型繁复，富于变化，只是有的建筑装饰堆砌过分。</string>
     <string name="draft_roaddeco_construction00_title">挖掘机</string>
-    <string name="draft_roaddeco_construction00_text">等等，我们还在修路...但是这绝对不是个好主意，因为会切断道路。\n挖掘技术哪家强？中国山东找蓝翔！</string>
+    <string name="draft_roaddeco_construction00_text">等等，我们还在修路...\n微小的不便，换来巨大的好处。\n\n挖掘技术哪家强？中国山东找蓝翔！</string>
 
 
 
@@ -1837,15 +1837,15 @@
     <string name="buildinginfo_idletime">挂机时间: %s (游戏关闭时)</string>
     <string name="dialog_wb_completed">恭喜！在你离开的时候， %d 栋建筑建成了。</string>
     <string name="draft_roaddeco_barrier01_title">路障</string>
-    <string name="draft_roaddeco_barrier01_text">可以用于堵路。此路不通！</string>
+    <string name="draft_roaddeco_barrier01_text">可以用于堵路。此路不通！建议和挖掘机一起使用。</string>
     <string name="draft_roaddeco_construction01_title">沥青山</string>
-    <string name="draft_roaddeco_construction01_text">好道路工程的一部分。</string>
+    <string name="draft_roaddeco_construction01_text">修路是一定要有沥青的。好道路也是要好沥青的。\n（当然你修土路别来找我）</string>
 
 
-    <string name="notification00_sandbox_title">西奥新闻： %1$s被评选为幸福城市！</string>
-    <string name="notification00_sandbox_text">市长，你应该为此骄傲！</string>
-    <string name="notification01_title">西奥新闻： %1$s 的市民很久不见您，他们很焦急。</string>
-    <string name="notification01_text">市长，快回来！！！</string>
+    <string name="notification00_sandbox_title">来自 %1$s的新邮件</string>
+    <string name="notification00_sandbox_text">[“捏合”以查看更多]市长您好：\n您可能已经听说了您的城市被评选为幸福城市。这之中您做出了很大的贡献。让我们把城市发展的更加壮大吧！\n--市议会</string>
+    <string name="notification01_title">来自 %1$s 的新邮件</string>
+    <string name="notification01_text">[“捏合”以查看更多]市长您好：\n您已经很久没来管理城市了，城市已经停止了发展，市民很焦急。请速速归来。\n--市议会</string>
 
 
     <string name="shop_adreward">免费钻石</string>
@@ -1856,10 +1856,10 @@
     <string name="draft_roaddeco_buildingsite00_title">修路工地</string>
     <string name="draft_roaddeco_buildingsite00_text">注意！前方修路！</string>
     <string name="draft_roaddeco_trafficlights00_title">信号灯</string>
-    <string name="draft_roaddeco_trafficlights00_text">比安全岛、斑马线都要安全。</string>
-
+    <string name="draft_roaddeco_trafficlights00_text">比安全岛、斑马线都要安全。\n红灯行，绿灯停。</string>
 
     <string name="tool_removemetrotunnel_title">移除地铁隧道</string>
     <string name="tool_removemetrotunnel_text">让我们移除一些地铁隧道。</string>
+
 
 </resources>
