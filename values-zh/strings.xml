@@ -1335,7 +1335,7 @@
     <string name="draft_deco_chr_snowman00_title">雪人</string>
     <string name="draft_deco_chr_snowman00_text">儿童在冬天喜欢堆雪人</string>
     <string name="draft_internationalcommercecentre00_title">香港国际商务中心</string>
-    <string name="draft_internationalcommercecentre00_text">香港的国际商务中心是一座108层的商业摩天大楼。它是香港最高的建筑，高度为4.84米。它于2010年完工。</string>
+    <string name="draft_internationalcommercecentre00_text">香港的国际商务中心是一座108层的商业摩天大楼。它是香港最高的建筑，高度为484米。它于2010年完工。</string>
     <string name="settings_autosave_interval">自动保存间隔</string>
     <string name="settings_autosave_interval_off">关闭</string>
     <string name="settings_autosave_interval_minutes">%1$d分钟</string>
@@ -1587,7 +1587,7 @@
     <string name="draft_feature_landmarks01_text">包括以下建筑：</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
+    <string name="draft_cat_supply00_title">供给</string>
     <string name="draft_cat_road00_title">道路</string>
     <string name="draft_cat_bus00_title">公交</string>
     <string name="draft_cat_train00_title">轨道交通</string>
@@ -1878,31 +1878,33 @@
     <string name="draft_disaster_picklehuge01_text">有点太大的黄瓜。它可能产生使用道路的文明泡菜。</string>
 
 
-    <string name="draft_discord_statue00_title">Discord statue</string>
-    <string name="draft_discord_statue00_text">Discord statue.</string>
-    <string name="notify_discord_statue00_title">Thank you!</string>
-    <string name="notify_discord_statue00_text">Thank you for 3,000 members on our Discord server. Do you want to visit it now?</string>
-    <string name="draftselector_titlebodydisposal">Funeral</string>
-    <string name="draft_roaddeco_protester00_title">Fake protesters</string>
-    <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
-    <string name="draft_roaddeco_riot00_title">Fake riot</string>
-    <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
-    <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
-    <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
-    <string name="disaster_blizzard_title">Blizzard</string>
-    <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
-    <string name="disaster_blizzard_cmdtext">Freeze!</string>
-    <string name="draft_snowtile00_title">Permanent snow</string>
-    <string name="draft_snowtile00_text">What about global warming?</string>
-    <string name="gamemode_free_title">Free</string>
-    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.</string>
-    <string name="dialog_free_title">Free game mode</string>
-    <string name="dialog_free_text">You selected free game mode.\n
-Pros: No money, no requirements, options to control demand\n
-Cons: Less challenges</string>
-    <string name="draft_medic03_title">Modern hospital</string>
-    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
-    <string name="draft_gol_dead_title">Game of life</string>
-    <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
-
+    <string name="draft_discord_statue00_title">Discord 雕像</string>
+    <string name="draft_discord_statue00_text">一个上面是 Discord 的雕像。</string>
+    <string name="notify_discord_statue00_title">非常感谢！</string>
+    <string name="notify_discord_statue00_text">感谢Discord服务器上的3,000名会员。你想现在去看看吗？\nDiscord是专为游戏社区设计的专有免费软件VoIP应用程序和数字分发平台，专门用于聊天频道中用户之间的文本，图像，视频和音频通信。</string>
+    <string name="draftselector_titlebodydisposal">葬礼服务</string>
+    <string name="draft_roaddeco_protester00_title">假 · 抗议者</string>
+    <string name="draft_roaddeco_protester00_text">花钱雇佣假的抗议者</string>
+    <string name="draft_roaddeco_riot00_title">假 · 骚乱</string>
+    <string name="draft_roaddeco_riot00_text">雇佣一些人假装暴乱。</string>
+    <string name="draft_roaddeco_roundabout00_title">迷你环形路口</string>
+    <string name="draft_roaddeco_roundabout00_text">一个小小的环形路口。可以把它放在十字路口。</string>
+    <string name="disaster_blizzard_title">暴雪</string>
+    <string name="disaster_blizzard_text">撑着，冬天来了。</string>
+    <string name="disaster_blizzard_cmdtext">好冷！</string>
+    <string name="draft_snowtile00_title">永久雪层</string>
+    <string name="draft_snowtile00_text">全球变暖怎么样？</string>
+    <string name="gamemode_free_title">自由模式</string>
+    <string name="gamemode_free_text">不想受有限的资金束缚？在这种游戏模式中，没有钱的限制，也没有人口要求。\n与原来的沙盒模式相近。</string>
+    <string name="dialog_free_title">自由模式</string>
+    <string name="dialog_free_text">你选择了自由模式。\n
+优点：没有资金，没有限制，可以控制需求\n
+缺点：挑战太少</string>
+    <string name="draft_medic03_title">现代化医院</string>
+    <string name="draft_medic03_text">一个现代化的医院，可以在更小的空间内照顾更多的病人。</string>
+    <string name="draft_gol_dead_title">康威生命游戏</string>
+    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway's Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
+    <!-- Those are strings ingame but not here -->
+    <string name="draft_feature_langmarks04_title">地标包4</string>
+    <string name="draft_marker_watermarkermarker_title">水管概览</string>
 </resources>
