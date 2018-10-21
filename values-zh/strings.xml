@@ -1587,7 +1587,7 @@
     <string name="draft_feature_landmarks01_text">包括以下建筑：</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
+    <string name="draft_cat_supply00_title">供给</string>
     <string name="draft_cat_road00_title">道路</string>
     <string name="draft_cat_bus00_title">公交</string>
     <string name="draft_cat_train00_title">轨道交通</string>
@@ -1904,5 +1904,7 @@
     <string name="draft_medic03_text">一个现代化的医院，可以在更小的空间内照顾更多的病人。</string>
     <string name="draft_gol_dead_title">康威生命游戏</string>
     <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway's Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
-
+    <!-- Those are strings ingame but not here -->
+    <string name="draft_feature_langmarks04_title">地标包4</string>
+    <string name="draft_marker_watermarkermarker_title">水管概览</string>
 </resources>
