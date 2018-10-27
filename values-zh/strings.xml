@@ -1903,8 +1903,30 @@
     <string name="draft_medic03_title">现代化医院</string>
     <string name="draft_medic03_text">一个现代化的医院，可以在更小的空间内照顾更多的病人。</string>
     <string name="draft_gol_dead_title">康威生命游戏</string>
-    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway's Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
-    <!-- Those are strings ingame but not here -->
-    <string name="draft_feature_langmarks04_title">地标包4</string>
+    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway\'s Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
+    <string name="draft_feature_landmarks04_title">地标包5</string>
+    <!-- This one is not included for good reasons: Hackers could just change it -->
     <string name="draft_marker_watermarkermarker_title">水管概览</string>
+
+    <string name="draft_coittower00_title">Coit Memorial Tower</string>
+    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
+    <string name="draft_bankofamerica00_title">Bank of America Center</string>
+    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
+    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
+    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
+    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
+    <string name="dialog_cemeteryclear_title">Clear now</string>
+    <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
+    <string name="cemetery_cmdclear">Clear now</string>
+    <string name="cemetery_clear">SWIPE to free up some space.</string>
+    <string name="draft_cemetery00_text">A place where the remains of dead people are buried. Rest in peace.</string>
+    <string name="draft_crematory00_text">Dead people are burnt here.</string>
+    <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
+    <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
+    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
+    <string name="draft_halloween_tree00_title">Dead tree</string>
+    <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
+    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
+
 </resources>
