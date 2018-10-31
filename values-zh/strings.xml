@@ -1905,35 +1905,28 @@
     <string name="draft_gol_dead_title">康威生命游戏</string>
     <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway\'s Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
     <string name="draft_feature_landmarks04_title">地标包5</string>
-    <!-- This one is not included for good reasons: Hackers could just change it -->
+    <!-- This one is not included for good reasons: Hackers could just change it --><!-- Emm...then what is it?-->
     <string name="draft_marker_watermarkermarker_title">水管概览</string>
 
-    <string name="draft_coittower00_title">Coit Memorial Tower</string>
-    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
-    <string name="draft_bankofamerica00_title">Bank of America Center</string>
-    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
-    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
-    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
-    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
-    <string name="dialog_cemeteryclear_title">Clear now</string>
-    <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
-    <string name="cemetery_cmdclear">Clear now</string>
-    <string name="cemetery_clear">SWIPE to free up some space.</string>
-    <string name="draft_cemetery00_text">A place where the remains of dead people are buried. Rest in peace.</string>
-    <string name="draft_crematory00_text">Dead people are burnt here.</string>
-    <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
-    <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
-    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
-    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
-    <string name="draft_halloween_tree00_title">Dead tree</string>
-    <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
-    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
-
-
-    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
-    <string name="draft_haunted_house00_title">Haunted house</string>
-    <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
-    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
-    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
+    <string name="draft_coittower00_title">科伊特塔</string>
+    <string name="draft_coittower00_text">科伊特塔位于Telegraph Hill的山坡上，高达60m，建成于1933年，有人说塔的形状就是为了赞颂为救火而牺牲的消防员的，而仿照消防软管的喷嘴形状而成。</string>
+    <string name="draft_bankofamerica00_title">美国银行中心</string>
+    <string name="draft_bankofamerica00_text">美国银行中心, 是加利福尼亚州旧金山的52层779英尺 (237 米) 摩天大楼。</string>
+    <string name="draft_transamerica00_title">泛美金字塔</string>
+    <string name="draft_transamerica00_text">泛美金字塔是旧金山的摩天大楼, 高260m，于1972年竣工, 是（众多）金融服务公司的所在地。</string>
+    <string name="draft_feature_landmarks05_text">获得一些旧金山的地标建筑。</string>
+    <string name="dialog_cemeteryclear_title">立刻清除</string>
+    <string name="dialog_cemeteryclear_text">我想我们可以再利用这里的一些空间。</string>
+    <string name="cemetery_cmdclear">立刻清除</string>
+    <string name="cemetery_clear">轻扫以释放一些空间。</string>
+    <string name="draft_cemetery00_text">这是埋葬死者遗体的地方。安息吧。</string>
+    <string name="draft_crematory00_text">去世的人会在这里进行火葬</string>
+    <string name="notify_bodydisposal_needer00">亲爱的市长, 我劝你建造一个墓地埋葬死者。</string>
+    <string name="notify_bodydisposal_producer00">这个墓地里没有剩余的空间了。清理它，或建造一个新的墓地或火葬场。</string>
+    <string name="draft_halloween_pumpkin00_title">南瓜</string>
+    <string name="draft_halloween_pumpkin00_text">万圣节来了！人人都喜欢南瓜，难道不是吗？</string>
+    <string name="draft_halloween_tree00_title">死树</string>
+    <string name="draft_halloween_tree00_text">幽灵般的死树, 通常用于鬼故事。</string>
+    <string name="draft_feature_landmarks05_title">地标包6</string>
 
 </resources>
