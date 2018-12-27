@@ -132,7 +132,7 @@
     <string name="topic_users">期待第十万个玩家</string>
     <string name="topic_tutorial">有新手教程哦 :)</string>
     <string name="topic_birthday_lobby">生日快乐，Lobby，我爱你 :)</string>
-    <string name="settings_resolution">分辨率</string>
+    <string name="settings_resolution">分辨率[决定游戏缩放]</string>
     <string name="settings_hideads_yes">真的很确定</string>
     <string name="loadcity_deletedialog_cmdcancel">取消</string>
     <string name="loadcity_cmddelete">删除</string>
@@ -205,7 +205,7 @@
     <string name="draft_buoy00_title">浮标</string>
     <string name="draft_biergarten00_title">啤酒花园</string>
     <string name="disaster_flooding_cmdtext">下雨吧</string>
-    <string name="disaster_flooding_text">太多水了吧。</string>
+    <string name="disaster_flooding_text">水漫金山！</string>
     <string name="disaster_flooding_title">洪水</string>
     <string name="disaster_illness_cmdtext">病毒</string>
     <string name="disaster_illness_text">居民们会生病的...</string>
@@ -564,13 +564,13 @@
     <string name="toolremove_pipe_title">移除输水管道</string>
     <string name="shader_old">8色风格</string>
     <string name="shader_gray">255度灰</string>
-    <string name="shader_fancy2">丝滑</string>
+    <string name="shader_fancy2">丝滑[低配勿入]</string>
     <string name="settings_ultrafastspeed">超快游戏速度</string>
     <string name="settings_showinfluencepreview">影响力预览</string>
     <string name="settings_shadertype_xfancy">更细腻</string>
-    <string name="settings_shadertype_normal">正常</string>
+    <string name="settings_shadertype_normal">默认</string>
     <string name="settings_shadertype_fancy">抗锯齿</string>
-    <string name="settings_shader">Shader</string>
+    <string name="settings_shader">画面</string>
     <string name="settings_rightsidebar">边栏右置</string>
     <string name="settings_orientationlandscape">横屏</string>
     <string name="settings_preserveedges">保留边缘</string>
@@ -624,7 +624,7 @@
     <string name="settings_disaster_auto">自动灾害</string>
     <string name="settings_debugmode">Debug模式</string>
     <string name="settings_category_ui">用户界面</string>
-    <string name="settings_category_graphics">图像</string>
+    <string name="settings_category_graphics">画面</string>
     <string name="draft_school02_text">村庄小学</string>
     <string name="draft_sewerpipe00_text">让脏水直接排入大自然。下水管道会变干净，但是环境会因此被污染。</string>
     <string name="draft_statue00_title">雕像</string>
@@ -969,7 +969,7 @@
     <string name="draft_decoconstruction00_text">一些建筑工地的装饰。</string>
     <string name="draft_mltry_deco00_title">军用装饰</string>
     <string name="draft_mltry_deco00_text">用于军事基地的装饰。</string>
-    <string name="shader_smooth">光滑</string>
+    <string name="shader_smooth">光滑[细节少]</string>
     <string name="topic_dumbledore">邓布利多不会让它发生的。</string>
     <string name="draft_mltry_missilesilo00_title">导弹发射井</string>
     <string name="draft_feature_military00_text">建立一个属于你自己的军事基地以保护你的城市。包含了UFO灾难。</string>
@@ -1325,8 +1325,8 @@
     <string name="draft_jardinehouse00_text">怡和大厦是位于香港的办公大楼。它有52层,高度为179米,在1972年建成。</string>
     <string name="draft_bankofchina00_title">中国银行大厦</string>
     <string name="draft_bankofchina00_text">香港中国银行大厦是中国银行香港分行的总部。它有70层楼，高367米，于1990年完工</string>
-    <string name="settings_road_zone_width">路的宽度</string>
-    <string name="settings_road_zone_height">路的高度</string>
+    <string name="settings_road_zone_width">自动筑路网格宽</string>
+    <string name="settings_road_zone_height">自动筑路网格长</string>
     <string name="draft_feature_christmas_pack00_title">圣诞节特惠</string>
     <string name="draft_feature_christmas_pack00_text">这个限时特惠包括：</string>
     <string name="draft_feature_christmas00_title">圣诞节</string>
@@ -1393,8 +1393,8 @@
     <string name="notify_disaster_ufo">外星人来了！而且好像还要毁灭这里！！！</string>
     <string name="settings_download_static_files">静态文件下载</string>
     <string name="pluginerror_visitforum">去论坛报告</string>
-    <string name="dialog_gameplay_title">上传游戏情节</string>
-    <string name="dialog_gameplay_text">通过启用游戏内容上传，你允许我们将你的游戏内容上载到我们的服务器。请参阅免责声明以获得更多信息。</string>
+    <string name="dialog_gameplay_title">在西奥直播直播Theotown</string>
+    <string name="dialog_gameplay_text">通过启用游戏内容上传，你允许我们将你的游戏画面（且不包括任何其他界面，如文本框、悬浮窗等）上传到我们的服务器并允许他人在官网观看。同时间上传的也会有一些调试用数据，用来改善游戏体验。我们不会上传您的任何个人信息。更多信息请参阅免责声明。</string>
     <string name="control_enable">允许</string>
     <string name="dialog_gameplay_disclaimer">查看免责声明</string>
     <string name="busgame_newbus">购买%d号车</string>
@@ -1430,7 +1430,7 @@
     <string name="control_dismiss">抛弃</string>
     <string name="settings_citytasks">任务</string>
     <string name="dialog_disabletasks_title">禁用任务系统</string>
-    <string name="dialog_disabletasks_text">你正在接二连三的抛弃任务，要不要禁用任务系统？</string>
+    <string name="dialog_disabletasks_text">你似乎正在接二连三的抛弃任务。要不要禁用任务系统？</string>
     <string name="control_disable">禁用</string>
     <string name="draft_arcdetriomphe00_title">凯旋门</string>
     <string name="draft_arcdetriomphe00_text">巴黎的凯旋门纪念那些在法国革命中战斗和牺牲的人。</string>
@@ -1628,7 +1628,7 @@
     <string name="dialog_gallerydelete_text">确定要删除吗？此操作无法撤回！</string>
     <string name="dialog_gallerydelete_cmd">删除</string>
     <string name="dialog_gallerypolicy_title">稍等一下</string>
-    <string name="dialog_gallerypolicy_text">我很高兴你愿意为我们的画廊做贡献。然而,在我们开始之前,你必须同意我们的协议,允许我们为你上传截图。\n
+    <string name="dialog_gallerypolicy_text">很高兴你愿意为我们的画廊做贡献。然而,在我们开始之前,你必须同意我们的协议,允许我们为你上传截图。\n
 如果你同意我们的截图上传政策,那就同意。\n记住，看看协议是个好习惯。</string>
     <string name="dialog_gallerypolicy_cmdpolicy">查看协议</string>
     <string name="dialog_gallerypolicy_cmdok">同意</string>
@@ -1648,7 +1648,7 @@
 
 <string name="draft_easteregg00_text">这是个复活节彩蛋。你要对它做什么？</string>
 
-<string name="draft_notify_easteregg_spawned00_text">不知什么地方有个复活节彩蛋。你能找到吗？</string>
+<string name="draft_notify_easteregg_spawned00_text">某个地方有个复活节彩蛋。你能找到吗？</string>
 
 <string name="draft_notify_easteregg_found00_text">恭喜你，你找到了复活节彩蛋！</string>
 
@@ -1656,7 +1656,7 @@
 <string name="draft_recyclingyard00_title">回购中心</string>
 
 <string name="draft_recyclingyard00_text">如果可以在回收中心回收垃圾，为什么要焚烧垃圾或者把垃圾带进填埋场呢？</string>
-<string name="draft_notify_pickle_spawned00_text">大黄瓜出现在%s。市长，你要对它做什么？</string>
+<string name="draft_notify_pickle_spawned00_text">一只大黄瓜出现在%s。市长，你要对它做什么？</string>
 
 <string name="draft_rugbyfield00_title">橄榄球场</string>
 
@@ -1748,7 +1748,7 @@
     <string name="draft_roaddeco_border02_title">防护栏</string>
     <string name="draft_roaddeco_border02_text">路边的栏杆</string>
     <string name="draft_roaddeco_border03_title">隔声墙</string>
-    <string name="draft_roaddeco_border03_text">什么噪声？我什么都没听到！\n\n本装饰没有减弱噪声的作用</string>
+    <string name="draft_roaddeco_border03_text">什么噪声？我什么都没听到！\n\n本装饰似乎并没有减弱噪声的作用</string>
     <string name="draft_roaddeco_border04_title">玻璃墙</string>
     <string name="draft_roaddeco_border04_text">你可以从中看见车辆</string>
     <string name="draft_roaddeco_border05_title">路灯</string>
@@ -1790,7 +1790,7 @@
     <string name="draft_metrostation00_title">地铁总站</string>
     <string name="draft_metrostation00_text">车库兼登上地铁的车站。</string>
     <string name="draft_metroline00_title">地铁隧道</string>
-    <string name="draft_metroline00_text">地铁隧道。在地下，你正常来说看不到它。</string>
+    <string name="draft_metroline00_text">地铁隧道。在地下，你一般看不到它。</string>
     <string name="feature_coming_soon">敬请期待</string>
     <string name="dialog_search_title">搜索</string>
     <string name="dialog_search_text">在这里输入搜索关键字。</string>
@@ -1895,7 +1895,7 @@
     <string name="draft_snowtile00_title">永久雪层</string>
     <string name="draft_snowtile00_text">全球变暖怎么样？</string>
     <string name="gamemode_free_title">自由模式</string>
-    <string name="gamemode_free_text">不想受有限的资金束缚？在这种游戏模式中，没有钱的限制，也没有人口要求。\n与原来的沙盒模式相近。</string>
+    <string name="gamemode_free_text">不想受有限的资金束缚？在这种游戏模式中，没有钱的限制，也没有人口要求。\n与原来的沙盒模式相近，但是会花费你75钻石。\n翻译者说：\n如果不想自掏腰包，你也可以去设置 其它 里开启实验性功能，使用沙盒模式。\n但鉴于开发者资金不怎么充裕，建议购买支持一下。</string>
     <string name="dialog_free_title">自由模式</string>
     <string name="dialog_free_text">你选择了自由模式。\n
 优点：没有资金，没有限制，可以控制需求\n
@@ -1934,7 +1934,7 @@
     <string name="draft_haunted_house00_title">鬼屋</string>
     <string name="draft_haunted_house00_text">看起来很危险的别墅。可能有个傻瓜住在这里。</string>
     <string name="notify_illness">疫情爆发，我们必须立即采取行动。马上派遣医疗队！！！</string>
-    <string name="notify_illnessnomedic">疫情爆发，我们没有医生。我们现在就要建个医疗场所！</string>
+    <string name="notify_illnessnomedic">见鬼了，疫情爆发，我们却没有医生。马上建一个！马上！！！</string>
 
 
     <string name="shader_lol">扭曲</string>
