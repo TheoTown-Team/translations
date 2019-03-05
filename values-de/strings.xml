@@ -1887,7 +1887,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_snowtile00_title">Ewiges Eis</string>
     <string name="draft_snowtile00_text">Wie war das mit der Klimaerwärmung?</string>
     <string name="gamemode_free_title">Frei</string>
-    <string name="gamemode_free_text">Keine Lust auf Spielgeld? In diesem Spielmodus gibt es weder Geld noch Ansprüche.</string>
+    <string name="gamemode_free_text">Keine Lust auf Spielgeld? In diesem Spielmodus gibt es weder Geld noch Ansprüche.\nErreiche Rang 64 in einer regulären Stadt um diesen Modus permanent freizuschalten.</string>
     <string name="dialog_free_title">Freier Spielmodus</string>
     <string name="dialog_free_text">Du hast den freien Spielmodus ausgewählt.\n
 Vorteile: Kein Geld, keine Voraussetzungen, Kontrolle über Nachfrage\n
@@ -1909,7 +1909,7 @@ Nachtteile: Langweilig</string>
     <string name="dialog_cemeteryclear_text">Ich denke wir können etwas Platz wiederverwenden.</string>
     <string name="cemetery_cmdclear">Jetzt leeren</string>
     <string name="cemetery_clear">WISCHE um Platz frei zu geben.</string>
-    <string name="draft_cemetery00_text">Hier werden die Überrreste Verstorbener begraben. Ruhen sie in Frieden.</string>
+    <string name="draft_cemetery00_text">Hier werden die Überreste Verstorbener begraben. Ruhen sie in Frieden.</string>
     <string name="draft_crematory00_text">Leichen werden hier verbrannt.</string>
     <string name="notify_bodydisposal_needer00">Bürgermeister, ich bitte Sie einen Friedhof für unsere Verstorbenen zu bauen.</string>
     <string name="notify_bodydisposal_producer00">Dieser Friedhof ist voll. Leere ihn oder baue einen neuen.</string>
@@ -2009,5 +2009,65 @@ Nachtteile: Langweilig</string>
 
     <string name="draft_deco_chr_santashouse00_title">Haus vom Weihnachtsmann</string>
     <string name="draft_deco_chr_santashouse00_text">Die Basis vom Weihnachtsmann. Von hier aus verteilt er die Geschenke.</string>
+
+
+    <string name="store_previouslyinstalled">Entfernt</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
+    <string name="draft_rails00_title">Schienen</string>
+    <string name="draft_rails00_text">Wird von Zügen befahren.</string>
+    <string name="draft_rails00oneway00_title">Einweg Schienen</string>
+    <string name="draft_rails00oneway00_text">Wird von Zügen befahren, jedoch nur in eine Richtung.</string>
+    <string name="specialoffer_cmdbuy">Kaufen für %s</string>
+    <string name="influence_body_disposal_title">Bestattung</string>
+    <string name="influence_body_disposal_text">Ruhe für die Toten.</string>
+    <string name="influence_traffic_title">Verkehr</string>
+    <string name="influence_traffic_text">Einwohner mögen den von Verkehr verursachten Lärm und die Verschmuztung nicht.</string>
+    <string name="ci_neighbor_wastedisposal">Müllentsorgung</string>
+    <string name="ci_neighbor_bodydisposal">Bestattungsservice</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="bodydisposal_transport">%1$,d/d</string>
+    <string name="draft_cat_elevatedtrain00_title">Hochbahn</string>
+    <string name="draft_cat_metro00_title">U-Bahn</string>
+    <string name="draft_cat_tree00_title">Pflanzen</string>
+    <string name="draft_railroof00_title">Dach</string>
+    <string name="draft_railroof00_text">Dach für Schienen wie es in Bahnhöfen zum Einsatz kommt.</string>
+    <string name="draft_trainplatform00_title">Bahnsteig 1</string>
+    <string name="draft_trainplatform00_text">Ein Bahnsteig. Hat dekorativen Charakter.</string>
+    <string name="draft_trainplatform01_title">Bahnsteig 2</string>
+    <string name="draft_trainplatform02_title">Bahnsteig 3</string>
+    <string name="draft_trainplatform03_title">Bahnsteig 4</string>
+    <string name="draft_trainplatform04_title">Bahnsteig 5</string>
+    <string name="draft_trainplatform05_title">Bahnsteig 6</string>
+    <string name="draft_trainplatform06_title">Bahnsteig 7</string>
+    <string name="draft_trainplatform07_title">Bahnsteig 8</string>
+    <string name="draft_trainstation00_title">Nahverkehrsbahnsteig</string>
+    <string name="draft_trainstation00_text">Ein Bahnsteig der nur von Nahverkehrszügen genutzt wird.</string>
+    <string name="draft_trainstation01_title">Fernverkehrsbahnsteig</string>
+    <string name="draft_trainstation01_text">Ein Bahnsteig für den Fernverkehr.</string>
+    <string name="draft_train_freight_station00_title">Güterbahnhof 1</string>
+    <string name="draft_train_freight_station00_text">Ein dekorativer Bahnsteig für Güterzüge.</string>
+    <string name="draft_train_freight_station01_title">Güterbahnhof 2</string>
+    <string name="draft_train_freight_station02_title">Güterbahnhof 3</string>
+    <string name="draft_train_freight_station03_title">Güterbahnhof 4</string>
+    <string name="draft_train_freight_station04_title">Güterbahnhof 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Kleiner Bahnhof</string>
+    <string name="draft_trainstation_prebuilt00_text">Ein kleiner Bahnhof für den Nahverkehr.</string>
+    <string name="draft_trainstation_prebuilt01_title">Bahnhof</string>
+    <string name="draft_trainstation_prebuilt01_text">Ein großer Bahnhof für den Nahverkehr.</string>
+    <string name="draft_trainstation_prebuilt02_title">Hauptbahnhof</string>
+    <string name="draft_trainstation_prebuilt02_text">Ein großer Bahnhof der von Nah- und Fernverkehrszügen benutzt wird.</string>
+    <string name="draft_cat_train00_parts00_title">Einzelteile</string>
+    <string name="draft_raildeco_crane00_title">Krahn</string>
+    <string name="draft_raildeco_crane00_text">Ein Krahn für ein Einsatz auf Güterbahnhöfen.</string>
+    <string name="draft_raildeco_traincrossing00_title">Bahnübergang</string>
+    <string name="draft_raildeco_traincrossing00_text">Ein Bahnübergang für Krezungen mit Straße.</string>
+    <string name="draft_raildeco_mast00_title">Oberleitung</string>
+    <string name="draft_raildeco_mast00_text">Eine Oberleitung versorgt Züge mit Strom. Lässt Züge schneller fahren.</string>
+    <string name="draft_raildeco_lights00_00_title">Bahnsignale</string>
+    <string name="draft_raildeco_lights00_00_text">Regeln den Zugverkehr.</string>
+    <string name="draft_trainstation_prebuilt10_title">Güterbahnhof</string>
+    <string name="draft_trainstation_prebuilt10_text">Ein kleiner Bahnhof für Industriegüter.</string>
+    <string name="draft_trainstation_prebuilt11_title">Großer Güterbahnhof</string>
+    <string name="draft_trainstation_prebuilt11_text">Ein großer Bahnhof für viele Industriegüter.</string>
 
 </resources>
