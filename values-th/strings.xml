@@ -101,7 +101,7 @@
     <string name="draft_coalplant00_title">โรงไฟฟ้าถ่านหิน</string>
     <string name="draft_coalplant00_text">โรงไฟฟ้าถ่ายหินนั้นสามารถผลิตพลังงานไฟฟ้าได้เยอะ แต่ว่ามันแย่ต่อสิ่งแวดล้อมนะ</string>
     <string name="draft_solarpanels00_title">แผงโซล่าเซลล์</string>
-    <string name="draft_solarpanels00_text">ดีต่อสิ่งแวดล้อม & ไร้มลพิษ ไม่มีอะไรเสียหาย!</string>
+    <string name="draft_solarpanels00_text">ดีต่อสิ่งแวดล้อม &amp; ไร้มลพิษ ไม่มีอะไรเสียหาย!</string>
     <string name="draft_park00_title">สวนดอกไม้ขนาดเล็ก</string>
     <string name="draft_park00_text">นำธรรมชาติส่วนเล็กๆเข้าสู่เมืองที่คับคั่งของคุณ!</string>
     <string name="draft_park01_title">สวนขนาดเล็ก</string>
@@ -290,7 +290,7 @@
     <string name="ci_energy_ratio">การใช้งาน : %1$.1f%%</string>
     <string name="ci_energy_all">โดยรวม</string>
     <string name="ci_energy_single">ระบบเดี่ยว</string>
-    <string name="ci_water_all">โดยรวม</stri ng>
+    <string name="ci_water_all">โดยรวม</string>
     <string name="ci_water_single">ระบบเดี่ยว</string>
     <string name="ci_water_networks">%1$,d ระบบ</string>
     <string name="ci_water_consumed">ปริมาณการใช้: %1$,.0fL/h (%2$,d อาคาร)</string>
@@ -397,11 +397,11 @@
     <string name="settings_carsimulation">จำลองยานพาหนะ</string>
     <string name="settings_weather">สภาพอากาศ</string>
     <string name="topic_christmas">สุขสันต์วันคริสต์มาส โฮ่ๆๆ!</string>
-    <string name="topic_newyear">สวัสดีวันปีใหม่! ขอให้มีแต่เรื่องดีๆเข้ามานะ >,< </string>
+    <string name="topic_newyear">สวัสดีวันปีใหม่! ขอให้มีแต่เรื่องดีๆเข้ามานะ &gt;,&lt; </string>
     <string name="topic_birthday_lobby">สุขสันต์วันเกิดนะ Lobby! :)</string>
     <string name="topic_birthday_theo">สุขสันต์วันเกิดนะ Theo! :)</string>
     <string name="topic_np">P=NP?</string>
-    <string name="topic_42"></string>
+    <string name="topic_42"/>
     <string name="draft_radio00_news_title">ข่าวสด 87.5 เมกะเฮิร์ซ</string>
     <string name="draft_radio00_news_text">รวดเร็ว! ฉับไว! น่าเชื่อถือ!! /nป่าวประกาษข่าวด่วนล่าสุดให้ชาวเมืองได้รับทราบกัน!
 \n
@@ -511,7 +511,7 @@
     <string name="budget_loans">เงินกู้</string>
     <string name="ci_loan_loanlist">เงินกู้ปัจจุบัน (โดยรวม %1$s จาก %2$,d/%3$,d รายการ) :</string>
     <string name="ci_loan_remaining_runtime">ระยะที่เหลือ : %2$,d เดือน %1$,d วัน</string>
-    <string name="ci_loan_paybackcost">จำนวนจ่ายคืน : %1$s</stng>
+    <string name="ci_loan_paybackcost">จำนวนจ่ายคืน : %1$s</string>
     <string name="ci_loan_estate">ทรัพย์สิน %1$s</string>
     <string name="topic_support_ads">คุณสามารถช่วยเหลือพวกเราได้โดยการช่วยดูโฆษณานะ ทีมของเราจำเป็นจริงๆ :)</string>
     <string name="settings_disaster_tornado">พายุทอร์นาโด</string>
@@ -526,7 +526,7 @@
     <string name="draft_zoneindustrial_lvl2_title">เขตอุตสาหกรรมความหนาแน่นสูง</string>
     <string name="draft_zoneindustrial_lvl2_text">เพิ่มความหนาแน่นเพื่อเตรียมรับโรงงานขนาดใหญ่!</string>
     <string name="draft_zonefarm_title">ทุ่งเกษตรกรรม</string>
-    <string name="draft_zonefarm_text">เขตอุตสาหกรรมราคาถูกสำหรับการเริ่มต้นง่ายๆ ไม่มีมลภาวะ&เสียง! (ขนาดอย่างต่ำคือ 4x4)</string>
+    <string name="draft_zonefarm_text">เขตอุตสาหกรรมราคาถูกสำหรับการเริ่มต้นง่ายๆ ไม่มีมลภาวะ&amp;เสียง! (ขนาดอย่างต่ำคือ 4x4)</string>
     <string name="requirement_peoplecount_all">Need: A population of %1$,d</string>
     <string name="requirement_peoplecount_poor">Need: A poor population of %1$,d</string>
     <string name="requirement_peoplecount_middle">Need: A mid-class population of %1$,d</string>
@@ -567,7 +567,7 @@
     <string name="influence_religion_title">ความครอบคลุมด้านศาสนา</string>
     <string name="influence_culture_title">ความครอบคลุมด้านวัฒนธรรม</string>
     <string name="influence_culture_text">ดูความครอบคลุมของแหล่งวัฒนธรรมในเมืองของคุณ</string>
-    <string name="influence_education_low_text">ยกตัวอย่างเช่นโรงเรียนอนุบาล & โรงเรียนประถมศึกษา</string>
+    <string name="influence_education_low_text">ยกตัวอย่างเช่นโรงเรียนอนุบาล &amp; โรงเรียนประถมศึกษา</string>
     <string name="influence_education_high_text">ยกตัวอย่างเช่นโรงเรียนมัธยมศึกษาหรือพิพิธภัณฑ์</string>
     <string name="influence_firedep_text">ระยะขอบเขตของสถานีดับเพลิง อาคารที่อยู่ภายใต้ขอบเขตแทบที่จะไม่มีโอกาศติดไฟเลย</string>
     <string name="influence_health_text">ระยะขอบเขตของสถานพยาบาล ทำให้ประชากรมีความสุขและรู้สึกอุ่นใจ</string>
@@ -669,7 +669,7 @@
     <string name="settings_leftminimap">แผนที่ย่อด้านซ้าย</string>
     <string name="settings_category_ui">หน้าจอใช้งาน</string>
     <string name="influence_radioactive_title">ระดับกัมมันตภาพรังสี</string>
-    <string name="influence_radioactive_text">เป็นอันตรายต่อมนุษย์ & สิ่งแวดล้อม</string>
+    <string name="influence_radioactive_text">เป็นอันตรายต่อมนุษย์ &amp; สิ่งแวดล้อม</string>
     <string name="draft_rail00_title">รางรถไฟ</string>
     <string name="draft_rail00_text">รางรถไฟทางวิ่งยกระดับ /n(!!ต้องกดสร้างเข้าไปในตัวสถานี!!)</string>
     <string name="draft_railwaystation00_title">สถานีรถไฟลอยฟ้า</string>
@@ -677,14 +677,14 @@
     <string name="draft_school02_title">โรงเรียนขนาดเล็ก</string>
     <string name="draft_school02_text">โรงเรียนประถมฯขนาดเล็กสำหรับหมู่บ้านเล็กๆ</string>
     <string name="toolremove_zone_title">ยกเลิกเขตก่อสร้าง</string>
-    <string name="toolremove_zone_text">ใช้เพื่อรื้อ & ยกเลิกเขตก่อสร้างประเภทต่างๆที่ได้กำหนดไว้</string>
+    <string name="toolremove_zone_text">ใช้เพื่อรื้อ &amp; ยกเลิกเขตก่อสร้างประเภทต่างๆที่ได้กำหนดไว้</string>
     <string name="budget_rail">ระบบราง</string>
     <string name="budget_railstation">สถานีรถไฟ</string>
     <string name="draft_marker_ticketmarker_title">ตั๋วรถไฟ</string>
     <string name="draft_marker_ticketmarker_text">แสดงปริมาณตั๋วรถไฟที่ถูกใช้งาน</string>
     <string name="trainstationinfo_usage">ผู้โดยสารที่รอ: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">สถานดับเพลิงขนาดเล็ก</string>
-    <string name="draft_firedepartment01_text">ป้องกัน & ปราบปรามเหตุไฟไหม้  มีรถฉุกเฉินแค่คันเดียว</string>
+    <string name="draft_firedepartment01_text">ป้องกัน &amp; ปราบปรามเหตุไฟไหม้  มีรถฉุกเฉินแค่คันเดียว</string>
     <string name="draft_police01_title">สถานีตำรวจขนาดเล็ก</string>
     <string name="draft_police01_text">เพื่อความปลอดภัยในชีวิต มีระยะครอบคลุมที่เล็ก</string>
     <string name="disaster_riot_title">การก่อการร้าย</string>
@@ -1983,5 +1983,65 @@ Cons: Less challenges</string>
 
     <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
     <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+
+
+    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
+    <string name="draft_rails00_title">Railway</string>
+    <string name="draft_rails00_text">Used to guide your trains.</string>
+    <string name="draft_rails00oneway00_title">One-way Railway</string>
+    <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
+    <string name="specialoffer_cmdbuy">Buy for %s</string>
+    <string name="influence_body_disposal_title">Funeral</string>
+    <string name="influence_body_disposal_text">Rest in peace.</string>
+    <string name="influence_traffic_title">Traffic</string>
+    <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
+    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
+    <string name="ci_neighbor_bodydisposal">Funeral service</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="bodydisposal_transport">%1$,d/d</string>
+    <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
+    <string name="draft_cat_metro00_title">Metro</string>
+    <string name="draft_cat_tree00_title">Plants</string>
+    <string name="draft_railroof00_title">Roof</string>
+    <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
+    <string name="draft_trainplatform00_title">Platform 1</string>
+    <string name="draft_trainplatform00_text">A platform of the train station.</string>
+    <string name="draft_trainplatform01_title">Platform 2</string>
+    <string name="draft_trainplatform02_title">Platform 3</string>
+    <string name="draft_trainplatform03_title">Platform 4</string>
+    <string name="draft_trainplatform04_title">Platform 5</string>
+    <string name="draft_trainplatform05_title">Platform 6</string>
+    <string name="draft_trainplatform06_title">Platform 7</string>
+    <string name="draft_trainplatform07_title">Platform 8</string>
+    <string name="draft_trainstation00_title">Local traffic platform</string>
+    <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
+    <string name="draft_trainstation01_title">Long-distance traffic platform</string>
+    <string name="draft_trainstation01_text">This platform is reserved for long-distance travel.</string>
+    <string name="draft_train_freight_station00_title">Freight depot 1</string>
+    <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
+    <string name="draft_train_freight_station01_title">Freight depot 2</string>
+    <string name="draft_train_freight_station02_title">Freight depot 3</string>
+    <string name="draft_train_freight_station03_title">Freight depot 4</string>
+    <string name="draft_train_freight_station04_title">Freight depot 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Small station</string>
+    <string name="draft_trainstation_prebuilt00_text">A small train station for local traffic only.</string>
+    <string name="draft_trainstation_prebuilt01_title">Station</string>
+    <string name="draft_trainstation_prebuilt01_text">A bigger train station for local traffic.</string>
+    <string name="draft_trainstation_prebuilt02_title">Big station</string>
+    <string name="draft_trainstation_prebuilt02_text">A big train station that serves local and long-distance traffic.</string>
+    <string name="draft_cat_train00_parts00_title">Parts</string>
+    <string name="draft_raildeco_crane00_title">Crane</string>
+    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
+    <string name="draft_raildeco_traincrossing00_title">Train Crossing</string>
+    <string name="draft_raildeco_traincrossing00_text">A Train Crossing for your railway.</string>
+    <string name="draft_raildeco_mast00_title">Overhead line mast</string>
+    <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
+    <string name="draft_raildeco_lights00_00_title">Traffic light</string>
+    <string name="draft_raildeco_lights00_00_text">A traffic light for your Railway</string>
+    <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
+    <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
+    <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
+    <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
 
 </resources>
