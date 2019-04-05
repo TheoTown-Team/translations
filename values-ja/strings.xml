@@ -841,8 +841,8 @@
     <string name="draft_feature_buildings00_title">建築物パッケージ 1</string>
     <string name="draft_feature_buildings01_title">建築物パッケージ 2</string>
     <string name="draft_feature_buildings02_title">建築物パッケージ 3</string>
-    <string name="draft_feature_services00_title">業務 パッケージ</string>
-    <string name="draft_feature_tourism00_title">観光 パッケージ</string>
+    <string name="draft_feature_services00_title">業務パッケージ</string>
+    <string name="draft_feature_tourism00_title">観光パッケージ</string>
     <string name="draft_feature_premium00_title">プレミアム</string>
     <string name="features_money">%2$sでゲーム内%1$sを得る</string>
     <string name="disaster_ufo_cmdtext">ターゲットを決める</string>
@@ -1087,7 +1087,7 @@
     <string name="tut_build23">ここではあなたの都市に関する一般的な情報を見ることができます。現在の街名をタップすると名前を変更する事ができます</string>
     <string name="tut_build24">もう一つ、便利なツールはこれです</string>
     <string name="tut_build25">あなたの住人の満足度の詳細を示します</string>
-    <string name="tut_build26">時間を早くできたらいいのにな〜とおもったことありますか？、ここを押したらあなたの夢が叶います!</string>
+    <string name="tut_build26">時間を早くできたらいいのにな〜とおもったことありますか？、ここを押したらあなたのその夢が叶います!</string>
     <string name="tut_build27">では、ゲームを一時停止してみてください</string>
     <string name="tut_build28">そしたら、通常の速度に戻してください</string>
     <string name="tut_build29">あなた方の話を中断して申し訳ありませんが、魔法ではないものもあります。たとえばお金とか</string>
@@ -1652,10 +1652,10 @@
     <string name="draft_leaningtowerofpisa00_title">ピサの斜塔</string>
     <string name="draft_leaningtowerofpisa00_text">ピサの斜塔は、イタリアのピサ市にあるピサ大聖堂の鐘楼であります。 1372年に完成し、その高さは56メートルに達した。</string>
     <string name="draft_burjalarab00_title">ブルジュ・アル・アラブ</string>
-    <string name="draft_burjalarab00_text">ブルジュ・アル・アラブは、アラブ首長国連邦, ドバイにある「5つ星」の最高級ホテルです。 1999年に完成し、その高さ321メートルに達した.</string>
+    <string name="draft_burjalarab00_text">ブルジュ・アル・アラブは、アラブ首長国連邦, ドバイにある「5つ星」の最高級ホテルです。 1999年に完成し、その高さ321メートルに達した。</string>
     <string name="draft_hearsttower00_title">ハースト・タワー</string>
-    <string name="draft_hearsttower00_text">ハースト・タワーは、アメリカ合衆国・ニューヨーク市のマンハッタンにある, 2006年に建設された超高層ビルである。 182メートルの高さです.</string>
-    <string name="draft_feature_landmarks02_title">ランドマーク III</string>
+    <string name="draft_hearsttower00_text">ハースト・タワーは、アメリカ合衆国・ニューヨーク市のマンハッタンにある, 2006年に建設された超高層ビルである。 182メートルの高さです。</string>
+    <string name="draft_feature_landmarks02_title">ランドマーク Ⅲ</string>
 
 
     <string name="draft_recyclingyard00_title">資源の買取センター</string>
@@ -1956,67 +1956,67 @@ Cons: Less challenges</string>
 
     <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
     <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
-    <string name="store_authorby">by %s</string>
-    <string name="store_downloads">%,d downloads</string>
-    <string name="store_acquire">Download</string>
-    <string name="store_downlaod">Download</string>
-    <string name="store_downloaded">Downloaded</string>
-    <string name="dialog_storedownlaod_title">Download</string>
-    <string name="dialog_storedownload_text">Do you want to download %s?</string>
-    <string name="dialog_storerestart_title">Restart</string>
-    <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
-    <string name="store_status_notacquired">Not acquired</string>
-    <string name="store_status_downloading">Downloading</string>
-    <string name="store_status_downloaderror">Error: </string>
-    <string name="store_status_acquired">Acquired</string>
-    <string name="store_status_newlyinstalled">Newly installed</string>
-    <string name="store_status_running">Running</string>
-    <string name="store_status_notrunning">Not running</string>
-    <string name="store_status_newversioninstalled">Installed new version</string>
-    <string name="store_status_availupdate">Update available</string>
-    <string name="store_status_restartrequired">Restart required</string>
-    <string name="store_active">Active</string>
-    <string name="store_notactive">Not active</string>
-    <string name="store_fetchfailed">Network error</string>
-    <string name="store_modeexplore">Explore</string>
-    <string name="store_modeinstalled">Installed</string>
-    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
-    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
-    <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
-    <string name="dialog_storedelete_cmddelete">Uninstall</string>
-    <string name="store_modefeatured">Featured</string>
-    <string name="store_modecategory">Category</string>
-    <string name="store_shorttitle">Plugins</string>
-    <string name="gamemenu_catcity">City</string>
-    <string name="gamemenu_catcontent">Content</string>
-    <string name="gamemenu_catsocial">Social</string>
-    <string name="gamemenu_catpictures">Pictures</string>
-    <string name="gamemenu_catother">Other</string>
-    <string name="store_catcount">%,d plugins</string>
-    <string name="store_featured">Featured</string>
+    <string name="store_authorby">%s作>
+    <string name="store_downloads">%,d ダウンロード</string>
+    <string name="store_acquire">ダウンロード</string>
+    <string name="store_downlaod">ダウンロード</string>
+    <string name="store_downloaded">ダウンロード済み</string>
+    <string name="dialog_storedownlaod_title">ダウンロード</string>
+    <string name="dialog_storedownload_text">%sをダウンロードしたいですか？</string>
+    <string name="dialog_storerestart_title">再起動</string>
+    <string name="dialog_storerestart_text">プラグインを変更した場合、ゲームを再起動する必要があります。\n\n再起動しますか？</string>
+    <string name="dialog_storerestart_cmdrestart">再起動</string>
+    <string name="store_status_notacquired">未取得</string>
+    <string name="store_status_downloading">ダウンロード中...tring>
+    <string name="store_status_downloaderror">エラー： </string>
+    <string name="store_status_acquired">取得済み</string>
+    <string name="store_status_newlyinstalled">最近インストールされた</string>
+    <string name="store_status_running">現在使用中</string>
+    <string name="store_status_notrunning">現状未使用</string>
+    <string name="store_status_newversioninstalled">更新完了</string>
+    <string name="store_status_availupdate">プラグイン更新可能</string>
+    <string name="store_status_restartrequired">再起動が必要</string>
+    <string name="store_active">使用中</string>
+    <string name="store_notactive">未使用</string>
+    <string name="store_fetchfailed">接続エラー</string>
+    <string name="store_modeexplore">探索</string>
+    <string name="store_modeinstalled">インストール済み</string>
+    <string name="draft_feature_freefastspeed00_title">無限早送り</string>
+    <string name="draft_feature_freetunnels00_title">無限トンネル</string>
+    <string name="dialog_storedelete_title">アンインストール</string>
+    <string name="dialog_storedelete_text">プラグインを本当にアンインストールしますか？</string>
+    <string name="dialog_storedelete_cmddelete">アンインストール</string>
+    <string name="store_modefeatured">おすすめ</string>
+    <string name="store_modecategory">カテゴリー</string>
+    <string name="store_shorttitle">プラグイン</string>
+    <string name="gamemenu_catcity">街</string>
+    <string name="gamemenu_catcontent">コンテンツ</string>
+    <string name="gamemenu_catsocial">ソーシャル</string>
+    <string name="gamemenu_catpictures">写真</string>
+    <string name="gamemenu_catother">その他</string>
+    <string name="store_catcount">%,d個のプラグインring>
+    <string name="store_featured">おすすめ</string>
 
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+    <string name="dialog_storereport_title">プラグインを報告</string>
+    <string name="dialog_storereport_text">\"%s\"を報告したい理由:</string>
+    <string name="dialog_storereport_cmdreport">報告</string>
+    <string name="dialog_storereported_title">報告されました</string>
+    <string name="dialog_storereported_text">報告されました！ このプラグインを確認して適切な処置を取ります</string>
 
 
-    <string name="store_ratings">by %,d ratings</string>
-    <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
-    <string name="store_new">New and Updated</string>
-    <string name="draft_cat_plugins00_title">Plugins</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="store_ratings">%,d件の評価より</string>
+    <string name="store_loadingerror">エラー</string>
+    <string name="dialog_storeerror_title">ロード エラー</string>
+    <string name="dialog_storeerror_text">この理由でこのプラグインはロード出来ませんでした：</string>
+    <string name="store_new">新しい及び更新されたプラグイン</string>
+    <string name="draft_cat_plugins00_title">プラグイン</string>
+    <string name="dialog_storesearch_title">プラグインを検索する</string>
+    <string name="dialog_storesearch_text">キーワードを入力してください：</string>
+    <string name="dialog_storesearch_cmdsearch">検索</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
-    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+    <string name="draft_deco_chr_santashouse00_title">サンタの家</string>
+    <string name="draft_deco_chr_santashouse00_text">サンタはプレゼントを配るための拠点として使います</string>
 
 </resources>
