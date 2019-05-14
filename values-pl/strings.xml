@@ -131,7 +131,7 @@
     <string name="draft_watertower00_text">Zapewnia wodę mieszkańcom.</string>
     <string name="settings_areazonetool">Narzędzie stref</string>
     <string name="createcity_gamemode">Tryb gry:</string>
-    <string name="gamemode_sandbox">Piaskownica</string>
+    <string name="gamemode_sandbox">Developer Mode</string>
     <string name="gamemode_easy">Łatwy</string>
     <string name="gamemode_middle">Średni</string>
     <string name="gamemode_hard">Trudny</string>
@@ -797,9 +797,9 @@
     <string name="settings_experimental">Opcje eksperymentalne</string>
     <string name="about_thanks">Specjalne podziękowania dla</string>
     <string name="about_community">Oraz pozostałych członków społeczności!</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
-    <string name="dialog_tosandbox_title">Tryb sandbox</string>
-    <string name="dialog_tosandbox_text">Przekonwertować miasto do trybu sandbox?\n\nOperacji tej nie można cofnąć!</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_text">Przekonwertować miasto do trybu developer?\n\nOperacji tej nie można cofnąć!</string>
     <string name="requirement_rank">Co najmniej %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Pogrzebano: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Wywóz odpadów: %1$,d/%2$,d</string>
@@ -2077,5 +2077,38 @@ Wady: Mniej wyzwań</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>

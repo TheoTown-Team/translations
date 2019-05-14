@@ -132,7 +132,7 @@
     <string name="draft_watertower00_text">Sử Dụng Cho Một Số Tòa Nhà.</string>
     <string name="settings_areazonetool">Sử Dụng Phần Xây Zone</string>
     <string name="createcity_gamemode">Kiểu Chơi:</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Developer Mode</string>
     <string name="gamemode_easy">Dễ</string>
     <string name="gamemode_middle">Hơi Khó</string>
     <string name="gamemode_hard">Khó Bỏ M*</string>
@@ -798,9 +798,9 @@
     <string name="settings_experimental">Các tính năng thử nghiệm</string>
     <string name="about_thanks">Lời cảm ơn sâu sắc tới</string>
     <string name="about_community">Và phần còn lại của cộng đồng chúng tôi</string>
-    <string name="dialog_tosandbox_title">Chế độ Sandbox</string>
-    <string name="dialog_tosandbox_text">Chuyển đổi thành phố sang chế độ sandbox?\n\nĐiều này ko thể hoàn thành!</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_text">Chuyển đổi thành phố sang chế độ developer mode?\n\nĐiều này ko thể hoàn thành!</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">Ít nhất %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Xử lí chất thải: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Tang lễ: %1$,d/%2$,d</string>
@@ -1899,7 +1899,7 @@ Cons: Less challenges</string>
     <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
     <string name="cemetery_cmdclear">Clear now</string>
     <string name="cemetery_clear">SWIPE to free up some space.</string>
-    <string name="draft_cemetery00_text">A place where the remains of dead people are buried. Rest in peace.</string>
+    <string name="draft_cemetery00_text">A place where the remains of dead people are buried.</string>
     <string name="draft_crematory00_text">Dead people are burnt here.</string>
     <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
     <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
@@ -2059,5 +2059,38 @@ Cons: Less challenges</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>

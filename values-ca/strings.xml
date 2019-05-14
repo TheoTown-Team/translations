@@ -133,7 +133,7 @@
     <string name="draft_watertower00_text">Proporciona aigua per als teus edificis.</string>
     <string name="settings_areazonetool">Utilitza l\'eina de zona d\'àrea</string>
     <string name="createcity_gamemode">Mode de joc:</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Developer Mode</string>
     <string name="gamemode_easy">Fàcil</string>
     <string name="gamemode_middle">Mig</string>
     <string name="gamemode_hard">Difícil</string>
@@ -799,9 +799,9 @@
     <string name="settings_experimental">Característiques experimentals</string>
     <string name="about_thanks">Agraïment especial a</string>
     <string name="about_community">I la resta de la nostra comunitat</string>
-    <string name="dialog_tosandbox_title">Mode Sandbox</string>
-    <string name="dialog_tosandbox_text">Convertir la ciutat en mode sandbox?\n\nAixò no es pot desfer!</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_text">Convertir la ciutat en mode developer?\n\nAixò no es pot desfer!</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">Al menys %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Dipòsit d\'escombraries: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
@@ -1485,7 +1485,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_draft_fire_title">Perill d\'incendi</string>
     <string name="draft_draft_fire_text">Indicador de perill d\'incendi.</string>
     <string name="draft_draft_wp_title">Contaminació de l\'aigua</string>
-    <string name="draft_draft_wp_text">Indicador de contaminació de l\aigua.</string>
+    <string name="draft_draft_wp_text">Indicador de contaminació de l\'aigua.</string>
     <string name="draft_draft_plt_title">Contaminació</string>
     <string name="draft_draft_plt_text">Indicador de contaminació.</string>
     <string name="draft_draft_prk_title">Disponibilitat de parcs</string>
@@ -1506,7 +1506,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_draft_htr_text">Felicitat pel transport.</string>
     <string name="draft_draft_hzn_title">Felicitat de zones</string>
     <string name="draft_draft_hzn_text">Felicitat sobre zones properes.</string>
-    <string name="draft_draft_hspl_title">Felicitat per l\energia i agua</string>
+    <string name="draft_draft_hspl_title">Felicitat per l\'energia i agua</string>
     <string name="draft_draft_hspl_text">Felicitat per l\'energia i aigua disponibles.</string>
     <string name="draft_draft_hft_title">Felicitat per temps lliure</string>
     <string name="draft_draft_hft_text">Felicitat per les instaŀlacions de temps lliure.</string>
@@ -1572,7 +1572,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_statueofliberty00_title">Estàtua de la Llibertat</string>
     <string name="draft_statueofliberty00_text">L\'Estàtua de la Llibertat era un regal del francès als americans. Va ser inaugurat el 1886 i té una alçada de 93 metres.</string>
     <string name="draft_decorustywatertower00_title">Torre d\'aigua rovellada</string>
-    <string name="draft_decorustywatertower00_text">Una torre d\aigua antiga i rovellada. No fa absolutament res.</string>
+    <string name="draft_decorustywatertower00_text">Una torre d\'aigua antiga i rovellada. No fa absolutament res.</string>
     <string name="draft_underground_wire00_title">Cables Subterranis</string>
     <string name="draft_underground_wire00_text">Els cables subterranis funcionen com a cables normals, però es coŀloquen sota terra perquè ningú no els vegi.</string>
     <string name="draft_feature_freedombuildings00_title">Fites I</string>
@@ -2076,5 +2076,38 @@ Cons: Menys reptes</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>

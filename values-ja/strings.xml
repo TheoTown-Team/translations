@@ -132,7 +132,7 @@
     <string name="draft_watertower00_text">建物に水を供給します</string>
     <string name="settings_areazonetool">エリアゾーンツールを使用する</string>
     <string name="createcity_gamemode">難易度:</string>
-    <string name="gamemode_sandbox">サンドボックス</string>
+    <string name="gamemode_sandbox">Developer</string>
     <string name="gamemode_easy">簡単</string>
     <string name="gamemode_middle">普通</string>
     <string name="gamemode_hard">難しい</string>
@@ -798,9 +798,9 @@
     <string name="settings_experimental">実験的な要素</string>
     <string name="about_thanks">Special thanks to</string>
     <string name="about_community">And the rest of our community</string>
-    <string name="dialog_tosandbox_title">サンドボックス</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
     <string name="dialog_tosandbox_text">都市をサンドボックスモードに変換しますか？\n\nこれは、元に戻すことはできません!</string>
-    <string name="dialog_tosandbox_cmdconvert">サンドボックス</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">少なくとも %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">廃棄物処理: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">葬式: %1$,d/%2$,d</string>
@@ -2018,7 +2018,7 @@ Cons: Less challenges</string>
 
     <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
     <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
-    <string name="store_authorby">%s作>
+    <string name="store_authorby">%s作</string>
     <string name="store_downloads">%,d ダウンロード</string>
     <string name="store_acquire">ダウンロード</string>
     <string name="store_downlaod">ダウンロード</string>
@@ -2029,7 +2029,7 @@ Cons: Less challenges</string>
     <string name="dialog_storerestart_text">プラグインへの変更を加えた場合、ゲームを再起動する必要があります。\n\n再起動しますか？</string>
     <string name="dialog_storerestart_cmdrestart">再起動</string>
     <string name="store_status_notacquired">未取得</string>
-    <string name="store_status_downloading">ダウンロード中...tring>
+    <string name="store_status_downloading">ダウンロード中...</string>
     <string name="store_status_downloaderror">エラー： </string>
     <string name="store_status_acquired">取得済み</string>
     <string name="store_status_newlyinstalled">最近インストールされた</string>
@@ -2056,7 +2056,7 @@ Cons: Less challenges</string>
     <string name="gamemenu_catsocial">ソーシャル</string>
     <string name="gamemenu_catpictures">写真</string>
     <string name="gamemenu_catother">その他</string>
-    <string name="store_catcount">%,d個のプラグインring>
+    <string name="store_catcount">%,d個のプラグイン</string>
     <string name="store_featured">おすすめ</string>
 
 
@@ -2137,5 +2137,38 @@ Cons: Less challenges</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>

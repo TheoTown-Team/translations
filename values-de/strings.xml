@@ -133,7 +133,7 @@
     <string name="gamemode_easy">Leicht</string>
     <string name="gamemode_hard">Schwer</string>
     <string name="gamemode_middle">Mittel</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Developer Mode</string>
     <string name="game_infinitemoney">Freies Spiel</string>
     <string name="about_cmdback">Zurück</string>
     <string name="about_title">Credits</string>
@@ -797,9 +797,9 @@
     <string name="settings_experimental">Experimentelle Funktionen</string>
     <string name="about_thanks">Besonderen Dank an</string>
     <string name="about_community">Und die restliche Community</string>
-    <string name="dialog_tosandbox_title">Sandkastenmodus</string>
-    <string name="dialog_tosandbox_text">Stadt im Sandkastenmodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandkasten</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_text">Stadt im Entwicklermodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">Mindestens %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Beisetzungen: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Müllentsorgung: %1$,d/%2$,d</string>
@@ -882,7 +882,7 @@
     <string name="gamemode_easy_desc">Dies ist der einfachste Spielmodus. Du startest mit viel Geld und es ist insgesamt etwas einfacher.</string>
     <string name="gamemode_hard_desc">Du bist ein Pro in TheoTown? Dann ist dieser Modus genau der richtige für dich. Du startest mit wenig Geld und dir wird nichts geschenkt.</string>
     <string name="gamemode_middle_desc">Normaler Spielmodus. Du startest mit ausreichend Geld und solltest damit deine Traumstadt bauen können.</string>
-    <string name="gamemode_sandbox_desc">Keine Lust auf Herausforderung? In diesem Spielmodus kannst du ohne Geldsorgen bauen was du möchtest.</string>
+    <string name="gamemode_sandbox_desc">Experimenteller Spielmodus für Entwicklungszwecke.</string>
     <string name="game_ramaining_ffwd">%1$,d schnelle Tage verbleibend</string>
     <string name="dialog_ffwd_title">Schnelleres Spiel</string>
     <string name="dialog_ffwd_text">Spiel für %1$,d Tage schneller laufen lassen.</string>
@@ -965,14 +965,14 @@
     <string name="dialog_notenoughmoney_title">Nicht genug Geld</string>
     <string name="dialog_notenoughmoney_text">Wir haben nicht genug Geld um das zu kaufen.\n\nSollen wir die fehlenden %1$s sofort beschaffen?</string>
     <string name="notify_fullhospital">Dieses Krankenhaus ist nicht groß genug. Wir sollten noch eines bauen.</string>
-    <string name="dialog_rate_text">Dann bewerte uns bitte. Es dauert auch nur einen kurzen Moment.</string>
+    <string name="dialog_rate_text">Falls es dir gefällt, dann lass und bitte eine Bewertung da. Das würde uns sehr helfen.</string>
     <string name="dialog_rate_title">Gefällt dir TheoTown?</string>
-    <string name="dialog_rate_cmdcancel">Gefällt mir nicht</string>
+    <string name="dialog_rate_cmdcancel">Nein.</string>
     <string name="dialog_rate_cmdok">Gefällt mir</string>
-    <string name="dialog_feedback_title">Gib uns Feedback</string>
-    <string name="dialog_feedback_text">Du hast Ideen, was wir verbessern können? Dann lass es uns wissen.</string>
+    <string name="dialog_feedback_title">Deine Meinung</string>
+    <string name="dialog_feedback_text">Das tut uns leid. Wenn du Vorschläge zur Verbesserung hast, dann teile uns diese bitte mit.</string>
     <string name="dialog_feedback_cmdok">Feedback geben</string>
-    <string name="dialog_feedback_cmdcancel">Kein Feedback</string>
+    <string name="dialog_feedback_cmdcancel">Nein.</string>
     <string name="dialog_buildnow_title">Jetzt fertigstellen</string>
     <string name="dialog_buildnow_text">Möchtest du %1$,d Tage beim Bau überspringen?</string>
     <string name="draft_launch_rocket_title">Rakete abfeuern</string>
@@ -1319,7 +1319,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="requirement_upgrade_invert">Kann nicht kombiniert werden mit %1$s</string>
     <string name="draft_deco_chr_present00_title">Geschenk</string>
     <string name="draft_deco_chr_present00_text">Einfach nur ein Geschenk. Du kannst es antippen.</string>
-    <string name="settings_touch_rotate">Drehen durch zwei Fingern</string>
+    <string name="settings_touch_rotate">Drehen durch zwei Finger</string>
     <string name="disaster_green_slime_title">Grüner Schleim</string>
     <string name="disaster_green_slime_text">Ein sich ausbreitender Schleim, der nach und nach Teile deiner Stadt verschlingt.</string>
     <string name="disaster_green_slime_cmdtext">Losschleimen</string>
@@ -1777,7 +1777,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="features_diamonds">Mehr Diamanten</string>
 
 
-    <string name="privacy_policy">Datenschutzbestimmungen</string>
+    <string name="privacy_policy">Datenschutz</string>
     <string name="dialog_privacy_title">Datenschutz</string>
     <string name="dialog_privacy_text">Hi, wir arbeiten daran den Schutz Ihrer Daten zu verbessern und transparenter zu gestalten. Bitte nimm dir Zeit unsere Datenschutzrichtlinien zu lesen.</string>
     <string name="dialog_privacy_cmdopen">Bestimmungen öffnen</string>
@@ -2069,5 +2069,38 @@ Nachtteile: Langweilig</string>
     <string name="draft_trainstation_prebuilt10_text">Ein kleiner Bahnhof für Industriegüter.</string>
     <string name="draft_trainstation_prebuilt11_title">Großer Güterbahnhof</string>
     <string name="draft_trainstation_prebuilt11_text">Ein großer Bahnhof für viele Industriegüter.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">Neuigkeiten über deine Stadt.</string>
+    <string name="settings_fullscreen">Vollbild</string>
+    <string name="control_help">Hilfe</string>
+    <string name="settings_scrolledges">Kantenscrolling</string>
+    <string name="dialog_rate_cmdlater">Später</string>
+    <string name="region_individualcities">Einzelstädte</string>
+    <string name="draft_redwood_tree00_title">Mammutbaum</string>
+    <string name="draft_redwood_tree00_text">Eine sehr alte Baumart die unter Anderem in Nationalparks in Amerika vorkommt.</string>
+    <string name="buildinginfo_daysbuilt">Gebaut: vor %1$,d Tag(en)</string>
+    <string name="createcity_terrain">Berge</string>
+    <string name="draft_tool_terrain_increase00_title">Erhöhen</string>
+    <string name="draft_tool_terrain_increase00_text">Erhöht das Terrain für die Erstellung von Bergen.</string>
+    <string name="draft_tool_terrain_lower00_title">Senken</string>
+    <string name="draft_tool_terrain_lower00_text">Senkt das Terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Plattform</string>
+    <string name="draft_tool_terrain_platform00_text">Bringt das Terrain innerhalb eines Radius auf eine Höhe.</string>
+    <string name="draft_cat_hills00_title">Berge</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Maut</string>
+    <string name="draft_tollbooth00_title">Mautstelle</string>
+    <string name="draft_tollbooth00_text">Eine Mautstelle kann dir Geld einbringen, ist jedoch äußerst unbeliebt bei den Einwohnern.</string>
+    <string name="notification02_title">Eingreifen empfohlen</string>
+    <string name="notification02_text">Jemand muss sich um die Entwicklung von %1$s kümmern!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Bitte Bürgermeister, komm zurück!</string>
+    <string name="settings_fontscaling">Textgröße</string>
+    <string name="settings_fontscaling_small">Klein</string>
+    <string name="settings_fontscaling_medium">Normal</string>
+    <string name="settings_fontscaling_big">Groß</string>
+    <string name="pluginerror_disable">Deaktivieren</string>
 
 </resources>
