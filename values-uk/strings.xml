@@ -796,7 +796,7 @@
     <string name="settings_experimental">Експериментальні</string>
     <string name="about_thanks">Подяка</string>
     <string name="about_community">І інші члени</string>
-    <string name="dialog_tosandbox_title">Пісочниця</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
     <string name="dialog_tosandbox_text">Перетворити місто в пісочницю?\n\nЦе неможливо зупинити!</string>
     <string name="dialog_tosandbox_cmdconvert">Пісочниця</string>
     <string name="requirement_rank"> %1$s (%2$,d)</string>
@@ -981,7 +981,7 @@
     <string name="draft_mltry_deco00_title">Військові декорації.</string>
     <string name="draft_mltry_deco00_text">Декорації для вашої військової бази.</string>
     <string name="shader_smooth">Гладка</string>
-    <string name="topic_dumbledore">Дамблдор міг би n\ нехай це станеться.</string>
+    <string name="topic_dumbledore">Дамблдор міг би \n нехай це станеться.</string>
     <string name="draft_mltry_missilesilo00_title">Ракетний силос</string>
     <string name="draft_feature_military00_text">Створіть свою власну військову базу для захисту свого міста.Включає стихійне(НЛО) лихо.</string>
     <string name="dialog_smooth_title">Гладка графіка</string>
@@ -1588,7 +1588,7 @@
     <string name="notify_tutorial_reminder_title">Час,щоб почати</string>
     <string name="notify_tutorial_reminder_text">Гей,мер,ти забув про свою місію побудувати велике місто?</string>
     <string name="dialog_insufficientspace_title">Ми вичерпаємо простір.</string>
-    <string name="dialog_insufficientspace_text">На вашому пристрої не залишилося вільного місця (%, d Mb). \ N \ n Неможливо зберегти місто через брак місця!</string>
+    <string name="dialog_insufficientspace_text">На вашому пристрої не залишилося вільного місця (%, d Mb). \n\n Неможливо зберегти місто через брак місця!</string>
     <string name="dialog_insufficientspace_cmdproceed">Використовуйте на власний ризик</string>
     <string name="draft_sydneyoperahouse00_title">Сіднейський оперний театр</string>
     <string name="draft_sydneyoperahouse00_text">Сіднейський оперний театр-це центр виконавських мистецтв на багатьох майданчиках,розташований у Сіднеї,Австралія.Він був закінчений у 1973 році і має висоту 65 метри.</string>
@@ -1961,7 +1961,7 @@
     <string name="dialog_storedownlaod_title">Завантажити</string>
     <string name="dialog_storedownload_text">Ви хочете завантажити це %s?</string>
     <string name="dialog_storerestart_title">Перезавантажити</string>
-    <string name="dialog_storerestart_text">Зміни до плагінів вимагають перезапуску гри. \ N \ n Ви хочете перезапустити гру зараз?</string>
+    <string name="dialog_storerestart_text">Зміни до плагінів вимагають перезапуску гри. \n\n Ви хочете перезапустити гру зараз?</string>
     <string name="dialog_storerestart_cmdrestart">Перезапустити</string>
     <string name="store_status_notacquired">Не придбано</string>
     <string name="store_status_downloading">Завантаження</string>
@@ -2075,5 +2075,38 @@
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>
