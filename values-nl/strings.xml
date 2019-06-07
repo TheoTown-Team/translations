@@ -9,19 +9,19 @@
     <string name="createcity_cityname">Stadsnaam:</string>
     <string name="control_back">Terug</string>
     <string name="createcity_start">Start</string>
-    <string name="loadcity_load">Laad</string>
-    <string name="welcome_agree">Ik ben het eens</string>
+    <string name="loadcity_load">Start</string>
+    <string name="welcome_agree">Ik ga akkoord</string>
     <string name="welcome_content">Welkom bij TheoTown
 
 \n\nDeze app is momenteel in ontwikkeling. Er zouden nog steeds enkele bugs kunnen zijn. Beoordeel dit spel daarom alstublieft niet negatief. Denk eraan dat dit gratis is.
 
 \n\nAls je dit spel leuk vindt, zou je ons kunnen helpen door dit aan je vrienden aan te raden.
 
-\n\nHave fun :)</string>
+\n\nVeel plezier :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Inwoners: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Map:</string>
+    <string name="createcity_seed">Kaart:</string>
     <string name="createcity_sizesmall">Klein</string>
     <string name="createcity_sizemiddle">Gemiddeld</string>
     <string name="createcity_sizebig">Groot</string>
@@ -29,7 +29,7 @@
     <string name="game_monthlyincome">%1$,+d$</string>
     <string name="game_estate">Waarde: %1$,d$</string>
     <string name="game_rating">%1$d</string>
-    <string name="settings_resolutionlowlow">zeer laag</string>
+    <string name="settings_resolutionlowlow">Zeer laag</string>
     <string name="settings_resolutionlow">Laag</string>
     <string name="settings_resolutionnormal">Normaal</string>
     <string name="settings_resolutionbig">Hoog</string>
@@ -41,14 +41,14 @@
     <string name="dialog_nocities_cmdnewcity">Nieuwe stad</string>
     <string name="settings_showads">Toon reclame</string>
     <string name="settings_drawcars">Toon auto\'s</string>
-    <string name="settings_drawsmoke">Toon	rook</string>
+    <string name="settings_drawsmoke">Toon rook</string>
     <string name="settings_transparencybuildmode">Doorzichtigheid in bouwmodus</string>
     <string name="settings_buildgrid">Raster in bouwmodus</string>
     <string name="settings_doublecardrawing"> Teken dubbele auto</string>
     <string name="settings_drawwatersparkle">Teken waterglinstering</string>
     <string name="settings_drawmapedges">Teken kaarthoeken</string>
     <string name="settings_hideads_title">Verberg reclame</string>
-    <string name="settings_hideads_text">Als je echt de reclame wilt verbergen zou het geweldig zijn om je vrienden te vertellen over deze app.
+    <string name="settings_hideads_text">Als je echt de reclame wilt verbergen, dan zou het geweldig zijn om je vrienden te vertellen over deze app.
 
 \n\nBen je zeker?</string>
     <string name="settings_hideads_yes">Ja, ik ben zeker</string>
@@ -776,12 +776,12 @@
     <string name="draft_road05_text">De pefecte weg om vergelegen gebieden te verbinden.\n\nVerbind niet met gebouwen.</string>
     <string name="notify_unhappy">Mensen zijn ongelukkig vanwege %1$s. Probeer de mensen gelukkiger te maken.</string>
     <string name="happiness_general">General happiness</string>
-    <string name="draft_rnk_isolateddwelling_title">Isolated Dwelling</string>
-    <string name="draft_rnk_hamlet_title">Hamlet</string>
-    <string name="draft_rnk_village_small_title">Small Village</string>
-    <string name="draft_rnk_village_medium_title">Village</string>
-    <string name="draft_rnk_village_big_title">Big Village</string>
-    <string name="draft_rnk_town_small_title">Small Town</string>
+    <string name="draft_rnk_isolateddwelling_title">Geïsoleerde woonst</string>
+    <string name="draft_rnk_hamlet_title">Gehucht</string>
+    <string name="draft_rnk_village_small_title">Kleine nederzetting</string>
+    <string name="draft_rnk_village_medium_title">Nederzetting</string>
+    <string name="draft_rnk_village_big_title">Groot nederzetting</string>
+    <string name="draft_rnk_town_small_title">Klein dorp</string>
     <string name="draft_rnk_town_medium_title">Dorp</string>
     <string name="draft_rnk_town_big_title">Deelgemeente</string>
     <string name="draft_rnk_town_large_title">Gemeente</string>
@@ -795,12 +795,12 @@
     <string name="rank_needed_people">Ten minste %1$,d inwoners</string>
     <string name="draft_decoroad00_title">Bomen aan straten</string>
     <string name="draft_decoroad00_text">.</string>
-    <string name="settings_experimental">Experimentele features</string>
+    <string name="settings_experimental">Experimentele functies</string>
     <string name="about_thanks">Speciale dank</string>
     <string name="about_community">En de rest van onze community</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
-    <string name="dialog_tosandbox_text">Verander stad naar developer mode?\n\nDit kan niet ongedaan worden!</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Ontwikkelaarsmodus</string>
+    <string name="dialog_tosandbox_text">Verander stad naar ontwikkelaarsmodus?\n\nDit kan niet ongedaan worden!</string>
+    <string name="dialog_tosandbox_cmdconvert">Ontwikkelaarsmodus</string>
     <string name="requirement_rank">Ten minste %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Verwerkt afval: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Begrafenis(sen): %1$,d/%2$,d</string>
@@ -842,7 +842,7 @@
     <string name="draft_feature_buildings01_title">Bouwpakket 2</string>
     <string name="draft_feature_buildings02_title">Bouwpakket 3</string>
     <string name="draft_feature_services00_title">Dienstenpakket</string>
-    <string name="draft_feature_tourism00_title">Touristisch pakket</string>
+    <string name="draft_feature_tourism00_title">Toeristisch pakket</string>
     <string name="draft_feature_premium00_title">Premium</string>
     <string name="features_money">Krijg %1$s voor %2$s</string>
     <string name="features_getrank">Krijg level nu %1$s</string>
@@ -861,7 +861,7 @@
     <string name="topic_spoon">Er is geen lepel.</string>
     <string name="topic_relax">Relax, het is maar een spel.</string>
     <string name="topic_cats">Katten zijn zo schattig.</string>
-    <string name="topic_force">Laat de Force met je zijn.</string>
+    <string name="topic_force">Moge de Kracht met jou zijn.</string>
     <string name="topic_plugins">We hebben nu ook plugins.</string>
     <string name="topic_page">Bezoek ons op www.theotown.de</string>
     <string name="topic_habitants">Je zou tot 1,000,000 kunnen geraken.</string>
@@ -870,9 +870,9 @@
     <string name="statistics_inh_0">Arme inwoners (Ͳ)</string>
     <string name="statistics_inh_1">Middelrijke inwoners (ͲͲ)</string>
     <string name="statistics_inh_2">Rijke inwoners (ͲͲͲ)</string>
-    <string name="statistics_money">financiën</string>
+    <string name="statistics_money">Financiën</string>
     <string name="statistics_buildings">Gebouwen</string>
-    <string name="statistics_roads"> Wegen</string>
+    <string name="statistics_roads">Wegen</string>
     <string name="statistics_rails">Sporen</string>
     <string name="statistics_cars">Auto\'s</string>
     <string name="control_auto">Automatisch</string>
@@ -916,7 +916,7 @@
     <string name="dialog_unlockcity_title">Ontgrendel</string>
     <string name="dialog_unlockcity_text">Wil je dit gebied ontgrendelen om een nieuwe stad te maken?</string>
     <string name="region_play">Play</string>
-    <string name="settings_lowcolordepth">Low color depth</string>
+    <string name="settings_lowcolordepth">Lage kleurdiepte</string>
     <string name="region_neededinhabitants">Tenminste %1$,d inwoners in je regio nodig.</string>
     <string name="draft_devroad02_title">Nationale snelweg</string>
     <string name="draft_devroad02_text">Snelweg gebouwd en betaalt door de overheid.</string>
@@ -934,25 +934,25 @@
     <string name="control_gotit">Got it</string>
     <string name="task_firstcity_title">Nieuwe stad</string>
     <string name="task_firstcity_text">Welkom bij je eerste stad.\n\nProbeer 300 inwoners te krijgen.</string>
-    <string name="task_reachrank_title">Nieuwe rank</string>
-    <string name="task_reachrank_text">Gefeliciteerd, je stad is een rank omhoog gegaan.\n\nElke rank ontgrendeld nieuwe gebouwen en geeft je een beloning.</string>
+    <string name="task_reachrank_title">Nieuwe rang</string>
+    <string name="task_reachrank_text">Gefeliciteerd, je stad is een rang omhoog gegaan.\n\nElke rang ontgrendelt nieuwe gebouwen en geeft je een beloning.</string>
     <string name="welcome_sorry_title">Nieuws</string>
-    <string name="welcome_sorry_text">Beste speler,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>
+    <string name="welcome_sorry_text">Beste speler,\n\nwe hebben de laatste tijd veel vooruitgang gemaakt bij TheoTown. Spijtig genoeg zou dit niet mogelijk zijn als we geen speciale valuta zouden invoegen, of wijzigigen doorvoeren die oude steden onspeelbaar kunnen maken. \n\nWe hopen dat je dit begrijpt. We hebben een cadeau om je te bedanken.</string>
     <string name="menu_achievements">Prestaties</string>
     <string name="menu_leaderboards">Scorebord</string>
     <string name="menu_screenshot">Neem foto</string>
-    <string name="menu_mapscreenshot">Neem foto van je map</string>
+    <string name="menu_mapscreenshot">Neem foto van je kaart</string>
     <string name="menu_save">Opslaan</string>
     <string name="menu_title">Menu</string>
-    <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$,d maps at once.</string>
+    <string name="region_maxconcurrentunlocks">Kan niet meer dan %1$,d kaarten tegelijk vrijspelen.</string>
     <string name="dialog_unlocktime_title">Verkort de tijd</string>
-    <string name="dialog_unlocktime_text">It\'s a lot of work to unlock a map. May you want us to support us? This can reduce unlocking time by 30 minutes.</string>
-    <string name="region_speedup">versnellen</string>
-    <string name="region_waitingtime">Deze map word nu ontgreldeld.</string>
+    <string name="dialog_unlocktime_text">Het is een heleboel werk om een kaart vrij te spelen. Misschien wil je ons ondersteunen? Dit kan de tijd verminderen met 30 minuten.</string>
+    <string name="region_speedup">Versnellen</string>
+    <string name="region_waitingtime">Deze map wordt nu ontgreldeld.</string>
     <string name="settings_autoload">Automatisch laatste stad laden</string>
     <string name="dialog_renameregion_title">Regio hernoemen</string>
     <string name="dialog_renameregion_text">Vul hier de nieuwe regio naam in:</string>
-    <string name="shop_diamonds">%1$s diamonds for %2$s</string>
+    <string name="shop_diamonds">%1$s diamanten voor %2$s</string>
     <string name="draft_townhall02_title">Groot stadhuis</string>
     <string name="draft_townhall02_text">Een groot stadhuis voor een grote stad. Als bedankje voor 1M downloads.</string>
     <string name="notify_pollutedwaterpump">Deze waterpomp staat in een vervuild gebied. We kunnen hem beter ergens anders plaatsen om het water schoon te houden.</string>
@@ -1004,7 +1004,7 @@
     <string name="draft_feature_mountain00_text">De kleine berg is een toeristische attractie in dit vlakke landschap.</string>
     <string name="dialog_connect_title">Verbind naar buren</string>
     <string name="dialog_connect_text">Wil je een verbinding maken met de buren?</string>
-    <string name="menu_hideui">verberg UI</string>
+    <string name="menu_hideui">Verberg UI</string>
     <string name="ci_neighbor_title">Buren commercieel</string>
     <string name="ci_neighbor_notavailable">Niet beschikbaar op het moment</string>
     <string name="ci_neighbor_import">Import</string>
@@ -1049,10 +1049,10 @@
     <string name="topic_crispr">CRISPR kan je leven veranderen</string>
     <string name="draft_feature_firestation00_title">Hoofd brandweerkazerne</string>
     <string name="draft_feature_firestation00_text">Een brandweerkazerne met grote radius, veel wagens, en een upgrade voor helikopter.</string>
-    <string name="draft_feature_gocart00_title">Go-kart baan</string>
+    <string name="draft_feature_gocart00_title">Go-kartbaan</string>
     <string name="draft_feature_gocart00_text">Wat dacht je van wat motor sporten in je stad? Spawnt Go-kart op de normale weg.</string>
     <string name="draft_firedepartment02_text">Heeft een grote radius en veel wagens. Handig om branden te blussen of voorkomen.</string>
-    <string name="draft_prmgocart00_title">Go-cart baan</string>
+    <string name="draft_prmgocart00_title">Go-kartbaan</string>
     <string name="draft_prmgocart00_text">What about some motor sports in your town? Will also spawn go-carts on normal road.</string>
     <string name="settings_smoothscrolling">Smooth scrolling</string>
     <string name="settings_buildingtoolold">Oude bouw tool</string>
@@ -1078,7 +1078,7 @@
     <string name="tut_build110">Burgemeester, we hebben geen banen of een plek om dingen te kopen!</string>
     <string name="tut_build12">Oke, we hebben commercieel en industrieel gebied nodig. Laten we kijken in het vereisten overview.</string>
     <string name="tut_build13">Hier kan je de vereisten voor res (residentieel), com (commercieel) en ind (industrieel) gebouwen.</string>
-    <string name="tut_build14">Voor elk type (res, com of ind)) zijn drie welvaarts levels: Ͳ, ͲͲ and ͲͲͲ , wat staat voor arm, gemiddeld en rijk.</string>
+    <string name="tut_build14">Voor elk type (res, com of ind) zijn drie welvaartsniveaus: Ͳ, ͲͲ and ͲͲͲ , wat staat voor arm, gemiddeld en rijk.</string>
     <string name="tut_build15">We willen natuurlijk alleen rijke inwoners, maar we moeten langzaam beginnen. ZOals je ziet hebben we nu wat commercieel T nodig.</string>
     <string name="tut_build16">Verklaar nog maar wat commercieel gebied? Dat moet wel lukken.</string>
     <string name="tut_build17">Goed gedaan! Volgens de vereisten grafiek is er vraag naar industrieel gebied. Laten we het bij ons residentieel gebied verklaren.</string>
@@ -1089,7 +1089,7 @@
     <string name="tut_build24">Dit is ook een handig gereedschap.</string>
     <string name="tut_build25">Het laat je de details zien van de gelukkigheid van je inwoners.</string>
     <string name="tut_build26">Zou het niet gaaf zijn om meester van de tijd te zijn? Probeer het iets sneller te laten verlopen.</string>
-    <string name="tut_build27">Pauseer nu het spel.</string>
+    <string name="tut_build27">Pauzeer het spel nu.</string>
     <string name="tut_build28">En nu weer terug naar normale snelheid...</string>
     <string name="tut_build29">Sorry om je te onderbreken, maar er zijn ook niet magische dingen. Geld bijvoorbeeld.</string>
     <string name="tut_build30">Een kort overzicht over ons geld. We verdienen geld door de belastingen, dus het is in ons belang meer inwoners te krijgen.</string>
@@ -1105,18 +1105,18 @@
     <string name="tut_end00">Als je zoekt naar een geweldige community, kan je die vinden op www.theotown.com</string>
     <string name="tut_end01">En nu, veel plezier :)</string>
 
-    <string name="featureselector_time">%1$s aan super snelheid</string>
-    <string name="draft_feature_time00_title">Tijd beheerser</string>
-    <string name="draft_feature_time00_text">Geeft je een beperkte mogenlijkheid voor super snelle gamesnelheid.</string>
-    <string name="draft_feature_time01_title">Geavanceerde tijd tovenaar</string>
-    <string name="draft_feature_time01_text">Je kan super snelle gamesnelheid langer gebruiken.</string>
+    <string name="featureselector_time">%1$s aan supersnelheid</string>
+    <string name="draft_feature_time00_title">Tijdbeheerser</string>
+    <string name="draft_feature_time00_text">Geeft je een beperkte mogelijkheid voor de supersnelle spelsnelheid.</string>
+    <string name="draft_feature_time01_title">Geavanceerde tijdstovenaar</string>
+    <string name="draft_feature_time01_text">Je kan de supersnelle spelsnelheid langer gebruiken.</string>
     <string name="draft_feature_time02_title">MEESTER van tijd</string>
-    <string name="draft_feature_time02_text">Je bent de ultieme meester van tijd. Geeft je veel stamina voor super snelle gamesnelheid gebruik.</string>
+    <string name="draft_feature_time02_text">Je bent de ultieme meester van tijd. Geeft je veel stamina voor supersnelle spelsnelheid.</string>
 
-    <string name="draft_feature_weather_machine00_title">Weer machine</string>
-    <string name="draft_feature_weather_machine00_text">Gebruikt super geheime technologie om het weer te beheersen.</string>
-    <string name="draft_weather_machine00_title">Weer machine</string>
-    <string name="draft_weather_machine00_text">Gebruikt super geheime technologie! Je kan het gebruiken om het weer te beheersen.</string>
+    <string name="draft_feature_weather_machine00_title">Weermachine</string>
+    <string name="draft_feature_weather_machine00_text">Gebruikt supergeheime technologie om het weer te beheersen.</string>
+    <string name="draft_weather_machine00_title">Weermachine</string>
+    <string name="draft_weather_machine00_text">Gebruikt supergeheime technologie! Je kan het gebruiken om het weer te beheersen.</string>
 
     <string name="draft_mltry_fence01_title">Militair hek</string>
     <string name="draft_mltry_fence01_text">Een militair hek voor decoratie doeleinden.</string>
@@ -1129,28 +1129,28 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
 
     <string name="settings_sound_weather">Weer</string>
 
-    <string name="settings_energysavingplus">Energie besparing PLUS</string>
+    <string name="settings_energysavingplus">Energiebesparing PLUS</string>
     <string name="topic_designed">Ontworpen door mensen</string>
-    <string name="draft_weather_machine00_fog00_title">Mist Machine</string>
-    <string name="draft_weather_machine00_fog00_text">Een grote mist machine die mist kan generenen in de hele stad.</string>
+    <string name="draft_weather_machine00_fog00_title">Mistmachine</string>
+    <string name="draft_weather_machine00_fog00_text">Een grote mistmachine die mist kan genereren in de hele stad.</string>
     <string name="dialog_cancelupgrade">Annuleer upgrade</string>
-    <string name="draft_feature_ranger00_title">Boswachter hut</string>
-    <string name="draft_feature_ranger00_text">Soms moeten bomen herplant worden als de omgeving te vervuild is. De boswachter hut herplant bomen automatisch.</string>
-    <string name="draft_ranger00_title">Boswachter hut</string>
+    <string name="draft_feature_ranger00_title">Boswachtershut</string>
+    <string name="draft_feature_ranger00_text">Soms moeten bomen herplant worden als de omgeving te vervuild is. De boswachtershut herplant bomen automatisch.</string>
+    <string name="draft_ranger00_title">Boswachtershut</string>
     <string name="draft_ranger00_text">Soms moeten bomen herplant worden als de omgeving te vervuild is. Deze hut herplant bomen automatisch.</string>
 
-    <string name="ci_general_citypoints">Stads punten: %1$s</string>
-    <string name="settings_ringbuildindicator">Constructie indicator</string>
+    <string name="ci_general_citypoints">Stadspunten: %1$s</string>
+    <string name="settings_ringbuildindicator">Bouwindicator</string>
 
     <string name="draft_tool_car_follower00_title">Volg auto</string>
     <string name="draft_tool_car_follower00_text">Volgt een willekeurige auto.</string>
     <string name="draft_mltry_bunker00_title">Bunker</string>
-    <string name="draft_mltry_bunker00_text">Inwoners voeling zich veilig in de buurt van bunkers. Ze zijn tenminste vuurbestendig.</string>
+    <string name="draft_mltry_bunker00_text">Inwoners voelen zich veilig in de buurt van bunkers. Ze zijn tenminste vuurbestendig.</string>
     <string name="draft_zoneairport_title">Vliegveld</string>
-    <string name="draft_zoneairport_text">Bouw een vliegveld binnen dit vliegveld gebied.</string>
+    <string name="draft_zoneairport_text">Bouw een vliegveld binnen dit vliegveldgebied.</string>
     <string name="draft_decoletters00_title">Letters</string>
     <string name="draft_decoletters00_text">Gewoon wat letters om  %1$s wat persoonlijker te maken.</string>
-    <string name="draft_feature_letters00_title">Letters decoratie</string>
+    <string name="draft_feature_letters00_title">Letterdecoratie</string>
     <string name="draft_feature_letters00_text">Wat plaatsbare letters die gebruikt kunnen worden voor decoratieve doeleinden.</string>
 
     <string name="tool_eye_dropper">Selecteer een gebouw</string>
@@ -1197,7 +1197,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_rnk_infinity_big_title">Grote oneindigheid</string>
     <string name="draft_rnk_infinity_large_title">Enorme Oneindigheid</string>
     <string name="draft_prm_park00_title">Grote fontein</string>
-    <string name="draft_prm_park00_text">Een prachtige fontein dat jou en de inwoners van %1$s zal bevallen.</string>
+    <string name="draft_prm_park00_text">Een prachtige fontein die jou en de inwoners van %1$s zal bevallen.</string>
     <string name="draft_feature_fountain00_title">Grote fontein</string>
     <string name="draft_feature_fountain00_text">Een prachtige fontein die jou en de inwoners wel zal bevallen.</string>
 
@@ -1206,19 +1206,19 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_rnk_galaxy_big_title">Grote Melkweg</string>
     <string name="draft_rnk_galaxy_large_title">Enorme Melkweg</string>
     <string name="draft_rnk_galaxy_cluster_small_title">Kleine Melkweg Kluster</string>
-    <string name="draft_rnk_galaxy_cluster_medium_title">Melkweg Kluster</string>
-    <string name="draft_rnk_galaxy_cluster_big_title">Grote Melkweg Kluster</string>
-    <string name="draft_rnk_galaxy_cluster_large_title">Enorme Melkweg Kluster</string>
-    <string name="draft_rnk_supercluster_small_title">Klein Superkluster</string>
-    <string name="draft_rnk_supercluster_medium_title">Superkluster</string>
-    <string name="draft_rnk_supercluster_big_title">Groot Superkluster</string>
-    <string name="draft_rnk_supercluster_large_title">Enorm Superkluster</string>
+    <string name="draft_rnk_galaxy_cluster_medium_title">Melkwegcluster</string>
+    <string name="draft_rnk_galaxy_cluster_big_title">Grote Melkwegcluster</string>
+    <string name="draft_rnk_galaxy_cluster_large_title">Enorme Melkwegcluster</string>
+    <string name="draft_rnk_supercluster_small_title">Kleine Supercluster</string>
+    <string name="draft_rnk_supercluster_medium_title">Supercluster</string>
+    <string name="draft_rnk_supercluster_big_title">Grote Supercluster</string>
+    <string name="draft_rnk_supercluster_large_title">Enorme Supercluster</string>
 
     <string name="ci_airport_title">Vliegveld</string>
-    <string name="draft_wire01_title">Transmissie kabel</string>
-    <string name="draft_wire01_text">Een grote kabel voor veel energie. Voor regionaal energie gebruik.</string>
+    <string name="draft_wire01_title">Transmissiekabel</string>
+    <string name="draft_wire01_text">Een grote kabel voor veel energie. Voor regionaal energiegebruik.</string>
     <string name="draft_transformator00_title">Transformator</string>
-    <string name="draft_transformator00_text">Een transformator is nodig om van laag naar hoog voltage te gaan. Bouw het naast een transmissie kabel.</string>
+    <string name="draft_transformator00_text">Een transformator is nodig om van laag naar hoog voltage te gaan. Bouw het naast een transmissiekabel.</string>
 
     <string name="settings_showtouchpoints">Laat raakpunten zien</string>
     <string name="shop_promotion_limited">Gelimiteerde promotie</string>
@@ -1231,7 +1231,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="airport_lane_add">Voeg baan toe</string>
     <string name="airport_airplanes">Vliegtuigen</string>
     <string name="airport_virtual_lane">Nog niet toegewezen</string>
-    <string name="airport_lane_no_airplane">No draft set</string>
+    <string name="airport_lane_no_airplane">Geen draft set</string>
     <string name="topic_lightside">Kom naar het licht, we hebben ijsjes</string>
     <string name="topic_handmade">Elke pixel is handmatig gemaakt</string>
     <string name="topic_lunch">Bouw vanaf hier tot aan de lunch</string>
@@ -1245,9 +1245,9 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
 
     <string name="settings_lesscars">Verkeer volume</string>
     <string name="settings_uploadgameplay">Upload gameplay (your id: %s)</string>
-    <string name="settings_uploadgameplaymobile">Sta gameplay upload toe zonder WiFi connectie (kan duur zijn!)</string>
+    <string name="settings_uploadgameplaymobile">Sta gameplay upload toe zonder WiFi-verbinding (kan duur zijn!)</string>
     <string name="createcity_sizebigbigextra">Kolosaal</string>
-    <string name="settings_uploadgameplay_quality">Upload kwaliteit</string>
+    <string name="settings_uploadgameplay_quality">Uploadkwaliteit</string>
     <string name="settings_uploadgameplay_qlow">Slecht</string>
     <string name="settings_uploadgameplay_qmedium">Gemiddeld</string>
     <string name="settings_uploadgameplay_qhigh">Hoog</string>
@@ -1265,7 +1265,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_prm_airplane00_title">T340 Goud</string>
     <string name="draft_prm_airplane00_text">Een gouden variant van het vliegtuig met groot bereik van TheoAir.</string>
     <string name="draftselector_airplane_passenger">Passagiers: %1$,d</string>
-    <string name="draft_ap_deco00_title">Vliegveld decoratie</string>
+    <string name="draft_ap_deco00_title">Vliegvelddecoratie</string>
     <string name="draft_ap_deco00_text">Maak je vliegveld realistischer met deze decoraties.</string>
     <string name="airport_needtower_title">Geen toren</string>
     <string name="airport_needtower_text">Je moet een toren bouwen om je vliegveld te beheersen</string>
@@ -1287,37 +1287,37 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="dialog_redeemsuccess_title">Succes</string>
     <string name="dialog_redeemsuccess_text">Gefeliciteerd, je hebt %1$s diamanten gekregen :)</string>
     <string name="dialog_redeemfailure_title">Mislukt</string>
-    <string name="dialog_redeemfialire_text">De ingevulde code kon niet worden ingewisselt. Controleer op spellingsfouten.</string>
+    <string name="dialog_redeemfialire_text">De ingevulde code kon niet worden ingewisseld. Controleer op spellingsfouten.</string>
     <string name="shop_redeemcode">Code inwisselen</string>
     <string name="draft_ap_tower00_title">Toren</string>
-    <string name="draft_ap_tower00_text">Een vliegveld heeft tenminste een toren nodig om te functioneren.</string>
+    <string name="draft_ap_tower00_text">Een vliegveld heeft minstens een toren nodig om te functioneren.</string>
     <string name="draft_ap_hall00_title">Ingang</string>
     <string name="draft_ap_hall00_text">Een vliegveld heeft een ingang nodig om mensen binnen te laten.</string>
     <string name="draft_ap_gate00_title">Gate</string>
     <string name="draft_ap_gate00_text">Gates zijn nodig voor inkomende/uitgaande passagiers.</string>
     <string name="draft_ap_field00_title">Startbaan</string>
     <string name="draft_ap_field00_text">Een startbaan waar vliegtuigen kunnen starten en landen. Minimale lengte is 12.</string>
-    <string name="settings_usezoneradius">Gebruik gebieds radius</string>
+    <string name="settings_usezoneradius">Gebruik gebiedsstraal</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">Een groot bereik, dubbeldeks vliegtuig van TheoAir. Het heeft heel veel ruimte.</string>
+    <string name="draft_airplane01_text">Een groot bereik, dubbeldekvliegtuig van TheoAir. Het heeft heel veel ruimte.</string>
     <string name="dialog_waitingtime_title">Verminder wachttijd</string>
     <string name="dialog_waitingtime_text">Wil je deze wachttijd verminderen?\n%1$s over.</string>
 
     <string name="topic_rate">Help ons alstublieft en beoordeel TheoTown</string>
     <string name="ci_airport_lane_unassign">Afdanken</string>
     <string name="tool_airplanelane_title">Klik op een vrije baan</string>
-    <string name="draft_feature_starter_pack00_title">Beginners pakket</string>
-    <string name="draft_feature_starter_pack00_text">Met het beginners pakket krijg je:</string>
+    <string name="draft_feature_starter_pack00_title">Beginnerspakket</string>
+    <string name="draft_feature_starter_pack00_text">Met het beginnerspakket krijg je:</string>
     <string name="pluginerror_cmdchecksyntax">Controleer syntax online</string>
 
     <string name="fb_login_title">Verbind met Facebook</string>
     <string name="fb_login_text">Meld je aan zodat we je profiel kunnen synchroniseren.</string>
     <string name="fb_login_cancel">Annuleer</string>
     <string name="toast_seed_copy">Seed gekopieerd naar klembord</string>
-    <string name="toast_recordingid_copy">Opneem ID gekopieerd naar klembord</string>
-    <string name="draft_ap_road00_title">Transport weg</string>
+    <string name="toast_recordingid_copy">Recording ID gekopieerd naar klembord</string>
+    <string name="draft_ap_road00_title">Vervoersweg</string>
     <string name="draft_ap_road00_text">Gebruik deze weg om je gates met de startbanen te verbinden.</string>
-    <string name="requirement_upgrade">Benodigd verbetering %1$s</string>
+    <string name="requirement_upgrade">Benodigde verbetering %1$s</string>
     <string name="requirement_upgrade_invert">Kan niet gecombineerd worden met %1$s</string>
     <string name="draft_deco_chr_present00_title">Cadeautje</string>
     <string name="draft_deco_chr_present00_text">Gewoon een cadeautje.</string>
@@ -1328,12 +1328,12 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="disaster_pink_slime_title">Roze slijm</string>
     <string name="disaster_pink_slime_text">Altijd uibreidend slijm dat langzaam alles op zijn pad zal opslurpen.</string>
     <string name="disaster_pink_slime_cmdtext">Slijm!</string>
-    <string name="draft_hydroplant00_title">Rivier krachtcentrale</string>
-    <string name="draft_hydroplant00_text">Een hydroelektrische krachtcentrale die elektriciteit opwekt door de kracht van de rivier. Produceert geen vervuiling.</string>
-    <string name="draft_feature_slime00_title">Slijm ramp</string>
-    <string name="draft_feature_slime00_text">Slijm rampen zullen je steden opeten. Uiteraard, alleen als als je dat zelf wilt.</string>
+    <string name="draft_hydroplant00_title">Rivierkrachtcentrale</string>
+    <string name="draft_hydroplant00_text">Een hydro-elektrische krachtcentrale die elektriciteit opwekt door de kracht van de rivier. Produceert geen vervuiling.</string>
+    <string name="draft_feature_slime00_title">Slijmramp</string>
+    <string name="draft_feature_slime00_text">Slijmrampen zullen je steden opeten. Uiteraard, alleen als als je dat zelf wilt.</string>
 
-    <string name="settings_terrainshading">Terrain shading</string>
+    <string name="settings_terrainshading">Terreinschaduw</string>
     <string name="draft_deco_chr_tree00_title">Kerstboom</string>
     <string name="draft_deco_chr_tree00_text">De kerstboom vult de harten van je inwoners met vrolijkheid. Zie je de cadeautjes?</string>
     <string name="draft_jardinehouse00_title">Jardine Huis</string>
@@ -1351,7 +1351,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_deco_chr_snowman00_text">Kinderen bouwen graag sneeuwpoppen in de winter.</string>
     <string name="draft_internationalcommercecentre00_title">ICC</string>
     <string name="draft_internationalcommercecentre00_text">Het International Commerce Centre in Hong Kong is een comercieel wolkenkrabber met 108 verdiepingen. Het is het hoogste gebouw in Hong Kong met 484 meter. De bouw was compleet in 2010.</string>
-    <string name="settings_autosave_interval">Automatisch opslaan interval</string>
+    <string name="settings_autosave_interval">Interval automatisch opslaan</string>
     <string name="settings_autosave_interval_off">Uit</string>
     <string name="settings_autosave_interval_minutes">%1$d min</string>
 
@@ -1381,23 +1381,23 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_syl_spawner04_title">Gekleurde sterren</string>
     <string name="draft_syl_spawner04_text">Een rode explosie met gele gloed.</string>
     <string name="draft_syl_spawner05_title">Borr</string>
-    <string name="draft_syl_spawner05_text">Een rode explosie met gaaf licht effect.</string>
-    <string name="draft_syl_spawner06_title">Glitter willow</string>
+    <string name="draft_syl_spawner05_text">Een rode explosie met gaaf lichteffect.</string>
+    <string name="draft_syl_spawner06_title">Glitterende wilg</string>
     <string name="draft_syl_spawner06_text">Een prachtige explosie van meerdere kleuren en gloed.</string>
     <string name="draft_syl_spawner07_title">Hemelse tranen</string>
     <string name="draft_syl_spawner07_text">Drie witte explosies gecombineerd met een rode gloed.</string>
     <string name="draft_syl_spawner08_title">Suisende oren</string>
     <string name="draft_syl_spawner08_text">Grote raketten die worden afgeschoten.</string>
-    <string name="draft_syl_spawner09_title">Willow</string>
-    <string name="draft_syl_spawner09_text">A big willow.</string>
+    <string name="draft_syl_spawner09_title">Wilg</string>
+    <string name="draft_syl_spawner09_text">Een grote wilg.</string>
     <string name="draft_deco_chr_present_helipad00_title">Voor hoogvliegers!</string>
     <string name="draft_deco_chr_present_helipad00_text">Je eerste helikopter, exclusief batterijen.</string>
     <string name="draft_ufo_crater00_title">Vreemd ding</string>
-    <string name="draft_ufo_crater00_text">Dit krater ziet er niet zo mooi uit. Doe dit zo snel mogelijk weg!</string>
+    <string name="draft_ufo_crater00_text">Deze krater ziet er niet zo mooi uit. Doe dit zo snel mogelijk weg!</string>
     <string name="draft_destroyedtileradioactive00_title">Schroot</string>
     <string name="draft_destroyedtileradioactive00_text">Een gebouw is verlaten door radioactiviteit.</string>
     <string name="settings_disaster_ufo">UFO</string>
-    <string name="dialog_externalstorage_text">Theotown heeft toegang nodig tot je geheugen om op te slaan.</string>
+    <string name="dialog_externalstorage_text">TheoTown heeft toegang nodig tot je geheugen om op te slaan.</string>
     <string name="dialog_externalstorage_cancel">Annuleer</string>
     <string name="dialog_externalstorage_retry">Probeer opnieuw</string>
     <string name="notify_disaster_earthquake">Laatste nieuws: Een aardbeving verwoest de stad! Verzekeringen worden duurder!</string>
@@ -1406,12 +1406,12 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="notify_disaster_nuke">We hebben hier net een nucleair ongeval gehad! Inwoners kleuren groen.</string>
     <string name="notify_disaster_tornado">Er staat een sterk windje vandaag!</string>
     <string name="notify_disaster_ufo">Bericht aan aardbewoners, we komen niet in vrede!</string>
-    <string name="settings_download_static_files">Download static files</string>
+    <string name="settings_download_static_files">Download statische bestanden</string>
     <string name="pluginerror_visitforum">Rapporteer op forum</string>
     <string name="dialog_gameplay_title">Gameplay Upload</string>
     <string name="dialog_gameplay_text">Door Gameplay Upload te activeren laat je ons toe om je manier van spelen naar onze servers te verzenden. Lees de disclaimer voor meer info.</string>
     <string name="control_enable">Activeer</string>
-    <string name="dialog_gameplay_disclaimer">toon disclaimer</string>
+    <string name="dialog_gameplay_disclaimer">Toon disclaimer</string>
     <string name="busgame_newbus">Voeg %d. bus toe</string>
     <string name="busgame_route">Route</string>
     <string name="busgame_speed">Snelheid</string>
@@ -1448,7 +1448,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="dialog_disabletasks_text">Je hebt meerdere taken geannuleerd, wil je taken deactiveren voor je stad?</string>
     <string name="control_disable">Deactiveer</string>
     <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">De Arc de Triomphe in Paris is een herdenkingsmonoment voor de gesneuvelden in de Revolutionaire Oorlog.</string>
+    <string name="draft_arcdetriomphe00_text">De Arc de Triomphe in Parijs is een herdenkingsmonoment voor de gesneuvelden in de Revolutionaire Oorlog.</string>
     <string name="featureselector_shortbuildtime">Verlaagde bouwtijd voor %1$s</string>
     <string name="game_remaining_shortbuildtime">Verlaagde bouwtijd met %s</string>
     <string name="shop_open_features">Gebruik diamanten</string>
@@ -1467,7 +1467,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="dialog_wb_cmdforfeit">Forfait</string>
     <string name="dialog_diamondtool_title">Vesnel de bouw</string>
     <string name="dialog_diamondtool_text">Moeten we doorwerken?</string>
-    <string name="draft_feature_valentinesday00_title">Fijne valentijnsdag</string>
+    <string name="draft_feature_valentinesday00_title">Fijne Valentijnsdag</string>
     <string name="draft_feature_valentinesday00_text">Ontgrendel deze gebouwen voor altijd</string>
     <string name="tool_removetunnel_title">Verwijder tunnels</string>
     <string name="tool_removetunnel_text">Voor iedereen met het tunnelsydroom.</string>
@@ -1521,7 +1521,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_draft_hpk_title">Tevredenheidsniveau: Natuur en openbare parken</string>
     <string name="draft_draft_hpk_text">Tevredenheidsniveau over natuur.</string>
     <string name="draft_draft_hsp_title">Tevredenheidsniveau: sport</string>
-    <string name="draft_draft_hsp_text">Tevredenheid over sportinfrastructuur.</string>
+    <string name="draft_draft_hsp_text">Tevredenheidheidsniveau over sportinfrastructuur.</string>
     <string name="draft_draft_hgen_title">Algemeen tevredenheidsniveau</string>
     <string name="draft_draft_hgen_text">Algemeen tevredenheidsniveau.</string>
     <string name="influence_passenger_bus_title">Bussen</string>
@@ -1621,9 +1621,9 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_cat_root00_title">Alle</string>
 
 
-    <string name="draft_cat_residential00_title">Res gebouwen</string>
-    <string name="draft_cat_commercial00_title">Com gebouwen</string>
-    <string name="draft_cat_industrial00_title">Ind gebouwen</string>
+    <string name="draft_cat_residential00_title">Res-gebouwen</string>
+    <string name="draft_cat_commercial00_title">Com-gebouwen</string>
+    <string name="draft_cat_industrial00_title">Ind-gebouwen</string>
     <string name="offerstage_saving">Je bespaart %d%%</string>
     <string name="draft_pickle00_title">Almachtige augurk</string>
     <string name="draft_pickle00_text">.</string>
@@ -1634,7 +1634,7 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
 
     <string name="gallery">Galerij</string>
     <string name="gallery_upload">Upload screenshot</string>
-    <string name="dialog_galleryupload_title">Uploading</string>
+    <string name="dialog_galleryupload_title">Uploaden</string>
     <string name="dialog_galleryupload_text">Ik ben je afbeelding aan het uploaden :)</string>
     <string name="gallery_recent">Recent</string>
     <string name="gallery_trends">Trends</string>
@@ -1648,8 +1648,8 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
 \n\nOnly Klik op akkoord om in te stemmen met ons beleid voor screenshots uploaden.</string>
     <string name="dialog_gallerypolicy_cmdpolicy">Open beleid</string>
     <string name="dialog_gallerypolicy_cmdok">Akkoord</string>
-    <string name="dialog_gallerypolicy_cmdcancel">Niet Akkoord</string>
-    <string name="settings_pushnotifications">Push notificaties</string>
+    <string name="dialog_gallerypolicy_cmdcancel">Niet akkoord</string>
+    <string name="settings_pushnotifications">Pushmeldingen</string>
     <string name="draft_leaningtowerofpisa00_title">Schuine toren van Pisa</string>
     <string name="draft_leaningtowerofpisa00_text">De schuine toren van Pisa is een klokkentoren in de italiaanse stad Pisa. De bouw was afgerond in 1372 en is hij is 56 meter hoog.</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
@@ -1662,455 +1662,455 @@ Als je TheoTown toegang geeft tot je externe opslag, zal het je steden opslaan i
     <string name="draft_recyclingyard00_title">Terugkoop centrum</string>
     <string name="draft_recyclingyard00_text">Waarom afval verbranden of naar de stort brengen als het gerecycled kan worden bij het terugkoop centrum?</string>
     <string name="draft_notify_pickle_spawned00_text">Een wilde augurk komt tevoorschijn %s. Wat ga je er aan doen, burgemeester?</string>
-    <string name="draft_rugbyfield00_title">Rugby veld</string>
-    <string name="draft_rugbyfield00_text">Een rugby veld voor rugby fans.</string>
-    <string name="menu_facebook">Facebook verbinding</string>
+    <string name="draft_rugbyfield00_title">Rugbyveld</string>
+    <string name="draft_rugbyfield00_text">Een rugbyveld voor rugbyfans.</string>
+    <string name="menu_facebook">Facebookverbinding</string>
     <string name="facebook_privacy">Privacy</string>
 
 
-    <string name="settings_smoothcarmovement">Soepele auto bewegingen</string>
+    <string name="settings_smoothcarmovement">Soepele autobewegingen</string>
     <string name="draft_easteregg00_title">Paasei</string>
     <string name="draft_easteregg00_text">Gewoon een paasei. Wat ga je er aan doen?</string>
-    <string name="draft_notify_easteregg_spawned00_text">Er is een paasei ergens verstopt. Kan jij hem vinden?</string>
+    <string name="draft_notify_easteregg_spawned00_text">Er is een paasei ergens verstopt. Kan jij het vinden?</string>
     <string name="draft_notify_easteregg_found00_text">Gefeliciteerd, je hebt het paasei gevonden :)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Verwijder diamant gebouwen</string>
-    <string name="dialog_removediamondbuildings_text">Je hebt een %d diamant kostend gebouw geselecteerd voor de sloop. Weet je zeker dat je deze wilt verwijderen? Er is een verplaats optie als je ze alleen wilt verplaatsen.</string>
+    <string name="dialog_removediamondbuildings_title">Verwijder diamantengebouwen</string>
+    <string name="dialog_removediamondbuildings_text">Je hebt een %d diamantengebouw geselecteerd voor de sloop. Weet je zeker dat je deze wilt verwijderen? Er is een verplaats optie als je ze alleen wilt verplaatsen.</string>
     <string name="settings_renderpollution">Render pollution</string>
 
 
-    <string name="settings_cloudshadow">Wolken schaduwen</string>
+    <string name="settings_cloudshadow">Wolkenschaduwen</string>
 
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
     <string name="draft_orientalpearltower00_text">De Oriental Pearl Toren is een TV toren in Shanghai die is gebouwd in 1994. Het gebouw is 470 meter hoog.</string>
     <string name="draft_swfc_tower00_title">SWFC Tower</string>
     <string name="draft_swfc_tower00_text">Het Shanghai Wereld Financieel Centrum is een wolkenkrabber in Shanghai gebouwd in 2008. Het gebouw is 494 meter hoog.</string>
-    <string name="draft_feature_landmarks03_title">Landmarks IV</string>
+    <string name="draft_feature_landmarks03_title">Bezienswaardigheden IV</string>
     <string name="draft_feature_landmarks03_text">Voortreffelijke gebouwen uit Shanghai</string>
     <string name="draft_cat_asphalt00_title">Asfalt</string>
     <string name="draft_asphalt00_title">Grijs asfalt</string>
     <string name="draft_asphalt00_text">Vervang de natuur er niet mee!</string>
     <string name="draft_asphalt01_title">Donker asfalt</string>
-    <string name="draft_asphalt02_title">Blauw achtig asfalt</string>
+    <string name="draft_asphalt02_title">Blauwachtig asfalt</string>
 
 
-    <string name="draft_cat_management00_title">Management</string>
-    <string name="draft_sakura00_title">Sakura tower</string>
-    <string name="draft_sakura00_text">A traditional pagoda with Sakura trees. What a lovely place.</string>
-    <string name="draft_stbasilcathedral00_title">St Basil\'s Cathedral</string>
-    <string name="draft_stbasilcathedral00_text">The Saint Basil\'s Cathedral is a church in Moscow, Russia. It was completed in 1561 and is now a museum. Its height amounts to 115 meters.</string>
+    <string name="draft_cat_management00_title">Beheer</string>
+    <string name="draft_sakura00_title">Sakuratoren</string>
+    <string name="draft_sakura00_text">Een traditionele pagoda met sakurabomen. Wat een fijne plek.</string>
+    <string name="draft_stbasilcathedral00_title">Basiliuskathedraal</string>
+    <string name="draft_stbasilcathedral00_text">De Basiliuskathedraal is een kathedraal in Moskou in Rusland. Het werd voltooid in 1561 en is nu een museum. De hoogte bedraagt 115 meter.</string>
 
 
     <string name="draft_toji00_title">Tō-ji</string>
-    <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
-    <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
-    <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
-    <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
-    <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
-    <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
-    <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
-    <string name="happiness_waste">Waste disposal</string>
-    <string name="settings_new_content_marker">Highlight new content in toolbar</string>
+    <string name="draft_toji00_text">Tō-ji is een boeddhistische tempel in Kyoto in Japan. Het werd voltooid in 796 en het heeft een hoogte van 55 meter.</string>
+    <string name="ca_wastedisposal_text2">Afvalvervoer: %1$,d/%2$,d L/d</string>
+    <string name="notify_waste_needer00">Het afval is niet opgehaald voor dit gebouw.</string>
+    <string name="notify_waste_producer00">Deze stortplaats is vol, je zou hem beter legen!</string>
+    <string name="draft_landfill00_text">Een heleboel plek om al het afval te verzamelen. Kan enkel verwijderd worden wanneer leeg.</string>
+    <string name="waste_clear">VEEG op het afval om het te verwijderen.</string>
+    <string name="waste_cmdclear">Nu legen</string>
+    <string name="dialog_wasteclear_title">Nu legen</string>
+    <string name="dialog_wasteclear_text">We kunnen de stortplaats legen voor jou.</string>
+    <string name="draft_wasteincinerator00_text">Snelle en vieze manier om van het afval af te komen.</string>
+    <string name="budget_waste_disposal">Afvalverwerking</string>
+    <string name="draft_alert_garbage00_title">Bel vuilniswagen</string>
+    <string name="draft_alert_garbage00_text">Bel de vuilniswagen om het afval van de weg te verzamelen.</string>
+    <string name="happiness_waste">Afvalverwerking</string>
+    <string name="settings_new_content_marker">Markeer nieuwe inhoud in taakbalk</string>
 
 
-    <string name="tool_removeroaddeco_title">Remove road deco</string>
-    <string name="tool_removeroaddeco_text">Use this tool to remove road decoration overlays.</string>
+    <string name="tool_removeroaddeco_title">Verwijder wegdecoratie</string>
+    <string name="tool_removeroaddeco_text">Gebruik dit middel om wegdecoratie te verwijderen.</string>
 
 
-    <string name="draft_palmtree00_title">Palm tree</string>
-    <string name="draft_palmtree00_text">They are essential for any oasis.</string>
+    <string name="draft_palmtree00_title">Palmboom</string>
+    <string name="draft_palmtree00_text">Ze zijn essentieel voor elke oase.</string>
     <string name="draft_cactus00_title">Cactus</string>
-    <string name="draft_cactus00_text">No water? No problem for these cacti.</string>
-    <string name="draft_ancientbear_guard00_title">Guard</string>
-    <string name="draft_ancientbear_guard00_text">A guard that watches over the Ancient Bear.</string>
-    <string name="draft_ancientbear_statue00_title">Ancient Bear</string>
-    <string name="draft_ancientbear_statue00_text">A statue of the Ancient Bear.</string>
-    <string name="draft_greatpyramid00_title">Great Pyramid of Giza</string>
+    <string name="draft_cactus00_text">Geen water? Geen probleem voor deze cactussen.</string>
+    <string name="draft_ancientbear_guard00_title">Wachter</string>
+    <string name="draft_ancientbear_guard00_text">Een wachter die over de Oude Beer waakt.</string>
+    <string name="draft_ancientbear_statue00_title">Oude Beer</string>
+    <string name="draft_ancientbear_statue00_text">Een standbeeld van de Oude Beer.</string>
+    <string name="draft_greatpyramid00_title">Grote Piramide van Gizeh</string>
 
 
     <string name="draft_wasteincinerator00_filter00_title">Filter</string>
-    <string name="draft_wasteincinerator00_filter00_text">Reduces the emitted pollution and noise drastically.</string>
-    <string name="draft_flowers00_title">Flowers</string>
-    <string name="draft_flowers00_text">Just some flowers.</string>
+    <string name="draft_wasteincinerator00_filter00_text">Verlaagt de geproduceerde vervuiling en herrie drastisch.</string>
+    <string name="draft_flowers00_title">Bloemen</string>
+    <string name="draft_flowers00_text">Gewoon wat bloemen.</string>
 
 
-    <string name="game_remaining_doubledincometime">Doubled income for %s</string>
+    <string name="game_remaining_doubledincometime">Verdubbeld inkomen voor %s</string>
     <string name="draft_taipei101_title">Taipei 101</string>
-    <string name="draft_taipei101_text">The Taipei Financial Center in Taipei is a supertall skyscraper in Taiwan. It has a height of 510 meters and has been the tallest building in the world until 2010. It was finished in 2004.</string>
-    <string name="draft_roaddeco_border00_title">Guide post</string>
-    <string name="draft_roaddeco_border00_text">Helps cars to keep track.</string>
-    <string name="draft_roaddeco_border01_title">Stone border</string>
-    <string name="draft_roaddeco_border01_text">Just some decorative stones lying near your road.</string>
-    <string name="draft_roaddeco_border02_title">Guard railing</string>
-    <string name="draft_roaddeco_border02_text">Safety first.</string>
-    <string name="draft_roaddeco_border03_title">Sound protection</string>
-    <string name="draft_roaddeco_border03_text">Which noise? I don\'t hear any.</string>
-    <string name="draft_roaddeco_border04_title">Glass wall</string>
-    <string name="draft_roaddeco_border04_text">You can see cars through it.</string>
-    <string name="draft_roaddeco_border05_title">Street lighting</string>
-    <string name="draft_roaddeco_border05_text">There\'s no night and yet there are street lights.</string>
+    <string name="draft_taipei101_text">Het Taipei Financial Center in Taipei is een superlange wolkenkrabber in Taiwan. Het heeft een hoogte van 510 meter en was het hoogste gebouw tot 2010. Het werd afgewerkt in 2004.</string>
+    <string name="draft_roaddeco_border00_title">Handwijzer</string>
+    <string name="draft_roaddeco_border00_text">Houdt wagens op het goede spoor.</string>
+    <string name="draft_roaddeco_border01_title">Stenen muur</string>
+    <string name="draft_roaddeco_border01_text">Gewoon wat decoratieve steentjes in de buurt van je weg.</string>
+    <string name="draft_roaddeco_border02_title">Vangrail</string>
+    <string name="draft_roaddeco_border02_text">Veiligheid eerst.</string>
+    <string name="draft_roaddeco_border03_title">Geluidsbescherming</string>
+    <string name="draft_roaddeco_border03_text">Welk lawaai? Ik hoor niets.</string>
+    <string name="draft_roaddeco_border04_title">Glazen muur</string>
+    <string name="draft_roaddeco_border04_text">Je kan er auto\'s doorzien.</string>
+    <string name="draft_roaddeco_border05_title">Straatverlichting</string>
+    <string name="draft_roaddeco_border05_text">Er is nog geen nacht, maar toch is er al straatverlichting.</string>
 
 
-    <string name="draft_cat_roaddeco00_title">Road decoration</string>
+    <string name="draft_cat_roaddeco00_title">Wegdecoratie</string>
 
 
-    <string name="draft_feature_doubledincome00_title">Doubled income</string>
-    <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
-    <string name="features_duration">Duration %s</string>
-    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
-    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
-    <string name="draft_roaddeco_bumps00_title">Bumps</string>
-    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
-    <string name="draft_fence00_title">Fence</string>
-    <string name="draft_fence00_text">Just a simple fence.</string>
-    <string name="draft_fence01_title">White fence</string>
-    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+    <string name="draft_feature_doubledincome00_title">Verdubbeld inkomen</string>
+    <string name="draft_feature_doubledincome00_text">Verdubbelt gewoon je inkomen.</string>
+    <string name="features_duration">Duur %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Zebrapad</string>
+    <string name="draft_roaddeco_crosswalk00_text">Het is gevaarlijk om de straat zomaar over te steken.</string>
+    <string name="draft_roaddeco_bumps00_title">Vluchtheuvels</string>
+    <string name="draft_roaddeco_bumps00_text">Vluchtheuvels vertragen het verkeer.</string>
+    <string name="draft_fence00_title">Hek</string>
+    <string name="draft_fence00_text">Gewoon een eenvoudig hek.</string>
+    <string name="draft_fence01_title">Wit hek</string>
+    <string name="draft_fence01_text">Het is een hek, maar het is ook wit.</string>
 
 
-    <string name="draft_jungletree00_title">Jungle tree</string>
-    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+    <string name="draft_jungletree00_title">Jungleboom</string>
+    <string name="draft_jungletree00_text">In de jungle, de machtige jungle slaapt de leeuw vannacht.</string>
 
 
-    <string name="draft_igloo00_title">Igloo</string>
-    <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
-    <string name="features_more">More content</string>
-    <string name="features_diamonds">Get diamonds</string>
+    <string name="draft_igloo00_title">Iglo</string>
+    <string name="draft_igloo00_text">Verrassend genoeg is het niet zo koud in een iglo.</string>
+    <string name="features_more">Meer inhoud</string>
+    <string name="features_diamonds">Verkrijg diamanten</string>
 
 
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="dialog_privacy_title">Privacy Policy</string>
-    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
-    <string name="dialog_privacy_cmdopen">Open Policy</string>
-    <string name="dialog_privacy_cmdlater">Got it</string>
-    <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
-    <string name="draft_metrostation00_text">A station to access metro.</string>
-    <string name="draft_metroline00_title">Metro tunnel</string>
-    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
-    <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
-    <string name="dialog_search_text">Enter a search keyword below.</string>
-    <string name="dialog_search_cmdok">Search</string>
-    <string name="dialog_search_cmdcancel">Cancel</string>
-    <string name="search_results_title">Search results for \"%s\"</string>
-    <string name="draft_rail01_title">Urban Railway</string>
-    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
-    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
-    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
-    <string name="settings_realmmres">Real minimap resolution</string>
-    <string name="feature_coming_soon_fulfilled">An early gift</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="dialog_privacy_title">Privacybeleid</string>
+    <string name="dialog_privacy_text">Hé, we hebben ons privacybeleid gewijzigd. Kijk het even na alsjeblieft.</string>
+    <string name="dialog_privacy_cmdopen">Open beleid</string>
+    <string name="dialog_privacy_cmdlater">Oké</string>
+    <string name="settings_drawzones">Teken zones</string>
+    <string name="draft_metrostation00_title">Metrostation</string>
+    <string name="draft_metrostation00_text">Een station om toegang te krijgen tot de metro.</string>
+    <string name="draft_metroline00_title">Metrotunnel</string>
+    <string name="draft_metroline00_text">Een metrotunnel. Je kan hem niet zien, maar hij is er wel.</string>
+    <string name="feature_coming_soon">Komt binnenkort</string>
+    <string name="dialog_search_title">Zoeken</string>
+    <string name="dialog_search_text">Voer een zoekwoord in.</string>
+    <string name="dialog_search_cmdok">Zoeken</string>
+    <string name="dialog_search_cmdcancel">Annuleren</string>
+    <string name="search_results_title">Zoekresultaten voor \"%s\"</string>
+    <string name="draft_rail01_title">Stedelijk spoor</string>
+    <string name="draft_rail01_text">Een verhoogd spoor voor stedelijke gebieden voor een hogere snelheid.</string>
+    <string name="draft_nativerailwaystation01_title">Stedelijk treinstation</string>
+    <string name="draft_nativerailwaystation01_text">Een compact station voor plekken met weinig ruimte.</string>
+    <string name="settings_realmmres">Werkelijke minimapresolutie</string>
+    <string name="feature_coming_soon_fulfilled">Een vroeg cadeau</string>
 
 
-    <string name="draft_tree_sakura00_title">Cherry blossom</string>
-    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
+    <string name="draft_tree_sakura00_title">Kersenbloesem</string>
+    <string name="draft_tree_sakura00_text">Hoewel ze technisch gezien kersenbomen zijn, krijgen ze geen kersen.</string>
     <string name="draft_circus00_title">Circus</string>
-    <string name="draft_circus00_text">It\'s time for circus!</string>
+    <string name="draft_circus00_text">Het is tijd voor het circus!</string>
     <string name="draft_chrysler00_title">Chrysler Building</string>
-    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
-    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
-    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
+    <string name="draft_chrysler00_text">Je hebt dit gebouw waarschijnlijk al eens gezien. De Chrysler Building in New York staat bekend om zijn iconische look. Afgewerkt in 1930 met een hoogte van 319m.</string>
+    <string name="draft_greatpyramid00_text">Het piramidencomplex van Gizeh is het oudste van de Zeven Wereldwonderen van de Antieke Wereld en welgekend over heel de wereld. De Grote Piramide is de grootste van de drie piramiden en heeft een hoogte van 139m.</string>
+    <string name="draft_feature_landmarks04_text">Neem enkele grootse gebouwen</string>
 
 
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
-    <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
-    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
-    <string name="lang_pirate">Pirate</string>
+    <string name="draft_roaddeco_barrier_open00_title">Barrière</string>
+    <string name="draft_roaddeco_barrier_open00_text">Tik erop om het te sluiten. Een goede manier om files te creëren.</string>
+    <string name="selectable_find">Vind (%,d)</string>
+    <string name="gallery_upload_success">Succes</string>
+    <string name="gallery_upload_fail">Upload mislukt</string>
+    <string name="draft_medic02_title">Klein ziekenhuis</string>
+    <string name="draft_medic02_text">Het kleine ziekenhuis biedt meer ruimte voor meer patiënten.</string>
+    <string name="lang_pirate">Piraat</string>
 
 
-    <string name="draft_church10_title">Baroque Church</string>
-    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
-    <string name="draft_roaddeco_construction00_title">Backhoe</string>
-    <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
+    <string name="draft_church10_title">Barokkerk</string>
+    <string name="draft_church10_text">Een mooie kerk en klooster voor je stad.</string>
+    <string name="draft_roaddeco_construction00_title">Graafmachine</string>
+    <string name="draft_roaddeco_construction00_text">Een graafmachine op het midden van de weg lijkt geen goed idee, of wel?</string>
 
 
-    <string name="infoline_freetunnels">%d tunnels left</string>
-    <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
-    <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
-    <string name="draft_roaddeco_barrier01_title">Barricades</string>
-    <string name="draft_roaddeco_barrier01_text">Can be used to barricade the road.</string>
-    <string name="draft_roaddeco_construction01_title">Gravel mountains</string>
-    <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
+    <string name="infoline_freetunnels">%d tunnels over</string>
+    <string name="buildinginfo_idletime">IJdele tijd: %s (wanneer je niet in de stad bent)</string>
+    <string name="dialog_wb_completed">Gefeliciteerd, %d gebouwen zijn voltooid sinds je laatste bezoek.</string>
+    <string name="draft_roaddeco_barrier01_title">Afsluitingen</string>
+    <string name="draft_roaddeco_barrier01_text">Kan worden gebruikt om de weg af te sluiten.</string>
+    <string name="draft_roaddeco_construction01_title">Grindbergen</string>
+    <string name="draft_roaddeco_construction01_text">Deel van goede wegenwerken.</string>
 
 
-    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
-    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
-    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
-    <string name="notification01_text">Mayor, please come back!</string>
+    <string name="notification00_sandbox_title">NIEUWS: %1$s is een mooie stad!</string>
+    <string name="notification00_sandbox_text">Burgemeester, je mag trots op jezelf zijn!</string>
+    <string name="notification01_title">NIEUWS: %1$s voelt zich eenzaam!</string>
+    <string name="notification01_text">Burgemeester, kom alsjeblieft terug!</string>
 
 
-    <string name="shop_adreward">Free diamonds</string>
-    <string name="draft_smallmetrostation00_title">Metro access point</string>
-    <string name="draft_smallmetrostation00_text">A station to access the metro. For trains you have to build a metro station.</string>
-    <string name="draft_roaddeco_trafficisland00_title">Traffic island</string>
-    <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
-    <string name="draft_roaddeco_buildingsite00_title">Building site</string>
-    <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
-    <string name="draft_roaddeco_trafficlights00_title">Traffic light</string>
-    <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
+    <string name="shop_adreward">Gratis diamanten</string>
+    <string name="draft_smallmetrostation00_title">Metrotoegangspunt</string>
+    <string name="draft_smallmetrostation00_text">Een station om toegang te krijgen tot de metro. Voor treinen moet je een metrostation bouwen.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Verkeerseiland</string>
+    <string name="draft_roaddeco_trafficisland00_text">Staat mensen toe om de straat over te steken.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Bouwwerf</string>
+    <string name="draft_roaddeco_buildingsite00_text">Opgelet wegenwerken!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Stoplicht</string>
+    <string name="draft_roaddeco_trafficlights00_text">Veiliger dan een zebrapad en verkeerseiland.</string>
 
 
-    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
-    <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
+    <string name="tool_removemetrotunnel_title">Verwijder metrotunnel</string>
+    <string name="tool_removemetrotunnel_text">Laten we enkele metrotunnels verwijderen.</string>
 
 
-    <string name="draft_windmill00_title">Old Dutch Windmill</string>
-    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
-    <string name="draft_taxi_depot00_title">Taxi depot</string>
-    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
-    <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
-    <string name="disaster_pickle_title">Pickle</string>
-    <string name="disaster_pickle_text">Pickle.</string>
-    <string name="disaster_pickle_cmdtext">Pickle!</string>
-    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
-    <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
-    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
-    <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
+    <string name="draft_windmill00_title">Oude Nederlandse windmolen</string>
+    <string name="draft_windmill00_text">Een oude windmolen voor het platteland van je stad.</string>
+    <string name="draft_taxi_depot00_title">Taxidepot</string>
+    <string name="draft_taxi_depot00_text">Een eenvoudige vorm van openbaar vervoer.</string>
+    <string name="settings_showclosebutton">Sluit knop in spelmenu</string>
+    <string name="menu_closegame">Verlaat spel</string>
+    <string name="disaster_pickle_title">Augurk</string>
+    <string name="disaster_pickle_text">Augurk.</string>
+    <string name="disaster_pickle_cmdtext">Augurk!</string>
+    <string name="draft_disaster_picklehuge00_title">Almachtige augurk</string>
+    <string name="draft_disaster_picklehuge00_text">Een gigantische gemuteerde augurkengod.</string>
+    <string name="draft_disaster_picklehuge01_title">Augurk verslagen</string>
+    <string name="draft_disaster_picklehuge01_text">Een iets te grote groente. Het kan beschaafde augurken schapen die wegen gebruiken.</string>
 
 
-    <string name="draft_discord_statue00_title">Discord statue</string>
-    <string name="draft_discord_statue00_text">Discord statue.</string>
-    <string name="notify_discord_statue00_title">Thank you!</string>
-    <string name="notify_discord_statue00_text">Thank you for 3,000 members on our Discord server. Do you want to visit it now?</string>
-    <string name="draftselector_titlebodydisposal">Funeral</string>
-    <string name="draft_roaddeco_protester00_title">Fake protesters</string>
-    <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
-    <string name="draft_roaddeco_riot00_title">Fake riot</string>
-    <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
-    <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
-    <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
-    <string name="disaster_blizzard_title">Blizzard</string>
-    <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
-    <string name="disaster_blizzard_cmdtext">Freeze!</string>
-    <string name="draft_snowtile00_title">Permanent snow</string>
-    <string name="draft_snowtile00_text">What about global warming?</string>
-    <string name="gamemode_free_title">Free</string>
-    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.</string>
-    <string name="dialog_free_title">Free game mode</string>
-    <string name="dialog_free_text">You selected free game mode.\n
-Pros: No money, no requirements, options to control demand\n
-Cons: Less challenges</string>
-    <string name="draft_medic03_title">Modern hospital</string>
-    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
-    <string name="draft_gol_dead_title">Game of life</string>
-    <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
+    <string name="draft_discord_statue00_title">Discordbeeld</string>
+    <string name="draft_discord_statue00_text">Discordbeeld.</string>
+    <string name="notify_discord_statue00_title">Dank je wel!</string>
+    <string name="notify_discord_statue00_text">Bedankt voor 3.000 leden op onze Discordserver. Wil je hem nu bezoeken?</string>
+    <string name="draftselector_titlebodydisposal">Begrafenis</string>
+    <string name="draft_roaddeco_protester00_title">Neppe protestanten</string>
+    <string name="draft_roaddeco_protester00_text">Huur wat mensen in om nep te protesteren.</string>
+    <string name="draft_roaddeco_riot00_title">Neppe staking</string>
+    <string name="draft_roaddeco_riot00_text">Huur wat mensen in om nep te staken.</string>
+    <string name="draft_roaddeco_roundabout00_title">Minirotonde</string>
+    <string name="draft_roaddeco_roundabout00_text">Een kleine rotonde. Plaats het aan je kruisingen.</string>
+    <string name="disaster_blizzard_title">Sneeuwstorm</string>
+    <string name="disaster_blizzard_text">Zet je schrap, de winter komt eraan!</string>
+    <string name="disaster_blizzard_cmdtext">Bevries!</string>
+    <string name="draft_snowtile00_title">Permanente sneeuw</string>
+    <string name="draft_snowtile00_text">Hoe zit het met de opwarming van de aarde</string>
+    <string name="gamemode_free_title">Vrij</string>
+    <string name="gamemode_free_text">Wil je geen geknoei met geld? In deze spelmodus zijn er geen vereisten, noch geld.</string>
+    <string name="dialog_free_title">Vrije spelmodus</string>
+    <string name="dialog_free_text">Je hebt de vrije spelmodus geselecteerd.\n
+Pro: Geen geld, geen vereisten, opties om vraag te controleren\n
+Contra: Minder uitdagend</string>
+    <string name="draft_medic03_title">Modern ziekenhuis</string>
+    <string name="draft_medic03_text">Een modern ziekenuis dat meer patiënten kan verzorgen in een kleinere ruimte.</string>
+    <string name="draft_gol_dead_title">Levensweg</string>
+    <string name="draft_gol_dead_text">Maak een Levenswegspelveld. Tik op gebouwde tegels om hun status te wijzigen. De standaardstatus is dood.</string>
 
 
     <string name="draft_coittower00_title">Coit Memorial Tower</string>
-    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
+    <string name="draft_coittower00_text">Coit Memorial Tower werd gebouwd in 1933 en werd toegewijd aan de vrijwillige brandweermannen die gestorven waren in de vijf grootste branden van San Fransisco.</string>
     <string name="draft_bankofamerica00_title">Bank of America Center</string>
-    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
+    <string name="draft_bankofamerica00_text">Bank of America Center, is een wolkenkrabber met 52 verdiepen (237 m) in San Francisco in Californië.</string>
     <string name="draft_transamerica00_title">Transamerica Pyramid</string>
-    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
-    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
-    <string name="dialog_cemeteryclear_title">Clear now</string>
-    <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
-    <string name="cemetery_cmdclear">Clear now</string>
-    <string name="cemetery_clear">SWIPE to free up some space.</string>
-    <string name="draft_cemetery00_text">A place where the remains of dead people are buried.</string>
-    <string name="draft_crematory00_text">Dead people are burnt here.</string>
-    <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
-    <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
-    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
-    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
-    <string name="draft_halloween_tree00_title">Dead tree</string>
-    <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
-    <string name="draft_feature_landmarks04_title">Landmarks V</string>
-    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
-    <string name="draft_marker_hackedmarkermarker_title">THIS VERSION HAS BEEN HACKED!</string>
+    <string name="draft_transamerica00_text">De Transamerica Pyramid is een 260 metershoge wolkenkrabber in San Francisco die afgewerkt werd in 1972 en het is de thuisbasis van allerlei financiële dienstverleners.</string>
+    <string name="draft_feature_landmarks05_text">Krijg wat bekende gebouwen uit San Fransisco in Californië.</string>
+    <string name="dialog_cemeteryclear_title">Nu legen</string>
+    <string name="dialog_cemeteryclear_text">Ik denk dat we wat van de ruimte hier kunnen hergebruiken.</string>
+    <string name="cemetery_cmdclear">Nu legen</string>
+    <string name="cemetery_clear">VEEG om wat ruimte vrij te maken.</string>
+    <string name="draft_cemetery00_text">Een plek waar de overblijfselen van dode mensen begrafen zijn.</string>
+    <string name="draft_crematory00_text">Dode mensen worden hier verbrand.</string>
+    <string name="notify_bodydisposal_needer00">Beste burgemeester, ik dring erop aan dat u een begraafplaats bouwt om de doden te begraven.</string>
+    <string name="notify_bodydisposal_producer00">Er is geen ruimte meer in deze begraafplaats. Maak het leeg of bouw een nieuwe begraafplaats of crematorium.</string>
+    <string name="draft_halloween_pumpkin00_title">Pompoen</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween komt eraan! Iedereen houdt toch van pompoenen?</string>
+    <string name="draft_halloween_tree00_title">Dode boom</string>
+    <string name="draft_halloween_tree00_text">Een spookachtige, dode boom die typisch gebruikt wordt in griezelverhalen.</string>
+    <string name="draft_feature_landmarks04_title">Bezienswaardigheden V</string>
+    <string name="draft_feature_landmarks05_title">Bezienswaardigheden VI</string>
+    <string name="draft_marker_hackedmarkermarker_title">DEZE VERSIE IS GEHACKT!</string>
 
 
-    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
-    <string name="draft_haunted_house00_title">Haunted house</string>
-    <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
-    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
-    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
+    <string name="settings_dedicatedplugintexture">Meer plug-inruimte (moet herstarten; kan onstabiel zijn)</string>
+    <string name="draft_haunted_house00_title">Bespookt huis</string>
+    <string name="draft_haunted_house00_text">Een oud herenhuis dat er gevaarlijk uitziet. HET zou hier kunnen leven.</string>
+    <string name="notify_illness">Er is een epidemische uitbraak, we moeten onmiddellijk actie ondernemen. Stuur de dokter!</string>
+    <string name="notify_illnessnomedic">Er is een epidemische uitbraak en we hebben geen dokter. Haal er NU één!</string>
 
 
     <string name="shader_lol">LOL</string>
-    <string name="settings_hugeplugintexture">Congratulations, you\'re running in huge texture mode.</string>
-    <string name="draft_tree00_autumn00_title">Autumn trees</string>
-    <string name="draft_tree00_autumn00_text">Withering leaves can be so beautiful.</string>
-    <string name="settings_handintoolbar">Show hand in toolbar</string>
-    <string name="draft_bushman00_title">Statue of bushman</string>
-    <string name="draft_bushman00_text">\"Mum, what is that?\"\n\"Don\'t look at it. Otherwise it will haunt you in your dreams.\"</string>
-    <string name="draft_police03_title">Modern police dep.</string>
-    <string name="draft_police03_text">Put some money into it and you\'ll be able to solve any issues with crime.</string>
-    <string name="draft_sf_cityhall00_title">City hall</string>
-    <string name="draft_sf_cityhall00_text">A city hall inspired by the city hall in San Francisco.</string>
-    <string name="draft_sf_fineartspalace00_title">Palace of Fine Arts</string>
-    <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
-    <string name="shader_invert">Inverted</string>
+    <string name="settings_hugeplugintexture">Gefeliciteerd, je bent nu in de modus met enorme texturen.</string>
+    <string name="draft_tree00_autumn00_title">Herfstbomen</string>
+    <string name="draft_tree00_autumn00_text">Verwelkende bladeren kunnen zo mooi zijn.</string>
+    <string name="settings_handintoolbar">Toon hand in taakbalk</string>
+    <string name="draft_bushman00_title">Standbeeld van bosjesman</string>
+    <string name="draft_bushman00_text">\"Mama, wat is dat?\"\n\"Kijk er niet naar. Anders zal het je in je dromen achtervolgen.\"</string>
+    <string name="draft_police03_title">Modern politiestation</string>
+    <string name="draft_police03_text">Steek er wat geld in en je zult elk crimineel probleem kunnen oplossen.</string>
+    <string name="draft_sf_cityhall00_title">Stadhuis</string>
+    <string name="draft_sf_cityhall00_text">Een stadhuis geïnspireerd op het stadhuis van San Fransisco.</string>
+    <string name="draft_sf_fineartspalace00_title">Paleis voor Schone Kunsten</string>
+    <string name="draft_sf_fineartspalace00_text">Het Paleis voor Schone Kunsten in San Francisco in Californië, is een monumentaal gebouw dat oorspronkelijk gebouwd werd in 1915 voor de Panama-Pacific Exposition.</string>
+    <string name="shader_invert">Omgekeerd</string>
 
 
-    <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
-    <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
-    <string name="store_authorby">by %s</string>
+    <string name="draft_present_notification00_text">Cadeau van de Kerstman geeft je een explosie.</string>
+    <string name="draft_present_notification01_text">Cadeau van de Kerstman geeft je enkele diamanten.</string>
+    <string name="store_authorby">door %s</string>
     <string name="store_downloads">%,d downloads</string>
-    <string name="store_acquire">Download</string>
-    <string name="store_downlaod">Download</string>
-    <string name="store_downloaded">Downloaded</string>
-    <string name="dialog_storedownlaod_title">Download</string>
-    <string name="dialog_storedownload_text">Do you want to download %s?</string>
-    <string name="dialog_storerestart_title">Restart</string>
-    <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
-    <string name="store_status_notacquired">Not acquired</string>
-    <string name="store_status_downloading">Downloading</string>
-    <string name="store_status_downloaderror">Error: </string>
-    <string name="store_status_acquired">Acquired</string>
-    <string name="store_status_newlyinstalled">Newly installed</string>
-    <string name="store_status_running">Running</string>
-    <string name="store_status_notrunning">Not running</string>
-    <string name="store_status_newversioninstalled">Installed new version</string>
-    <string name="store_status_availupdate">Update available</string>
-    <string name="store_status_restartrequired">Restart required</string>
-    <string name="store_active">Active</string>
-    <string name="store_notactive">Not active</string>
-    <string name="store_fetchfailed">Network error</string>
-    <string name="store_modeexplore">Explore</string>
-    <string name="store_modeinstalled">Installed</string>
-    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
-    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
-    <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
-    <string name="dialog_storedelete_cmddelete">Uninstall</string>
-    <string name="store_modefeatured">Featured</string>
-    <string name="store_modecategory">Category</string>
+    <string name="store_acquire">Downloaden</string>
+    <string name="store_downlaod">Downloaden</string>
+    <string name="store_downloaded">Gedownload</string>
+    <string name="dialog_storedownlaod_title">Downloaden</string>
+    <string name="dialog_storedownload_text">Wil je %s downloaden?</string>
+    <string name="dialog_storerestart_title">Herstarten</string>
+    <string name="dialog_storerestart_text">Veranderingen met plugins vereisen een herstarting van het spel.\n\nWil je het nu herstarten?</string>
+    <string name="dialog_storerestart_cmdrestart">Herstarten</string>
+    <string name="store_status_notacquired">Niet verkregen</string>
+    <string name="store_status_downloading">Downloaden</string>
+    <string name="store_status_downloaderror">Fout: </string>
+    <string name="store_status_acquired">Verkregen</string>
+    <string name="store_status_newlyinstalled">Nieuw geïnstalleerd</string>
+    <string name="store_status_running">Draait</string>
+    <string name="store_status_notrunning">Draait niet</string>
+    <string name="store_status_newversioninstalled">Nieuwe versie geïnstalleerd</string>
+    <string name="store_status_availupdate">Update beschikbaar</string>
+    <string name="store_status_restartrequired">Herstarten vereist</string>
+    <string name="store_active">Actief</string>
+    <string name="store_notactive">Niet actief</string>
+    <string name="store_fetchfailed">Netwerkfout</string>
+    <string name="store_modeexplore">Ontdekken</string>
+    <string name="store_modeinstalled">Geïnstalleerd</string>
+    <string name="draft_feature_freefastspeed00_title">Oneindige snelle snelheid</string>
+    <string name="draft_feature_freetunnels00_title">Oneindige tunnels</string>
+    <string name="dialog_storedelete_title">Deïnstalleren</string>
+    <string name="dialog_storedelete_text">Ben je zeker dat je deze plugin wilt verwijderen?</string>
+    <string name="dialog_storedelete_cmddelete">Deïnstalleren</string>
+    <string name="store_modefeatured">Aanbevolen</string>
+    <string name="store_modecategory">Categorie</string>
     <string name="store_shorttitle">Plugins</string>
-    <string name="gamemenu_catcity">City</string>
-    <string name="gamemenu_catcontent">Content</string>
-    <string name="gamemenu_catsocial">Social</string>
-    <string name="gamemenu_catpictures">Pictures</string>
-    <string name="gamemenu_catother">Other</string>
+    <string name="gamemenu_catcity">Stad</string>
+    <string name="gamemenu_catcontent">Inhoud</string>
+    <string name="gamemenu_catsocial">Sociaal</string>
+    <string name="gamemenu_catpictures">Afbeeldingen</string>
+    <string name="gamemenu_catother">Andere</string>
     <string name="store_catcount">%,d plugins</string>
-    <string name="store_featured">Featured</string>
+    <string name="store_featured">Aanbevolen</string>
 
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+    <string name="dialog_storereport_title">Plugin rapporteren</string>
+    <string name="dialog_storereport_text">Specificeer een reden hieronder waarom je \"%s\": wilt rapporteren</string>
+    <string name="dialog_storereport_cmdreport">Rapporteren</string>
+    <string name="dialog_storereported_title">Plugin gerapporteerd</string>
+    <string name="dialog_storereported_text">Bedankt voor je feedback! We zullen de plugin nakijken en actie ondernemen indien nodig.</string>
 
 
-    <string name="store_ratings">by %,d ratings</string>
-    <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
-    <string name="store_new">New and Updated</string>
+    <string name="store_ratings">door %,d stemmen</string>
+    <string name="store_loadingerror">Fout</string>
+    <string name="dialog_storeerror_title">Laadfout</string>
+    <string name="dialog_storeerror_text">Deze plugin kon niet geladen worden omwille van de volgende reden:</string>
+    <string name="store_new">Nieuw en geüpdatet</string>
     <string name="draft_cat_plugins00_title">Plugins</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="dialog_storesearch_title">Zoek plugin</string>
+    <string name="dialog_storesearch_text">Voer een zoekterm in:</string>
+    <string name="dialog_storesearch_cmdsearch">Zoeken</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
-    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+    <string name="draft_deco_chr_santashouse00_title">Het Huis van de Kerstman</string>
+    <string name="draft_deco_chr_santashouse00_text">De Kerstman gebruikt het om zijn cadeau's te verdelen.</string>
 
 
-    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="store_previouslyinstalled">Verwijderd</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
-    <string name="draft_rails00_title">Railway</string>
-    <string name="draft_rails00_text">Used to guide your trains.</string>
-    <string name="draft_rails00oneway00_title">One-way Railway</string>
-    <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
-    <string name="specialoffer_cmdbuy">Buy for %s</string>
-    <string name="influence_body_disposal_title">Funeral</string>
-    <string name="influence_body_disposal_text">Rest in peace.</string>
-    <string name="influence_traffic_title">Traffic</string>
-    <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
-    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
-    <string name="ci_neighbor_bodydisposal">Funeral service</string>
+    <string name="draft_rails00_title">Spoor</string>
+    <string name="draft_rails00_text">Wordt gebruikt om je treinen te gidsen.</string>
+    <string name="draft_rails00oneway00_title">Enkelspoor</string>
+    <string name="draft_rails00oneway00_text">Wordt gebruikt om je treinen te gidsen. Werkt als een éénrichtingsstraat.</string>
+    <string name="specialoffer_cmdbuy">Kopen voor %s</string>
+    <string name="influence_body_disposal_title">Begrafenis</string>
+    <string name="influence_body_disposal_text">Rust in vrede.</string>
+    <string name="influence_traffic_title">Verkeer</string>
+    <string name="influence_traffic_text">Inwoners vinden vervuiling en lawaai geproduceerd door verkeer niet leuk.</string>
+    <string name="ci_neighbor_wastedisposal">Afvalverwerkingsdienst</string>
+    <string name="ci_neighbor_bodydisposal">Begrafenisdienst</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
-    <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
+    <string name="draft_cat_elevatedtrain00_title">Stadstrein</string>
     <string name="draft_cat_metro00_title">Metro</string>
-    <string name="draft_cat_tree00_title">Plants</string>
-    <string name="draft_railroof00_title">Roof</string>
-    <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
-    <string name="draft_trainplatform00_title">Platform 1</string>
-    <string name="draft_trainplatform00_text">A platform of the train station.</string>
-    <string name="draft_trainplatform01_title">Platform 2</string>
-    <string name="draft_trainplatform02_title">Platform 3</string>
-    <string name="draft_trainplatform03_title">Platform 4</string>
-    <string name="draft_trainplatform04_title">Platform 5</string>
-    <string name="draft_trainplatform05_title">Platform 6</string>
-    <string name="draft_trainplatform06_title">Platform 7</string>
-    <string name="draft_trainplatform07_title">Platform 8</string>
-    <string name="draft_trainstation00_title">Local traffic platform</string>
-    <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
-    <string name="draft_trainstation01_title">Long-distance traffic platform</string>
-    <string name="draft_trainstation01_text">This platform is reserved for long-distance travel.</string>
-    <string name="draft_train_freight_station00_title">Freight depot 1</string>
-    <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
-    <string name="draft_train_freight_station01_title">Freight depot 2</string>
-    <string name="draft_train_freight_station02_title">Freight depot 3</string>
-    <string name="draft_train_freight_station03_title">Freight depot 4</string>
-    <string name="draft_train_freight_station04_title">Freight depot 5</string>
-    <string name="draft_trainstation_prebuilt00_title">Small station</string>
-    <string name="draft_trainstation_prebuilt00_text">A small train station for local traffic only.</string>
+    <string name="draft_cat_tree00_title">Planten</string>
+    <string name="draft_railroof00_title">Dak</string>
+    <string name="draft_railroof00_text">Het dak van het treinstation kan op de sporen geplaatste worden in een treinstation.</string>
+    <string name="draft_trainplatform00_title">Perron 1</string>
+    <string name="draft_trainplatform00_text">Een perron van een treinstation.</string>
+    <string name="draft_trainplatform01_title">Perron 2</string>
+    <string name="draft_trainplatform02_title">Perron 3</string>
+    <string name="draft_trainplatform03_title">Perron 4</string>
+    <string name="draft_trainplatform04_title">Perron 5</string>
+    <string name="draft_trainplatform05_title">Perron 6</string>
+    <string name="draft_trainplatform06_title">Perron 7</string>
+    <string name="draft_trainplatform07_title">Perron 8</string>
+    <string name="draft_trainstation00_title">Lokaal verkeersperron</string>
+    <string name="draft_trainstation00_text">Enkel lokale treinen zullen hier vertrekken en stoppen.</string>
+    <string name="draft_trainstation01_title">Langeafstandsverkeersperron</string>
+    <string name="draft_trainstation01_text">Dit perron is gereserveerd voor langetermijnreizen.</string>
+    <string name="draft_train_freight_station00_title">Vrachtdepot 1</string>
+    <string name="draft_train_freight_station00_text">Treinstation voor vrachtverkeer</string>
+    <string name="draft_train_freight_station01_title">Vrachtdepot 2</string>
+    <string name="draft_train_freight_station02_title">Vrachtdepot 3</string>
+    <string name="draft_train_freight_station03_title">Vrachtdepot 4</string>
+    <string name="draft_train_freight_station04_title">Vrachtdepot 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Klein station</string>
+    <string name="draft_trainstation_prebuilt00_text">Een klein treinstation dat enkel voor lokaal verkeer is.</string>
     <string name="draft_trainstation_prebuilt01_title">Station</string>
-    <string name="draft_trainstation_prebuilt01_text">A bigger train station for local traffic.</string>
-    <string name="draft_trainstation_prebuilt02_title">Big station</string>
-    <string name="draft_trainstation_prebuilt02_text">A big train station that serves local and long-distance traffic.</string>
-    <string name="draft_cat_train00_parts00_title">Parts</string>
-    <string name="draft_raildeco_crane00_title">Crane</string>
-    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
-    <string name="draft_raildeco_traincrossing00_title">Train Crossing</string>
-    <string name="draft_raildeco_traincrossing00_text">A Train Crossing for your railway.</string>
-    <string name="draft_raildeco_mast00_title">Overhead line mast</string>
-    <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
-    <string name="draft_raildeco_lights00_00_title">Traffic light</string>
-    <string name="draft_raildeco_lights00_00_text">A traffic light for your Railway</string>
-    <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
-    <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
-    <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
-    <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+    <string name="draft_trainstation_prebuilt01_text">Een groter treinstation voor lokaal verkeer.</string>
+    <string name="draft_trainstation_prebuilt02_title">Groot station</string>
+    <string name="draft_trainstation_prebuilt02_text">Een groot treinstation dat zowel lokaal als langeafstandsverkeer bedient.</string>
+    <string name="draft_cat_train00_parts00_title">Delen</string>
+    <string name="draft_raildeco_crane00_title">Kraan</string>
+    <string name="draft_raildeco_crane00_text">Een vrachtkraan voor je spoor.</string>
+    <string name="draft_raildeco_traincrossing00_title">Overweg</string>
+    <string name="draft_raildeco_traincrossing00_text">Een overweg voor je spoor.</string>
+    <string name="draft_raildeco_mast00_title">Bovenleidingsmast</string>
+    <string name="draft_raildeco_mast00_text">Een bovenleidingsmast voor je spoor.</string>
+    <string name="draft_raildeco_lights00_00_title">Stoplicht</string>
+    <string name="draft_raildeco_lights00_00_text">Een stoplicht voor je spoor</string>
+    <string name="draft_trainstation_prebuilt10_title">Vrachtdepot</string>
+    <string name="draft_trainstation_prebuilt10_text">Treinstation voor industriële goederen.</string>
+    <string name="draft_trainstation_prebuilt11_title">Groot vrachtdepot</string>
+    <string name="draft_trainstation_prebuilt11_text">Een groot treinstation voor meer industriële goederen.</string>
 
 
-    <string name="channel_city_title">City News</string>
-    <string name="channel_city_text">General information about your city.</string>
-    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="channel_city_title">Stadsnieuws</string>
+    <string name="channel_city_text">Algemene informatie over je stad.</string>
+    <string name="settings_fullscreen">Volledig scherm</string>
     <string name="control_help">Help</string>
-    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="settings_scrolledges">Randscrollen</string>
     <string name="dialog_rate_cmdlater">Later</string>
-    <string name="region_individualcities">Single Cities</string>
-    <string name="draft_redwood_tree00_title">Redwood Tree</string>
-    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
-    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
-    <string name="createcity_terrain">Hills</string>
-    <string name="draft_tool_terrain_increase00_title">Raise</string>
-    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
-    <string name="draft_tool_terrain_lower00_title">Lower</string>
-    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
-    <string name="draft_tool_terrain_platform00_title">Platform</string>
-    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
-    <string name="draft_cat_hills00_title">Hills</string>
-    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
-    <string name="draft_budget_roadtoll00_title">Toll</string>
-    <string name="draft_tollbooth00_title">Tollbooths</string>
-    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
-    <string name="notification02_title">Action required</string>
-    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
-    <string name="notification03_title">Never forget %1$s</string>
-    <string name="notification03_text">Please mayor, come back!</string>
-    <string name="settings_fontscaling">Font size</string>
-    <string name="settings_fontscaling_small">Small</string>
-    <string name="settings_fontscaling_medium">Medium</string>
-    <string name="settings_fontscaling_big">Big</string>
-    <string name="pluginerror_disable">Disable</string>
+    <string name="region_individualcities">Onafhankelijke steden</string>
+    <string name="draft_redwood_tree00_title">Mahonieboom</string>
+    <string name="draft_redwood_tree00_text">Typische boom uit het mahoniewoud in Californië.</string>
+    <string name="buildinginfo_daysbuilt">Gebouwd: %1$,d dag(en) geleden</string>
+    <string name="createcity_terrain">Heuvels</string>
+    <string name="draft_tool_terrain_increase00_title">Verhogen</string>
+    <string name="draft_tool_terrain_increase00_text">Verhoogt het terrein om heuvels te maken.</string>
+    <string name="draft_tool_terrain_lower00_title">Verlagen</string>
+    <string name="draft_tool_terrain_lower00_text">Verlaagt het terrein.</string>
+    <string name="draft_tool_terrain_platform00_title">Plateau</string>
+    <string name="draft_tool_terrain_platform00_text">Schaalt terrein binnen een straal naar dezelfde hoogte.</string>
+    <string name="draft_cat_hills00_title">Heuvels</string>
+    <string name="draft_feature_starter_pack01_title">Starterspakket II</string>
+    <string name="draft_budget_roadtoll00_title">Tol</string>
+    <string name="draft_tollbooth00_title">Tolhuisje</string>
+    <string name="draft_tollbooth00_text">Een tolhuisje kan je wat geld opleveren, maar de mensen haten het.</string>
+    <string name="notification02_title">Actie vereist</string>
+    <string name="notification02_text">Iemand moet de ontwikkeling van %1$s beheren!</string>
+    <string name="notification03_title">Vergeet %1$s nooit!</string>
+    <string name="notification03_text">Kom alsjeblieft terug burgemeester!</string>
+    <string name="settings_fontscaling">Lettergrootte</string>
+    <string name="settings_fontscaling_small">Klein</string>
+    <string name="settings_fontscaling_medium">Gemiddeld</string>
+    <string name="settings_fontscaling_big">Groot</string>
+    <string name="pluginerror_disable">Uitschakelen</string>
 
 </resources>
