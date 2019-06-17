@@ -13,7 +13,7 @@
     <string name="welcome_agree">Souhlasím</string>
     <string name="welcome_content">Vítejte v TheoTown
 
-\n\nTato aplikace je ve vývoji. Může se stát že zde naleznete menší chyby. Prosím nehodnote za to tento projekt špatně. Nezapomeňte že je zdarma.
+\n\nTato aplikace je ve vývoji. Může se stát že zde naleznete menší chyby. Prosím nehodnoťte tento projekt špatně. Nezapomeňte, že je zdarma.
 
 \n\nPokud máš rád naší aplikaci můžeš nás podpořit tím že o ní povíš přátelům.
 
@@ -56,12 +56,12 @@
     <string name="loadcity_errordialog_title">Chyba načítání</string>
     <string name="loadcity_errordialog_text">Nemůžeme načíst město, soubory jsou poškozený.\nOmlouváme se.</string>
     <string name="loadcity_errordialog_cmdcancel">Zrušit</string>
-    <string name="dialog_screenshot_title">Obrázek přijat</string>
+    <string name="dialog_screenshot_title">Obrázek vyfocen</string>
     <string name="dialog_screenshot_text">Obrázek byl uložen jako %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, díky</string>
     <string name="draftselector_titleparks">Parky</string>
     <string name="draftselector_titlepublics">Veřejné</string>
-    <string name="draftselector_titleenergy">Elektrika</string>
+    <string name="draftselector_titleenergy">Elektřina</string>
     <string name="draftselector_titlewater">Vodoinstalace</string>
     <string name="draftselector_titleschool">Vzdělání</string>
     <string name="draftselector_titlehealth">Zdraví</string>
@@ -94,7 +94,7 @@
     <string name="draft_church00_text">Každé malé město potřebuje kostel.</string>
     <string name="draft_townhall00_title">Radnice</string>
     <string name="draft_townhall00_text">Velké město potřebuje radnici. Lidé ji mají rádi.</string>
-    <string name="draft_wire00_title">Dráty</string>
+    <string name="draft_wire00_title">Elektrické dráty</string>
     <string name="draft_wire00_text">Použijte tyto dráty k připojení města k vašim elektrárnám.</string>
     <string name="draft_windturbine00_title">Větrné turbíny</string>
     <string name="draft_windturbine00_text">Větrná turbína vytváří hluk, ale neznečišuje.</string>
@@ -107,13 +107,13 @@
     <string name="draft_park01_title">Malý park</string>
     <string name="draft_park01_text">Obyvatelé mají rádi malé parky.</string>
     <string name="draft_park02_title">Malý trávník</string>
-    <string name="draft_park02_text">Přináší trochu zeleně do měst.</string>
+    <string name="draft_park02_text">Přináší trochu zeleně do města.</string>
     <string name="draft_park03_title">Malý park</string>
     <string name="draft_waterfountain00_title">Vodní fontána</string>
     <string name="draft_waterfountain00_text">Zkrášluje okolí a čistí vzduch.</string>
     <string name="draft_bigpark00_title">Velký park</string>
     <string name="draft_bigpark00_text">Obyvatelé mají rádi velký park.</string>
-    <string name="draft_park03_text">Obyvatelé ho mají rádi malé parky.</string>
+    <string name="draft_park03_text">Obyvatelé mají rádi malé parky.</string>
     <string name="draft_medic00_title">Doktor</string>
     <string name="draft_medic00_text">Zde mohou obyvatelé navštívit lékaře.</string>
     <string name="draft_medic01_title">Nemocnice</string>
@@ -132,14 +132,14 @@
     <string name="draft_watertower00_text">Poskytuje vodu pro vaše budovy.</string>
     <string name="settings_areazonetool">Použijte nástroj pro vytvoření zóny</string>
     <string name="createcity_gamemode">Typ hry:</string>
-    <string name="gamemode_sandbox">Developer Mode</string>
+    <string name="gamemode_sandbox">Vývojářký režim</string>
     <string name="gamemode_easy">Lehký</string>
     <string name="gamemode_middle">Normální</string>
     <string name="gamemode_hard">Těžký</string>
     <string name="game_infinitemoney">Hra zdarma</string>
     <string name="about_title">Výrobce</string>
     <string name="about_cmdback">Zpět</string>
-    <string name="about_text">TheoTown Aplikace je produktem pro Android</string>
+    <string name="about_text">TheoTown je aplikace, která je produktem pro Android</string>
     <string name="settings_music">Hudba</string>
     <string name="draftselector_titleaward">Ocenění</string>
     <string name="shader_default">Výchozí</string>
@@ -183,7 +183,7 @@
     <string name="budget_police">Policie</string>
     <string name="budget_award">Ocenění</string>
     <string name="budget_energy">Elektrárny</string>
-    <string name="budget_water">Vodohospodářstvý</string>
+    <string name="budget_water">Vodohospodářství</string>
     <string name="budget_public">Státní instituce</string>
     <string name="budget_medic">Zdravotnictví</string>
     <string name="ci_budget_overall">Celkově</string>
@@ -415,7 +415,7 @@
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_radio00_faith_title">Povídání o víře</string>
-    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako dům uctívání s dlouhým dosahem ve městě.
+    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako kostel s dlouhým dosahem ve městě.
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_lighthouse00_title">Maják</string>
@@ -535,13 +535,13 @@
     <string name="draftselector_onlyone">Může být postavena pouze jednou</string>
     <string name="draftselector_onlyn">Může být postavena pouze %1$,d</string>
     <string name="draft_church02_title">Malý kostel</string>
-    <string name="draft_church02_text">Malý kostel pro malé města.</string>
+    <string name="draft_church02_text">Malý kostel pro malé město.</string>
     <string name="draft_mosque01_title">Malá mešita</string>
-    <string name="draft_mosque01_text">Malá mešita pro malé města.</string>
+    <string name="draft_mosque01_text">Malá mešita pro malé město.</string>
     <string name="settings_sound_ui">UI zvuky</string>
     <string name="settings_sound_game">Zvuky ve hře</string>
     <string name="settings_preserveedges">Zachovat hrany</string>
-    <string name="settings_fancybg">Ozdobné pozadí</string>
+    <string name="settings_fancybg">Ozdobná grafika</string>
     <string name="ci_not_available">Žádné údaje k zobrazení.</string>
     <string name="ci_education_title">Školství</string>
     <string name="ci_health_title">Zdraví</string>
@@ -558,8 +558,8 @@
     <string name="influence_pollution_title">Znečištění</string>
     <string name="influence_noise_title">Hluk</string>
     <string name="influence_health_title">Zdraví</string>
-    <string name="influence_education_low_title">Střední školy</string>
-    <string name="influence_education_high_title">Vysoké školy</string>
+    <string name="influence_education_low_title">Základní a Střední školy</string>
+    <string name="influence_education_high_title">Vysoké školy a Univerzity</string>
     <string name="influence_police_title">Policie</string>
     <string name="influence_firedep_title">Požární sbor</string>
     <string name="influence_park_title">Parky</string>
@@ -568,7 +568,7 @@
     <string name="influence_culture_title">Kultura</string>
     <string name="influence_culture_text">Hodnota kultury ve vašem městě.</string>
     <string name="influence_education_low_text">Školy poskytují nízké vzdělání.</string>
-    <string name="influence_education_high_text">Vysoké školství zajišují vysoké školy.</string>
+    <string name="influence_education_high_text">Vysoké školství zajišují vysoké školy a univerzity.</string>
     <string name="influence_firedep_text">Vliv požárních útvarů snižuje pravděpodobnost požárů.</string>
     <string name="influence_health_text">Lékaři pomáhají udržet vaše obyvatele zdravé.</string>
     <string name="influence_noise_text">Nikdo nechce žít v hlučné oblasti.</string>
@@ -578,7 +578,7 @@
     <string name="influence_religion_text">Náboženství zvyšuje atributy vašich obyvatel.</string>
     <string name="influence_sport_text">Udržuje své obyvatele zdravé.</string>
     <string name="draftselector_cmdShow">Zobrazit</string>
-    <string name="ca_education_low_text">Nízké vzdělání: %1$,d/%2$,d studentů</string>
+    <string name="ca_education_low_text">Nízké a Střední vzdělání: %1$,d/%2$,d studentů</string>
     <string name="ca_education_high_text">Vysoké vzdělání: %1$,d/%2$,d studentů</string>
     <string name="ca_health_text">Zdravotní péče: %1$,d/%2$,d pacientů</string>
     <string name="gamemode_nomoney">Žádné peníze</string>
@@ -599,8 +599,8 @@
     <string name="draft_marker_densitymarker_title">Hustota</string>
     <string name="draft_marker_densitymarker_text">Hustota budovy.</string>
     <string name="draft_marker_happinessmarker_title">Radost</string>
-    <string name="draft_marker_happinessmarker_text">Atributa budovy.</string>
-    <string name="draft_marker_levelmarker_title">Level</string>
+    <string name="draft_marker_happinessmarker_text">Atributy budovy.</string>
+    <string name="draft_marker_levelmarker_title">Úroveň</string>
     <string name="draft_marker_levelmarker_text">Úroveň budovy.</string>
     <string name="draft_marker_protectedmarker_title">Chráněné budovy</string>
     <string name="draft_marker_protectedmarker_text">Zobrazuje budovy, které nemusí být odstraněny.</string>
@@ -620,10 +620,10 @@
     <string name="menu_cmddonate">Odměnit tvůrce</string>
     <string name="draft_waterpump01_title">Malé vodní čerpadlo</string>
     <string name="draft_waterpump01_text">Musí být postaveno u vody.</string>
-    <string name="draft_filterplant00_title">Zařízení filtru</string>
+    <string name="draft_filterplant00_title">Filtr vody</string>
     <string name="draft_filterplant00_text">Čistí vodu.</string>
     <string name="topic_fun">Bavte se s námi! :)</string>
-    <string name="topic_android">Pouze pro Android</string>
+    <string name="topic_android">Pouze pro Android a PC</string>
     <string name="topic_tryharder">Snažte se víc</string>
     <string name="topic_nature">Udržujte přírodu</string>
     <string name="topic_time">Trvá vám to nějaký čas</string>
@@ -634,7 +634,7 @@
     <string name="draft_sewerpipe00_title">Kanalizační potrubí</string>
     <string name="draft_sewerpipe00_text">Snižuje znečištění vody vypouštěním zbytečné vody do přírody. Má špatný vliv.</string>
     <string name="settings_lowresmapscreenshot">Nižší rozlišení mapy pro snímek obrazovky</string>
-    <string name="draft_marina00_title">Marina</string>
+    <string name="draft_marina00_title">Přístav</string>
     <string name="draft_marina00_text">Zábava pro bohaté obyvatele.</string>
     <string name="loadcity_version">Verze %1$,d</string>
     <string name="loadcity_memdialog_title">Bez přístupu do externí paměti</string>
@@ -668,8 +668,8 @@
     <string name="settings_topstatusbar">Stavový řádek nahoře</string>
     <string name="settings_leftminimap">Minimapa na levé straně</string>
     <string name="settings_category_ui">Uživatelské rozhraní</string>
-    <string name="influence_radioactive_title">Radioaktivní</string>
-    <string name="influence_radioactive_text">Riziko pro člověka a přírodu.</string>
+    <string name="influence_radioactive_title">Radioaktivita</string>
+    <string name="influence_radioactive_text">Nebezpečné záření pro člověka a přírodu.</string>
     <string name="draft_rail00_title">Železnice</string>
     <string name="draft_rail00_text">Některé kolejnice pro osobní vlaky.</string>
     <string name="draft_railwaystation00_title">Vlakové nádraží</string>
@@ -688,18 +688,18 @@
     <string name="draft_police01_title">Malé policejní oddělení.</string>
     <string name="draft_police01_text">Základní ochrana.</string>
     <string name="disaster_riot_title">Povyk</string>
-    <string name="disaster_riot_text">Začínají nepokoje, které můžou zastavit pouze policejní týmy SWAT.</string>
+    <string name="disaster_riot_text">Začínají nepokoje, které můžou zastavit pouze jednotky rychlého nasazení.</string>
     <string name="disaster_riot_cmdtext">Vypustit je</string>
     <string name="draft_beach00_title">Pláž</string>
     <string name="draft_beach00_text">Užijte si krásný den na pláži.</string>
-    <string name="draft_biergarten00_title">Pivní zahrádka</string>
+    <string name="draft_biergarten00_title">Hospoda</string>
     <string name="draft_biergarten00_text">Pěkné místo k odpočinku.</string>
     <string name="notify_noreszone">Lidé chtějí bydlet ve vašem městě. Postavte pro ně obytnou zónu.</string>
     <string name="notify_nocomzone">Postavte obchodní zónu, aby se ve vašem městě stavěly obchody.</string>
     <string name="notify_noindzone">Průmyslové zóny se můžou stavět ve vašem městě, ale pro ně musíte nejdříve postavit zóny.</string>
     <string name="createcity_sizebigbigbig">Obří</string>
     <string name="locale">es</string>
-    <string name="draft_police02_title">S.W.A.T. HQ</string>
+    <string name="draft_police02_title">Policejní stanice rychlého nasazení</string>
     <string name="draft_police02_text">Tato policejní stanice bude hlídat a chránit vaše město.</string>
     <string name="settings_blur">Rozmazat</string>
     <string name="happiness_supply">Zásobování</string>
@@ -714,7 +714,7 @@
     <string name="dialog_oldmap_text">TheoTown se vyvinulo hodně od té doby, co bylo toto město vytvořeno. Mohlo by proto nefungovat podle očekávání. Prosím, nenáviďte nás za to (â—•â€¿â—•âœ¿)</string>
     <string name="dialog_oldmap_cmdproceed">Pokračovat</string>
     <string name="dialog_oldmap_cmdcancel">Zrušit</string>
-    <string name="notify_bad_health">Nízké zdraví. Měli byste zlepšit hodnoty prostředí nebo vytvořit lékařskou stanici.</string>
+    <string name="notify_bad_health">Nízké zdraví. Měli byste zlepšit hodnoty prostředí nebo postavit doktora nebo nemocnici.</string>
     <string name="dialog_rename_cmdok">Přejmenovat</string>
     <string name="dialog_rename_cmdcancel">Zrušit</string>
     <string name="dialog_renamecity_title">Přejmenovat město</string>
@@ -798,9 +798,9 @@
     <string name="settings_experimental">Experimentální vlastnosti</string>
     <string name="about_thanks">Zvláštní poděkování</string>
     <string name="about_community">A zbytek naší komunity</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
-    <string name="dialog_tosandbox_text">Převést město do režimu developer mode?\n\nNelze vrátit zpět!</string>
+    <string name="dialog_tosandbox_cmdconvert">Vývojářský režim</string>
+    <string name="dialog_tosandbox_title">Vývojářský režim</string>
+    <string name="dialog_tosandbox_text">Převést město do vývojářského režimu ?\n\nNelze vrátit zpět!</string>
     <string name="requirement_rank">Alespoň %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Pohřeb: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Nakládání s odpady: %1$,d/%2$,d</string>
@@ -820,7 +820,7 @@
     <string name="rank_reward">Získal jsi %1$s jako odměnu.</string>
     <string name="rank_newrank">Gratulujeme, vaše město %1$s dosáhlo nové hodnosti:</string>
     <string name="rank_available">Nyní dostupné:</string>
-    <string name="draftselector_titlemilitary">Válečný</string>
+    <string name="draftselector_titlemilitary">Vojenství</string>
     <string name="draft_zonemilitary_title">Vojenská oblast</string>
     <string name="draft_mltry_tankbase00_title">Tanková základna</string>
     <string name="draft_mltry_hq00_title">Hlavní sídlo</string>
@@ -899,7 +899,7 @@
     <string name="ci_budget_getmoney_title">Dostat %1$s</string>
     <string name="ci_budget_getmoney_text">Výměna %1$s za malou kompenzaci.</string>
     <string name="notify_badattribute">Musíme se zlepšit %1$s radosti %2$s se může dostat do vašeho města.</string>
-    <string name="game_remaining_doubleincome">Zdvojnásobil příjem na %1$,d dnů</string>
+    <string name="game_remaining_doubleincome">Zdvojnásobit příjem na %1$,d dnů</string>
     <string name="dialog_diamondshop_title">Obchod</string>
     <string name="features_notenough">Nedostatek %1$s</string>
     <string name="dialog_getrank_text">Tuto pozici můžete okamžitě odemknout, pokud chcete.</string>
@@ -947,7 +947,7 @@
     <string name="dialog_unlocktime_title">Zkrátit čas</string>
     <string name="dialog_unlocktime_text">Je to spousta práce, jak odemknout mapu. Chcete nás podporovat? To může snížit čas odemykání o 30 minut.</string>
     <string name="region_speedup">Zrychlit</string>
-    <string name="region_waitingtime">V tuto chvíli tuto mapu odemkneme.</string>
+    <string name="region_waitingtime">V tuto chvíli tuto můžete mapu odemknout.</string>
     <string name="settings_autoload">Automatické načtení posledního města</string>
     <string name="dialog_renameregion_title">Přejmenovat region</string>
     <string name="dialog_renameregion_text">Zadejte zde nový název regionu:</string>
@@ -1261,7 +1261,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="dialog_renameairplane_text">Zadejte název nového letadla:</string>
     <string name="draft_airplane00_title">T340</string>
     <string name="draft_airplane00_text">Letadlo s dlouhým doletem od TheoAir.</string>
-    <string name="draft_prm_airplane00_title">T340 Gold</string>
+    <string name="draft_prm_airplane00_title">Zlaté T340</string>
     <string name="draft_prm_airplane00_text">Zlatá varianta letadla s dlouhým doletem od TheoAir.</string>
     <string name="draftselector_airplane_passenger">Pasažéři: %1$,d</string>
     <string name="draft_ap_deco00_title">Letišní dekorace</string>
@@ -1312,7 +1312,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="fb_login_title">Připojit pomocí Facebooku</string>
     <string name="fb_login_text">Přihlašte se, abychom mohli synchronizovat Váš profil.</string>
     <string name="fb_login_cancel">Storno</string>
-    <string name="toast_seed_copy">Copied seed into clipboard</string>
+    <string name="toast_seed_copy">Kopírovat do schránky</string>
     <string name="toast_recordingid_copy">ID záznam zkopírován do schránky</string>
     <string name="draft_ap_road00_title">Přepravní silnice</string>
     <string name="draft_ap_road00_text">Použijte přepravní silnici ke spojení brány s ranvejí.</string>
@@ -1683,7 +1683,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
 
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
-    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower is a TV tower in Shanghai whose construction was completed in 1994. The height of the tower amounts to 470 meters.</string>
+    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower je televizní věž v Shanghai, která byla dostavěna v roce 1994. Měří něco málo přes 470 metrů.</string>
     <string name="draft_swfc_tower00_title">SWFC Tower</string>
     <string name="draft_swfc_tower00_text">The Shanghai World Financial Center is a skyscraper that is located in Shanghai and was completed 2008. It\'s height is 494 meters.</string>
     <string name="draft_feature_landmarks03_title">Landmarks IV</string>
@@ -1705,17 +1705,17 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_toji00_title">Tō-ji</string>
     <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
     <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
+    <string name="notify_waste_needer00">Odpad není odvezen.</string>
+    <string name="notify_waste_producer00">Skládka je plná, musí se vyčistit.</string>
     <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
     <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
+    <string name="waste_cmdclear">Vyčistit hned</string>
+    <string name="dialog_wasteclear_title">Vyčistit hned</string>
     <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
     <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
     <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
+    <string name="draft_alert_garbage00_title">Zavolá popelářský vůz</string>
+    <string name="draft_alert_garbage00_text">Zavolá popelářský vůz, který uklidí odpad na silnici.</string>
     <string name="happiness_waste">Waste disposal</string>
     <string name="settings_new_content_marker">Highlight new content in toolbar</string>
 
