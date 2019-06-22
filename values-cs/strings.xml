@@ -13,7 +13,7 @@
     <string name="welcome_agree">Souhlasím</string>
     <string name="welcome_content">Vítejte v TheoTown
 
-\n\nTato aplikace je ve vývoji. Může se stát že zde naleznete menší chyby. Prosím nehodnote za to tento projekt špatně. Nezapomeňte že je zdarma.
+\n\nTato aplikace je ve vývoji. Může se stát že zde naleznete menší chyby. Prosím nehodnoťte tento projekt špatně. Nezapomeňte, že je zdarma.
 
 \n\nPokud máš rád naší aplikaci můžeš nás podpořit tím že o ní povíš přátelům.
 
@@ -54,14 +54,14 @@
     <string name="settings_hideads_yes">Ano, opravdu jsem si jistý</string>
     <string name="settings_hideads_no">Zrušit</string>
     <string name="loadcity_errordialog_title">Chyba načítání</string>
-    <string name="loadcity_errordialog_text">Nemůžeme načíst město, soubory jsou poškozený.\n\Omlouváme se.</string>
+    <string name="loadcity_errordialog_text">Nemůžeme načíst město, soubory jsou poškozený.\nOmlouváme se.</string>
     <string name="loadcity_errordialog_cmdcancel">Zrušit</string>
-    <string name="dialog_screenshot_title">Obrázek přijat</string>
+    <string name="dialog_screenshot_title">Obrázek vyfocen</string>
     <string name="dialog_screenshot_text">Obrázek byl uložen jako %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, díky</string>
     <string name="draftselector_titleparks">Parky</string>
     <string name="draftselector_titlepublics">Veřejné</string>
-    <string name="draftselector_titleenergy">Elektrika</string>
+    <string name="draftselector_titleenergy">Elektřina</string>
     <string name="draftselector_titlewater">Vodoinstalace</string>
     <string name="draftselector_titleschool">Vzdělání</string>
     <string name="draftselector_titlehealth">Zdraví</string>
@@ -94,7 +94,7 @@
     <string name="draft_church00_text">Každé malé město potřebuje kostel.</string>
     <string name="draft_townhall00_title">Radnice</string>
     <string name="draft_townhall00_text">Velké město potřebuje radnici. Lidé ji mají rádi.</string>
-    <string name="draft_wire00_title">Dráty</string>
+    <string name="draft_wire00_title">Elektrické dráty</string>
     <string name="draft_wire00_text">Použijte tyto dráty k připojení města k vašim elektrárnám.</string>
     <string name="draft_windturbine00_title">Větrné turbíny</string>
     <string name="draft_windturbine00_text">Větrná turbína vytváří hluk, ale neznečišuje.</string>
@@ -107,13 +107,13 @@
     <string name="draft_park01_title">Malý park</string>
     <string name="draft_park01_text">Obyvatelé mají rádi malé parky.</string>
     <string name="draft_park02_title">Malý trávník</string>
-    <string name="draft_park02_text">Přináší trochu zeleně do měst.</string>
+    <string name="draft_park02_text">Přináší trochu zeleně do města.</string>
     <string name="draft_park03_title">Malý park</string>
     <string name="draft_waterfountain00_title">Vodní fontána</string>
     <string name="draft_waterfountain00_text">Zkrášluje okolí a čistí vzduch.</string>
     <string name="draft_bigpark00_title">Velký park</string>
     <string name="draft_bigpark00_text">Obyvatelé mají rádi velký park.</string>
-    <string name="draft_park03_text">Obyvatelé ho mají rádi malé parky.</string>
+    <string name="draft_park03_text">Obyvatelé mají rádi malé parky.</string>
     <string name="draft_medic00_title">Doktor</string>
     <string name="draft_medic00_text">Zde mohou obyvatelé navštívit lékaře.</string>
     <string name="draft_medic01_title">Nemocnice</string>
@@ -132,14 +132,14 @@
     <string name="draft_watertower00_text">Poskytuje vodu pro vaše budovy.</string>
     <string name="settings_areazonetool">Použijte nástroj pro vytvoření zóny</string>
     <string name="createcity_gamemode">Typ hry:</string>
-    <string name="gamemode_sandbox">SandBox</string>
+    <string name="gamemode_sandbox">Vývojářký režim</string>
     <string name="gamemode_easy">Lehký</string>
     <string name="gamemode_middle">Normální</string>
     <string name="gamemode_hard">Těžký</string>
     <string name="game_infinitemoney">Hra zdarma</string>
     <string name="about_title">Výrobce</string>
     <string name="about_cmdback">Zpět</string>
-    <string name="about_text">TheoTown Aplikace je produktem pro Android</string>
+    <string name="about_text">TheoTown je aplikace, která je produktem pro Android</string>
     <string name="settings_music">Hudba</string>
     <string name="draftselector_titleaward">Ocenění</string>
     <string name="shader_default">Výchozí</string>
@@ -183,7 +183,7 @@
     <string name="budget_police">Policie</string>
     <string name="budget_award">Ocenění</string>
     <string name="budget_energy">Elektrárny</string>
-    <string name="budget_water">Vodohospodářstvý</string>
+    <string name="budget_water">Vodohospodářství</string>
     <string name="budget_public">Státní instituce</string>
     <string name="budget_medic">Zdravotnictví</string>
     <string name="ci_budget_overall">Celkově</string>
@@ -415,7 +415,7 @@
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_radio00_faith_title">Povídání o víře</string>
-    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako dům uctívání s dlouhým dosahem ve městě.
+    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako kostel s dlouhým dosahem ve městě.
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_lighthouse00_title">Maják</string>
@@ -535,13 +535,13 @@
     <string name="draftselector_onlyone">Může být postavena pouze jednou</string>
     <string name="draftselector_onlyn">Může být postavena pouze %1$,d</string>
     <string name="draft_church02_title">Malý kostel</string>
-    <string name="draft_church02_text">Malý kostel pro malé města.</string>
+    <string name="draft_church02_text">Malý kostel pro malé město.</string>
     <string name="draft_mosque01_title">Malá mešita</string>
-    <string name="draft_mosque01_text">Malá mešita pro malé města.</string>
+    <string name="draft_mosque01_text">Malá mešita pro malé město.</string>
     <string name="settings_sound_ui">UI zvuky</string>
     <string name="settings_sound_game">Zvuky ve hře</string>
     <string name="settings_preserveedges">Zachovat hrany</string>
-    <string name="settings_fancybg">Ozdobné pozadí</string>
+    <string name="settings_fancybg">Ozdobná grafika</string>
     <string name="ci_not_available">Žádné údaje k zobrazení.</string>
     <string name="ci_education_title">Školství</string>
     <string name="ci_health_title">Zdraví</string>
@@ -558,8 +558,8 @@
     <string name="influence_pollution_title">Znečištění</string>
     <string name="influence_noise_title">Hluk</string>
     <string name="influence_health_title">Zdraví</string>
-    <string name="influence_education_low_title">Střední školy</string>
-    <string name="influence_education_high_title">Vysoké školy</string>
+    <string name="influence_education_low_title">Základní a Střední školy</string>
+    <string name="influence_education_high_title">Vysoké školy a Univerzity</string>
     <string name="influence_police_title">Policie</string>
     <string name="influence_firedep_title">Požární sbor</string>
     <string name="influence_park_title">Parky</string>
@@ -568,7 +568,7 @@
     <string name="influence_culture_title">Kultura</string>
     <string name="influence_culture_text">Hodnota kultury ve vašem městě.</string>
     <string name="influence_education_low_text">Školy poskytují nízké vzdělání.</string>
-    <string name="influence_education_high_text">Vysoké školství zajišují vysoké školy.</string>
+    <string name="influence_education_high_text">Vysoké školství zajišují vysoké školy a univerzity.</string>
     <string name="influence_firedep_text">Vliv požárních útvarů snižuje pravděpodobnost požárů.</string>
     <string name="influence_health_text">Lékaři pomáhají udržet vaše obyvatele zdravé.</string>
     <string name="influence_noise_text">Nikdo nechce žít v hlučné oblasti.</string>
@@ -578,7 +578,7 @@
     <string name="influence_religion_text">Náboženství zvyšuje atributy vašich obyvatel.</string>
     <string name="influence_sport_text">Udržuje své obyvatele zdravé.</string>
     <string name="draftselector_cmdShow">Zobrazit</string>
-    <string name="ca_education_low_text">Nízké vzdělání: %1$,d/%2$,d studentů</string>
+    <string name="ca_education_low_text">Nízké a Střední vzdělání: %1$,d/%2$,d studentů</string>
     <string name="ca_education_high_text">Vysoké vzdělání: %1$,d/%2$,d studentů</string>
     <string name="ca_health_text">Zdravotní péče: %1$,d/%2$,d pacientů</string>
     <string name="gamemode_nomoney">Žádné peníze</string>
@@ -599,8 +599,8 @@
     <string name="draft_marker_densitymarker_title">Hustota</string>
     <string name="draft_marker_densitymarker_text">Hustota budovy.</string>
     <string name="draft_marker_happinessmarker_title">Radost</string>
-    <string name="draft_marker_happinessmarker_text">Atributa budovy.</string>
-    <string name="draft_marker_levelmarker_title">Level</string>
+    <string name="draft_marker_happinessmarker_text">Atributy budovy.</string>
+    <string name="draft_marker_levelmarker_title">Úroveň</string>
     <string name="draft_marker_levelmarker_text">Úroveň budovy.</string>
     <string name="draft_marker_protectedmarker_title">Chráněné budovy</string>
     <string name="draft_marker_protectedmarker_text">Zobrazuje budovy, které nemusí být odstraněny.</string>
@@ -620,10 +620,10 @@
     <string name="menu_cmddonate">Odměnit tvůrce</string>
     <string name="draft_waterpump01_title">Malé vodní čerpadlo</string>
     <string name="draft_waterpump01_text">Musí být postaveno u vody.</string>
-    <string name="draft_filterplant00_title">Zařízení filtru</string>
+    <string name="draft_filterplant00_title">Filtr vody</string>
     <string name="draft_filterplant00_text">Čistí vodu.</string>
     <string name="topic_fun">Bavte se s námi! :)</string>
-    <string name="topic_android">Pouze pro Android</string>
+    <string name="topic_android">Pouze pro Android a PC</string>
     <string name="topic_tryharder">Snažte se víc</string>
     <string name="topic_nature">Udržujte přírodu</string>
     <string name="topic_time">Trvá vám to nějaký čas</string>
@@ -634,7 +634,7 @@
     <string name="draft_sewerpipe00_title">Kanalizační potrubí</string>
     <string name="draft_sewerpipe00_text">Snižuje znečištění vody vypouštěním zbytečné vody do přírody. Má špatný vliv.</string>
     <string name="settings_lowresmapscreenshot">Nižší rozlišení mapy pro snímek obrazovky</string>
-    <string name="draft_marina00_title">Marina</string>
+    <string name="draft_marina00_title">Přístav</string>
     <string name="draft_marina00_text">Zábava pro bohaté obyvatele.</string>
     <string name="loadcity_version">Verze %1$,d</string>
     <string name="loadcity_memdialog_title">Bez přístupu do externí paměti</string>
@@ -668,8 +668,8 @@
     <string name="settings_topstatusbar">Stavový řádek nahoře</string>
     <string name="settings_leftminimap">Minimapa na levé straně</string>
     <string name="settings_category_ui">Uživatelské rozhraní</string>
-    <string name="influence_radioactive_title">Radioaktivní</string>
-    <string name="influence_radioactive_text">Riziko pro člověka a přírodu.</string>
+    <string name="influence_radioactive_title">Radioaktivita</string>
+    <string name="influence_radioactive_text">Nebezpečné záření pro člověka a přírodu.</string>
     <string name="draft_rail00_title">Železnice</string>
     <string name="draft_rail00_text">Některé kolejnice pro osobní vlaky.</string>
     <string name="draft_railwaystation00_title">Vlakové nádraží</string>
@@ -688,18 +688,18 @@
     <string name="draft_police01_title">Malé policejní oddělení.</string>
     <string name="draft_police01_text">Základní ochrana.</string>
     <string name="disaster_riot_title">Povyk</string>
-    <string name="disaster_riot_text">Začínají nepokoje, které můžou zastavit pouze policejní týmy SWAT.</string>
+    <string name="disaster_riot_text">Začínají nepokoje, které můžou zastavit pouze jednotky rychlého nasazení.</string>
     <string name="disaster_riot_cmdtext">Vypustit je</string>
     <string name="draft_beach00_title">Pláž</string>
     <string name="draft_beach00_text">Užijte si krásný den na pláži.</string>
-    <string name="draft_biergarten00_title">Pivní zahrádka</string>
+    <string name="draft_biergarten00_title">Hospoda</string>
     <string name="draft_biergarten00_text">Pěkné místo k odpočinku.</string>
     <string name="notify_noreszone">Lidé chtějí bydlet ve vašem městě. Postavte pro ně obytnou zónu.</string>
     <string name="notify_nocomzone">Postavte obchodní zónu, aby se ve vašem městě stavěly obchody.</string>
     <string name="notify_noindzone">Průmyslové zóny se můžou stavět ve vašem městě, ale pro ně musíte nejdříve postavit zóny.</string>
     <string name="createcity_sizebigbigbig">Obří</string>
     <string name="locale">es</string>
-    <string name="draft_police02_title">S.W.A.T. HQ</string>
+    <string name="draft_police02_title">Policejní stanice rychlého nasazení</string>
     <string name="draft_police02_text">Tato policejní stanice bude hlídat a chránit vaše město.</string>
     <string name="settings_blur">Rozmazat</string>
     <string name="happiness_supply">Zásobování</string>
@@ -714,7 +714,7 @@
     <string name="dialog_oldmap_text">TheoTown se vyvinulo hodně od té doby, co bylo toto město vytvořeno. Mohlo by proto nefungovat podle očekávání. Prosím, nenáviďte nás za to (â—•â€¿â—•âœ¿)</string>
     <string name="dialog_oldmap_cmdproceed">Pokračovat</string>
     <string name="dialog_oldmap_cmdcancel">Zrušit</string>
-    <string name="notify_bad_health">Nízké zdraví. Měli byste zlepšit hodnoty prostředí nebo vytvořit lékařskou stanici.</string>
+    <string name="notify_bad_health">Nízké zdraví. Měli byste zlepšit hodnoty prostředí nebo postavit doktora nebo nemocnici.</string>
     <string name="dialog_rename_cmdok">Přejmenovat</string>
     <string name="dialog_rename_cmdcancel">Zrušit</string>
     <string name="dialog_renamecity_title">Přejmenovat město</string>
@@ -798,9 +798,9 @@
     <string name="settings_experimental">Experimentální vlastnosti</string>
     <string name="about_thanks">Zvláštní poděkování</string>
     <string name="about_community">A zbytek naší komunity</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
-    <string name="dialog_tosandbox_title">Sandbox mód</string>
-    <string name="dialog_tosandbox_text">Převést město do režimu sandbox?\n\nNelze vrátit zpět!</string>
+    <string name="dialog_tosandbox_cmdconvert">Vývojářský režim</string>
+    <string name="dialog_tosandbox_title">Vývojářský režim</string>
+    <string name="dialog_tosandbox_text">Převést město do vývojářského režimu ?\n\nNelze vrátit zpět!</string>
     <string name="requirement_rank">Alespoň %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Pohřeb: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Nakládání s odpady: %1$,d/%2$,d</string>
@@ -820,7 +820,7 @@
     <string name="rank_reward">Získal jsi %1$s jako odměnu.</string>
     <string name="rank_newrank">Gratulujeme, vaše město %1$s dosáhlo nové hodnosti:</string>
     <string name="rank_available">Nyní dostupné:</string>
-    <string name="draftselector_titlemilitary">Válečný</string>
+    <string name="draftselector_titlemilitary">Vojenství</string>
     <string name="draft_zonemilitary_title">Vojenská oblast</string>
     <string name="draft_mltry_tankbase00_title">Tanková základna</string>
     <string name="draft_mltry_hq00_title">Hlavní sídlo</string>
@@ -899,7 +899,7 @@
     <string name="ci_budget_getmoney_title">Dostat %1$s</string>
     <string name="ci_budget_getmoney_text">Výměna %1$s za malou kompenzaci.</string>
     <string name="notify_badattribute">Musíme se zlepšit %1$s radosti %2$s se může dostat do vašeho města.</string>
-    <string name="game_remaining_doubleincome">Zdvojnásobil příjem na %1$,d dnů</string>
+    <string name="game_remaining_doubleincome">Zdvojnásobit příjem na %1$,d dnů</string>
     <string name="dialog_diamondshop_title">Obchod</string>
     <string name="features_notenough">Nedostatek %1$s</string>
     <string name="dialog_getrank_text">Tuto pozici můžete okamžitě odemknout, pokud chcete.</string>
@@ -947,7 +947,7 @@
     <string name="dialog_unlocktime_title">Zkrátit čas</string>
     <string name="dialog_unlocktime_text">Je to spousta práce, jak odemknout mapu. Chcete nás podporovat? To může snížit čas odemykání o 30 minut.</string>
     <string name="region_speedup">Zrychlit</string>
-    <string name="region_waitingtime">V tuto chvíli tuto mapu odemkneme.</string>
+    <string name="region_waitingtime">V tuto chvíli tuto můžete mapu odemknout.</string>
     <string name="settings_autoload">Automatické načtení posledního města</string>
     <string name="dialog_renameregion_title">Přejmenovat region</string>
     <string name="dialog_renameregion_text">Zadejte zde nový název regionu:</string>
@@ -1261,7 +1261,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="dialog_renameairplane_text">Zadejte název nového letadla:</string>
     <string name="draft_airplane00_title">T340</string>
     <string name="draft_airplane00_text">Letadlo s dlouhým doletem od TheoAir.</string>
-    <string name="draft_prm_airplane00_title">T340 Gold</string>
+    <string name="draft_prm_airplane00_title">Zlaté T340</string>
     <string name="draft_prm_airplane00_text">Zlatá varianta letadla s dlouhým doletem od TheoAir.</string>
     <string name="draftselector_airplane_passenger">Pasažéři: %1$,d</string>
     <string name="draft_ap_deco00_title">Letišní dekorace</string>
@@ -1312,7 +1312,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="fb_login_title">Připojit pomocí Facebooku</string>
     <string name="fb_login_text">Přihlašte se, abychom mohli synchronizovat Váš profil.</string>
     <string name="fb_login_cancel">Storno</string>
-    <string name="toast_seed_copy">Copied seed into clipboard</string>
+    <string name="toast_seed_copy">Kopírovat do schránky</string>
     <string name="toast_recordingid_copy">ID záznam zkopírován do schránky</string>
     <string name="draft_ap_road00_title">Přepravní silnice</string>
     <string name="draft_ap_road00_text">Použijte přepravní silnici ke spojení brány s ranvejí.</string>
@@ -1352,338 +1352,338 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_internationalcommercecentre00_text">Mezinárodní obchodní centrum v Hongkongu je obchodní mkrakodrap s 108 podlažími. Je to nejvyšší budova Hongkongu s výškou 484m. Dokončena byla roku 2010. </string>
     <string name="settings_autosave_interval">Interval automatického uložení</string>
     <string name="settings_autosave_interval_off">Vypnuto</string>
-    <string name="settings_autosave_interval_minutes">%1$d min</string>
+    <string name="settings_autosave_interval_minutes">%1$d minut</string>
 
-    <string name="draft_syl_spawner00_title">Torch</string>
-    <string name="draft_syl_spawner00_text">A firework with the shape of a torch.</string>
-    <string name="draft_syl_spawner01_title">Circles</string>
-    <string name="draft_syl_spawner01_text">A rather simple firework.</string>
-    <string name="draft_syl_spawner02_title">Jellyfish</string>
-    <string name="draft_syl_spawner02_text">This firework mimics the shape of a jellyfish.</string>
-    <string name="draft_syl_emitter00_title">Switch</string>
-    <string name="draft_syl_emitter00_text">A switch to initiate fireworks. Connect it to wires.</string>
-    <string name="draft_syl_wire_title">Wire</string>
-    <string name="draft_syl_wire_text">Wiring for fireworks.</string>
-    <string name="draft_category_firework00_title">Fireworks</string>
-    <string name="draft_feature_firework_pack00_title">New Year special</string>
-    <string name="draft_feature_firework_pack00_text">The limited offer contains:</string>
-    <string name="draft_feature_firework00_title">Fireworks</string>
-    <string name="draft_feature_firework00_text">Place and compose your own fireworks.</string>
-    <string name="draft_syl_emitter01_title">Time switch</string>
-    <string name="draft_syl_emitter01_text">A switch that will automatically emit a signal on new year.</string>
+    <string name="draft_syl_spawner00_title">Pochodeň</string>
+    <string name="draft_syl_spawner00_text">Ohňostroj s tvarem pochodně.</string>
+    <string name="draft_syl_spawner01_title">Kruhy</string>
+    <string name="draft_syl_spawner01_text">Poměrně jednoduchý ohňostroj.</string>
+    <string name="draft_syl_spawner02_title">Medúza</string>
+    <string name="draft_syl_spawner02_text">Tento ohňostroj napodobuje tvar medúzy.</string>
+    <string name="draft_syl_emitter00_title">Přepínač</string>
+    <string name="draft_syl_emitter00_text">Přepínač k zahájení ohňostroje. Připojte jej k vodičům.</string>
+    <string name="draft_syl_wire_title">Drát</string>
+    <string name="draft_syl_wire_text">Zapojení pro ohňostroje.</string>
+    <string name="draft_category_firework00_title">Ohňostroj</string>
+    <string name="draft_feature_firework_pack00_title">Nový rok speciální</string>
+    <string name="draft_feature_firework_pack00_text">Omezená nabídka obsahuje:</string>
+    <string name="draft_feature_firework00_title">Ohňostroj</string>
+    <string name="draft_feature_firework00_text">Umístěte a sestavte svůj vlastní ohňostroj.</string>
+    <string name="draft_syl_emitter01_title">Časový spínač</string>
+    <string name="draft_syl_emitter01_text">Přepínač, který automaticky vysílá signál na nový rok.</string>
 
 
     <string name="draft_airplane02_title">T430</string>
-    <string name="draft_airplane02_text">A fast long range airplane from TheoAir.</string>
-    <string name="draft_syl_spawner03_title">Flaming Stars</string>
-    <string name="draft_syl_spawner03_text">A red and yellow explosion combined with white fade.</string>
-    <string name="draft_syl_spawner04_title">Colored Stars</string>
-    <string name="draft_syl_spawner04_text">A red explosion with a yellow fade out.</string>
+    <string name="draft_airplane02_text">Rychlé dálkové letadlo z TheoAir.</string>
+    <string name="draft_syl_spawner03_title">Planoucí Hvězdy</string>
+    <string name="draft_syl_spawner03_text">Červený a žlutý výbuch v kombinaci s bílou fade.</string>
+    <string name="draft_syl_spawner04_title">Barevné Hvězdy</string>
+    <string name="draft_syl_spawner04_text">Červený výbuch se žlutým vyblednutím.</string>
     <string name="draft_syl_spawner05_title">Borr</string>
-    <string name="draft_syl_spawner05_text">A red explosion with a cool light effect.</string>
-    <string name="draft_syl_spawner06_title">Glitter willow</string>
-    <string name="draft_syl_spawner06_text">A beautiful explosion with mixed colors and a fade out.</string>
-    <string name="draft_syl_spawner07_title">Tears from Heaven</string>
-    <string name="draft_syl_spawner07_text">Three white explosions combined with a red fade out.</string>
-    <string name="draft_syl_spawner08_title">Sizzling Ears</string>
-    <string name="draft_syl_spawner08_text">Big rockets shot into the air.</string>
-    <string name="draft_syl_spawner09_title">Willow</string>
-    <string name="draft_syl_spawner09_text">A big willow.</string>
-    <string name="draft_deco_chr_present_helipad00_title">Cool!</string>
-    <string name="draft_deco_chr_present_helipad00_text">Your first very own helicopter. Unfortunately, it won\'t listen to you.</string>
-    <string name="draft_ufo_crater00_title">Strange thing</string>
-    <string name="draft_ufo_crater00_text">Looks as if something is stucking in the ground. Better you remove it.</string>
-    <string name="draft_destroyedtileradioactive00_title">Scrap</string>
-    <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You should remove it.</string>
+    <string name="draft_syl_spawner05_text">Červený výbuch s pěkným světelným efektem.</string>
+    <string name="draft_syl_spawner06_title">Třpytky vrby</string>
+    <string name="draft_syl_spawner06_text">Krásná exploze se smíšenými barvami a vyblednutím.</string>
+    <string name="draft_syl_spawner07_title">Slzy z nebe</string>
+    <string name="draft_syl_spawner07_text">Tři bílé výbuchy v kombinaci s červenou zmizí.</string>
+    <string name="draft_syl_spawner08_title">Žhnoucí uši</string>
+    <string name="draft_syl_spawner08_text">Velké rakety vystřelily do vzduchu.</string>
+    <string name="draft_syl_spawner09_title">Vrba</string>
+    <string name="draft_syl_spawner09_text">Velká vrba.</string>
+    <string name="draft_deco_chr_present_helipad00_title">Pěkný!</string>
+    <string name="draft_deco_chr_present_helipad00_text">Váš první vrtulník. Bohužel vás to nebude poslouchat.</string>
+    <string name="draft_ufo_crater00_title">Divná věc</string>
+    <string name="draft_ufo_crater00_text">Vypadá to, jako by se v zemi něco zaseklo. Lepší je odstranit.</string>
+    <string name="draft_destroyedtileradioactive00_title">Šrot</string>
+    <string name="draft_destroyedtileradioactive00_text">Radioaktivně zničená stavba. Měli byste ji odstranit.</string>
     <string name="settings_disaster_ufo">UFO</string>
-    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
-    <string name="dialog_externalstorage_cancel">Cancel</string>
-    <string name="dialog_externalstorage_retry">Retry</string>
-    <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
-    <string name="notify_disaster_flooding">City under water!</string>
-    <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
-    <string name="notify_disaster_nuke">We have a nuclear explosion right here!</string>
-    <string name="notify_disaster_tornado">It\'s more than windy here!</string>
-    <string name="notify_disaster_ufo">Aliens attack!</string>
-    <string name="settings_download_static_files">Download static files</string>
-    <string name="pluginerror_visitforum">Report on forum</string>
-    <string name="dialog_gameplay_title">Gameplay upload</string>
-    <string name="dialog_gameplay_text">By enabling gameplay upload you allow us to upload your gameplay to our servers. See the disclaimer for more information.</string>
-    <string name="control_enable">Enable</string>
-    <string name="dialog_gameplay_disclaimer">Show disclaimer</string>
-    <string name="busgame_newbus">Add %d. bus</string>
-    <string name="busgame_route">Route</string>
-    <string name="busgame_speed">Speed</string>
+    <string name="dialog_externalstorage_text">TheoTown potřebuje přístup k externímu úložišti pro uložení vašeho pokroku.</string>
+    <string name="dialog_externalstorage_cancel">Zrušit</string>
+    <string name="dialog_externalstorage_retry">Znova</string>
+    <string name="notify_disaster_earthquake">Ale ne! Zemětřesení!</string>
+    <string name="notify_disaster_flooding">Město je pod vodou!</string>
+    <string name="notify_disaster_meteorite">Kameny padají z nebe!</string>
+    <string name="notify_disaster_nuke">Máme tu jaderný výbuch!</string>
+    <string name="notify_disaster_tornado">Je to víc než větrný!</string>
+    <string name="notify_disaster_ufo">Útok mimozemšťanů!</string>
+    <string name="settings_download_static_files">Stáhnout statické soubory</string>
+    <string name="pluginerror_visitforum">Zpráva o fóru</string>
+    <string name="dialog_gameplay_title">Nahrání hry</string>
+    <string name="dialog_gameplay_text">Tím, že povolíte nahrávání hry, nám umožníte nahrát vaši hru na naše servery. Další informace naleznete v prohlášení o vyloučení odpovědnosti.</string>
+    <string name="control_enable">Povolit</string>
+    <string name="dialog_gameplay_disclaimer">Zobrazit prohlášení o vyloučení odpovědnosti</string>
+    <string name="busgame_newbus">Přidat %d. autobus</string>
+    <string name="busgame_route">Trasa</string>
+    <string name="busgame_speed">Rychlost</string>
     <string name="busgame_speed_unit">m/s</string>
-    <string name="busgame_capacity">Capacity</string>
+    <string name="busgame_capacity">Kapacita</string>
     <string name="busgame_capacity_unit">pl</string>
-    <string name="busgame_income">Income</string>
-    <string name="busgame_currency">Tickets</string>
-    <string name="busgame_upgrade">Upgrade</string>
+    <string name="busgame_income">Příjem</string>
+    <string name="busgame_currency">Lístky</string>
+    <string name="busgame_upgrade">Vylepšít</string>
     <string name="busgame_upgrade_title">Level %d</string>
-    <string name="busgame_unlock">Unlock</string>
-    <string name="draft_small_church00_title">Neighborhood Church</string>
-    <string name="draft_small_church00_text">Some faith for your citizens.</string>
-    <string name="draft_small_mosque00_title">Neighborhood Mosque</string>
-    <string name="draft_small_mosque00_text">Some faith for your citizens.</string>
+    <string name="busgame_unlock">Odemknout</string>
+    <string name="draft_small_church00_title">Okolní kostel</string>
+    <string name="draft_small_church00_text">Nějaká víra pro vaše občany.</string>
+    <string name="draft_small_mosque00_title">Mešita sousedství</string>
+    <string name="draft_small_mosque00_text">Nějaká víra pro vaše občany.</string>
 
 
-    <string name="minigame_reachlevel">Reach level %d</string>
-    <string name="minigame_price">Price</string>
-    <string name="minigame_time">Time</string>
-    <string name="busgame_unlockimmediately_title">Unlock immediately</string>
-    <string name="busgame_unlockimmediately_text">Would you like to unlock this bus immediately?</string>
-    <string name="dialog_dbuilding_title">Build here</string>
-    <string name="dialog_dbuilding_text">Do you want to place this building here? We will finish the building immediately for you.</string>
-    <string name="dialog_performance_title">Performance</string>
-    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
-    <string name="draft_brandenburgertor00_text">The Brandenburg Gate is a German landmark that was built in the 18th century. It\'s located in Berlin.</string>
+    <string name="minigame_reachlevel">Dosáhněte úrovně %d</string>
+    <string name="minigame_price">Cena</string>
+    <string name="minigame_time">Čas</string>
+    <string name="busgame_unlockimmediately_title">Odemknout ihnet</string>
+    <string name="busgame_unlockimmediately_text">Chcete tento autobus okamžitě odemknout?</string>
+    <string name="dialog_dbuilding_title">Postavit zde</string>
+    <string name="dialog_dbuilding_text">Chcete tu tuto budovu umístit? Budovu ihned dokončíme.</string>
+    <string name="dialog_performance_title">Produktivita</string>
+    <string name="draft_brandenburgertor00_title">Braniborská brána</string>
+    <string name="draft_brandenburgertor00_text">Braniborská brána je německá památka, která byla postavena v 18. století. Nachází se v Berlíně.</string>
 
 
-    <string name="control_accept">Accept</string>
-    <string name="control_dismiss">Dismiss</string>
-    <string name="settings_citytasks">Tasks</string>
-    <string name="dialog_disabletasks_title">Disable tasks</string>
-    <string name="dialog_disabletasks_text">You dismissed multiple tasks, so would you like to disable them for this city?</string>
-    <string name="control_disable">Disable</string>
-    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">The Arc de Triomphe in Paris honours those who fought and died in the French Revolutionary.</string>
-    <string name="featureselector_shortbuildtime">Short building time for %1$s</string>
-    <string name="game_remaining_shortbuildtime">Short build time for %s</string>
-    <string name="shop_open_features">Spend diamonds</string>
-    <string name="draft_feature_shortbuildingtime00_title">Short building time</string>
-    <string name="draft_feature_shortbuildingtime00_text">Drastic reduce of building time for all buildings.</string>
-    <string name="dialog_shortbuildtime_title">Built time boost</string>
-    <string name="dialog_shortbuildtime_text">Watch a short video to boost building time for %s.</string>
+    <string name="control_accept">Přijmout</string>
+    <string name="control_dismiss">Odmítnout</string>
+    <string name="settings_citytasks">Úkoly</string>
+    <string name="dialog_disabletasks_title">Vypnout úkoly</string>
+    <string name="dialog_disabletasks_text">Odmítli jste více úkolů, takže byste je chtěli zakázat pro toto město?</string>
+    <string name="control_disable">Vypnout</string>
+    <string name="draft_arcdetriomphe00_title">Vítězný oblouk</string>
+    <string name="draft_arcdetriomphe00_text">Vítězný oblouk v Paříži ctí ty, kteří bojovali a zemřeli ve francouzské revoluci.</string>
+    <string name="featureselector_shortbuildtime">Krátká doba výstavby na dobu %1$s</string>
+    <string name="game_remaining_shortbuildtime">Krátká doba výstavby na dobu %s</string>
+    <string name="shop_open_features">Utratit diamanty</string>
+    <string name="draft_feature_shortbuildingtime00_title">Krátká doba výstavby</string>
+    <string name="draft_feature_shortbuildingtime00_text">Drastické zkrácení doby výstavby pro všechny budovy.</string>
+    <string name="dialog_shortbuildtime_title">Zvýšení doby výstavby</string>
+    <string name="dialog_shortbuildtime_text">WPodívejte se na krátké video, které zvýší dobu výstavby na dobu %s.</string>
 
 
-    <string name="settings_saveonappswitch">Save on app switch</string>
-    <string name="settings_saveforscreenshot">Save for screenshot</string>
-    <string name="draft_eiffeltower00_title">Eiffel Tower</string>
-    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
-    <string name="dialog_wb_text02">Would you like to collect what %1$s earned while you were absent?\n\n%2$s</string>
-    <string name="dialog_wb_cmdtake">Take it</string>
-    <string name="dialog_wb_cmdforfeit">Forfeit</string>
-    <string name="dialog_diamondtool_title">Finish construction</string>
-    <string name="dialog_diamondtool_text">Shall we build that?</string>
-    <string name="draft_feature_valentinesday00_title">Happy Valentine\'s Day</string>
-    <string name="draft_feature_valentinesday00_text">Unlock these buildings permanently</string>
-    <string name="tool_removetunnel_title">Remove tunnel</string>
-    <string name="tool_removetunnel_text">Let\'s remove some tunnels.</string>
+    <string name="settings_saveonappswitch">Uložit na přepínač aplikace</string>
+    <string name="settings_saveforscreenshot">Uložit pro snímek obrazovky</string>
+    <string name="draft_eiffeltower00_title">Eiffelova věž</string>
+    <string name="draft_eiffeltower00_text">Eiffelova věž v Paříži je nejvýznamnějším mezníkem Francie. Věž je vysoká 324 metrů a byla dokončena v roce 1889.</string>
+    <string name="dialog_wb_text02">Chcete shromáždit, co vydělali %1$s ,když jste nebyli přítomni?\n\n%2$s</string>
+    <string name="dialog_wb_cmdtake">Sebrat</string>
+    <string name="dialog_wb_cmdforfeit">Zahodit</string>
+    <string name="dialog_diamondtool_title">Dokončit stavbu</string>
+    <string name="dialog_diamondtool_text">Budeme to stavět?</string>
+    <string name="draft_feature_valentinesday00_title">Šťastného Valentýna</string>
+    <string name="draft_feature_valentinesday00_text">Tyto budovy trvale odemkněte</string>
+    <string name="tool_removetunnel_title">Odebrat tunel</string>
+    <string name="tool_removetunnel_text">Odstraňte některé tunely.</string>
 
 
-    <string name="dialog_halftunnelprice_title">Half tunnel price</string>
-    <string name="dialog_halftunnelprice_text">Want to save some diamonds? This boost reduces tunnel price by 50%% for %s.</string>
-    <string name="game_remaining_halftunnelprice">Half tunnel price for %s</string>
-    <string name="shop_diamonds_sole">%s diamonds</string>
-    <string name="dialog_diamondshop_bestvalue">Best value</string>
-    <string name="draft_draft_edl_title">Education low</string>
-    <string name="draft_draft_edl_text">Low education.</string>
-    <string name="draft_draft_edh_title">Education high</string>
-    <string name="draft_draft_edh_text">High education.</string>
-    <string name="draft_draft_crm_title">Criminality</string>
-    <string name="draft_draft_crm_text">Indicator for criminality.</string>
-    <string name="draft_draft_fire_title">Fire danger</string>
-    <string name="draft_draft_fire_text">Indicator for fire danger.</string>
-    <string name="draft_draft_wp_title">Water pollution</string>
-    <string name="draft_draft_wp_text">Indicator for water pollution.</string>
-    <string name="draft_draft_plt_title">Pollution</string>
-    <string name="draft_draft_plt_text">Indicator for pollution.</string>
+    <string name="dialog_halftunnelprice_title">Poloviční cena tunelů</string>
+    <string name="dialog_halftunnelprice_text">Chcete ušetřit nějaké diamanty? Toto zvýšení snižuje cenu tunelu o 50%% %s.</string>
+    <string name="game_remaining_halftunnelprice">Poloviční cena tunelů za %s</string>
+    <string name="shop_diamonds_sole">%s diamantů</string>
+    <string name="dialog_diamondshop_bestvalue">Nejlepěí cena</string>
+    <string name="draft_draft_edl_title">Nízké vzdělání</string>
+    <string name="draft_draft_edl_text">Nízké vzdělání.</string>
+    <string name="draft_draft_edh_title">Vysoké vzdělání</string>
+    <string name="draft_draft_edh_text">Vysoké vzdělání.</string>
+    <string name="draft_draft_crm_title">Kriminalita</string>
+    <string name="draft_draft_crm_text">Indikátor kriminality.</string>
+    <string name="draft_draft_fire_title">Nebezpečí požáru</string>
+    <string name="draft_draft_fire_text">Indikátor nebezpečí požáru.</string>
+    <string name="draft_draft_wp_title">Znečištění vody</string>
+    <string name="draft_draft_wp_text">Indikátor znečištění vody.</string>
+    <string name="draft_draft_plt_title">Znečištění</string>
+    <string name="draft_draft_plt_text">Indikátor znečištění.</string>
     <string name="draft_draft_prk_title">Park</string>
-    <string name="draft_draft_prk_text">Indicator for park availability.</string>
+    <string name="draft_draft_prk_text">Indikátor dostupnosti parků.</string>
     <string name="draft_draft_sp_title">Sport</string>
-    <string name="draft_draft_sp_text">Indicator for spot availability.</string>
-    <string name="draft_draft_fth_title">Faith</string>
-    <string name="draft_draft_fth_text">Indicator for faith of inhabitants.</string>
-    <string name="draft_draft_hlth_title">Health</string>
-    <string name="draft_draft_hlth_text">Indicator for health of inhabitants.</string>
-    <string name="draft_draft_hedu_title">Education happiness</string>
-    <string name="draft_draft_hedu_text">Indicator for happiness about education availability.</string>
-    <string name="draft_draft_hlvl_title">Level happiness</string>
-    <string name="draft_draft_hlvl_text">Happiness about level of neighboring buildings.</string>
-    <string name="draft_draft_htx_title">Tax happiness</string>
-    <string name="draft_draft_htx_text">Happiness about taxes.</string>
-    <string name="draft_draft_htr_title">Transport happiness</string>
-    <string name="draft_draft_htr_text">Happiness about transports.</string>
-    <string name="draft_draft_hzn_title">Zone happiness</string>
-    <string name="draft_draft_hzn_text">Happiness about near zones.</string>
-    <string name="draft_draft_hspl_title">Supply hapiness</string>
-    <string name="draft_draft_hspl_text">Happiness about available energy and water.</string>
-    <string name="draft_draft_hft_title">Free time happiness</string>
-    <string name="draft_draft_hft_text">Happiness about facilities for free time.</string>
-    <string name="draft_draft_henv_title">Environment happiness</string>
-    <string name="draft_draft_henv_text">Happiness about environment.</string>
-    <string name="draft_draft_hpd_title">Police happiness</string>
-    <string name="draft_draft_hpd_text">Happiness about police.</string>
-    <string name="draft_draft_hfd_title">Fire dept. happiness</string>
-    <string name="draft_draft_hfd_text">Happiness about fire departments.</string>
-    <string name="draft_draft_hpk_title">Park happiness</string>
-    <string name="draft_draft_hpk_text">Hapiness about parks.</string>
-    <string name="draft_draft_hsp_title">Sport happiness</string>
-    <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
-    <string name="draft_draft_hgen_title">General happiness</string>
-    <string name="draft_draft_hgen_text">General happiness.</string>
-    <string name="influence_passenger_bus_title">Bus transport</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
-    <string name="influence_passenger_train_title">Train transport</string>
-    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
-    <string name="influence_residential_title">Residential area</string>
-    <string name="influence_residential_text">People prefer to live in a residential area.</string>
-    <string name="influence_commercial_title">Commercial area</string>
-    <string name="influence_commercial_text">Commercials are often groupes togther to attract customers.</string>
-    <string name="influence_industrial_title">Industrial area</string>
-    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
-    <string name="influence_level_low_title">low level</string>
-    <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
-    <string name="influence_level_middle_title">Medium level</string>
-    <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
-    <string name="influence_level_high_title">High level</string>
-    <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
-    <string name="influence_density_title">Density</string>
-    <string name="influence_density_text">High buildings are typically more dense.</string>
-    <string name="influence_nature_title">Nature</string>
-    <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
-    <string name="influence_waste_disposal_title">Waste disposal</string>
-    <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..</string>
-    <string name="draft_bus_road00_title">Bus road</string>
-    <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
-    <string name="draft_bus_oneway_road00_title">One-way bus road</string>
-    <string name="draft_bus_oneway_road00_text">A one-way road only buses can drive on.</string>
-    <string name="task_build_res">Build %s residential zones.</string>
-    <string name="task_build_com">Build %s commercial zones.</string>
-    <string name="task_build_ind">Build %s industrial zones.</string>
-    <string name="task_build_roads">Build %s roads.</string>
-    <string name="task_build_parks">Build %s parks.</string>
-    <string name="task_get_inhabitants">Get %s new inhabitants.</string>
-    <string name="task_get_money">Earn %sͲ.</string>
-    <string name="task_spend_money">Spend %sͲ.</string>
-    <string name="task_spend_diamonds">Spend %s diamonds.</string>
-    <string name="task_tap_screen">Tap %s times on the screen.</string>
-    <string name="task_current">Current task</string>
+    <string name="draft_draft_sp_text">Indikátor dostupnosti sportovních míst.</string>
+    <string name="draft_draft_fth_title">Víra</string>
+    <string name="draft_draft_fth_text">Indikátor víry obyvatel.</string>
+    <string name="draft_draft_hlth_title">Zdraví</string>
+    <string name="draft_draft_hlth_text">Indikátor zdraví obyvatel.</string>
+    <string name="draft_draft_hedu_title">Štěstí ze vzdělání</string>
+    <string name="draft_draft_hedu_text">Ukazatel štěstí na dostupnost vzdělávání.</string>
+    <string name="draft_draft_hlvl_title">Úroveň štěstí</string>
+    <string name="draft_draft_hlvl_text">Štěstí o úrovni sousedních budov.</string>
+    <string name="draft_draft_htx_title">Daňové štěstí</string>
+    <string name="draft_draft_htx_text">Štěstí z daní.</string>
+    <string name="draft_draft_htr_title">Štěstí z dopravi</string>
+    <string name="draft_draft_htr_text">Štěstí o dopravě.</string>
+    <string name="draft_draft_hzn_title">Zóna štěstí</string>
+    <string name="draft_draft_hzn_text">Štěstí o blízkých zónách.</string>
+    <string name="draft_draft_hspl_title">Nabídka štěstí</string>
+    <string name="draft_draft_hspl_text">Štěstí o dostupné energii a vodě.</string>
+    <string name="draft_draft_hft_title">Štěstí z volného času</string>
+    <string name="draft_draft_hft_text">Štěstí o zařízení pro volný čas.</string>
+    <string name="draft_draft_henv_title">Štěstí z životního prostředí</string>
+    <string name="draft_draft_henv_text">Štěstí o životním prostředí.</string>
+    <string name="draft_draft_hpd_title">Stěstí z policie</string>
+    <string name="draft_draft_hpd_text">Štěstí o policii.</string>
+    <string name="draft_draft_hfd_title">Štěstí z hasičů</string>
+    <string name="draft_draft_hfd_text">Štěstí o hasičích.</string>
+    <string name="draft_draft_hpk_title">Štěstí z parků</string>
+    <string name="draft_draft_hpk_text">Štěstí o pracích.</string>
+    <string name="draft_draft_hsp_title">Štěstí ze sportu</string>
+    <string name="draft_draft_hsp_text">Štěstí o sportu.</string>
+    <string name="draft_draft_hgen_title">Obecné štěstí</string>
+    <string name="draft_draft_hgen_text">Obecné štěstí.</string>
+    <string name="influence_passenger_bus_title">Autobusová doprava</string>
+    <string name="influence_passenger_bus_text">Pokud lidé používají autobusy, bude menší provoz.</string>
+    <string name="influence_passenger_train_title">Vlaková doprava</string>
+    <string name="influence_passenger_train_text">Pokud lidé používají vlaky, bude na silnici menší provoz.</string>
+    <string name="influence_residential_title">Obytná zóna</string>
+    <string name="influence_residential_text">Lidé raději žijí v obytné zóně.</string>
+    <string name="influence_commercial_title">Obchodní zóna</string>
+    <string name="influence_commercial_text">Reklamy jsou často seskupeny, aby přilákaly zákazníky.</string>
+    <string name="influence_industrial_title">Průmyslová oblast</string>
+    <string name="influence_industrial_text">Lidé nechtějí žít poblíž.</string>
+    <string name="influence_level_low_title">Nízká úroveň</string>
+    <string name="influence_level_low_text">Budovy této úrovně jsou obvykle chudé.</string>
+    <string name="influence_level_middle_title">Střední úroveň</string>
+    <string name="influence_level_middle_text">Budovy této úrovně nejsou tak chudé.</string>
+    <string name="influence_level_high_title">Vysoká úroveň</string>
+    <string name="influence_level_high_text">Budovy této úrovně jsou obvykle bohaté.</string>
+    <string name="influence_density_title">Hustota</string>
+    <string name="influence_density_text">Vysoké budovy jsou typicky hustější.</string>
+    <string name="influence_nature_title">Příroda</string>
+    <string name="influence_nature_text">Parky a zejména lesy mají velký přírodní vliv.</string>
+    <string name="influence_waste_disposal_title">Nakládání s odpady</string>
+    <string name="influence_waste_disposal_text">Odpad by měl být odstraněn, aby byly vaši obyvatelé spokojeni.</string>
+    <string name="draft_bus_road00_title">Autobusová cesta</string>
+    <string name="draft_bus_road00_text">Jednoduchá cesta, po které mohou jezdit pouze autobusy.</string>
+    <string name="draft_bus_oneway_road00_title">Jednosměrná autobusová cesta</string>
+    <string name="draft_bus_oneway_road00_text">Jednosměrná silnice pouze autobusy mohou řídit.</string>
+    <string name="task_build_res">Vybudujte %s obytných zón.</string>
+    <string name="task_build_com">Vybudujte %s obchodních zón.</string>
+    <string name="task_build_ind">Vybudujte %s průmyslovích zón.</string>
+    <string name="task_build_roads">Vybudujte %s silnic.</string>
+    <string name="task_build_parks">Vybudujte %s parků.</string>
+    <string name="task_get_inhabitants">Získejte %s nových obyvatel.</string>
+    <string name="task_get_money">Vydělejte %sͲ.</string>
+    <string name="task_spend_money">Utraťte %sͲ.</string>
+    <string name="task_spend_diamonds">Utraťte %s diamantů.</string>
+    <string name="task_tap_screen">Klepňete %s na obrazovku.</string>
+    <string name="task_current">Aktuální úkol</string>
 
 
-    <string name="dialog_adreward_title">Rewarded ad</string>
-    <string name="dialog_adreward_text">Want to get some diamonds for free by watching an ad?</string>
-    <string name="dialog_adreward_cmdwatch">Get them now</string>
-    <string name="draftselector_titlelandmark">Landmarks</string>
+    <string name="dialog_adreward_title">Odměna z reklamy</string>
+    <string name="dialog_adreward_text">Chcete získat nějaké diamanty zdarma sledováním reklamy?</string>
+    <string name="dialog_adreward_cmdwatch">Dostaňte je teď</string>
+    <string name="draftselector_titlelandmark">Památky</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
-    <string name="draft_angelofindependence00_title">Angel of Independence</string>
-    <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
-    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
-    <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
-    <string name="draft_decorustywatertower00_title">Rusty water tower</string>
-    <string name="draft_decorustywatertower00_text">An old and rusty water tower. It does absolutely nothing.</string>
-    <string name="draft_underground_wire00_title">Underground wires</string>
-    <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
-    <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
-    <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_bigben00_text">Big Ben je zvonice v Londýně, která je vysoká 96 m a byla postavena v roce 1859.</string>
+    <string name="draft_angelofindependence00_title">Anděl nezávislosti</string>
+    <string name="draft_angelofindependence00_text">Anděl nezávislosti je památkou v Mexico City, která byla postavena v roce 1910, aby si vzpomněla na válku nezávislosti Mexika.</string>
+    <string name="draft_statueofliberty00_title">Socha svobody</string>
+    <string name="draft_statueofliberty00_text">Socha svobody byla darem od Francouzů Američanům. Byl slavnostně otevřen v roce 1886 a je vysoký 93 metrů.</string>
+    <string name="draft_decorustywatertower00_title">Rezavá vodárenská věž</string>
+    <string name="draft_decorustywatertower00_text">Stará a rezavá vodárenská věž. Nic to nedělá.</string>
+    <string name="draft_underground_wire00_title">Podzemní dráty</string>
+    <string name="draft_underground_wire00_text">Fungují jako normální dráty, ale jsou umístěny v podzemí, takže je nikdo nemusí vidět.</string>
+    <string name="draft_feature_freedombuildings00_title">Orientační body I</string>
+    <string name="draft_feature_freedombuildings00_text">Obsahuje následující budovy pro trvalé užívání:</string>
 
 
-    <string name="tool_removeuwire_title">Underground wires</string>
-    <string name="tool_removeuwire_text">This tool removes underground wires.</string>
+    <string name="tool_removeuwire_title">Podzemní dráty</string>
+    <string name="tool_removeuwire_text">Tento nástroj odstraňuje podzemní dráty.</string>
 
 
-    <string name="draft_aircraft_boneyard00_title">Aircraft boneyard</string>
-    <string name="draft_aircraft_boneyard00_text">A place for retired aircraft. It\'s dirty but produces some income.</string>
-    <string name="notify_tutorial_reminder_title">Time to get started</string>
-    <string name="notify_tutorial_reminder_text">Hey mayor, did you forget about your mission to build a great city?</string>
-    <string name="dialog_insufficientspace_title">We\'re running out of space</string>
-    <string name="dialog_insufficientspace_text">There\'s not much free space left on your device (%,d MB).\n\nCities might not be saved due to insufficient space!</string>
-    <string name="dialog_insufficientspace_cmdproceed">Proceed at own risk</string>
-    <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
-    <string name="draft_sydneyoperahouse00_text">The Sydney Opera House is a multi-venue performing arts centre that is located in Sydney, Australia. It was completed in 1973 and has a height of 65 meters.</string>
+    <string name="draft_aircraft_boneyard00_title">Skládka letadel</string>
+    <string name="draft_aircraft_boneyard00_text">Místo pro vysloužilé letadlo. Je to špinavé, ale produkuje nějaký příjem.</string>
+    <string name="notify_tutorial_reminder_title">Je čas začít</string>
+    <string name="notify_tutorial_reminder_text">Ahoj starosto, zapomněl jsi na své poslání postavit velké město?</string>
+    <string name="dialog_insufficientspace_title">Dochází nám místo</string>
+    <string name="dialog_insufficientspace_text">Na vašem přístroji nezbývá mnoho volného místa (%, d MB).\n\nMěsta nemusí být uložena kvůli nedostatku místa!</string>
+    <string name="dialog_insufficientspace_cmdproceed">Postupujte na vlastní nebezpečí</string>
+    <string name="draft_sydneyoperahouse00_title">Opera v Sydney</string>
+    <string name="draft_sydneyoperahouse00_text">Sydney Opera House je multifunkční umělecké centrum, které se nachází v australském Sydney. Byla dokončena v roce 1973 a má výšku 65 metrů.</string>
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
     <string name="draft_onerafflesplace00_text">The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.</string>
-    <string name="draft_willistower00_title">Willis Tower</string>
-    <string name="draft_willistower00_text">The Willis Tower (also known as Sears Tower) is a skyscraper that is located in Chicago, United States. The tower was built in 1973 and is 442 meters high.</string>
-    <string name="draft_feature_landmarks01_title">Landmarks II</string>
-    <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_willistower00_title">Willisova věž</string>
+    <string name="draft_willistower00_text">Willis Tower (také známý jako Sears Tower) je mrakodrap, který se nachází v Chicagu ve Spojených státech. Věž byla postavena v roce 1973 a je vysoká 442 metrů.</string>
+    <string name="draft_feature_landmarks01_title">Památky II</string>
+    <string name="draft_feature_landmarks01_text">Obsahuje následující budovy pro trvalé užívání:</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
-    <string name="draft_cat_bus00_title">Bus</string>
-    <string name="draft_cat_train00_title">Train</string>
-    <string name="draft_cat_recent00_title">Recent</string>
-    <string name="draft_cat_service00_title">Services</string>
-    <string name="draft_tool_eyedropper00_title">Eyedropper</string>
-    <string name="draft_tool_eyedropper00_text">Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.</string>
+    <string name="draft_cat_supply00_title">Zásoby</string>
+    <string name="draft_cat_road00_title">Silnice</string>
+    <string name="draft_cat_bus00_title">Autobus</string>
+    <string name="draft_cat_train00_title">Vlak</string>
+    <string name="draft_cat_recent00_title">Nedávné</string>
+    <string name="draft_cat_service00_title">Služby</string>
+    <string name="draft_tool_eyedropper00_title">Kapátko</string>
+    <string name="draft_tool_eyedropper00_text">Chcete znovu vytvořit konkrétní silnici nebo budovu? Použijte tento nástroj a klepněte na něj. Není podporován všemi strukturami.</string>
     <string name="draft_cat_level00_title">Level Ͳ</string>
     <string name="draft_cat_level01_title">Level ͲͲ</string>
     <string name="draft_cat_level02_title">Level ͲͲͲ</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
-    <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
+    <string name="draft_tool_movebuilding00_title">Přesunout stavbu</string>
+    <string name="draft_tool_movebuilding00_text">Vyberte budovu, abyste ji přesunuli na nové místo. Ne všechny budovy mohou být přesunuty.</string>
+    <string name="tool_movebuilding_cmd">Vybrat stavbu</string>
 
 
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">Vše</string>
 
 
-    <string name="draft_cat_residential00_title">Res buildings</string>
-    <string name="draft_cat_commercial00_title">Com buildings</string>
-    <string name="draft_cat_industrial00_title">Ind buildings</string>
-    <string name="offerstage_saving">You save %d%%</string>
-    <string name="draft_pickle00_title">Almighty pickle</string>
+    <string name="draft_cat_residential00_title">Obytný stavby</string>
+    <string name="draft_cat_commercial00_title">Obchodní stavby</string>
+    <string name="draft_cat_industrial00_title">Průmyslový stavby</string>
+    <string name="offerstage_saving">Ušetříš %d%%</string>
+    <string name="draft_pickle00_title">Všemohoucí okurka</string>
     <string name="draft_pickle00_text">.</string>
 
 
-    <string name="settings_newtoolbar">Use toolbar</string>
+    <string name="settings_newtoolbar">Použít panel nástrojů</string>
 
 
-    <string name="gallery">Gallery</string>
-    <string name="gallery_upload">Upload screenshot</string>
-    <string name="dialog_galleryupload_title">Uploading</string>
-    <string name="dialog_galleryupload_text">I\'m uploading your image :)</string>
-    <string name="gallery_recent">Recent</string>
-    <string name="gallery_trends">Trends</string>
-    <string name="gallery_own">Own</string>
-    <string name="dialog_gallerydelete_title">Delete Screenshot</string>
-    <string name="dialog_gallerydelete_text">Are you sure that you want to delete this screenshot? This cannot be undone!</string>
-    <string name="dialog_gallerydelete_cmd">Delete</string>
-    <string name="dialog_gallerypolicy_title">First things first</string>
-    <string name="dialog_gallerypolicy_text">Hi, I\'m glad that you\'d like to contribute to our gallery. However, before we can start you have to agree to our policy to allow us to upload screenshots for you.
+    <string name="gallery">Galerie</string>
+    <string name="gallery_upload">Nahrát snímek obrazovky</string>
+    <string name="dialog_galleryupload_title">Nahrávání</string>
+    <string name="dialog_galleryupload_text">Nahrávám váš obrázek :)</string>
+    <string name="gallery_recent">Nedávno</string>
+    <string name="gallery_trends">Trend</string>
+    <string name="gallery_own">Vlastní</string>
+    <string name="dialog_gallerydelete_title">Odstranit snímek obrazovky</string>
+    <string name="dialog_gallerydelete_text">Opravdu chcete odstranit tento snímek? To nelze vrátit zpět!</string>
+    <string name="dialog_gallerydelete_cmd">Odstranit</string>
+    <string name="dialog_gallerypolicy_title">Pěkně popořádku</string>
+    <string name="dialog_gallerypolicy_text">Ahoj, jsem rád, že chceš přispět do naší galerie. Než však začneme, musíte souhlasit s našimi zásadami, abychom vám mohli nahrát screenshoty.
 
-\n\nOnly tap on agree if you agree to our policy for screenshot uploading.</string>
-    <string name="dialog_gallerypolicy_cmdpolicy">Open policy</string>
-    <string name="dialog_gallerypolicy_cmdok">I agree</string>
-    <string name="dialog_gallerypolicy_cmdcancel">I disagree</string>
-    <string name="settings_pushnotifications">Push notifications</string>
-    <string name="draft_leaningtowerofpisa00_title">Leaning Tower of Pisa</string>
-    <string name="draft_leaningtowerofpisa00_text">The Leaning Tower of Pisa is a bell tower located in the Italian City of Pisa that was completed in 1372 and its height amounts to 56 meters.</string>
+\n\nPokud souhlasíte s našimi zásadami pro nahrávání screenshotů, klepněte na souhlas.</string>
+    <string name="dialog_gallerypolicy_cmdpolicy">Otevřít zásady ochrany osobních údajů</string>
+    <string name="dialog_gallerypolicy_cmdok">Souhlasím</string>
+    <string name="dialog_gallerypolicy_cmdcancel">Nesouhlasím</string>
+    <string name="settings_pushnotifications">Push oznámení</string>
+    <string name="draft_leaningtowerofpisa00_title">Šikmá věž v Pise</string>
+    <string name="draft_leaningtowerofpisa00_text">Šikmá věž v Pise je zvonice umístěná v italském městě Pisa, která byla dokončena v roce 1372 a její výška činí 56 metrů..</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
-    <string name="draft_burjalarab00_text">The Burj Al Arab is a luxury hotel that is located in Dubai, United Arab Emirates. It was completed in 1999 and has a height of 321 meters.</string>
+    <string name="draft_burjalarab00_text">Burj Al Arab je luxusní hotel, který se nachází v Dubaji ve Spojených arabských emirátech. Byla dokončena v roce 1999 a má výšku 321 metrů.</string>
     <string name="draft_hearsttower00_title">Hearst Tower</string>
-    <string name="draft_hearsttower00_text">The Hearst Tower is an office building in New York City that was built in 2006. It has a height of 182 meters.</string>
-    <string name="draft_feature_landmarks02_title">Landmarks III</string>
+    <string name="draft_hearsttower00_text">Hearst Tower je kancelářská budova v New Yorku, která byla postavena v roce 2006. Má výšku 182 metrů.</string>
+    <string name="draft_feature_landmarks02_title">Památky III</string>
 
 
-    <string name="draft_recyclingyard00_title">Buyback center</string>
-    <string name="draft_recyclingyard00_text">Why burn the garbage or bring it to the landfill if it can be recycled in the buyback center?</string>
-    <string name="draft_notify_pickle_spawned00_text">A wild pickle appeared in %s. What will you do about it, mayor?</string>
-    <string name="draft_rugbyfield00_title">Rugby field</string>
-    <string name="draft_rugbyfield00_text">A rugby field for rugby fans.</string>
-    <string name="menu_facebook">Facebook connection</string>
-    <string name="facebook_privacy">Privacy</string>
+    <string name="draft_recyclingyard00_title">Reciklační centrum</string>
+    <string name="draft_recyclingyard00_text">Proč spalovat odpadky nebo je přivést na skládku, pokud se dá recyklovat do centra zpětného odkupu?</string>
+    <string name="draft_notify_pickle_spawned00_text">%s se objevil divoký nález. Co s tím uděláš, starosto?</string>
+    <string name="draft_rugbyfield00_title">Rugby pole</string>
+    <string name="draft_rugbyfield00_text">Rugby pole pro rugby fanoušky.</string>
+    <string name="menu_facebook">Připojení k síti Facebook</string>
+    <string name="facebook_privacy">Soukromí</string>
 
 
-    <string name="settings_smoothcarmovement">Smooth car movement</string>
+    <string name="settings_smoothcarmovement">Hladký pohyb automobilu</string>
     <string name="draft_easteregg00_title">Easter egg</string>
-    <string name="draft_easteregg00_text">Just an Easter egg. What will you do about it?</string>
-    <string name="draft_notify_easteregg_spawned00_text">There\'s an Easter egg somewhere. Can you find it?</string>
-    <string name="draft_notify_easteregg_found00_text">Congratulations, you found the Easter egg :)</string>
+    <string name="draft_easteregg00_text">Jen Easter Egg. Co s tím uděláš?</string>
+    <string name="draft_notify_easteregg_spawned00_text">Někde je tu Easter Egg. Najdete ho?</string>
+    <string name="draft_notify_easteregg_found00_text">Gratulujeme, našli jste Easter Egg :)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Remove diamond buildings</string>
-    <string name="dialog_removediamondbuildings_text">You selected %d diamond priced buildings for removal. Are you sure that you want to remove them? There\'s a move building tool if you just want to move them.</string>
-    <string name="settings_renderpollution">Render pollution</string>
+    <string name="dialog_removediamondbuildings_title">Odstraňte diamantové budovy</string>
+    <string name="dialog_removediamondbuildings_text">Vybrali jste %d budov s cenou diamantu pro odstranění. Opravdu je chcete odstranit? Pokud je chcete přesunout, je k dispozici nástroj pro přesun budovy.</string>
+    <string name="settings_renderpollution">Znečištění</string>
 
 
-    <string name="settings_cloudshadow">Cloud shadows</string>
+    <string name="settings_cloudshadow">Stíny mraků</string>
 
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
-    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower is a TV tower in Shanghai whose construction was completed in 1994. The height of the tower amounts to 470 meters.</string>
+    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower je televizní věž v Shanghai, která byla dostavěna v roce 1994. Měří něco málo přes 470 metrů.</string>
     <string name="draft_swfc_tower00_title">SWFC Tower</string>
     <string name="draft_swfc_tower00_text">The Shanghai World Financial Center is a skyscraper that is located in Shanghai and was completed 2008. It\'s height is 494 meters.</string>
     <string name="draft_feature_landmarks03_title">Landmarks IV</string>
@@ -1695,7 +1695,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_asphalt02_title">Blueish asphalt</string>
 
 
-    <string name="draft_cat_management00_title">Management</string>
+    <string name="draft_cat_management00_title">Správa</string>
     <string name="draft_sakura00_title">Sakura tower</string>
     <string name="draft_sakura00_text">A traditional pagoda with Sakura trees. What a lovely place.</string>
     <string name="draft_stbasilcathedral00_title">St Basil\'s Cathedral</string>
@@ -1705,29 +1705,29 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_toji00_title">Tō-ji</string>
     <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
     <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
+    <string name="notify_waste_needer00">Odpad není odvezen.</string>
+    <string name="notify_waste_producer00">Skládka je plná, musí se vyčistit.</string>
     <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
     <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
+    <string name="waste_cmdclear">Vyčistit hned</string>
+    <string name="dialog_wasteclear_title">Vyčistit hned</string>
     <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
     <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
     <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
+    <string name="draft_alert_garbage00_title">Zavolá popelářský vůz</string>
+    <string name="draft_alert_garbage00_text">Zavolá popelářský vůz, který uklidí odpad na silnici.</string>
     <string name="happiness_waste">Waste disposal</string>
     <string name="settings_new_content_marker">Highlight new content in toolbar</string>
 
 
-    <string name="tool_removeroaddeco_title">Remove road deco</string>
-    <string name="tool_removeroaddeco_text">Use this tool to remove road decoration overlays.</string>
+    <string name="tool_removeroaddeco_title">Odstranit ozdobu silnic</string>
+    <string name="tool_removeroaddeco_text">Tento nástroj slouží k odstranění překryvných dekorací.</string>
 
 
-    <string name="draft_palmtree00_title">Palm tree</string>
-    <string name="draft_palmtree00_text">They are essential for any oasis.</string>
-    <string name="draft_cactus00_title">Cactus</string>
-    <string name="draft_cactus00_text">No water? No problem for these cacti.</string>
+    <string name="draft_palmtree00_title">Palma</string>
+    <string name="draft_palmtree00_text">Jsou nezbytné pro každou oázu.</string>
+    <string name="draft_cactus00_title">Kaktus</string>
+    <string name="draft_cactus00_text">Žádná voda? Žádný problém pro tyto kaktusy.</string>
     <string name="draft_ancientbear_guard00_title">Guard</string>
     <string name="draft_ancientbear_guard00_text">A guard that watches over the Ancient Bear.</string>
     <string name="draft_ancientbear_statue00_title">Ancient Bear</string>
@@ -1735,13 +1735,13 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_greatpyramid00_title">Great Pyramid of Giza</string>
 
 
-    <string name="draft_wasteincinerator00_filter00_title">Filter</string>
-    <string name="draft_wasteincinerator00_filter00_text">Reduces the emitted pollution and noise drastically.</string>
-    <string name="draft_flowers00_title">Flowers</string>
-    <string name="draft_flowers00_text">Just some flowers.</string>
+    <string name="draft_wasteincinerator00_filter00_title">Filtr</string>
+    <string name="draft_wasteincinerator00_filter00_text">Drasticky snižuje emise znečištění a hluk.</string>
+    <string name="draft_flowers00_title">Kytky</string>
+    <string name="draft_flowers00_text">Jen nějaké květiny.</string>
 
 
-    <string name="game_remaining_doubledincometime">Doubled income for %s</string>
+    <string name="game_remaining_doubledincometime">Zdvojnásobený příjem na %s</string>
     <string name="draft_taipei101_title">Taipei 101</string>
     <string name="draft_taipei101_text">The Taipei Financial Center in Taipei is a supertall skyscraper in Taiwan. It has a height of 510 meters and has been the tallest building in the world until 2010. It was finished in 2004.</string>
     <string name="draft_roaddeco_border00_title">Guide post</string>
@@ -1758,6 +1758,356 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_roaddeco_border05_text">There\'s no night and yet there are street lights.</string>
 
 
-    <string name="draft_cat_roaddeco00_title">Road decoration</string>
+    <string name="draft_cat_roaddeco00_title">Silniční dekorace</string>
+
+
+    <string name="draft_feature_doubledincome00_title">Doubled income</string>
+    <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
+    <string name="features_duration">Duration %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
+    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
+    <string name="draft_roaddeco_bumps00_title">Bumps</string>
+    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
+    <string name="draft_fence00_title">Fence</string>
+    <string name="draft_fence00_text">Just a simple fence.</string>
+    <string name="draft_fence01_title">White fence</string>
+    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+
+
+    <string name="draft_jungletree00_title">Jungle tree</string>
+    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+
+
+    <string name="draft_igloo00_title">Igloo</string>
+    <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
+    <string name="features_more">More content</string>
+    <string name="features_diamonds">Get diamonds</string>
+
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="dialog_privacy_title">Privacy Policy</string>
+    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
+    <string name="dialog_privacy_cmdopen">Open Policy</string>
+    <string name="dialog_privacy_cmdlater">Got it</string>
+    <string name="settings_drawzones">Draw zones</string>
+    <string name="draft_metrostation00_title">Metro station</string>
+    <string name="draft_metrostation00_text">A station to access metro.</string>
+    <string name="draft_metroline00_title">Metro tunnel</string>
+    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
+    <string name="feature_coming_soon">Coming soon</string>
+    <string name="dialog_search_title">Search</string>
+    <string name="dialog_search_text">Enter a search keyword below.</string>
+    <string name="dialog_search_cmdok">Search</string>
+    <string name="dialog_search_cmdcancel">Cancel</string>
+    <string name="search_results_title">Search results for \"%s\"</string>
+    <string name="draft_rail01_title">Urban Railway</string>
+    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
+    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
+    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
+    <string name="settings_realmmres">Real minimap resolution</string>
+    <string name="feature_coming_soon_fulfilled">An early gift</string>
+
+
+    <string name="draft_tree_sakura00_title">Cherry blossom</string>
+    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
+    <string name="draft_circus00_title">Circus</string>
+    <string name="draft_circus00_text">It\'s time for circus!</string>
+    <string name="draft_chrysler00_title">Chrysler Building</string>
+    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
+    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
+    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
+
+
+    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
+    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
+    <string name="selectable_find">Find (%,d)</string>
+    <string name="gallery_upload_success">Success</string>
+    <string name="gallery_upload_fail">Upload failed</string>
+    <string name="draft_medic02_title">Small hospital</string>
+    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
+    <string name="lang_pirate">Pirate</string>
+
+
+    <string name="draft_church10_title">Baroque Church</string>
+    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
+    <string name="draft_roaddeco_construction00_title">Backhoe</string>
+    <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
+
+
+    <string name="infoline_freetunnels">%d tunnels left</string>
+    <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
+    <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
+    <string name="draft_roaddeco_barrier01_title">Barricades</string>
+    <string name="draft_roaddeco_barrier01_text">Can be used to barricade the road.</string>
+    <string name="draft_roaddeco_construction01_title">Gravel mountains</string>
+    <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
+
+
+    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
+    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
+    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
+    <string name="notification01_text">Mayor, please come back!</string>
+
+
+    <string name="shop_adreward">Diamanty zdarma</string>
+    <string name="draft_smallmetrostation00_title">Metro access point</string>
+    <string name="draft_smallmetrostation00_text">A station to access the metro. For trains you have to build a metro station.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Traffic island</string>
+    <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Building site</string>
+    <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Semafory</string>
+    <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
+
+
+    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
+    <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
+
+
+    <string name="draft_windmill00_title">Old Dutch Windmill</string>
+    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
+    <string name="draft_taxi_depot00_title">Taxi depot</string>
+    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
+    <string name="settings_showclosebutton">Close button in game menu</string>
+    <string name="menu_closegame">Exit game</string>
+    <string name="disaster_pickle_title">Pickle</string>
+    <string name="disaster_pickle_text">Pickle.</string>
+    <string name="disaster_pickle_cmdtext">Pickle!</string>
+    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
+    <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
+    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
+    <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
+
+
+    <string name="draft_discord_statue00_title">Discord statue</string>
+    <string name="draft_discord_statue00_text">Discord statue.</string>
+    <string name="notify_discord_statue00_title">Thank you!</string>
+    <string name="notify_discord_statue00_text">Thank you for 3,000 members on our Discord server. Do you want to visit it now?</string>
+    <string name="draftselector_titlebodydisposal">Funeral</string>
+    <string name="draft_roaddeco_protester00_title">Fake protesters</string>
+    <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
+    <string name="draft_roaddeco_riot00_title">Fake riot</string>
+    <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
+    <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
+    <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
+    <string name="disaster_blizzard_title">Blizzard</string>
+    <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
+    <string name="disaster_blizzard_cmdtext">Freeze!</string>
+    <string name="draft_snowtile00_title">Permanent snow</string>
+    <string name="draft_snowtile00_text">What about global warming?</string>
+    <string name="gamemode_free_title">Free</string>
+    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.</string>
+    <string name="dialog_free_title">Free game mode</string>
+    <string name="dialog_free_text">You selected free game mode.\n
+Pros: No money, no requirements, options to control demand\n
+Cons: Less challenges</string>
+    <string name="draft_medic03_title">Modern hospital</string>
+    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
+    <string name="draft_gol_dead_title">Game of life</string>
+    <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
+
+
+    <string name="draft_coittower00_title">Coit Memorial Tower</string>
+    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
+    <string name="draft_bankofamerica00_title">Bank of America Center</string>
+    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
+    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
+    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
+    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
+    <string name="dialog_cemeteryclear_title">Clear now</string>
+    <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
+    <string name="cemetery_cmdclear">Clear now</string>
+    <string name="cemetery_clear">SWIPE to free up some space.</string>
+    <string name="draft_cemetery00_text">A place where the remains of dead people are buried.</string>
+    <string name="draft_crematory00_text">Dead people are burnt here.</string>
+    <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
+    <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
+    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
+    <string name="draft_halloween_tree00_title">Dead tree</string>
+    <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
+    <string name="draft_feature_landmarks04_title">Landmarks V</string>
+    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
+    <string name="draft_marker_hackedmarkermarker_title">THIS VERSION HAS BEEN HACKED!</string>
+
+
+    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
+    <string name="draft_haunted_house00_title">Haunted house</string>
+    <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
+    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
+    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
+
+
+    <string name="shader_lol">LOL</string>
+    <string name="settings_hugeplugintexture">Congratulations, you\'re running in huge texture mode.</string>
+    <string name="draft_tree00_autumn00_title">Autumn trees</string>
+    <string name="draft_tree00_autumn00_text">Withering leaves can be so beautiful.</string>
+    <string name="settings_handintoolbar">Show hand in toolbar</string>
+    <string name="draft_bushman00_title">Statue of bushman</string>
+    <string name="draft_bushman00_text">\"Mum, what is that?\"\n\"Don\'t look at it. Otherwise it will haunt you in your dreams.\"</string>
+    <string name="draft_police03_title">Modern police dep.</string>
+    <string name="draft_police03_text">Put some money into it and you\'ll be able to solve any issues with crime.</string>
+    <string name="draft_sf_cityhall00_title">City hall</string>
+    <string name="draft_sf_cityhall00_text">A city hall inspired by the city hall in San Francisco.</string>
+    <string name="draft_sf_fineartspalace00_title">Palace of Fine Arts</string>
+    <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
+    <string name="shader_invert">Inverted</string>
+
+
+    <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
+    <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
+    <string name="store_authorby">by %s</string>
+    <string name="store_downloads">%,d downloads</string>
+    <string name="store_acquire">Download</string>
+    <string name="store_downlaod">Download</string>
+    <string name="store_downloaded">Downloaded</string>
+    <string name="dialog_storedownlaod_title">Download</string>
+    <string name="dialog_storedownload_text">Do you want to download %s?</string>
+    <string name="dialog_storerestart_title">Restart</string>
+    <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
+    <string name="dialog_storerestart_cmdrestart">Restart</string>
+    <string name="store_status_notacquired">Not acquired</string>
+    <string name="store_status_downloading">Downloading</string>
+    <string name="store_status_downloaderror">Error: </string>
+    <string name="store_status_acquired">Acquired</string>
+    <string name="store_status_newlyinstalled">Newly installed</string>
+    <string name="store_status_running">Running</string>
+    <string name="store_status_notrunning">Not running</string>
+    <string name="store_status_newversioninstalled">Installed new version</string>
+    <string name="store_status_availupdate">Update available</string>
+    <string name="store_status_restartrequired">Restart required</string>
+    <string name="store_active">Active</string>
+    <string name="store_notactive">Not active</string>
+    <string name="store_fetchfailed">Network error</string>
+    <string name="store_modeexplore">Explore</string>
+    <string name="store_modeinstalled">Installed</string>
+    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
+    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
+    <string name="dialog_storedelete_title">Uninstall</string>
+    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
+    <string name="dialog_storedelete_cmddelete">Uninstall</string>
+    <string name="store_modefeatured">Featured</string>
+    <string name="store_modecategory">Category</string>
+    <string name="store_shorttitle">Plugins</string>
+    <string name="gamemenu_catcity">City</string>
+    <string name="gamemenu_catcontent">Content</string>
+    <string name="gamemenu_catsocial">Social</string>
+    <string name="gamemenu_catpictures">Pictures</string>
+    <string name="gamemenu_catother">Other</string>
+    <string name="store_catcount">%,d plugins</string>
+    <string name="store_featured">Featured</string>
+
+
+    <string name="dialog_storereport_title">Report plugin</string>
+    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
+    <string name="dialog_storereport_cmdreport">Report</string>
+    <string name="dialog_storereported_title">Plugin reported</string>
+    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+
+
+    <string name="store_ratings">by %,d ratings</string>
+    <string name="store_loadingerror">Error</string>
+    <string name="dialog_storeerror_title">Loading error</string>
+    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
+    <string name="store_new">New and Updated</string>
+    <string name="draft_cat_plugins00_title">Plugins</string>
+    <string name="dialog_storesearch_title">Search plugin</string>
+    <string name="dialog_storesearch_text">Enter a keyword below:</string>
+    <string name="dialog_storesearch_cmdsearch">Search</string>
+
+
+    <string name="draft_deco_chr_santashouse00_title">Santova dílna</string>
+    <string name="draft_deco_chr_santashouse00_text">Santa jí používá na vyrábění hraček</string>
+    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
+    <string name="draft_rails00_title">Railway</string>
+    <string name="draft_rails00_text">Used to guide your trains.</string>
+    <string name="draft_rails00oneway00_title">One-way Railway</string>
+    <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
+    <string name="specialoffer_cmdbuy">Buy for %s</string>
+    <string name="influence_body_disposal_title">Funeral</string>
+    <string name="influence_body_disposal_text">Rest in peace.</string>
+    <string name="influence_traffic_title">Traffic</string>
+    <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
+    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
+    <string name="ci_neighbor_bodydisposal">Funeral service</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="bodydisposal_transport">%1$,d/d</string>
+    <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
+    <string name="draft_cat_metro00_title">Metro</string>
+    <string name="draft_cat_tree00_title">Plants</string>
+    <string name="draft_railroof00_title">Roof</string>
+    <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
+    <string name="draft_trainplatform00_title">Platform 1</string>
+    <string name="draft_trainplatform00_text">A platform of the train station.</string>
+    <string name="draft_trainplatform01_title">Platform 2</string>
+    <string name="draft_trainplatform02_title">Platform 3</string>
+    <string name="draft_trainplatform03_title">Platform 4</string>
+    <string name="draft_trainplatform04_title">Platform 5</string>
+    <string name="draft_trainplatform05_title">Platform 6</string>
+    <string name="draft_trainplatform06_title">Platform 7</string>
+    <string name="draft_trainplatform07_title">Platform 8</string>
+    <string name="draft_trainstation00_title">Local traffic platform</string>
+    <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
+    <string name="draft_trainstation01_title">Long-distance traffic platform</string>
+    <string name="draft_trainstation01_text">This platform is reserved for long-distance travel.</string>
+    <string name="draft_train_freight_station00_title">Freight depot 1</string>
+    <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
+    <string name="draft_train_freight_station01_title">Freight depot 2</string>
+    <string name="draft_train_freight_station02_title">Freight depot 3</string>
+    <string name="draft_train_freight_station03_title">Freight depot 4</string>
+    <string name="draft_train_freight_station04_title">Freight depot 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Small station</string>
+    <string name="draft_trainstation_prebuilt00_text">A small train station for local traffic only.</string>
+    <string name="draft_trainstation_prebuilt01_title">Station</string>
+    <string name="draft_trainstation_prebuilt01_text">A bigger train station for local traffic.</string>
+    <string name="draft_trainstation_prebuilt02_title">Big station</string>
+    <string name="draft_trainstation_prebuilt02_text">A big train station that serves local and long-distance traffic.</string>
+    <string name="draft_cat_train00_parts00_title">Parts</string>
+    <string name="draft_raildeco_crane00_title">Crane</string>
+    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
+    <string name="draft_raildeco_traincrossing00_title">Train Crossing</string>
+    <string name="draft_raildeco_traincrossing00_text">A Train Crossing for your railway.</string>
+    <string name="draft_raildeco_mast00_title">Overhead line mast</string>
+    <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
+    <string name="draft_raildeco_lights00_00_title">Traffic light</string>
+    <string name="draft_raildeco_lights00_00_text">A traffic light for your Railway</string>
+    <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
+    <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
+    <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
+    <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>

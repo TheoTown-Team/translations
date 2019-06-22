@@ -133,7 +133,7 @@
     <string name="gamemode_easy">Leicht</string>
     <string name="gamemode_hard">Schwer</string>
     <string name="gamemode_middle">Mittel</string>
-    <string name="gamemode_sandbox">Sandbox</string>
+    <string name="gamemode_sandbox">Developer Mode</string>
     <string name="game_infinitemoney">Freies Spiel</string>
     <string name="about_cmdback">Zurück</string>
     <string name="about_title">Credits</string>
@@ -671,7 +671,7 @@
     <string name="draft_railwaystation00_title">Hochbahnhof</string>
     <string name="draft_rail00_title">Hochbahn</string>
     <string name="draft_rail00_text">Schienen für eine Hochbahnstrecke.</string>
-    <string name="draft_railwaystation00_text">Ein Bahnhof für die Hochbahn. Dient zum Personentransport.</string>
+    <string name="draft_railwaystation00_text">Hochbahnen sind eine gute Möglichkeit um deine Straßen zu entlasten. Baue Haltestellen in verschiedenen Gebieten deiner Stadt und verbinde sie mit Schienen.</string>
     <string name="draft_school02_title">Kleine Grundschule</string>
     <string name="draft_school02_text">Eine kleine Schule für kleine Dörfer.</string>
     <string name="toolremove_zone_title">Zone entfernen</string>
@@ -797,9 +797,9 @@
     <string name="settings_experimental">Experimentelle Funktionen</string>
     <string name="about_thanks">Besonderen Dank an</string>
     <string name="about_community">Und die restliche Community</string>
-    <string name="dialog_tosandbox_title">Sandkastenmodus</string>
-    <string name="dialog_tosandbox_text">Stadt im Sandkastenmodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
-    <string name="dialog_tosandbox_cmdconvert">Sandkasten</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_text">Stadt im Entwicklermodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">Mindestens %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Beisetzungen: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Müllentsorgung: %1$,d/%2$,d</string>
@@ -882,7 +882,7 @@
     <string name="gamemode_easy_desc">Dies ist der einfachste Spielmodus. Du startest mit viel Geld und es ist insgesamt etwas einfacher.</string>
     <string name="gamemode_hard_desc">Du bist ein Pro in TheoTown? Dann ist dieser Modus genau der richtige für dich. Du startest mit wenig Geld und dir wird nichts geschenkt.</string>
     <string name="gamemode_middle_desc">Normaler Spielmodus. Du startest mit ausreichend Geld und solltest damit deine Traumstadt bauen können.</string>
-    <string name="gamemode_sandbox_desc">Keine Lust auf Herausforderung? In diesem Spielmodus kannst du ohne Geldsorgen bauen was du möchtest.</string>
+    <string name="gamemode_sandbox_desc">Experimenteller Spielmodus für Entwicklungszwecke.</string>
     <string name="game_ramaining_ffwd">%1$,d schnelle Tage verbleibend</string>
     <string name="dialog_ffwd_title">Schnelleres Spiel</string>
     <string name="dialog_ffwd_text">Spiel für %1$,d Tage schneller laufen lassen.</string>
@@ -965,14 +965,14 @@
     <string name="dialog_notenoughmoney_title">Nicht genug Geld</string>
     <string name="dialog_notenoughmoney_text">Wir haben nicht genug Geld um das zu kaufen.\n\nSollen wir die fehlenden %1$s sofort beschaffen?</string>
     <string name="notify_fullhospital">Dieses Krankenhaus ist nicht groß genug. Wir sollten noch eines bauen.</string>
-    <string name="dialog_rate_text">Dann bewerte uns bitte. Es dauert auch nur einen kurzen Moment.</string>
+    <string name="dialog_rate_text">Falls es dir gefällt, dann lass und bitte eine Bewertung da. Das würde uns sehr helfen.</string>
     <string name="dialog_rate_title">Gefällt dir TheoTown?</string>
-    <string name="dialog_rate_cmdcancel">Gefällt mir nicht</string>
+    <string name="dialog_rate_cmdcancel">Nein.</string>
     <string name="dialog_rate_cmdok">Gefällt mir</string>
-    <string name="dialog_feedback_title">Gib uns Feedback</string>
-    <string name="dialog_feedback_text">Du hast Ideen, was wir verbessern können? Dann lass es uns wissen.</string>
+    <string name="dialog_feedback_title">Deine Meinung</string>
+    <string name="dialog_feedback_text">Das tut uns leid. Wenn du Vorschläge zur Verbesserung hast, dann teile uns diese bitte mit.</string>
     <string name="dialog_feedback_cmdok">Feedback geben</string>
-    <string name="dialog_feedback_cmdcancel">Kein Feedback</string>
+    <string name="dialog_feedback_cmdcancel">Nein.</string>
     <string name="dialog_buildnow_title">Jetzt fertigstellen</string>
     <string name="dialog_buildnow_text">Möchtest du %1$,d Tage beim Bau überspringen?</string>
     <string name="draft_launch_rocket_title">Rakete abfeuern</string>
@@ -1061,27 +1061,27 @@
     <string name="tut_start02">Tippe auf den Bildschirm, um die Karte zu verschieben. Mit zwei Fingern kannst du sogar Zoomen.</string>
     <string name="tut_start03">Gut gemacht, ich denke das haben wir. Jetzt können wir so richtig loslegen.</string>
     <string name="tut_build00">Sieh mal, wie praktisch! Die Regierung hat hier bereits ein paar Straßen gebaut, die können wir kostenlos nutzen.</string>
-    <string name="tut_build01">Also gut, lass uns loslegen. Lege ein Wohngebiet fest, die potentiellen Einwohner kommen dann wie von selbst.</string>
-    <string name="tut_build02">Ergänzen wir noch etwas Straße. Gebäude werden nur mit Straßenanbindung errichtet.</string>
-    <string name="tut_build03">Jetzt warten wir ein bisschen und sehen zu, was passiert.</string>
-    <string name="tut_build030">Oh, was ist das, es scheint als bräuchte hier jemand Strom?!</string>
-    <string name="tut_build04">Selbstverständlich, wir haben ja bisher auch keine Energiequelle. Baue ein paar Solarzellen.</string>
-    <string name="tut_build05">Jetzt das Ganze mit Stromleitungen mit unserer zukünftigen Stadt verbinden.</string>
-    <string name="tut_build06">Das Bauen der Solarzellen dauert jetzt etwas. Du kannst den Bau beschleunigen, wenn du auf die Baustelle tippst.</string>
-    <string name="tut_build07">Gut, wir haben nun Strom. Sieht aber so aus, als bräuchten wir auch Wasser.</string>
-    <string name="tut_build08">Das ist nicht so schwierig, einfach einen Wasserturm platzieren.</string>
+    <string name="tut_build01">Los geht\'s! Lege ein Wohngebiet fest.</string>
+    <string name="tut_build02">Jetzt noch etwas Straße.</string>
+    <string name="tut_build03">Mal abwarten.</string>
+    <string name="tut_build030">Upps, jemand braucht Strom?!</string>
+    <string name="tut_build04">Baue ein paar Solarzellen.</string>
+    <string name="tut_build05">Jetzt mit der Stadt verbinden.</string>
+    <string name="tut_build06">Tippe auf die Solarzellen.</string>
+    <string name="tut_build07">Wasser wird ebenfalls benötigt.</string>
+    <string name="tut_build08">Baue einen Wasserturm.</string>
     <string name="tut_build09">Auch hier können wir den Bau - dieses Mal für ein paar Diamanten - beschleunigen.</string>
-    <string name="tut_build10">Wasser wird mittels Wasserröhren transportiert. Bauen wir für die Zukunft!</string>
-    <string name="tut_build11">Nun haben wir also Einwohner, Strom und Wasser. Irgendwas fehlt doch da noch…</string>
-    <string name="tut_build110">Bürgermeister, wir haben weder Arbeitsplätze, noch Möglichkeiten zum Shoppen!</string>
-    <string name="tut_build12">Ah, richtig. Wir brauchen auch noch Gewerbe- und Industriegebiete. Schauen wir mal nach, was gefragt ist.</string>
+    <string name="tut_build10">Baue Wasserleitungen.</string>
+    <string name="tut_build11">Sieht gut aus…</string>
+    <string name="tut_build110">Bürgermeister, wir haben keine Jobs!</string>
+    <string name="tut_build12">Sieh dir die Nachfrage an.</string>
     <string name="tut_build13">Hier siehst du die Nachfrage nach Wohn-, Gewerbe- und Industriegebäuden.</string>
-    <string name="tut_build14">Dabei gibt es für jeden dieser Typen drei Wohlstandslevel: Ͳ, ͲͲ und ͲͲͲ für arm bis reich.</string>
-    <string name="tut_build15">Natürlich wollen wir vor allem reiche Einwohner, aber das ist schwierig und muss daher warten.</string>
-    <string name="tut_build16">Wir haben gesehen, dass es Nachfrage nach Gewerbe gibt. Weise also ein Gewerbegebiet aus.</string>
-    <string name="tut_build17">Gut gemacht. Wie es scheint braucht es nun auch noch ein Industriegebiet. Du schaffst das!</string>
+    <string name="tut_build14">Es gibt drei Wohlstandslevel: Ͳ, ͲͲ und ͲͲͲ für arm bis reich.</string>
+    <string name="tut_build15">Reiche Einwohner zahlen mehr Steuern.</string>
+    <string name="tut_build16">Baue ein Gewerbegebiet.</string>
+    <string name="tut_build17">Jetzt noch ein Industriegebiet.</string>
     <string name="tut_build18">Man braucht ungefähr so viel Fläche für Gewerbe und Industrie zusammen, wie für Wohngebiete.</string>
-    <string name="tut_build19">Nun beschäftigen wir uns näher mit den Werkzeugen. Oh, sieh mal, eine Minimap!</string>
+    <string name="tut_build19">Oh, sieh mal, eine Minimap!</string>
     <string name="tut_build22">Einen Moment, es gibt da noch mehr…</string>
     <string name="tut_build23">Hier bekommst du einen allgemeinen Überblick über Eigenschaften deiner Stadt. Tippe auf den Stadtnamen, falls du sie umbenennen möchtest.</string>
     <string name="tut_build24">Das hier ist auch ein nützliches Werkzeug.</string>
@@ -1092,15 +1092,15 @@
     <string name="tut_build29">Verzeihung, dass ich unterbreche, aber neben diesen Spielereien gibt es auch noch wichtige Dinge! Geld beispielsweise.</string>
     <string name="tut_build30">Hier gebe ich dir einen Einblick über unsere Finanzen. Sieht gut aus. Wir verdienen Geld mittels Steuern, also brauchen wir mehr Einwohner.</string>
     <string name="tut_build31">Manchmal kann es nützlich sein, ein Darlehen aufzunehmen. Hoffentlich brauchen wir das nicht.</string>
-    <string name="tut_build32">Wir haben momentan genug Geld. Bauen wir lieber ein paar Parks, das gefällt den Leuten.</string>
-    <string name="tut_build33">Upps, das sind mehr Parks als ich eigentlich wollte. Bitte entferne wieder einen.</string>
-    <string name="tut_build34">Gute Arbeit soweit. Das sieht man auch in der Ranganzeige unserer Stadt.</string>
+    <string name="tut_build32">Baue ein paar Parks, das gefällt den Leuten.</string>
+    <string name="tut_build33">Zu viele! Bitte entferne wieder einen.</string>
+    <string name="tut_build34">Gute Arbeit soweit!</string>
     <string name="tut_build35">Vergrößere deine Stadt und löse Katastrophen, um im Rang aufzusteigen. Neue Ränge bedeuten neue Gebäude.</string>
     <string name="tut_build36">Bezüglich Katastrophen, diese werden leider passieren. Hier findest du Werkzeuge um Einsatzfahrzeuge zu steuern, wenn verfügbar.</string>
     <string name="tut_build37">Manchmal braucht man eine andere Sicht auf die Dinge. Dazu gibt es hier passendes Werkzeug.</string>
-    <string name="tut_present00">Ich habe dir erzählt, was ich weiß. Eine wichtige Sache noch: Es gibt Geschenke</string>
-    <string name="tut_present01">Du bekommst täglich eines gratis.</string>
-    <string name="tut_end00">Falls du auf der Suche nach einer tollen Gemeinschaft bist besuche uns doch einmal auf www.theotown.com</string>
+    <string name="tut_present00">Es gibt Geschenke!</string>
+    <string name="tut_present01">Du bekommst täglich eines.</string>
+    <string name="tut_end00">Du kannst mich jederzeit besuchen auf www.theotown.com oder in Discord.</string>
     <string name="tut_end01">Und jetzt, viel Spaß :)</string>
 
     <string name="featureselector_time">%1$s lang super schnelle Geschwindigkeit</string>
@@ -1135,7 +1135,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_feature_ranger00_title">Forsthaus</string>
     <string name="draft_feature_ranger00_text">Manchmal sollte man Bäume nachpflanzen, wenn die Umwelt zu verschmutzt ist. Das Forsthaus pflanzt Bäume automatisch.</string>
     <string name="draft_ranger00_title">Forsthaus</string>
-    <string name="draft_ranger00_text">Manchmal sollte man Bäume nachpflanzen, wenn die Umwelt zu verschmitzt ist. Dieses Forsthaus tut dies automatisch.</string>
+    <string name="draft_ranger00_text">Manchmal sollte man Bäume nachpflanzen, wenn die Umwelt zu verschmutzt ist. Das Forsthaus pflanzt Bäume automatisch.</string>
 
     <string name="ci_general_citypoints">Stadtpunkte: %1$s</string>
     <string name="settings_ringbuildindicator">Baufortschrittsanzeige</string>
@@ -1319,7 +1319,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="requirement_upgrade_invert">Kann nicht kombiniert werden mit %1$s</string>
     <string name="draft_deco_chr_present00_title">Geschenk</string>
     <string name="draft_deco_chr_present00_text">Einfach nur ein Geschenk. Du kannst es antippen.</string>
-    <string name="settings_touch_rotate">Drehen durch zwei Fingern</string>
+    <string name="settings_touch_rotate">Drehen durch zwei Finger</string>
     <string name="disaster_green_slime_title">Grüner Schleim</string>
     <string name="disaster_green_slime_text">Ein sich ausbreitender Schleim, der nach und nach Teile deiner Stadt verschlingt.</string>
     <string name="disaster_green_slime_cmdtext">Losschleimen</string>
@@ -1449,7 +1449,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_arcdetriomphe00_text">Der Arc de Triomphe in Paris ehrt diejenigen, die in der Französischen Revolution kämpften und dafür ihr Leben ließen.</string>
     <string name="featureselector_shortbuildtime">%1$s verkürzte Bauzeit</string>
     <string name="game_remaining_shortbuildtime">Verkürzte Bauzeit %s</string>
-    <string name="shop_open_features">Diamanten einsetzen</string>
+    <string name="shop_open_features">Shoppen</string>
     <string name="draft_feature_shortbuildingtime00_title">Verkürzte Bauzeit</string>
     <string name="draft_feature_shortbuildingtime00_text">Drastisch verkürzte Bauzeit für alle Gebäude.</string>
     <string name="dialog_shortbuildtime_title">Bauzeit Boost</string>
@@ -1754,5 +1754,353 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_roaddeco_border05_title">Straßenbeleuchtung</string>
     <string name="draft_roaddeco_border05_text">Obwohl es keine Nacht gibt, gibt es Straßenlampen. Seltsam.</string>
     <string name="draft_cat_roaddeco00_title">Straßendeko</string>
+
+
+    <string name="draft_feature_doubledincome00_title">Doppeltes Einkommen</string>
+    <string name="draft_feature_doubledincome00_text">Verdoppelt das Einkomen deiner Stadt.</string>
+    <string name="features_duration">Dauer %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Zebrastreifen</string>
+    <string name="draft_roaddeco_crosswalk00_text">Es ist gefährlich die Straße einfach so zu überqueren!</string>
+    <string name="draft_roaddeco_bumps00_title">Buckel</string>
+    <string name="draft_roaddeco_bumps00_text">Bremst den Verkehr aus.</string>
+    <string name="draft_fence00_title">Zaun</string>
+    <string name="draft_fence00_text">Ein einfacher Zaun.</string>
+    <string name="draft_fence01_title">Weißer Zaun</string>
+    <string name="draft_fence01_text">Es ist ein Zaun und er ist weiß.</string>
+    <string name="draft_jungletree00_title">Regenwald</string>
+    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+
+
+    <string name="draft_igloo00_title">Iglu</string>
+    <string name="draft_igloo00_text">Interessanterweise ist es in Iglus gar nicht soo kalt.</string>
+    <string name="features_more">Mehr Inhalte</string>
+    <string name="features_diamonds">Mehr Diamanten</string>
+
+
+    <string name="privacy_policy">Datenschutz</string>
+    <string name="dialog_privacy_title">Datenschutz</string>
+    <string name="dialog_privacy_text">Hi, wir arbeiten daran den Schutz Ihrer Daten zu verbessern und transparenter zu gestalten. Bitte nimm dir Zeit unsere Datenschutzrichtlinien zu lesen.</string>
+    <string name="dialog_privacy_cmdopen">Bestimmungen öffnen</string>
+    <string name="dialog_privacy_cmdlater">Später</string>
+    <string name="settings_drawzones">Zonen zeichnen</string>
+    <string name="draft_metrostation00_title">U-Bahnhof</string>
+    <string name="draft_metrostation00_text">Mittels eines U-Bahnhof lassen sich Stadtteile unterirdisch verbinden.</string>
+    <string name="draft_metroline00_title">U-Bahn Tunnel</string>
+    <string name="draft_metroline00_text">Man kann den Tunnel nicht sehen, und doch ist er da.</string>
+    <string name="feature_coming_soon">Kommt demnächst</string>
+    <string name="dialog_search_title">Suche</string>
+    <string name="dialog_search_text">Gib hier ein Suchwort ein.</string>
+    <string name="dialog_search_cmdok">Suchen</string>
+    <string name="dialog_search_cmdcancel">Abbrechen</string>
+    <string name="search_results_title">Suchergebnisse für \"%s\"</string>
+    <string name="draft_rail01_title">Urbane Hochbahnschienen</string>
+    <string name="draft_rail01_text">Hochbahngleise auf denen Züge schneller voran kommen.</string>
+    <string name="draft_nativerailwaystation01_title">Urbane Hochbahn</string>
+    <string name="draft_nativerailwaystation01_text">Eine kompakte Hochbahnhaltestellen für Innenstädte mit Platzmangel.</string>
+    <string name="settings_realmmres">Angepasste Minimapauflösung</string>
+    <string name="feature_coming_soon_fulfilled">Ein frühes Geschenk</string>
+
+
+    <string name="draft_tree_sakura00_title">Japanische Kirschblüten</string>
+    <string name="draft_tree_sakura00_text">Obwohl es sich um Kirschbäume handelt tragen diese hier keine Früchte.</string>
+    <string name="draft_circus00_title">Zirkus</string>
+    <string name="draft_circus00_text">Es ist Zeit für den Zirkus!</string>
+    <string name="draft_chrysler00_title">Chrysler Building</string>
+    <string name="draft_chrysler00_text">Dieses Gebäude kommt dir warhscheinlich bekannt vor. Das Chrysler Building in New Yor is wegen seines markenten Aussehens berühmt. 1930 fertig gestellt bestitzt das Gebäude eine Höhe von 319 metern.</string>
+    <string name="draft_greatpyramid00_text">Der Pyramidenkomplex in Gizeh ist das älteste der sieben Weltwunder der Antike. Die Cheops-Pyramide ist mit 139 metern die höchste der drei Pyramiden.</string>
+    <string name="draft_feature_landmarks04_text">Ein paar großartige Gebäude</string>
+
+
+    <string name="draft_roaddeco_barrier_open00_title">Schranke</string>
+    <string name="draft_roaddeco_barrier_open00_text">Antippen zum Schließen. Einfache Möglichkeit Staus zu erzeugen.</string>
+    <string name="selectable_find">Aufsuchen (%,d)</string>
+    <string name="gallery_upload_success">Erfolgreich hochgeladen</string>
+    <string name="gallery_upload_fail">Hochladen fehlgeschlagen</string>
+    <string name="draft_medic02_title">Kleines Krankenhaus</string>
+    <string name="draft_medic02_text">Ein kleines Krankenhaus bietet mehr Platz für Patienten als das Ärztezentrum.</string>
+    <string name="lang_pirate">Piratensprache</string>
+
+
+    <string name="draft_church10_title">Barockkirche</string>
+    <string name="draft_church10_text">Kirche und Kloster in einem. Wie praktisch.</string>
+    <string name="draft_roaddeco_construction00_title">Bagger</string>
+    <string name="draft_roaddeco_construction00_text">Ein Bagger mitten auf der Straße? Was kann da schon schiefgehen...</string>
+
+
+    <string name="infoline_freetunnels">%d Tunnel verbleibend</string>
+    <string name="buildinginfo_idletime">In Abwesenheit: %s</string>
+    <string name="dialog_wb_completed">Glückwunsch, seit deinem letzten Besuch wurden %d Gebäude fertig gestellt.</string>
+    <string name="draft_roaddeco_barrier01_title">Straßensperre</string>
+    <string name="draft_roaddeco_barrier01_text">Blockiert die ganze Straße.</string>
+    <string name="draft_roaddeco_construction01_title">Kiesberg</string>
+    <string name="draft_roaddeco_construction01_text">Ein Kiesberg darf auf keiner Baustelle fehlen.</string>
+    <string name="notification00_sandbox_title">Nachrichten: %1$s ist schön!</string>
+    <string name="notification00_sandbox_text">Bürgermeister, du kannst stolz auf dich sein!</string>
+    <string name="notification01_title">NEWS: %1$s ist einsam!</string>
+    <string name="notification01_text">Bitte komm zurück, Bürgermeister!</string>
+
+
+    <string name="shop_adreward">Gratis Diamanten</string>
+    <string name="draft_smallmetrostation00_title">U-Bahn Eingang</string>
+    <string name="draft_smallmetrostation00_text">Zutrittspunkt zu U-Bahntunnel. Für Züge wird U-Bahnhof benötigt.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Verkehrsinsel</string>
+    <string name="draft_roaddeco_trafficisland00_text">Für ein sicheres Überqueren der Straße.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Baustelle</string>
+    <string name="draft_roaddeco_buildingsite00_text">Achtung, Straßenarbeiten!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Ampel</string>
+    <string name="draft_roaddeco_trafficlights00_text">Sicherer als ein Fußgängerüberweg oder eine Verkehrsinsel.</string>
+
+
+    <string name="tool_removemetrotunnel_title">U-Bahntunnel entfernen</string>
+    <string name="tool_removemetrotunnel_text">Warum entfernen wenn man sie ohnehin nicht sieht?</string>
+
+
+    <string name="draft_windmill00_title">Alte Windmühle</string>
+    <string name="draft_windmill00_text">Eine alte holländische Windmühle für die Landschaft.</string>
+    <string name="draft_taxi_depot00_title">Taxidepot</string>
+    <string name="draft_taxi_depot00_text">Eine simple Form des öffentlichen Nahverkehrs.</string>
+    <string name="settings_showclosebutton">Schließenknopf im Spielmenü</string>
+    <string name="menu_closegame">Spiel beenden</string>
+    <string name="disaster_pickle_title">Gurke</string>
+    <string name="disaster_pickle_text">Eine Gurke.</string>
+    <string name="disaster_pickle_cmdtext">Gurke!</string>
+    <string name="draft_disaster_picklehuge00_title">Heilige Gurke</string>
+    <string name="draft_disaster_picklehuge00_text">Eine giganitsche, mutierte Gottgurke.</string>
+    <string name="draft_disaster_picklehuge01_title">Besiegte Gurke</string>
+    <string name="draft_disaster_picklehuge01_text">Ein etwas zu groß gewachsenes Gemüse. Kann zivilisierte Gurken erzeugen, welche die Straße benutzen.</string>
+
+
+    <string name="draft_discord_statue00_title">Discord Statue</string>
+    <string name="draft_discord_statue00_text">Eine außerordentlich hübsche Discord Statue.</string>
+    <string name="notify_discord_statue00_title">Vielen Dank!</string>
+    <string name="notify_discord_statue00_text">Danke für 3.000 Mitglieder in unserem Discord Server. Möchtest du jetzt vorbeischauen?</string>
+    <string name="draftselector_titlebodydisposal">Beerdigung</string>
+    <string name="draft_roaddeco_protester00_title">Fake Demonstration</string>
+    <string name="draft_roaddeco_protester00_text">Leute lassen sich für so ziemlich alles bezahlen.</string>
+    <string name="draft_roaddeco_riot00_title">Fake Aufstand</string>
+    <string name="draft_roaddeco_riot00_text">Ja, selbst dafür.</string>
+    <string name="draft_roaddeco_roundabout00_title">Kleiner Kreisel</string>
+    <string name="draft_roaddeco_roundabout00_text">Ein kleiner Kreisverkehr. Platziere ihn auf Kreuzungen.</string>
+    <string name="disaster_blizzard_title">Schneesturm</string>
+    <string name="disaster_blizzard_text">Der Winter naht!</string>
+    <string name="disaster_blizzard_cmdtext">Kalt!</string>
+    <string name="draft_snowtile00_title">Ewiges Eis</string>
+    <string name="draft_snowtile00_text">Wie war das mit der Klimaerwärmung?</string>
+    <string name="gamemode_free_title">Frei</string>
+    <string name="gamemode_free_text">Keine Lust auf Spielgeld? In diesem Spielmodus gibt es weder Geld noch Ansprüche.\nErreiche Rang 64 in einer regulären Stadt um diesen Modus permanent freizuschalten.</string>
+    <string name="dialog_free_title">Freier Spielmodus</string>
+    <string name="dialog_free_text">Du hast den freien Spielmodus ausgewählt.\n
+Vorteile: Kein Geld, keine Voraussetzungen, Kontrolle über Nachfrage\n
+Nachtteile: Langweilig</string>
+    <string name="draft_medic03_title">Modernes Krankenhaus</string>
+    <string name="draft_medic03_text">Ein modernes Krankenhaus kann mehr Patienten auf kleinerer Fläche behandeln.</string>
+    <string name="draft_gol_dead_title">Spiel des Lebens</string>
+    <string name="draft_gol_dead_text">Erstelle ein Spielfeld. Tippe einzelne Felder an um ihren Zustand zu wechseln.</string>
+
+
+    <string name="draft_coittower00_title">Coit Tower</string>
+    <string name="draft_coittower00_text">Der Coit Tower wurde 1933 errichtet und ist einem freiwilligen Feuerwehrmann gewidmet, der bei einem großen Feuer verstarb.</string>
+    <string name="draft_bankofamerica00_title">Bank of America Center</string>
+    <string name="draft_bankofamerica00_text">Ein 52 stöckiger Wolkenkratzer mit 237m Höhe in San Francisco, Kalifornien.</string>
+    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
+    <string name="draft_transamerica00_text">Dieses Wahrzeichen von San Francisco ist ein 260m hoher Wolkenkratzer. Dieser wurde 1972 fertiggestellt und beherbergt zahlreiche Finanzdienstleister.</string>
+    <string name="draft_feature_landmarks05_text">Hol dir berühmte Gebäude aus San Francisco.</string>
+    <string name="dialog_cemeteryclear_title">Jetzt leeren</string>
+    <string name="dialog_cemeteryclear_text">Ich denke wir können etwas Platz wiederverwenden.</string>
+    <string name="cemetery_cmdclear">Jetzt leeren</string>
+    <string name="cemetery_clear">WISCHE um Platz frei zu geben.</string>
+    <string name="draft_cemetery00_text">Hier werden die Überreste Verstorbener begraben. Ruhen sie in Frieden.</string>
+    <string name="draft_crematory00_text">Leichen werden hier verbrannt.</string>
+    <string name="notify_bodydisposal_needer00">Bürgermeister, ich bitte Sie einen Friedhof für unsere Verstorbenen zu bauen.</string>
+    <string name="notify_bodydisposal_producer00">Dieser Friedhof ist voll. Leere ihn oder baue einen neuen.</string>
+    <string name="draft_halloween_pumpkin00_title">Kürbis</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween is nah! Jeder mag Kürbise, nicht?</string>
+    <string name="draft_halloween_tree00_title">Toter Baum</string>
+    <string name="draft_halloween_tree00_text">Ein gespenstischer toter Baum, wie er gerne in Gruselgeschichten Verwendet wird.</string>
+    <string name="draft_feature_landmarks04_title">Wahrzeichen V</string>
+    <string name="draft_feature_landmarks05_title">Wahrzeichen VI</string>
+    <string name="draft_marker_hackedmarkermarker_title">DIESE VERSION WURDE GEHACKT!</string>
+
+
+    <string name="settings_dedicatedplugintexture">Mehr Platz für Plugins (benötigt Neustart; möglicherweise instabil)</string>
+    <string name="draft_haunted_house00_title">Spukhaus</string>
+    <string name="draft_haunted_house00_text">Eine alte, verlassene Villa. Sie sieht sehr düster aus; Vielleicht lebt ES hier.</string>
+    <string name="notify_illness">Wir haben einen Krankheitsausbruch. Schicken Sie den Krankenwagen!</string>
+    <string name="notify_illnessnomedic">Eine Krankheit ist am ausbrechen. Wir brauchen ein Krankenhaus, sofort!</string>
+
+
+    <string name="shader_lol">LOL</string>
+    <string name="settings_hugeplugintexture">Glückwunsch, eine riesige Textur ist aktiv.</string>
+    <string name="draft_tree00_autumn00_title">Herbstbäume</string>
+    <string name="draft_tree00_autumn00_text">Absterbende Blätter können so schön aussehen.</string>
+    <string name="settings_handintoolbar">Zeige Hand in Toolbar</string>
+    <string name="draft_bushman00_title">Statue von Buschmann</string>
+    <string name="draft_bushman00_text">\"Mama, was ist das?\"\n\"Schau es nicht an, sonst wird es dich in deinen Träumen verfolgen.\"</string>
+    <string name="draft_police03_title">Moderne Polizei.</string>
+    <string name="draft_police03_text">Eine Investition in eine große Polizeiwache löst Probleme mit Kiminalität großflächig..</string>
+    <string name="draft_sf_cityhall00_title">Rathaus</string>
+    <string name="draft_sf_cityhall00_text">Ein Rathaus inspiriert vom Rathaus von San Francisco.</string>
+    <string name="draft_sf_fineartspalace00_title">Palast der Künste</string>
+    <string name="draft_sf_fineartspalace00_text">Das Palace of Fine Arts in San Francisco, California, ist ein monumentales Gebäude das 1915 für die Panama-Pacific International Exposition errichtet wurde.</string>
+    <string name="shader_invert">Invertiert</string>
+
+
+    <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
+    <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
+    <string name="store_authorby">von %s</string>
+    <string name="store_downloads">%,d Downloads</string>
+    <string name="store_acquire">Download</string>
+    <string name="store_downlaod">Download</string>
+    <string name="store_downloaded">Heruntergeladen</string>
+    <string name="dialog_storedownlaod_title">Download</string>
+    <string name="dialog_storedownload_text">Möchtest du %s herunterladen?</string>
+    <string name="dialog_storerestart_title">Restart</string>
+    <string name="dialog_storerestart_text">Änderungen an Plugins werden erst nach einem Neustart aktiv.\n\nMöchtest du das Spiel jetzt neustarten?</string>
+    <string name="dialog_storerestart_cmdrestart">Neustarten</string>
+    <string name="store_status_notacquired">Nicht erworben</string>
+    <string name="store_status_downloading">Downloading</string>
+    <string name="store_status_downloaderror">Fehler: </string>
+    <string name="store_status_acquired">Erworben</string>
+    <string name="store_status_newlyinstalled">Neu installiert</string>
+    <string name="store_status_running">Läuft</string>
+    <string name="store_status_notrunning">Läuft nicht</string>
+    <string name="store_status_newversioninstalled">Neue Version installiert</string>
+    <string name="store_status_availupdate">Update verfügbar</string>
+    <string name="store_status_restartrequired">Warte auf Neustart</string>
+    <string name="store_active">Aktiv</string>
+    <string name="store_notactive">Inaktiv</string>
+    <string name="store_fetchfailed">Netzwerkfehler</string>
+    <string name="store_modeexplore">Erkunden</string>
+    <string name="store_modeinstalled">Heruntergeladen</string>
+    <string name="draft_feature_freefastspeed00_title">Unbegrenzt Schnelles Spieltempo</string>
+    <string name="draft_feature_freetunnels00_title">Unbegrenzte Tunnel</string>
+    <string name="dialog_storedelete_title">Löschen</string>
+    <string name="dialog_storedelete_text">Bist du sicher, dass du dieses Plugin löschen möchtest?</string>
+    <string name="dialog_storedelete_cmddelete">Löschen</string>
+    <string name="store_modefeatured">Empfehlung</string>
+    <string name="store_modecategory">Kategorie</string>
+    <string name="store_shorttitle">Plugins</string>
+    <string name="gamemenu_catcity">Stadt</string>
+    <string name="gamemenu_catcontent">Inhalte</string>
+    <string name="gamemenu_catsocial">Social</string>
+    <string name="gamemenu_catpictures">Bilder</string>
+    <string name="gamemenu_catother">Sonstiges</string>
+    <string name="store_catcount">%,d Plugins</string>
+    <string name="store_featured">Empfehlung</string>
+
+
+    <string name="dialog_storereport_title">Plugin melden</string>
+    <string name="dialog_storereport_text">Bitte gib einen Grund ein, warum du \"%s\" melden möchtest:</string>
+    <string name="dialog_storereport_cmdreport">Melden</string>
+    <string name="dialog_storereported_title">Plugin gemeldet</string>
+    <string name="dialog_storereported_text">Danke für dein Feedback! Wir werden das Plugin überprüfen und dann entscheiden, wie wir weiter vorgehen.</string>
+
+
+    <string name="store_ratings">%,d Bewertungen</string>
+    <string name="store_loadingerror">Fehler</string>
+    <string name="dialog_storeerror_title">Ladefehler</string>
+    <string name="dialog_storeerror_text">Beim Laden des Plugins trat folgender Fehler auf:</string>
+    <string name="store_new">Neu und Aktualisiert</string>
+    <string name="draft_cat_plugins00_title">Plugins</string>
+    <string name="dialog_storesearch_title">Plugin suchen</string>
+    <string name="dialog_storesearch_text">Gib ein Suchwort ein:</string>
+    <string name="dialog_storesearch_cmdsearch">Suchen</string>
+
+
+    <string name="draft_deco_chr_santashouse00_title">Haus vom Weihnachtsmann</string>
+    <string name="draft_deco_chr_santashouse00_text">Die Basis vom Weihnachtsmann. Von hier aus verteilt er die Geschenke.</string>
+
+
+    <string name="store_previouslyinstalled">Entfernt</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
+    <string name="draft_rails00_title">Schienen</string>
+    <string name="draft_rails00_text">Wird von Zügen befahren.</string>
+    <string name="draft_rails00oneway00_title">Einweg Schienen</string>
+    <string name="draft_rails00oneway00_text">Wird von Zügen befahren, jedoch nur in eine Richtung.</string>
+    <string name="specialoffer_cmdbuy">Kaufen für %s</string>
+    <string name="influence_body_disposal_title">Bestattung</string>
+    <string name="influence_body_disposal_text">Ruhe für die Toten.</string>
+    <string name="influence_traffic_title">Verkehr</string>
+    <string name="influence_traffic_text">Einwohner mögen den von Verkehr verursachten Lärm und die Verschmuztung nicht.</string>
+    <string name="ci_neighbor_wastedisposal">Müllentsorgung</string>
+    <string name="ci_neighbor_bodydisposal">Bestattungsservice</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="bodydisposal_transport">%1$,d/d</string>
+    <string name="draft_cat_elevatedtrain00_title">Hochbahn</string>
+    <string name="draft_cat_metro00_title">U-Bahn</string>
+    <string name="draft_cat_tree00_title">Pflanzen</string>
+    <string name="draft_railroof00_title">Dach</string>
+    <string name="draft_railroof00_text">Dach für Schienen wie es in Bahnhöfen zum Einsatz kommt.</string>
+    <string name="draft_trainplatform00_title">Bahnsteig 1</string>
+    <string name="draft_trainplatform00_text">Ein Bahnsteig. Hat dekorativen Charakter.</string>
+    <string name="draft_trainplatform01_title">Bahnsteig 2</string>
+    <string name="draft_trainplatform02_title">Bahnsteig 3</string>
+    <string name="draft_trainplatform03_title">Bahnsteig 4</string>
+    <string name="draft_trainplatform04_title">Bahnsteig 5</string>
+    <string name="draft_trainplatform05_title">Bahnsteig 6</string>
+    <string name="draft_trainplatform06_title">Bahnsteig 7</string>
+    <string name="draft_trainplatform07_title">Bahnsteig 8</string>
+    <string name="draft_trainstation00_title">Nahverkehrsbahnsteig</string>
+    <string name="draft_trainstation00_text">Ein Bahnsteig der nur von Nahverkehrszügen genutzt wird.</string>
+    <string name="draft_trainstation01_title">Fernverkehrsbahnsteig</string>
+    <string name="draft_trainstation01_text">Ein Bahnsteig für den Fernverkehr.</string>
+    <string name="draft_train_freight_station00_title">Güterbahnhof 1</string>
+    <string name="draft_train_freight_station00_text">Ein dekorativer Bahnsteig für Güterzüge.</string>
+    <string name="draft_train_freight_station01_title">Güterbahnhof 2</string>
+    <string name="draft_train_freight_station02_title">Güterbahnhof 3</string>
+    <string name="draft_train_freight_station03_title">Güterbahnhof 4</string>
+    <string name="draft_train_freight_station04_title">Güterbahnhof 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Kleiner Bahnhof</string>
+    <string name="draft_trainstation_prebuilt00_text">Ein kleiner Bahnhof für den Nahverkehr.</string>
+    <string name="draft_trainstation_prebuilt01_title">Bahnhof</string>
+    <string name="draft_trainstation_prebuilt01_text">Ein großer Bahnhof für den Nahverkehr.</string>
+    <string name="draft_trainstation_prebuilt02_title">Hauptbahnhof</string>
+    <string name="draft_trainstation_prebuilt02_text">Ein großer Bahnhof der von Nah- und Fernverkehrszügen benutzt wird.</string>
+    <string name="draft_cat_train00_parts00_title">Einzelteile</string>
+    <string name="draft_raildeco_crane00_title">Krahn</string>
+    <string name="draft_raildeco_crane00_text">Ein Krahn für ein Einsatz auf Güterbahnhöfen.</string>
+    <string name="draft_raildeco_traincrossing00_title">Bahnübergang</string>
+    <string name="draft_raildeco_traincrossing00_text">Ein Bahnübergang für Krezungen mit Straße.</string>
+    <string name="draft_raildeco_mast00_title">Oberleitung</string>
+    <string name="draft_raildeco_mast00_text">Eine Oberleitung versorgt Züge mit Strom. Lässt Züge schneller fahren.</string>
+    <string name="draft_raildeco_lights00_00_title">Bahnsignale</string>
+    <string name="draft_raildeco_lights00_00_text">Regeln den Zugverkehr.</string>
+    <string name="draft_trainstation_prebuilt10_title">Güterbahnhof</string>
+    <string name="draft_trainstation_prebuilt10_text">Ein kleiner Bahnhof für Industriegüter.</string>
+    <string name="draft_trainstation_prebuilt11_title">Großer Güterbahnhof</string>
+    <string name="draft_trainstation_prebuilt11_text">Ein großer Bahnhof für viele Industriegüter.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">Neuigkeiten über deine Stadt.</string>
+    <string name="settings_fullscreen">Vollbild</string>
+    <string name="control_help">Hilfe</string>
+    <string name="settings_scrolledges">Kantenscrolling</string>
+    <string name="dialog_rate_cmdlater">Später</string>
+    <string name="region_individualcities">Einzelstädte</string>
+    <string name="draft_redwood_tree00_title">Mammutbaum</string>
+    <string name="draft_redwood_tree00_text">Eine sehr alte Baumart die unter Anderem in Nationalparks in Amerika vorkommt.</string>
+    <string name="buildinginfo_daysbuilt">Gebaut: vor %1$,d Tag(en)</string>
+    <string name="createcity_terrain">Berge</string>
+    <string name="draft_tool_terrain_increase00_title">Erhöhen</string>
+    <string name="draft_tool_terrain_increase00_text">Erhöht das Terrain für die Erstellung von Bergen.</string>
+    <string name="draft_tool_terrain_lower00_title">Senken</string>
+    <string name="draft_tool_terrain_lower00_text">Senkt das Terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Plattform</string>
+    <string name="draft_tool_terrain_platform00_text">Bringt das Terrain innerhalb eines Radius auf eine Höhe.</string>
+    <string name="draft_cat_hills00_title">Berge</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Maut</string>
+    <string name="draft_tollbooth00_title">Mautstelle</string>
+    <string name="draft_tollbooth00_text">Eine Mautstelle kann dir Geld einbringen, ist jedoch äußerst unbeliebt bei den Einwohnern.</string>
+    <string name="notification02_title">Eingreifen empfohlen</string>
+    <string name="notification02_text">Jemand muss sich um die Entwicklung von %1$s kümmern!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Bitte Bürgermeister, komm zurück!</string>
+    <string name="settings_fontscaling">Textgröße</string>
+    <string name="settings_fontscaling_small">Klein</string>
+    <string name="settings_fontscaling_medium">Normal</string>
+    <string name="settings_fontscaling_big">Groß</string>
+    <string name="pluginerror_disable">Deaktivieren</string>
 
 </resources>
