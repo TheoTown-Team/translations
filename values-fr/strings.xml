@@ -450,7 +450,7 @@
     <string name="tutorial_buildcommercial_a">Continuez avec une zone commerciale. Des commerces vont être construits ici.</string>
     <string name="tutorial_buildcommercial_b">Placez la zone sur les marqueurs.</string>
     <string name="tutorial_buildcommercial_c">Bien joué.</string>
-    <string name="tutorial_buildindustrial_a">Le dernier mais pas des moindres, les zone industrielles. C\est ici que vont se construire les usines.</string>
+    <string name="tutorial_buildindustrial_a">Le dernier mais pas des moindres, les zone industrielles. C\'est ici que vont se construire les usines.</string>
     <string name="tutorial_buildindustrial_b">Placez la zone sur les marqueurs.</string>
     <string name="tutorial_buildindustrial_c">Bravo. Maintenant, les bâtiments vont se consrtuire.</string>
     <string name="tutorial_industrial_keepaway">Vous devriez garder les zones industrielles éloignées des autres zones à cause du bruit et de la pollution.</string>
@@ -768,8 +768,8 @@
     <string name="settings_experimental">Fonctionnalités expérimentales</string>
     <string name="about_thanks">Remerciements spéciaux à</string>
     <string name="about_community">Et au reste de notre communauté</string>
-    <string name="dialog_tosandbox_cmdconvert">Bac à Sable</string>
-    <string name="dialog_tosandbox_title">Mode Bac à Sable</string>
+    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Developer Mode</string>
     <string name="dialog_tosandbox_text">Convertir la ville en mode Bac à Sable?\n\nMachine arrière impossible!</string>
     <string name="requirement_rank">Au moins %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Enterrements: %1$,d/%2$,d</string>
@@ -976,65 +976,65 @@
     <string name="dialog_feedback_cmdcancel">Je n\'ai rien à dire</string>
     <string name="dialog_buildnow_title">Terminer maintenant</string>
     <string name="dialog_buildnow_text">Voulez vous avancer la construction de %1$,d jours?</string>
-    <string name="draft_launch_rocket_title">Launch rocket</string>
+    <string name="draft_launch_rocket_title">Lancer la roquette !</string>
     <string name="draft_decoconstruction00_title">Construction</string>
-    <string name="draft_decoconstruction00_text">Some construction decorations.</string>
-    <string name="draft_mltry_deco00_title">Military decoration</string>
-    <string name="draft_mltry_deco00_text">Decorations for your military base.</string>
-    <string name="shader_smooth">Smooth</string>
-    <string name="topic_dumbledore">Dumbledore wouldn\'t let this happen.</string>
-    <string name="draft_mltry_missilesilo00_title">Missile silo</string>
-    <string name="draft_feature_military00_text">Build your own military base to protect your city. Includes an ufo disaster.</string>
-    <string name="dialog_smooth_title">Smooth graphics</string>
-    <string name="dialog_smooth_text">Science! We found a solution to improve game resolution. Would you like to use it?\n\nThis can be changed in the settings any time.</string>
-    <string name="budget_military">Military</string>
-    <string name="draftselector_monthlyincome">Monthly income: %s</string>
-    <string name="draft_decosmallmountain00_title">Small mountain</string>
-    <string name="draft_feature_mountain00_title">Small mountain</string>
-    <string name="draft_zonemilitary_text">Military buildings may only be placed within this zone.</string>
-    <string name="draft_mltry_road00_text">A road dedicated to military vehicles and emergency cars. You might not build other roads in military area.</string>
-    <string name="draft_mltry_hq00_text">The headquarters is the most important building of your military base.</string>
-    <string name="draft_mltry_baracks00_text">Soldiers live here.</string>
-    <string name="draft_mltry_depot00_text">Depot for any military stock.</string>
-    <string name="draft_mltry_tankbase00_text">Depot for heavy military vehicles.</string>
-    <string name="draft_mltry_rocketlauncher00_text">Can be used to shoot UFOs. May not be used to shoot civil buildings or vehicles.</string>
-    <string name="draft_mltry_missilesilo00_text">The government would like to do some rocket testing in your town. As this may lead to disasters you get a compensation for the risk.</string>
-    <string name="draft_decosmallmountain00_text">This small mountain is a tourist attraction in this mostly flat land.</string>
-    <string name="draft_feature_mountain00_text">This small mountain is a tourist attraction in this mostly flat land.</string>
-    <string name="dialog_connect_title">Connect to neighbor</string>
-    <string name="dialog_connect_text">Do you want to establish a connection to the outside?</string>
-    <string name="menu_hideui">Hide UI</string>
-    <string name="ci_neighbor_title">Neighborhood commercial</string>
-    <string name="ci_neighbor_notavailable">Not available at the moment</string>
-    <string name="ci_neighbor_import">Import</string>
-    <string name="ci_neighbor_export">Export</string>
+    <string name="draft_decoconstruction00_text">Quelques décorations de construction.</string>
+    <string name="draft_mltry_deco00_title">Décorations militaires</string>
+    <string name="draft_mltry_deco00_text">Décorations pour votre base militaire.</string>
+    <string name="shader_smooth">Lisse</string>
+    <string name="topic_dumbledore">Dumbledore ne laisserait pas ça arriver.</string>
+    <string name="draft_mltry_missilesilo00_title">Silo à missiles</string>
+    <string name="draft_feature_military00_text">Construisez une base militaire pour renforcer la protection de votre ville. Inclus les attaques d\'OVNI.</string>
+    <string name="dialog_smooth_title">Graphiques lisses</string>
+    <string name="dialog_smooth_text">Science! Nous avons trouver une solution pour améliorer la résolution. Voulez vous l\'utiliser?\n\nVous pouvez la changer dans les paramètres quand vous le souhaitez.</string>
+    <string name="budget_military">Militaire</string>
+    <string name="draftselector_monthlyincome">Revenus mensuel: %s</string>
+    <string name="draft_decosmallmountain00_title">Petite montagne</string>
+    <string name="draft_feature_mountain00_title">Petite montagne pour rajouter du relief à votre ville</string>
+    <string name="draft_zonemilitary_text">Les bâtiments militaires doivent être placé dans sa zones seulement.</string>
+    <string name="draft_mltry_road00_text">Une route pour les véhicules militaires et les véhicules d\'urgence. Impossible de construire d\'autre route dans le zone militaire.</string>
+    <string name="draft_mltry_hq00_text">Le quartier général est le bâtiment le plus important de la base militaire.</string>
+    <string name="draft_mltry_baracks00_text">Habitations pour les soldats.</string>
+    <string name="draft_mltry_depot00_text">Depot for pour les stocks militaire.</string>
+    <string name="draft_mltry_tankbase00_text">Depot pour les véhicules militaires.</string>
+    <string name="draft_mltry_rocketlauncher00_text">A utiliser contre les OVNI. Ne peut pas être utiliser sur les véhicules et les habitations.</string>
+    <string name="draft_mltry_missilesilo00_text">Le gouvernement aime bien faire des tests avec les rockets.</string>
+    <string name="draft_decosmallmountain00_text">Cette montagne est plutôt un bon divertissement pour un monde plat.</string>
+    <string name="draft_feature_mountain00_text">Cette montagne est plutôt un bon divertissement pour un monde plat.</string>
+    <string name="dialog_connect_title">Pour se connecter avec les voisins</string>
+    <string name="dialog_connect_text">Voulez-vous établir un connection avec l\'extérieur ?</string>
+    <string name="menu_hideui">Cacher l\'UI</string>
+    <string name="ci_neighbor_title">Quartier commercial</string>
+    <string name="ci_neighbor_notavailable">Pas disponible pour le moment</string>
+    <string name="ci_neighbor_import">Importer</string>
+    <string name="ci_neighbor_export">Exporter</string>
     <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
-    <string name="ci_neighbor_power">Power</string>
-    <string name="ci_neighbor_water">Water</string>
-    <string name="dialog_buy_free">For free</string>
-    <string name="notify_missiledisaster">Oops...I\'m afraid our last rocket test issued a galactic disaster.</string>
-    <string name="notification00_title">NEWS: %1$s has too much money!</string>
-    <string name="notification00_text">Mayor, we need you to spend all the money!</string>
-    <string name="roadinfo_bridgetype">Bridge type</string>
-    <string name="draft_feature_buildings01_text">Big residential, commercial and industrial buildings for more variety in the city. Boosts living standard of your inhabitants.</string>
-    <string name="dialog_diamondshop_recommended">Recommended</string>
-    <string name="dialog_presentdaily_title">Daily delivery</string>
-    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
-    <string name="dialog_presentdaily_day">Day %1$,d</string>
-    <string name="rank_needed_xp">At least %1$,d city points needed</string>
-    <string name="settings_shortmoney">Abbreviate money</string>
-    <string name="dialog_newsign_title">New label</string>
-    <string name="dialog_newsign_text">Enter a name for this area.</string>
-    <string name="dialog_editsign_title">Edit label</string>
-    <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
-    <string name="dialog_editsign_delete">Delete</string>
-    <string name="draft_sign_tool_title">Label</string>
-    <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
-    <string name="draft_feature_deco00_title">Plaza Decorations</string>
-    <string name="draft_feature_deco00_text">Some decorations for your commercial area.</string>
-    <string name="draft_feature_slowspeed00_title">Slow speed</string>
-    <string name="draft_feature_slowspeed00_text">A slower speed mode which gives you more control for certain situations.</string>
+    <string name="ci_neighbor_power">Électricité</string>
+    <string name="ci_neighbor_water">Eau</string>
+    <string name="dialog_buy_free">Gratuit</string>
+    <string name="notify_missiledisaster">Oups...je j\'ai lancer un rockete sur votre ville.</string>
+    <string name="notification00_title">INFO: %1$s à trop d\'argent!</string>
+    <string name="notification00_text">Monsieur le maire, ont doit dépenser toute l\'argent!</string>
+    <string name="roadinfo_bridgetype">type de pont</string>
+    <string name="draft_feature_buildings01_text">Gros Batiment résidensiel, commercial et des batiment résidentiel pour plus de variété dans votre ville. Booster vos habitants pauvre!.</string>
+    <string name="dialog_diamondshop_recommended">Recommendé</string>
+    <string name="dialog_presentdaily_title">Livraison quotidienne</string>
+    <string name="dialog_presentdaily_text">=vous en aurez plus demain!.</string>
+    <string name="dialog_presentdaily_day">Jour %1$,d</string>
+    <string name="rank_needed_xp">au moins %1$,d de points de ville recomendé</string>
+    <string name="settings_shortmoney">Abréger de l\'argent</string>
+    <string name="dialog_newsign_title">Nouveau panneau</string>
+    <string name="dialog_newsign_text">Entrer un nom pour cet endroit.</string>
+    <string name="dialog_editsign_title">Modifiez le panneaux</string>
+    <string name="dialog_editsign_text">Enter un nouveaux text pour votre panneaux ou supprimer le.</string>
+    <string name="dialog_editsign_delete">Supprimer</string>
+    <string name="draft_sign_tool_title">Panneaux</string>
+    <string name="draft_sign_tool_text">créer, modifiez et supprimez les panneaux avec cet outils.</string>
+    <string name="draft_feature_deco00_title">Décoration pour Plaza</string>
+    <string name="draft_feature_deco00_text">Quelque décorations pour vos endroit commerciaux.</string>
+    <string name="draft_feature_slowspeed00_title">Vitesse Lente</string>
+    <string name="draft_feature_slowspeed00_text">.</string>une vitesse plus lente qui vous donne le control pour certaine situations.
     <string name="buildinginfo_patrol">Patrol</string>
     <string name="draft_beach_gnd00_title">Sand</string>
     <string name="draft_beach_gnd00_text">Just some sand. Also used for beaches.</string>
@@ -1463,7 +1463,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
     <string name="dialog_wb_text02">Would you like to collect what %1$s earned while you were absent?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Take it</string>
-    <string name="dialog_wb_cmdforfeit">Forfeit</string>
+    <string name="dialog_wb_cmdforfeit">Forf0eit</string>
     <string name="dialog_diamondtool_title">Finish construction</string>
     <string name="dialog_diamondtool_text">Shall we build that?</string>
     <string name="draft_feature_valentinesday00_title">Happy Valentine\'s Day</string>
@@ -1759,5 +1759,357 @@ If you provide TheoTown access to external storage, it will save cities in the d
 
 
     <string name="draft_cat_roaddeco00_title">Road decoration</string>
+
+
+    <string name="draft_feature_doubledincome00_title">Doubled income</string>
+    <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
+    <string name="features_duration">Duration %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
+    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
+    <string name="draft_roaddeco_bumps00_title">Bumps</string>
+    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
+    <string name="draft_fence00_title">Fence</string>
+    <string name="draft_fence00_text">Just a simple fence.</string>
+    <string name="draft_fence01_title">White fence</string>
+    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+
+
+    <string name="draft_jungletree00_title">Jungle tree</string>
+    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+
+
+    <string name="draft_igloo00_title">Igloo</string>
+    <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
+    <string name="features_more">More content</string>
+    <string name="features_diamonds">Get diamonds</string>
+
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="dialog_privacy_title">Privacy Policy</string>
+    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
+    <string name="dialog_privacy_cmdopen">Open Policy</string>
+    <string name="dialog_privacy_cmdlater">Got it</string>
+    <string name="settings_drawzones">Draw zones</string>
+    <string name="draft_metrostation00_title">Metro station</string>
+    <string name="draft_metrostation00_text">A station to access metro.</string>
+    <string name="draft_metroline00_title">Metro tunnel</string>
+    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
+    <string name="feature_coming_soon">Coming soon</string>
+    <string name="dialog_search_title">Search</string>
+    <string name="dialog_search_text">Enter a search keyword below.</string>
+    <string name="dialog_search_cmdok">Search</string>
+    <string name="dialog_search_cmdcancel">Cancel</string>
+    <string name="search_results_title">Search results for \"%s\"</string>
+    <string name="draft_rail01_title">Urban Railway</string>
+    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
+    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
+    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
+    <string name="settings_realmmres">Real minimap resolution</string>
+    <string name="feature_coming_soon_fulfilled">An early gift</string>
+
+
+    <string name="draft_tree_sakura00_title">Cherry blossom</string>
+    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
+    <string name="draft_circus00_title">Circus</string>
+    <string name="draft_circus00_text">It\'s time for circus!</string>
+    <string name="draft_chrysler00_title">Chrysler Building</string>
+    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
+    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
+    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
+
+
+    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
+    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
+    <string name="selectable_find">Find (%,d)</string>
+    <string name="gallery_upload_success">Success</string>
+    <string name="gallery_upload_fail">Upload failed</string>
+    <string name="draft_medic02_title">Small hospital</string>
+    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
+    <string name="lang_pirate">Pirate</string>
+
+
+    <string name="draft_church10_title">Baroque Church</string>
+    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
+    <string name="draft_roaddeco_construction00_title">Backhoe</string>
+    <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
+
+
+    <string name="infoline_freetunnels">%d tunnels left</string>
+    <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
+    <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
+    <string name="draft_roaddeco_barrier01_title">Barricades</string>
+    <string name="draft_roaddeco_barrier01_text">Can be used to barricade the road.</string>
+    <string name="draft_roaddeco_construction01_title">Gravel mountains</string>
+    <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
+
+
+    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
+    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
+    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
+    <string name="notification01_text">Mayor, please come back!</string>
+
+
+    <string name="shop_adreward">Free diamonds</string>
+    <string name="draft_smallmetrostation00_title">Metro access point</string>
+    <string name="draft_smallmetrostation00_text">A station to access the metro. For trains you have to build a metro station.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Traffic island</string>
+    <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Building site</string>
+    <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Traffic light</string>
+    <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
+
+
+    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
+    <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
+
+
+    <string name="draft_windmill00_title">Old Dutch Windmill</string>
+    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
+    <string name="draft_taxi_depot00_title">Taxi depot</string>
+    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
+    <string name="settings_showclosebutton">Close button in game menu</string>
+    <string name="menu_closegame">Exit game</string>
+    <string name="disaster_pickle_title">Pickle</string>
+    <string name="disaster_pickle_text">Pickle.</string>
+    <string name="disaster_pickle_cmdtext">Pickle!</string>
+    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
+    <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
+    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
+    <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
+
+
+    <string name="draft_discord_statue00_title">Discord statue</string>
+    <string name="draft_discord_statue00_text">Discord statue.</string>
+    <string name="notify_discord_statue00_title">Thank you!</string>
+    <string name="notify_discord_statue00_text">Thank you for 3,000 members on our Discord server. Do you want to visit it now?</string>
+    <string name="draftselector_titlebodydisposal">Funeral</string>
+    <string name="draft_roaddeco_protester00_title">Fake protesters</string>
+    <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
+    <string name="draft_roaddeco_riot00_title">Fake riot</string>
+    <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
+    <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
+    <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
+    <string name="disaster_blizzard_title">Blizzard</string>
+    <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
+    <string name="disaster_blizzard_cmdtext">Freeze!</string>
+    <string name="draft_snowtile00_title">Permanent snow</string>
+    <string name="draft_snowtile00_text">What about global warming?</string>
+    <string name="gamemode_free_title">Free</string>
+    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.</string>
+    <string name="dialog_free_title">Free game mode</string>
+    <string name="dialog_free_text">You selected free game mode.\n
+Pros: No money, no requirements, options to control demand\n
+Cons: Less challenges</string>
+    <string name="draft_medic03_title">Modern hospital</string>
+    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
+    <string name="draft_gol_dead_title">Game of life</string>
+    <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
+
+
+    <string name="draft_coittower00_title">Coit Memorial Tower</string>
+    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
+    <string name="draft_bankofamerica00_title">Bank of America Center</string>
+    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
+    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
+    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
+    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
+    <string name="dialog_cemeteryclear_title">Clear now</string>
+    <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
+    <string name="cemetery_cmdclear">Clear now</string>
+    <string name="cemetery_clear">SWIPE to free up some space.</string>
+    <string name="draft_cemetery00_text">A place where the remains of dead people are buried.</string>
+    <string name="draft_crematory00_text">Dead people are burnt here.</string>
+    <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
+    <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
+    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
+    <string name="draft_halloween_tree00_title">Dead tree</string>
+    <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
+    <string name="draft_feature_landmarks04_title">Landmarks V</string>
+    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
+    <string name="draft_marker_hackedmarkermarker_title">THIS VERSION HAS BEEN HACKED!</string>
+
+
+    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
+    <string name="draft_haunted_house00_title">Haunted house</string>
+    <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
+    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
+    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
+
+
+    <string name="shader_lol">LOL</string>
+    <string name="settings_hugeplugintexture">Congratulations, you\'re running in huge texture mode.</string>
+    <string name="draft_tree00_autumn00_title">Autumn trees</string>
+    <string name="draft_tree00_autumn00_text">Withering leaves can be so beautiful.</string>
+    <string name="settings_handintoolbar">Show hand in toolbar</string>
+    <string name="draft_bushman00_title">Statue of bushman</string>
+    <string name="draft_bushman00_text">\"Mum, what is that?\"\n\"Don\'t look at it. Otherwise it will haunt you in your dreams.\"</string>
+    <string name="draft_police03_title">Modern police dep.</string>
+    <string name="draft_police03_text">Put some money into it and you\'ll be able to solve any issues with crime.</string>
+    <string name="draft_sf_cityhall00_title">City hall</string>
+    <string name="draft_sf_cityhall00_text">A city hall inspired by the city hall in San Francisco.</string>
+    <string name="draft_sf_fineartspalace00_title">Palace of Fine Arts</string>
+    <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
+    <string name="shader_invert">Inverted</string>
+
+
+    <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
+    <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
+    <string name="store_authorby">by %s</string>
+    <string name="store_downloads">%,d downloads</string>
+    <string name="store_acquire">Download</string>
+    <string name="store_downlaod">Download</string>
+    <string name="store_downloaded">Downloaded</string>
+    <string name="dialog_storedownlaod_title">Download</string>
+    <string name="dialog_storedownload_text">Do you want to download %s?</string>
+    <string name="dialog_storerestart_title">Restart</string>
+    <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
+    <string name="dialog_storerestart_cmdrestart">Restart</string>
+    <string name="store_status_notacquired">Not acquired</string>
+    <string name="store_status_downloading">Downloading</string>
+    <string name="store_status_downloaderror">Error: </string>
+    <string name="store_status_acquired">Acquired</string>
+    <string name="store_status_newlyinstalled">Newly installed</string>
+    <string name="store_status_running">Running</string>
+    <string name="store_status_notrunning">Not running</string>
+    <string name="store_status_newversioninstalled">Installed new version</string>
+    <string name="store_status_availupdate">Update available</string>
+    <string name="store_status_restartrequired">Restart required</string>
+    <string name="store_active">Active</string>
+    <string name="store_notactive">Not active</string>
+    <string name="store_fetchfailed">Network error</string>
+    <string name="store_modeexplore">Explore</string>
+    <string name="store_modeinstalled">Installed</string>
+    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
+    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
+    <string name="dialog_storedelete_title">Uninstall</string>
+    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
+    <string name="dialog_storedelete_cmddelete">Uninstall</string>
+    <string name="store_modefeatured">Featured</string>
+    <string name="store_modecategory">Category</string>
+    <string name="store_shorttitle">Plugins</string>
+    <string name="gamemenu_catcity">City</string>
+    <string name="gamemenu_catcontent">Content</string>
+    <string name="gamemenu_catsocial">Social</string>
+    <string name="gamemenu_catpictures">Pictures</string>
+    <string name="gamemenu_catother">Other</string>
+    <string name="store_catcount">%,d plugins</string>
+    <string name="store_featured">Featured</string>
+
+
+    <string name="dialog_storereport_title">Report plugin</string>
+    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
+    <string name="dialog_storereport_cmdreport">Report</string>
+    <string name="dialog_storereported_title">Plugin reported</string>
+    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+
+
+    <string name="store_ratings">by %,d ratings</string>
+    <string name="store_loadingerror">Error</string>
+    <string name="dialog_storeerror_title">Loading error</string>
+    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
+    <string name="store_new">New and Updated</string>
+    <string name="draft_cat_plugins00_title">Plugins</string>
+    <string name="dialog_storesearch_title">Search plugin</string>
+    <string name="dialog_storesearch_text">Enter a keyword below:</string>
+    <string name="dialog_storesearch_cmdsearch">Search</string>
+
+
+    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
+    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+
+
+    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
+    <string name="draft_rails00_title">Railway</string>
+    <string name="draft_rails00_text">Used to guide your trains.</string>
+    <string name="draft_rails00oneway00_title">One-way Railway</string>
+    <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
+    <string name="specialoffer_cmdbuy">Buy for %s</string>
+    <string name="influence_body_disposal_title">Funeral</string>
+    <string name="influence_body_disposal_text">Rest in peace.</string>
+    <string name="influence_traffic_title">Traffic</string>
+    <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
+    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
+    <string name="ci_neighbor_bodydisposal">Funeral service</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="bodydisposal_transport">%1$,d/d</string>
+    <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
+    <string name="draft_cat_metro00_title">Metro</string>
+    <string name="draft_cat_tree00_title">Plants</string>
+    <string name="draft_railroof00_title">Roof</string>
+    <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
+    <string name="draft_trainplatform00_title">Platform 1</string>
+    <string name="draft_trainplatform00_text">A platform of the train station.</string>
+    <string name="draft_trainplatform01_title">Platform 2</string>
+    <string name="draft_trainplatform02_title">Platform 3</string>
+    <string name="draft_trainplatform03_title">Platform 4</string>
+    <string name="draft_trainplatform04_title">Platform 5</string>
+    <string name="draft_trainplatform05_title">Platform 6</string>
+    <string name="draft_trainplatform06_title">Platform 7</string>
+    <string name="draft_trainplatform07_title">Platform 8</string>
+    <string name="draft_trainstation00_title">Local traffic platform</string>
+    <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
+    <string name="draft_trainstation01_title">Long-distance traffic platform</string>
+    <string name="draft_trainstation01_text">This platform is reserved for long-distance travel.</string>
+    <string name="draft_train_freight_station00_title">Freight depot 1</string>
+    <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
+    <string name="draft_train_freight_station01_title">Freight depot 2</string>
+    <string name="draft_train_freight_station02_title">Freight depot 3</string>
+    <string name="draft_train_freight_station03_title">Freight depot 4</string>
+    <string name="draft_train_freight_station04_title">Freight depot 5</string>
+    <string name="draft_trainstation_prebuilt00_title">Small station</string>
+    <string name="draft_trainstation_prebuilt00_text">A small train station for local traffic only.</string>
+    <string name="draft_trainstation_prebuilt01_title">Station</string>
+    <string name="draft_trainstation_prebuilt01_text">A bigger train station for local traffic.</string>
+    <string name="draft_trainstation_prebuilt02_title">Big station</string>
+    <string name="draft_trainstation_prebuilt02_text">A big train station that serves local and long-distance traffic.</string>
+    <string name="draft_cat_train00_parts00_title">Parts</string>
+    <string name="draft_raildeco_crane00_title">Crane</string>
+    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
+    <string name="draft_raildeco_traincrossing00_title">Train Crossing</string>
+    <string name="draft_raildeco_traincrossing00_text">A Train Crossing for your railway.</string>
+    <string name="draft_raildeco_mast00_title">Overhead line mast</string>
+    <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
+    <string name="draft_raildeco_lights00_00_title">Traffic light</string>
+    <string name="draft_raildeco_lights00_00_text">A traffic light for your Railway</string>
+    <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
+    <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
+    <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
+    <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
+    <string name="channel_city_title">City News</string>
+    <string name="channel_city_text">General information about your city.</string>
+    <string name="settings_fullscreen">Fullscreen</string>
+    <string name="control_help">Help</string>
+    <string name="settings_scrolledges">Edge scrolling</string>
+    <string name="dialog_rate_cmdlater">Later</string>
+    <string name="region_individualcities">Single Cities</string>
+    <string name="draft_redwood_tree00_title">Redwood Tree</string>
+    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
+    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="createcity_terrain">Hills</string>
+    <string name="draft_tool_terrain_increase00_title">Raise</string>
+    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
+    <string name="draft_tool_terrain_lower00_title">Lower</string>
+    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
+    <string name="draft_tool_terrain_platform00_title">Platform</string>
+    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
+    <string name="draft_cat_hills00_title">Hills</string>
+    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
+    <string name="draft_budget_roadtoll00_title">Toll</string>
+    <string name="draft_tollbooth00_title">Tollbooths</string>
+    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
+    <string name="notification02_title">Action required</string>
+    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
+    <string name="notification03_title">Never forget %1$s</string>
+    <string name="notification03_text">Please mayor, come back!</string>
+    <string name="settings_fontscaling">Font size</string>
+    <string name="settings_fontscaling_small">Small</string>
+    <string name="settings_fontscaling_medium">Medium</string>
+    <string name="settings_fontscaling_big">Big</string>
+    <string name="pluginerror_disable">Disable</string>
 
 </resources>
