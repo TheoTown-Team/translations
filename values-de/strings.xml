@@ -133,8 +133,7 @@
     <string name="gamemode_easy">Leicht</string>
     <string name="gamemode_hard">Schwer</string>
     <string name="gamemode_middle">Mittel</string>
-    <string name="gamemode_sandbox">Developer Mode</string>
-    <string name="game_infinitemoney">Freies Spiel</string>
+        <string name="game_infinitemoney">Freies Spiel</string>
     <string name="about_cmdback">Zurück</string>
     <string name="about_title">Credits</string>
     <string name="about_text">TheoTown App für Android ist ein Produkt von</string>
@@ -726,7 +725,7 @@
     <string name="dialog_closecity_text">Möchtest du deine Stadt vor dem Verlassen speichern?</string>
     <string name="dialog_closecity_cmdsave">Speichern</string>
     <string name="dialog_closecity_cmddontsave">Verwerfen</string>
-    <string name="createcity_trees">Mit Bäumen</string>
+    <string name="createcity_trees">Bäume</string>
     <string name="createcity_settings">Mehr...</string>
     <string name="createcity_cityauthor">Autor:</string>
     <string name="control_ok">Ok</string>
@@ -797,9 +796,9 @@
     <string name="settings_experimental">Experimentelle Funktionen</string>
     <string name="about_thanks">Besonderen Dank an</string>
     <string name="about_community">Und die restliche Community</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">Stadt im Entwicklermodus spielen?\n\nDies kann nicht rückgängig gemacht werden!</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">Mindestens %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Beisetzungen: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Müllentsorgung: %1$,d/%2$,d</string>
@@ -882,8 +881,7 @@
     <string name="gamemode_easy_desc">Dies ist der einfachste Spielmodus. Du startest mit viel Geld und es ist insgesamt etwas einfacher.</string>
     <string name="gamemode_hard_desc">Du bist ein Pro in TheoTown? Dann ist dieser Modus genau der richtige für dich. Du startest mit wenig Geld und dir wird nichts geschenkt.</string>
     <string name="gamemode_middle_desc">Normaler Spielmodus. Du startest mit ausreichend Geld und solltest damit deine Traumstadt bauen können.</string>
-    <string name="gamemode_sandbox_desc">Experimenteller Spielmodus für Entwicklungszwecke.</string>
-    <string name="game_ramaining_ffwd">%1$,d schnelle Tage verbleibend</string>
+        <string name="game_ramaining_ffwd">%1$,d schnelle Tage verbleibend</string>
     <string name="dialog_ffwd_title">Schnelleres Spiel</string>
     <string name="dialog_ffwd_text">Spiel für %1$,d Tage schneller laufen lassen.</string>
     <string name="dialog_ffwd_cmdplayad">Kostenlos</string>
@@ -1039,7 +1037,7 @@
     <string name="draft_beach_gnd00_text">Einfach ein bisschen Sand. Wird auch an Stränden verwendet.</string>
     <string name="draft_searocks00_title">Wasserfelsen</string>
     <string name="draft_searocks00_text">Ein paar Steine im Wasser.</string>
-    <string name="createcity_decos">Mit Dekorationen</string>
+    <string name="createcity_decos">Dekorationen</string>
     <string name="tutorial_cmdskip">Tutorial überspringen</string>
     <string name="dialog_skipbuildtime_ad">-%1$,d Tage</string>
     <string name="setting_showtrafficmarker">Zeige Verkehr in Straßenwerkzeug</string>
@@ -1887,7 +1885,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_snowtile00_title">Ewiges Eis</string>
     <string name="draft_snowtile00_text">Wie war das mit der Klimaerwärmung?</string>
     <string name="gamemode_free_title">Frei</string>
-    <string name="gamemode_free_text">Keine Lust auf Spielgeld? In diesem Spielmodus gibt es weder Geld noch Ansprüche.\nErreiche Rang 64 in einer regulären Stadt um diesen Modus permanent freizuschalten.</string>
+    <string name="gamemode_free_text">Keine Lust auf Spielgeld? In diesem Spielmodus gibt es weder Geld noch Ansprüche.</string>
     <string name="dialog_free_title">Freier Spielmodus</string>
     <string name="dialog_free_text">Du hast den freien Spielmodus ausgewählt.\n
 Vorteile: Kein Geld, keine Voraussetzungen, Kontrolle über Nachfrage\n
@@ -2102,5 +2100,27 @@ Nachtteile: Langweilig</string>
     <string name="settings_fontscaling_medium">Normal</string>
     <string name="settings_fontscaling_big">Groß</string>
     <string name="pluginerror_disable">Deaktivieren</string>
+
+
+    <string name="music_next">Nächste Musik</string>
+    <string name="createcity_generating">Generiere Stadt</string>
+    <string name="dialog_notenoughmoneyp_title">Zu wenig Geld</string>
+    <string name="dialog_notenoughmoneyp_text">Wir haben gerade nicht genug Geld um das zu bauen :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandkasten</string>
+    <string name="gamemode_sandbox_text">Verwende diesen Modus für Experimente ohne Geld. Die Einwohner haben nach wie vor Bedürfnisse, die es zu erfüllen gilt.</string>
+    <string name="dialog_ubermode_title">Übermode</string>
+    <string name="dialog_ubermode_text">Aktiviere diesen Modus um den schwierigen Part loszuwerden:\n-Keine Feuer\n-Kein Müll\n-Keine Krankheiten\n-Keine Verbrechen\n-Keine Tode\n-Volle Bildung\n-100% Beliebtheit</string>
+    <string name="topic_pluginsawesome">Plugins sind großartig!</string>
+    <string name="topic_platforms">Wusstest du, dass es TheoTown für PC, Android und iOS gibt?</string>
+    <string name="topic_pluginspace">Der Platz für Plugins ist begrenzt, vergiss das nicht</string>
+    <string name="topic_rotate">Wusstest du, dass du deine Stadt drehen kannst?</string>
+    <string name="topic_pineapple">Ananas auf Pizza?</string>
+    <string name="topic_f11">Drücke F11 um den Vollbildmodus zu aktivieren</string>
+    <string name="draft_permanent_snow00_title">Schnee</string>
+    <string name="draft_permanent_snow00_text">Hier ist es stets Winter.</string>
+    <string name="settings_hidelabels">Verstecke Beschriftungen</string>
+    <string name="settings_sound_ambient">Hintergrund</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>

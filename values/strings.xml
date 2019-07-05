@@ -132,8 +132,7 @@
     <string name="draft_watertower00_text">Provides some water for buildings.</string>
     <string name="settings_areazonetool">Use area zone tool</string>
     <string name="createcity_gamemode">Gamemode:</string>
-    <string name="gamemode_sandbox">Developer Mode</string>
-    <string name="gamemode_easy">Easy</string>
+        <string name="gamemode_easy">Easy</string>
     <string name="gamemode_middle">Middle</string>
     <string name="gamemode_hard">Hard</string>
     <string name="game_infinitemoney">Free game</string>
@@ -735,7 +734,7 @@
     <string name="about_homepage">Homepage</string>
     <string name="oome_title">Not enough memory</string>
     <string name="oome_text">Sorry, your device has not sufficient amount of RAM to run TheoTown.</string>
-    <string name="createcity_trees">With trees</string>
+    <string name="createcity_trees">Trees</string>
     <string name="dialog_closecity_text">Do you want to save your progress before closing?</string>
     <string name="dialog_closecity_title">Leave city</string>
     <string name="dialog_closecity_cmdsave">Save</string>
@@ -798,9 +797,9 @@
     <string name="settings_experimental">Experimental features</string>
     <string name="about_thanks">Special thanks to</string>
     <string name="about_community">And the rest of our community</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">Convert city into sandbox mode?\n\nThis cannot be undone!</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">At least %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Waste disposal: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Final transport: %1$,d/%2$,d</string>
@@ -880,8 +879,7 @@
     <string name="control_off">Off</string>
     <string name="draft_school03_title">Big high school</string>
     <string name="draft_school03_text">A bigger high school for more students.</string>
-    <string name="gamemode_sandbox_desc">A game mode for development purposes.</string>
-    <string name="gamemode_easy_desc">In this game mode you start with a lot of money and it\'s a little bit easier overall.</string>
+        <string name="gamemode_easy_desc">In this game mode you start with a lot of money and it\'s a little bit easier overall.</string>
     <string name="gamemode_middle_desc">Default game mode. You start with a good amount of money and it shouldn\'t be too difficult to build the city of your dreams.</string>
     <string name="gamemode_hard_desc">Are you a pro in TheoTown? Then this is the right mode for you. You start with a small amount of money and it\'s difficult overall.</string>
     <string name="dialog_ffwd_title">Fast forward</string>
@@ -1041,7 +1039,7 @@
     <string name="draft_beach_gnd00_text">Just some sand. Also used for beaches.</string>
     <string name="draft_searocks00_title">Sea Rocks</string>
     <string name="draft_searocks00_text">Some rocks in the water.</string>
-    <string name="createcity_decos">With decorations</string>
+    <string name="createcity_decos">Decorations</string>
     <string name="tutorial_cmdskip">Skip tutorial</string>
     <string name="dialog_skipbuildtime_ad">Skip %1$,d days</string>
     <string name="setting_showtrafficmarker">Show traffic in road tool</string>
@@ -1856,7 +1854,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_snowtile00_title">Permanent snow</string>
     <string name="draft_snowtile00_text">What about global warming?</string>
     <string name="gamemode_free_title">Free</string>
-    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.\nReach rank 64 in a regular city to unlock it permanently.</string>
+    <string name="gamemode_free_text">Don\'t want to deal with money? In this game mode there\'s no money nor are there population requirements.</string>
     <string name="dialog_free_title">Free game mode</string>
     <string name="dialog_free_text">You selected free game mode.\n
 Pros: No money, no requirements, options to control demand\n
@@ -2062,6 +2060,26 @@ Cons: Less challenges</string>
     <string name="settings_fontscaling_big">Big</string>
     <string name="pluginerror_disable">Disable</string>
 
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>
 

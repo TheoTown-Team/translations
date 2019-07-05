@@ -132,8 +132,7 @@
     <string name="draft_watertower00_text">Snabdeva tvoje građevine malom količinom vode.</string>
     <string name="settings_areazonetool">Koristi alatku za zoniranje</string>
     <string name="createcity_gamemode">Težina igre:</string>
-    <string name="gamemode_sandbox">Slobodno</string>
-    <string name="gamemode_easy">Lako</string>
+        <string name="gamemode_easy">Lako</string>
     <string name="gamemode_middle">Srednje</string>
     <string name="gamemode_hard">Teško</string>
     <string name="game_infinitemoney">Besplatna igra</string>
@@ -798,7 +797,7 @@
     <string name="settings_experimental">Eksperimentalne funkcije</string>
     <string name="about_thanks">Specijalno hvala za</string>
     <string name="about_community">I ostatku naše zajednice</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">Prebaci grad u slobodni režim?\n\nOvo ne može da se poništi!</string>
     <string name="dialog_tosandbox_cmdconvert">Slobodni režim</string>
     <string name="requirement_rank">Bar %1$s (%2$,d)</string>
@@ -880,8 +879,7 @@
     <string name="control_off">Isključeno</string>
     <string name="draft_school03_title">Velika srednja škola</string>
     <string name="draft_school03_text">Veća srednja škola za više studenata.</string>
-    <string name="gamemode_sandbox_desc">Koristi ovu težinu da se igraš bez novca. Nema rangova i manje dostignuća.</string>
-    <string name="gamemode_easy_desc">Sa ovom težinom, krećeš sa mnogo novca i malo je lakše uopšte.</string>
+        <string name="gamemode_easy_desc">Sa ovom težinom, krećeš sa mnogo novca i malo je lakše uopšte.</string>
     <string name="gamemode_middle_desc">Podrazumevana težina. Krećeš sa dobrom količinom novca i nije teško da napraviš grad svojih snova.</string>
     <string name="gamemode_hard_desc">Ti si profesionalac u TheoTown-u? Onda je ovo prava težina za tebe. Krećeš sa malo novca i teško je uopšte.</string>
     <string name="dialog_ffwd_title">Ubrzanje</string>
@@ -2112,5 +2110,27 @@ Cons: Less challenges</string>
     <string name="settings_fontscaling_medium">Medium</string>
     <string name="settings_fontscaling_big">Big</string>
     <string name="pluginerror_disable">Disable</string>
+
+
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>
