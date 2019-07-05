@@ -304,8 +304,7 @@
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_rating">%1$,d</string>
     <string name="gamemode_nomoney">No money</string>
-    <string name="gamemode_sandbox">沙盒模式</string>
-    <string name="happiness_energy">電</string>
+        <string name="happiness_energy">電</string>
     <string name="happiness_firedanger">火災危險</string>
     <string name="happiness_health">健康</string>
     <string name="happiness_level">等級</string>
@@ -788,8 +787,8 @@
     <string name="settings_experimental">實驗性功能</string>
     <string name="about_thanks">特別感謝</string>
     <string name="about_community">以及其他的社區成員</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">切換城市至沙盒模式？\n\n這一步不能返回！</string>
     <string name="requirement_rank">至少%1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">葬礼：%1$,d/%2$,d</string>
@@ -870,8 +869,7 @@
     <string name="control_off">關</string>
     <string name="draft_school03_title">大型高校</string>
     <string name="draft_school03_text">一個更大的高校以容納更多的大學生。</string>
-    <string name="gamemode_sandbox_desc">想要沒有壓力的玩遊戲？開啟無金錢模式。此遊戲模式中沒有級別，並且只含有少數的勛章。</string>
-    <string name="gamemode_easy_desc">在這個遊戲模式中，你會在遊戲開始時得到一大筆金錢以降低遊戲難度。</string>
+        <string name="gamemode_easy_desc">在這個遊戲模式中，你會在遊戲開始時得到一大筆金錢以降低遊戲難度。</string>
     <string name="gamemode_middle_desc">默認遊戲模式。遊戲開始時，你會得到一比金錢，你可以用它來建立你的夢想城市。</string>
     <string name="gamemode_hard_desc">你是TheoTown的高級玩家？那這個遊戲模式很適合你。遊戲開始時，你只會得到一點金錢。這是難度最高的模式。</string>
     <string name="dialog_ffwd_title">快進</string>
@@ -2100,5 +2098,27 @@ Cons: Less challenges</string>
     <string name="settings_fontscaling_medium">Medium</string>
     <string name="settings_fontscaling_big">Big</string>
     <string name="pluginerror_disable">Disable</string>
+
+
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>
