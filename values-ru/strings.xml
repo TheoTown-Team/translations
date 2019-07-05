@@ -201,11 +201,11 @@
 <string name="dialog_screenshot_show">Показать</string>
 <string name="dialog_screenshot_text">Скриншот сохранен как %1$s.</string>
 <string name="dialog_screenshot_title">Скриншот сделан</string>
-<string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+<string name="dialog_tosandbox_cmdconvert">Sandbox</string>
 <string name="dialog_tosandbox_text">"Переделать город в режим Песочница?
 
 Это не вернуть!"</string>
-<string name="dialog_tosandbox_title">Developer Mode</string>
+<string name="dialog_tosandbox_title">Sandbox</string>
 <string name="disaster_earthquake_cmdtext">Потряси!</string>
 <string name="disaster_earthquake_text">Начни землетрясение.</string>
 <string name="disaster_earthquake_title">Землетрясение</string>
@@ -542,7 +542,6 @@
 <string name="gamemode_hard">Сложный</string>
 <string name="gamemode_middle">Средний</string>
 <string name="gamemode_nomoney">Нет денег</string>
-<string name="gamemode_sandbox">Песочница</string>
 <string name="happiness_education">Образование</string>
 <string name="happiness_energy">Энергия</string>
 <string name="happiness_environment">Окружающая среда</string>
@@ -886,8 +885,7 @@
     <string name="control_off">Выключить</string>
     <string name="draft_school03_title">Большая средняя школа</string>
     <string name="draft_school03_text">Большая средняя школа для большого количества студентов.</string>
-    <string name="gamemode_sandbox_desc">Используйте этот игровой режим, чтобы играть без денег. Не имеет званий и некоторых достижений.</string>
-    <string name="gamemode_easy_desc">В этом игровом режиме вы начинаете с большим колличеством денег, и это в целом облегчает игру.</string>
+        <string name="gamemode_easy_desc">В этом игровом режиме вы начинаете с большим колличеством денег, и это в целом облегчает игру.</string>
     <string name="gamemode_middle_desc">Режим игры по умолчанию. Вы начинаете с хорошим колличеством денег и это не должно усложнить строительство города вашей мечты.</string>
     <string name="gamemode_hard_desc">Вы профессионал в TheoTown? Тогда это для вас. Вы начинаете с небольшим колличеством денег, что усложнит игру.</string>
     <string name="dialog_ffwd_title">Ускорение вперёд</string>
@@ -2117,5 +2115,27 @@
     <string name="settings_fontscaling_medium">Средний</string>
     <string name="settings_fontscaling_big">Большой</string>
     <string name="pluginerror_disable">Отключить</string>
+
+
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>

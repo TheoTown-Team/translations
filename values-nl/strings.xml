@@ -132,8 +132,7 @@
     <string name="draft_watertower00_text">Zorgt voor water voor jouw gebouwen.</string>
     <string name="settings_areazonetool">Gebruik gebiedzone tool.</string>
     <string name="createcity_gamemode">Spelmodus:</string>
-    <string name="gamemode_sandbox">Developer Mode</string>
-    <string name="gamemode_easy">Makkelijk</string>
+        <string name="gamemode_easy">Makkelijk</string>
     <string name="gamemode_middle">Gemiddeld</string>
     <string name="gamemode_hard">Moeilijk</string>
     <string name="game_infinitemoney">Onbeperkt geld</string>
@@ -798,9 +797,9 @@
     <string name="settings_experimental">Experimentele functies</string>
     <string name="about_thanks">Speciale dank</string>
     <string name="about_community">En de rest van onze community</string>
-    <string name="dialog_tosandbox_title">Ontwikkelaarsmodus</string>
-    <string name="dialog_tosandbox_text">Verander stad naar ontwikkelaarsmodus?\n\nDit kan niet ongedaan worden!</string>
-    <string name="dialog_tosandbox_cmdconvert">Ontwikkelaarsmodus</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
+    <string name="dialog_tosandbox_text">Verander stad naar Sandbox?\n\nDit kan niet ongedaan worden!</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">Ten minste %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Verwerkt afval: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Begrafenis(sen): %1$,d/%2$,d</string>
@@ -880,8 +879,7 @@
     <string name="control_off">Uit</string>
     <string name="draft_school03_title">Grote middelbare school</string>
     <string name="draft_school03_text">Een grotere middelbare school voor meer leerlingen.</string>
-    <string name="gamemode_sandbox_desc">Developer Mode. Hier heb je onbeperkte hoeveelheden geld. levels zijn uitgeschakeld, er zijn ook minder prestaties.</string>
-    <string name="gamemode_easy_desc">Makkelijke gamemodus. Je start met veel geld en het is niet zo moeilijk.</string>
+        <string name="gamemode_easy_desc">Makkelijke gamemodus. Je start met veel geld en het is niet zo moeilijk.</string>
     <string name="gamemode_middle_desc">Normale gamemodus. Je start met voldoende geld en het is niet al te moeilijk om de stad van je dromen te maken.</string>
     <string name="gamemode_hard_desc">Moeilijke gamemodus. Ben je goed in TheoTown? Dan is dit de juiste modus voor jou. Je start met weinig geld, en het is best moeilijk.</string>
 
@@ -2018,7 +2016,7 @@ Contra: Minder uitdagend</string>
 
 
     <string name="draft_deco_chr_santashouse00_title">Het Huis van de Kerstman</string>
-    <string name="draft_deco_chr_santashouse00_text">De Kerstman gebruikt het om zijn cadeau's te verdelen.</string>
+    <string name="draft_deco_chr_santashouse00_text">De Kerstman gebruikt het om zijn cadeau\'s te verdelen.</string>
 
 
     <string name="store_previouslyinstalled">Verwijderd</string>
@@ -2112,5 +2110,27 @@ Contra: Minder uitdagend</string>
     <string name="settings_fontscaling_medium">Gemiddeld</string>
     <string name="settings_fontscaling_big">Groot</string>
     <string name="pluginerror_disable">Uitschakelen</string>
+
+
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>

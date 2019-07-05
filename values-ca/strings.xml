@@ -133,8 +133,7 @@
     <string name="draft_watertower00_text">Proporciona aigua per als teus edificis.</string>
     <string name="settings_areazonetool">Utilitza l\'eina de zona d\'àrea</string>
     <string name="createcity_gamemode">Mode de joc:</string>
-    <string name="gamemode_sandbox">Developer Mode</string>
-    <string name="gamemode_easy">Fàcil</string>
+        <string name="gamemode_easy">Fàcil</string>
     <string name="gamemode_middle">Mig</string>
     <string name="gamemode_hard">Difícil</string>
     <string name="game_infinitemoney">Joc gratuït</string>
@@ -799,9 +798,9 @@
     <string name="settings_experimental">Característiques experimentals</string>
     <string name="about_thanks">Agraïment especial a</string>
     <string name="about_community">I la resta de la nostra comunitat</string>
-    <string name="dialog_tosandbox_title">Developer Mode</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
     <string name="dialog_tosandbox_text">Convertir la ciutat en mode developer?\n\nAixò no es pot desfer!</string>
-    <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="requirement_rank">Al menys %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Dipòsit d\'escombraries: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
@@ -881,8 +880,7 @@
     <string name="control_off">Apagat</string>
     <string name="draft_school03_title">Gran institut</string>
     <string name="draft_school03_text">Una escola secundària més gran per a més estudiants.</string>
-    <string name="gamemode_sandbox_desc">Utilitza aquest mode de joc per jugar sense diners. No té rangs i menys èxits.</string>
-    <string name="gamemode_easy_desc">En aquest mode de joc, comences amb molts diners i és una mica més senzill en general.</string>
+        <string name="gamemode_easy_desc">En aquest mode de joc, comences amb molts diners i és una mica més senzill en general.</string>
     <string name="gamemode_middle_desc">Mode de joc per defecte. Comences amb una bona quantitat de diners i no hauria de ser massa difícil construir la ciutat dels vostres somnis.</string>
     <string name="gamemode_hard_desc">Ets un professional a TheoTown? Llavors aquest és el mode de joc correcte per a tu. Comences amb una petita quantitat de diners i és difícil en general.</string>
     <string name="dialog_ffwd_title">Avanç ràpid</string>
@@ -2109,5 +2107,27 @@ Cons: Menys reptes</string>
     <string name="settings_fontscaling_medium">Medium</string>
     <string name="settings_fontscaling_big">Big</string>
     <string name="pluginerror_disable">Disable</string>
+
+
+    <string name="music_next">Next music</string>
+    <string name="createcity_generating">Generating City</string>
+    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
+    <string name="dialog_ubermode_title">Uber Mode</string>
+    <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
+    <string name="topic_pluginsawesome">Plugins are awesome! However, we recommend to disable unused plugins.</string>
+    <string name="topic_platforms">Did you know that TheoTown is available for PC, Android and iOS?</string>
+    <string name="topic_pluginspace">Plugin space is limited, keep that in mind</string>
+    <string name="topic_rotate">Did you know that you can rotate your city?</string>
+    <string name="topic_pineapple">Pineapple on pizza?</string>
+    <string name="topic_f11">Press F11 to activate fullscreen mode</string>
+    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
+    <string name="settings_hidelabels">Hide labels</string>
+    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_vsync">VSync</string>
 
 </resources>
