@@ -465,7 +465,7 @@
     <string name="budget_religion">Religion</string>
     <string name="population_unit">%1$,d</string>
     <string name="draftselector_titlecatastrophes">Catastrophes</string>
-    <string name="settings_category_disasters">Catastrophes</string>
+    <string name="settings_category_disasters">Auto Disasters</string>
     <string name="settings_disaster_fire">Feu</string>
     <string name="settings_disaster_meteorite">Météorite</string>
     <string name="settings_disaster_earthquake">Tremblement de terre</string>
@@ -1076,12 +1076,12 @@
     <string name="tut_build12">D\'accord, nous avons donc aussi besoin de zones commerciales et indsutrielles. Jetons un coup d\'œil à la demande.</string>
     <string name="tut_build13">Ici tu peux voir la demande en infrastructures résidentielles (res), commerciales (com) et industrielles (ind).</string>
     <string name="tut_build14">Pour chacun de ces types (res, com ou ind)) il existe trois niveaux de richesse: Ͳ, ͲͲ et ͲͲͲ correspondant à pauvre, moyen et riche.</string>
-    <string name="tut_build15">Bien sûr que vous désireriez n'avoir que des habitants riches, mais je vous le rappelle, chaque chose en son temps. Comme tu le vois, nous avons besoin de zones commerciales de faible richesse pour le moment.</string>
+    <string name="tut_build15">Bien sûr que vous désireriez n\'avoir que des habitants riches, mais je vous le rappelle, chaque chose en son temps. Comme tu le vois, nous avons besoin de zones commerciales de faible richesse pour le moment.</string>
     <string name="tut_build16">Placer des zones commerciales supplémentaires ? Je pense que tu es assez grand pour le faire maintenant.</string>
     <string name="tut_build17">Bien joué ! Regarde, selon le tableau de demande les industries sont très prisées. Installons-en.</string>
     <string name="tut_build18">En moyenne, tu auras autant besoin de zones commerciales et industrielles que de zones résidentielles.</string>
-    <string name="tut_build19">Tu auras peut-être remarqué qu'il est rapidement difficile de s\'y retrouver sur le terrain. Pour remédier à cela, laisse-moi te présenter : la minimap !</string>
-    <string name="tut_build22">Super. Jetons un coup d\'œil à d'autres choses tout aussi extraordinaires.</string>
+    <string name="tut_build19">Tu auras peut-être remarqué qu\'il est rapidement difficile de s\'y retrouver sur le terrain. Pour remédier à cela, laisse-moi te présenter : la minimap !</string>
+    <string name="tut_build22">Super. Jetons un coup d\'œil à d\'autres choses tout aussi extraordinaires.</string>
     <string name="tut_build23">Ici tu as accès à diverses informations générales sur ta ville. Tu peux notamment la renommer en tapant dessus.</string>
     <string name="tut_build24">Tiens, voici un autre outil utile.</string>
     <string name="tut_build25">Il te montre les détails à propos du bonheur de tes habitants.</string>
@@ -1215,7 +1215,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_wire01_title">Ligne de transmission</string>
     <string name="draft_wire01_text">Gros câbles pour grosse énergie. Pour échange régional d\'énergie.</string>
     <string name="draft_transformator00_title">Transformateur</string>
-    <string name="draft_transformator00_text">Un transformateur est nécessaire pour basculer entre moyenne et grosse tension. À construire proche d'une ligne de transmission.</string>
+    <string name="draft_transformator00_text">Un transformateur est nécessaire pour basculer entre moyenne et grosse tension. À construire proche d\'une ligne de transmission.</string>
 
     <string name="settings_showtouchpoints">Montrer points d\'appui</string>
     <string name="shop_promotion_limited">Promotion limitée</string>
@@ -1347,7 +1347,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_deco_chr_snowman00_title">Bonhomme de neige</string>
     <string name="draft_deco_chr_snowman00_text">Les enfants aiment faire des bonhommes de neige en hiver.</string>
     <string name="draft_internationalcommercecentre00_title">ICC</string>
-    <string name="draft_internationalcommercecentre00_text">Le centre du commerce international à Hong Kong est un gratte-ciel de 108 étages. C'est le bâtiment le plus haut de Honk Kong, culminant à 484 mètres et ouvert en 2010.</string>
+    <string name="draft_internationalcommercecentre00_text">Le centre du commerce international à Hong Kong est un gratte-ciel de 108 étages. C\'est le bâtiment le plus haut de Honk Kong, culminant à 484 mètres et ouvert en 2010.</string>
     <string name="settings_autosave_interval">Intervalle de sauvegarde automatique</string>
     <string name="settings_autosave_interval_off">Désactivé</string>
     <string name="settings_autosave_interval_minutes">%1$d min</string>
@@ -1357,9 +1357,9 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_syl_spawner01_title">Cercles</string>
     <string name="draft_syl_spawner01_text">Un feu d\'artifice plutôt simple.</string>
     <string name="draft_syl_spawner02_title">Méduse</string>
-    <string name="draft_syl_spawner02_text">Ce feu d\'artifice mime l\'aspect d'une méduse.</string>
+    <string name="draft_syl_spawner02_text">Ce feu d\'artifice mime l\'aspect d\'une méduse.</string>
     <string name="draft_syl_emitter00_title">Interrupteur</string>
-    <string name="draft_syl_emitter00_text">Un interrupteur permettant d'enclencher les feux d\'artifice. À connecter aux câbles.</string>
+    <string name="draft_syl_emitter00_text">Un interrupteur permettant d\'enclencher les feux d\'artifice. À connecter aux câbles.</string>
     <string name="draft_syl_wire_title">Câble</string>
     <string name="draft_syl_wire_text">Câblage pour les feux d\'artifice.</string>
     <string name="draft_category_firework00_title">Feux d\'artifice</string>
@@ -2131,5 +2131,39 @@ Cons: Less challenges</string>
     <string name="settings_hidelabels">Hide labels</string>
     <string name="settings_sound_ambient">Ambient</string>
     <string name="settings_vsync">VSync</string>
+
+
+    <string name="shop_invitefriends">Earn %d diamonds per invited friend</string>
+    <string name="shop_invitetitle">Invite a friend</string>
+    <string name="shop_invitationtext">Hey, check out this game that I found recently:\n%s</string>
+    <string name="gamemenu_gameid">Game id: %s</string>
+    <string name="gamemenu_gameidcopied">Copied game id into clipboard</string>
+    <string name="draft_cat_intersections00_title">Interchanges</string>
+    <string name="draft_intersection00_title">Overpass</string>
+    <string name="draft_intersection00_text">A country road that connects to a flat highway via a bridge.</string>
+    <string name="draft_intersection01_title">Underpass</string>
+    <string name="draft_intersection01_text">A country road that connects to an elevated highway.</string>
+    <string name="draft_intersection02_title">Cross road intersection</string>
+    <string name="draft_intersection02_text">Two highways that intersect with each other. One of the highways is elevated.</string>
+    <string name="draft_intersection_complex00_title">Clover interchange</string>
+    <string name="draft_intersection_complex00_text">Two flat highways that intersect each other using a giant complex structure.</string>
+    <string name="tool_removefence_title">Remove fence</string>
+    <string name="tool_removefence_text">This tool can be used to remove fence only.</string>
+    <string name="draft_fence_real00_title">Picket</string>
+    <string name="draft_fence_real00_text">.</string>
+    <string name="draft_fence_real01_title">Picket</string>
+    <string name="draft_fence_real01_text">.</string>
+    <string name="draft_fence_real02_title">Log fence</string>
+    <string name="draft_fence_real02_text">.</string>
+    <string name="draft_fence_real03_title">Picket</string>
+    <string name="draft_fence_real03_text">.</string>
+    <string name="draft_fence_real04_title">Chain link</string>
+    <string name="draft_fence_real04_text">.</string>
+    <string name="draft_fence_real05_title">Concrete</string>
+    <string name="draft_fence_real05_text">.</string>
+    <string name="draft_fence_real06_title">Iron</string>
+    <string name="draft_fence_real06_text">.</string>
+    <string name="draft_cat_fence00_title">Fence</string>
+    <string name="ci_neighbor_notrading">There are no neighboring cities to trade with.</string>
 
 </resources>
