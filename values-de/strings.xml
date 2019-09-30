@@ -2102,26 +2102,26 @@ Nachtteile: Langweilig</string>
     <string name="pluginerror_disable">Deaktivieren</string>
 
 
-    <string name="music_next">Nächste Musik</string>
-    <string name="createcity_generating">Generiere Stadt</string>
-    <string name="dialog_notenoughmoneyp_title">Zu wenig Geld</string>
-    <string name="dialog_notenoughmoneyp_text">Wir haben gerade nicht genug Geld um das zu bauen :(</string>
-    <string name="game_region">Region %1$d/%2$d</string>
-    <string name="gamemode_sandbox_title">Sandkasten</string>
-    <string name="gamemode_sandbox_text">Verwende diesen Modus für Experimente ohne Geld. Die Einwohner haben nach wie vor Bedürfnisse, die es zu erfüllen gilt.</string>
-    <string name="dialog_ubermode_title">Übermode</string>
-    <string name="dialog_ubermode_text">Aktiviere diesen Modus um den schwierigen Part loszuwerden:\n-Keine Feuer\n-Kein Müll\n-Keine Krankheiten\n-Keine Verbrechen\n-Keine Tode\n-Volle Bildung\n-100% Beliebtheit</string>
-    <string name="topic_pluginsawesome">Plugins sind großartig!</string>
-    <string name="topic_platforms">Wusstest du, dass es TheoTown für PC, Android und iOS gibt?</string>
-    <string name="topic_pluginspace">Der Platz für Plugins ist begrenzt, vergiss das nicht</string>
-    <string name="topic_rotate">Wusstest du, dass du deine Stadt drehen kannst?</string>
-    <string name="topic_pineapple">Ananas auf Pizza?</string>
-    <string name="topic_f11">Drücke F11 um den Vollbildmodus zu aktivieren</string>
-    <string name="draft_permanent_snow00_title">Schnee</string>
-    <string name="draft_permanent_snow00_text">Hier ist es stets Winter.</string>
-    <string name="settings_hidelabels">Verstecke Beschriftungen</string>
-    <string name="settings_sound_ambient">Hintergrund</string>
-    <string name="settings_vsync">VSync</string>
+    <string name="music_next">下一首音乐</string>
+    <string name="createcity_generating">正在生成城市</string>
+    <string name="dialog_notenoughmoneyp_title">资金不足</string>
+    <string name="dialog_notenoughmoneyp_text">然而以我们的资金还无法购买这个。</string>
+    <string name="game_region">区域 %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">沙盒模式</string>
+    <string name="gamemode_sandbox_text">如果使用这个模式的话，将不再有金钱上的需求。不过，市民的需求你还是要满足的。</string>
+    <string name="dialog_ubermode_title">乌托邦模式</string>
+    <string name="dialog_ubermode_text">开启这个特殊的模式来免除所有的麻烦！\n-这里将不再有火灾、垃圾、疾病、犯罪、死亡，居民们也会有100%的教育水平并且会对您的政策100%的满意的！\n译者注：此模式原名叫 Uber Mode，暂时先这么翻译吧。</string>
+    <string name="topic_pluginsawesome">插件真的很不错——不过你用不到的还是禁用一下吧。</string>
+    <string name="topic_platforms">现在 TheoTown 在安卓、iOS以及Steam（PC端）都可用啦！</string>
+    <string name="topic_pluginspace">插件可用的空间是有限的，请多多留意。</string>
+    <string name="topic_rotate">你甚至可以旋转你的城市</string>
+    <string name="topic_pineapple">菠萝披萨？</string>
+    <string name="topic_f11">按 F11 来切换到全屏模式</string>
+    <string name="draft_permanent_snow00_title">雪</string>
+    <string name="draft_permanent_snow00_text">在这里永远是冬天。</string>
+    <string name="settings_hidelabels">隐藏标签</string>
+    <string name="settings_sound_ambient">环境音</string>
+    <string name="settings_vsync">垂直同步</string>
 
 
     <string name="shop_invitefriends">Verdiene %d Diamanten pro eingeladenem Freund</string>
@@ -2140,21 +2140,26 @@ Nachtteile: Langweilig</string>
     <string name="draft_intersection_complex00_text">Zwei ebenerdige Autobahnen die mittels einer gewaltigen Struktur miteinander verbunden werden.</string>
     <string name="tool_removefence_title">Zaun löschen</string>
     <string name="tool_removefence_text">Mit diesem Werkzeug können ausschließlich Zäune entfernt werden.</string>
-    <string name="draft_fence_real00_title">Lattenzaun</string>
-    <string name="draft_fence_real00_text">.</string>
-    <string name="draft_fence_real01_title">Lattenzaun</string>
-    <string name="draft_fence_real01_text">.</string>
+    <string name="draft_fence_real00_title">Holzzaun</string>
+    <string name="draft_fence_real00_text">Ein einfacher Holzzaun.</string>
+    <string name="draft_fence_real01_title">Hecke</string>
+    <string name="draft_fence_real01_text">Eine große, grüne Hecke.</string>
     <string name="draft_fence_real02_title">Holzzaun</string>
-    <string name="draft_fence_real02_text">.</string>
-    <string name="draft_fence_real03_title">Lattenzaun</string>
-    <string name="draft_fence_real03_text">.</string>
-    <string name="draft_fence_real04_title">Kettenzaun</string>
-    <string name="draft_fence_real04_text">.</string>
-    <string name="draft_fence_real05_title">Betonzaun</string>
-    <string name="draft_fence_real05_text">.</string>
+    <string name="draft_fence_real02_text">Nichts weiter als ein paar zusammengetackerte Planken.</string>
+    <string name="draft_fence_real03_title">Moderner Zaun</string>
+    <string name="draft_fence_real03_text">Gestapelte Planken zwischen Betonpfeilern.</string>
+    <string name="draft_fence_real04_title">Weißer Zaun</string>
+    <string name="draft_fence_real04_text">Weiß angestrichene Planken.</string>
+    <string name="draft_fence_real05_title">Steinwall</string>
+    <string name="draft_fence_real05_text">Ein tiefer, robuster Steinwall.</string>
     <string name="draft_fence_real06_title">Eisenzaun</string>
-    <string name="draft_fence_real06_text">.</string>
+    <string name="draft_fence_real06_text">Schwere Eisenstangen zwischen Steingemäuer.</string>
     <string name="draft_cat_fence00_title">Zaun</string>
     <string name="ci_neighbor_notrading">Keine Nachbarstädte für den Handel verfügbar.</string>
+
+
+    <string name="settings_sound_master">Master</string>
+    <string name="draft_cemetery01_title">Big Cemetery</string>
+    <string name="draft_cemetery01_text">A place where the remains of dead people are buried. This cemetery has a lot of space.</string>
 
 </resources>
