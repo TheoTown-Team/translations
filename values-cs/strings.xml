@@ -5,17 +5,17 @@
     <string name="createcity_title">Nové město</string>
     <string name="settings_defaults">Výchozí</string>
     <string name="settings_apply">Použít</string>
-    <string name="createcity_mapsize">Velikost:</string>
+    <string name="createcity_mapsize">Velikost oblasti:</string>
     <string name="createcity_cityname">Název města:</string>
     <string name="control_back">Zpět</string>
     <string name="createcity_start">Start</string>
     <string name="loadcity_load">Start</string>
     <string name="welcome_agree">Souhlasím</string>
-    <string name="welcome_content">Vítejte v TheoTown
+    <string name="welcome_content">Vítejte v TheoTown !
 
-\n\nTato aplikace je ve vývoji. Může se stát že zde naleznete menší chyby. Prosím nehodnoťte tento projekt špatně. Nezapomeňte, že je zdarma.
+\n\nTato aplikace je ve vývoji. Může se stát, že zde naleznete menší chyby. Prosím, nehodnoťte tento projekt špatně. Nezapomeňte, že je zdarma.
 
-\n\nPokud máš rád naší aplikaci můžeš nás podpořit tím že o ní povíš přátelům.
+\n\nPokud máš rád naší aplikaci, můžeš nás podpořit tím, že o ní povíš přátelům.
 
 \n\nPříjemnou zábavu:)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -48,7 +48,7 @@
     <string name="settings_drawwatersparkle">Vykreslovat vodu</string>
     <string name="settings_drawmapedges">Vykreslovat hrany mapy</string>
     <string name="settings_hideads_title">Zavřít reklamu</string>
-    <string name="settings_hideads_text">Pokud opravdu chcete skrýt reklamy, byly by jsme rádi pokud o aplikaci řeknete svým přátelům.
+    <string name="settings_hideads_text">Pokud opravdu chcete skrýt reklamy, byli by jsme rádi, pokud o aplikaci řeknete svým přátelům.
 
 \n\nOpravdu jste si jistý?</string>
     <string name="settings_hideads_yes">Ano, opravdu jsem si jistý</string>
@@ -64,7 +64,7 @@
     <string name="draftselector_titleenergy">Elektřina</string>
     <string name="draftselector_titlewater">Vodoinstalace</string>
     <string name="draftselector_titleschool">Vzdělání</string>
-    <string name="draftselector_titlehealth">Zdraví</string>
+    <string name="draftselector_titlehealth">Lékařství</string>
     <string name="draftselector_titlepolice">Policie</string>
     <string name="draftselector_titlefiredepartment">Hasiči</string>
     <string name="draftselector_cmdbuild">Postavit</string>
@@ -81,10 +81,10 @@
     <string name="dialog_leave_title">Ukončit TheoTown</string>
     <string name="dialog_leave_cmdcancel">Zrušit</string>
     <string name="dialog_leave_cmdleave">Ukončit</string>
-    <string name="savewaiting_title">Ukládam město</string>
+    <string name="savewaiting_title">Ukládám město</string>
     <string name="loadwaiting_title">Načítám město</string>
     <string name="dialog_invalidcityname_title">Špatné jméno</string>
-    <string name="dialog_invalidcityname_text">Prosím použíte jiný název pro vaše město. Název nesmí být prázdný.</string>
+    <string name="dialog_invalidcityname_text">Použijte prosím jiný název pro vaše město. Název nesmí být prázdný.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Obrovská mapa</string>
     <string name="dialog_hugesize_text">Tato velikost se testuje a nemusí fungovat na vašem zařízení. Opravdu potřebujete velkou mapu?</string>
@@ -135,7 +135,7 @@
     <string name="gamemode_easy">Lehký</string>
     <string name="gamemode_middle">Normální</string>
     <string name="gamemode_hard">Těžký</string>
-    <string name="game_infinitemoney">Hra zdarma</string>
+    <string name="game_infinitemoney">Neomezené peníze</string>
     <string name="about_title">Výrobce</string>
     <string name="about_cmdback">Zpět</string>
     <string name="about_text">TheoTown je aplikace, která je produktem pro Android</string>
@@ -151,7 +151,7 @@
     <string name="settings_category_audio">Zvuk</string>
     <string name="settings_category_other">Ostatní</string>
     <string name="draft_management00_title">Policejní oddělení</string>
-    <string name="draft_management00_text">Pro větší ochranu.</string>
+    <string name="draft_management00_text">Větší oddělení pro větší ochranu.</string>
     <string name="draft_firedepartment00_title">Hasičská stanice</string>
     <string name="draft_firedepartment00_text">Chrání budovy proti požáru.</string>
     <string name="draft_statue00_title">Socha</string>
@@ -190,14 +190,14 @@
     <string name="ci_budget_spending">Výdaje (měsíčně)</string>
     <string name="ci_budget_taxes">Daně</string>
     <string name="money">%1$,dÍ²</string>
-    <string name="ci_water_title">Vodohospodářstvý</string>
+    <string name="ci_water_title">Vodohospodářství</string>
     <string name="ci_energy_title">Elektrárny</string>
     <string name="ci_info_title">Přehled města</string>
     <string name="ci_water_text">NEPOUŽÍVANÉ</string>
     <string name="ci_energy_text">NEPOUŽÍVANÉ</string>
     <string name="ci_general_text">NEPOUŽÍVANÉ</string>
     <string name="topic_reddit">Ahoj Reddit:)</string>
-    <string name="topic_animals">V produkci nebylo ublíženo žádnému zvířeti!</string>
+    <string name="topic_animals">Při vytváření nebylo ublíženo žádnému zvířeti!</string>
     <string name="topic_users">Hledáme 100,000 hráčů</string>
     <string name="topic_free">Hra je zdarma:D</string>
     <string name="topic_about">Můžete zkusit klepnout na pravý dolní roh</string>
@@ -205,10 +205,10 @@
     <string name="topic_tutorial">Tutoriál :)</string>
     <string name="topic_donate">Na domovské stránce je tlačítko Darovat</string>
     <string name="topic_nice">Máte pěkné město :)</string>
-    <string name="topic_trolls">Nekrmte trolly</string>
+    <string name="topic_trolls">Nekrmte trolly !</string>
     <string name="settings_reversedbuildtool">Obrácený pohyb v nástroji pro stavění</string>
     <string name="draft_karlsruhecastle00_title">Palác Karlsruhe</string>
-    <string name="draft_karlsruhecastle00_text">Turisti ko mají rádi.</string>
+    <string name="draft_karlsruhecastle00_text">Turisti ho mají rádi.</string>
     <string name="shader_old">Starý</string>
     <string name="topic_narcissistic">Nevadí narcistickým lidem</string>
     <string name="topic_great">Mám tě rád! &lt;3</string>
@@ -234,7 +234,7 @@
     <string name="buildinginfo_habitants">Obyvatelé: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Pracovníci: %1$,d/%2$,d</string>
     <string name="topic_giveup">Nikdy se nevzdávej</string>
-    <string name="dialog_screenshot_error">Nemůžem vytvořit adresář pro uložení %1$s. Prosím zkontrolujte oprávnění aplikace.</string>
+    <string name="dialog_screenshot_error">Nemůžeme vytvořit adresář pro uložení %1$s. Zkontrolujte prosím oprávnění aplikace.</string>
     <string name="settings_energysaving">Spořící mód hry</string>
     <string name="about_idea">Nápad</string>
     <string name="about_programming">Programátoři</string>
@@ -242,18 +242,18 @@
     <string name="about_music">Hudba</string>
     <string name="about_engine">Herní engine</string>
     <string name="draft_police00_title">Policejní oddělení</string>
-    <string name="draft_police00_text">Pro větší ochrany.</string>
+    <string name="draft_police00_text">Pro větší ochranu města.</string>
     <string name="settings_showinfluencepreview">Zobrazit náhled vlivu</string>
     <string name="draftselector_titletransport">Doprava</string>
     <string name="draftselector_titlezone">Zóny</string>
     <string name="draft_zoneresidential_title">Domy</string>
-    <string name="draft_zoneresidential_text">Obyvatelé budou stavět domy v této zóně.</string>
+    <string name="draft_zoneresidential_text">Obyvatelé budou v této zóně stavět domy.</string>
     <string name="draft_zonecommercial_title">Obchodní zóna</string>
     <string name="draft_zonecommercial_text">Obchody budou stavět v této zóně.</string>
     <string name="draft_zoneindustrial_title">Průmyslová zóna</string>
     <string name="draft_zoneindustrial_text">Továrny budou stavět v této zóně.</string>
     <string name="draft_road00_title">Polní cesta</string>
-    <string name="draft_road00_text">Jednoduchá špinavá cesta</string>
+    <string name="draft_road00_text">Jednoduchá, špinavá cesta</string>
     <string name="draft_road01_title">Městská cesta</string>
     <string name="draft_road01_text">Auta po ní mohou jezdit rychleji.</string>
     <string name="draftselector_titleterrain">Terén</string>
@@ -278,7 +278,7 @@
     <string name="toolremove_default_title">Vymazat</string>
     <string name="toolremove_default_text">S tímto nástrojem můžete odstranit vše. Kromě zón a potrubí.</string>
     <string name="toolremove_pipe_text">Tento nástroj může být použit k odstranění potrubí.</string>
-    <string name="toolremove_pipe_title">Odstraňit potrubí</string>
+    <string name="toolremove_pipe_title">Odstranit potrubí</string>
     <string name="draftselector_cmdremove">Vymazat</string>
     <string name="draftselector_cmdview">Zobrazit</string>
     <string name="busstopinfo_usage">čekejte: %2$,d/%3$,d\nPoužito: %1$.1f%%</string>
@@ -352,20 +352,20 @@
     <string name="notify_noenergy">Jsou zde budovy bez energie!</string>
     <string name="notify_nowater">Jsou zde budovy bez vody!</string>
     <string name="draft_footballstadion00_roof_title">Střecha</string>
-    <string name="draft_footballstadion00_roof_text">Se střechou, se může hrát v jakémkoliv počasí.</string>
+    <string name="draft_footballstadion00_roof_text">Se střechou se může hrát v jakémkoliv počasí.</string>
     <string name="draft_footballstadion00_fanshop_title">Obchod pro fanoušky</string>
     <string name="draft_footballstadion00_fanshop_text">Zde se prodává příslušenství.</string>
     <string name="notify_requirementbuilding">Odemkl jse %1$s.</string>
     <string name="notify_requirementupgrade">Gratulujeme, odemkl jste vylepšení %1$s pro stavbu %2$s!</string>
     <string name="draftselector_titlesports">Sporty</string>
     <string name="draftselector_titlealert">Nouzové situace</string>
-    <string name="notify_fire">Oheň! Pošlete hasiče, aby požár uhasily. Zamyslete se nad budováním dalších hasičských oddělení.</string>
+    <string name="notify_fire">Oheň! Pošlete hasiče, aby požár uhasili. Zamyslete se nad budováním dalších hasičských oddělení.</string>
     <string name="notify_pollution">Příliš mnoho znečištění!</string>
     <string name="draft_radio00_title">Rádiová stanice</string>
     <string name="draft_radio00_text">Vaši obyvatelé rádi poslouchají rádio</string>
     <string name="draftselector_cmdalert">Jít!</string>
     <string name="draft_alert_police00_title">Zavolat policii</string>
-    <string name="draft_alert_police00_text">Zavolejte policii, aby jste zastavily zločince.</string>
+    <string name="draft_alert_police00_text">Zavolejte policii, aby jste zastavili zločince.</string>
     <string name="draft_alert_fire00_title">Zavolejte hasičskou jednotku</string>
     <string name="draft_alert_fire00_text">Zavolejte hasičskou jednotku, když něco hoří.</string>
     <string name="draft_alert_medic00_title">Zavolat doktora</string>
@@ -406,15 +406,15 @@
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_radio00_sport_title">Sport FM</string>
-    <string name="draft_radio00_sport_text">Vysílá sportovní zprávy a vzrušující živé vysílání sportovních událostí. Jedná se o sportovní dvůr s velmi dlouhým dosahem.
+    <string name="draft_radio00_sport_text">Vysílá sportovní zprávy a vzrušující živé vysílání sportovních událostí. Jedná se o sportovní kanál s velmi velkým dosahem.
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_radio00_fun_title">Zábavné Rádio</string>
-    <string name="draft_radio00_fun_text">Hraje většinou hudbu a lehký zábavní program. Posluchači se cítí lépe. Tak se chová jako park s velmi dlouhým dosahem.
+    <string name="draft_radio00_fun_text">Hraje většinou hudbu a lehký zábavní program. Posluchači se cítí lépe. Tak se chová jako park s velmi velkým dosahem.
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_radio00_faith_title">Povídání o víře</string>
-    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako kostel s dlouhým dosahem ve městě.
+    <string name="draft_radio00_faith_text">Vysílá rozhovory o tématu víry a naší existenci na zemi. V podstatě funguje jako kostel s velkým dosahem ve městě.
 \n
 \nJe povolen pouze jeden rádiový program současně. Staré programy budou odstraněny.</string>
     <string name="draft_lighthouse00_title">Maják</string>
@@ -446,7 +446,7 @@
     <string name="tutorial_buildresidential_a">Postavme obytnou zónu. Obyvatelé zde mohou stavět své domy.</string>
     <string name="tutorial_buildresidential_b">Umístěte zónu na vyznačené dlaždice.</string>
     <string name="tutorial_buildresidential_c">Skvělá práce.</string>
-    <string name="tutorial_buildcommercial_a">A teď postavme obchodní zónu. Obchody se budou stavět zde.</string>
+    <string name="tutorial_buildcommercial_a">A teď postavíme obchodní zónu. Obchody se budou stavět zde.</string>
     <string name="tutorial_buildcommercial_b">Umístěte zónu na vyznačené dlaždice.</string>
     <string name="tutorial_buildcommercial_c">Skvělá práce.</string>
     <string name="tutorial_buildindustrial_a">V neposlední řadě průmyslové zóny. To je místo, kde budou továrny.</string>
@@ -480,7 +480,7 @@
     <string name="disaster_fire_text">Vypálit vše!</string>
     <string name="disaster_fire_cmdtext">Hořet!</string>
     <string name="disaster_meteorite_title">Meteority</string>
-    <string name="disaster_meteorite_text">Nechte meteorit spadnout z oblohy.</string>
+    <string name="disaster_meteorite_text">Nechte z oblohy spadnout meteorit.</string>
     <string name="disaster_meteorite_cmdtext">Létající meteorit</string>
     <string name="disaster_earthquake_title">Zemětřesení</string>
     <string name="disaster_earthquake_text">Nechejte zem otřást.</string>
@@ -508,14 +508,14 @@
     <string name="disaster_nuke_text">Vypadá neškodně.</string>
     <string name="disaster_nuke_cmdtext">Zkuste ji!</string>
     <string name="budget_loans">Půjčky</string>
-    <string name="ci_loan_loanlist">Aktivní půjčky (ceklově %1$s v %2$,d/%3$,d půjček):</string>
+    <string name="ci_loan_loanlist">Aktivní půjčky (celkově %1$s v %2$,d/%3$,d půjček):</string>
     <string name="ci_loan_remaining_runtime">Doba splácení: %2$,d měsíc(ů), %1$,d dnů</string>
     <string name="ci_loan_paybackcost">Zbývá splatit: %1$s</string>
     <string name="ci_loan_estate">Majetek: %1$s</string>
     <string name="topic_support_ads">Můžete nás podpořit klepnutím na reklamu :)</string>
     <string name="settings_disaster_tornado">Tornádo</string>
     <string name="disaster_tornado_title">Tornádo</string>
-    <string name="disaster_tornado_text">Tornáda jsou velmi nebezpečná pro Vaše město.</string>
+    <string name="disaster_tornado_text">Tornáda jsou velmi nebezpečná pro vaše město.</string>
     <string name="disaster_tornado_cmdtext">Umístit tornádo</string>
     <string name="buildinginfo_untouchable">Nedotknutelný</string>
     <string name="draft_zoneresidential_lvl2_title">Hustá obytná zóna</string>
@@ -639,7 +639,7 @@
     <string name="loadcity_memdialog_title">Bez přístupu do externí paměti</string>
     <string name="loadcity_memdialog_text">Města budou uložena v interním úložišti. K nim nebudete mít přístup.</string>
     <string name="loadcity_memdialog_cmdremind">Připomeň mi</string>
-    <string name="loadcity_memdialog_cmdok">Nevadí</string>
+    <string name="loadcity_memdialog_cmdok">Nevadí !</string>
     <string name="about_translation">Překlady</string>
     <string name="draft_decocom00_title">Obchodní oblast</string>
     <string name="draft_decores00_title">Obytná oblast</string>
@@ -649,7 +649,7 @@
     <string name="settings_shadertype_fancy">Ozdobný</string>
     <string name="settings_shadertype_xfancy">X-Fancy</string>
     <string name="draft_buoy00_title">Bóje</string>
-    <string name="draft_buoy00_text">Pomáhá lodím najít cestu.</string>
+    <string name="draft_buoy00_text">Pomáhají lodím najít cestu.</string>
     <string name="ci_general_seed">Země: %1$s</string>
     <string name="draft_decores00_text">.</string>
     <string name="draft_decocom00_text">.</string>
@@ -657,11 +657,11 @@
     <string name="ci_budget_title_nomoney">Finanční údaje (teoretický)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Jaderná elektrárna</string>
-    <string name="draft_nuclearplant00_text">Silnější než uhelná elektrárna. Mnohem dražší je udržovat a je zapotřebí hodně vody na chlazení. Může explodovat bez vody.</string>
+    <string name="draft_nuclearplant00_text">Silnější než uhelná elektrárna. Je mnohem dražší na údržbu a potřebuje hodně vody. Může bez ní explodovat.</string>
     <string name="draft_gasplant00_title">Plynárna</string>
     <string name="draft_gasplant00_text">Levnější než jiné elektrárny. Malé znečištění.</string>
     <string name="draft_carcinema00_title">Venkovní kino s parkovištěm</string>
-    <string name="draft_carcinema00_text">Nějaká zábava pro obyvatele TheoTown.</string>
+    <string name="draft_carcinema00_text">Nějaká zábava pro obyvatele vašeho města.</string>
     <string name="notify_lowbudget">Nemáte žádné peníze. Můžete si vzít nějaké půjčky.</string>
     <string name="settings_rightsidebar">Postranní panel na pravé straně</string>
     <string name="settings_topstatusbar">Stavový řádek nahoře</string>
@@ -695,7 +695,7 @@
     <string name="draft_biergarten00_text">Pěkné místo k odpočinku.</string>
     <string name="notify_noreszone">Lidé chtějí bydlet ve vašem městě. Postavte pro ně obytnou zónu.</string>
     <string name="notify_nocomzone">Postavte obchodní zónu, aby se ve vašem městě stavěly obchody.</string>
-    <string name="notify_noindzone">Průmyslové zóny se můžou stavět ve vašem městě, ale pro ně musíte nejdříve postavit zóny.</string>
+    <string name="notify_noindzone">Průmyslové budovy se budou stavět jen , když pro ně vytvoříte zóny.</string>
     <string name="createcity_sizebigbigbig">Obří</string>
     <string name="locale">es</string>
     <string name="draft_police02_title">Velitelství stanice rychlého nasazení</string>
@@ -717,13 +717,13 @@
     <string name="dialog_rename_cmdok">Přejmenovat</string>
     <string name="dialog_rename_cmdcancel">Zrušit</string>
     <string name="dialog_renamecity_title">Přejmenovat město</string>
-    <string name="dialog_renamecity_text">Zadejte zde nový název města.</string>
+    <string name="dialog_renamecity_text">Zde zadejte nový název města.</string>
     <string name="dialog_renamebuilding_title">Přejmenovat stavbu</string>
     <string name="dialog_renamebuilding_text">Zadejte nový název této budovy.</string>
     <string name="happiness_police">Policie</string>
     <string name="happiness_firedepartment">Hasiči</string>
     <string name="dialog_renameauthor_title">Přejmenovat starostu</string>
-    <string name="dialog_renameauthor_text">Prosím vložte nové jméno starosty.</string>
+    <string name="dialog_renameauthor_text">Zadejte nové jméno starosty.</string>
     <string name="ci_general_authorname">Starosta: %1$s</string>
     <string name="loadcity_author">podle %1$s</string>
     <string name="game_cityauthor">podle %1$s</string>
@@ -733,7 +733,7 @@
     <string name="createcity_cityauthor">Tvůrce:</string>
     <string name="about_homepage">Domů</string>
     <string name="oome_title">Nedostatek paměti</string>
-    <string name="oome_text">Je nám líto, že vaše zařízení nemá dostačující množství paměti RAM pro spuštění TheoTown.</string>
+    <string name="oome_text">Je nám líto, ale vaše zařízení nemá dostačující množství paměti RAM pro spuštění TheoTown.</string>
     <string name="createcity_trees">Stromy</string>
     <string name="dialog_closecity_text">Přejete si uložit své pokroky před zavřením?</string>
     <string name="dialog_closecity_title">Opustit město</string>
@@ -750,7 +750,7 @@
     <string name="roadinfo_title">Cesta</string>
     <string name="roadinfo_trafficlights_on">Zapnout semafory</string>
     <string name="roadinfo_trafficlights_off">Vypnout semafory</string>
-    <string name="notify_crime">Máme tu zločin. Měli byste postavit více policejních stanic nebo zlepšit radost obyvatel.</string>
+    <string name="notify_crime">Máme tu zločin. Měli byste postavit více policejních stanic nebo zvýšit radost obyvatel.</string>
     <string name="tutorial_buildbridge_a">Možná bychom měli zlepšit provoz vybudováním hlavní silnice. Vyberte krajinu.</string>
     <string name="tutorial_buildbridge_b">Klepněte na počáteční a koncový bod plánované cesty. Podívejte se, jak se přes řeku automaticky postaví most.</string>
     <string name="tutorial_buildbridge_c">Takže jsme skončili se stavbou.</string>
@@ -764,13 +764,13 @@
     <string name="settings_autountouchable">Nastavte vlastní budovy nedotknutelné</string>
     <string name="settings_autorestoresamples">Obnovte vzorová města</string>
     <string name="settings_winter">Zima</string>
-    <string name="notify_riot_noreason">Tam je vzpoura bez důvodu!</string>
+    <string name="notify_riot_noreason">Máme tu vzpouru bez důvodu!</string>
     <string name="notify_riot_reason">Zde je vzpoura protože %1$s!</string>
     <string name="draft_marker_powermarker_title">Energie</string>
     <string name="draft_road04_text">Pěkná silnice se stromy.</string>
     <string name="draft_marker_watermarker_title">Voda</string>
     <string name="draft_road05_text">Dokonalá cesta k propojení vzdálených oblastí.</string>
-    <string name="notify_demonstration">Zde je demonstrace protože %1s! Udělej něco nebo se stane něco špatného!</string>
+    <string name="notify_demonstration">Zde je demonstrace, protože %1s! Udělej něco, nebo se stane něco špatného!</string>
     <string name="draft_road05_title">Dálnice</string>
     <string name="draft_road04_title">Ulička</string>
     <string name="happiness_general">Obecné štěstí</string>
@@ -799,9 +799,9 @@
     <string name="about_community">A zbytek naší komunity</string>
     <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
     <string name="dialog_tosandbox_title">Sandbox</string>
-    <string name="dialog_tosandbox_text">Převést město do režimu developer mode?\n\nNelze vrátit zpět!</string>
+    <string name="dialog_tosandbox_text">Převést město do režimu vývojáře ?\n\nNelze vrátit zpět!</string>
     <string name="requirement_rank">Alespoň %1$s (%2$,d)</string>
-    <string name="ca_bodydisposal_text">Pohřeb: %1$,d/%2$,d</string>
+    <string name="ca_bodydisposal_text">Pohřby: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Nakládání s odpady: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Dekorace</string>
     <string name="draftselector_titlewastedisposal">Nakládání s odpady</string>
@@ -893,7 +893,7 @@
     <string name="dialog_present_cmdok">Děkuji!</string>
     <string name="settings_saveminimap">Uložit minimapu</string>
     <string name="ci_budget_doublemoney_title">Dvojitý příjem</string>
-    <string name="ci_budget_doublemoney_text">Zdvojnásobí svůj příjem na %1$,d dnů.</string>
+    <string name="ci_budget_doublemoney_text">Zdvojnásobí tvůj příjem na %1$,d dnů.</string>
     <string name="ci_budget_getmoney_title">Dostat %1$s</string>
     <string name="ci_budget_getmoney_text">Výměna %1$s za malou kompenzaci.</string>
     <string name="notify_badattribute">Musíme se zlepšit %1$s radosti %2$s se může dostat do vašeho města.</string>
@@ -904,7 +904,7 @@
     <string name="features_buy">Získat nyní</string>
     <string name="draft_feature_buildings00_text">Některé malé rezidenční, obchodní a průmyslové budovy pro větší rozmanitost ve městě. Zahrnuje grafiku pro zimní čas.</string>
     <string name="dialog_redeempromo_title">Dostali jste diamanty</string>
-    <string name="dialog_redeempromo_text">Vypadá to, že tihle diamanty jsou teď vaše.</string>
+    <string name="dialog_redeempromo_text">Vypadá to, že tyhle diamanty jsou teď vaše.</string>
     <string name="dialog_present_cmdad">Zdvojnásobit</string>
     <string name="dialog_connectroad_title">Připojit se k sousedovi</string>
     <string name="dialog_connectroad_text">Chcete tuto cestu spojit s jinými městy?</string>
@@ -930,7 +930,7 @@
     <string name="task_openrci_text">V TheoTown rozlišujeme poptávku po budovách pro různé typy budov a různé úrovně. Typy budov jsou obytné, obchodní a průmyslové. Existují tři úrovně, chudý (I²), střední (I²I²) a bohatý (I²I²I²).</string>
     <string name="control_gotit">Mám to</string>
     <string name="task_firstcity_title">Nové město</string>
-    <string name="task_firstcity_text">Vítejte ve svém prvním městě.\n\nSkus se dostat k 300 obyvatelům.</string>
+    <string name="task_firstcity_text">Vítejte ve svém prvním městě.\n\nZkus se dostat k 300 obyvatelům.</string>
     <string name="task_reachrank_title">Nová hodnost</string>
     <string name="task_reachrank_text">Gratulujeme, vaše město dosáhlo nové hodnosti.\n\nKaždá nová hodnost odemkne některé budovy a dostanete odměnu.</string>
     <string name="welcome_sorry_title">Novinky</string>
@@ -1219,7 +1219,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
 
     <string name="settings_showtouchpoints">Zobrazit dotykové body</string>
     <string name="shop_promotion_limited">Limitovaná propagace</string>
-    <string name="shop_promotion_time">Only %s left</string>
+    <string name="shop_promotion_time">Pouze %s zbývá</string>
     <string name="airport_lane_rename">Přejmenovat</string>
     <string name="airport_airplane_rename">Přejmenovat</string>
     <string name="airport_lane_show">Ukázat</string>
@@ -1230,7 +1230,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="airport_virtual_lane">Nepřiděleno</string>
     <string name="airport_lane_no_airplane">Není nastaveno</string>
     <string name="topic_lightside">Přijďte na světelnou stranu, máme zmrzlinu</string>
-    <string name="topic_handmade">Každý pixe je vyroben ručně</string>
+    <string name="topic_handmade">Každý pixel je vyroben ručně</string>
     <string name="topic_lunch">Postavte se zde na oběd.</string>
     <string name="topic_watching">Lobby vás sleduje</string>
     <string name="topic_code">Nyní o 5% více kodů!</string>
@@ -1401,7 +1401,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="notify_disaster_flooding">Město je pod vodou!</string>
     <string name="notify_disaster_meteorite">Kameny padají z nebe!</string>
     <string name="notify_disaster_nuke">Máme tu jaderný výbuch!</string>
-    <string name="notify_disaster_tornado">Je to víc než větrný!</string>
+    <string name="notify_disaster_tornado">Je to víc než jarní vánek !</string>
     <string name="notify_disaster_ufo">Útok mimozemšťanů!</string>
     <string name="settings_download_static_files">Stáhnout statické soubory</string>
     <string name="pluginerror_visitforum">Zpráva o fóru</string>
@@ -1429,7 +1429,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="minigame_reachlevel">Dosáhněte úrovně %d</string>
     <string name="minigame_price">Cena</string>
     <string name="minigame_time">Čas</string>
-    <string name="busgame_unlockimmediately_title">Odemknout ihnet</string>
+    <string name="busgame_unlockimmediately_title">Odemknout ihned</string>
     <string name="busgame_unlockimmediately_text">Chcete tento autobus okamžitě odemknout?</string>
     <string name="dialog_dbuilding_title">Postavit zde</string>
     <string name="dialog_dbuilding_text">Chcete tu tuto budovu umístit? Budovu ihned dokončíme.</string>
@@ -1452,7 +1452,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_feature_shortbuildingtime00_title">Krátká doba výstavby</string>
     <string name="draft_feature_shortbuildingtime00_text">Drastické zkrácení doby výstavby pro všechny budovy.</string>
     <string name="dialog_shortbuildtime_title">Zvýšení doby výstavby</string>
-    <string name="dialog_shortbuildtime_text">WPodívejte se na krátké video, které zvýší dobu výstavby na dobu %s.</string>
+    <string name="dialog_shortbuildtime_text">Podívejte se na krátké video, které zvýší dobu výstavby na dobu %s.</string>
 
 
     <string name="settings_saveonappswitch">Uložit na přepínač aplikace</string>
@@ -1592,7 +1592,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_sydneyoperahouse00_title">Opera v Sydney</string>
     <string name="draft_sydneyoperahouse00_text">Sydney Opera House je multifunkční umělecké centrum, které se nachází v australském Sydney. Byla dokončena v roce 1973 a má výšku 65 metrů.</string>
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
-    <string name="draft_onerafflesplace00_text">The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.</string>
+    <string name="draft_onerafflesplace00_text">The One Raffles Place je mrakodrap v Singapuru, který byl postaven v roce 1986 a měří 280 metrů.</string>
     <string name="draft_willistower00_title">Willisova věž</string>
     <string name="draft_willistower00_text">Willis Tower (také známý jako Sears Tower) je mrakodrap, který se nachází v Chicagu ve Spojených státech. Věž byla postavena v roce 1973 a je vysoká 442 metrů.</string>
     <string name="draft_feature_landmarks01_title">Památky II</string>
@@ -1618,9 +1618,9 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_cat_root00_title">Vše</string>
 
 
-    <string name="draft_cat_residential00_title">Obytný stavby</string>
+    <string name="draft_cat_residential00_title">Obytné stavby</string>
     <string name="draft_cat_commercial00_title">Obchodní stavby</string>
-    <string name="draft_cat_industrial00_title">Průmyslový stavby</string>
+    <string name="draft_cat_industrial00_title">Průmyslové stavby</string>
     <string name="offerstage_saving">Ušetříš %d%%</string>
     <string name="draft_pickle00_title">Všemohoucí okurka</string>
     <string name="draft_pickle00_text">.</string>
@@ -1656,7 +1656,7 @@ Pokud poskytnete TheoTown přístup k externímu úložišti, uloží města do 
     <string name="draft_feature_landmarks02_title">Památky III</string>
 
 
-    <string name="draft_recyclingyard00_title">Reciklační centrum</string>
+    <string name="draft_recyclingyard00_title">Recyklační centrum</string>
     <string name="draft_recyclingyard00_text">Proč spalovat odpadky nebo je přivést na skládku, pokud se dá recyklovat do centra zpětného odkupu?</string>
     <string name="draft_notify_pickle_spawned00_text">%s se objevil divoký nález. Co s tím uděláš, starosto?</string>
     <string name="draft_rugbyfield00_title">Rugby pole</string>
