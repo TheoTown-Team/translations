@@ -6,7 +6,7 @@
     <string name="settings_defaults">Varsayılan</string>
     <string name="settings_apply">Uygula</string>
     <string name="createcity_mapsize">Boyut:</string>
-    <string name="createcity_cityname">Şehir İsmi:</string>
+    <string name="createcity_cityname">Şehir ismi:</string>
     <string name="control_back">Geri</string>
     <string name="createcity_start">Başla</string>
     <string name="loadcity_load">Başla</string>
@@ -65,8 +65,8 @@
     <string name="draftselector_titlewater">Su</string>
     <string name="draftselector_titleschool">Eğitim</string>
     <string name="draftselector_titlehealth">Sağlık</string>
-    <string name="draftselector_titlepolice">P olis</string>
-    <string name="draftselector_titlefiredepartment">itfaiye</string>
+    <string name="draftselector_titlepolice">Polis</string>
+    <string name="draftselector_titlefiredepartment">İtfaiye</string>
     <string name="draftselector_cmdbuild">İnşa Et</string>
     <string name="draftselector_price">Ücret: %s</string>
     <string name="draftselector_monthlyprice">Aylık Ücret: %s</string>
@@ -109,7 +109,7 @@
     <string name="draft_park02_title">Küçük çim park</string>
     <string name="draft_park02_text">Şehirdeki insanlar bunu sevecekler.</string>
     <string name="draft_park03_title">Küçük Park</string>
-    <string name="draft_waterfountain00_title">Su Fiskiyesi</string>
+    <string name="draft_waterfountain00_title">Su Fıskiyesi</string>
     <string name="draft_waterfountain00_text">Şehirdeki insanlar bunu sevecekler.</string>
     <string name="draft_bigpark00_title">Büyük Park</string>
     <string name="draft_bigpark00_text">Şehirdeki insanlar bu büyük parkı sevecekler.</string>
@@ -620,15 +620,15 @@
     <string name="draft_waterpump01_title">Küçük Su Pompası</string>
     <string name="draft_waterpump01_text">Suyun yakınına inşa edilmeli.</string>
     <string name="draft_filterplant00_title">Arıtma Tesisi</string>
-    <string name="draft_filterplant00_text">Suyu temizler.</string>
+    <string name="draft_filterplant00_text">Atık suyu yeniden kullanım için temizler.</string>
     <string name="topic_fun">İyi eğlenceler! :)</string>
     <string name="topic_android">Sadece Android için</string>
     <string name="topic_tryharder">Daha sağlam dene</string>
     <string name="topic_nature">Doğayı koru</string>
     <string name="topic_time">Biraz zaman al</string>
     <string name="topic_big">Büyük birşey yap</string>
-    <string name="buildinginfo_waterwaste">Zayi olan su: %1$.1f%%</string>
-    <string name="ci_water_waste">Zayiat: %1$.1f%%</string>
+    <string name="buildinginfo_waterwaste">Atık su: %1$.1f%%</string>
+    <string name="ci_water_waste">Atık su: %1$.1f%%</string>
     <string name="shader_fancy2">X-Fancy</string>
     <string name="draft_sewerpipe00_title">Lağım Tesisi</string>
     <string name="draft_sewerpipe00_text">Zayi olan suyu doğaya salarak su kirlenmesini azaltır. Kötü bir etkiye sahiptir.</string>
@@ -699,7 +699,7 @@
     <string name="createcity_sizebigbigbig">Devasa</string>
     <string name="locale">tr</string>
     <string name="draft_police02_title">S.W.A.T. Merkezi</string>
-    <string name="draft_police02_text">Bu polis istasyonu şehrinize kanun ve huzur sağlayacaktr.</string>
+    <string name="draft_police02_text">Bu polis istasyonu şehrinize kanun ve huzur sağlayacaktır.</string>
     <string name="settings_blur">Bulanıklık</string>
     <string name="happiness_supply">Eğitim</string>
     <string name="happiness_environment">Çevre</string>
@@ -746,7 +746,7 @@
     <string name="waiting_screenshot">Resim alınıyor</string>
     <string name="waiting_copycity">Şehir kopyalanıyor</string>
     <string name="app_name_premium">TheoTown Premium</string>
-    <string name="busstopinfo_title">otobüs durağu</string>
+    <string name="busstopinfo_title">Otobüs durağı</string>
     <string name="roadinfo_title">Yol</string>
     <string name="roadinfo_trafficlights_on">Trafik ışıkları açık</string>
     <string name="roadinfo_trafficlights_off">Trafik ışıkları kapalı</string>
@@ -778,14 +778,14 @@
     <string name="draft_rnk_isolateddwelling_title">İzole Konut</string>
     <string name="draft_rnk_hamlet_title">Mezra</string>
     <string name="draft_rnk_village_small_title">Küçük Köy</string>
-    <string name="draft_rnk_village_medium_title">Village</string>
+    <string name="draft_rnk_village_medium_title">Köy</string>
     <string name="draft_rnk_village_big_title">Büyük Köy</string>
     <string name="draft_rnk_town_small_title">Küçük Kasaba</string>
-    <string name="draft_rnk_town_medium_title">Town</string>
+    <string name="draft_rnk_town_medium_title">Kasaba</string>
     <string name="draft_rnk_town_big_title">Büyük Kasaba</string>
     <string name="draft_rnk_town_large_title">Geniş Kasaba</string>
     <string name="draft_rnk_city_small_title">Küçük Şehir</string>
-    <string name="draft_rnk_city_medium_title">City</string>
+    <string name="draft_rnk_city_medium_title">Şehir</string>
     <string name="draft_rnk_city_big_title">Büyük Şehir</string>
     <string name="draft_rnk_city_large_title">Geniş Şehir</string>
     <string name="draft_rnk_metropolis_title">Metropol</string>
@@ -798,39 +798,39 @@
     <string name="about_thanks">Özel Teşekkürler</string>
     <string name="about_community">Ve topluluğumuzun geri kalanı</string>
     <string name="dialog_tosandbox_cmdconvert">Kum Havuzu</string>
-    <string name="dialog_tosandbox_title">Sandbox</string>
+    <string name="dialog_tosandbox_title">Kum Havuzu</string>
     <string name="dialog_tosandbox_text">Şehri Kum Havuzu Modu\'na almak ister misin?\n\nBu geri alınamaz!</string>
     <string name="requirement_rank">En az %1$s (%2$,d)</string>
+    <string name="ca_wastedisposal_text">Atık bertarafı: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Cenaze: %1$,d/%2$,d</string>
-    <string name="ca_wastedisposal_text">Atık Tasfiyesi: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Dekorasyon</string>
-    <string name="draftselector_titlewastedisposal">Atık Tasfiyesi</string>
-    <string name="ci_rank_title">Kademeler</string>
-    <string name="draft_cemetery00_title">Mezarlık</string>
-    <string name="draft_crematory00_title">Ölü Yakma Yeri</string>
-    <string name="draft_firedepartment02_heli00_title">Helikopter Pisti</string>
-    <string name="draft_firedepartment02_title">Ana Yangın İstasyonu</string>
-    <string name="draft_landfill00_title">Atık Sahası</string>
-    <string name="draft_mltry_depot00_title">Hangar</string>
-    <string name="draft_mltry_road00_title">Askeri Yol</string>
-    <string name="draft_mltry_rocketlauncher00_title">Roket Fırlatıcısı</string>
-    <string name="draft_wasteincinerator00_title">Atık Yakıcı</string>
-    <string name="rank_title">Yeni Şehir Aşaması</string>
-    <string name="rank_reward">Ödül kazandın: %1$s</string>
-    <string name="rank_newrank">Tebrikler, şehrin %1$s yeni bir aşama kazandı:</string>
-    <string name="rank_available">Artık Ulaşılabilir:</string>
+    <string name="draftselector_titlewastedisposal">Atık bertarafı</string>
     <string name="draftselector_titlemilitary">Ordu</string>
     <string name="draft_zonemilitary_title">Orduya Ait Alan</string>
+    <string name="draft_mltry_depot00_title">Hangar</string>
     <string name="draft_mltry_tankbase00_title">Tank Üssü</string>
+    <string name="draft_mltry_rocketlauncher00_title">Roketatar</string>
+    <string name="draft_mltry_road00_title">Askeri Yol</string>
     <string name="draft_mltry_hq00_title">Karargah</string>
-    <string name="draft_firedepartment02_heli00_text">Helikopterler buraya iniş yapabilir ve buradan havalanabilirler.\n\nİtfaiyenin etki alanını genişletirler.</string>
     <string name="draft_mltry_baracks00_title">Kışla</string>
+    <string name="draft_landfill00_title">Çöp depolama alanı</string>
+    <string name="draft_wasteincinerator00_title">Atık Yakıcı</string>
+    <string name="draft_firedepartment02_title">Ana Yangın İstasyonu</string>
+    <string name="draft_cemetery00_title">Mezarlık</string>
+    <string name="draft_crematory00_title">Ölü Yakma Yeri</string>
+    <string name="rank_newrank">Tebrikler, şehrin %1$s yeni bir aşama kazandı:</string>
+    <string name="rank_reward">Ödül kazandın: %1$s</string>
+    <string name="rank_available">Artık Ulaşılabilir:</string>
+    <string name="rank_title">Yeni Şehir Aşaması</string>
+    <string name="ci_rank_title">Kademeler</string>
+    <string name="draft_firedepartment02_heli00_title">Helikopter Pisti</string>
+    <string name="draft_firedepartment02_heli00_text">Helikopterler buraya iniş yapabilir ve buradan havalanabilirler.\n\nİtfaiyenin etki alanını genişletirler.</string>
     <string name="settings_reset_text">Tüm ayarlar kaybedilecek. Emin misin?</string>
     <string name="settings_reset_title">Ayarları Sıfırla</string>
     <string name="settings_leftsidetraffic">Sol Direksiyon Trafiği</string>
     <string name="draft_feature_noads00_text">Alt alandaki reklamları kaldırır.</string>
-    <string name="features_alreadybought">Zaten Aldın</string>
-    <string name="draft_feature_noads00_title">Reklamları Kaldır</string>
+    <string name="features_alreadybought">Zaten satın alınmış</string>
+    <string name="draft_feature_noads00_title">Reklamları kaldır</string>
     <string name="features_title">Ek Özellikler</string>
     <string name="features_getit">Al %s</string>
     <string name="features_included">Onun içerisinde %s</string>
@@ -856,10 +856,10 @@
     <string name="topic_love">Tek ihtiyacın sevgi</string>
     <string name="topic_build">Kendi şehrimi inşa edeceğim, gökdelenlerle ve parklarla çevrili olacak</string>
     <string name="topic_news">Haberler iyi millet!</string>
-    <string name="topic_welcome">Hoşgeldin yeniden :)</string>
+    <string name="topic_welcome">Tekrar hoşgeldin :)</string>
     <string name="topic_spoon">Burada aslında kaşık yok</string>
     <string name="topic_relax">Sakin ol, bu sadece bir oyun</string>
-    <string name="topic_cats">Kediler çok tatlı hayvanlar değil mi???</string>
+    <string name="topic_cats">Kediler çok tatlı hayvanlar değil miii??</string>
     <string name="topic_force">Güç seninle olsun</string>
     <string name="topic_plugins">Artık eklentilerimiz var</string>
     <string name="topic_page">Bizi www.theotown.com\'dan takip edebilirsin</string>
@@ -941,7 +941,7 @@
     <string name="menu_mapscreenshot">Haritanın Resmini Çek</string>
     <string name="menu_save">Kaydet</string>
     <string name="menu_title">Menü</string>
-    <string name="region_maxconcurrentunlocks">Bir kerede %1$,d fazlasını açamazsın.</string>
+    <string name="region_maxconcurrentunlocks">Tek seferde %1$,d haritadan fazlasını açamazsın.</string>
     <string name="dialog_unlocktime_title">Süreyi kısalt</string>
     <string name="dialog_unlocktime_text">Bu haritayı açmak çok uzun sürecek. Ama bizi desteklersenin bu süreç 30 dakika kadar kısalabilir!</string>
     <string name="region_speedup">Hızlandır</string>
@@ -959,8 +959,8 @@
     <string name="dialog_ffwd1_text">%1$s için oyunu daha hızlandırır.</string>
     <string name="notify_badtraffic">Bu yolda çok trafik var! Sana başka yollar yapmanı öneririm.</string>
     <string name="dialog_wb_title">Yeniden hoşgeldin</string>
-    <string name="dialog_wb_text">%1$s , sen burada değilken %2$s kadar kazandı.</string>
-    <string name="notify_fullschool">Bu okul doldu. Daha fazla okul inşa et, lütfen.</string>
+    <string name="dialog_wb_text">%1$s sen burada değilken %2$s kadar kazandı.</string>
+    <string name="notify_fullschool">Bu okul doldu. Lütfen daha fazla okul inşa et.</string>
     <string name="dialog_notenoughmoney_title">Yeterli paran yok</string>
     <string name="dialog_notenoughmoney_text">Bunu satın alacak kadar paramız yok. \n\nKayıp %1$s\'ları şimdi almak ister misin?</string>
     <string name="notify_fullhospital">Bu hastanede yeteri kadar yer yok. Yeni bir hastane kurman gerek.</string>
@@ -983,7 +983,7 @@
     <string name="topic_dumbledore">Dumbledore bunun olmasına izin vermezdi.</string>
     <string name="draft_mltry_missilesilo00_title">Roket rampası</string>
     <string name="draft_feature_military00_text">Şehrini korumak için askeri bölge kur. UFO istilasının kilidini açar.</string>
-    <string name="dialog_smooth_title">Ymuşak grafikler</string>
+    <string name="dialog_smooth_title">Yumuşak grafikler</string>
     <string name="dialog_smooth_text">İşte fenin gücü! Oyun çözünürlüğünü artırmak için bir çözüm bulduk. Denemek ister misin?\n\nBu ayarlardan istediğin zaman değiştirilebilir.</string>
     <string name="budget_military">Askeri</string>
     <string name="draftselector_monthlyincome">Aylık gelir: %s</string>
@@ -1021,6 +1021,7 @@
     <string name="dialog_presentdaily_text">Yarın daha fazla alacaksın.</string>
     <string name="dialog_presentdaily_day">Gün %1$,d</string>
     <string name="rank_needed_xp">En az %1$,d şehir puanı gerekiyor</string>
+    <!-- <string name="currency_symbol" translatable="false">₮</string> -->
     <string name="settings_shortmoney">Parayı kısalt.</string>
     <string name="dialog_newsign_title">Yeni etiket</string>
     <string name="dialog_newsign_text">Bu alan için yeni bir ad girin.</string>
@@ -1049,7 +1050,7 @@
     <string name="draft_feature_gocart00_title">Go-kart yarış pisti</string>
     <string name="draft_feature_gocart00_text">Şehrinde niye motor sporları olmasın? Aynı zamanda normal yollarda da go-kart sürülmesine izin verilir.</string>
     <string name="draft_firedepartment02_text">Büyük bir alanı kurtarabilecek ve çok fazla araba var. Yangınları söndürmene de yardımcı olur.</string>
-    <string name="draft_prmgocart00_title">Go-kart yarış pisti.</string>
+    <string name="draft_prmgocart00_title">Go-kart pisti.</string>
     <string name="draft_prmgocart00_text">Şehrinde niye motor sporları olmasın? Aynı zamanda normal yollarda da go-kart sürülmesine izin verilir.</string>
     <string name="settings_smoothscrolling">Yumuşak kaydırma</string>
     <string name="settings_buildingtoolold">Eski inşaat araco</string>
@@ -1115,12 +1116,11 @@
     <string name="draft_weather_machine00_title">Hava durumu makinesi</string>
     <string name="draft_weather_machine00_text">Çok gizli bir hava durumu makinesi. Hava durumunu kontrol edebilmeni sağlar.</string>
 
-    <string name="draft_mltry_fence01_title">Asketi çit</string>
+    <string name="draft_mltry_fence01_title">Askeri çit</string>
     <string name="draft_mltry_fence01_text">Dekorasyon için askeri çit.</string>
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bu simülasyonda kendi şehrini yarat.</string>
-
     <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binalar kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
 
 Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritalarını yükleyecektir ve sen de bunlara erişebileceksin.</string>
@@ -1330,6 +1330,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_hydroplant00_text">Nehirlerin gücünü kullanarak elektrik üreten, hidroelektrik bir elektrik santrali. Kirlilik oluşturmaz.</string>
     <string name="draft_feature_slime00_title">Balçık felaketi</string>
     <string name="draft_feature_slime00_text">Balçık felaketi şehrinizi yer. Tabi sadece bunu istiyorsanız.</string>
+    
     <string name="settings_terrainshading">Arazi gölgeleme</string>
     <string name="draft_deco_chr_tree00_title">Noel ağacı</string>
     <string name="draft_deco_chr_tree00_text">Noel ağacı şehrinizde yaşayan insanların içini sevinç ve gururla dolduracak. Herhangi bir hediye gördün mü?</string>
@@ -1369,7 +1370,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_firework00_text">Kendi havai fişeklerini oluştur ve yerleştir.</string>
     <string name="draft_syl_emitter01_title">Zaman şalteri</string>
     <string name="draft_syl_emitter01_text">Yeni yılda otomatik olarak sinyal gönderecek bir şalter.</string>
-
 
     <string name="draft_airplane02_title">T430</string>
     <string name="draft_airplane02_text">TheoAir\'den; hızlı ve uzun mesafeleri gidebilen bir uçak.</string>
@@ -1425,7 +1425,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_small_mosque00_title">Mahalle Camiisi</string>
     <string name="draft_small_mosque00_text">Vatandaşların için biraz iman</string>
 
-
     <string name="minigame_reachlevel">%d seviyeye ulaş</string>
     <string name="minigame_price">Ücret</string>
     <string name="minigame_time">Zaman</string>
@@ -1436,8 +1435,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="dialog_performance_title">Performans</string>
     <string name="draft_brandenburgertor00_title">Brandenburg Kapısı</string>
     <string name="draft_brandenburgertor00_text">Brandenburg Kapısı, 18.yy\'da yapılmış göz kamaştırıcı bir yapıt. Berlin\'de bulunmaktadır.</string>
-
-
     <string name="control_accept">Kabul et</string>
     <string name="control_dismiss">Vazgeç</string>
     <string name="settings_citytasks">Görevler</string>
@@ -1454,7 +1451,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="dialog_shortbuildtime_title">İnşa etme zamanı azaltması</string>
     <string name="dialog_shortbuildtime_text">Kısa bir video izleyerek inşa etme zamanını %s. kadar azaltabilirsin</string>
 
-
     <string name="settings_saveonappswitch">Değiştirmede oyunu kaydet</string>
     <string name="settings_saveforscreenshot">Ekran görüntüsü için kaydet</string>
     <string name="draft_eiffeltower00_title">Eyfel Kulesi</string>
@@ -1468,7 +1464,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_valentinesday00_text">Bu yapıları kalıcı olarak aç</string>
     <string name="tool_removetunnel_title">Tünel kaldır</string>
     <string name="tool_removetunnel_text">Hadi biraz tünel kaldıralım.</string>
-
 
     <string name="dialog_halftunnelprice_title">Yarı tünel fiyatı</string>
     <string name="dialog_halftunnelprice_text">Biraz elmas\'dan tasarruf etmek ister misin? Bu yükseltme tünel ücretini 50%% oranında %s kadar azaltır.</string>
@@ -1556,9 +1551,8 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="task_get_money">%s₮ kadar elde et.</string>
     <string name="task_spend_money">%s₮ kadar harca.</string>
     <string name="task_spend_diamonds">%s elmas harca.</string>
-    <string name="task_tap_screen">%s kere ekrana tıklat.</string>
+    <string name="task_tap_screen">%s kere ekrana tıkla.</string>
     <string name="task_current">Geçerli görev</string>
-
 
     <string name="dialog_adreward_title">Ödüllü reklam</string>
     <string name="dialog_adreward_text">Bu reklamı izleyerek bedava elmas kazanmak ister misin?</string>
@@ -1577,10 +1571,8 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_freedombuildings00_title">Şehir Simgeleri I</string>
     <string name="draft_feature_freedombuildings00_text">Sınırsız kullanım için şu inşaları kapsar:</string>
 
-
-    <string name="tool_removeuwire_title">Yer altı kablolar</string>
+    <string name="tool_removeuwire_title">Yer altı kabloları</string>
     <string name="tool_removeuwire_text">Bu araç yer altı kablolarını kaldırmaya yarar.</string>
-
 
     <string name="draft_aircraft_boneyard00_title">Uçak mezarlığı</string>
     <string name="draft_aircraft_boneyard00_text">Emekli uçaklar için bir yer. Biraz kirli olsa da gelir sağlar.</string>
@@ -1598,7 +1590,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_landmarks01_title">Şehir Simgeleri II</string>
     <string name="draft_feature_landmarks01_text">Sınırsız kullanım için şu inşaları kapsar:</string>
 
-
     <string name="draft_cat_supply00_title">Erzak</string>
     <string name="draft_cat_road00_title">Yol</string>
     <string name="draft_cat_bus00_title">Otobüs</string>
@@ -1606,17 +1597,14 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_cat_recent00_title">Geçen</string>
     <string name="draft_cat_service00_title">Servisler</string>
     <string name="draft_tool_eyedropper00_title">Damlalık</string>
-    <string name="draft_tool_eyedropper00_text">Bir yolu veya binayı yeniden inşa etmek ister misin? O zaman bu aracı kullanıp yeniden inşa etmek istediğin yapıya tıklat. Bütün yapılar ile uyumlu değildir.</string>
+    <string name="draft_tool_eyedropper00_text">Bir yolu veya binayı yeniden inşa etmek ister misin? O zaman bu aracı kullanıp yeniden inşa etmek istediğin yapıya tıkla. Bütün yapılar ile uyumlu değildir.</string>
     <string name="draft_cat_level00_title">Seviye ₮</string>
     <string name="draft_cat_level01_title">Seviye ₮₮</string>
     <string name="draft_cat_level02_title">Seviye ₮₮₮</string>
     <string name="draft_tool_movebuilding00_title">Yapı taşı</string>
     <string name="draft_tool_movebuilding00_text">Bir yapıyı başka yere taşımak için o yapıyı seç. Bütün yapılar taşınamayabilir.</string>
     <string name="tool_movebuilding_cmd">Yapı seç</string>
-
-
     <string name="draft_cat_root00_title">Hepsi</string>
-
 
     <string name="draft_cat_residential00_title">Kon yapıları</string>
     <string name="draft_cat_commercial00_title">Tic yapıları</string>
@@ -1625,9 +1613,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_pickle00_title">Yüce turşu</string>
     <string name="draft_pickle00_text">.</string>
 
-
     <string name="settings_newtoolbar">Araç çubuğu</string>
-
 
     <string name="gallery">Galeri</string>
     <string name="gallery_upload">Ekran görüntüsü yükle</string>
@@ -1655,15 +1641,13 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_hearsttower00_text">New York\'da bulunan ve ofis binası olan Hearst Kulesi 2006\'da inşa edilmiştir. Yüksekliği 180 metreyi aşmaktadır.</string>
     <string name="draft_feature_landmarks02_title">Şehir Simgeleri III</string>
 
-
     <string name="draft_recyclingyard00_title">Geri-al noktası</string>
-    <string name="draft_recyclingyard00_text">Niye yeniden kullanılabilen çöpleri yakasın ki?</string>
+    <string name="draft_recyclingyard00_text">Niye geri dönüştürülebilecek çöpleri yakasın ki?</string>
     <string name="draft_notify_pickle_spawned00_text">%s noktasında vahşi bir turşu belirdi. Bununla ilgili ne yapacaksın başkan??</string>
     <string name="draft_rugbyfield00_title">Amerikan futbolu sahası</string>
     <string name="draft_rugbyfield00_text">Amerikan futbolu sevenler için Amerikan futbolu sahası.</string>
     <string name="menu_facebook">Facebook bağlantısı</string>
     <string name="facebook_privacy">Gizlikik</string>
-
 
     <string name="settings_smoothcarmovement">Yumuşak araba hareketi</string>
     <string name="draft_easteregg00_title">Sürpriz yumurta</string>
@@ -1671,14 +1655,11 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_notify_easteregg_spawned00_text">Buralarda bir yerde bir sürpriz yumurta var. Bulabilecek misin?</string>
     <string name="draft_notify_easteregg_found00_text">Hayırlı olsun, bir sürpriz yumurta buldun :)</string>
 
-
     <string name="dialog_removediamondbuildings_title">Elmas binaları sil</string>
     <string name="dialog_removediamondbuildings_text">%d elmas ücretli binaları silmeyi seçtin. Bunu yapmak istediğinden emin misin? Eğer onlar başka bir yere taşımak istiyorsan bir yapı taşıma aracı bulunuyor.</string>
     <string name="settings_renderpollution">Kirliliği göster</string>
 
-
     <string name="settings_cloudshadow">Bulut gölgeleri</string>
-
 
     <string name="draft_orientalpearltower00_title">Doğu\'nun İncisi Kulesi</string>
     <string name="draft_orientalpearltower00_text">Doğu\'nun İncisi Kulesi, Şanghay\'da bulunan bir TV kulesidir. İnşaası 1994\'de bitmiştir. 470 metre uzunluğundadır.</string>
@@ -1692,20 +1673,18 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_asphalt01_title">Kara asfalt</string>
     <string name="draft_asphalt02_title">Mavimsi asfalt</string>
 
-
     <string name="draft_cat_management00_title">Yönetim</string>
     <string name="draft_sakura00_title">Sakura kulesi</string>
     <string name="draft_sakura00_text">Sakura ağaçlarıyla birlikte geleneksel bir pagoda. Ne kadar da güzel bir yer.</string>
     <string name="draft_stbasilcathedral00_title">Aziz Vasil Katedrali</string>
     <string name="draft_stbasilcathedral00_text">Aziz Vasil Katedrali; Moskova, Rusya\'da bulunan bir kilisedir. 1561\'de tamamlanmıştır ve şu anda bir müze olarak kullanılmaktadır. 115 metre uzunluğundadır.</string>
 
-
     <string name="draft_toji00_title">Tō-ji</string>
     <string name="draft_toji00_text">Bir Budist tapınağı olan Tō-ji; Kyoto, Japonya\'da bulunmaktadır. 796 yılında inşa edilmiş, 55 metre yükseklğindedir.</string>
     <string name="ca_wastedisposal_text2">Atık taşıma: %1$,d/%2$,d L/d</string>
     <string name="notify_waste_needer00">Bu yapıda çöp toplanmamaktadır.</string>
-    <string name="notify_waste_producer00">Bu depolama alanı doldu, muhtemelen boşaltmalısın!</string>
-    <string name="draft_landfill00_text">Çöpleri toplamak için büyük bir alan. Eğer boşsa silinebilir.</string>
+    <string name="notify_waste_producer00">Bu depolama alanı doldu, boşaltmak için üzerine tıkla!</string>
+    <string name="draft_landfill00_text">Çöpleri toplamak için büyük bir alan. Sadece boşken silinebilir.</string>
     <string name="waste_clear">Çöpu KAYDIRARAK temizleyebilirsin.</string>
     <string name="waste_cmdclear">Şimdi temizle</string>
     <string name="dialog_wasteclear_title">Şimdi temizle</string>
@@ -1714,14 +1693,11 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="budget_waste_disposal">Atık bertarafı</string>
     <string name="draft_alert_garbage00_title">Çöp kamyonunu çağır</string>
     <string name="draft_alert_garbage00_text">Yoldan çöpleri toplaması için çöp kamyonunu çağır.</string>
-    <string name="happiness_waste">Atıp bertarafı</string>
+    <string name="happiness_waste">Atık bertarafı</string>
     <string name="settings_new_content_marker">Araç çubuğundaki yenilikleri işaretle</string>
-
 
     <string name="tool_removeroaddeco_title">Yol dekorlarını sil</string>
     <string name="tool_removeroaddeco_text">Yoldaki dekorları silmek için bu aracı kullan</string>
-
-
     <string name="draft_palmtree00_title">Palmiye ağacı</string>
     <string name="draft_palmtree00_text">Herhangi bir vaha için vazgeçilmez.</string>
     <string name="draft_cactus00_title">Kaktüs</string>
@@ -1732,12 +1708,10 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_ancientbear_statue00_text">Eski Ayı\'nın heykeli</string>
     <string name="draft_greatpyramid00_title">Giza Piramidi</string>
 
-
     <string name="draft_wasteincinerator00_filter00_title">Filtre</string>
-    <string name="draft_wasteincinerator00_filter00_text">Oluşturulan kirlilik ve gürültüyü azaltır.</string>
+    <string name="draft_wasteincinerator00_filter00_text">Oluşturulan kirlilik ve gürültüyü büyük ölçüde azaltır.</string>
     <string name="draft_flowers00_title">Çiçekler</string>
     <string name="draft_flowers00_text">Sadece biraz çiçek.</string>
-
 
     <string name="game_remaining_doubledincometime">%s kadar ikiye katlanmış gelir</string>
     <string name="draft_taipei101_title">Taipei 101</string>
@@ -1754,10 +1728,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_roaddeco_border04_text">Arkasında arabaları görebilirsin.</string>
     <string name="draft_roaddeco_border05_title">Sokak ışıklandırması</string>
     <string name="draft_roaddeco_border05_text">Gece olmasa da sokak lambaları var.</string>
-
-
     <string name="draft_cat_roaddeco00_title">Yol dekorasyonları</string>
-
 
     <string name="draft_feature_doubledincome00_title">İkiye katlanmış gelir</string>
     <string name="draft_feature_doubledincome00_text">Gelirini ikiye katlar.</string>
@@ -1770,17 +1741,13 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_fence00_text">Sadece bir çit.</string>
     <string name="draft_fence01_title">Beyaz çit</string>
     <string name="draft_fence01_text">Sadece bir çit. Üstelik beyaz.</string>
-
-
-    <string name="draft_jungletree00_title">Orman ağacı</string>
+    <string name="draft_jungletree00_title">Yağmur ormanı</string>
     <string name="draft_jungletree00_text">Büyük ormanın içinde, bu akşam bir aslan uyur.</string>
 
-
-    <string name="draft_igloo00_title">Iglo</string>
+    <string name="draft_igloo00_title">İglo</string>
     <string name="draft_igloo00_text">Şaşırtıcı olan, iglonun içi soğuk değil.</string>
     <string name="features_more">Daha fazla içerik</string>
     <string name="features_diamonds">Elmas al</string>
-
 
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="dialog_privacy_title">Gizlilik Politikası</string>
@@ -1805,7 +1772,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="settings_realmmres">Gerçek küçük harita çözünürlülüğü</string>
     <string name="feature_coming_soon_fulfilled">Erken bir hediye.</string>
 
-
     <string name="draft_tree_sakura00_title">Kiraz çiçeği</string>
     <string name="draft_tree_sakura00_text">Teknik olarak kiraz ağacı olmalarıma rağmen kiraz vermiyorlar.</string>
     <string name="draft_circus00_title">Sirk</string>
@@ -1815,9 +1781,9 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_greatpyramid00_text">Giza piramit kompleksi, Eski Dünyanın Yedi Harikası\'nın en eskisi olmakla beraber, aynı zamanda dünyanın dört bir yanında gayet iyi tanınan bir yapıdır.Bu büyük piramit üç piramidin en büyüğüdür ve 139 metre yüksekliğe sahiptir.</string>
     <string name="draft_feature_landmarks04_text">Bazı harika yapılar edinin</string>
 
-
     <string name="draft_roaddeco_barrier_open00_title">Bariyer</string>
     <string name="draft_roaddeco_barrier_open00_text">Kapatmak için dokun. Trafik sıkışıklığı için ideal.</string>
+    
     <string name="selectable_find">(%,d) bul</string>
     <string name="gallery_upload_success">Başarı</string>
     <string name="gallery_upload_fail">Yükleme başarısız</string>
@@ -1825,12 +1791,10 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_medic02_text">Küçük hastane, daha fazla hasta için daha fazla alan sunar.</string>
     <string name="lang_pirate">Korsan</string>
 
-
     <string name="draft_church10_title">Barok Kilisesi</string>
     <string name="draft_church10_text">Şehriniz için güzel ve manastır bir kilise.</string>
     <string name="draft_roaddeco_construction00_title">Ekskavatör</string>
     <string name="draft_roaddeco_construction00_text">Yolun ortasında bir elskavatör iyi bir fikir gibi görünmüyor, değil mi?</string>
-
 
     <string name="infoline_freetunnels">%d tünel kaldı</string>
     <string name="buildinginfo_idletime">Uzak zaman: %s (şehrin içinde değilken)</string>
@@ -1839,13 +1803,10 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_roaddeco_barrier01_text">Yolları kapatmak için kullanılır.</string>
     <string name="draft_roaddeco_construction01_title">Çakıl yığıntıları</string>
     <string name="draft_roaddeco_construction01_text">Yol çalışmasının güzel parçaları</string>
-
-
     <string name="notification00_sandbox_title">HABERLER: %1$s güzel bir şehir!</string>
     <string name="notification00_sandbox_text">Başkan, kendinle gurur duyabilirsin!</string>
     <string name="notification01_title">HABERLER: %1$s yalnız hissediyor!</string>
     <string name="notification01_text">Başkan, lütfen geri dön!</string>
-
 
     <string name="shop_adreward">Bedava elmas</string>
     <string name="draft_smallmetrostation00_title">Metro istasyonu</string>
@@ -1857,10 +1818,8 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_roaddeco_trafficlights00_title">Trafik ışığı</string>
     <string name="draft_roaddeco_trafficlights00_text">Yaya geçidi ve trafik adasından daha güvenli.</string>
 
-
     <string name="tool_removemetrotunnel_title">Metro tüneli sil</string>
     <string name="tool_removemetrotunnel_text">Hadi biraz tünel silelim.</string>
-
 
     <string name="draft_windmill00_title">Eski Hollanda Yeldeğirmeni</string>
     <string name="draft_windmill00_text">Şehrin kırsal bolümü için eski bir yeldeğirmeni.</string>
@@ -1868,6 +1827,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_taxi_depot00_text">Basit bir toplu taşıma seçeneği.</string>
     <string name="settings_showclosebutton">Oyun menüsündeki kapat tuşu</string>
     <string name="menu_closegame">Oyundan çık</string>
+    
     <string name="disaster_pickle_title">Turşu</string>
     <string name="disaster_pickle_text">Turşu.</string>
     <string name="disaster_pickle_cmdtext">Turşu!</string>
@@ -1875,7 +1835,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_disaster_picklehuge00_text">Bütün turşuların en yücesi olan bir turşu tanrısı.</string>
     <string name="draft_disaster_picklehuge01_title">Bozguna uğramış turşu</string>
     <string name="draft_disaster_picklehuge01_text">Birazcık fazla büyümüş bir sebze. Yolları kullanabilen sivilleştirilmiş turşu oluşturabilir.</string>
-
 
     <string name="draft_discord_statue00_title">Discord statue</string>
     <string name="draft_discord_statue00_text">Discord statue.</string>
@@ -1886,6 +1845,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
     <string name="draft_roaddeco_riot00_title">Fake riot</string>
     <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
+    
     <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
     <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
     <string name="disaster_blizzard_title">Blizzard</string>
@@ -1903,7 +1863,6 @@ Cons: Less challenges</string>
     <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
     <string name="draft_gol_dead_title">Game of life</string>
     <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
-
 
     <string name="draft_coittower00_title">Coit Memorial Tower</string>
     <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
@@ -1928,13 +1887,11 @@ Cons: Less challenges</string>
     <string name="draft_feature_landmarks05_title">Landmarks VI</string>
     <string name="draft_marker_hackedmarkermarker_title">THIS VERSION HAS BEEN HACKED!</string>
 
-
     <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
     <string name="draft_haunted_house00_title">Haunted house</string>
     <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
     <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
     <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
-
 
     <string name="shader_lol">LOL</string>
     <string name="settings_hugeplugintexture">Congratulations, you\'re running in huge texture mode.</string>
@@ -1951,72 +1908,67 @@ Cons: Less challenges</string>
     <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
     <string name="shader_invert">Inverted</string>
 
-
     <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
     <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
-    <string name="store_authorby">by %s</string>
-    <string name="store_downloads">%,d downloads</string>
-    <string name="store_acquire">Download</string>
-    <string name="store_downlaod">Download</string>
-    <string name="store_downloaded">Downloaded</string>
-    <string name="dialog_storedownlaod_title">Download</string>
-    <string name="dialog_storedownload_text">Do you want to download %s?</string>
-    <string name="dialog_storerestart_title">Restart</string>
-    <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
-    <string name="store_status_notacquired">Not acquired</string>
-    <string name="store_status_downloading">Downloading</string>
-    <string name="store_status_downloaderror">Error: </string>
-    <string name="store_status_acquired">Acquired</string>
-    <string name="store_status_newlyinstalled">Newly installed</string>
-    <string name="store_status_running">Running</string>
-    <string name="store_status_notrunning">Not running</string>
-    <string name="store_status_newversioninstalled">Installed new version</string>
-    <string name="store_status_availupdate">Update available</string>
-    <string name="store_status_restartrequired">Restart required</string>
-    <string name="store_active">Active</string>
-    <string name="store_notactive">Not active</string>
-    <string name="store_fetchfailed">Network error</string>
-    <string name="store_modeexplore">Explore</string>
-    <string name="store_modeinstalled">Installed</string>
-    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
-    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
-    <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
-    <string name="dialog_storedelete_cmddelete">Uninstall</string>
-    <string name="store_modefeatured">Featured</string>
-    <string name="store_modecategory">Category</string>
-    <string name="store_shorttitle">Plugins</string>
-    <string name="gamemenu_catcity">City</string>
-    <string name="gamemenu_catcontent">Content</string>
-    <string name="gamemenu_catsocial">Social</string>
-    <string name="gamemenu_catpictures">Pictures</string>
-    <string name="gamemenu_catother">Other</string>
-    <string name="store_catcount">%,d plugins</string>
-    <string name="store_featured">Featured</string>
+    <string name="store_authorby">%s tarafından</string>
+    <string name="store_downloads">%,d indirme</string>
+    <string name="store_acquire">İndir</string>
+    <string name="store_downlaod">İndir</string>
+    <string name="store_downloaded">İndirildi</string>
+    <string name="dialog_storedownlaod_title">İndir</string>
+    <string name="dialog_storedownload_text">%s\'ı indirmek istiyor musun?</string>
+    <string name="dialog_storerestart_title">Yeniden başlat</string>
+    <string name="dialog_storerestart_text">Eklentilerde yapılan değişiklikler oyunun yeniden başlatılmasını gerektiriyor.\n\nŞimdi yeniden başlatmak istiyor musun?</string>
+    <string name="dialog_storerestart_cmdrestart">Yeniden başlat</string>
+    <string name="store_status_notacquired">Alınmadı</string>
+    <string name="store_status_downloading">İndiriliyor</string>
+    <string name="store_status_downloaderror">Hata: </string>
+    <string name="store_status_acquired">Alındı</string>
+    <string name="store_status_newlyinstalled">Yeni yüklendi</string>
+    <string name="store_status_running">Çalışıyor</string>
+    <string name="store_status_notrunning">Çalışmıyor</string>
+    <string name="store_status_newversioninstalled">Yeni versiyon yüklendi</string>
+    <string name="store_status_availupdate">Güncelleme hazır</string>
+    <string name="store_status_restartrequired">Yeniden başlatma gerekiyor</string>
+    <string name="store_active">Aktif</string>
+    <string name="store_notactive">Aktif değil</string>
+    <string name="store_fetchfailed">Bağlantı hatası</string>
+    <string name="store_modeexplore">Keşfet</string>
+    <string name="store_modeinstalled">Yüklendi</string>
+    <string name="draft_feature_freefastspeed00_title">Sınırsız yüksek hız</string>
+    <string name="draft_feature_freetunnels00_title">Sınırsız tünel</string>
+    <string name="dialog_storedelete_title">Kaldır</string>
+    <string name="dialog_storedelete_text">Bu eklentiyi kaldırmak istediğinden emin misiniz?</string>
+    <string name="dialog_storedelete_cmddelete">Kaldır</string>
+    <string name="store_modefeatured">Öne çıkan</string>
+    <string name="store_modecategory">Kategori</string>
+    <string name="store_shorttitle">Eklentiler</string>
+    <string name="gamemenu_catcity">Şehir</string>
+    <string name="gamemenu_catcontent">İçerik</string>
+    <string name="gamemenu_catsocial">Sosyal medya</string>
+    <string name="gamemenu_catpictures">Resimler</string>
+    <string name="gamemenu_catother">Diğer</string>
+    <string name="store_catcount">%,d eklentiler</string>
+    <string name="store_featured">Öne çıkan</string>
 
+    <string name="dialog_storereport_title">Eklentiyi şikayet et</string>
+    <string name="dialog_storereport_text">Lütfen \"%s\" eklentisini şikayet etmenizin sebebini belirtin:</string>
+    <string name="dialog_storereport_cmdreport">Şikayet et</string>
+    <string name="dialog_storereported_title">Şikayet edildi</string>
+    <string name="dialog_storereported_text">Geri bildiriminiz için teşekkürler! Bu eklentiyi inceleyip uygun işlemleri yapacağız.</string>
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
-
-
-    <string name="store_ratings">by %,d ratings</string>
-    <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
+    <string name="store_ratings">%,d değerlendirme</string>
+    <string name="store_loadingerror">Hata</string>
+    <string name="dialog_storeerror_title">Yükleme hatası</string>
     <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
     <string name="store_new">New and Updated</string>
     <string name="draft_cat_plugins00_title">Plugins</string>
     <string name="dialog_storesearch_title">Search plugin</string>
     <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
-
+    <string name="dialog_storesearch_cmdsearch">Ara</string>
 
     <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
     <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
-
 
     <string name="store_previouslyinstalled">Deleted</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
@@ -2025,18 +1977,18 @@ Cons: Less challenges</string>
     <string name="draft_rails00oneway00_title">One-way Railway</string>
     <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
     <string name="specialoffer_cmdbuy">Buy for %s</string>
-    <string name="influence_body_disposal_title">Funeral</string>
-    <string name="influence_body_disposal_text">Rest in peace.</string>
+    <string name="influence_body_disposal_title">Cenaze</string>
+    <string name="influence_body_disposal_text">Huzur içinde yat.</string>
     <string name="influence_traffic_title">Traffic</string>
     <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
-    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
-    <string name="ci_neighbor_bodydisposal">Funeral service</string>
+    <string name="ci_neighbor_wastedisposal">Atık imha hizmetleri</string>
+    <string name="ci_neighbor_bodydisposal">Cenaze hizmetleri</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
     <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
     <string name="draft_cat_metro00_title">Metro</string>
     <string name="draft_cat_tree00_title">Plants</string>
-    <string name="draft_railroof00_title">Roof</string>
+    <string name="draft_railroof00_title">Çatı</string>
     <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
     <string name="draft_trainplatform00_title">Platform 1</string>
     <string name="draft_trainplatform00_text">A platform of the train station.</string>
@@ -2076,8 +2028,6 @@ Cons: Less challenges</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
-
-
     <string name="channel_city_title">City News</string>
     <string name="channel_city_text">General information about your city.</string>
     <string name="settings_fullscreen">Fullscreen</string>
@@ -2110,7 +2060,6 @@ Cons: Less challenges</string>
     <string name="settings_fontscaling_big">Big</string>
     <string name="pluginerror_disable">Disable</string>
 
-
     <string name="music_next">Next music</string>
     <string name="createcity_generating">Generating City</string>
     <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
@@ -2131,7 +2080,6 @@ Cons: Less challenges</string>
     <string name="settings_hidelabels">Hide labels</string>
     <string name="settings_sound_ambient">Ambient</string>
     <string name="settings_vsync">VSync</string>
-
 
     <string name="shop_invitefriends">Earn %d diamonds per invited friend</string>
     <string name="shop_invitetitle">Invite a friend</string>
@@ -2165,6 +2113,7 @@ Cons: Less challenges</string>
     <string name="draft_fence_real06_text">Heavy iron bars between brick walls.</string>
     <string name="draft_cat_fence00_title">Fence</string>
     <string name="ci_neighbor_notrading">There are no neighboring cities to trade with.</string>
+    
     <string name="settings_sound_master">Master</string>
     <string name="draft_cemetery01_title">Big Cemetery</string>
     <string name="draft_cemetery01_text">A place where the remains of dead people are buried. This cemetery has a lot of space.</string>
