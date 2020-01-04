@@ -19,7 +19,7 @@
 
 \n\n楽しんでください :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
-    <string name="game_habitants">住民: %1$,d</string>
+    <string name="game_habitants">人口: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">地形:</string>
     <string name="createcity_sizesmall">最小</string>
@@ -1881,8 +1881,8 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
     <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
     <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
+    <string name="gallery_upload_success">投稿成功</string>
+    <string name="gallery_upload_fail">投稿失敗</string>
     <string name="draft_medic02_title">Small hospital</string>
     <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
     <string name="lang_pirate">Pirate</string>
@@ -1903,10 +1903,10 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
 
 
-    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
-    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
-    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
-    <string name="notification01_text">Mayor, please come back!</string>
+    <string name="notification00_sandbox_title">ニュース: %1$sは素晴らしい町だ</string>
+    <string name="notification00_sandbox_text">市長, 自分に誇りを持ってください!</string>
+    <string name="notification01_title">ニュース: %1$sは寂しがってる</string>
+    <string name="notification01_text">市長, 戻ってきてください</string>
 
 
     <string name="shop_adreward">Free diamonds</string>
@@ -1916,7 +1916,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
     <string name="draft_roaddeco_buildingsite00_title">Building site</string>
     <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
-    <string name="draft_roaddeco_trafficlights00_title">Traffic light</string>
+    <string name="draft_roaddeco_trafficlights00_title">信号</string>
     <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
 
 
@@ -1929,13 +1929,13 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_taxi_depot00_title">Taxi depot</string>
     <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
     <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
-    <string name="disaster_pickle_title">Pickle</string>
-    <string name="disaster_pickle_text">Pickle.</string>
-    <string name="disaster_pickle_cmdtext">Pickle!</string>
-    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
+    <string name="menu_closegame">ゲームを退出する</string>
+    <string name="disaster_pickle_title">ピクルス</string>
+    <string name="disaster_pickle_text">ピクルス.</string>
+    <string name="disaster_pickle_cmdtext">ピクルス!</string>
+    <string name="draft_disaster_picklehuge00_title">万能ピクルス</string>
     <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
-    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
+    <string name="draft_disaster_picklehuge01_title">敗れたピクルス</string>
     <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
 
 
@@ -1950,7 +1950,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
     <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
     <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
-    <string name="disaster_blizzard_title">Blizzard</string>
+    <string name="disaster_blizzard_title">猛吹雪</string>
     <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
     <string name="disaster_blizzard_cmdtext">Freeze!</string>
     <string name="draft_snowtile00_title">Permanent snow</string>
@@ -2077,15 +2077,15 @@ Cons: Less challenges</string>
 
     <string name="draft_deco_chr_santashouse00_title">サンタの家</string>
     <string name="draft_deco_chr_santashouse00_text">サンタはプレゼントを配るための拠点として使います</string>
-    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="store_previouslyinstalled">ゴミ箱</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
-    <string name="draft_rails00_title">Railway</string>
+    <string name="draft_rails00_title">線路</string>
     <string name="draft_rails00_text">Used to guide your trains.</string>
-    <string name="draft_rails00oneway00_title">One-way Railway</string>
+    <string name="draft_rails00oneway00_title">一方通行線路</string>
     <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
     <string name="specialoffer_cmdbuy">Buy for %s</string>
-    <string name="influence_body_disposal_title">Funeral</string>
-    <string name="influence_body_disposal_text">Rest in peace.</string>
+    <string name="influence_body_disposal_title">葬儀</string>
+    <string name="influence_body_disposal_text">南無阿弥陀仏</string>
     <string name="influence_traffic_title">Traffic</string>
     <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
     <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
@@ -2093,19 +2093,19 @@ Cons: Less challenges</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
     <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
-    <string name="draft_cat_metro00_title">Metro</string>
+    <string name="draft_cat_metro00_title">地下鉄</string>
     <string name="draft_cat_tree00_title">Plants</string>
     <string name="draft_railroof00_title">Roof</string>
     <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
-    <string name="draft_trainplatform00_title">Platform 1</string>
+    <string name="draft_trainplatform00_title">ホーム 1</string>
     <string name="draft_trainplatform00_text">A platform of the train station.</string>
-    <string name="draft_trainplatform01_title">Platform 2</string>
-    <string name="draft_trainplatform02_title">Platform 3</string>
-    <string name="draft_trainplatform03_title">Platform 4</string>
-    <string name="draft_trainplatform04_title">Platform 5</string>
-    <string name="draft_trainplatform05_title">Platform 6</string>
-    <string name="draft_trainplatform06_title">Platform 7</string>
-    <string name="draft_trainplatform07_title">Platform 8</string>
+    <string name="draft_trainplatform01_title">ホーム 2</string>
+    <string name="draft_trainplatform02_title">ホーム 3</string>
+    <string name="draft_trainplatform03_title">ホーム 4</string>
+    <string name="draft_trainplatform04_title">ホーム 5</string>
+    <string name="draft_trainplatform05_title">ホーム 6</string>
+    <string name="draft_trainplatform06_title">ホーム 7</string>
+    <string name="draft_trainplatform07_title">ホーム 8</string>
     <string name="draft_trainstation00_title">Local traffic platform</string>
     <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
     <string name="draft_trainstation01_title">Long-distance traffic platform</string>
@@ -2143,10 +2143,10 @@ Cons: Less challenges</string>
     <string name="control_help">Help</string>
     <string name="settings_scrolledges">Edge scrolling</string>
     <string name="dialog_rate_cmdlater">Later</string>
-    <string name="region_individualcities">Single Cities</string>
+    <string name="region_individualcities">単体の町</string>
     <string name="draft_redwood_tree00_title">Redwood Tree</string>
     <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
-    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
+    <string name="buildinginfo_daysbuilt">%1$日前に建設された</string>
     <string name="createcity_terrain">Hills</string>
     <string name="draft_tool_terrain_increase00_title">Raise</string>
     <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
@@ -2161,20 +2161,20 @@ Cons: Less challenges</string>
     <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
     <string name="notification02_title">Action required</string>
     <string name="notification02_text">Someone has to manage the development of %1$s!</string>
-    <string name="notification03_title">Never forget %1$s</string>
-    <string name="notification03_text">Please mayor, come back!</string>
-    <string name="settings_fontscaling">Font size</string>
-    <string name="settings_fontscaling_small">Small</string>
-    <string name="settings_fontscaling_medium">Medium</string>
-    <string name="settings_fontscaling_big">Big</string>
+    <string name="notification03_title">%1$sを忘れるな</string>
+    <string name="notification03_text">お願い市長、戻ってきてください!</string>
+    <string name="settings_fontscaling">字の大きさ</string>
+    <string name="settings_fontscaling_small">小さい</string>
+    <string name="settings_fontscaling_medium">普通</string>
+    <string name="settings_fontscaling_big">大きい</string>
     <string name="pluginerror_disable">Disable</string>
 
 
-    <string name="music_next">Next music</string>
-    <string name="createcity_generating">Generating City</string>
+    <string name="music_next">次の音楽</string>
+    <string name="createcity_generating">地形を構築中</string>
     <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
     <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
-    <string name="game_region">Region %1$d/%2$d</string>
+    <string name="game_region">地方 %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
     <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
     <string name="dialog_ubermode_title">Uber Mode</string>
@@ -2185,18 +2185,18 @@ Cons: Less challenges</string>
     <string name="topic_rotate">Did you know that you can rotate your city?</string>
     <string name="topic_pineapple">Pineapple on pizza?</string>
     <string name="topic_f11">Press F11 to activate fullscreen mode</string>
-    <string name="draft_permanent_snow00_title">Snow</string>
+    <string name="draft_permanent_snow00_title">雪</string>
     <string name="draft_permanent_snow00_text">There\'s always winter at this place.</string>
     <string name="settings_hidelabels">Hide labels</string>
-    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_sound_ambient">環境</string>
     <string name="settings_vsync">VSync</string>
 
 
-    <string name="shop_invitefriends">Earn %d diamonds per invited friend</string>
-    <string name="shop_invitetitle">Invite a friend</string>
-    <string name="shop_invitationtext">Hey, check out this game that I found recently:\n%s</string>
-    <string name="gamemenu_gameid">Game id: %s</string>
-    <string name="gamemenu_gameidcopied">Copied game id into clipboard</string>
+    <string name="shop_invitefriends">招待された友達一人につき%d個のダイヤモンドを取得</string>
+    <string name="shop_invitetitle">友達を招待する</string>
+    <string name="shop_invitationtext">最近見つけたこのゲームをやってみない:\n%s</string>
+    <string name="gamemenu_gameid">ゲーム ID: %s</string>
+    <string name="gamemenu_gameidcopied">ゲームのIDをコピーしました</string>
     <string name="draft_cat_intersections00_title">Interchanges</string>
     <string name="draft_intersection00_title">Overpass</string>
     <string name="draft_intersection00_text">A country road that connects to a flat highway via a bridge.</string>
@@ -2225,7 +2225,7 @@ Cons: Less challenges</string>
     <string name="draft_cat_fence00_title">Fence</string>
     <string name="ci_neighbor_notrading">There are no neighboring cities to trade with.</string>
     <string name="settings_sound_master">Master</string>
-    <string name="draft_cemetery01_title">Big Cemetery</string>
+    <string name="draft_cemetery01_title">大きな墓地</string>
     <string name="draft_cemetery01_text">A place where the remains of dead people are buried. This cemetery has a lot of space.</string>
 
 </resources>
