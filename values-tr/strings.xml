@@ -801,30 +801,30 @@
     <string name="dialog_tosandbox_title">Kum Havuzu</string>
     <string name="dialog_tosandbox_text">Şehri Kum Havuzu Modu\'na almak ister misin?\n\nBu geri alınamaz!</string>
     <string name="requirement_rank">En az %1$s (%2$,d)</string>
-    <string name="ca_wastedisposal_text">Atık bertarafı: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Cenaze: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Atık bertarafı: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Dekorasyon</string>
     <string name="draftselector_titlewastedisposal">Atık bertarafı</string>
-    <string name="draftselector_titlemilitary">Ordu</string>
-    <string name="draft_zonemilitary_title">Orduya Ait Alan</string>
-    <string name="draft_mltry_depot00_title">Hangar</string>
-    <string name="draft_mltry_tankbase00_title">Tank Üssü</string>
-    <string name="draft_mltry_rocketlauncher00_title">Roketatar</string>
-    <string name="draft_mltry_road00_title">Askeri Yol</string>
-    <string name="draft_mltry_hq00_title">Karargah</string>
-    <string name="draft_mltry_baracks00_title">Kışla</string>
-    <string name="draft_landfill00_title">Çöp depolama alanı</string>
-    <string name="draft_wasteincinerator00_title">Atık Yakıcı</string>
-    <string name="draft_firedepartment02_title">Ana Yangın İstasyonu</string>
+    <string name="ci_rank_title">Kademeler</string>
     <string name="draft_cemetery00_title">Mezarlık</string>
     <string name="draft_crematory00_title">Ölü Yakma Yeri</string>
-    <string name="rank_newrank">Tebrikler, şehrin %1$s yeni bir aşama kazandı:</string>
-    <string name="rank_reward">Ödül kazandın: %1$s</string>
-    <string name="rank_available">Artık Ulaşılabilir:</string>
-    <string name="rank_title">Yeni Şehir Aşaması</string>
-    <string name="ci_rank_title">Kademeler</string>
     <string name="draft_firedepartment02_heli00_title">Helikopter Pisti</string>
+    <string name="draft_firedepartment02_title">Ana Yangın İstasyonu</string>
+    <string name="draft_landfill00_title">Çöp depolama alanı</string>
+    <string name="draft_mltry_depot00_title">Hangar</string>
+    <string name="draft_mltry_road00_title">Askeri Yol</string>
+    <string name="draft_mltry_rocketlauncher00_title">Roketatar</string>
+    <string name="draft_wasteincinerator00_title">Atık Yakıcı</string>
+    <string name="rank_title">Yeni Şehir Aşaması</string>
+    <string name="rank_reward">Ödül kazandın: %1$s</string>
+    <string name="rank_newrank">Tebrikler, şehrin %1$s yeni bir aşama kazandı:</string>
+    <string name="rank_available">Artık Ulaşılabilir:</string>
+    <string name="draftselector_titlemilitary">Ordu</string>
+    <string name="draft_zonemilitary_title">Orduya Ait Alan</string>
+    <string name="draft_mltry_tankbase00_title">Tank Üssü</string>
+    <string name="draft_mltry_hq00_title">Karargah</string>
     <string name="draft_firedepartment02_heli00_text">Helikopterler buraya iniş yapabilir ve buradan havalanabilirler.\n\nİtfaiyenin etki alanını genişletirler.</string>
+    <string name="draft_mltry_baracks00_title">Kışla</string>
     <string name="settings_reset_text">Tüm ayarlar kaybedilecek. Emin misin?</string>
     <string name="settings_reset_title">Ayarları Sıfırla</string>
     <string name="settings_leftsidetraffic">Sol Direksiyon Trafiği</string>
@@ -1021,7 +1021,6 @@
     <string name="dialog_presentdaily_text">Yarın daha fazla alacaksın.</string>
     <string name="dialog_presentdaily_day">Gün %1$,d</string>
     <string name="rank_needed_xp">En az %1$,d şehir puanı gerekiyor</string>
-    <!-- <string name="currency_symbol" translatable="false">₮</string> -->
     <string name="settings_shortmoney">Parayı kısalt.</string>
     <string name="dialog_newsign_title">Yeni etiket</string>
     <string name="dialog_newsign_text">Bu alan için yeni bir ad girin.</string>
@@ -1121,6 +1120,7 @@
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bu simülasyonda kendi şehrini yarat.</string>
+
     <string name="store_longdesc">Kendi şehrini yaratmak ister misin? TheoTown\'da şehrini gelişirken izleyebilirsin. Konut, ticari veya endüstriyel binalar kurup onları yollarla birleştir. Şehrini parklar, okullar ve tesisler kurarak daha çekici yap.
 
 Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya şehirlerini ve haritalarını yükleyecektir ve sen de bunlara erişebileceksin.</string>
@@ -1330,7 +1330,6 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_hydroplant00_text">Nehirlerin gücünü kullanarak elektrik üreten, hidroelektrik bir elektrik santrali. Kirlilik oluşturmaz.</string>
     <string name="draft_feature_slime00_title">Balçık felaketi</string>
     <string name="draft_feature_slime00_text">Balçık felaketi şehrinizi yer. Tabi sadece bunu istiyorsanız.</string>
-    
     <string name="settings_terrainshading">Arazi gölgeleme</string>
     <string name="draft_deco_chr_tree00_title">Noel ağacı</string>
     <string name="draft_deco_chr_tree00_text">Noel ağacı şehrinizde yaşayan insanların içini sevinç ve gururla dolduracak. Herhangi bir hediye gördün mü?</string>
@@ -1370,6 +1369,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_firework00_text">Kendi havai fişeklerini oluştur ve yerleştir.</string>
     <string name="draft_syl_emitter01_title">Zaman şalteri</string>
     <string name="draft_syl_emitter01_text">Yeni yılda otomatik olarak sinyal gönderecek bir şalter.</string>
+
 
     <string name="draft_airplane02_title">T430</string>
     <string name="draft_airplane02_text">TheoAir\'den; hızlı ve uzun mesafeleri gidebilen bir uçak.</string>
@@ -1425,6 +1425,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_small_mosque00_title">Mahalle Camiisi</string>
     <string name="draft_small_mosque00_text">Vatandaşların için biraz iman</string>
 
+
     <string name="minigame_reachlevel">%d seviyeye ulaş</string>
     <string name="minigame_price">Ücret</string>
     <string name="minigame_time">Zaman</string>
@@ -1435,6 +1436,8 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="dialog_performance_title">Performans</string>
     <string name="draft_brandenburgertor00_title">Brandenburg Kapısı</string>
     <string name="draft_brandenburgertor00_text">Brandenburg Kapısı, 18.yy\'da yapılmış göz kamaştırıcı bir yapıt. Berlin\'de bulunmaktadır.</string>
+
+
     <string name="control_accept">Kabul et</string>
     <string name="control_dismiss">Vazgeç</string>
     <string name="settings_citytasks">Görevler</string>
@@ -1451,6 +1454,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="dialog_shortbuildtime_title">İnşa etme zamanı azaltması</string>
     <string name="dialog_shortbuildtime_text">Kısa bir video izleyerek inşa etme zamanını %s. kadar azaltabilirsin</string>
 
+
     <string name="settings_saveonappswitch">Değiştirmede oyunu kaydet</string>
     <string name="settings_saveforscreenshot">Ekran görüntüsü için kaydet</string>
     <string name="draft_eiffeltower00_title">Eyfel Kulesi</string>
@@ -1464,6 +1468,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_feature_valentinesday00_text">Bu yapıları kalıcı olarak aç</string>
     <string name="tool_removetunnel_title">Tünel kaldır</string>
     <string name="tool_removetunnel_text">Hadi biraz tünel kaldıralım.</string>
+
 
     <string name="dialog_halftunnelprice_title">Yarı tünel fiyatı</string>
     <string name="dialog_halftunnelprice_text">Biraz elmas\'dan tasarruf etmek ister misin? Bu yükseltme tünel ücretini 50%% oranında %s kadar azaltır.</string>
@@ -1554,6 +1559,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="task_tap_screen">%s kere ekrana tıkla.</string>
     <string name="task_current">Geçerli görev</string>
 
+
     <string name="dialog_adreward_title">Ödüllü reklam</string>
     <string name="dialog_adreward_text">Bu reklamı izleyerek bedava elmas kazanmak ister misin?</string>
     <string name="dialog_adreward_cmdwatch">Al</string>
@@ -1574,6 +1580,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="tool_removeuwire_title">Yer altı kabloları</string>
     <string name="tool_removeuwire_text">Bu araç yer altı kablolarını kaldırmaya yarar.</string>
 
+
     <string name="draft_aircraft_boneyard00_title">Uçak mezarlığı</string>
     <string name="draft_aircraft_boneyard00_text">Emekli uçaklar için bir yer. Biraz kirli olsa da gelir sağlar.</string>
     <string name="notify_tutorial_reminder_title">İşe koyulma zamanı</string>
@@ -1589,6 +1596,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_willistower00_text">Willis Kulesi (Sears Kulesi olarak da bilinir); Şikago, Amerika\'da bulunan bir gökdelendir. 450 metreyi aşan uzunluğu ile 1973\'de inşa edilmiştir.</string>
     <string name="draft_feature_landmarks01_title">Şehir Simgeleri II</string>
     <string name="draft_feature_landmarks01_text">Sınırsız kullanım için şu inşaları kapsar:</string>
+
 
     <string name="draft_cat_supply00_title">Erzak</string>
     <string name="draft_cat_road00_title">Yol</string>
@@ -1783,7 +1791,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
 
     <string name="draft_roaddeco_barrier_open00_title">Bariyer</string>
     <string name="draft_roaddeco_barrier_open00_text">Kapatmak için dokun. Trafik sıkışıklığı için ideal.</string>
-    
+
     <string name="selectable_find">(%,d) bul</string>
     <string name="gallery_upload_success">Başarı</string>
     <string name="gallery_upload_fail">Yükleme başarısız</string>
@@ -1827,7 +1835,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_taxi_depot00_text">Basit bir toplu taşıma seçeneği.</string>
     <string name="settings_showclosebutton">Oyun menüsündeki kapat tuşu</string>
     <string name="menu_closegame">Oyundan çık</string>
-    
+
     <string name="disaster_pickle_title">Turşu</string>
     <string name="disaster_pickle_text">Turşu.</string>
     <string name="disaster_pickle_cmdtext">Turşu!</string>
@@ -1845,7 +1853,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
     <string name="draft_roaddeco_riot00_title">Fake riot</string>
     <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
-    
+
     <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
     <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
     <string name="disaster_blizzard_title">Blizzard</string>
@@ -2028,6 +2036,8 @@ Cons: Less challenges</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
     <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+
+
     <string name="channel_city_title">City News</string>
     <string name="channel_city_text">General information about your city.</string>
     <string name="settings_fullscreen">Fullscreen</string>
@@ -2063,7 +2073,7 @@ Cons: Less challenges</string>
     <string name="music_next">Next music</string>
     <string name="createcity_generating">Generating City</string>
     <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
-    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(\n\nMissing amount is %1$s</string>
     <string name="game_region">Region %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
     <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
@@ -2113,9 +2123,77 @@ Cons: Less challenges</string>
     <string name="draft_fence_real06_text">Heavy iron bars between brick walls.</string>
     <string name="draft_cat_fence00_title">Fence</string>
     <string name="ci_neighbor_notrading">There are no neighboring cities to trade with.</string>
-    
     <string name="settings_sound_master">Master</string>
     <string name="draft_cemetery01_title">Big Cemetery</string>
     <string name="draft_cemetery01_text">A place where the remains of dead people are buried. This cemetery has a lot of space.</string>
+
+
+    <string name="settings_bigger_minimap">Bigger minimap</string>
+    <string name="stage_account_title">Account</string>
+    <string name="stage_account_text">In order to use our online services you have to be connected to an account.</string>
+    <string name="stage_account_forum">TheoTown Forum</string>
+    <string name="forum_username">Username:</string>
+    <string name="forum_password">Password:</string>
+    <string name="forum_inuse">This account is used to login right now.</string>
+    <string name="forum_cmdprofile">Show Profile</string>
+    <string name="forum_cmdregister">No account? Register now!</string>
+    <string name="forum_cmdlogin">Login</string>
+    <string name="forum_cmdlogout">Logout</string>
+    <string name="forum_success">Success</string>
+    <string name="forum_loginerror">Login Error</string>
+    <string name="forum_networkerror">Connection Error</string>
+    <string name="stage_account_other">Other Accounts</string>
+    <string name="stage_account_connected">%s - Connected</string>
+    <string name="stage_account_steam">Steam</string>
+    <string name="stage_gallery_update">Update</string>
+    <string name="stage_gallery_noimages">No images uploaded, yet.</string>
+    <string name="stage_region_online">Online</string>
+    <string name="online_city_visit">Visit</string>
+    <string name="store_status_notavailable">This plugin is not available right now</string>
+    <string name="dialog_missingplugins_title">Missing Plugins</string>
+    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now</string>
+    <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
+    <string name="dialog_missingplugins_cmdget">Get them</string>
+    <string name="dialog_missingplugins_cmdskip">Continue without</string>
+    <string name="statistics_energyproduced">Produced Energy</string>
+    <string name="statistics_energyneed">Needed Energy</string>
+    <string name="statistics_waterproduced">Produced Water</string>
+    <string name="statistics_waterneed">Needed Water</string>
+    <string name="ci_show_statistics">Show statistics</string>
+    <string name="dialog_commentdelete_title">Delete Comment</string>
+    <string name="dialog_commentdelete_text">Hey, are you sure that you want to delete that comment by %1$s?</string>
+    <string name="dialog_commentdelete_cmd">Delete</string>
+    <string name="stage_comment_login">Login with TheoTown account to comment</string>
+    <string name="dialog_report_title">Report</string>
+    <string name="dialog_report_text">Please specify for what reason you want to report %1$s:</string>
+    <string name="dialog_report_appendix">You can send additional information to report@theotown.com</string>
+    <string name="dialog_reported_title">Done</string>
+    <string name="dialog_reported_text">Thank you for your report. We will review it and take action accordingly.\nYou may send us additional information to report@theotown.com if needed.</string>
+    <string name="dialog_report_cmd">Report</string>
+    <string name="stage_comment_reportsubject">the comment by %1$s</string>
+    <string name="stage_store_reportsubject">the plugin "%1$s"</string>
+    <string name="stage_comment_noperm">You are not allowed to comment on that plugin.</string>
+    <string name="store_modecommented">Comments</string>
+    <string name="report_sexual">Sexual content</string>
+    <string name="report_violent_or_repulsive">Violent or repulsive content</string>
+    <string name="report_hateful_or_abusive">Hateful or abusive content</string>
+    <string name="report_dangerous">Dangerous content</string>
+    <string name="report_promotes_terrorism">Promotes terrorism</string>
+    <string name="report_spam_or_misleading">Spam or misleading</string>
+    <string name="report_infringes_my_rights">Infringes my rights</string>
+    <string name="report_bad_behavior">Bad behavior</string>
+    <string name="report_violates_store_rules">Violates other store rules</string>
+    <string name="stage_comment_cmdsend">Send</string>
+    <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
+    <string name="dialog_storerestart_cmdlater">Later</string>
+    <string name="wealthy_poor">Poor</string>
+    <string name="wealthy_medium">Medium</string>
+    <string name="wealthy_rich">Wealthy</string>
+    <string name="ci_rci_res">Residential</string>
+    <string name="ci_rci_com">Commercial</string>
+    <string name="ci_rci_ind">Industrial</string>
+    <string name="settings_supportdrawingintwomodetools">Support dragging in two-mode-tools</string>
+    <string name="settings_category_controls">Controls</string>
+    <string name="draft_cat_rci_parts00_title">Manual building</string>
 
 </resources>
