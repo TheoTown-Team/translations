@@ -2062,9 +2062,9 @@
     <string name="draft_tool_terrain_platform00_text">범위 이내의 지형을 같은 높이로 맞춥니다.</string>
     <string name="draft_cat_hills00_title">언덕</string>
     <string name="draft_feature_starter_pack01_title">스타터팩 II</string>
-    <string name="draft_budget_roadtoll00_title">톨게이트</string>
-    <string name="draft_tollbooth00_title">톨게이트</string>
-    <string name="draft_tollbooth00_text">톨게이트로 돈을 벌 수 있을 테지만, 사람들이 좋아하질 않을 겁니다.</string>
+    <string name="draft_budget_roadtoll00_title">요금소</string>
+    <string name="draft_tollbooth00_title">요금소</string>
+    <string name="draft_tollbooth00_text"> 돈을 벌 수 있을 테지만, 사람들이 좋아하질 않을 겁니다.</string>
     <string name="notification02_title">조치가 필요함</string>
     <string name="notification02_text">누군가 %1$s의 개발을 관리해야 합니다!</string>
     <string name="notification03_title">%1$s 이것을 까먹지 마세요</string>
@@ -2075,7 +2075,7 @@
     <string name="settings_fontscaling_big">큼</string>
     <string name="pluginerror_disable">해제</string>
 
-    <string name="music_next">다음 브금</string>
+    <string name="music_next">다음 배경음악</string>
     <string name="createcity_generating">도시 생성</string>
     <string name="dialog_notenoughmoneyp_title">부족한 재정</string>
     <string name="dialog_notenoughmoneyp_text">이것을 바로 하기위한 돈이 충분치 않습니다 :(</string>
@@ -2099,7 +2099,7 @@
     <string name="shop_invitefriends">친구를 초대해서 %d 개의 다이아몬드를 얻으세요</string>
     <string name="shop_invitetitle">친구 초대하기</string>
     <string name="shop_invitationtext">최근에 내가 찾은 이 게임 한번 해봐요 :\n%s</string>
-    <string name="gamemenu_gameid">게임 아이디: %s</string>
+    <string name="gamemenu_gameid">게임 아이디 : %s</string>
     <string name="gamemenu_gameidcopied">클립보드에 게임 아이디 복사됨</string>
     <string name="draft_cat_intersections00_title">교차로</string>
     <string name="draft_intersection00_title">상단교차로</string>
@@ -2109,7 +2109,7 @@
     <string name="draft_intersection02_title">일반교차로</string>
     <string name="draft_intersection02_text">두 고속도로가 서로 만나는 교차로 입니다. 한 고속도로가 다른 고속도로 위를 지나갑니다.</string>
     <string name="draft_intersection_complex00_title">클로버형 교차로</string>
-    <string name="draft_intersection_complex00_text">.</string>
+    <string name="draft_intersection_complex00_text">클로버 모양이 중심에 있는 완전 입체 교차로 입니다.</string>
     <string name="tool_removefence_title">울타리 철거하기</string>
     <string name="tool_removefence_text">이도구는 울타리만을 철거하는데 사용됩니다.</string>
     <string name="draft_fence_real00_title">목제 울타리</string>
@@ -2132,94 +2132,87 @@
     <string name="draft_cemetery01_title">큰 묘지</string>
     <string name="draft_cemetery01_text">죽은 사람의 유골이 묻힌 곳입니다. 이 묘지는 공간이 많습니다.</string>
 
-
-    <string name="settings_bigger_minimap">Bigger minimap</string>
-    <string name="stage_account_title">Account</string>
-    <string name="stage_account_text">In order to use our online services you have to be connected to an account.</string>
+    <string name="settings_bigger_minimap">더 큰 미니맵</string>
+    <string name="stage_account_title">계정</string>
+    <string name="stage_account_text">온라인 서비스를 이용하기 위해서는 계정에 연결해야 합니다.</string>
     <string name="stage_account_forum">TheoTown Forum</string>
-    <string name="forum_username">Username:</string>
-    <string name="forum_password">Password:</string>
-    <string name="forum_inuse">This account is used to login right now.</string>
-    <string name="forum_cmdprofile">Show Profile</string>
-    <string name="forum_cmdregister">No account? Register now!</string>
-    <string name="forum_cmdlogin">Login</string>
-    <string name="forum_cmdlogout">Logout</string>
-    <string name="forum_success">Success</string>
-    <string name="forum_loginerror">Login Error</string>
-    <string name="forum_networkerror">Connection Error</string>
-    <string name="stage_account_other">Other Accounts</string>
-    <string name="stage_account_connected">%s - Connected</string>
-    <string name="stage_account_steam">Steam</string>
-    <string name="stage_gallery_update">Update</string>
-    <string name="stage_gallery_noimages">No images uploaded, yet.</string>
-    <string name="stage_region_online">Online</string>
-    <string name="online_city_visit">Visit</string>
-    <string name="store_status_notavailable">This plugin is not available right now</string>
-    <string name="dialog_missingplugins_title">Missing Plugins</string>
-    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now</string>
-    <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
-    <string name="dialog_missingplugins_cmdget">Get them</string>
-    <string name="dialog_missingplugins_cmdskip">Continue without</string>
-    <string name="statistics_energyproduced">Produced Energy</string>
-    <string name="statistics_energyneed">Needed Energy</string>
-    <string name="statistics_waterproduced">Produced Water</string>
-    <string name="statistics_waterneed">Needed Water</string>
-    <string name="ci_show_statistics">Show statistics</string>
-    <string name="dialog_commentdelete_title">Delete Comment</string>
-    <string name="dialog_commentdelete_text">Hey, are you sure that you want to delete that comment by %1$s?</string>
-    <string name="dialog_commentdelete_cmd">Delete</string>
-    <string name="stage_comment_login">Login with TheoTown account to comment</string>
-    <string name="dialog_report_title">Report</string>
-    <string name="dialog_report_text">Please specify for what reason you want to report %1$s:</string>
-    <string name="dialog_report_appendix">You can send additional information to report@theotown.com</string>
-    <string name="dialog_reported_title">Done</string>
-    <string name="dialog_reported_text">Thank you for your report. We will review it and take action accordingly.\nYou may send us additional information to report@theotown.com if needed.</string>
-    <string name="dialog_report_cmd">Report</string>
-    <string name="stage_comment_reportsubject">the comment by %1$s</string>
-    <string name="stage_store_reportsubject">the plugin "%1$s"</string>
-    <string name="stage_comment_noperm">You are not allowed to comment on that plugin.</string>
-    <string name="store_modecommented">Comments</string>
-    <string name="report_sexual">Sexual content</string>
-    <string name="report_violent_or_repulsive">Violent or repulsive content</string>
-    <string name="report_hateful_or_abusive">Hateful or abusive content</string>
-    <string name="report_dangerous">Dangerous content</string>
-    <string name="report_promotes_terrorism">Promotes terrorism</string>
-    <string name="report_spam_or_misleading">Spam or misleading</string>
-    <string name="report_infringes_my_rights">Infringes my rights</string>
-    <string name="report_bad_behavior">Bad behavior</string>
-    <string name="report_violates_store_rules">Violates other store rules</string>
-    <string name="stage_comment_cmdsend">Send</string>
-    <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
-    <string name="dialog_storerestart_cmdlater">Later</string>
-    <string name="wealthy_poor">Poor</string>
-    <string name="wealthy_medium">Medium</string>
-    <string name="wealthy_rich">Wealthy</string>
-    <string name="ci_rci_res">Residential</string>
-    <string name="ci_rci_com">Commercial</string>
-    <string name="ci_rci_ind">Industrial</string>
-    <string name="settings_supportdrawingintwomodetools">Support dragging in two-mode-tools</string>
-    <string name="settings_category_controls">Controls</string>
-    <string name="draft_cat_rci_parts00_title">Manual building</string>
+    <string name="forum_username">이름 : </string>
+    <string name="forum_password">비밀번호 : </string>
+    <string name="forum_inuse">이미 로그인되어있는 계정입니다.</string>
+    <string name="forum_cmdprofile">프로필 보기</string>
+    <string name="forum_cmdregister">계정이 없으신가요? 지금 바로 가입하세요!</string>
+    <string name="forum_cmdlogin">로그인</string>
+    <string name="forum_cmdlogout">로그아웃</string>
+    <string name="forum_success">성공</string>
+    <string name="forum_loginerror">로그인 에러</string>
+    <string name="forum_networkerror">연결 에러</string>
+    <string name="stage_account_other">다른 계정</string>
+    <string name="stage_account_connected">%s 에 연결됨</string>
+    <string name="stage_account_steam">스팀</string>
+    <string name="stage_gallery_update">업데이트</string>
+    <string name="stage_gallery_noimages">아직 업로드된 이미지가 없습니다.</string>
+    <string name="stage_region_online">온라인</string>
+    <string name="online_city_visit">방문</string>
+    <string name="store_status_notavailable">이 플러그인은 지금 사용가능하지 않습니다.</string>
+    <string name="dialog_missingplugins_title">사라진 플러그인</string>
+    <string name="dialog_missingplugins_text">이 도시는 다운되지 않았거나 현재 사용하지않는 플러그인을 포함하고 있습니다.</string>
+    <string name="dialog_missingplugins_pluginby">•%2$s 의 %1$s</string>
+    <string name="dialog_missingplugins_cmdget">플러그인 가져오기</string>
+    <string name="dialog_missingplugins_cmdskip">플러그인 없이 진행하기</string>
+    <string name="statistics_energyproduced">전력 생산량</string>
+    <string name="statistics_energyneed">전력 필요량</string>
+    <string name="statistics_waterproduced">수도 생산량</string>
+    <string name="statistics_waterneed">수도 필요량</string>
+    <string name="ci_show_statistics">통계 보기</string>
+    <string name="dialog_commentdelete_title">댓글 삭제</string>
+    <string name="dialog_commentdelete_text">정말로 %1$s 의 댓글을 지우고 싶으신가요?</string>
+    <string name="dialog_commentdelete_cmd">삭제</string>
+    <string name="stage_comment_login">댓글을 달기 위해 TheoTown계정으로 로그인 하세요</string>
+    <string name="dialog_report_title">신고</string>
+    <string name="dialog_report_text">어떠한 이유로 다음 사용자를 신고하고자 하는지 선택해 주세요 - %1$s :</string>
+    <string name="dialog_report_appendix">추가 정보를 report@theotown.com 에 보낼 수도 있습니다.</string>
+    <string name="dialog_reported_title">완료</string>
+    <string name="dialog_reported_text">신고해 주셔서 감사합니다. 저희가 바로 검토후 조치하겠습니다.\n 만약에 추가 정보를 보내실려면 report@theotown.com 에 보내주시기 바랍니다.</string>
+    <string name="dialog_report_cmd">신고</string>
+    <string name="stage_comment_reportsubject">다음 유저가 댓글함 - %1$s</string>
+    <string name="stage_store_reportsubject">플러그인 "%1$s"</string>
+    <string name="stage_comment_noperm">이 플러그인에 댓글을 달 수 없습니다.</string>
+    <string name="store_modecommented">댓글</string>
+    <string name="report_sexual">성적 컨텐츠</string>
+    <string name="report_violent_or_repulsive">폭력적 컨텐츠</string>
+    <string name="report_hateful_or_abusive">무례한 컨텐츠</string>
+    <string name="report_dangerous">위험한 컨텐츠</string>
+    <string name="report_promotes_terrorism">테러행위 유도</string>
+    <string name="report_spam_or_misleading">스팸 또는 허위사실</string>
+    <string name="report_infringes_my_rights">나의 권리를 침해함</string>
+    <string name="report_bad_behavior">무례한 행동</string>
+    <string name="report_violates_store_rules">다른 스토어 규칙 위반</string>
+    <string name="stage_comment_cmdsend">보내기</string>
+    <string name="stage_comment_cmdsendhint">댓글을 입력하세요</string>
+    <string name="dialog_storerestart_cmdlater">나중에</string>
+    <string name="wealthy_poor">저소득층</string>
+    <string name="wealthy_medium">중산층</string>
+    <string name="wealthy_rich">고소득층</string>
+    <string name="ci_rci_res">주거</string>
+    <string name="ci_rci_com">상업</string>
+    <string name="ci_rci_ind">산업</string>
+    <string name="settings_supportdrawingintwomodetools">two-mode-tools에서 드래그 지원</string>
+    <string name="settings_category_controls">조종</string>
+    <string name="draft_cat_rci_parts00_title">건물 선택</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
 1. 업데이트 로그 양식은 다음과 같이 해주세요.
- ㄱ. 제목 (뒤의 영어만 사용)
-   a. 한글 번역 업데이트    / Korean translation Update
-   b. 한글 맞춤법/문법 수정 / Grammar fix
-   c. 부가 번역            / Addition
- ㄴ. 내용
-   a. 수정 문장 줄 ㅡ 자세한 수정 내용
-   b. 만일 번역에 확신이 들지 않는다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
-   c. 부가 번역에 대해서는 이미 pull request를 한 경우 사용해 주시기바랍니다.
-2. 번역의 방향은 아래와 같습니다.
- ㄱ. 의미상 부적절한 어휘 수정
-3. 주의사항
- ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 왜냐하면 번역물이 Merged 돼야 본 게임에 적용되기 때문입니다.
- ㄴ. 최대한 원문에 충실 한 번역을 해주세요. 왜냐하면 원작자의 의견이 최대한 반영되어야 한다고 생각되기 때문입니다.
- ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬 등의 문자 또한 사용에 주의하시기 바랍니다.
- ㄹ. dialog 내용에 대해서 의문이 드신다면 네이버 카페 게시글을 참고하시기 바랍니다.
-4. 기타 정보
+ ㄱ. 제목 : 한글 번역 업데이트 / Korean translation Update
+ ㄴ. 내용 : <수정한 문장의 줄> ㅡ <자세한 수정 내용>
+   a. 해석의 차이가 생길 여지가 있다면, 해당 사항을 수정 내용에 반드시 명시해주세요.
+   b. 문법수정과 같은 당연한 사항들은 넘어가셔도 됩니다.
+2. 주의사항
+ ㄱ. 번역후 반드시 Create pull request를 하시기 바랍니다. 번역물이 Merged 되어야 본 게임에 적용됩니다.
+ ㄴ. 원문에 충실하되, 적절한 의역을 섞어서 최종적으로 읽기 편한 글이 목표입니다.
+ ㄷ. 이 문서는 xml문서입니다. 파일을 읽어 들이는 데에 필요한 부분(%s, %d, %1$s)을 수정하지 않도록 주의하시기 바랍니다. 슬래쉬(/) 등의 문자 또한 사용에 주의하시기 바랍니다.
+ ㄹ. dialog 내용에 대해서 의문이 드신다면 https://cafe.naver.com/blueft245/182 를 참고하시기 바랍니다.
+3. 기타 정보
  ㄱ. 번역 문구에 대한 문의는 카카오톡 yvelkram 을 통해 해주시기 바랍니다.
- ㄴ. 부득이하게 번역을 더이상 진행할 수 없을경우, 반드시 인수인계를 해주시기 바랍니다.
+ ㄴ. 부득이하게 번역을 더이상 진행할 수 없을 경우, 반드시 인수인계를 해주시기 바랍니다.
 -->
