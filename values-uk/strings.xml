@@ -2000,7 +2000,7 @@
     <string name="dialog_storereported_text">Дякуємо за ваш відгук!Ми розглянемо цей плагін та вживемо відповідних заходів.</string>
 
 
-    <string name="store_ratings">by %,d рейтинг</string>
+    <string name="store_ratings"> %,d рейтинг</string>
     <string name="store_loadingerror">Помилка</string>
     <string name="dialog_storeerror_title">Завантаження проблеми</string>
     <string name="dialog_storeerror_text">Неможливо завантажити цей плагін з наступної причини:</string>
@@ -2015,7 +2015,7 @@
     <string name="draft_deco_chr_santashouse00_text">Санта використовує цей будинок як склад для подарунків.</string>
 
 
-    <string name="store_previouslyinstalled">Видалити</string>
+    <string name="store_previouslyinstalled">Видалені</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
     <string name="draft_rails00_title">Залізнична дорога</string>
     <string name="draft_rails00_text">Використовується для залізничної логістики.</string>
@@ -2081,10 +2081,10 @@
     <string name="control_help">Довідка</string>
     <string name="settings_scrolledges">Прокрутка країв</string>
     <string name="dialog_rate_cmdlater">Пізніше</string>
-    <string name="region_individualcities">Єдині міста</string>
+    <string name="region_individualcities">Мої міста</string>
     <string name="draft_redwood_tree00_title">Червоне дерево</string>
     <string name="draft_redwood_tree00_text">Типове дерево з Редвуд-Форест Каліфорнії.</string>
-    <string name="buildinginfo_daysbuilt">Збірка: %1$,d day(s) ago</string>
+    <string name="buildinginfo_daysbuilt">Збудовано: %1$,d днів назад</string>
     <string name="createcity_terrain">Пагорби</string>
     <string name="draft_tool_terrain_increase00_title">Підняти</string>
     <string name="draft_tool_terrain_increase00_text">Піднімає місцевість для формування пагорбів.</string>
@@ -2099,7 +2099,7 @@
     <string name="draft_tollbooth00_text">Розмістіть це на дорозі щоб водії платили за використання дороги (занижує щастя).</string>
     <string name="notification02_title">Потрібна дія</string>
     <string name="notification02_text">Хтось повинен керувати розвитком %1$s !</string>
-    <string name="notification03_title">Ніколи не забувай %1$s и!</string>
+    <string name="notification03_title">Ніколи не забувай %1$s !</string>
     <string name="notification03_text">Будь ласка, міський голова, поверніться!</string>
     <string name="settings_fontscaling">Розмір шрифту</string>
     <string name="settings_fontscaling_small">Малий</string>
@@ -2161,8 +2161,8 @@
     <string name="draft_fence_real06_title">Залізний паркан</string>
     <string name="draft_fence_real06_text">Важкі залізні бруски між цегляними стінами.</string>
     <string name="draft_cat_fence00_title">Паркан</string>
-    <string name="ci_neighbor_notrading">Незнайдено сусідні міста, з якими можнаб було торгувати.</string>
-    <string name="settings_sound_master">Магістр</string>
+    <string name="ci_neighbor_notrading">Незнайдено сусідніх міст, з якими можнаб було торгувати.</string>
+    <string name="settings_sound_master">Помічники</string>
     <string name="draft_cemetery01_title">Велике кладовище</string>
     <string name="draft_cemetery01_text">Місце, де поховані останки загиблих людей. На цьому кладовищі багато місця.</string>
 
@@ -2208,7 +2208,7 @@
     <string name="dialog_report_appendix">Ви можете надіслати додаткову інформацію на цю адресу report@theotown.com</string>
     <string name="dialog_reported_title">Готово</string>
     <string name="dialog_reported_text">Дякуємо за ваш звіт. Ми розглянемо його та вживемо відповідних заходів.\nВи можете надіслати нам додаткову інформацію на report@theotown.com при необхідності.</string>
-    <string name="dialog_report_cmd">Звіт</string>
+    <string name="dialog_report_cmd">Репорт</string>
     <string name="stage_comment_reportsubject">коментар від %1$s</string>
     <string name="stage_store_reportsubject">плагін "%1$s"</string>
     <string name="stage_comment_noperm">Вам не дозволяється коментувати цей плагін.</string>
@@ -2225,45 +2225,45 @@
     <string name="stage_comment_cmdsend">Надіслати</string>
     <string name="stage_comment_cmdsendhint">Введіть тут свій коментар ...</string>
     <string name="dialog_storerestart_cmdlater">Пізніше</string>
-    <string name="wealthy_poor">Бідні</string>
+    <string name="wealthy_poor">Бідний</string>
     <string name="wealthy_medium">Середній</string>
     <string name="wealthy_rich">Заможний</string>
-    <string name="ci_rci_res">Житлова</string>
-    <string name="ci_rci_com">Комерційний</string>
-    <string name="ci_rci_ind">Промислові</string>
+    <string name="ci_rci_res">Городян</string>
+    <string name="ci_rci_com">Комерції</string>
+    <string name="ci_rci_ind">Промисловості</string>
     <string name="settings_supportdrawingintwomodetools">Підтримка перетягування в двох режимах-інструментах</string>
     <string name="settings_category_controls">Управління</string>
     <string name="draft_cat_rci_parts00_title">Ручне будівництво</string>
 
 
-    <string name="settings_verticaltoolbuttons">Vertical tool actions</string>
-    <string name="toolaction_build">Build</string>
-    <string name="toolaction_joinroad">Join roads</string>
-    <string name="toolaction_trafficlights">Use traffic lights</string>
-    <string name="toolaction_bridge">Bridge</string>
-    <string name="toolaction_constantheight">Constant height</string>
-    <string name="toolaction_modifyunder">Below</string>
-    <string name="toolaction_levelup">Higher</string>
-    <string name="toolaction_leveldown">Lower</string>
-    <string name="toolaction_upwards">Upwards</string>
-    <string name="toolaction_downwards">Downwards</string>
-    <string name="toolaction_nextframe">Next variant</string>
-    <string name="toolaction_prevframe">Previous variant</string>
-    <string name="toolaction_singlelane">Single lane</string>
-    <string name="toolaction_randomcar">Select random</string>
-    <string name="toolaction_hidebuildings">Highlight car</string>
-    <string name="toolaction_radiusbigger">Bigger</string>
-    <string name="toolaction_radiussmaller">Smaller</string>
-    <string name="toolaction_routeremove">Remove</string>
-    <string name="toolaction_routeundo">Undo</string>
-    <string name="toolaction_routeconfirm">Confirm</string>
-    <string name="toolaction_nextbuilding">Next building</string>
-    <string name="toolaction_prevbuilding">Previous building</string>
-    <string name="toolaction_abortmovebuilding">Abort</string>
-    <string name="toolaction_rocketfire">Fire</string>
-    <string name="toolaction_nextsign">Next label</string>
-    <string name="toolaction_prevsign">Previous label</string>
-    <string name="toolaction_terraindeeper">Deeper</string>
-    <string name="toolaction_terrainhigher">Higher</string>
+    <string name="settings_verticaltoolbuttons">Вертикальні дії інструменту</string>
+    <string name="toolaction_build">Збудувати</string>
+    <string name="toolaction_joinroad">з дорогами</string>
+    <string name="toolaction_trafficlights">Використовуйте світлофори</string>
+    <string name="toolaction_bridge">міст</string>
+    <string name="toolaction_constantheight">зафіксувати висоту</string>
+    <string name="toolaction_modifyunder">внизу</string>
+    <string name="toolaction_levelup">вверх</string>
+    <string name="toolaction_leveldown">вниз</string>
+    <string name="toolaction_upwards">підняти</string>
+    <string name="toolaction_downwards">опустити</string>
+    <string name="toolaction_nextframe">наступний варіант</string>
+    <string name="toolaction_prevframe">попередній варіант</string>
+    <string name="toolaction_singlelane">одинарна смуга</string>
+    <string name="toolaction_randomcar">Вибрати навмання</string>
+    <string name="toolaction_hidebuildings">Виділити автомобіль</string>
+    <string name="toolaction_radiusbigger">Більший</string>
+    <string name="toolaction_radiussmaller">Менший</string>
+    <string name="toolaction_routeremove">Видалити</string>
+    <string name="toolaction_routeundo">Скасувати</string>
+    <string name="toolaction_routeconfirm">Підтвердіть</string>
+    <string name="toolaction_nextbuilding">Наступна будівля</string>
+    <string name="toolaction_prevbuilding">Попередня будівля</string>
+    <string name="toolaction_abortmovebuilding">скасувати</string>
+    <string name="toolaction_rocketfire">Вогонь</string>
+    <string name="toolaction_nextsign">Наступна мітка</string>
+    <string name="toolaction_prevsign">Попередня мітка</string>
+    <string name="toolaction_terraindeeper">Глибше</string>
+    <string name="toolaction_terrainhigher">Вище</string>
 
 </resources>
