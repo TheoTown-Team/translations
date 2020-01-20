@@ -1213,7 +1213,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
     <string name="ci_airport_title">Aéroport</string>
     <string name="draft_wire01_title">Ligne de transmission</string>
-    <string name="draft_wire01_text">Gros câbles pour grosse énergie. Pour échange régional d\'énergie.</string>
+    <string name="draft_wire01_text">Gros câbles pour grosse tension. Pour échange régional d\'énergie.</string>
     <string name="draft_transformator00_title">Transformateur</string>
     <string name="draft_transformator00_text">Un transformateur est nécessaire pour basculer entre moyenne et grosse tension. À construire proche d\'une ligne de transmission.</string>
 
@@ -1290,8 +1290,8 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_ap_tower00_text">Un aérport nécessite au moins une tour pour fonctionner.</string>
     <string name="draft_ap_hall00_title">Entrée</string>
     <string name="draft_ap_hall00_text">Un aéroport nécessite une entrée pour que les gens puissent y entrer.</string>
-    <string name="draft_ap_gate00_title">Gate</string>
-    <string name="draft_ap_gate00_text">Les gates sont nécessaires aux passagers entrants et sortants.</string>
+    <string name="draft_ap_gate00_title">Porte</string>
+    <string name="draft_ap_gate00_text">Les portes sont nécessaires aux passagers entrants et sortants.</string>
     <string name="draft_ap_field00_title">Piste</string>
     <string name="draft_ap_field00_text">Une piste est l\'endroit où les avions peuvent décoller et aterrir. Sa taille minimum doit être de 12.</string>
     <string name="settings_usezoneradius">Utiliser le rayon de la zone</string>
@@ -1305,7 +1305,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="tool_airplanelane_title">Tapez sur une piste libre</string>
     <string name="draft_feature_starter_pack00_title">Pack débutant</string>
     <string name="draft_feature_starter_pack00_text">Avec le pack débutant, vous recevrez :</string>
-    <string name="pluginerror_cmdchecksyntax">Vérifier la syntaxe en ligne</string>
+    <string name="pluginerror_cmdchecksyntax">Vérifier la syntaxe de la ligne</string>
 
     <string name="fb_login_title">Se connecter avec Facebook</string>
     <string name="fb_login_text">Connectez-vous pour synchroniser votre profil.</string>
@@ -1313,7 +1313,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="toast_seed_copy">Graine copiée dans le presse-papier</string>
     <string name="toast_recordingid_copy">ID d\'enregistrement copié dans le presse-papier</string>
     <string name="draft_ap_road00_title">Route de transport</string>
-    <string name="draft_ap_road00_text">À utiliser pour relier les gates aux pistes.</string>
+    <string name="draft_ap_road00_text">À utiliser pour relier les portes aux pistes.</string>
     <string name="requirement_upgrade">Nécessite amélioration %1$s</string>
     <string name="requirement_upgrade_invert">Ne peut pas être combiné avec %1$s</string>
     <string name="draft_deco_chr_present00_title">Cadeau</string>
@@ -1599,7 +1599,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_feature_landmarks01_text">Contient les bâtiments suivants pour utilisation permanente :</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
+    <string name="draft_cat_supply00_title">Approvisionnement</string>
     <string name="draft_cat_road00_title">Route</string>
     <string name="draft_cat_bus00_title">Bus</string>
     <string name="draft_cat_train00_title">Train</string>
@@ -1701,40 +1701,40 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
 
     <string name="draft_toji00_title">Tō-ji</string>
-    <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
-    <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
+    <string name="draft_toji00_text">Le Tō-ji est un temple bouddhiste à Kyoto, au Japon. Elle a été terminée en 796 et a une hauteur de 55 mètres.</string>
+    <string name="ca_wastedisposal_text2">Transports d'ordures: %1$,d/%2$,d L/d</string>
+    <string name="notify_waste_needer00">Les poubellez ne sont pas collectées pour ce bâtiment.</string>
+    <string name="notify_waste_producer00">Cette décharge est pleine, vous devriez la vider !</string>
     <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
-    <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
-    <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
-    <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
-    <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
-    <string name="happiness_waste">Waste disposal</string>
-    <string name="settings_new_content_marker">Highlight new content in toolbar</string>
+    <string name="waste_clear">SWIPEZ sur les déchets pour les éliminer.</string>
+    <string name="waste_cmdclear">Vider maintenant</string>
+    <string name="dialog_wasteclear_title">Vider maintenant</string>
+    <string name="dialog_wasteclear_text">Nous pouvons vider la décharge pour vous.</string>
+    <string name="draft_wasteincinerator00_text">Méthode rapide mais sale pour éliminer tous les déchets ménagers en les brûlant. Augmente la pollution.</string>
+    <string name="budget_waste_disposal">Gestion des déchets</string>
+    <string name="draft_alert_garbage00_title">Appeler le camion des éboueurs</string>
+    <string name="draft_alert_garbage00_text">Appelez le camion-poubelle pour se débarrasser des ordures traînant sur la route.</string>
+    <string name="happiness_waste">Gestion des déchets</string>
+    <string name="settings_new_content_marker">Surligner le contenu neuf dans la barre à outils</string>
 
 
-    <string name="tool_removeroaddeco_title">Remove road deco</string>
+    <string name="tool_removeroaddeco_title">Retirer la décoration de route</string>
     <string name="tool_removeroaddeco_text">Use this tool to remove road decoration overlays.</string>
 
 
-    <string name="draft_palmtree00_title">Palm tree</string>
-    <string name="draft_palmtree00_text">They are essential for any oasis.</string>
+    <string name="draft_palmtree00_title">Palmier</string>
+    <string name="draft_palmtree00_text">Ils sont essentiels à n'importe lequel des oasis.a</string>
     <string name="draft_cactus00_title">Cactus</string>
-    <string name="draft_cactus00_text">No water? No problem for these cacti.</string>
-    <string name="draft_ancientbear_guard00_title">Guard</string>
+    <string name="draft_cactus00_text">Pas d'eau ? Pas de problème pour ces cactus.</string>
+    <string name="draft_ancientbear_guard00_title">Garde</string>
     <string name="draft_ancientbear_guard00_text">A guard that watches over the Ancient Bear.</string>
     <string name="draft_ancientbear_statue00_title">Ancient Bear</string>
     <string name="draft_ancientbear_statue00_text">A statue of the Ancient Bear.</string>
-    <string name="draft_greatpyramid00_title">Great Pyramid of Giza</string>
+    <string name="draft_greatpyramid00_title">Grande Pyramide de Gizeh</string>
 
 
-    <string name="draft_wasteincinerator00_filter00_title">Filter</string>
-    <string name="draft_wasteincinerator00_filter00_text">Reduces the emitted pollution and noise drastically.</string>
+    <string name="draft_wasteincinerator00_filter00_title">Filtre</string>
+    <string name="draft_wasteincinerator00_filter00_text">Diminue drastiquement les émissions de pollution et baisse le bruit produit.</string>
     <string name="draft_flowers00_title">Fleurs</string>
     <string name="draft_flowers00_text">Juste quelques fleurs.</string>
 
@@ -1762,14 +1762,14 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_feature_doubledincome00_title">Doubled income</string>
     <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
     <string name="features_duration">Duration %s</string>
-    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
-    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
-    <string name="draft_roaddeco_bumps00_title">Bumps</string>
-    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
-    <string name="draft_fence00_title">Fence</string>
-    <string name="draft_fence00_text">Just a simple fence.</string>
-    <string name="draft_fence01_title">White fence</string>
-    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+    <string name="draft_roaddeco_crosswalk00_title">Passage piéton</string>
+    <string name="draft_roaddeco_crosswalk00_text">C\'est dangereux de traverser la rue.</string>
+    <string name="draft_roaddeco_bumps00_title">Dos d\'âne</string>
+    <string name="draft_roaddeco_bumps00_text">Les dos d\'âne servent à réduire la vitesse de conduite.</string>
+    <string name="draft_fence00_title">Barrière</string>
+    <string name="draft_fence00_text">Juste une simple barrière.</string>
+    <string name="draft_fence01_title">Barrière blanche</string>
+    <string name="draft_fence01_text">C\'est une barrière mais elle est aussi blanche.</string>
 
 
     <string name="draft_jungletree00_title">Jungle tree</string>
@@ -1778,8 +1778,8 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
     <string name="draft_igloo00_title">Igloo</string>
     <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
-    <string name="features_more">More content</string>
-    <string name="features_diamonds">Get diamonds</string>
+    <string name="features_more">Plus de contenu</string>
+    <string name="features_diamonds">Obtenir des diamants</string>
 
 
     <string name="privacy_policy">Privacy Policy</string>
@@ -1787,13 +1787,13 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
     <string name="dialog_privacy_cmdopen">Open Policy</string>
     <string name="dialog_privacy_cmdlater">Got it</string>
-    <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
-    <string name="draft_metrostation00_text">A station to access metro.</string>
-    <string name="draft_metroline00_title">Metro tunnel</string>
-    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
+    <string name="settings_drawzones">Dessiner zones</string>
+    <string name="draft_metrostation00_title">Station de métro</string>
+    <string name="draft_metrostation00_text">Une station pour accéder au métro.</string>
+    <string name="draft_metroline00_title">Tunnel de métro</string>
+    <string name="draft_metroline00_text">Une tunnel de métro. Tu ne peux pas le voir mais oui, il est là.</string>
     <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
+    <string name="dialog_search_title">Chercher</string>
     <string name="dialog_search_text">Enter a search keyword below.</string>
     <string name="dialog_search_cmdok">Search</string>
     <string name="dialog_search_cmdcancel">Cancel</string>
