@@ -1875,7 +1875,7 @@
     <string name="draft_discord_statue00_title">Estatua de Discord</string>
     <string name="draft_discord_statue00_text">Estatua de Discord.</string>
     <string name="notify_discord_statue00_title">¡Gracias!</string>
-    <string name="notify_discord_statue00_text">Gracias por los 3000 miembros en nuestro servidor de Discord. ¿Lo quieres visitar ahora?</string>
+    <string name="notify_discord_statue00_text">Gracias por los %d miembros en nuestro servidor de Discord. ¿Lo quieres visitar ahora?</string>
     <string name="draftselector_titlebodydisposal">Funeral</string>
     <string name="draft_roaddeco_protester00_title">Manifestantes falsos</string>
     <string name="draft_roaddeco_protester00_text">Paga a algunas personas para fingir ser unos manifestantes.</string>
@@ -2188,7 +2188,7 @@ Contras: Menos desafíos</string>
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
     <string name="dialog_missingplugins_title">Missing Plugins</string>
-    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now</string>
+    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
     <string name="dialog_missingplugins_cmdget">Get them</string>
     <string name="dialog_missingplugins_cmdskip">Continue without</string>
@@ -2263,5 +2263,21 @@ Contras: Menos desafíos</string>
     <string name="toolaction_prevsign">Previous label</string>
     <string name="toolaction_terraindeeper">Deeper</string>
     <string name="toolaction_terrainhigher">Higher</string>
+
+
+    <string name="settings_uisize">UI Size</string>
+    <string name="settings_uisize_normal">Normal</string>
+    <string name="settings_uisize_big">Big</string>
+    <string name="settings_uisize_bigger">Bigger</string>
+    <string name="settings_uisize_small">Small</string>
+    <string name="settings_uisize_smaller">Smaller</string>
+    <string name="createcity_desert">Desert</string>
+    <string name="createcity_snow">Snow</string>
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_lighting">Thunderstorm</string>
+    <string name="weather_auto">Dynamic</string>
+    <string name="store_local_plugins">Local plugins</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (local plugin)</string>
 
 </resources>

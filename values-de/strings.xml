@@ -1871,7 +1871,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_discord_statue00_title">Discord Statue</string>
     <string name="draft_discord_statue00_text">Eine außerordentlich hübsche Discord Statue.</string>
     <string name="notify_discord_statue00_title">Vielen Dank!</string>
-    <string name="notify_discord_statue00_text">Danke für 3.000 Mitglieder in unserem Discord Server. Möchtest du jetzt vorbeischauen?</string>
+    <string name="notify_discord_statue00_text">Danke für %d Mitglieder in unserem Discord Server. Möchtest du jetzt vorbeischauen?</string>
     <string name="draftselector_titlebodydisposal">Beerdigung</string>
     <string name="draft_roaddeco_protester00_title">Fake Demonstration</string>
     <string name="draft_roaddeco_protester00_text">Leute lassen sich für so ziemlich alles bezahlen.</string>
@@ -2186,7 +2186,7 @@ Nachtteile: Langweilig</string>
     <string name="online_city_visit">Besuchen</string>
     <string name="store_status_notavailable">Nicht verfügbar</string>
     <string name="dialog_missingplugins_title">Fehlende Plugins</string>
-    <string name="dialog_missingplugins_text">Diese Stadt enthält Plugins die nicht heruntergeladen oder inaktiv sind</string>
+    <string name="dialog_missingplugins_text">Diese Stadt enthält Plugins die nicht heruntergeladen oder inaktiv sind:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s von %2$s</string>
     <string name="dialog_missingplugins_cmdget">Jetzt herunterladen</string>
     <string name="dialog_missingplugins_cmdskip">Stadt öffnen</string>
@@ -2260,5 +2260,21 @@ Nachtteile: Langweilig</string>
     <string name="toolaction_prevsign">Vorheirge Bezeichnung</string>
     <string name="toolaction_terraindeeper">Tiefer</string>
     <string name="toolaction_terrainhigher">Höher</string>
+
+
+    <string name="settings_uisize">UI Größe</string>
+    <string name="settings_uisize_normal">Normal</string>
+    <string name="settings_uisize_big">Groß</string>
+    <string name="settings_uisize_bigger">Größer</string>
+    <string name="settings_uisize_small">Klein</string>
+    <string name="settings_uisize_smaller">Kleiner</string>
+    <string name="createcity_desert">Wüste</string>
+    <string name="createcity_snow">Schnee</string>
+    <string name="weather_sunny">Sonnig</string>
+    <string name="weather_rainy">Regen</string>
+    <string name="weather_lighting">Gewitter</string>
+    <string name="weather_auto">Dynamisch</string>
+    <string name="store_local_plugins">Lokale Plugins</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s von %2$s (lokales Plugins)</string>
 
 </resources>

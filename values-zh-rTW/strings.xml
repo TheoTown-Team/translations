@@ -1839,7 +1839,7 @@
     <string name="draft_discord_statue00_title">Discord 雕像</string>
     <string name="draft_discord_statue00_text">一個上面是 Discord 的雕像。</string>
     <string name="notify_discord_statue00_title">非常感謝！</string>
-    <string name="notify_discord_statue00_text">感謝Discord服務器上的3,000名会员。你想现在去看看吗？\nDiscord是专为游戏社区设计的专有免费软件VoIP应用程序和数字分发平台，专门用于聊天频道中用户之间的文本，图像，视频和音频通信。</string>
+    <string name="notify_discord_statue00_text">感謝Discord服務器上的%d名会员。你想现在去看看吗？\nDiscord是专为游戏社区设计的专有免费软件VoIP应用程序和数字分发平台，专门用于聊天频道中用户之间的文本，图像，视频和音频通信。</string>
     <string name="draftselector_titlebodydisposal">葬禮服務</string>
     <string name="draft_roaddeco_protester00_title">假 · 抗議者</string>
     <string name="draft_roaddeco_protester00_text">花錢雇佣假的抗議者</string>
@@ -2142,7 +2142,7 @@
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
     <string name="dialog_missingplugins_title">Missing Plugins</string>
-    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now</string>
+    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
     <string name="dialog_missingplugins_cmdget">Get them</string>
     <string name="dialog_missingplugins_cmdskip">Continue without</string>
@@ -2217,5 +2217,21 @@
     <string name="toolaction_prevsign">Previous label</string>
     <string name="toolaction_terraindeeper">Deeper</string>
     <string name="toolaction_terrainhigher">Higher</string>
+
+
+    <string name="settings_uisize">UI Size</string>
+    <string name="settings_uisize_normal">Normal</string>
+    <string name="settings_uisize_big">Big</string>
+    <string name="settings_uisize_bigger">Bigger</string>
+    <string name="settings_uisize_small">Small</string>
+    <string name="settings_uisize_smaller">Smaller</string>
+    <string name="createcity_desert">Desert</string>
+    <string name="createcity_snow">Snow</string>
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_lighting">Thunderstorm</string>
+    <string name="weather_auto">Dynamic</string>
+    <string name="store_local_plugins">Local plugins</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (local plugin)</string>
 
 </resources>

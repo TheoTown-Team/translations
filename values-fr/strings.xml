@@ -1047,7 +1047,7 @@
     <string name="draft_feature_firestation00_title">Caserne de pompiers principales</string>
     <string name="draft_feature_firestation00_text">Une caserne de pompiers avec un énorme rayon d\'action, beaucoup de véhicules et une amélioration hélistation pour un hélicoptère.</string>
     <string name="draft_feature_gocart00_title">Circuit de moto-cross</string>
-    <string name="draft_feature_gocart00_text">Qu'est-ce que vous dites de moto-cross dans votre ville ? Cela va aussi engendrer des motos sur les routes normales.</string>
+    <string name="draft_feature_gocart00_text">Qu\'est-ce que vous dites de moto-cross dans votre ville ? Cela va aussi engendrer des motos sur les routes normales.</string>
     <string name="draft_firedepartment02_text">A un grand rayon d\'action et a beaucoup de voitures. Utile pour prévenir les incendies.</string>
     <string name="draft_prmgocart00_title">Circuit de karting</string>
     <string name="draft_prmgocart00_text">Que dites-vous d\'un peu de sport automobile dans votre ville ? Fera aussi apparaître des karts sur les routes normales.</string>
@@ -1637,7 +1637,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="gallery_trends">Tendances</string>
     <string name="gallery_own">À toi</string>
     <string name="dialog_gallerydelete_title">Supprimer Screenshot</string>
-    <string name="dialog_gallerydelete_text">Es-tu sûr.e de vouloir supprimer ce screenshot ? Il est impossible de revenir en arrière !</string>
+    <string name="dialog_gallerydelete_text">Es-tu sûre de vouloir supprimer ce screenshot ? Il est impossible de revenir en arrière !</string>
     <string name="dialog_gallerydelete_cmd">Supprimer</string>
     <string name="dialog_gallerypolicy_title">Commencer par le commencement</string>
     <string name="dialog_gallerypolicy_text">Salut, je suis heureux que tu veuilles participer à notre galerie. Cependant, avant de commencer il faut que tu adhères à nos CGU si tu veux que l\'on télécharge des screenshots pour toi.
@@ -1705,7 +1705,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="ca_wastedisposal_text2">Transports d\'ordures: %1$,d/%2$,d L/d</string>
     <string name="notify_waste_needer00">Les poubelles ne sont pas collectées pour ce bâtiment.</string>
     <string name="notify_waste_producer00">Cette décharge est pleine, vous devriez la vider !</string>
-    <string name="draft_landfill00_text">Beaucoup d'espace pour collecter les déchets. Peut seulement être enlevée si la décharge est vide.</string>
+    <string name="draft_landfill00_text">Beaucoup d\'espace pour collecter les déchets. Peut seulement être enlevée si la décharge est vide.</string>
     <string name="waste_clear">SWIPEZ sur les déchets pour les éliminer.</string>
     <string name="waste_cmdclear">Vider maintenant</string>
     <string name="dialog_wasteclear_title">Vider maintenant</string>
@@ -1880,7 +1880,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_discord_statue00_title">Discord statue</string>
     <string name="draft_discord_statue00_text">Discord statue.</string>
     <string name="notify_discord_statue00_title">Thank you!</string>
-    <string name="notify_discord_statue00_text">Thank you for 3,000 members on our Discord server. Do you want to visit it now?</string>
+    <string name="notify_discord_statue00_text">Thank you for %d members on our Discord server. Do you want to visit it now?</string>
     <string name="draftselector_titlebodydisposal">Funeral</string>
     <string name="draft_roaddeco_protester00_title">Fake protesters</string>
     <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
@@ -2193,7 +2193,7 @@ Cons: Less challenges</string>
     <string name="online_city_visit">Visiter</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
     <string name="dialog_missingplugins_title">Missing Plugins</string>
-    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now</string>
+    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
     <string name="dialog_missingplugins_cmdget">Get them</string>
     <string name="dialog_missingplugins_cmdskip">Continue without</string>
@@ -2268,5 +2268,21 @@ Cons: Less challenges</string>
     <string name="toolaction_prevsign">Previous label</string>
     <string name="toolaction_terraindeeper">Plus profond</string>
     <string name="toolaction_terrainhigher">Plus haut</string>
+
+
+    <string name="settings_uisize">UI Size</string>
+    <string name="settings_uisize_normal">Normal</string>
+    <string name="settings_uisize_big">Big</string>
+    <string name="settings_uisize_bigger">Bigger</string>
+    <string name="settings_uisize_small">Small</string>
+    <string name="settings_uisize_smaller">Smaller</string>
+    <string name="createcity_desert">Desert</string>
+    <string name="createcity_snow">Snow</string>
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_lighting">Thunderstorm</string>
+    <string name="weather_auto">Dynamic</string>
+    <string name="store_local_plugins">Local plugins</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (local plugin)</string>
 
 </resources>
