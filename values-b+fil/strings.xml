@@ -6,7 +6,7 @@
     <string name="settings_defaults">Mga Karaniwang-Ayos</string>
     <string name="settings_apply">Iaplay</string>
     <string name="createcity_mapsize">Sukat:</string>
-    <string name="createcity_cityname">Ngalan Lungsod:</string>
+    <string name="createcity_cityname">Lungsod:</string>
     <string name="control_back">Bumalik</string>
     <string name="createcity_start">Magsimula</string>
     <string name="loadcity_load">Magsimula</string>
@@ -76,17 +76,17 @@
     <string name="loadcity_deletedialog_cmdcancel">Kanselahin</string>
     <string name="loadcity_deletedialog_cmddelete">Burahin</string>
     <string name="createcity_sizebigbig">Malaki-laki</string>
-    <string name="dialog_leave_text">Sigurado ka po bang lalabas ka sa TheoTown?</string>
-    <string name="dialog_leave_title">Lumabas sa TheoTown</string>
+    <string name="dialog_leave_text">Sigurado ka po bang aalis ka sa TheoTown?</string>
+    <string name="dialog_leave_title">Umalis sa TheoTown</string>
     <string name="dialog_leave_cmdcancel">Kanselahin</string>
-    <string name="dialog_leave_cmdleave">Lumabas</string>
+    <string name="dialog_leave_cmdleave">Aalis</string>
     <string name="savewaiting_title">Inilalagak ang Lungsod</string>
     <string name="loadwaiting_title">Ikinakarga ang Lungsod</string>
-    <string name="dialog_invalidcityname_title">Di tinatanggap ang ngalan</string>
+    <string name="dialog_invalidcityname_title">\'Di balido ang ngalan</string>
     <string name="dialog_invalidcityname_text">Mangyaring palitan ang pangalan ng inyong lungsod. Hindi pinapayagan ang blangko.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Malaki-laking mapa</string>
-    <string name="dialog_hugesize_text">Ang sukat na ito ay eksperimental pa lamang at maaaring hindi gumana sa inyong aparato. Gusto po ba talaga ninyo ng malaki-laking mapa?</string>
+    <string name="dialog_hugesize_text">Ang sukat na ito ay eksperimento pa lamang at maaaring hindi gumana sa inyong aparato. Gusto n\'yo po ba talaga ng malaki-laking mapa?</string>
     <string name="dialog_hugesize_cmdyes">Opo</string>
     <string name="dialog_hugesize_cmdno">Hindi po</string>
     <string name="draft_church00_title">Simbahan</string>
@@ -97,8 +97,8 @@
     <string name="draft_wire00_text">Gamitin ang mga kawad upang maikonekta ang iyong lungsod sa iyong mga planta-enerhiya.</string>
     <string name="draft_windturbine00_title">Turbinang-Hangin</string>
     <string name="draft_windturbine00_text">Lumilikha ng ingay ang turbinang-hangin ngunit walang polusyon. </string>
-    <string name="draft_coalplant00_title">Planta ng Karbon</string>
-    <string name="draft_coalplant00_text">Ang planta ng karbon ay lumilikha ng maraming enerhiya, ngunit nakasasama sa kapaligiran.</string>
+    <string name="draft_coalplant00_title">Planta Karbon</string>
+    <string name="draft_coalplant00_text">Ang planta karbon ay lumilikha ng maraming enerhiya, ngunit nakasasama sa kapaligiran.</string>
     <string name="draft_solarpanels00_title">Solar Panels</string>
     <string name="draft_solarpanels00_text">Ang solar panels ay hindi nakasisira at nakabubuti sa kapaligiran.</string>
     <string name="draft_park00_title">Maliit na Bulaklaking Parke</string>
@@ -276,7 +276,7 @@
     <string name="draftselector_titleview">Tingnan</string>
     <string name="toolremove_default_title">Tanggalin</string>
     <string name="toolremove_default_text">Matatanggal mo ang lahat gamit \'to. Maliban sa mga pook, tubo, lagusan, at nakalubog na kawad.</string>
-    <string name="toolremove_pipe_text">Ito ay magagamit na pantanggal sa mga tubo ng tubig.</string>
+    <string name="toolremove_pipe_text">Magagamit ito na pantanggal sa mga tubo ng tubig.</string>
     <string name="toolremove_pipe_title">Pantanggal Tubo</string>
     <string name="draftselector_cmdremove">Tanggalin</string>
     <string name="draftselector_cmdview">Tingnan</string>
@@ -321,7 +321,7 @@
     <string name="buildinginfo_construction">Nasa konstruksiyon: %1$.0f%% (%2$,d (mga) araw ang nalalabi)</string>
     <string name="draft_footballstadion00_title">Estadyo</string>
     <string name="draft_footballstadion00_text">Ang estadyo ng futbol.</string>
-    <string name="buildinginfo_cmdupgrade">I-upgrade</string>
+    <string name="buildinginfo_cmdupgrade">Mag-upgrade</string>
     <string name="draft_footballstadion00_lights_title">Ilaw</string>
     <string name="draft_footballstadion00_lights_text">Kaunting ilaw para sa estadyo.</string>
     <string name="buildinginfo_upgraded">Na-upgrade na</string>
@@ -366,7 +366,7 @@
     <string name="draft_alert_police00_title">Tumawag ng Pulisya</string>
     <string name="draft_alert_police00_text">Tumawag ng pulisya para matigil ang mga kriminal.</string>
     <string name="draft_alert_fire00_title">Tumawag ng Bombero</string>
-    <string name="draft_alert_fire00_text">Tumawag ng Bombero kung may nasusunog na anumang bagay.</string>
+    <string name="draft_alert_fire00_text">Tumawag ng bombero kung may nasusunog na anumang bagay.</string>
     <string name="draft_alert_medic00_title">Tumawag ng Doktor</string>
     <string name="draft_alert_medic00_text">Kapag may nangyaring aksidente, kailangan mong tumawag ng Doktor.</string>
     <string name="buildinginfo_powerusage">Pagkonsumo: %1$.01f%%</string>
@@ -655,9 +655,9 @@
     <string name="draft_decoind00_text">.</string>
     <string name="ci_budget_title_nomoney">Pananalapi (teoretikal)</string>
     <string name="dialog_notification_cmdok">Ok</string>
-    <string name="draft_nuclearplant00_title">Plantang Nuklear</string>
-    <string name="draft_nuclearplant00_text">Higit na malakas kaysa plantang karbon. Napakamahal ng pagmamantene at kinakailangan ng MADAMING tubig para mapalamig. Maaaring sumabog kapag walang tubig.</string>
-    <string name="draft_gasplant00_title">Plantang Gas</string>
+    <string name="draft_nuclearplant00_title">Planta Nuklear</string>
+    <string name="draft_nuclearplant00_text">Higit na malakas kaysa planta karbon. Napakamahal ng pagmamantene at kinakailangan ng MARAMING tubig upang mapalamig. Maaaring sumabog kapag walang tubig.</string>
+    <string name="draft_gasplant00_title">Planta Gas</string>
     <string name="draft_gasplant00_text">Mas mura kaysa ibang planta-enerhiya. Mababa ang polusyon.</string>
     <string name="draft_carcinema00_title">Drive-in Cinema</string>
     <string name="draft_carcinema00_text">Pampasaya ng mga naninirahan sa TheoTown.</string>
@@ -759,7 +759,7 @@
     <string name="loadcity_preview">Halimbawang Lungsod</string>
     <string name="settings_autorestoresamples">I-restore ang mga halimbawang lungsod</string>
     <string name="settings_autountouchable">Magtakda ng sariling napapanatiling gusali</string>
-    <string name="draft_alert_swat00_title">Tumawg ng SWAT</string>
+    <string name="draft_alert_swat00_title">Tumawag ng SWAT</string>
     <string name="draft_alert_swat00_text">Kapag may kaguluhan, SWAT lang ang makakahawak nito.</string>
     <string name="control_continue">Ipagpatuloy</string>
     <string name="settings_winter">Taglamig</string>
@@ -805,7 +805,7 @@
     <string name="draftselector_titledecoration">Dekorasyon</string>
     <string name="draftselector_titlewastedisposal">Pagtapon ng Basura</string>
     <string name="draftselector_titlemilitary">Militar</string>
-    <string name="draft_zonemilitary_title">Pook Military</string>
+    <string name="draft_zonemilitary_title">Pook Militar</string>
     <string name="draft_mltry_road00_title">Kalsadang-Militar</string>
     <string name="draft_mltry_hq00_title">Punong-Himpilan</string>
     <string name="draft_mltry_baracks00_title">Kuwartel</string>
@@ -831,7 +831,7 @@
     <string name="draft_feature_noads00_text">Tatanggalin ang ads sa baba ng iskrin.</string>
     <string name="features_title">Tampok</string>
     <string name="features_alreadybought">Nabili na</string>
-    <string name="features_getit">Kunin ito sa %s</string>
+    <string name="features_getit">Kunin sa %s</string>
     <string name="features_included">Ay kabilang sa %s</string>
     <string name="requirement_feature">Parte ng %s</string>
     <string name="draft_feature_military00_title">Base Militar</string>
@@ -978,17 +978,17 @@
     <string name="draft_decoconstruction00_text">Kaunting dekorasyon pangkonstruksiyon.</string>
     <string name="draft_mltry_deco00_title">Dekorasyong Militar</string>
     <string name="draft_mltry_deco00_text">Dekorasyon para sa inyong base militar.</string>
-    <string name="shader_smooth">Pinakinis</string>
+•	    <string name="shader_smooth">Pinakinis</string>
     <string name="topic_dumbledore">\'Di hahayaan ni Dumbledore na mangyari \'to.</string>
     <string name="draft_mltry_missilesilo00_title">Imbakang Misil</string>
-    <string name="draft_feature_military00_text">Magtayo ng sariling base militar para maprotektahan ang inyong lungsod. Kabilang ang sakunang UFO.</string>
+    <string name="draft_feature_military00_text">Magtayo ng sariling base militar upang mapangalagaan ang inyong lungsod. Kabilang ang sakunang UFO.</string>
     <string name="dialog_smooth_title">Pinakinis na graphics</string>
     <string name="dialog_smooth_text">Siyensiya! Nakahanap kami ng solusyon para mapahusay ang resolusyon ng laro. Gusto po ba ninyong gamitin ito?\n\nMapapalitan po ito kahit kailan sa Pagtatakda.</string>
     <string name="budget_military">Militar</string>
     <string name="draftselector_monthlyincome">Buwanang kita: %s</string>
     <string name="draft_decosmallmountain00_title">Maliit na Bundok</string>
     <string name="draft_feature_mountain00_title">Maliit na Bundok</string>
-    <string name="draft_zonemilitary_text">Ang mga gusaling pangmilitar ay sa pook na ito lamang mailalagay.</string>
+    <string name="draft_zonemilitary_text">Sa pook na \'to lamang mailalagay ang mga gusaling pangmilitar.</string>
     <string name="draft_mltry_road00_text">Ang kalsadang nakalaan para sa mga sasakyang pangmilitar at pangkagipitan. Hindi ka po makapaglalatag ng iba pang kalsada sa loob ng pook militar.</string>
     <string name="draft_mltry_hq00_text">Ang Punong-Himpilan ay ang pinakamahalagang gusali sa iyong base militar.</string>
     <string name="draft_mltry_baracks00_text">Dito nakatira ang mga sundalo.</string>
@@ -1014,7 +1014,7 @@
     <string name="notification00_title">BALITA: Ang %1$s ay umaapaw sa pera</string>
     <string name="notification00_text">Alkalde, kailangan ka po namin para magastos lahat ng pera!</string>
     <string name="roadinfo_bridgetype">Uri ng Tulay</string>
-    <string name="draft_feature_buildings01_text">Malalaking gusali ng residensiyal, komersiyal, at industriyal para sa maraming varayti sa lungsod. Pinatataas ang istandard na pamumuhay ng mga naninirahan.</string>
+    <string name="draft_feature_buildings01_text">Malalaking gusali ng residensiyal, komersiyal, at industriyal para sa maraming varayti sa lungsod. Pinatataas ang pamantayang na pamumuhay ng mga naninirahan.</string>
     <string name="dialog_diamondshop_recommended">Inirerekomenda</string>
     <string name="dialog_presentdaily_title">Hatid Araw-araw</string>
     <string name="dialog_presentdaily_text">Makakakuha ka pa nang marami búkas.</string>
@@ -1038,7 +1038,7 @@
     <string name="draft_beach_gnd00_text">Mga buhanginan lang. Magagamit din para sa dalampasigan.</string>
     <string name="draft_searocks00_title">Batuhan sa Dagat</string>
     <string name="draft_searocks00_text">Mga batuhan sa katubigan.</string>
-    <string name="createcity_decos">Na may dekorasyon</string>
+    <string name="createcity_decos">May dekorasyon</string>
     <string name="tutorial_cmdskip">Laktawan ang tutoryal</string>
     <string name="dialog_skipbuildtime_ad">Laktawan ang %1$,d araw</string>
     <string name="setting_showtrafficmarker">Ipakita ang trapiko sa tool ng kalsada</string>
@@ -1047,10 +1047,10 @@
     <string name="draft_feature_firestation00_title">Punong-Himpilang Bombero</string>
     <string name="draft_feature_firestation00_text">Himpilang Bombero na may malaking saklaw, maraming sasakyan at may upgrade na helipad para sa helikopter.</string>
     <string name="draft_feature_gocart00_title">Karerahang Go-cart</string>
-    <string name="draft_feature_gocart00_text">Paano kung may motor sports tayo sa bayan? Maglalabas rin ng go-cart sa mga karaniwang kalsada.</string>
+    <string name="draft_feature_gocart00_text">Paano kaya kung may motor sports tayo sa bayan? Maglalabas rin \'to ng go-cart sa mga karaniwang kalsada.</string>
     <string name="draft_firedepartment02_text">May malaking saklaw at maraming sasakyan. Mabisa pang-iwas at pang-apula sa sunog.</string>
     <string name="draft_prmgocart00_title">Karerahang Go-cart</string>
-    <string name="draft_prmgocart00_text">Paano kung may motor sports tayo sa bayan? Maglalabas rin ng go-cart sa mga karaniwang kalsada.</string>
+    <string name="draft_prmgocart00_text">Paano kaya kung may motor sports tayo sa bayan? Maglalabas rin \'to ng go-cart sa mga karaniwang kalsada.</string>
     <string name="settings_smoothscrolling">Madulas na pag-scroll</string>
     <string name="settings_buildingtoolold">Lumang tool sa pagtatayo</string>
     <string name="settings_roadautojoin">Awto na pagkokonekta sa tool ng kalsada</string>
@@ -1144,15 +1144,15 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="draft_mltry_bunker00_title">Bangker</string>
     <string name="draft_mltry_bunker00_text">Ligtas ang pakiramdam ng mga tao sa malapit na bangker. Mabuti na lang hindi ito tinatablan ng sunog.</string>
     <string name="draft_zoneairport_title">Paliparan</string>
-    <string name="draft_zoneairport_text">Magtayo ng sariling paliparan sa loob ng pook paliparan na ito.</string>
+    <string name="draft_zoneairport_text">Magtayo ng sariling paliparan sa loob ng pook paliparang ito.</string>
     <string name="draft_decoletters00_title">Mga Letra</string>
-    <string name="draft_decoletters00_text">Mga letra lang na magbibigay sa %1$s ng personal na ugnayan.</string>
+    <string name="draft_decoletters00_text">Mga letra lamang na magbibigay sa %1$s ng personal na ugnayan.</string>
     <string name="draft_feature_letters00_title">Letrang pandekorsyon</string>
     <string name="draft_feature_letters00_text">Mga nailalagay na letra na magagamit bilang pampaganda.</string>
 
     <string name="tool_eye_dropper">Pumili ng kalsada o gusali</string>
     <string name="settings_language">Wika</string>
-    <string name="settings_language_hint">Kailangan po ninyong mai-restart ang app upang maayos na mabago ang wika.</string>
+    <string name="settings_language_hint">Kailangan po ninyong mai-restart ang app upang maayos na mapalitan ang wika.</string>
     <string name="settings_language_default">Karaniwang-Ayos (%s)</string>
 
     <string name="settings_showroadlength">Ipakita ang haba ng kalsada</string>
@@ -1372,17 +1372,17 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
 
     <string name="draft_airplane02_title">T430</string>
     <string name="draft_airplane02_text">Ang mabilis na pangmalayuang eroplano na mula sa TheoAir.</string>
-    <string name="draft_syl_spawner03_title">Ningas ng Tala</string>
+    <string name="draft_syl_spawner03_title">Ningas-Talà</string>
     <string name="draft_syl_spawner03_text">Ang pagsabog ng pula at dilaw na sinamahan pa ng paglalaho ng puti.</string>
-    <string name="draft_syl_spawner04_title">Kinulayang Tala</string>
+    <string name="draft_syl_spawner04_title">Kinulayang Talà</string>
     <string name="draft_syl_spawner04_text">Ang pagsabog ng pula na may paglaho ng dilaw.</string>
-    <string name="draft_syl_spawner05_title">Borr</string>
+    <string name="draft_syl_spawner05_title">Hinang</string>
     <string name="draft_syl_spawner05_text">Ang pagsabog ng pula na may maangas na epektong pailaw.</string>
     <string name="draft_syl_spawner06_title">Kislap-palumpong</string>
     <string name="draft_syl_spawner06_text">Napakagandang pagsabog ng halo-halong kulay at maglalaho.</string>
-    <string name="draft_syl_spawner07_title">Luha mula sa Langit</string>
+    <string name="draft_syl_spawner07_title">Luha sa Langit</string>
     <string name="draft_syl_spawner07_text">Tatlong pagsabog ng puti na sinamahan pa ng paglaho ng pula.</string>
-    <string name="draft_syl_spawner08_title">Sagitsit sa Tainga</string>
+    <string name="draft_syl_spawner08_title">Sagitsit-Tainga</string>
     <string name="draft_syl_spawner08_text">Malalaking kuwitis na isinaboy sa himpapawid.</string>
     <string name="draft_syl_spawner09_title">Palumpong</string>
     <string name="draft_syl_spawner09_text">Malaking palumpong.</string>
@@ -1399,11 +1399,11 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="notify_disaster_earthquake">Oh ngayon, may lindol po!</string>
     <string name="notify_disaster_flooding">Ang lungsod po ay binaha!</string>
     <string name="notify_disaster_meteorite">May babagsak pong bato mula sa langit!</string>
-    <string name="notify_disaster_nuke">May pagsabog po ng nuklear rito!</string>
+    <string name="notify_disaster_nuke">May pagsabog po ng nuklear dito!</string>
     <string name="notify_disaster_tornado">Sobrang lakas po ng hangin dito!</string>
     <string name="notify_disaster_ufo">Umaatake ang mga alien!</string>
     <string name="settings_download_static_files">Mag-download ng static files</string>
-    <string name="pluginerror_visitforum">Ireport sa forum</string>
+    <string name="pluginerror_visitforum">Iulat sa forum</string>
     <string name="dialog_gameplay_title">Gameplay upload</string>
     <string name="dialog_gameplay_text">Kapag pagaganahin ang gameplay upload, pinapayagan mo kaming mai-upload mo ang iyong gameplay sa aming servers. Tingnan ang disclaimer para sa karagdagang impormasyon.</string>
     <string name="control_enable">Paganahin</string>
@@ -1416,7 +1416,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="busgame_capacity_unit">tao</string>
     <string name="busgame_income">Kita</string>
     <string name="busgame_currency">Tiket</string>
-    <string name="busgame_upgrade">I-upgrade</string>
+    <string name="busgame_upgrade">Mag-upgrade</string>
     <string name="busgame_upgrade_title">Antas %d</string>
     <string name="busgame_unlock">Buksan</string>
     <string name="draft_small_church00_title">Kalapit-Simbahan</string>
@@ -1441,7 +1441,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="dialog_disabletasks_text">Tinanggihan mo po ang maraming tungkulin, kaya gusto mo po bang hindi na ito paganahin sa lungsod na ito?</string>
     <string name="control_disable">\'Wag paganahin</string>
     <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
-    <string name="draft_arcdetriomphe00_text">Ang Arko ng Tagumpay sa Paris ay ipinaparangal sa mga nakipaglaban at namatay sa Rebolusyong Francés.</string>
+    <string name="draft_arcdetriomphe00_text">Ang Arko ng Tagumpay sa Paris ay ipinararangal sa mga nakipaglaban at namatay sa Rebolusyong Francés.</string>
     <string name="featureselector_shortbuildtime">Maikling oras sa paggawa para sa %1$s</string>
     <string name="game_remaining_shortbuildtime">Maikling oras sa paggawa sa %s</string>
     <string name="shop_open_features">Gastusin Diyamante</string>
@@ -1462,7 +1462,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="draft_feature_valentinesday00_title">Maligayang Araw ng Mga Puso</string>
     <string name="draft_feature_valentinesday00_text">Bubuksan ang mga gusali nang permanente</string>
     <string name="tool_removetunnel_title">Pantanggal Lagusan</string>
-    <string name="tool_removetunnel_text">Magtanggal tayo ng ilang lagusan.</string>
+    <string name="tool_removetunnel_text">Magtanggal tayo ng kaunting lagusan.</string>
 
     <string name="dialog_halftunnelprice_title">Half tunnel price</string>
     <string name="dialog_halftunnelprice_text">Gusto mo bang makatipid ng ilang diyamante? Ang boost na ito bumabawas sa presyo nang 50% sa %s.</string>
@@ -1532,7 +1532,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="influence_level_high_title">Mataas na Antas</string>
     <string name="influence_level_high_text">Ang mga gusali sa antas na ito ay kalimitang mayayaman.</string>
     <string name="influence_density_title">Densidad</string>
-    <string name="influence_density_text">Ang mga matataas na gusali ay tipikal na mas masinsin.</string>
+    <string name="influence_density_text">Ang mga matataas na gusali ay karaniwang mas masinsin.</string>
     <string name="influence_nature_title">Kalikasan</string>
     <string name="influence_nature_text">Ang mga parke at lalong-lalo na ang kagubatan ay may malaking impluwensiya sa kalikasan.</string>
     <string name="influence_waste_disposal_title">Pagtatapon ng Basura</string>
@@ -1545,7 +1545,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="task_build_com">Magtatag ng %s pook komersiyal.</string>
     <string name="task_build_ind">Magtatag ng %s pook industriyal.</string>
     <string name="task_build_roads">Maglatag ng %s kalsada.</string>
-    <string name="task_build_parks">Magpagawa ng %s parke.</string>
+    <string name="task_build_parks">Magtayo ng %s parke.</string>
     <string name="task_get_inhabitants">Magkaroon ng %s bagong maninirahan.</string>
     <string name="task_get_money">Kumita ng %s₮.</string>
     <string name="task_spend_money">Gumastos ng %s₮.</string>
@@ -1554,7 +1554,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="task_current">Kasalukuyang tungkulin</string>
 
     <string name="dialog_adreward_title">May gantimpalang ads</string>
-    <string name="dialog_adreward_text">Gusto mo bang magkadiyamante nang libre sa pagnood lang ng patalastas?</string>
+    <string name="dialog_adreward_text">Gusto mo bang magkadiyamante nang libre sa panonood lang ng patalastas?</string>
     <string name="dialog_adreward_cmdwatch">Kumuha ngayon</string>
     <string name="draftselector_titlelandmark">Landmarks</string>
     <string name="draft_bigben00_title">Big Ben</string>
@@ -1570,7 +1570,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
     <string name="draft_feature_freedombuildings00_text">Naglalaman ng mga sumusunod na gusali para sa permanenteng paggamit:</string>
 
-    <string name="tool_removeuwire_title">Nakalubog na kawad</string>
+    <string name="tool_removeuwire_title">Nakalubog na Kawad</string>
     <string name="tool_removeuwire_text">Ito ay pantanggal sa mga nakalubog na kawad.</string>
 
     <string name="draft_aircraft_boneyard00_title">Tambakan ng Eroplano</string>
@@ -1695,7 +1695,7 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="happiness_waste">Pagtatapon ng Basura</string>
     <string name="settings_new_content_marker">I-highlight ang bagong nilalaman sa toolbar</string>
 
-    <string name="tool_removeroaddeco_title">Deko pangkalsada</string>
+    <string name="tool_removeroaddeco_title">Deko Pangkalsada</string>
     <string name="tool_removeroaddeco_text">Gamitin ito para tanggalin ang mga nakapatong na dekorasyong pangkalsada.</string>
     <string name="draft_palmtree00_title">Puno ng Palma</string>
     <string name="draft_palmtree00_text">Sila ay esensiyal sa lahat ng oasis.</string>
@@ -1817,8 +1817,8 @@ Kung pagbibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng
     <string name="draft_roaddeco_trafficlights00_title">Ilaw Pantrapiko</string>
     <string name="draft_roaddeco_trafficlights00_text">Mas ligtas kaysa tawiran o isla pantrapiko.</string>
 
-    <string name="tool_removemetrotunnel_title">Pantanggal lagusang metro</string>
-    <string name="tool_removemetrotunnel_text">Magtanggal tayo ng ilang lagusang metro.</string>
+    <string name="tool_removemetrotunnel_title">Lagusang Metro</string>
+    <string name="tool_removemetrotunnel_text">Magtanggal tayo ng kaunting lagusang metro.</string>
 
     <string name="draft_windmill00_title">Old Dutch Windmill</string>
     <string name="draft_windmill00_text">Isang lumang molino (windmill) para sa kanayunan ng inyong lungsod.</string>
@@ -1956,7 +1956,7 @@ Cons: Kaunti ang hamon</string>
     <string name="dialog_storereported_title">Naiulat ang plugin</string>
     <string name="dialog_storereported_text">Salamat po sa inyong puna! Riribyuhin namin ang plugin na ito at bibigyan po ng kaukulang aksiyon.</string>
 
-    <string name="store_ratings">ni %,d marka</string>
+    <string name="store_ratings">sa %,d (na) paggrado</string>
     <string name="store_loadingerror">May pagkakamali</string>
     <string name="dialog_storeerror_title">Pagkakamali sa pagkarga</string>
     <string name="dialog_storeerror_text">Ang plugin na ito ay hindi maikarga sa mga sumusunod na dahilan:</string>
@@ -2119,7 +2119,7 @@ Cons: Kaunti ang hamon</string>
 
     <string name="settings_bigger_minimap">Pinalaking minimap</string>
     <string name="stage_account_title">Account</string>
-    <string name="stage_account_text">Upang magamit ang aming serbisyong online, kailangan pong nakakonekta ka sa isang account.</string>
+    <string name="stage_account_text">Upang magamit ang aming serbisyong onlayn, kailangan pong nakakonekta ka sa isang account.</string>
     <string name="stage_account_forum">TheoTown Forum</string>
     <string name="forum_username">Username:</string>
     <string name="forum_password">Password:</string>
@@ -2136,7 +2136,7 @@ Cons: Kaunti ang hamon</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">Wala pang nai-upload na larawan.</string>
-    <string name="stage_region_online">Online</string>
+    <string name="stage_region_online">Onlayn</string>
     <string name="online_city_visit">Bisitahin</string>
     <string name="store_status_notavailable">Ang plugin na ito ay hindi magagamit (available) sa ngayon</string>
     <string name="dialog_missingplugins_title">Nawawalang Plugin</string>
@@ -2211,13 +2211,13 @@ Cons: Kaunti ang hamon</string>
     <string name="toolaction_prevbuilding">Nakaraang gusali</string>
     <string name="toolaction_abortmovebuilding">Iwan</string>
     <string name="toolaction_rocketfire">Paputukan</string>
-    <string name="toolaction_nextsign">Susunod na marka (label)</string>
-    <string name="toolaction_prevsign">Nakaraang marka (label)</string>
+    <string name="toolaction_nextsign">Susunod na marka</string>
+    <string name="toolaction_prevsign">Nakaraang marka</string>
     <string name="toolaction_terraindeeper">Laliman</string>
     <string name="toolaction_terrainhigher">Paangatin</string>
 
     <string name="settings_uisize">Laki ng UI</string>
-    <string name="settings_uisize_normal">Normal</string>
+    <string name="settings_uisize_normal">Karaniwan</string>
     <string name="settings_uisize_big">Malaki</string>
     <string name="settings_uisize_bigger">Mas malaki</string>
     <string name="settings_uisize_small">Maliit</string>
@@ -2231,15 +2231,14 @@ Cons: Kaunti ang hamon</string>
     <string name="store_local_plugins">Lokal na plugin</string>
     <string name="dialog_missingplugins_localpluginby">•%1$s ni %2$s (lokal na plugin)</string>
 
-
-    <string name="dialog_storedisclaimer_title">There\'s more...</string>
-    <string name="dialog_storedisclaimer_text">Welcome to the Plugin Store! Here you can get hundreds of additional contents for TheoTown made by players around the world.\n
+    <string name="dialog_storedisclaimer_title">May higit pa...</string>
+    <string name="dialog_storedisclaimer_text">Maligayang pagdating sa Bilihan ng Plugin! Dito ka makakakuha ng daan-daang karagdagang nilalaman para sa TheoTown, nilikha ng mga manlalaro mula sa buong mundo.\n
 \n
-We recommend to read the plugin descriptions carefully to understand what a plugin does before you download it.</string>
+Bago ka mag-download, inirerekomenda namin na basahing maiigi ang deskripsiyon ng plugin para maintindihan kung ano ang nagagawa ng plugin.</string>
     <string name="dialog_accountdisclaimer_title">Account</string>
-    <string name="dialog_accountdisclaimer_text">You can connect your game to one or multiple accounts.\n
+    <string name="dialog_accountdisclaimer_text">Maikokonekta mo ang laro sa isa o marami pang account.\n
 \n
-By connecting the game to a TheoTown Forum account you can participate in comment sections.</string>
-    <string name="ci_rci_help">The demand describes the need for specific buildings. It is divided into residential, commercial and industrial demands. For each of them there are three different levels of wealth.</string>
+Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa mga seksiyon ng pagkomento.</string>
+    <string name="ci_rci_help">Inilalarawan ng demand ang pangangailangan sa mga espesipikong gusali. Ito ay nahahati sa demand ng residensiyal, komersiyal, at industriyal. Sa bawat isa nito\'y may tatlong magkakaibang antas ng pagkayaman.</string>
 
 </resources>
