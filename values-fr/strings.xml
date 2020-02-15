@@ -57,7 +57,7 @@
     <string name="loadcity_errordialog_text">Impossible de charger la ville, le fichier semble être endommagé.\n\nDésolé.</string>
     <string name="loadcity_errordialog_cmdcancel">Annuler</string>
     <string name="dialog_screenshot_title">Capture d\'écran enregistrée</string>
-    <string name="dialog_screenshot_text">La capture a été enregistrée sous %1$s.</string>
+    <string name="dialog_screenshot_text">La capture d'écran a été enregistrée sous %1$s.</string>
     <string name="dialog_screenshot_cmdok">Continuer</string>
     <string name="draftselector_titleparks">Parcs</string>
     <string name="draftselector_titlepublics">Lieux publics</string>
@@ -1456,7 +1456,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
 
     <string name="settings_saveonappswitch">Save on app switch</string>
-    <string name="settings_saveforscreenshot">Sauvegarde le screenshot</string>
+    <string name="settings_saveforscreenshot">Sauvegarde la capture d'écran</string>
     <string name="draft_eiffeltower00_title">Tour Eiffel</string>
     <string name="draft_eiffeltower00_text">La Tour Eiffel à Paris est le monument le plus célèbre de France. La tour est haute de 324 mètres et a été finie en 1889.</string>
     <string name="dialog_wb_text02">Veux-tu collecter ce que %1$s t\'a rapporté pendant que tu étais absent ?\n\n%2$s</string>
@@ -1630,14 +1630,14 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
 
     <string name="gallery">Galerie</string>
-    <string name="gallery_upload">Télécharger screenshot</string>
+    <string name="gallery_upload">Télécharger la capture d'écran</string>
     <string name="dialog_galleryupload_title">Téléchargement</string>
     <string name="dialog_galleryupload_text">Je télécharge ton image :)</string>
     <string name="gallery_recent">Récent</string>
     <string name="gallery_trends">Tendances</string>
     <string name="gallery_own">À toi</string>
-    <string name="dialog_gallerydelete_title">Supprimer Screenshot</string>
-    <string name="dialog_gallerydelete_text">Es-tu sûre de vouloir supprimer ce screenshot ? Il est impossible de revenir en arrière !</string>
+    <string name="dialog_gallerydelete_title">Supprimer la capture d'écran</string>
+    <string name="dialog_gallerydelete_text">Es-tu sûre de vouloir supprimer cette capture d'écran ? Il est impossible de revenir en arrière !</string>
     <string name="dialog_gallerydelete_cmd">Supprimer</string>
     <string name="dialog_gallerypolicy_title">Commencer par le commencement</string>
     <string name="dialog_gallerypolicy_text">Salut, je suis heureux que tu veuilles participer à notre galerie. Cependant, avant de commencer il faut que tu adhères à nos CGU si tu veux que l\'on télécharge des screenshots pour toi.
@@ -1661,8 +1661,8 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_notify_pickle_spawned00_text">Un cornichon sauvage est apparu vers %s, que voulez-vous faire monsieur le maire ?</string>
     <string name="draft_rugbyfield00_title">Terrain de rugby</string>
     <string name="draft_rugbyfield00_text">Un terrain de rugby pour les fans de rugby.</string>
-    <string name="menu_facebook">Facebook connection</string>
-    <string name="facebook_privacy">Privacy</string>
+    <string name="menu_facebook">Connexion à Facebook</string>
+    <string name="facebook_privacy">Confidentialité</string>
 
 
     <string name="settings_smoothcarmovement">Mouvements de voiture</string>
@@ -1741,18 +1741,18 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
     <string name="game_remaining_doubledincometime">Revenus doublés par %s</string>
     <string name="draft_taipei101_title">Taipei 101</string>
-    <string name="draft_taipei101_text">The Taipei Financial Center in Taipei is a supertall skyscraper in Taiwan. It has a height of 510 meters and has been the tallest building in the world until 2010. It was finished in 2004.</string>
+    <string name="draft_taipei101_text">Le Centre financier Taipei à Taipei est un très haut gratte-ciel dans Taiwan. Il mesure 510 mètres et il a été le plus haut bâtiment du monde jusqu'en 2010. Il a été terminé en 2004.</string>
     <string name="draft_roaddeco_border00_title">Guide post</string>
     <string name="draft_roaddeco_border00_text">Helps cars to keep track.</string>
-    <string name="draft_roaddeco_border01_title">Stone border</string>
+    <string name="draft_roaddeco_border01_title">Bordure de pierre</string>
     <string name="draft_roaddeco_border01_text">Just some decorative stones lying near your road.</string>
     <string name="draft_roaddeco_border02_title">Guard railing</string>
-    <string name="draft_roaddeco_border02_text">Safety first.</string>
+    <string name="draft_roaddeco_border02_text">Sécurité d'abord.</string>
     <string name="draft_roaddeco_border03_title">Sound protection</string>
-    <string name="draft_roaddeco_border03_text">Which noise? I don\'t hear any.</string>
-    <string name="draft_roaddeco_border04_title">Glass wall</string>
-    <string name="draft_roaddeco_border04_text">You can see cars through it.</string>
-    <string name="draft_roaddeco_border05_title">Street lighting</string>
+    <string name="draft_roaddeco_border03_text">Quel bruit? Je n\'en entends aucun.</string>
+    <string name="draft_roaddeco_border04_title">Mur de verre</string>
+    <string name="draft_roaddeco_border04_text">Vous pouvez voir les voitures à travers.</string>
+    <string name="draft_roaddeco_border05_title">Eclairage urbain</string>
     <string name="draft_roaddeco_border05_text">There\'s no night and yet there are street lights.</string>
 
 
@@ -1782,25 +1782,25 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="features_diamonds">Obtenir des diamants</string>
 
 
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="dialog_privacy_title">Privacy Policy</string>
-    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="dialog_privacy_title">Politique de confidentialité</string>
+    <string name="dialog_privacy_text">Salut, nous avons mis à jour notre Politique de confidentialité. S\'il vous plait, prenez le temps de la reconsidérer.</string>
     <string name="dialog_privacy_cmdopen">Open Policy</string>
-    <string name="dialog_privacy_cmdlater">Got it</string>
+    <string name="dialog_privacy_cmdlater">Bien reçu</string>
     <string name="settings_drawzones">Dessiner zones</string>
     <string name="draft_metrostation00_title">Station de métro</string>
     <string name="draft_metrostation00_text">Une station pour accéder au métro.</string>
     <string name="draft_metroline00_title">Tunnel de métro</string>
     <string name="draft_metroline00_text">Une tunnel de métro. Tu ne peux pas le voir mais oui, il est là.</string>
-    <string name="feature_coming_soon">Coming soon</string>
+    <string name="feature_coming_soon">A venir</string>
     <string name="dialog_search_title">Chercher</string>
-    <string name="dialog_search_text">Enter a search keyword below.</string>
+    <string name="dialog_search_text">Entrez un mot-clé de recherche ci-dessous.</string>
     <string name="dialog_search_cmdok">Rechercher</string>
     <string name="dialog_search_cmdcancel">Annuler</string>
-    <string name="search_results_title">Search results for \"%s\"</string>
-    <string name="draft_rail01_title">Urban Railway</string>
-    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
-    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
+    <string name="search_results_title">Résultats de recherche pour \"%s\"</string>
+    <string name="draft_rail01_title">Transport ferroviaire urbain</string>
+    <string name="draft_rail01_text">Chemins de fer en hauteur pour aires urbaines pour plus de vitesse.</string>
+    <string name="draft_nativerailwaystation01_title">Station ferroviaire urbaine</string>
     <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
     <string name="settings_realmmres">Real minimap resolution</string>
     <string name="feature_coming_soon_fulfilled">An early gift</string>
@@ -1808,16 +1808,16 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
 
     <string name="draft_tree_sakura00_title">Cherry blossom</string>
     <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
-    <string name="draft_circus00_title">Circus</string>
-    <string name="draft_circus00_text">It\'s time for circus!</string>
+    <string name="draft_circus00_title">Cirque</string>
+    <string name="draft_circus00_text">C\'est l\'heure du cirque !</string>
     <string name="draft_chrysler00_title">Chrysler Building</string>
     <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
     <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
     <string name="draft_feature_landmarks04_text">Have some great buildings</string>
 
 
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
+    <string name="draft_roaddeco_barrier_open00_title">Barrière</string>
+    <string name="draft_roaddeco_barrier_open00_text">Tapez dessus pour la fermer. Un excellent moyen pour créer des embouteillages.</string>
     <string name="selectable_find">Find (%,d)</string>
     <string name="gallery_upload_success">Success</string>
     <string name="gallery_upload_fail">Upload failed</string>
@@ -1826,13 +1826,13 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="lang_pirate">Pirate</string>
 
 
-    <string name="draft_church10_title">Baroque Church</string>
+    <string name="draft_church10_title">Eglise Baroque</string>
     <string name="draft_church10_text">A beautiful church and convent for your city.</string>
     <string name="draft_roaddeco_construction00_title">Backhoe</string>
     <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
 
 
-    <string name="infoline_freetunnels">%d tunnels left</string>
+    <string name="infoline_freetunnels">%d tunnels restants</string>
     <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
     <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
     <string name="draft_roaddeco_barrier01_title">Barricades</string>
@@ -1841,15 +1841,15 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
 
 
-    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
-    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
-    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
-    <string name="notification01_text">Mayor, please come back!</string>
+    <string name="notification00_sandbox_title">NEWS: %1$s est une ville géniale!</string>
+    <string name="notification00_sandbox_text">Maire, vous pouvez être fier de vous!</string>
+    <string name="notification01_title">NEWS: %1$s se sent seule!</string>
+    <string name="notification01_text">Maire, revenez s\'il vous plait!</string>
 
 
-    <string name="shop_adreward">Free diamonds</string>
-    <string name="draft_smallmetrostation00_title">Metro access point</string>
-    <string name="draft_smallmetrostation00_text">A station to access the metro. For trains you have to build a metro station.</string>
+    <string name="shop_adreward">Diamants gratuits</string>
+    <string name="draft_smallmetrostation00_title">Bouche de métro</string>
+    <string name="draft_smallmetrostation00_text">Une station pour accéder au métro. Pour les trains, vous devez construire une station de métro.</string>
     <string name="draft_roaddeco_trafficisland00_title">Traffic island</string>
     <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
     <string name="draft_roaddeco_buildingsite00_title">Building site</string>
@@ -1858,16 +1858,16 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
 
 
-    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
-    <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
+    <string name="tool_removemetrotunnel_title">Supprimer un tunnel de métro</string>
+    <string name="tool_removemetrotunnel_text">Supprimons quelques tunnels de métro.</string>
 
 
-    <string name="draft_windmill00_title">Old Dutch Windmill</string>
-    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
-    <string name="draft_taxi_depot00_title">Taxi depot</string>
-    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
+    <string name="draft_windmill00_title">Vieux Moulin Allemand</string>
+    <string name="draft_windmill00_text">Un vieux moulin pour votre campagne urbaine.</string>
+    <string name="draft_taxi_depot00_title">Dépôt de taxis</string>
+    <string name="draft_taxi_depot00_text">Une forme simple de transport public.</string>
     <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
+    <string name="menu_closegame">Quitter le jeu</string>
     <string name="disaster_pickle_title">Pickle</string>
     <string name="disaster_pickle_text">Pickle.</string>
     <string name="disaster_pickle_cmdtext">Pickle!</string>
@@ -1877,30 +1877,30 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
 
 
-    <string name="draft_discord_statue00_title">Discord statue</string>
-    <string name="draft_discord_statue00_text">Discord statue.</string>
-    <string name="notify_discord_statue00_title">Thank you!</string>
+    <string name="draft_discord_statue00_title">Statue Discord</string>
+    <string name="draft_discord_statue00_text">Statue Discord.</string>
+    <string name="notify_discord_statue00_title">Merci!</string>
     <string name="notify_discord_statue00_text">Thank you for %d members on our Discord server. Do you want to visit it now?</string>
     <string name="draftselector_titlebodydisposal">Funeral</string>
-    <string name="draft_roaddeco_protester00_title">Fake protesters</string>
+    <string name="draft_roaddeco_protester00_title">Faux manifestants</string>
     <string name="draft_roaddeco_protester00_text">Pay some people to fake some protesters.</string>
-    <string name="draft_roaddeco_riot00_title">Fake riot</string>
+    <string name="draft_roaddeco_riot00_title">Fausse émeute</string>
     <string name="draft_roaddeco_riot00_text">Pay some people to fake a riot.</string>
-    <string name="draft_roaddeco_roundabout00_title">Mini roundabout</string>
-    <string name="draft_roaddeco_roundabout00_text">A tiny roundabout. Place it at your intersections.</string>
+    <string name="draft_roaddeco_roundabout00_title">Mini rond-point</string>
+    <string name="draft_roaddeco_roundabout00_text">Un petit rond-point. Placez-le dans les croisements.</string>
     <string name="disaster_blizzard_title">Blizzard</string>
     <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
-    <string name="disaster_blizzard_cmdtext">Freeze!</string>
-    <string name="draft_snowtile00_title">Permanent snow</string>
+    <string name="disaster_blizzard_cmdtext">Gel!</string>
+    <string name="draft_snowtile00_title">Neige permanente</string>
     <string name="draft_snowtile00_text">What about global warming?</string>
     <string name="gamemode_free_title">Libre</string>
     <string name="gamemode_free_text">Vous n\'avez pas envie de gérer les finances ? Dans ce mode de jeu il n\'y a pas ni besoin d\'argent, ni d\'exigences citoyennes !</string>
     <string name="dialog_free_title">Free game mode</string>
     <string name="dialog_free_text">You selected free game mode.\n
 Pros: No money, no requirements, options to control demand\n
-Cons: Less challenges</string>
-    <string name="draft_medic03_title">Modern hospital</string>
-    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
+Cons: Moins de challenges</string>
+    <string name="draft_medic03_title">Hôpital moderne</string>
+    <string name="draft_medic03_text">Un hôpital moderne pour s\'occuper de plus de patients dans un espace réduit.</string>
     <string name="draft_gol_dead_title">Game of life</string>
     <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
 
@@ -1912,21 +1912,21 @@ Cons: Less challenges</string>
     <string name="draft_transamerica00_title">Transamerica Pyramid</string>
     <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
     <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
-    <string name="dialog_cemeteryclear_title">Clear now</string>
+    <string name="dialog_cemeteryclear_title">Vider maintenant</string>
     <string name="dialog_cemeteryclear_text">I think we can reuse some of the space here.</string>
-    <string name="cemetery_cmdclear">Clear now</string>
-    <string name="cemetery_clear">SWIPE to free up some space.</string>
+    <string name="cemetery_cmdclear">Vider maintenant</string>
+    <string name="cemetery_clear">GLISSER pour libérer de l'espace.</string>
     <string name="draft_cemetery00_text">A place where the remains of dead people are buried.</string>
-    <string name="draft_crematory00_text">Dead people are burnt here.</string>
+    <string name="draft_crematory00_text">Les personnes décédées sont brûlées ici.</string>
     <string name="notify_bodydisposal_needer00">Dear mayor, I urge you to build a cemetery to bury the deceased.</string>
     <string name="notify_bodydisposal_producer00">There\'s no space left in this cemetery. Clean it up or build a new cemetery or crematory.</string>
-    <string name="draft_halloween_pumpkin00_title">Pumpkin</string>
-    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
-    <string name="draft_halloween_tree00_title">Dead tree</string>
+    <string name="draft_halloween_pumpkin00_title">Citrouille</string>
+    <string name="draft_halloween_pumpkin00_text">Halloween arrive! Tout le monde aime les citrouilles, n\'est-ce-pas?</string>
+    <string name="draft_halloween_tree00_title">Arbre mort</string>
     <string name="draft_halloween_tree00_text">A spooky dead tree that is typically used in ghost stories.</string>
     <string name="draft_feature_landmarks04_title">Landmarks V</string>
     <string name="draft_feature_landmarks05_title">Landmarks VI</string>
-    <string name="draft_marker_hackedmarkermarker_title">THIS VERSION HAS BEEN HACKED!</string>
+    <string name="draft_marker_hackedmarkermarker_title">CETTE VERSION A ETE PIRATEE!</string>
 
 
     <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
@@ -1972,7 +1972,7 @@ Cons: Less challenges</string>
     <string name="store_status_running">Running</string>
     <string name="store_status_notrunning">Not running</string>
     <string name="store_status_newversioninstalled">Installed new version</string>
-    <string name="store_status_availupdate">Update available</string>
+    <string name="store_status_availupdate">Mise à jour disponible</string>
     <string name="store_status_restartrequired">Restart required</string>
     <string name="store_active">Actif</string>
     <string name="store_notactive">Non actif</string>
@@ -1982,10 +1982,10 @@ Cons: Less challenges</string>
     <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
     <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
     <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin?</string>
+    <string name="dialog_storedelete_text">Etes-vous sûrs de vouloir supprimer ce plugin?</string>
     <string name="dialog_storedelete_cmddelete">Uninstall</string>
     <string name="store_modefeatured">Featured</string>
-    <string name="store_modecategory">Category</string>
+    <string name="store_modecategory">Catégorie</string>
     <string name="store_shorttitle">Plugins</string>
     <string name="gamemenu_catcity">Ville</string>
     <string name="gamemenu_catcontent">Contenu</string>
@@ -1993,25 +1993,25 @@ Cons: Less challenges</string>
     <string name="gamemenu_catpictures">Images</string>
     <string name="gamemenu_catother">Autres</string>
     <string name="store_catcount">%,d plugins</string>
-    <string name="store_featured">Featured</string>
+    <string name="store_featured">Mis en avant</string>
 
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+    <string name="dialog_storereport_title">Signaler un plugin</string>
+    <string name="dialog_storereport_text">Veuillez indiquer la raison du signalement \"%s\":</string>
+    <string name="dialog_storereport_cmdreport">Signalement</string>
+    <string name="dialog_storereported_title">Plugin signalé</string>
+    <string name="dialog_storereported_text">Merci de votre retour! Nous allons examiner ce plugin et prendre les décisions appropriées.</string>
 
 
     <string name="store_ratings">by %,d ratings</string>
-    <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
+    <string name="store_loadingerror">Erreur</string>
+    <string name="dialog_storeerror_title">Erreur de chargement</string>
     <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
     <string name="store_new">New and Updated</string>
     <string name="draft_cat_plugins00_title">Plugins</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
+    <string name="dialog_storesearch_title">Chercher un plugin</string>
     <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="dialog_storesearch_cmdsearch">Chercher</string>
 
 
     <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
@@ -2038,15 +2038,15 @@ Cons: Less challenges</string>
     <string name="draft_cat_tree00_title">Plants</string>
     <string name="draft_railroof00_title">Roof</string>
     <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
-    <string name="draft_trainplatform00_title">Platform 1</string>
+    <string name="draft_trainplatform00_title">Platforme 1</string>
     <string name="draft_trainplatform00_text">A platform of the train station.</string>
-    <string name="draft_trainplatform01_title">Platform 2</string>
-    <string name="draft_trainplatform02_title">Platform 3</string>
-    <string name="draft_trainplatform03_title">Platform 4</string>
-    <string name="draft_trainplatform04_title">Platform 5</string>
-    <string name="draft_trainplatform05_title">Platform 6</string>
-    <string name="draft_trainplatform06_title">Platform 7</string>
-    <string name="draft_trainplatform07_title">Platform 8</string>
+    <string name="draft_trainplatform01_title">Platforme 2</string>
+    <string name="draft_trainplatform02_title">Platforme 3</string>
+    <string name="draft_trainplatform03_title">Platforme 4</string>
+    <string name="draft_trainplatform04_title">Platforme 5</string>
+    <string name="draft_trainplatform05_title">Platforme 6</string>
+    <string name="draft_trainplatform06_title">Platforme 7</string>
+    <string name="draft_trainplatform07_title">Platforme 8</string>
     <string name="draft_trainstation00_title">Local traffic platform</string>
     <string name="draft_trainstation00_text">Only local trains will start and end here.</string>
     <string name="draft_trainstation01_title">Long-distance traffic platform</string>
@@ -2133,8 +2133,8 @@ Cons: Less challenges</string>
     <string name="settings_vsync">VSync</string>
 
 
-    <string name="shop_invitefriends">Earn %d diamonds per invited friend</string>
-    <string name="shop_invitetitle">Invite a friend</string>
+    <string name="shop_invitefriends">Obtenir %d diamants par ami invité</string>
+    <string name="shop_invitetitle">Inviter un ami</string>
     <string name="shop_invitationtext">Hey, check out this game that I found recently:\n%s</string>
     <string name="gamemenu_gameid">Game id: %s</string>
     <string name="gamemenu_gameidcopied">Copied game id into clipboard</string>
@@ -2171,41 +2171,41 @@ Cons: Less challenges</string>
 
 
     <string name="settings_bigger_minimap">Bigger minimap</string>
-    <string name="stage_account_title">Account</string>
-    <string name="stage_account_text">In order to use our online services you have to be connected to an account.</string>
+    <string name="stage_account_title">Compte</string>
+    <string name="stage_account_text">Pour pouvoir utiliser nos services en ligne, vous devez être connecté à un compte.</string>
     <string name="stage_account_forum">TheoTown Forum</string>
-    <string name="forum_username">Username:</string>
-    <string name="forum_password">Password:</string>
+    <string name="forum_username">Pseudo:</string>
+    <string name="forum_password">Mot de passe:</string>
     <string name="forum_inuse">This account is used to login right now.</string>
-    <string name="forum_cmdprofile">Show Profile</string>
-    <string name="forum_cmdregister">No account? Register now!</string>
-    <string name="forum_cmdlogin">Login</string>
-    <string name="forum_cmdlogout">Logout</string>
-    <string name="forum_success">Success</string>
-    <string name="forum_loginerror">Login Error</string>
-    <string name="forum_networkerror">Connection Error</string>
-    <string name="stage_account_other">Other Accounts</string>
+    <string name="forum_cmdprofile">Afficher le profil</string>
+    <string name="forum_cmdregister">Pas de compte? S'inscrire maintenant!</string>
+    <string name="forum_cmdlogin">Connexion</string>
+    <string name="forum_cmdlogout">Déconnexion</string>
+    <string name="forum_success">Succès</string>
+    <string name="forum_loginerror">Erreur de connection</string>
+    <string name="forum_networkerror">Erreur de connection réseau</string>
+    <string name="stage_account_other">Autres comptes</string>
     <string name="stage_account_connected">Connecté avec %s</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Mettre à jour</string>
     <string name="stage_gallery_noimages">No images uploaded, yet.</string>
     <string name="stage_region_online">En ligne</string>
     <string name="online_city_visit">Visiter</string>
-    <string name="store_status_notavailable">This plugin is not available right now</string>
-    <string name="dialog_missingplugins_title">Missing Plugins</string>
-    <string name="dialog_missingplugins_text">This city contains plugins that are not downloaded or running right now:</string>
-    <string name="dialog_missingplugins_pluginby">•%1$s by %2$s</string>
-    <string name="dialog_missingplugins_cmdget">Get them</string>
-    <string name="dialog_missingplugins_cmdskip">Continue without</string>
+    <string name="store_status_notavailable">Ce plugin n\'est pas disponible pour le moment</string>
+    <string name="dialog_missingplugins_title">Plugins manquants</string>
+    <string name="dialog_missingplugins_text">Cette ville contient des plugins qui ne sont pas téléchargés ou exécutés pour le moment:</string>
+    <string name="dialog_missingplugins_pluginby">•%1$s par %2$s</string>
+    <string name="dialog_missingplugins_cmdget">Les obtenir</string>
+    <string name="dialog_missingplugins_cmdskip">Continuer sans</string>
     <string name="statistics_energyproduced">Énergie produite</string>
     <string name="statistics_energyneed">Besoin en énergie</string>
     <string name="statistics_waterproduced">Eau produite</string>
     <string name="statistics_waterneed">Besoin en eau</string>
     <string name="ci_show_statistics">Afficher les statistiques</string>
-    <string name="dialog_commentdelete_title">Delete Comment</string>
+    <string name="dialog_commentdelete_title">Supprimer le commentaire</string>
     <string name="dialog_commentdelete_text">Hey, are you sure that you want to delete that comment by %1$s?</string>
     <string name="dialog_commentdelete_cmd">Delete</string>
-    <string name="stage_comment_login">Login with TheoTown account to comment</string>
+    <string name="stage_comment_login">Se connecter au compte TheoTown pour commenter</string>
     <string name="dialog_report_title">Report</string>
     <string name="dialog_report_text">Please specify for what reason you want to report %1$s:</string>
     <string name="dialog_report_appendix">You can send additional information to report@theotown.com</string>
@@ -2214,19 +2214,19 @@ Cons: Less challenges</string>
     <string name="dialog_report_cmd">Report</string>
     <string name="stage_comment_reportsubject">the comment by %1$s</string>
     <string name="stage_store_reportsubject">the plugin "%1$s"</string>
-    <string name="stage_comment_noperm">You are not allowed to comment on that plugin.</string>
+    <string name="stage_comment_noperm">Vous n'avez pas le droit de commenter sur ce plugin.</string>
     <string name="store_modecommented">Comments</string>
-    <string name="report_sexual">Sexual content</string>
+    <string name="report_sexual">Contenu sexuel</string>
     <string name="report_violent_or_repulsive">Violent or repulsive content</string>
     <string name="report_hateful_or_abusive">Hateful or abusive content</string>
     <string name="report_dangerous">Dangerous content</string>
     <string name="report_promotes_terrorism">Promotes terrorism</string>
     <string name="report_spam_or_misleading">Spam or misleading</string>
-    <string name="report_infringes_my_rights">Infringes my rights</string>
+    <string name="report_infringes_my_rights">Enfreint mes droits</string>
     <string name="report_bad_behavior">Bad behavior</string>
     <string name="report_violates_store_rules">Violates other store rules</string>
-    <string name="stage_comment_cmdsend">Send</string>
-    <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
+    <string name="stage_comment_cmdsend">Envoyer</string>
+    <string name="stage_comment_cmdsendhint">Entrez votre commentaire ici...</string>
     <string name="dialog_storerestart_cmdlater">Later</string>
     <string name="wealthy_poor">Classe populaire</string>
     <string name="wealthy_medium">Classe moyenne</string>
@@ -2270,30 +2270,30 @@ Cons: Less challenges</string>
     <string name="toolaction_terrainhigher">Plus haut</string>
 
 
-    <string name="settings_uisize">UI Size</string>
+    <string name="settings_uisize">Taille de l\'UI</string>
     <string name="settings_uisize_normal">Normal</string>
-    <string name="settings_uisize_big">Big</string>
-    <string name="settings_uisize_bigger">Bigger</string>
-    <string name="settings_uisize_small">Small</string>
-    <string name="settings_uisize_smaller">Smaller</string>
+    <string name="settings_uisize_big">Gros</string>
+    <string name="settings_uisize_bigger">Plus gros</string>
+    <string name="settings_uisize_small">Petit</string>
+    <string name="settings_uisize_smaller">Plus petié</string>
     <string name="createcity_desert">Desert</string>
-    <string name="createcity_snow">Snow</string>
-    <string name="weather_sunny">Sunny</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_lighting">Thunderstorm</string>
-    <string name="weather_auto">Dynamic</string>
-    <string name="store_local_plugins">Local plugins</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (local plugin)</string>
+    <string name="createcity_snow">Neige/string>
+    <string name="weather_sunny">Ensoleillé</string>
+    <string name="weather_rainy">Pluvieux</string>
+    <string name="weather_lighting">Orageux</string>
+    <string name="weather_auto">Dynamique</string>
+    <string name="store_local_plugins">Plugins locaux</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s par %2$s (plugin local)</string>
 
 
-    <string name="dialog_storedisclaimer_title">There\'s more...</string>
-    <string name="dialog_storedisclaimer_text">Welcome to the Plugin Store! Here you can get hundreds of additional contents for TheoTown made by players around the world.\n
+    <string name="dialog_storedisclaimer_title">Il y a plus...</string>
+    <string name="dialog_storedisclaimer_text">Bienvenue au Magasin de Plugin! Ici vous pouvez obtenir des centaines de contenus additionnels pour TheoTown créés par des joueurs du monde entier.\n
 \n
-We recommend to read the plugin descriptions carefully to understand what a plugin does before you download it.</string>
-    <string name="dialog_accountdisclaimer_title">Account</string>
-    <string name="dialog_accountdisclaimer_text">You can connect your game to one or multiple accounts.\n
+Nous vous recommandons de lire la description des plugins attentivement pour comprendre ce que font ces plugins avant de le télécharger.</string>
+    <string name="dialog_accountdisclaimer_title">Compte</string>
+    <string name="dialog_accountdisclaimer_text">Vous pouvez connecter votre jeu à un ou plusieurs comptes,.\n
 \n
-By connecting the game to a TheoTown Forum account you can participate in comment sections.</string>
-    <string name="ci_rci_help">The demand describes the need for specific buildings. It is divided into residential, commercial and industrial demands. For each of them there are three different levels of wealth.</string>
+En connectant le jeu à un compte du Forum TheoTown, vous pouvez participer dans la section commentaires.</string>
+    <string name="ci_rci_help">La demande décrit le besoin pour des bâtiments spécifiques. Celle-ci est divisée en demandes résidentielles, commerciales et industrielles. Pour chaque demande, il y a trois différents niveaux de richesse.</string>
 
 </resources>
