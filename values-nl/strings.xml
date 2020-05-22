@@ -862,7 +862,7 @@
     <string name="topic_cats">Katten zijn zo schattig.</string>
     <string name="topic_force">Moge de Kracht met jou zijn.</string>
     <string name="topic_plugins">We hebben nu ook plugins.</string>
-    <string name="topic_page">Bezoek ons op www.theotown.de</string>
+    <string name="topic_page">Bezoek ons op www.theotown.com</string>
     <string name="topic_habitants">Je zou tot 1,000,000 kunnen geraken.</string>
     <string name="ci_statistics_title">Statistieken</string>
     <string name="statistics_inh_all">Inwoners</string>
@@ -2190,7 +2190,7 @@ Contra: Minder uitdagend</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">No images uploaded, yet.</string>
-    <string name="stage_region_online">Online</string>
+    <string name="stage_region_online">Online regions</string>
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
     <string name="dialog_missingplugins_title">Missing Plugins</string>
@@ -2296,5 +2296,56 @@ We recommend to read the plugin descriptions carefully to understand what a plug
 \n
 By connecting the game to a TheoTown Forum account you can participate in comment sections.</string>
     <string name="ci_rci_help">The demand describes the need for specific buildings. It is divided into residential, commercial and industrial demands. For each of them there are three different levels of wealth.</string>
+
+
+    <string name="draft_destroyed_tree00_title">Burnt trees</string>
+    <string name="draft_destroyed_tree00_text">Some burnt down trees that you might want to remove.</string>
+    <string name="region_acquiremap">Acquire</string>
+    <string name="dialog_acquiremapfreemium_title">Acquire map</string>
+    <string name="dialog_acquiremapfreemium_text">Congratulations, this is a free spot that you can acquire to build your own city here.</string>
+    <string name="settings_sound_plugins">Plugins</string>
+    <string name="createregion_title">New region</string>
+    <string name="createregion_split">Split</string>
+    <string name="createregion_merge">Merge</string>
+    <string name="createregion_hide">Exclude</string>
+    <string name="createregion_show">Include</string>
+    <string name="createcity_sizebigbigbigbig">Even bigger</string>
+    <string name="createregion_layout">Layout:</string>
+    <string name="createregion_layout2x2">2x2</string>
+    <string name="createregion_layoutcircle">Circle</string>
+    <string name="dialog_deleteregion_title">Delete region</string>
+    <string name="dialog_deleteregion_text">Are you sure that you want to delete this region? This cannot be undone.</string>
+    <string name="dialog_deleteregion_cmd">Delete</string>
+    <string name="dialog_resetregion_title">Reset region</string>
+    <string name="dialog_resetregion_text">Are you sure that you want to reset this region? This cannot be undone.</string>
+    <string name="dialog_resetregion_cmd">Reset</string>
+    <string name="dialog_regionpassword_title">Enter region password</string>
+    <string name="dialog_regionpassword_text">Password:</string>
+    <string name="dialog_generateregion_title">Generate region</string>
+    <string name="dialog_generateregion_text">Do you want to generate that region now?</string>
+    <string name="dialog_uploadregionaccount_title">Account needed</string>
+    <string name="dialog_uploadregionaccount_text">In order to upload a region you have to connect TheoTown with a TheoTown account.</string>
+    <string name="dialog_uploadregion_title">Upload region</string>
+    <string name="dialog_uploadregion_text">This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If not password is set other players can join there then, too.</string>
+    <string name="dialog_uploadregion_cmdpassword">Password ...</string>
+    <string name="dialog_uploadregion_cmdupload">Upload</string>
+    <string name="stage_uploadregion_uploading">Uploading region</string>
+    <string name="dialog_uploadregionpassword_title">Enter password</string>
+    <string name="dialog_uploadregionpassword_text">Here you can enter a password to access the region. Leave this field empty to set no password.</string>
+    <string name="dialog_regionsearch_title">Search region</string>
+    <string name="dialog_regionsearch_text">Enter a keyword below:</string>
+    <string name="dialog_regionsearch_cmdsearch">Search</string>
+    <string name="dialog_regioncoininfo_title">Region Coins?</string>
+    <string name="dialog_regioncoininfo_text">For balancing reasons we introduced a currency called Region Coins. You will earn them for free on a daily basis just by opening the game.\n\nThis currency allows us to offer you our online services for free.</string>
+    <string name="settings_sdcardplugins">Load plugins from sd card (TheoTown/plugins)</string>
+    <string name="dialog_uploadregionconfirm_title">Upload now?</string>
+    <string name="dialog_uploadregionconfirm_text">Ensure that you have a stable internet connection before starting the process.</string>
+    <string name="dialog_uploadregionunsuited_title">Upload region</string>
+    <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that are not part of the game nor have any cities in them (yet).</string>
+    <string name="dialog_acquirecityaccount_title">Account needed</string>
+    <string name="dialog_acquirecityaccount_text">In order to acquire a plot in a online region you have to connect TheoTown with a TheoTown account.</string>
+    <string name="region_onlinecity_free">This plot is free so you can acquire it.</string>
+    <string name="region_onlinecity_acquired">This is your plot. You can found a city here.</string>
+    <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
 
 </resources>
