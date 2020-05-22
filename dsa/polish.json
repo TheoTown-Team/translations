@@ -1,9 +1,8 @@
-
 [
   {
-    "id":"$dsa_translation",
+    "id":"$dsa_translation_pl",
     "type":"translation",
-    "*":{
+    "pl":{
       "draft_feature_dsa00_title":"DSA",
       "draft_feature_dsa00_text":"Ta agencja da ci nowe sposoby dostarczania mediów do miasta, kilka nowych aut, nową, tańszą i szybszą drogę, nową katastrofę, flagę DSA, nowe budynki, dużo wydarzeń specjalnych, kosmiczny wymiar eksploracji, nowe metody na zarabianie i wiele więcej.",
       "draft_dsa_category00_title":"Agencja",
@@ -180,15 +179,15 @@
       "draft_dsa_moon_command00_text":"Building commanding all local and space operations in the vacinity.",
       "draft_dsacomingsoon_text":"COMING SOON",
       "draft_dsa_moon_spaceport_title":"Spaceport",
-        "draft_dsa_moon_spaceport_text":"Building which is used for easy transportation of goods, materials or people in space.",
+  	  "draft_dsa_moon_spaceport_text":"Building which is used for easy transportation of goods, materials or people in space.",
       "draft_dsa_moon_sport00_title": "Fitness center",
-        "draft_dsa_moon_sport00_text": "A place for colonists to remain fit and healthy.",
+    	"draft_dsa_moon_sport00_text": "A place for colonists to remain fit and healthy.",
       "draft_dsa_moon_faith00_title": "Holy house",
-        "draft_dsa_moon_faith00_text": "Building for colonist faith and religion.",
+    	"draft_dsa_moon_faith00_text": "Building for colonist faith and religion.",
       "draft_moon_recycle00_title":"Recycling station",
       "draft_moon_recycle00_text":"A station where garbage is recycled back into usable objects or materials.",
       "draft_moon_pipe00_title": "Water pipes",
-        "draft_moon_pipe00_text": "Pipes used to transfer water to your local base.",
+    	"draft_moon_pipe00_text": "Pipes used to transfer water to your local base.",
       "draft_moon_water00_title":"Water station",
       "draft_moon_water00_text":"Make water out of bodily fluids of colonists or synthesis.",
       "draft_moon_energy00_title":"Solar panels",
@@ -196,11 +195,11 @@
       "draft_moon_wire00_title":"Power lines",
       "draft_moon_wire00_text":"Wires used to transfer electricity underground to your base.",
       "draft_dsa_moon_road00_title": "Rover tracks",
-        "draft_dsa_moon_road00_text": "Reinforced ground tracks for rovers and other vehicles.",
+    	"draft_dsa_moon_road00_text": "Reinforced ground tracks for rovers and other vehicles.",
       "draft_dsa_moon_farm_title":"Aquaponics",
-        "draft_dsa_moon_farm_text":"A building with artificial ecosystem designed for food production.",
+    	"draft_dsa_moon_farm_text":"A building with artificial ecosystem designed for food production.",
       "draft_dsa_moon_storage_title":"Storage facility",
-        "draft_dsa_moon_storage_text":"Building where food and other critical supplies are stored.\nContents:\nFood: ${_spacefood/10}/${_spacefoodstorage/10}",
+    	"draft_dsa_moon_storage_text":"Building where food and other critical supplies are stored.\nContents:\nFood: ${_spacefood/10}/${_spacefoodstorage/10}",
       "draft_dsa_helium3_upgrade_title": "Export helium 3",
       "draft_dsa_helium3_upgrade_text": "Export helium 3 back to Theonia for use in fusion reactors. You'd export enough Helium 3 for up to ${_spacehelium} power plants.",
       "draft_dsa_helium3_upgrade_req_text": "Need: Helium 3 mining",
@@ -216,7 +215,7 @@
       "draft_tool_pidroid_remote00_text":"Build a remote to control the Pidroid.",
       "draft_tool_pidroid_remote00_cmd":"Control it!",
       "draft_pidroid00_title": "Pidroid",
-          "draft_pidroid00_text": "One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.",
+  		"draft_pidroid00_text": "One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.",
       "draft_picklebparty00_text00_text": "Happy Birthday Pickle!",
       "draft_picklebparty00_text01_text": "Pickles age like wine",
       "draft_picklebparty00_text02_text": "You're never too old for a pickle",
@@ -234,4 +233,3 @@
     }
   }
 ]
-

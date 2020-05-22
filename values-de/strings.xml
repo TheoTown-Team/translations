@@ -2171,7 +2171,7 @@ Nachtteile: Langweilig</string>
     <string name="forum_password">Passwort:</string>
     <string name="forum_inuse">Dieser Account is verbunden.</string>
     <string name="forum_cmdprofile">Zeige Profil</string>
-    <string name="forum_cmdregister">Noch kein Account? Jetzt anmelden!</string>
+    <string name="forum_cmdregister">Noch kein Account?</string>
     <string name="forum_cmdlogin">Login</string>
     <string name="forum_cmdlogout">Logout</string>
     <string name="forum_success">Erfolg</string>
@@ -2182,7 +2182,7 @@ Nachtteile: Langweilig</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">Noch keine Bilder hochgeladen.</string>
-    <string name="stage_region_online">Online</string>
+    <string name="stage_region_online">Online regions</string>
     <string name="online_city_visit">Besuchen</string>
     <string name="store_status_notavailable">Nicht verfügbar</string>
     <string name="dialog_missingplugins_title">Fehlende Plugins</string>
@@ -2287,5 +2287,56 @@ Bitte lies dir die Pluginbeschreibungen durch, bevor du ein Plugin herunterläds
 \n
 Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den Kommentarsektionen teilnehmen.</string>
     <string name="ci_rci_help">Die Nachfrage beschreibt den Bedarf nach bestimmten Gebäuden. Hierbei wird unterschieden zwischen Wohn-, Gewerbe- und Industriebedarf. Für jeden Typ gibt es drei Wohlstandsausprägungen: arm, mittel und reich.</string>
+
+
+    <string name="draft_destroyed_tree00_title">Verbrannte Bäume</string>
+    <string name="draft_destroyed_tree00_text">Ein paar verkohlte Bäume. Hier ist nichts mehr zu retten, lieber entsorgen.</string>
+    <string name="region_acquiremap">Beanspruchen</string>
+    <string name="dialog_acquiremapfreemium_title">Land beanspruchen</string>
+    <string name="dialog_acquiremapfreemium_text">Glückwunsch, dieses Stückchen Land ist noch nicht besetzt. Du kannst es für dich beanspruchen um dort eine Stadt zu errichten.</string>
+    <string name="settings_sound_plugins">Plugins</string>
+    <string name="createregion_title">Neue Region</string>
+    <string name="createregion_split">Teilen</string>
+    <string name="createregion_merge">Verschmelzen</string>
+    <string name="createregion_hide">Ausschließen</string>
+    <string name="createregion_show">Einschließen</string>
+    <string name="createcity_sizebigbigbigbig">Noch größer</string>
+    <string name="createregion_layout">Layout:</string>
+    <string name="createregion_layout2x2">2x2</string>
+    <string name="createregion_layoutcircle">Kreis</string>
+    <string name="dialog_deleteregion_title">Region löschen</string>
+    <string name="dialog_deleteregion_text">Bist du dir sicher, dass du diese Region löschen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_deleteregion_cmd">Löschen</string>
+    <string name="dialog_resetregion_title">Region zurücksetzen</string>
+    <string name="dialog_resetregion_text">Bist du dir sicher, dass du diese Region zurücksetzen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_resetregion_cmd">Zurücksetzen</string>
+    <string name="dialog_regionpassword_title">Passwort eingeben</string>
+    <string name="dialog_regionpassword_text">Passwort:</string>
+    <string name="dialog_generateregion_title">Region erzeugen</string>
+    <string name="dialog_generateregion_text">Diese Region jetzt erzeugen?</string>
+    <string name="dialog_uploadregionaccount_title">Account benötigt</string>
+    <string name="dialog_uploadregionaccount_text">Um eine Region hochladen zu können musst du dein Spiel mit einem TheoTown-Account verbinden.</string>
+    <string name="dialog_uploadregion_title">Region hochladen</string>
+    <string name="dialog_uploadregion_text">Dies wird deine Region in die öffentliche Liste von online Regionen kopieren.\n\nSobald die Region hochgeladen wurde, kannst du online Land auf ihr für dich beanspruchen. Falls du kein Passwort festlegst können andere Spieler ebenfalls in dieser Region Land beanspruchen.</string>
+    <string name="dialog_uploadregion_cmdpassword">Passwort ...</string>
+    <string name="dialog_uploadregion_cmdupload">Hochladen</string>
+    <string name="stage_uploadregion_uploading">Lade Region hoch</string>
+    <string name="dialog_uploadregionpassword_title">Passwort eingeben</string>
+    <string name="dialog_uploadregionpassword_text">Hier kannst du ein Passwort zum Betreten der Region angeben. Lasse das Feld leer, um kein Passwort festzulegen.</string>
+    <string name="dialog_regionsearch_title">Suche Region</string>
+    <string name="dialog_regionsearch_text">Hier Keyword eingeben:</string>
+    <string name="dialog_regionsearch_cmdsearch">Suchen</string>
+    <string name="dialog_regioncoininfo_title">Regionsmünzen?</string>
+    <string name="dialog_regioncoininfo_text">Aus Balancing Gründen haben wir die Währung Regionsmünzen eingeführt. Du verdienst sie automatisch dadurch, dass du das Spiel öffnest.\n\nDiese Währung erlaubt es uns, unsere Online Services gratis anbieten zu können.</string>
+    <string name="settings_sdcardplugins">Lade Plugins von SD-Karte (TheoTown/plugins)</string>
+    <string name="dialog_uploadregionconfirm_title">Jetzt hochladen?</string>
+    <string name="dialog_uploadregionconfirm_text">Stelle sicher, dass du mit dem Internet verbunden bist, bevor du fortfährst.</string>
+    <string name="dialog_uploadregionunsuited_title">Region hochladen</string>
+    <string name="dialog_uploadregionunsuited_text">Momentan können nur Regionen hochgeladen werden, die weder bespielt noch vorinstalliert sind.</string>
+    <string name="dialog_acquirecityaccount_title">Account benötigt</string>
+    <string name="dialog_acquirecityaccount_text">Um ein Stück Land für dich beanspruchen zu können muss dein Spiel mit einem TheoTown-Account verbunden sein.</string>
+    <string name="region_onlinecity_free">Dieses Stück Land ist noch unbesetzt.</string>
+    <string name="region_onlinecity_acquired">Dieses Stückchen Land gehört dir.</string>
+    <string name="region_onlinecity_wait">Warte ein bisschen, bevor du weiteres Land für dich beanstandest.</string>
 
 </resources>
