@@ -2307,6 +2307,27 @@
 <string name="region_onlinecity_wait">이 지역의 다른 도시를 얻기 전에 조금 기달려야 합니다.</string>
 
 
+
+    <string name="dialog_savingissue_title">Saving failed</string>
+    <string name="dialog_savingissue_text">Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.</string>
+    <string name="dialog_onlineinfo_title">Online mode</string>
+    <string name="dialog_onlineinfo_text">Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
+    <string name="dialog_outdated_title">Outdated version</string>
+    <string name="dialog_outdated_text">You are using an outdated version that is not compatible with this feature anymore.\n\nPlease update your game.</string>
+    <string name="settings_weather_lightning">Lightnings</string>
+    <string name="settings_item_edit">Edit</string>
+    <string name="dialog_configureregion_title">Configure region</string>
+    <string name="dialog_configureregion_previewrules">Preview rules</string>
+    <string name="dialog_regionrules_general">General rules</string>
+    <string name="dialog_regionrules_allowplugins">Plugins are allowed.</string>
+    <string name="dialog_regionrules_notallowplugins">You cannot use plugins here.</string>
+    <string name="dialog_regionrules_norules">There are no specific rules for this region.</string>
+    <string name="stage_onlineregion_rules">Rules</string>
+    <string name="control_report">Report</string>
+    <string name="stage_regioncity_reportsubject">the city %1$s</string>
+    <string name="stage_regioncity_owner">Owner: %1$s</string>
+    <string name="stage_regioncity_playtime">Playtime: %1$s</string>
+
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
 1. 업데이트 로그 양식은 다음과 같이 해주세요.
