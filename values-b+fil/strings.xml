@@ -1852,10 +1852,10 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak ito ng mg
     <string name="disaster_blizzard_cmdtext">Freeze!</string>
     <string name="draft_snowtile00_title">Permanenteng niyebe</string>
     <string name="draft_snowtile00_text">Paano ang pag-init ng mundo?</string>
-    <string name="gamemode_free_title">Libre</string>
+    <string name="gamemode_free_title">Malaya</string>
     <string name="gamemode_free_text">Ayaw mong makipagkasundo sa pera? Sa modang ito walang pera at kahingian sa populsyon.\nAbutin ang ranggo 64 sa regular na lungsod para mabuksan ito nang permanente.</string>
-    <string name="dialog_free_title">Game mode na libre</string>
-    <string name="dialog_free_text">Napili mo ang game mode na libre.\n
+    <string name="dialog_free_title">Malayang Game Mode</string>
+    <string name="dialog_free_text">Napili mo ang malayang game mode.\n
 Pros: Walang pera, walang kahingian, may opsiyon na makokontrol ang demand\n
 Cons: Kaunti ang hamon</string>
     <string name="draft_medic03_title">Modernong Ospital</string>
@@ -2246,7 +2246,7 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="draft_destroyed_tree00_text">Ang iilang nasunog na puno na baka puwede ninyong tanggalin.</string>
     <string name="region_acquiremap">Angkinin</string>
     <string name="dialog_acquiremapfreemium_title">Angkinin ang mapa</string>
-    <string name="dialog_acquiremapfreemium_text">Pagbati, ito ay libreng lugar na maaangkin ninyo para makapagtatag ng sariling lungsod.</string>
+    <string name="dialog_acquiremapfreemium_text">Pagbati, ito ay malayang lugar na maaangkin ninyo para makapagtatag ng sariling lungsod.</string>
     <string name="settings_sound_plugins">Mga Plugin</string>
     <string name="createregion_title">Bagong Rehiyon</string>
     <string name="createregion_split">Hatiin</string>
@@ -2288,7 +2288,7 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_uploadregionunsuited_text">Sa ngayon, makakapag-upload ka lamang ng mga rehiyon na hindi bahagi ng laro, ni magkaroon ng anumang lungsod dito (sa ngayon).</string>
     <string name="dialog_acquirecityaccount_title">Kinakailangan ng Account</string>
     <string name="dialog_acquirecityaccount_text">Upang makaangkin ng tipak sa onlayn na rehiyon, kakailanganin ninyong maikonekta ang TheoTown sa isang TheoTown account.</string>
-    <string name="region_onlinecity_free">Libre ang tipak na \'to, kaya maaangkin n\'yo \'to.</string>
+    <string name="region_onlinecity_free">Malaya ang tipak na \'to, kaya maaangkin n\'yo \'to.</string>
     <string name="region_onlinecity_acquired">Ito ay inyong tipak. Makapagtatatag ka ng lungsod dito.</string>
     <string name="region_onlinecity_wait">Maghintay ng kaunting oras bago mo maangkin ang ibang lungsod sa rehiyong ito.</string>
     <string name="dialog_savingissue_title">Pumalyang Paglagak</string>
@@ -2299,18 +2299,79 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_outdated_text">Ikaw ay gumagamit ng outdated version na hindi na akma sa tampok na ito.\n\nMangyaring i-update ang laro.</string>
 
 
-    <string name="settings_weather_lightning">Lightnings</string>
+    <string name="settings_weather_lightning">Pagkidlat</string>
     <string name="settings_item_edit">Edit</string>
     <string name="dialog_configureregion_title">Configure region</string>
-    <string name="dialog_configureregion_previewrules">Preview rules</string>
-    <string name="dialog_regionrules_general">General rules</string>
-    <string name="dialog_regionrules_allowplugins">Plugins are allowed.</string>
-    <string name="dialog_regionrules_notallowplugins">You cannot use plugins here.</string>
-    <string name="dialog_regionrules_norules">There are no specific rules for this region.</string>
-    <string name="stage_onlineregion_rules">Rules</string>
-    <string name="control_report">Report</string>
-    <string name="stage_regioncity_reportsubject">the city %1$s</string>
-    <string name="stage_regioncity_owner">Owner: %1$s</string>
-    <string name="stage_regioncity_playtime">Playtime: %1$s</string>
+    <string name="dialog_configureregion_previewrules">Tingnan ang panuntunan</string>
+    <string name="dialog_regionrules_general">Pangkalahatang panuntunan</string>
+    <string name="dialog_regionrules_allowplugins">Pinapayagan ang mga plugin.</string>
+    <string name="dialog_regionrules_notallowplugins">Bawal gumamit dito ng mga plugin.</string>
+    <string name="dialog_regionrules_norules">Walang espesipikong panuntunan ang rehiyong ito.</string>
+    <string name="stage_onlineregion_rules">Panuntunan</string>
+    <string name="control_report">Mag-ulat</string>
+    <string name="stage_regioncity_reportsubject">ang lungsod %1$s</string>
+    <string name="stage_regioncity_owner">May-ari: %1$s</string>
+    <string name="stage_regioncity_playtime">Nailarong Oras: %1$s</string>
+
+
+    <string name="draft_asphalt03_title">Light asphalt</string>
+    <string name="draft_asphalt04_title">White asphalt</string>
+    <string name="draft_concrete00_text">Some concrete for decorative purposes.</string>
+    <string name="draft_concrete00_title">Concrete</string>
+    <string name="draft_concrete01_title">Stripped concrete</string>
+    <string name="createregion_regionname">Region name:</string>
+    <string name="dialog_regionrules_allowsandbox">Sandbox is allowed.</string>
+    <string name="dialog_regionrules_notallowsandbox">Sandbox is not available here.</string>
+    <string name="dialog_configureregion_rules">Rules</string>
+    <string name="dialog_configureregion_infos">Info</string>
+    <string name="dialog_configureregion_allowplugins">Allow plugins</string>
+    <string name="dialog_configureregion_allowsandbox">Allow sandbox</string>
+    <string name="draft_sandstonetiles00_text">Decorative ground.</string>
+    <string name="draft_sandstonetiles00_title">Sandstone tiles</string>
+    <string name="draft_brick00_title">Brick</string>
+    <string name="draft_woodenpier00_title">Wooden pier</string>
+    <string name="draft_cobblestones00_title">Cobblestone</string>
+    <string name="draft_fancylongtiles00_title">Fancy long tiles</string>
+    <string name="draft_finemarble00_title">Fine marble</string>
+    <string name="settings_nightmode">Night mode</string>
+    <string name="settings_nightmode_day">Day</string>
+    <string name="settings_nightmode_night">Night</string>
+    <string name="settings_nightmode_auto">Auto</string>
+    <string name="settings_nightmode_real">Realtime</string>
+    <string name="settings_rushhour">Rush hour</string>
+    <string name="stage_onlineregion_information">Region information</string>
+    <string name="dialog_configureregion_rules_desc">Here you can define some rules the players of this region have to follow:</string>
+    <string name="dialog_configureregion_infos_desc">Here you can provide some general information about your region:</string>
+    <string name="dialog_regionrules_informationcat">Information</string>
+    <string name="dialog_regionrules_rulescat">Rules</string>
+    <string name="dialog_selectuser_title">Select user</string>
+    <string name="dialog_selectuser_namelabel">User name:</string>
+    <string name="dialog_selectuser_namehint">Enter the user name of another player</string>
+    <string name="dialog_selectuser_cmdselect">Select</string>
+    <string name="dialog_transfercity_title">Transfer ownership</string>
+    <string name="dialog_transfercity_text">Are you sure that you want to transfer the ownership over your city %1$s to %2$s?\n\nYou cannot undo that.</string>
+    <string name="dialog_transfercity_cmdtransfer">Transfer</string>
+    <string name="dialog_transferregion_title">Transfer ownership</string>
+    <string name="dialog_transferregion_text">Are you sure that you want to transfer the ownership over your region %1$s to %2$s?\n\nYou cannot undo that.</string>
+    <string name="dialog_transferregion_cmdtransfer">Transfer</string>
+    <string name="stage_region_reportsubject">the region %1$s</string>
+    <string name="dialog_removeowner_title">Remove owner</string>
+    <string name="dialog_removeowner_text">Are you sure that you want to remove %1$s from this plot?\n\nThis cannot be undone.</string>
+    <string name="dialog_removeowner_cmdremove">Remove</string>
+    <string name="stage_regioncity_lastplayed">Last played: %1$s ago</string>
+    <string name="ci_loan_get_text2">Value: %1$s
+\nTerm: %2$,d months
+\nMonthly costs: %3$s</string>
+    <string name="settings_uianimations">Animations</string>
+    <string name="dialog_configureregion_password">Password</string>
+    <string name="dialog_configureregion_password_desc">Here you can set a new password. Leave it blank to reuse the current one.</string>
+    <string name="dialog_configureregion_enforepassword">Require password</string>
+    <string name="dialog_regionstats_title">Region statistics</string>
+    <string name="ci_energy_produced_short">Produced: %1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">Used: %1$,.0fkW</string>
+    <string name="ci_water_consumed_short">Used: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">Produced: %1$,.0fL/h</string>
+    <string name="dialog_regionstats_general">General</string>
+    <string name="dialog_regionstats_cities">%1$d / %2$d cities</string>
 
 </resources>

@@ -2349,7 +2349,7 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="settings_weather_lightning">Blitze</string>
     <string name="settings_item_edit">Bearbeiten</string>
     <string name="dialog_configureregion_title">Region konfigurieren</string>
-    <string name="dialog_configureregion_previewrules">Vorschau der Regeln</string>
+    <string name="dialog_configureregion_previewrules">Vorschau</string>
     <string name="dialog_regionrules_general">Allgemeine Regeln</string>
     <string name="dialog_regionrules_allowplugins">Plugins sind erlaubt.</string>
     <string name="dialog_regionrules_notallowplugins">Du kannst hier keine Plugins verwenden.</string>
@@ -2359,5 +2359,67 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="stage_regioncity_reportsubject">die Stadt %1$s</string>
     <string name="stage_regioncity_owner">Spieler: %1$s</string>
     <string name="stage_regioncity_playtime">Spielzeit: %1$s</string>
+
+
+    <string name="draft_asphalt03_title">Heller Asphalt</string>
+    <string name="draft_asphalt04_title">Weißer Asphalt</string>
+    <string name="draft_concrete00_text">Etwas Beton zur Dekoration.</string>
+    <string name="draft_concrete00_title">Beton</string>
+    <string name="draft_concrete01_title">Gestreifter Beton</string>
+    <string name="createregion_regionname">Name der Region:</string>
+    <string name="dialog_regionrules_allowsandbox">Sandkastenmodus ist erlaubt.</string>
+    <string name="dialog_regionrules_notallowsandbox">Sandkastenmodus ist hier nicht gestattet.</string>
+    <string name="dialog_configureregion_rules">Regeln</string>
+    <string name="dialog_configureregion_infos">Infos</string>
+    <string name="dialog_configureregion_allowplugins">Erlaube Plugins</string>
+    <string name="dialog_configureregion_allowsandbox">Erlaube Sandkastenmodus</string>
+    <string name="draft_sandstonetiles00_text">Dekorativer Boden.</string>
+    <string name="draft_sandstonetiles00_title">Sandsteinplatten</string>
+    <string name="draft_brick00_title">Steine</string>
+    <string name="draft_woodenpier00_title">Holzsteg</string>
+    <string name="draft_cobblestones00_title">Pflasterstein</string>
+    <string name="draft_fancylongtiles00_title">Lange Steinplatten</string>
+    <string name="draft_finemarble00_title">Feiner Marmor</string>
+    <string name="settings_nightmode">Nachtmodus</string>
+    <string name="settings_nightmode_day">Tag</string>
+    <string name="settings_nightmode_night">Nacht</string>
+    <string name="settings_nightmode_auto">Automatisch</string>
+    <string name="settings_nightmode_real">Echtzeit</string>
+    <string name="settings_rushhour">Berufsverkehr</string>
+    <string name="stage_onlineregion_information">Regionsinformationen</string>
+    <string name="dialog_configureregion_rules_desc">Hier kannst du ein paar Regeln für deine Region aufstellen:</string>
+    <string name="dialog_configureregion_infos_desc">Hier kannst du allgemeine Informationen über deine Region eingeben:</string>
+    <string name="dialog_regionrules_informationcat">Informationen</string>
+    <string name="dialog_regionrules_rulescat">Regeln</string>
+    <string name="dialog_selectuser_title">Spieler auswählen</string>
+    <string name="dialog_selectuser_namelabel">Benutzername:</string>
+    <string name="dialog_selectuser_namehint">Gib den Namen eines anderen Spielers ein</string>
+    <string name="dialog_selectuser_cmdselect">Auswählen</string>
+    <string name="dialog_transfercity_title">Besitzer wechseln</string>
+    <string name="dialog_transfercity_text">Bist du sicher, dass du deine Stadt %1$s an %2$s übertragen möchtest?\n\nDies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_transfercity_cmdtransfer">Übertragen</string>
+    <string name="dialog_transferregion_title">Besitzer wechseln</string>
+    <string name="dialog_transferregion_text"> Bist du sicher, dass du deine Region %1$s an %2$s übertragen möchtest?\n\nDies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_transferregion_cmdtransfer">Übertragen</string>
+    <string name="stage_region_reportsubject">die Region %1$s</string>
+    <string name="dialog_removeowner_title">Besitzer entfernen</string>
+    <string name="dialog_removeowner_text">Bist du sicher, dass du %1$s von diesem Grundstück entfernen möchtest?\n\nDies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_removeowner_cmdremove">Entfernen</string>
+    <string name="stage_regioncity_lastplayed">Zuletzt bespielt: %1$s ago</string>
+    <string name="ci_loan_get_text2">Wert: %1$s
+\nDauer: %2$,d Monate
+\nMonatliche Kosten: %3$s</string>
+    <string name="settings_uianimations">Animationen</string>
+    <string name="dialog_configureregion_password">Passwort</string>
+    <string name="dialog_configureregion_password_desc">Hier kannst du ein neues Passwort festlegen. Lasse das Feld leer um das bisherige Passwort beizubehalten.</string>
+    <string name="dialog_configureregion_enforepassword">Passwort verwenden</string>
+    <string name="dialog_regionstats_title">Regionsstatistiken</string>
+    <string name="ci_energy_produced_short">Produziert: %1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">Verbrauch: %1$,.0fkW</string>
+    <string name="ci_water_consumed_short">Verbrauch: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">Produziert: %1$,.0fL/h</string>
+    <string name="dialog_regionstats_general">Allgemein</string>
+    <string name="dialog_regionstats_cities">%1$d / %2$d Städte</string>
+
 
 </resources>
