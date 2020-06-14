@@ -118,11 +118,11 @@
     <string name="draft_medic01_title">Szpital</string>
     <string name="draft_medic01_text">Mieszkańcy nie martwią się o swoje zdrowie gdy w pobliżu jest szpital.</string>
     <string name="draft_school00_title">Szkoła podstawowa</string>
-    <string name="draft_school00_text">Miejsce gdzie uczą się dzieci.</string>
+    <string name="draft_school00_text">Miejsce, gdzie uczą się dzieci.</string>
     <string name="draft_school01_title">Szkoła średnia</string>
-    <string name="draft_school01_text">Miejsce gdzie uczą się nastolatkowie.</string>
+    <string name="draft_school01_text">Miejsce, gdzie uczą się nastolatkowie.</string>
     <string name="draft_museum00_title">Muzeum</string>
-    <string name="draft_museum00_text">Miejsce gdzie dorośli mogą się czegoś nauczyć.</string>
+    <string name="draft_museum00_text">Miejsce, gdzie dorośli mogą się czegoś nauczyć.</string>
     <string name="draft_pipe00_title">Rury</string>
     <string name="draft_pipe00_text">Doprowadzają wodę do budynków.</string>
     <string name="draft_waterpump00_title">Pompa wodna</string>
@@ -284,16 +284,16 @@
     <string name="ci_rating_title">Opinia</string>
     <string name="ci_energy_networks">%1$,d sieci</string>
     <string name="ci_energy_produced">Produkcja: %1$,.0fkW (%2$,d budynków)</string>
-    <string name="ci_energy_consumed">Zużycie: %1$,.0fkW (%2$,d budynków)</string>
-    <string name="ci_energy_ratio">Zużycie: %1$.1f%%</string>
+    <string name="ci_energy_consumed">Wykorzystanie: %1$,.0fkW (%2$,d budynków)</string>
+    <string name="ci_energy_ratio">Wykorzystanie: %1$.1f%%</string>
     <string name="ci_energy_all">Ogólnie</string>
     <string name="ci_energy_single">Pojedynczy</string>
     <string name="ci_water_all">Ogólnie</string>
     <string name="ci_water_single">Pojedynczy</string>
     <string name="ci_water_networks">%1$,d sieci</string>
-    <string name="ci_water_consumed">Zużycie: %1$,.0fL/h (%2$,d budynków)</string>
+    <string name="ci_water_consumed">Wykorzystanie: %1$,.0fL/h (%2$,d budynków)</string>
     <string name="ci_water_produced">Produkcja: %1$,.0fL/h (%2$,d budynków)</string>
-    <string name="ci_water_ratio">Zużycie: %1$.1f%%</string>
+    <string name="ci_water_ratio">Wykorzystanie: %1$.1f%%</string>
     <string name="ci_general_cityname">Nazwa miasta: %1$s</string>
     <string name="ci_general_population">Liczba mieszkańców: %1$,d</string>
     <string name="draftselector_titlerawbuilding">Wszystkie budynki</string>
@@ -311,7 +311,7 @@
     <string name="ci_rci_ind1">P ₮₮</string>
     <string name="ci_rci_ind2">P ₮₮₮</string>
     <string name="ci_general_population0">Biedni mieszkańcy (₮): %1$,d</string>
-    <string name="ci_general_population1">Średni mieszkańcy (₮₮): %1$,d</string>
+    <string name="ci_general_population1">Średniozamożni mieszkańcy (₮₮): %1$,d</string>
     <string name="ci_general_population2">Bogaci mieszkańcy (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">Boisko piłki nożnej</string>
     <string name="draft_footballfield00_text">Boisko zapewnia rozrywkę i wpływa na zadowolenie mieszkańców.</string>
@@ -369,8 +369,8 @@
     <string name="draft_alert_fire00_text">Wezwij straż pożarną gdy budynek płonie.</string>
     <string name="draft_alert_medic00_title">Wezwij lekarza</string>
     <string name="draft_alert_medic00_text">Gdy zdarzy się wypadek, potrzebny jest lekarz.</string>
-    <string name="buildinginfo_powerusage">Zużycie: %1$.01f%%</string>
-    <string name="buildinginfo_waterusage">Zużycie: %1$.1f%%</string>
+    <string name="buildinginfo_powerusage">Wykorzystanie: %1$.01f%%</string>
+    <string name="buildinginfo_waterusage">Wykorzystanie: %1$.1f%%</string>
     <string name="settings_maxzoomout">Maks. oddalenie</string>
     <string name="notify_noise">Wysoki poziom hałasu!</string>
     <string name="happiness_energy">Energia</string>
@@ -546,12 +546,12 @@
     <string name="ci_education_schools">Szkoły: %1$,d</string>
     <string name="ci_education_needed">Zapotrzebowanie: %1$,d</string>
     <string name="ci_education_provided">Zapewnione miejsca: %1$,d</string>
-    <string name="ci_education_reached">Stan: %1$,d</string>
+    <string name="ci_education_reached">Wykorzystanie: %1$,d</string>
     <string name="ci_education_low">Edukacja podstawowa</string>
     <string name="ci_education_high">Edukacja średnia</string>
     <string name="ci_health_buildings">Budynki: %1$,d</string>
     <string name="ci_health_provided">Zapewnione miejsca: %1$,d</string>
-    <string name="ci_health_reached">Stan: %1$,d</string>
+    <string name="ci_health_reached">Wykorzystanie: %1$,d</string>
     <string name="ci_health_needed">Zapotrzebowanie: %1$,d</string>
     <string name="influence_pollution_title">Zanieczyszczenie</string>
     <string name="influence_noise_title">Hałas</string>
@@ -673,7 +673,7 @@
     <string name="draft_railwaystation00_title">Dworzec kolejowy</string>
     <string name="draft_railwaystation00_text">Stacja pociągów pasażerskich.</string>
     <string name="draft_school02_title">Mała szkoła</string>
-    <string name="draft_school02_text">Mała wiejska szkoła podstawowa.</string>
+    <string name="draft_school02_text">Mała, wiejska szkoła podstawowa.</string>
     <string name="toolremove_zone_title">Usuń strefę</string>
     <string name="toolremove_zone_text">Użyj tego narzędzia by usunąć wyznaczone strefy.</string>
     <string name="budget_rail">Tory kolejowe</string>
@@ -1295,7 +1295,7 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_ap_field00_text">Na pasie startowym lądują i startują samoloty. Minimalna długość to 12.</string>
     <string name="settings_usezoneradius">Promień strefy</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">Dwupokładowy, samolot dalekiego zasięgu od TheoAir. Posiada mnóstwo miejsca.</string>
+    <string name="draft_airplane01_text">Dwupokładowy samolot dalekiego zasięgu od TheoAir. Posiada mnóstwo miejsca.</string>
     <string name="dialog_waitingtime_title">Skróć czas oczekiwania</string>
     <string name="dialog_waitingtime_text">Chciałbyś skrócić trochę czas?\nZostało %1$s.</string>
 
@@ -1543,9 +1543,9 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="influence_waste_disposal_title">Wywóz odpadów</string>
     <string name="influence_waste_disposal_text">Odpady muszą być wywożone aby nie zalegały na ulicach.</string>
     <string name="draft_bus_road00_title">Droga autobusowa</string>
-    <string name="draft_bus_road00_text">Droga na której jeździć mogą jedynie autobusy.</string>
+    <string name="draft_bus_road00_text">Droga, którą poruszać się mogą jedynie autobusy.</string>
     <string name="draft_bus_oneway_road00_title">Jednokierunkowa droga autobusowa</string>
-    <string name="draft_bus_oneway_road00_text">Droga jednokierunkowa na której jeździć mogą jedynie autobusy.</string>
+    <string name="draft_bus_oneway_road00_text">Droga jednokierunkowa, którą poruszać się mogą jedynie autobusy.</string>
     <string name="task_build_res">Wybuduj %s stref mieszkalnych.</string>
     <string name="task_build_com">Wybuduj %s stref komercyjnych.</string>
     <string name="task_build_ind">Wybuduj %s stref przemysłowych.</string>
@@ -1798,7 +1798,7 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="dialog_search_cmdcancel">Anuluj</string>
     <string name="search_results_title">Wyniki wyszukiwania dla \"%s\"</string>
     <string name="draft_rail01_title">Kolej miejska</string>
-    <string name="draft_rail01_text">Nadziemna torowiska o podwyższonej prędkości jazdy.</string>
+    <string name="draft_rail01_text">Nadziemne torowisko o podwyższonej prędkości jazdy.</string>
     <string name="draft_nativerailwaystation01_title">Miejski przystanek kolejowy</string>
     <string name="draft_nativerailwaystation01_text">Kompaktowy przystanek kolejowy dla miejsc o ograniczonej przestrzeni.</string>
     <string name="settings_realmmres">Realna rozdzielczość minimapy</string>
@@ -1899,13 +1899,13 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
 Zalety: Brak pieniędzy, brak wymagań, opcje kontroli zapotrzebowania\n
 Wady: Mniej wyzwań</string>
     <string name="draft_medic03_title">Nowoczesny szpital</string>
-    <string name="draft_medic03_text">Nowoczesny szpital, zdolny do opieki nad większą liością pacjentów.</string>
+    <string name="draft_medic03_text">Nowoczesny szpital, zdolny do opieki nad większą ilością pacjentów.</string>
     <string name="draft_gol_dead_title">Gra w życie</string>
     <string name="draft_gol_dead_text">Stwórz pole do gry w życie. Klikaj na kafelki by zmieniać ich stan. Domyślny stan to martwy.</string>
 
 
     <string name="draft_coittower00_title">Coit Memorial Tower</string>
-    <string name="draft_coittower00_text">Coit Memorial Tower, zbudowany 1933, poświęcony strażakom-ochotnikom zmarłym bohatersko podczas walki z pięcioma wielkimi pożarami trapiącymi miasto.</string>
+    <string name="draft_coittower00_text">Coit Memorial Tower, zbudowana w 1933r., poświęcona strażakom-ochotnikom zmarłym bohatersko podczas walki z pięcioma wielkimi pożarami trapiącymi miasto.</string>
     <string name="draft_bankofamerica00_title">Bank of America Center</string>
     <string name="draft_bankofamerica00_text">Bank of America Centerjest 52-piętrowym (237m) wieżowcem w San Francisco, Kalifornia.</string>
     <string name="draft_transamerica00_title">Transamerica Pyramid</string>
@@ -1943,7 +1943,7 @@ Wady: Mniej wyzwań</string>
     <string name="draft_bushman00_title">Pomnik krzakoluda</string>
     <string name="draft_bushman00_text">\"Mamo, co to?\"\n\"Nie patrz. Bo jeszcze będziesz miał koszmary.\"</string>
     <string name="draft_police03_title">Nowoczesna komenda policji.</string>
-    <string name="draft_police03_text">Wystarczy w to zainwestować i rozwiąże wszystkie problemy z przestępczością.</string>
+    <string name="draft_police03_text">Wystarczy w nią zainwestować i rozwiąże wszystkie problemy z przestępczością.</string>
     <string name="draft_sf_cityhall00_title">Ratusz</string>
     <string name="draft_sf_cityhall00_text">Budynek ratusza zainspirowany ratuszem w San Francisco.</string>
     <string name="draft_sf_fineartspalace00_title">Palace of Fine Arts</string>
@@ -2100,7 +2100,7 @@ Wady: Mniej wyzwań</string>
     <string name="draft_tollbooth00_title">Bramki</string>
     <string name="draft_tollbooth00_text">Bramki do poboru opłat przyniosą ci pewien dochód, ale kierowcy ich nienawidzą.</string>
     <string name="notification02_title">Wymagana interwencja</string>
-    <string name="notification02_text">Ktoś musi zarządzać rozwojem %1$s!</string>
+    <string name="notification02_text">Ktoś musi kierować rozwojem %1$s!</string>
     <string name="notification03_title">Nie zapominaj o %1$s</string>
     <string name="notification03_text">Burmistrzu prosimy, wróć!</string>
     <string name="settings_fontscaling">Rozmiar tekstu</string>
