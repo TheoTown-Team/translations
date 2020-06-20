@@ -2016,7 +2016,7 @@
 
 
     <string name="store_previouslyinstalled">Видалені</string>
-    <string name="spend_diamonds_format">%1$/%2$</string>
+    <string name="spend_diamonds_format">%1$s/%2$s</string>
     <string name="draft_rails00_title">Залізнична дорога</string>
     <string name="draft_rails00_text">Використовується для залізничної логістики.</string>
     <string name="draft_rails00oneway00_title">Одностороння залізнична колія</string>
@@ -2098,7 +2098,7 @@
     <string name="draft_tollbooth00_title">Дорожнье мито</string>
     <string name="draft_tollbooth00_text">Розмістіть це на дорозі щоб водії платили за використання дороги (занижує щастя).</string>
     <string name="notification02_title">Потрібна дія</string>
-    <string name="notification02_text">Хтось повинен керувати розвитком %1$ !</string>
+    <string name="notification02_text">Хтось повинен керувати розвитком %1$s !</string>
     <string name="notification03_title">Ніколи не забувай %1$s !</string>
     <string name="notification03_text">Будь ласка, міський голова, поверніться!</string>
     <string name="settings_fontscaling">Розмір шрифту</string>
@@ -2191,7 +2191,7 @@
     <string name="store_status_notavailable">Цей плагін наразі недоступний</string>
     <string name="dialog_missingplugins_title">Плагін відсутній</string>
     <string name="dialog_missingplugins_text">Це місто містить плагіни, які наразі не завантажені чи не працюють</string>
-    <string name="dialog_missingplugins_pluginby">•%1$ від %2$</string>
+    <string name="dialog_missingplugins_pluginby">•%1$s від %2$s</string>
     <string name="dialog_missingplugins_cmdget">Отримати їх</string>
     <string name="dialog_missingplugins_cmdskip">Продовжити без</string>
     <string name="statistics_energyproduced">Генерується енергія</string>
@@ -2204,13 +2204,13 @@
     <string name="dialog_commentdelete_cmd">Видалити</string>
     <string name="stage_comment_login">Увійдіть за допомогою акаунта TheoTown, щоб коментувати</string>
     <string name="dialog_report_title">Поскаржитися</string>
-    <string name="dialog_report_text">Вкажіть, будь ласка, з якої причини ви хочете повідомити %1$:</string>
+    <string name="dialog_report_text">Вкажіть, будь ласка, з якої причини ви хочете повідомити %1$s:</string>
     <string name="dialog_report_appendix">Ви можете надіслати додаткову інформацію на цю адресу report@theotown.com</string>
     <string name="dialog_reported_title">Готово</string>
     <string name="dialog_reported_text">Дякуємо за ваш звіт. Ми розглянемо його та вживемо відповідних заходів.\nВи можете надіслати нам додаткову інформацію на report@theotown.com при необхідності.</string>
     <string name="dialog_report_cmd">Репорт</string>
-    <string name="stage_comment_reportsubject">коментар від %1$</string>
-    <string name="stage_store_reportsubject">плагін "%1$"</string>
+    <string name="stage_comment_reportsubject">коментар від %1$s</string>
+    <string name="stage_store_reportsubject">плагін "%1$s"</string>
     <string name="stage_comment_noperm">Вам не дозволяється коментувати цей плагін.</string>
     <string name="store_modecommented">Коментарі</string>
     <string name="report_sexual">Зміст сексуального характеру</string>
@@ -2280,7 +2280,7 @@
     <string name="weather_lighting">Буря</string>
     <string name="weather_auto">Динамічно</string>
     <string name="store_local_plugins">Локальні плагіни</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$ від %2$ (локальний плагін)</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s від %2$s (локальний плагін)</string>
 
 
     <string name="dialog_storedisclaimer_title">Тут більше...</string>
@@ -2362,7 +2362,7 @@
     <string name="stage_onlineregion_rules">Правила</string>
     <string name="control_report">Повідомити</string>
     <string name="stage_regioncity_reportsubject">Місто %1$s</string>
-    <string name="stage_regioncity_owner">Власник: %1$</string>
+    <string name="stage_regioncity_owner">Власник: %1$s</string>
     <string name="stage_regioncity_playtime">Ігровий час: %1$s</string>
 
 
@@ -2401,19 +2401,19 @@
     <string name="dialog_selectuser_namehint">Введіть ім\’я іншого гравця</string>
     <string name="dialog_selectuser_cmdselect">Вибрати</string>
     <string name="dialog_transfercity_title">Передати право власності</string>
-    <string name="dialog_transfercity_text">Ви впевнені, що хочете передати право власності на своє місто %1$ гравцю %2$ ?\n\n Ви не зможете повернути все назад.</string>
+    <string name="dialog_transfercity_text">Ви впевнені, що хочете передати право власності на своє місто %1$s гравцю %2$s ?\n\n Ви не зможете повернути все назад.</string>
     <string name="dialog_transfercity_cmdtransfer">Передати</string>
     <string name="dialog_transferregion_title">Передати права</string>
-    <string name="dialog_transferregion_text">Ви впевнені, що хочете передати право власності на ваш регіон %1$ гравцю %2$ ?\n\n Ви не зможете повернути все назад.</string>
+    <string name="dialog_transferregion_text">Ви впевнені, що хочете передати право власності на ваш регіон %1$s гравцю %2$s ?\n\n Ви не зможете повернути все назад.</string>
     <string name="dialog_transferregion_cmdtransfer">Передати</string>
-    <string name="stage_region_reportsubject">регіон %1$</string>
+    <string name="stage_region_reportsubject">регіон %1$s</string>
     <string name="dialog_removeowner_title">Видалити власника</string>
-    <string name="dialog_removeowner_text">Ви впевнені, що хочете видалити %1$ з цієї території? \n\n Ви не зможете змінити все назад.</string>
+    <string name="dialog_removeowner_text">Ви впевнені, що хочете видалити %1$s з цієї території? \n\n Ви не зможете змінити все назад.</string>
     <string name="dialog_removeowner_cmdremove">Видалити</string>
-    <string name="stage_regioncity_lastplayed">Востаннє грав: %1$ назад</string>
-    <string name="ci_loan_get_text2">Значимість: %1$
-\n Термін: %2$,д місяць
-\n Щомісячні витрати: %3$</string>
+    <string name="stage_regioncity_lastplayed">Востаннє грав: %1$s назад</string>
+    <string name="ci_loan_get_text2">Значимість: %1$s
+\n Термін: %2$,d місяць
+\n Щомісячні витрати: %3$s</string>
     <string name="settings_uianimations">Анімації</string>
     <string name="dialog_configureregion_password">Пароль</string>
     <string name="dialog_configureregion_password_desc">Тут ви можете встановити новий пароль. Щоб повторно використовувати поточний пароль,просто залишіть це поле пустим.</string>
