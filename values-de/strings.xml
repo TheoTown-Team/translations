@@ -2198,7 +2198,7 @@ Nachtteile: Langweilig</string>
     <string name="dialog_commentdelete_title">Kommentar löschen</string>
     <string name="dialog_commentdelete_text">Hi, bist du dir sicher, dass du diesen Kommentar von %1$s entfernen möchtest?</string>
     <string name="dialog_commentdelete_cmd">Löschen</string>
-    <string name="stage_comment_login">Zum Kommentieren bitte mit TheoTown Account anmelden</string>
+    <string name="stage_comment_login">Zum Kommentieren TheoTown Account benötigt</string>
     <string name="dialog_report_title">Melden</string>
     <string name="dialog_report_text">Bitte gib den Grund für deine Meldung von %1$s an:</string>
     <string name="dialog_report_appendix">Zusätzliche Unterlagen bitte an report@theotown.com schicken</string>
@@ -2393,7 +2393,7 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="dialog_regionrules_rulescat">Regeln</string>
     <string name="dialog_selectuser_title">Spieler auswählen</string>
     <string name="dialog_selectuser_namelabel">Benutzername:</string>
-    <string name="dialog_selectuser_namehint">Gib den Namen eines anderen Spielers ein</string>
+    <string name="dialog_selectuser_namehint">Gib den Namen eines Spielers ein</string>
     <string name="dialog_selectuser_cmdselect">Auswählen</string>
     <string name="dialog_transfercity_title">Besitzer wechseln</string>
     <string name="dialog_transfercity_text">Bist du sicher, dass du deine Stadt %1$s an %2$s übertragen möchtest?\n\nDies kann nicht rückgängig gemacht werden.</string>
@@ -2421,5 +2421,63 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="dialog_regionstats_general">Allgemein</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d Städte</string>
 
+
+
+    <string name="regionlist_cat_popular">Beliebt</string>
+    <string name="regionlist_cat_new">Neu</string>
+    <string name="regionlist_cat_free">Plätze verfügbar</string>
+    <string name="regionlist_cat_protected">Geschützt</string>
+    <string name="regionlist_cat_usercities">Eigene Städte</string>
+    <string name="regionlist_cat_userregions">Eigene Regionen</string>
+    <string name="store_cat_other">Anderes</string>
+    <string name="store_cat_road">Straße</string>
+    <string name="store_cat_terrain">Landschaft</string>
+    <string name="store_cat_trees">Bäume und Natur</string>
+    <string name="store_cat_transport">Transport</string>
+    <string name="store_cat_residential">Wohngebäude</string>
+    <string name="store_cat_commercial">Gewerbe</string>
+    <string name="store_cat_industrial">Industrie</string>
+    <string name="store_cat_parks">Parks, Sportanlagen and Verwaltung</string>
+    <string name="store_cat_supply">Versorgung (Strom, Wasser, usw.)</string>
+    <string name="store_cat_religion">Religion und Kultur</string>
+    <string name="store_cat_service">Dienste (Polizei, Gesundheit, usw.)</string>
+    <string name="store_cat_award">Belohnungen und Spezialgebäude</string>
+    <string name="store_cat_decoration">Dekorationen</string>
+    <string name="store_cat_tool">Werkzeuge</string>
+    <string name="store_cat_overlay">Wetter und Overlays</string>
+    <string name="store_cat_pack">Packs</string>
+    <string name="store_cat_roaddecoration">Straßendekorationen</string>
+    <string name="store_cat_military">Militär</string>
+    <string name="dialog_confirmsendgift_title">Geschenk schicken</string>
+    <string name="dialog_confirmsendgift_text">Fast geschafft! Du bist dabei dieses Geschenk an %1$s zu schicken.</string>
+    <string name="settings_category_tools">Werkzeuge</string>
+    <string name="settings_category_gameplay">Gameplay</string>
+    <string name="settings_autosavewhenleaving">Bei Verlassen der Stadt automatisch speichern</string>
+    <string name="stage_regioncity_visits">Besuche: %1$,d</string>
+    <string name="dialog_missingplugins_total">Verwendete Plugins</string>
+    <string name="settings_maprenderingnobackground">Transparenter Hintergrund in Kartenscreenshots</string>
+    <string name="dialog_citygifts_title">Geschenke</string>
+    <string name="dialog_citygifts_cmdnew">Ein Geschenk machen</string>
+    <string name="dialog_citygifts_nogifts_receiver">Du hast bisher keine Geschenke erhalten :(</string>
+    <string name="dialog_citygifts_nogifts_other">Sei der erste, der ein Geschenk macht</string>
+    <string name="dialog_citygifts_typemsg">Eine Nachricht</string>
+    <string name="dialog_citygifts_typeunknown">Unbekannt</string>
+    <string name="dialog_citygifts_private">(geheim)</string>
+    <string name="dialog_citygifts_cmdcollect">Einsammeln</string>
+    <string name="dialog_citygifts_nomessage">Der Absender hat keine Nachricht hinterlassen.</string>
+    <string name="dialog_sendgift_title">Geschenk schicken</string>
+    <string name="dialog_sendgift_cmdsend">Abschicken</string>
+    <string name="dialog_sendgift_typetext">Text</string>
+    <string name="dialog_sendgift_typemoney">Geld</string>
+    <string name="dialog_sendgift_typediamonds">Diamanten / Regionsmünzen</string>
+    <string name="dialog_sendgift_lbltype">Typ</string>
+    <string name="dialog_sendgift_lblamount">Menge</string>
+    <string name="dialog_sendgift_lblmessage">Nachricht</string>
+    <string name="dialog_sendgift_messagedesc">Hier kannst du dem Empfänger eine persönliche Nachricht hinterlassen.</string>
+    <string name="dialog_sendgift_lblprivate">Geheim</string>
+    <string name="dialog_citygifts_reportsubject">das Geschenk von %1$s</string>
+    <string name="dialog_deletegift_title">Geschenk löschen</string>
+    <string name="dialog_deletegift_text">Bist du sicher, dass du das Geschenk löschen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_deletegift_cmd">Löschen</string>
 
 </resources>
