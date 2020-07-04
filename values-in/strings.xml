@@ -505,7 +505,7 @@
     <string name="draft_crater1x1_text">Sisa meteor kecil yang jatuh. Kamu harus menghapusnya.</string>
     <string name="settings_disaster_nuke">Nuklir</string>
     <string name="disaster_nuke_title">Nuklir</string>
-    <string name="disaster_nuke_text">Apakah ini mainan?.</string>
+    <string name="disaster_nuke_text">Apakah ini mainan?</string>
     <string name="disaster_nuke_cmdtext">DUAR!</string>
     <string name="budget_loans">Pinjaman</string>
     <string name="ci_loan_loanlist">Pinjaman berjalan(seluruhnya %1$s dalam %2$,d/%3$,d pinjaman):</string>
@@ -1452,455 +1452,417 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="dialog_shortbuildtime_title">Dorongan waktu pembangunan</string>
     <string name="dialog_shortbuildtime_text">Tonton video singkat untuk mempercepat waktu pembangunan sebanyak %s.</string>
 
-    <string name="settings_saveonappswitch">Save on app switch</string>
-    <string name="settings_saveforscreenshot">Save for screenshot</string>
-    <string name="draft_eiffeltower00_title">Eiffel Tower</string>
-    <string name="draft_eiffeltower00_text">The Eiffel Tower in Paris is the most prominent landmark of France. The tower is 324 metres tall and was finished in 1889.</string>
-    <string name="dialog_wb_text02">Maukah kamu mengambil apa yang %1$s dapatkan ketika sedang pergi?\n\n%2$s</string>
+    <string name="settings_saveonappswitch">Simpan saat mengganti aplikasi</string>
+    <string name="settings_saveforscreenshot">Simpan untuk tangkapan layar</string>
+    <string name="draft_eiffeltower00_title">Menara Eiffel</string>
+    <string name="draft_eiffeltower00_text">Menara Eiffel di Paris adalah landmark paling menonjol di Prancis. Menara ini tingginya 324 meter dan diselesaikan pada 1889.</string>
+    <string name="dialog_wb_text02">Maukah kamu mengambil apa yang %1$s dapatkan ketika kamu sedang pergi?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Ambil</string>
     <string name="dialog_wb_cmdforfeit">Buang</string>
-    <string name="dialog_diamondtool_title">Finish construction</string>
-    <string name="dialog_diamondtool_text">Shall we build that?</string>
-    <string name="draft_feature_valentinesday00_title">Selamat hari Valentin</string>
+    <string name="dialog_diamondtool_title">Selesaikan konstruksi</string>
+    <string name="dialog_diamondtool_text">Bangun?</string>
+    <string name="draft_feature_valentinesday00_title">Selamat hari Valentine</string>
     <string name="draft_feature_valentinesday00_text">Buka bangunan ini secara permanen</string>
     <string name="tool_removetunnel_title">Hapus Terowongan</string>
-    <string name="tool_removetunnel_text">Gunakan untuk menghapus beberapa terowongan.</string>
+    <string name="tool_removetunnel_text">Mari menghancurkan beberapa terowongan.</string>
 
-
-    <string name="dialog_halftunnelprice_title">Diskon harga terowongan</string>
-    <string name="dialog_halftunnelprice_text">Ingin menyimpan beberapa berlian? This boost reduces tunnel price by 50%% for %s.</string>
-    <string name="game_remaining_halftunnelprice">Half tunnel price for %s</string>
+    <string name="dialog_halftunnelprice_title">Diskon terowongan setengah harga</string>
+    <string name="dialog_halftunnelprice_text">Ingin menghemat berlian? Dorongan ini memotong harga 50%% dengan %s.</string>
+    <string name="game_remaining_halftunnelprice">Setengah harga terowongan dengan %s</string>
     <string name="shop_diamonds_sole">%s berlian</string>
     <string name="dialog_diamondshop_bestvalue">Harga terbaik</string>
-    <string name="draft_draft_edl_title">Education low</string>
-    <string name="draft_draft_edl_text">Low education.</string>
-    <string name="draft_draft_edh_title">Education high</string>
-    <string name="draft_draft_edh_text">High education.</string>
-    <string name="draft_draft_crm_title">Criminality</string>
-    <string name="draft_draft_crm_text">Indicator for criminality.</string>
-    <string name="draft_draft_fire_title">Fire danger</string>
-    <string name="draft_draft_fire_text">Indicator for fire danger.</string>
-    <string name="draft_draft_wp_title">Water pollution</string>
-    <string name="draft_draft_wp_text">Indicator for water pollution.</string>
-    <string name="draft_draft_plt_title">Pollution</string>
-    <string name="draft_draft_plt_text">Indicator for pollution.</string>
-    <string name="draft_draft_prk_title">Park</string>
-    <string name="draft_draft_prk_text">Indicator for park availability.</string>
-    <string name="draft_draft_sp_title">Sport</string>
-    <string name="draft_draft_sp_text">Indicator for spot availability.</string>
-    <string name="draft_draft_fth_title">Faith</string>
-    <string name="draft_draft_fth_text">Indicator for faith of inhabitants.</string>
-    <string name="draft_draft_hlth_title">Health</string>
-    <string name="draft_draft_hlth_text">Indicator for health of inhabitants.</string>
-    <string name="draft_draft_hedu_title">Education happiness</string>
-    <string name="draft_draft_hedu_text">Indicator for happiness about education availability.</string>
-    <string name="draft_draft_hlvl_title">Level happiness</string>
-    <string name="draft_draft_hlvl_text">Happiness about level of neighboring buildings.</string>
-    <string name="draft_draft_htx_title">Tax happiness</string>
-    <string name="draft_draft_htx_text">Happiness about taxes.</string>
-    <string name="draft_draft_htr_title">Transport happiness</string>
-    <string name="draft_draft_htr_text">Happiness about transports.</string>
-    <string name="draft_draft_hzn_title">Zone happiness</string>
-    <string name="draft_draft_hzn_text">Happiness about near zones.</string>
-    <string name="draft_draft_hspl_title">Supply hapiness</string>
-    <string name="draft_draft_hspl_text">Happiness about available energy and water.</string>
-    <string name="draft_draft_hft_title">Free time happiness</string>
-    <string name="draft_draft_hft_text">Happiness about facilities for free time.</string>
-    <string name="draft_draft_henv_title">Environment happiness</string>
-    <string name="draft_draft_henv_text">Happiness about environment.</string>
-    <string name="draft_draft_hpd_title">Police happiness</string>
-    <string name="draft_draft_hpd_text">Happiness about police.</string>
-    <string name="draft_draft_hfd_title">Fire dept. happiness</string>
-    <string name="draft_draft_hfd_text">Happiness about fire departments.</string>
-    <string name="draft_draft_hpk_title">Park happiness</string>
-    <string name="draft_draft_hpk_text">Hapiness about parks.</string>
-    <string name="draft_draft_hsp_title">Sport happiness</string>
-    <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
-    <string name="draft_draft_hgen_title">General happiness</string>
-    <string name="draft_draft_hgen_text">General happiness.</string>
-    <string name="influence_passenger_bus_title">Bus transport</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
-    <string name="influence_passenger_train_title">Train transport</string>
-    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
-    <string name="influence_residential_title">Residential area</string>
-    <string name="influence_residential_text">People prefer to live in a residential area.</string>
-    <string name="influence_commercial_title">Commercial area</string>
-    <string name="influence_commercial_text">Commercials are often groupes togther to attract customers.</string>
-    <string name="influence_industrial_title">Industrial area</string>
-    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
-    <string name="influence_level_low_title">low level</string>
-    <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
-    <string name="influence_level_middle_title">Medium level</string>
-    <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
-    <string name="influence_level_high_title">High level</string>
-    <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
-    <string name="influence_density_title">Density</string>
-    <string name="influence_density_text">High buildings are typically more dense.</string>
-    <string name="influence_nature_title">Nature</string>
-    <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
-    <string name="influence_waste_disposal_title">Waste disposal</string>
-    <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..</string>
-    <string name="draft_bus_road00_title">Bus road</string>
-    <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
-    <string name="draft_bus_oneway_road00_title">One-way bus road</string>
-    <string name="draft_bus_oneway_road00_text">A one-way road only buses can drive on.</string>
-    <string name="task_build_res">Build %s residential zones.</string>
-    <string name="task_build_com">Build %s commercial zones.</string>
-    <string name="task_build_ind">Build %s industrial zones.</string>
-    <string name="task_build_roads">Build %s roads.</string>
-    <string name="task_build_parks">Build %s parks.</string>
-    <string name="task_get_inhabitants">Get %s new inhabitants.</string>
-    <string name="task_get_money">Earn %s₮.</string>
-    <string name="task_spend_money">Spend %s₮.</string>
-    <string name="task_spend_diamonds">Spend %s diamonds.</string>
-    <string name="task_tap_screen">Tap %s times on the screen.</string>
-    <string name="task_current">Current task</string>
+    <string name="draft_draft_edl_title">Pendidikan rendah</string>
+    <string name="draft_draft_edl_text">Pendidikan rendah.</string>
+    <string name="draft_draft_edh_title">Pendidikan tinggi</string>
+    <string name="draft_draft_edh_text">Pendidikan tinggi.</string>
+    <string name="draft_draft_crm_title">Tingkat kriminalitas</string>
+    <string name="draft_draft_crm_text">Indikator kriminalitas.</string>
+    <string name="draft_draft_fire_title">Bahaya Kebakaran</string>
+    <string name="draft_draft_fire_text">Indikator bahaya kebakaran.</string>
+    <string name="draft_draft_wp_title">Polusi air</string>
+    <string name="draft_draft_wp_text">Indikator polusi air.</string>
+    <string name="draft_draft_plt_title">Polusi</string>
+    <string name="draft_draft_plt_text">Indikator polusi.</string>
+    <string name="draft_draft_prk_title">Taman</string>
+    <string name="draft_draft_prk_text">Indikator ketersediaan taman.</string>
+    <string name="draft_draft_sp_title">Olahraga</string>
+    <string name="draft_draft_sp_text">Indikator ketersediaan sarana olahraga.</string>
+    <string name="draft_draft_fth_title">Agama</string>
+    <string name="draft_draft_fth_text">Indikator keagamaan penduduk.</string>
+    <string name="draft_draft_hlth_title">Kesehatan</string>
+    <string name="draft_draft_hlth_text">Indikator kesehatan penduduk.</string>
+    <string name="draft_draft_hedu_title">Kepuasan pendidikan</string>
+    <string name="draft_draft_hedu_text">Indikator kepuasan ketersediaan sarana pendidikan.</string>
+    <string name="draft_draft_hlvl_title">Kepuasan level</string>
+    <string name="draft_draft_hlvl_text">Kepuasan atas level bangunan bersebelahan.</string>
+    <string name="draft_draft_htx_title">Kepuasan pajak</string>
+    <string name="draft_draft_htx_text">Kepuasan pajak.</string>
+    <string name="draft_draft_htr_title">Kepuasan sarana transportasi</string>
+    <string name="draft_draft_htr_text">Kepuasan sarana transportasi.</string>
+    <string name="draft_draft_hzn_title">Kepuasan zona</string>
+    <string name="draft_draft_hzn_text">Kepuasan atas zona bersebelahan.</string>
+    <string name="draft_draft_hspl_title">Kepuasan pasokan</string>
+    <string name="draft_draft_hspl_text">Kepuasan atas ketersediaan listrik dan air.</string>
+    <string name="draft_draft_hft_title">Kepuasan waktu luang</string>
+    <string name="draft_draft_hft_text">Kepuasan atas adanya fasilitas untuk mengisi waktu luang.</string>
+    <string name="draft_draft_henv_title">Kepuasan lingkungan</string>
+    <string name="draft_draft_henv_text">Kepuasan lingkungan.</string>
+    <string name="draft_draft_hpd_title">Kepuasan polisi</string>
+    <string name="draft_draft_hpd_text">Kepuasan atas adanya polisi.</string>
+    <string name="draft_draft_hfd_title">Kepuasan damkar</string>
+    <string name="draft_draft_hfd_text">Kepuasan atas adanya pemadam kebakaran.</string>
+    <string name="draft_draft_hpk_title">Kepuasan taman</string>
+    <string name="draft_draft_hpk_text">Kepuasan atas tersedianya taman.</string>
+    <string name="draft_draft_hsp_title">Kepuasan olahraga</string>
+    <string name="draft_draft_hsp_text">Kepuasan atas tersedianya fasilitas olahraga.</string>
+    <string name="draft_draft_hgen_title">Tingkat kebahagiaan</string>
+    <string name="draft_draft_hgen_text">Kebahagiaan secara keseluruhan.</string>
+    <string name="influence_passenger_bus_title">Transportasi bus</string>
+    <string name="influence_passenger_bus_text">Jika orang memakai bus, lalu lintas lebih lengang.</string>
+    <string name="influence_passenger_train_title">Transportasi kereta</string>
+    <string name="influence_passenger_train_text">Jika orang memakai kereta, lalu lintas di jalan lebih lengang.</string>
+    <string name="influence_residential_title">Area perumahan</string>
+    <string name="influence_residential_text">Orang memilih untuk tinggal di area perumahan.</string>
+    <string name="influence_commercial_title">Area komersial</string>
+    <string name="influence_commercial_text">Komersial biasanya dikelompokkan bersama untuk menarik pelanggan.</string>
+    <string name="influence_industrial_title">Area industri</string>
+    <string name="influence_industrial_text">Orang tidak mau tinggal di dekatnya.</string>
+    <string name="influence_level_low_title">Level rendah</string>
+    <string name="influence_level_low_text">Bangunan di level ini biasanya didiami orang miskin.</string>
+    <string name="influence_level_middle_title">Level sedang</string>
+    <string name="influence_level_middle_text">Bangunan di level ini biasanya didiami orang yang tidak terlalu miskin.</string>
+    <string name="influence_level_high_title">Level tinggi</string>
+    <string name="influence_level_high_text">Bangunan di level ini biasanya didiami orang kaya.</string>
+    <string name="influence_density_title">Kepadatan</string>
+    <string name="influence_density_text">Bangunan tinggi biasanya lebih padat.</string>
+    <string name="influence_nature_title">Alam</string>
+    <string name="influence_nature_text">Taman dan, khususnya, hutan punya pengaruh alam yang besar.</string>
+    <string name="influence_waste_disposal_title">Pembuangan sampah</string>
+    <string name="influence_waste_disposal_text">Sampah harus dibuang untuk membuat pendudukmu bahagia..</string>
+    <string name="draft_bus_road00_title">Busway</string>
+    <string name="draft_bus_road00_text">Jalan biasa yang hanya bisa dilalui bus.</string>
+    <string name="draft_bus_oneway_road00_title">Busway satu arah</string>
+    <string name="draft_bus_oneway_road00_text">Jalan satu arah yang hanya bisa dilalui bus.</string>
+    <string name="task_build_res">Bangun %s zona perumahan.</string>
+    <string name="task_build_com">Bangun %s zona komersial.</string>
+    <string name="task_build_ind">Bangun %s zona industri.</string>
+    <string name="task_build_roads">Bangun %s jalan.</string>
+    <string name="task_build_parks">Bangun %s taman.</string>
+    <string name="task_get_inhabitants">Dapatkan %s penduduk baru.</string>
+    <string name="task_get_money">Dapatkan %s₮.</string>
+    <string name="task_spend_money">Belanjakan %s₮.</string>
+    <string name="task_spend_diamonds">Belanjakan %s berlian.</string>
+    <string name="task_tap_screen">Sentuh layar %s kali.</string>
+    <string name="task_current">Tugas saat ini</string>
 
-
-    <string name="dialog_adreward_title">Rewarded ad</string>
-    <string name="dialog_adreward_text">Want to get some diamonds for free by watching an ad?</string>
-    <string name="dialog_adreward_cmdwatch">Get them now</string>
-    <string name="draftselector_titlelandmark">Landmarks</string>
+    <string name="dialog_adreward_title">Iklan berhadiah</string>
+    <string name="dialog_adreward_text">Mau tambah berlian gratis dengan menonton iklan?</string>
+    <string name="dialog_adreward_cmdwatch">Dapatkan sekarang</string>
+    <string name="draftselector_titlelandmark">Landmark</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben is a bell tower in London that is 96 m high and was built 1859.</string>
-    <string name="draft_angelofindependence00_title">Angel of Independence</string>
-    <string name="draft_angelofindependence00_text">The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico\'s War of Independence.</string>
-    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
-    <string name="draft_statueofliberty00_text">The Statue of Liberty was a gift from the French to the Americans. It was inaugurated in 1886 and is 93 meters high.</string>
-    <string name="draft_decorustywatertower00_title">Rusty water tower</string>
-    <string name="draft_decorustywatertower00_text">An old and rusty water tower. It does absolutely nothing.</string>
-    <string name="draft_underground_wire00_title">Underground wires</string>
-    <string name="draft_underground_wire00_text">Work like normal wires, but are placed underground so nobody has to see them.</string>
-    <string name="draft_feature_freedombuildings00_title">Landmarks I</string>
-    <string name="draft_feature_freedombuildings00_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_bigben00_text">Big Ben adalah sebuah menara bel di London setinggi 96 m dan dibangun pada 1859.</string>
+    <string name="draft_angelofindependence00_title">Malaikat Kemerdekaan</string>
+    <string name="draft_angelofindependence00_text">Malaikat Kemerdekaan adalah sebuah monumen di Mexico City yang dibangun pada 1910 untuk memperingati Perang Kemerdekaan Meksiko.</string>
+    <string name="draft_statueofliberty00_title">Patung Liberty</string>
+    <string name="draft_statueofliberty00_text">Patung Liberty adalah sebuah hadiah dari Prancis untuk Amerika Serikat. Patung ini diresmikan pada 1886 dan tingginya 93 meter.</string>
+    <string name="draft_decorustywatertower00_title">Menara air berkarat</string>
+    <string name="draft_decorustywatertower00_text">Menara air tua dan berkarat. Tidak digunakan untuk apapun.</string>
+    <string name="draft_underground_wire00_title">Kabel bawah tanah</string>
+    <string name="draft_underground_wire00_text">Bekerja seperti kabel biasa, tetapi ditempatkan di bawah tanah supaya tidak ada yang harus melihatnya.</string>
+    <string name="draft_feature_freedombuildings00_title">Landmark I</string>
+    <string name="draft_feature_freedombuildings00_text">Berisi bangunan-bangunan berikut yang bisa digunakan secara permanen:</string>
 
+    <string name="tool_removeuwire_title">Kabel bawah tanah</string>
+    <string name="tool_removeuwire_text">Alat ini menghapus kabel bawah tanah.</string>
 
-    <string name="tool_removeuwire_title">Underground wires</string>
-    <string name="tool_removeuwire_text">This tool removes underground wires.</string>
-
-
-    <string name="draft_aircraft_boneyard00_title">Aircraft boneyard</string>
-    <string name="draft_aircraft_boneyard00_text">A place for retired aircraft. It\'s dirty but produces some income.</string>
-    <string name="notify_tutorial_reminder_title">Time to get started</string>
-    <string name="notify_tutorial_reminder_text">Hey mayor, did you forget about your mission to build a great city?</string>
-    <string name="dialog_insufficientspace_title">We\'re running out of space</string>
-    <string name="dialog_insufficientspace_text">There\'s not much free space left on your device (%,d MB).\n\nCities might not be saved due to insufficient space!</string>
-    <string name="dialog_insufficientspace_cmdproceed">Proceed at own risk</string>
+    <string name="draft_aircraft_boneyard00_title">Gudang pesawat bekas</string>
+    <string name="draft_aircraft_boneyard00_text">Tempat untuk pesawat bekas. Kotor, tapi menghasilkan pemasukan.</string>
+    <string name="notify_tutorial_reminder_title">Waktunya mulai</string>
+    <string name="notify_tutorial_reminder_text">Hey, wali kota, apakah kamu lupa tugasmu untuk membangun sebuah kota yang hebat?</string>
+    <string name="dialog_insufficientspace_title">Kita kehabisan ruang</string>
+    <string name="dialog_insufficientspace_text">Tidak banyak lagi ruang tersisa di perangkatmu (%,d MB).\n\nKota bisa tidak tersimpan karena tidak cukup tempat!</string>
+    <string name="dialog_insufficientspace_cmdproceed">Teruskan dengan risiko sendiri</string>
     <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
-    <string name="draft_sydneyoperahouse00_text">The Sydney Opera House is a multi-venue performing arts centre that is located in Sydney, Australia. It was completed in 1973 and has a height of 65 meters.</string>
+    <string name="draft_sydneyoperahouse00_text">Sydney Opera House adalah sebuah pusat seni pertunjukan multivenue yang terletak di Sydney, Australia. Diselesaikan pada 1973 dan memiliki tinggi 65 meter.</string>
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
-    <string name="draft_onerafflesplace00_text">The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.</string>
-    <string name="draft_willistower00_title">Willis Tower</string>
-    <string name="draft_willistower00_text">The Willis Tower (also known as Sears Tower) is a skyscraper that is located in Chicago, United States. The tower was built in 1973 and is 442 meters high.</string>
-    <string name="draft_feature_landmarks01_title">Landmarks II</string>
-    <string name="draft_feature_landmarks01_text">Contains the following buildings for permanent usage:</string>
+    <string name="draft_onerafflesplace00_text">One Raffles Place adalah sebuah gedung pencakar langit di Singapura yang dibangun pada 1986 dengan tinggi 280 meter.</string>
+    <string name="draft_willistower00_title">Menara Willis</string>
+    <string name="draft_willistower00_text">Menara Willis (dikenal juga dengan nama Menara Sears) adalah sebuah gedung pencakar langit di Chicago, Amerika Serikat. Menara ini dibangun pada 1973 dengan tinggi 442 meter.</string>
+    <string name="draft_feature_landmarks01_title">Landmark II</string>
+    <string name="draft_feature_landmarks01_text">Berisi bangunan-bangunan berikut yang bisa digunakan secara permanen:</string>
 
-
-    <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
+    <string name="draft_cat_supply00_title">Pasokan</string>
+    <string name="draft_cat_road00_title">Jalan</string>
     <string name="draft_cat_bus00_title">Bus</string>
-    <string name="draft_cat_train00_title">Train</string>
-    <string name="draft_cat_recent00_title">Recent</string>
-    <string name="draft_cat_service00_title">Services</string>
+    <string name="draft_cat_train00_title">Kereta</string>
+    <string name="draft_cat_recent00_title">Baru</string>
+    <string name="draft_cat_service00_title">Pelayanan</string>
     <string name="draft_tool_eyedropper00_title">Eyedropper</string>
-    <string name="draft_tool_eyedropper00_text">Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.</string>
+    <string name="draft_tool_eyedropper00_text">Ingin membangun jalan atau bangunan tertentu lagi? Pakai alat ini dan sentuh bendanya. Tidak didukung semua struktur.</string>
     <string name="draft_cat_level00_title">Level ₮</string>
     <string name="draft_cat_level01_title">Level ₮₮</string>
     <string name="draft_cat_level02_title">Level ₮₮₮</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
-    <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
-
-
+    <string name="draft_tool_movebuilding00_title">Pindahkan bangunan</string>
+    <string name="draft_tool_movebuilding00_text">Pilih sebuah bangunan untuk memindahkannya ke tempat lain. Tidak semua bangunan bisa dipindahkan.</string>
+    <string name="tool_movebuilding_cmd">Pilih bangunan</string>
     <string name="draft_cat_root00_title">All</string>
 
-
-    <string name="draft_cat_residential00_title">Res buildings</string>
-    <string name="draft_cat_commercial00_title">Com buildings</string>
-    <string name="draft_cat_industrial00_title">Ind buildings</string>
-    <string name="offerstage_saving">You save %d%%</string>
-    <string name="draft_pickle00_title">Almighty pickle</string>
+    <string name="draft_cat_residential00_title">Bangunan pdd</string>
+    <string name="draft_cat_commercial00_title">Bangunan kom</string>
+    <string name="draft_cat_industrial00_title">Bangunan ind</string>
+    <string name="offerstage_saving">Kamu menghemat %d%%</string>
+    <string name="draft_pickle00_title">Acar Mahakuasa</string>
     <string name="draft_pickle00_text">.</string>
 
+    <string name="settings_newtoolbar">Pakai toolbar</string>
 
-    <string name="settings_newtoolbar">Use toolbar</string>
+    <string name="gallery">Galeri</string>
+    <string name="gallery_upload">Unggah tangkapan layar</string>
+    <string name="dialog_galleryupload_title">Sedang mengunggah</string>
+    <string name="dialog_galleryupload_text">Saya sedang mengunggah gambarmu :)</string>
+    <string name="gallery_recent">Baru</string>
+    <string name="gallery_trends">Tren</string>
+    <string name="gallery_own">Kepunyaan</string>
+    <string name="dialog_gallerydelete_title">Hapus tangkapan layar</string>
+    <string name="dialog_gallerydelete_text">Apakah kamu yakin ingin menghapus tangkapan layar ini? Ini tidak bisa dikembalikan!</string>
+    <string name="dialog_gallerydelete_cmd">Hapus</string>
+    <string name="dialog_gallerypolicy_title">Pertama</string>
+    <string name="dialog_gallerypolicy_text">Halo, saya senang karena kamu ingin berkontribusi untuk galeri kami. Namun, sebelum kita bisa mulai, kamu harus menyetujui kebijakan kami yang memperbolehkan kami mengunggah tangkapan layar untukmu.
 
-
-    <string name="gallery">Gallery</string>
-    <string name="gallery_upload">Upload screenshot</string>
-    <string name="dialog_galleryupload_title">Uploading</string>
-    <string name="dialog_galleryupload_text">I\'m uploading your image :)</string>
-    <string name="gallery_recent">Recent</string>
-    <string name="gallery_trends">Trends</string>
-    <string name="gallery_own">Own</string>
-    <string name="dialog_gallerydelete_title">Delete Screenshot</string>
-    <string name="dialog_gallerydelete_text">Are you sure that you want to delete this screenshot? This cannot be undone!</string>
-    <string name="dialog_gallerydelete_cmd">Delete</string>
-    <string name="dialog_gallerypolicy_title">First things first</string>
-    <string name="dialog_gallerypolicy_text">Hi, I\'m glad that you\'d like to contribute to our gallery. However, before we can start you have to agree to our policy to allow us to upload screenshots for you.
-
-\n\nOnly tap on agree if you agree to our policy for screenshot uploading.</string>
-    <string name="dialog_gallerypolicy_cmdpolicy">Open policy</string>
-    <string name="dialog_gallerypolicy_cmdok">I agree</string>
-    <string name="dialog_gallerypolicy_cmdcancel">I disagree</string>
-    <string name="settings_pushnotifications">Push notifications</string>
-    <string name="draft_leaningtowerofpisa00_title">Leaning Tower of Pisa</string>
-    <string name="draft_leaningtowerofpisa00_text">The Leaning Tower of Pisa is a bell tower located in the Italian City of Pisa that was completed in 1372 and its height amounts to 56 meters.</string>
+\n\nPilih setuju hanya jika kamu menyetujui kebijakan kami untuk mengunggah tangkapan layar.</string>
+    <string name="dialog_gallerypolicy_cmdpolicy">Buka kebijakan</string>
+    <string name="dialog_gallerypolicy_cmdok">Saya setuju</string>
+    <string name="dialog_gallerypolicy_cmdcancel">Saya tidak setuju</string>
+    <string name="settings_pushnotifications">Notifikasi dorong</string>
+    <string name="draft_leaningtowerofpisa00_title">Menara Pisa</string>
+    <string name="draft_leaningtowerofpisa00_text">Menara Pisa adalah sebuah menara bel yang terletak di Kota Pisa di Italia yang rampung pada 1372 dengan tinggi yang mencapai 56 meter.</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
-    <string name="draft_burjalarab00_text">The Burj Al Arab is a luxury hotel that is located in Dubai, United Arab Emirates. It was completed in 1999 and has a height of 321 meters.</string>
-    <string name="draft_hearsttower00_title">Hearst Tower</string>
-    <string name="draft_hearsttower00_text">The Hearst Tower is an office building in New York City that was built in 2006. It has a height of 182 meters.</string>
-    <string name="draft_feature_landmarks02_title">Landmarks III</string>
+    <string name="draft_burjalarab00_text">Burj Al Arab adalah sebuah hotel mewah yang bertempat di Dubai, Uni Emirat Arab. Diselesaikan pada 1999 dan memiliki tinggi 321 meter.</string>
+    <string name="draft_hearsttower00_title">Menara Hearst</string>
+    <string name="draft_hearsttower00_text">Menara Hearst adalah sebuah gedung perkantoran di Kota New York yang dibangun pada 2006. Memiliki ketinggian 182 meter.</string>
+    <string name="draft_feature_landmarks02_title">Landmark III</string>
 
+    <string name="draft_recyclingyard00_title">Pusat barang bekas</string>
+    <string name="draft_recyclingyard00_text">Mengapa harus membakar sampah atau membawanya ke TPA kalau bisa didaur ulang di pusat barang bekas?</string>
+    <string name="draft_notify_pickle_spawned00_text">Sebuah acar liar muncul di %s. Apa yang akan kamu lakukan, wali kota?</string>
+    <string name="draft_rugbyfield00_title">Lapangan rugby</string>
+    <string name="draft_rugbyfield00_text">Lapangan rugby untuk fans rugby.</string>
+    <string name="menu_facebook">Koneksi Facebook</string>
+    <string name="facebook_privacy">Privasi</string>
 
-    <string name="draft_recyclingyard00_title">Buyback center</string>
-    <string name="draft_recyclingyard00_text">Why burn the garbage or bring it to the landfill if it can be recycled in the buyback center?</string>
-    <string name="draft_notify_pickle_spawned00_text">A wild pickle appeared in %s. What will you do about it, mayor?</string>
-    <string name="draft_rugbyfield00_title">Rugby field</string>
-    <string name="draft_rugbyfield00_text">A rugby field for rugby fans.</string>
-    <string name="menu_facebook">Facebook connection</string>
-    <string name="facebook_privacy">Privacy</string>
+    <string name="settings_smoothcarmovement">Pergerakan mobil halus</string>
+    <string name="draft_easteregg00_title">Telur Paskah</string>
+    <string name="draft_easteregg00_text">Hanya sebutir telur paskah. Apa yang akan kamu lakukan dengannya?</string>
+    <string name="draft_notify_easteregg_spawned00_text">Ada telur paskah di suatu tempat. Bisakah kamu menemukannnya?</string>
+    <string name="draft_notify_easteregg_found00_text">Selamat, kamu menemukan telur paskahnya :)</string>
 
+    <string name="dialog_removediamondbuildings_title">Hapus bangunan berlian</string>
+    <string name="dialog_removediamondbuildings_text">Kamu telah memilih %d bangunan yang dibayar dengan berlian untuk dihapus. Apakah kamu yakin kamu ingin menghapusnya? Ada alat pemindah bangunan jika kamu hanya ingin memindahkannya.</string>
+    <string name="settings_renderpollution">Render polusi</string>
 
-    <string name="settings_smoothcarmovement">Smooth car movement</string>
-    <string name="draft_easteregg00_title">Easter egg</string>
-    <string name="draft_easteregg00_text">Just an Easter egg. What will you do about it?</string>
-    <string name="draft_notify_easteregg_spawned00_text">There\'s an Easter egg somewhere. Can you find it?</string>
-    <string name="draft_notify_easteregg_found00_text">Congratulations, you found the Easter egg :)</string>
-
-
-    <string name="dialog_removediamondbuildings_title">Remove diamond buildings</string>
-    <string name="dialog_removediamondbuildings_text">You selected %d diamond priced buildings for removal. Are you sure that you want to remove them? There\'s a move building tool if you just want to move them.</string>
-    <string name="settings_renderpollution">Render pollution</string>
-
-
-    <string name="settings_cloudshadow">Cloud shadows</string>
-
+    <string name="settings_cloudshadow">Bayangan awan</string>
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
-    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower is a TV tower in Shanghai whose construction was completed in 1994. The height of the tower amounts to 470 meters.</string>
-    <string name="draft_swfc_tower00_title">SWFC Tower</string>
-    <string name="draft_swfc_tower00_text">The Shanghai World Financial Center is a skyscraper that is located in Shanghai and was completed 2008. It\'s height is 494 meters.</string>
-    <string name="draft_feature_landmarks03_title">Landmarks IV</string>
-    <string name="draft_feature_landmarks03_text">Exquisite buildings from Shanghai</string>
-    <string name="draft_cat_asphalt00_title">Asphalt</string>
-    <string name="draft_asphalt00_title">Gray asphalt</string>
-    <string name="draft_asphalt00_text">Don\'t replace nature with it!</string>
-    <string name="draft_asphalt01_title">Dark asphalt</string>
-    <string name="draft_asphalt02_title">Blueish asphalt</string>
+    <string name="draft_orientalpearltower00_text">Menara Oriental Pearl adalah sebuah menara TV di Shanghai yang konstruksinya selesai pada 1994. Tinggi menara mencapai 470 meter.</string>
+    <string name="draft_swfc_tower00_title">Menara SWFC</string>
+    <string name="draft_swfc_tower00_text">Pusat Finansial Dunia Shanghai(SWFC) adalah sebuah gedung pencakar langit yang terletak di Shanghai dan rampung pada 2008. Tingginya adalah 494 meter.</string>
+    <string name="draft_feature_landmarks03_title">Landmark IV</string>
+    <string name="draft_feature_landmarks03_text">Bangunan-bangunan istimewa dari Asia</string>
+    <string name="draft_cat_asphalt00_title">Aspal</string>
+    <string name="draft_asphalt00_title">Aspal abu-abu</string>
+    <string name="draft_asphalt00_text">Jangan mengganti alam dengan ini!</string>
+    <string name="draft_asphalt01_title">Aspal hitam</string>
+    <string name="draft_asphalt02_title">Aspal kebiruan</string>
 
-
-    <string name="draft_cat_management00_title">Management</string>
-    <string name="draft_sakura00_title">Sakura tower</string>
-    <string name="draft_sakura00_text">A traditional pagoda with Sakura trees. What a lovely place.</string>
-    <string name="draft_stbasilcathedral00_title">St Basil\'s Cathedral</string>
-    <string name="draft_stbasilcathedral00_text">The Saint Basil\'s Cathedral is a church in Moscow, Russia. It was completed in 1561 and is now a museum. Its height amounts to 115 meters.</string>
-
+    <string name="draft_cat_management00_title">Manajemen</string>
+    <string name="draft_sakura00_title">Menara Sakura</string>
+    <string name="draft_sakura00_text">Pagoda tradisional dengan pohon-pohon sakura. Tempat yang indah.</string>
+    <string name="draft_stbasilcathedral00_title">Katedral St. Basil</string>
+    <string name="draft_stbasilcathedral00_text">Katedral Santo Basil adalah sebuah gereja di Moskow, Rusia. Diselesaikan pada 1561 dan sekarang digunakan sebagai museum. Tingginya mencapai 115 meter.</string>
 
     <string name="draft_toji00_title">Tō-ji</string>
-    <string name="draft_toji00_text">Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.</string>
-    <string name="ca_wastedisposal_text2">Waste transport: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Garbage is not collected for this building.</string>
-    <string name="notify_waste_producer00">This landfill is full, you should clear it!</string>
-    <string name="draft_landfill00_text">A lot of space to collect all the garbage. Can only be removed if empty.</string>
-    <string name="waste_clear">SWIPE on the garbage to clear it.</string>
-    <string name="waste_cmdclear">Clear now</string>
-    <string name="dialog_wasteclear_title">Clear now</string>
-    <string name="dialog_wasteclear_text">We can clear the landfill for you.</string>
-    <string name="draft_wasteincinerator00_text">Quick and dirty way to get rid of all the garbage.</string>
-    <string name="budget_waste_disposal">Waste disposal</string>
-    <string name="draft_alert_garbage00_title">Call garbage truck</string>
-    <string name="draft_alert_garbage00_text">Call the garbage truck to collect garbage from the road.</string>
-    <string name="happiness_waste">Waste disposal</string>
-    <string name="settings_new_content_marker">Highlight new content in toolbar</string>
+    <string name="draft_toji00_text">Tō-ji adalah sebuah kuil Buddha di Kyoto, Jepang. Diselesaikan pada 796 dengan tinggi 55 meter.</string>
+    <string name="ca_wastedisposal_text2">Transpor sampah: %1$,d/%2$,d L/d</string>
+    <string name="notify_waste_needer00">Sampah tidak diambil untuk bangunan ini.</string>
+    <string name="notify_waste_producer00">TPA ini penuh, kamu harus membersihkannya!</string>
+    <string name="draft_landfill00_text">Tempat yang luas untuk mengumpulkan semua sampah. Hanya bisa dihapus jika kosong.</string>
+    <string name="waste_clear">GESER pada sampahnya untuk memebersihkannya.</string>
+    <string name="waste_cmdclear">Bersihkan sekarang</string>
+    <string name="dialog_wasteclear_title">Bersihkan sekarang</string>
+    <string name="dialog_wasteclear_text">Kita bisa membereskan TPA untukmu.</string>
+    <string name="draft_wasteincinerator00_text">Cara cepat dan kotor untuk membereskan semua sampahnya.</string>
+    <string name="budget_waste_disposal">Pembuangan sampah</string>
+    <string name="draft_alert_garbage00_title">Panggil truk sampah</string>
+    <string name="draft_alert_garbage00_text">Panggil truk sampah untuk mengumpulkan sampah dari jalan.</string>
+    <string name="happiness_waste">Pembuangan sampah</string>
+    <string name="settings_new_content_marker">Soroti konten baru di toolbar</string>
 
-
-    <string name="tool_removeroaddeco_title">Remove road deco</string>
-    <string name="tool_removeroaddeco_text">Use this tool to remove road decoration overlays.</string>
-
-
-    <string name="draft_palmtree00_title">Palm tree</string>
-    <string name="draft_palmtree00_text">They are essential for any oasis.</string>
-    <string name="draft_cactus00_title">Cactus</string>
-    <string name="draft_cactus00_text">No water? No problem for these cacti.</string>
-    <string name="draft_ancientbear_guard00_title">Guard</string>
-    <string name="draft_ancientbear_guard00_text">A guard that watches over the Ancient Bear.</string>
-    <string name="draft_ancientbear_statue00_title">Ancient Bear</string>
-    <string name="draft_ancientbear_statue00_text">A statue of the Ancient Bear.</string>
-    <string name="draft_greatpyramid00_title">Great Pyramid of Giza</string>
-
+    <string name="tool_removeroaddeco_title">Hapus dekor jalan</string>
+    <string name="tool_removeroaddeco_text">Pakai alat ini untuk menghapus lapisan dekorasi jalanan.</string>
+    <string name="draft_palmtree00_title">Pohon palem</string>
+    <string name="draft_palmtree00_text">Esensial untuk tiap oasis.</string>
+    <string name="draft_cactus00_title">Kaktus</string>
+    <string name="draft_cactus00_text">Ga ada air? Tidak masalah untuk kaktus.</string>
+    <string name="draft_ancientbear_guard00_title">Pengawal</string>
+    <string name="draft_ancientbear_guard00_text">Pengawal yang mengawasi Beruang Kuno.</string>
+    <string name="draft_ancientbear_statue00_title">Beruang Kuno</string>
+    <string name="draft_ancientbear_statue00_text">Patung Beruang Kuno.</string>
+    <string name="draft_greatpyramid00_title">Piramida Agung Giza</string>
 
     <string name="draft_wasteincinerator00_filter00_title">Filter</string>
-    <string name="draft_wasteincinerator00_filter00_text">Reduces the emitted pollution and noise drastically.</string>
-    <string name="draft_flowers00_title">Flowers</string>
-    <string name="draft_flowers00_text">Just some flowers.</string>
+    <string name="draft_wasteincinerator00_filter00_text">Mengurangi emisi polusi dan kebisingan secara drastis.</string>
+    <string name="draft_flowers00_title">Bunga</string>
+    <string name="draft_flowers00_text">Hanya beberapa bunga.</string>
 
-
-    <string name="game_remaining_doubledincometime">Doubled income for %s</string>
+    <string name="game_remaining_doubledincometime">Pemasukan ganda selama %s</string>
     <string name="draft_taipei101_title">Taipei 101</string>
-    <string name="draft_taipei101_text">The Taipei Financial Center in Taipei is a supertall skyscraper in Taiwan. It has a height of 510 meters and has been the tallest building in the world until 2010. It was finished in 2004.</string>
-    <string name="draft_roaddeco_border00_title">Guide post</string>
-    <string name="draft_roaddeco_border00_text">Helps cars to keep track.</string>
-    <string name="draft_roaddeco_border01_title">Stone border</string>
-    <string name="draft_roaddeco_border01_text">Just some decorative stones lying near your road.</string>
-    <string name="draft_roaddeco_border02_title">Guard railing</string>
-    <string name="draft_roaddeco_border02_text">Safety first.</string>
-    <string name="draft_roaddeco_border03_title">Sound protection</string>
-    <string name="draft_roaddeco_border03_text">Which noise? I don\'t hear any.</string>
-    <string name="draft_roaddeco_border04_title">Glass wall</string>
-    <string name="draft_roaddeco_border04_text">You can see cars through it.</string>
-    <string name="draft_roaddeco_border05_title">Street lighting</string>
-    <string name="draft_roaddeco_border05_text">There\'s no night and yet there are street lights.</string>
-
-
+    <string name="draft_taipei101_text">Pusat Finansial Taipei di Taipei adalah sebuah gedung pencakar langit super tinggi di Taiwan. Memiliki ketinggian 510 meters dan merupakan gedung tertinggi di dunia hingga 2010. Rampung pada 2004.</string>
+    <string name="draft_roaddeco_border00_title">Penunjuk jalan</string>
+    <string name="draft_roaddeco_border00_text">Membantu mobil tetap di jalurnya.</string>
+    <string name="draft_roaddeco_border01_title">Batas batu</string>
+    <string name="draft_roaddeco_border01_text">Beberapa dekorasi bebatuan di pinggir jalan.</string>
+    <string name="draft_roaddeco_border02_title">Pagar pembatas</string>
+    <string name="draft_roaddeco_border02_text">Utamakan keselamatan.</string>
+    <string name="draft_roaddeco_border03_title">Pelindung suara</string>
+    <string name="draft_roaddeco_border03_text">Suara apa? Aku tidak mendengar apa-apa.</string>
+    <string name="draft_roaddeco_border04_title">Tembok kaca</string>
+    <string name="draft_roaddeco_border04_text">Kamu bisa melihat mobil melaluinya.</string>
+    <string name="draft_roaddeco_border05_title">Lampu jalan</string>
+    <string name="draft_roaddeco_border05_text">Penerangan jalan di saat malam.</string>
     <string name="draft_cat_roaddeco00_title">Road decoration</string>
 
-
-    <string name="draft_feature_doubledincome00_title">Doubled income</string>
-    <string name="draft_feature_doubledincome00_text">Just doubles your income.</string>
-    <string name="features_duration">Duration %s</string>
-    <string name="draft_roaddeco_crosswalk00_title">Crosswalk</string>
-    <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
-    <string name="draft_roaddeco_bumps00_title">Bumps</string>
-    <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
-    <string name="draft_fence00_title">Fence</string>
-    <string name="draft_fence00_text">Just a simple fence.</string>
-    <string name="draft_fence01_title">White fence</string>
-    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
-
-
-    <string name="draft_jungletree00_title">Jungle tree</string>
-    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
-
+    <string name="draft_feature_doubledincome00_title">Gandakan pemasukan</string>
+    <string name="draft_feature_doubledincome00_text">Hanya mengandakan pemasukan.</string>
+    <string name="features_duration">Durasi %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">Zebracross</string>
+    <string name="draft_roaddeco_crosswalk00_text">Berbahaya jika menyeberangi jalan begitu saja.</string>
+    <string name="draft_roaddeco_bumps00_title">Bump</string>
+    <string name="draft_roaddeco_bumps00_text">Bump memperlambat kecepatan lalu lintas.</string>
+    <string name="draft_fence00_title">Pagar</string>
+    <string name="draft_fence00_text">Hanya pagar sederhana.</string>
+    <string name="draft_fence01_title">Pagar putih</string>
+    <string name="draft_fence01_text">Pagar tapi juga putih.</string>
+    <string name="draft_jungletree00_title">Hutan rimba</string>
+    <string name="draft_jungletree00_text">A-weema-weh, a-weema-weh, a-weema-weh, a-weema-weh...In the jungle, the mighty jungle, the lion sleeps tonight.</string>
 
     <string name="draft_igloo00_title">Igloo</string>
-    <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
-    <string name="features_more">More content</string>
-    <string name="features_diamonds">Get diamonds</string>
+    <string name="draft_igloo00_text">Anehnya, di dalam igloo tidak terlalu dingin.</string>
+    <string name="features_more">Konten lainnya</string>
+    <string name="features_diamonds">Dapatkan berlian</string>
 
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="dialog_privacy_title">Kebijakan Privasi</string>
+    <string name="dialog_privacy_text">Halo, kami memperbarui Kebijakan Privasi kami. Harap luangkan waktu untuk membacanya.</string>
+    <string name="dialog_privacy_cmdopen">Buka Kebijakan</string>
+    <string name="dialog_privacy_cmdlater">Mengerti</string>
+    <string name="settings_drawzones">Gambar zona</string>
+    <string name="draft_metrostation00_title">Stasiun MRT</string>
+    <string name="draft_metrostation00_text">Stasiun untuk mengakses MRT.</string>
+    <string name="draft_metroline00_title">Terowongan MRT</string>
+    <string name="draft_metroline00_text">Terowongan MRT. Kamu tidak bisa melihatnya, tapi itu ada.</string>
+    <string name="feature_coming_soon">Datang segera</string>
+    <string name="dialog_search_title">Cari</string>
+    <string name="dialog_search_text">Ketik kata kunci pencarian di bawah ini.</string>
+    <string name="dialog_search_cmdok">Cari</string>
+    <string name="dialog_search_cmdcancel">Batal</string>
+    <string name="search_results_title">Hasil pencarian untuk \"%s\"</string>
+    <string name="draft_rail01_title">Rel Kereta Urban</string>
+    <string name="draft_rail01_text">Rel kereta yang ditinggikan untuk area urban dengan kecepatan yang lebih cepat.</string>
+    <string name="draft_nativerailwaystation01_title">Stasiun Kereta Urban</string>
+    <string name="draft_nativerailwaystation01_text">Stasiun kereta yang lebih rapat untuk tempat dengan ketersediaan ruang yang sedikit.</string>
+    <string name="settings_realmmres">Resolusi peta mini sebenarnya</string>
+    <string name="feature_coming_soon_fulfilled">Hadiah dini</string>
 
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="dialog_privacy_title">Privacy Policy</string>
-    <string name="dialog_privacy_text">Hi, we\'re updating our Privacy Policy. Please take time to review it.</string>
-    <string name="dialog_privacy_cmdopen">Open Policy</string>
-    <string name="dialog_privacy_cmdlater">Got it</string>
-    <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
-    <string name="draft_metrostation00_text">A station to access metro.</string>
-    <string name="draft_metroline00_title">Metro tunnel</string>
-    <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
-    <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
-    <string name="dialog_search_text">Enter a search keyword below.</string>
-    <string name="dialog_search_cmdok">Search</string>
-    <string name="dialog_search_cmdcancel">Cancel</string>
-    <string name="search_results_title">Search results for \"%s\"</string>
-    <string name="draft_rail01_title">Urban Railway</string>
-    <string name="draft_rail01_text">Elevated railway for urban areas for faster speed.</string>
-    <string name="draft_nativerailwaystation01_title">Urban Railway Station</string>
-    <string name="draft_nativerailwaystation01_text">A compact railway station for places with little space.</string>
-    <string name="settings_realmmres">Real minimap resolution</string>
-    <string name="feature_coming_soon_fulfilled">An early gift</string>
+    <string name="draft_tree_sakura00_title">Bunga sakura</string>
+    <string name="draft_tree_sakura00_text">Walaupun secara teknis mereka adalah pohon ceri, mereka tidak menumbuhkan buah ceri.</string>
+    <string name="draft_circus00_title">Sirkus</string>
+    <string name="draft_circus00_text">Waktunya untuk sirkus!</string>
+    <string name="draft_chrysler00_title">Gedung Chrysler</string>
+    <string name="draft_chrysler00_text">Kamu mungkin sudah pernah melihat gedung ini sebelumnya. Gedung Chrysler di New York terkenal dengan tampilan ikoniknya. Selesai pada 1930, tingginya 319m.</string>
+    <string name="draft_greatpyramid00_text">Kompleks Piramida Giza adalah yang tertua dari Tujuh Keajaiban Dunia Kuno dan terkenal di seluruh dunia. Piramida Agung adalah yang paling besar dari ketiga piramida dan memiliki tinggi 139m.</string>
+    <string name="draft_feature_landmarks04_text">Miliki beberapa bangunan keren</string>
 
+    <string name="draft_roaddeco_barrier_open00_title">Palang</string>
+    <string name="draft_roaddeco_barrier_open00_text">Sentuh untuk menutupnya. Cara bagus untuk membuat kemacetan.</string>
+    
+    <string name="selectable_find">Temukan (%,d)</string>
+    <string name="gallery_upload_success">Sukses</string>
+    <string name="gallery_upload_fail">Gagal mengunggah</string>
+    <string name="draft_medic02_title">Rumah sakit kecil</string>
+    <string name="draft_medic02_text">Rumah sakit kecil menawarkan lebih banyak ruang untuk pasien.</string>
+    <string name="lang_pirate">Bajak Laut</string>
 
-    <string name="draft_tree_sakura00_title">Cherry blossom</string>
-    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
-    <string name="draft_circus00_title">Circus</string>
-    <string name="draft_circus00_text">It\'s time for circus!</string>
-    <string name="draft_chrysler00_title">Chrysler Building</string>
-    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
-    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
-    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
-
-
-    <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
-    <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
-    <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
-    <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
-    <string name="lang_pirate">Pirate</string>
-
-
-    <string name="draft_church10_title">Baroque Church</string>
-    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
+    <string name="draft_church10_title">Gereja Baroque</string>
+    <string name="draft_church10_text">Gereja yang indah dan biara untuk kotamu.</string>
     <string name="draft_roaddeco_construction00_title">Backhoe</string>
-    <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
+    <string name="draft_roaddeco_construction00_text">Sebuah backhoe di tengah jalan sepertinya bukan ide bagus, bukan?</string>
 
-
-    <string name="infoline_freetunnels">%d tunnels left</string>
-    <string name="buildinginfo_idletime">Idle time: %s (if you are not in the city)</string>
-    <string name="dialog_wb_completed">Congratulations, %d buildings have been completed since your last visit.</string>
-    <string name="draft_roaddeco_barrier01_title">Barricades</string>
-    <string name="draft_roaddeco_barrier01_text">Can be used to barricade the road.</string>
-    <string name="draft_roaddeco_construction01_title">Gravel mountains</string>
-    <string name="draft_roaddeco_construction01_text">Part of good roadworks.</string>
-
-
-    <string name="notification00_sandbox_title">NEWS: %1$s is a nice city!</string>
-    <string name="notification00_sandbox_text">Mayor, you can be proud of yourself!</string>
-    <string name="notification01_title">NEWS: %1$s feels lonely!</string>
-    <string name="notification01_text">Mayor, please come back!</string>
-
+    <string name="infoline_freetunnels">%d terowongan tersisa</string>
+    <string name="buildinginfo_idletime">Lama ditinggalkan: %s (saat kamu tidak berada di kota)</string>
+    <string name="dialog_wb_completed">Selamat, %d bangunan telah diselesaikan sejak kunjunganmu terakhir.</string>
+    <string name="draft_roaddeco_barrier01_title">Barikade</string>
+    <string name="draft_roaddeco_barrier01_text">Bisa digunakan untuk menutup jalan.</string>
+    <string name="draft_roaddeco_construction01_title">Gundukan kerikil</string>
+    <string name="draft_roaddeco_construction01_text">Bagian dari pekerjaan jalan yang baik.</string>
+    <string name="notification00_sandbox_title">BERITA: %1$s kota yang bagus!</string>
+    <string name="notification00_sandbox_text">Wali kota, kamu harus bangga akan dirimu!</string>
+    <string name="notification01_title">BERITA: %1$s terasa sepi!</string>
+    <string name="notification01_text">Wali kota, tolong kembali!</string>
 
     <string name="shop_adreward">Diamond gratis</string>
-    <string name="draft_smallmetrostation00_title">Terowongan akses MRT bawah tanah</string>
-    <string name="draft_smallmetrostation00_text">Sebuah stasiun terowongan.</string>
-    <string name="draft_roaddeco_trafficisland00_title">Pulau lalu lintas</string>
-    <string name="draft_roaddeco_trafficisland00_text">Memudahkan orang untuk menyeberang.</string>
-    <string name="draft_roaddeco_buildingsite00_title">Jalan rusak</string>
-    <string name="draft_roaddeco_buildingsite00_text">Awas jalan rusak!</string>
-    <string name="draft_roaddeco_trafficlights00_title">Lampu lalu lintas</string>
-    <string name="draft_roaddeco_trafficlights00_text">Sangat cocok pada area yang padat.</string>
+    <string name="draft_smallmetrostation00_title">Titik akses MRT</string>
+    <string name="draft_smallmetrostation00_text">Sebuah stasiun untuk mengakses MRT. Untuk kereta, kamu harus membangun stasiun MRT.</string>
+    <string name="draft_roaddeco_trafficisland00_title">Pulau penyeberangan</string>
+    <string name="draft_roaddeco_trafficisland00_text">Memudahkan orang untuk menyeberang dengan selamat.</string>
+    <string name="draft_roaddeco_buildingsite00_title">Perbaikan jalan</string>
+    <string name="draft_roaddeco_buildingsite00_text">Awas perbaikan jalan!</string>
+    <string name="draft_roaddeco_trafficlights00_title">Lampu penyeberangan</string>
+    <string name="draft_roaddeco_trafficlights00_text">Lebih aman daripada zebracross atau pulau penyeberangan.</string>
 
+    <string name="tool_removemetrotunnel_title">Hapus terowongan MRT</string>
+    <string name="tool_removemetrotunnel_text">Mari menghapus terowongan MRT.</string>
 
-    <string name="tool_removemetrotunnel_title">Hancurkan terowongan MRT</string>
-    <string name="tool_removemetrotunnel_text">Hancurkan terowongan MRT jika tidak dibutuhkan.</string>
+    <string name="draft_windmill00_title">Kincir Angin Tua Belanda</string>
+    <string name="draft_windmill00_text">Kincir angin tua untuk daerah pinggiran kotamu.</string>
+    <string name="draft_taxi_depot00_title">Depot taksi</string>
+    <string name="draft_taxi_depot00_text">Bentuk sederhana transportasi publik.</string>
+    <string name="settings_showclosebutton">Tombol tutup di menu game</string>
+    <string name="menu_closegame">Keluar game</string>
+    <string name="disaster_pickle_title">Acar</string>
+    <string name="disaster_pickle_text">Acar.</string>
+    <string name="disaster_pickle_cmdtext">Acar!</string>
+    <string name="draft_disaster_picklehuge00_title">Acar Mahakuasa</string>
+    <string name="draft_disaster_picklehuge00_text">Dewa besar yang termutasi dari semua acar.</string>
+    <string name="draft_disaster_picklehuge01_title">Acar yang dikalahkan</string>
+    <string name="draft_disaster_picklehuge01_text">Sayuran yang tumbuh sedikit terlalu besar. Dapat memunculkan acar beradab yang menggunakan jalan.</string>
 
-
-    <string name="draft_windmill00_title">Old Dutch Windmill</string>
-    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
-    <string name="draft_taxi_depot00_title">Taxi depot</string>
-    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
-    <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
-    <string name="disaster_pickle_title">Pickle</string>
-    <string name="disaster_pickle_text">Pickle.</string>
-    <string name="disaster_pickle_cmdtext">Pickle!</string>
-    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
-    <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
-    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
-    <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
-
-
-    <string name="draft_discord_statue00_title">Discord statue</string>
-    <string name="draft_discord_statue00_text">Discord statue.</string>
-    <string name="notify_discord_statue00_title">Thank you!</string>
-    <string name="notify_discord_statue00_text">Thank you for %d members on our Discord server. Do you want to visit it now?</string>
+    <string name="draft_discord_statue00_title">Patung Discord</string>
+    <string name="draft_discord_statue00_text">Patung Discord.</string>
+    <string name="notify_discord_statue00_title">Terima kasih!</string>
+    <string name="notify_discord_statue00_text">Terima kasih untuk %d anggota di Discord server kami. Mau mengunjunginya sekarang?</string>
     <string name="draftselector_titlebodydisposal">Pemakaman</string>
-    <string name="draft_roaddeco_protester00_title">Prostestor palsu</string>
-    <string name="draft_roaddeco_protester00_text">Demo palsu.</string>
+    <string name="draft_roaddeco_protester00_title">Pengunjuk rasa palsu</string>
+    <string name="draft_roaddeco_protester00_text">Beri nasi bungkus untuk membuat pendemo palsu.</string>
     <string name="draft_roaddeco_riot00_title">Kerusuhan settingan</string>
-    <string name="draft_roaddeco_riot00_text">Ini bukan sinetron!.</string>
-    <string name="draft_roaddeco_roundabout00_title">Jalan putar</string>
-    <string name="draft_roaddeco_roundabout00_text">Jalan putar kalau anda lupa sesuatu.</string>
+    <string name="draft_roaddeco_riot00_text">Ini bukan sinetron!</string>
+    
+    <string name="draft_roaddeco_roundabout00_title">Bundaran mini</string>
+    <string name="draft_roaddeco_roundabout00_text">Bundaran kecil. Tempatkan di persimpangan jalan.</string>
     <string name="disaster_blizzard_title">Badai salju</string>
-    <string name="disaster_blizzard_text">Brace yourself, winter is coming.</string>
-    <string name="disaster_blizzard_cmdtext">Dingin!</string>
-    <string name="draft_snowtile00_title">Permanent snow</string>
+    <string name="disaster_blizzard_text">Siapkan dirimu, musim dingin datang.</string>
+    <string name="disaster_blizzard_cmdtext">Beku!</string>
+    <string name="draft_snowtile00_title">Salju permanen</string>
     <string name="draft_snowtile00_text">Dingin sekali.... Butuh sedikit pemanasan global</string>
     <string name="gamemode_free_title">Bebas</string>
-    <string name="gamemode_free_text">Punya rancangan tapi takut pakai in game currency? Mode ini akan memberimu kebebasan!</string>
-    <string name="dialog_free_title">Game mode bebas</string>
-    <string name="dialog_free_text">You selected free game mode.\n
-Pros: No money, no requirements, options to control demand\n
-Cons: Less challenges</string>
-    <string name="draft_medic03_title">Modern hospital</string>
-    <string name="draft_medic03_text">A modern hospital that can care for more patients in a smaller space.</string>
-    <string name="draft_gol_dead_title">Game of life</string>
-    <string name="draft_gol_dead_text">Create a game of life field. Tap on built tiles to switch their state. Default state is dead.</string>
-
+    <string name="gamemode_free_text">Punya rancangan tapi ga mau mikirin duit? Di mode ini, kamu tidak perlu memusingkan uang atau kebutuhan penduduk.</string>
+    <string name="dialog_free_title">Mode game bebas</string>
+    <string name="dialog_free_text">Kamu telah memilih mode bebas.\n
+Pro: Tidak ada uang, tidak ada kebutuhan, pilihan untuk mengontrol permintaan\n
+Kon: Kurang tantangan</string>
+    <string name="draft_medic03_title">Rumah sakit modern</string>
+    <string name="draft_medic03_text">Rumah sakit modern yang bisa merawat lebih banyak pasien dengan ruang yang lebih kecil.</string>
+    <string name="draft_gol_dead_title">Permainan kehidupan</string>
+    <string name="draft_gol_dead_text">Ciptakan bidang permainan kehidupan. Sentuh tile yang telah dibangun untuk mengganti kondisi mereka. Kondisi default adalah mati.</string>
 
     <string name="draft_coittower00_title">Coit Memorial Tower</string>
     <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
