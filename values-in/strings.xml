@@ -852,7 +852,7 @@
     <string name="disaster_ufo_cmdtext">Bidik target</string>
     <string name="topic_theons">Kita mempunyai mata uang baru: Theon ₮</string>
     <string name="topic_wip">Sedang ada pengerjaan. Jangan melewati garis.</string>
-    <string name="topic_belong">Kotamu milik kami >:D</string>
+    <string name="topic_belong">Kotamu milik kami &gt;:D</string>
     <string name="topic_love">Kamu perlu cinta</string>
     <string name="topic_build">Aku akan membangun kotaku sendiri dengan gedung pencakar langit dan taman-taman.</string>
     <string name="topic_news">Kabar baik!</string>
@@ -1784,7 +1784,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
 
     <string name="draft_roaddeco_barrier_open00_title">Palang</string>
     <string name="draft_roaddeco_barrier_open00_text">Sentuh untuk menutupnya. Cara bagus untuk membuat kemacetan.</string>
-    
+
     <string name="selectable_find">Temukan (%,d)</string>
     <string name="gallery_upload_success">Sukses</string>
     <string name="gallery_upload_fail">Gagal mengunggah</string>
@@ -1845,7 +1845,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_roaddeco_protester00_text">Beri nasi bungkus untuk membuat pendemo palsu.</string>
     <string name="draft_roaddeco_riot00_title">Kerusuhan settingan</string>
     <string name="draft_roaddeco_riot00_text">Ini bukan sinetron!</string>
-    
+
     <string name="draft_roaddeco_roundabout00_title">Bundaran mini</string>
     <string name="draft_roaddeco_roundabout00_text">Bundaran kecil. Tempatkan di persimpangan jalan.</string>
     <string name="disaster_blizzard_title">Badai salju</string>
@@ -2113,7 +2113,7 @@ Kon: Kurang tantangan</string>
     <string name="draft_fence_real06_text">Batangan besi yang berat di antara tembok batu bata.</string>
     <string name="draft_cat_fence00_title">Pagar</string>
     <string name="ci_neighbor_notrading">Tidak ada kota tetangga untuk saling tukar-menukar.</string>
-    
+
     <string name="settings_sound_master">Master</string>
     <string name="draft_cemetery01_title">TPU</string>
     <string name="draft_cemetery01_text">Tempat di mana orang mati dikubur. Pemakaman jenis ini punya banyak lahan.</string>
@@ -2246,8 +2246,8 @@ Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di ba
     <string name="region_acquiremap">Miliki</string>
     <string name="dialog_acquiremapfreemium_title">Miliki peta</string>
     <string name="dialog_acquiremapfreemium_text">Selamat, tempat ini adalah lahan bebas yang bisa kamu miliki untuk membangun kotamu.</string>
-    
-    
+
+
     <string name="settings_sound_plugins">Plugin</string>
     <string name="createregion_title">Wilayah baru</string>
     <string name="createregion_split">Pisahkan</string>
@@ -2427,5 +2427,33 @@ Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di ba
     <string name="dialog_deletegift_title">Hapus hadiah</string>
     <string name="dialog_deletegift_text">Apakah kamu yakin kamu ingin menghapus hadiah ini? Tindakan ini tidak bisa dibatalkan kembali.</string>
     <string name="dialog_deletegift_cmd">Hapus</string>
+
+
+    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
+    <string name="dialog_uploadregiontoobig_title">Upload region</string>
+    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
+    <string name="channel_onlinemode_title">Online mode</string>
+    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
+    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
+    <string name="dialog_externalstorage_title">No access to external storage</string>
+    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
+By doing so we can circumvent potential data loss caused by app updates or re-installation.
+\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
+    <string name="dialog_onlinenotifications_title">Notifications</string>
+    <string name="dialog_onlinenotifications_time">%1$s ago</string>
+    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
+    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
+    <string name="dialog_reason_title">Reason</string>
+    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
+    <string name="store_realtitle">Plugin Store</string>
+    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
+    <string name="settings_verticaltoolbar">Vertical toolbar</string>
+    <string name="settings_darktoolbar">Dark toolbar</string>
+    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
+    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
+You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
+    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
+    <string name="dialog_tutwelcome_start">Let\'s go</string>
 
 </resources>
