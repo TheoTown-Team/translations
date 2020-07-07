@@ -2480,4 +2480,32 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="dialog_deletegift_text">Bist du sicher, dass du das Geschenk löschen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
     <string name="dialog_deletegift_cmd">Löschen</string>
 
+
+    <string name="dialog_insufficientspace2_text">Falls es sich um eine fehlerhafte Meldung handelt stelle bitte sicher, dass das Spiel die Berechtigung hat, auf den externen Speicher zuzugreifen.</string>
+    <string name="dialog_uploadregiontoobig_title">Region hochladen</string>
+    <string name="dialog_uploadregiontoobig_text">Diese Region ist viel zu groß zum Hochladen :(</string>
+    <string name="channel_onlinemode_title">Online Modus</string>
+    <string name="channel_onlinemode_text">Neue Informationen über deine Städte im Online Modus.</string>
+    <string name="dialog_externalstorage_proceedwithout">Auf eigene Gefahr fortfahren</string>
+    <string name="dialog_externalstorage_title">Kein Zugriff auf Speichermedium</string>
+    <string name="dialog_externalstorage_explanation">TheoTown verwendet die Berechtigung auf externen Speicher zuzugreifen um Städte und Regionen in einer benutzerzugreifbaren Art- und Weise abzuspeichern.
+Wir tun dies, um potentiellem Datenverlust vorzubeugen, wie er etwa durch Updates oder Neuinstallation auftreten kann.
+\n\nDas Spiel sollte auch ohne diese Berechtigung lauffähig sein, allerdings können wir dann keine Haftung für verlorene Städte oder fehlerhate Funktionalität übernehmen.</string>
+    <string name="dialog_onlinenotifications_title">Benachrichtigungen</string>
+    <string name="dialog_onlinenotifications_time">vor %1$s</string>
+    <string name="dialog_onlinenotifications_empty">Noch keine Benachrichtigungen</string>
+    <string name="dialog_onlinenotifications_cmdempty">Benachrichtigungen</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Benachrichtigungen (%1$,d)</string>
+    <string name="dialog_reason_title">Grund</string>
+    <string name="dialog_reason_text">Bitte gib für diese Aktion einen Grund an.</string>
+    <string name="store_realtitle">Plugin Store</string>
+    <string name="settings_pushnotificationsonline">Benachrichtigungen über den Online Modus</string>
+    <string name="settings_verticaltoolbar">Vertikales scrollen in Werkzeugleiste</string>
+    <string name="settings_darktoolbar">Dunkle Werkzeugleiste</string>
+    <string name="dialog_tutwelcome_title">Willkommen in TheoTown</string>
+    <string name="dialog_tutwelcome_text">Wir werden jetzt mit der Einführung beginnen, um dir die Grundlagen des Städtebaus näher zu bringen.\n\n
+Du kannst die Einführung überspringen, falls du bereits weißt wie das Spiel funktioniert. Du kannst zudem die Einführung jederzeit im Spielmenü überspringen.</string>
+    <string name="dialog_tutwelcome_cmdskip">Einführung überspringen</string>
+    <string name="dialog_tutwelcome_start">Los geht\'s</string>
+
 </resources>
