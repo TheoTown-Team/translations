@@ -2359,9 +2359,9 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_removeowner_text">Sigurado ka po bang gusto n\'yong tanggalin si %1$s sa tipak na \'to?\n\nHindi na po ito mababawi.</string>
     <string name="dialog_removeowner_cmdremove">Tanggalin</string>
     <string name="stage_regioncity_lastplayed">Hulíng nalaro: %1$s ang nakalipas</string>
-    <string name="ci_loan_get_text2">Presyo: %1$s
+    <string name="ci_loan_get_text2">Halaga: %1$s
 \nItatagal: %2$,d (mga) buwan
-\nBuwanang presyo: %3$s</string>
+\nBuwanang halaga: %3$s</string>
     <string name="settings_uianimations">Mga Animasyon</string>
     <string name="dialog_configureregion_password">Password</string>
     <string name="dialog_configureregion_password_desc">Dito, makakapagtalaga ka ng bagong password. Hayaan itong blangko upang magamit pa rin ang kasalukuyan.</string>
@@ -2431,5 +2431,33 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_deletegift_title">Burahin ang regalo</string>
     <string name="dialog_deletegift_text">Sigurado ka po bang gusto mong burahin ang regalo? Hindi na po ito mababawi.</string>
     <string name="dialog_deletegift_cmd">Burahin</string>
+
+
+    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
+    <string name="dialog_uploadregiontoobig_title">Upload region</string>
+    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
+    <string name="channel_onlinemode_title">Online mode</string>
+    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
+    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
+    <string name="dialog_externalstorage_title">No access to external storage</string>
+    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
+By doing so we can circumvent potential data loss caused by app updates or re-installation.
+\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
+    <string name="dialog_onlinenotifications_title">Notifications</string>
+    <string name="dialog_onlinenotifications_time">%1$s ago</string>
+    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
+    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
+    <string name="dialog_reason_title">Reason</string>
+    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
+    <string name="store_realtitle">Plugin Store</string>
+    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
+    <string name="settings_verticaltoolbar">Vertical toolbar</string>
+    <string name="settings_darktoolbar">Dark toolbar</string>
+    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
+    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
+You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
+    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
+    <string name="dialog_tutwelcome_start">Let\'s go</string>
 
 </resources>
