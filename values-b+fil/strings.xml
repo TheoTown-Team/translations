@@ -13,7 +13,7 @@
     <string name="welcome_agree">Pumapayag ako</string>
     <string name="welcome_content">Maligayang Pagdating sa TheoTown
 
-\n\nAng app na \'to ay patuloy na nililinang. Maging maláy na may mangilan-ngilan pang maliliit na bugs. Pakiusap huwag pong ibaba ang pagtingin sa proyektong ito nang dahil lamang sa mga maliliit na isyu. Pakatatandaan na ito ay libre.
+\n\nAng app na \'to ay patuloy na pinauuswag. Maging maláy na may mangilan-ngilan pang maliliit na bugs. Pakiusap huwag pong ibaba ang pagtingin sa proyektong ito nang dahil lamang sa mga maliliit na isyu. Pakatatandaan na ito ay libre.
 
 \n\nKung nagustuhan po ninyo ang app, maaari po ninyo kaming suportahan sa pamamagitan ng pagbanggit nito sa iyong mga kaibigan.
 
@@ -709,8 +709,8 @@
     <string name="influence_management_text">Namamahala sa iyong lungsod.</string>
     <string name="happiness_management">Pamahalaan</string>
     <string name="dialog_oldmap_title">Sinaunang Lungsod</string>
-    <string name="dialog_oldmap_text">Ang TheoTown ay nadebelop nang maraming beses mula noong nilikha ang lungsod na ito. Malamang po na hindi ito gagana gaya ng inaasahan. Pakiusap, huwag po kayong mainis sa amin. (◕‿◕✿)</string>
-    <string name="dialog_oldmap_cmdproceed">Ipagpatuloy</string>
+    <string name="dialog_oldmap_text">Ang TheoTown ay napauswag nang maraming beses mula noong nilikha ang lungsod na ito. Malamang po na hindi ito gagana gaya ng inaasahan. Pakiusap, huwag po kayong mainis sa amin. (◕‿◕✿)</string>
+    <string name="dialog_oldmap_cmdproceed">Magpatuloy</string>
     <string name="dialog_oldmap_cmdcancel">Kanselahin</string>
     <string name="notify_bad_health">Mahina po ang kalusugan dito. Kailangan po ninyong mapahusay ang kapaligiran o kaya magpatayo po ng pagamutan.</string>
     <string name="dialog_rename_cmdok">Pangalanan</string>
@@ -761,7 +761,7 @@
     <string name="settings_autountouchable">Magtakda ng sariling napapanatiling gusali</string>
     <string name="draft_alert_swat00_title">Tumawag ng SWAT</string>
     <string name="draft_alert_swat00_text">Kapag may kaguluhan, SWAT lang ang makakahawak nito.</string>
-    <string name="control_continue">Ipagpatuloy</string>
+    <string name="control_continue">Magpatuloy</string>
     <string name="settings_winter">Taglamig</string>
     <string name="notify_riot_reason">May kaguluhan po dahil sa %1$s!</string>
     <string name="notify_riot_noreason">May kaguluhan po nang walang dahilan!</string>
@@ -2403,7 +2403,7 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_confirmsendgift_title">Magpadala ng regalo</string>
     <string name="dialog_confirmsendgift_text">Magaling! Magpapadala ka po ng regalo kay %1$s.</string>
     <string name="settings_category_tools">Kasangkapan (Tools)</string>
-    <string name="settings_category_gameplay">Gameplay</string>
+    <string name="settings_category_gameplay">Paglalaro (Gameplay)</string>
     <string name="settings_autosavewhenleaving">Awtomatikong ilagak (Save) ang lungsod kapag umalis sa lungsod</string>
     <string name="stage_regioncity_visits">Pagbisita: %1$,d</string>
     <string name="dialog_missingplugins_total">Ginagamit na plugins</string>
@@ -2433,31 +2433,31 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_deletegift_cmd">Burahin</string>
 
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
-    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
-By doing so we can circumvent potential data loss caused by app updates or re-installation.
-\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
+    <string name="dialog_insufficientspace2_text">Kung sa palagay mo ito ay isang isyu sa pag-uulat, mangyaring tiyakin na aktuwal na may akses ang app sa external storage.</string>
+    <string name="dialog_uploadregiontoobig_title">Mag-upload ng rehiyon</string>
+    <string name="dialog_uploadregiontoobig_text">Masyadong malaki ang rehiyong ito para mai-upload :/</string>
+    <string name="channel_onlinemode_title">Online Mode</string>
+    <string name="channel_onlinemode_text">Bagong impormasyon tungkol sa iyong lungsod sa online mode.</string>
+    <string name="dialog_externalstorage_proceedwithout">Magpatuloy sa sariling pangamba</string>
+    <string name="dialog_externalstorage_title">Walang akses sa external storage</string>
+    <string name="dialog_externalstorage_explanation">Ginagamit ng TheoTown ang pahintulot sa external storage upang mailagak (save) ang mga lungsod at rehiyon sa paraang naaakses ng user.
+Sa pamamagitan nito ay maaaring maiwasan ang mga potensiyal na pagkawala ng data na dulot ng mga pag-update o muling pag-install ng app.
+\n\nAng laro ay gagana kahit wala ang pahintulot na ito. Gayunman, wala kaming pananagutan sa mga potensiyal na pagkawala ng data o sirang pag-andar na dulot ng paggamit ng internal storage.</string>
+    <string name="dialog_onlinenotifications_title">Notipikasyon</string>
+    <string name="dialog_onlinenotifications_time">%1$s ang nakalipas</string>
+    <string name="dialog_onlinenotifications_empty">Wala pang notipikasyon</string>
+    <string name="dialog_onlinenotifications_cmdempty">Notipikasyon</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Notipikasyon (%1$,d)</string>
+    <string name="dialog_reason_title">Dahilan</string>
+    <string name="dialog_reason_text">Upang ituloy, tukuyin ang dahilan para sa aksiyong ito.</string>
     <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="settings_pushnotificationsonline">Notipikasyon sa online mode</string>
+    <string name="settings_verticaltoolbar">Patayong toolbar</string>
+    <string name="settings_darktoolbar">Madilim na toolbar</string>
+    <string name="dialog_tutwelcome_title">Maligayang Pagdating po sa TheoTown</string>
+    <string name="dialog_tutwelcome_text">Uumpisahan na po natin ang tutoryal para ituro sa inyo ang mga pangunahing batayan sa kung paano makakabuo ng sariling lungsod.\n\n
+Lakatwan ang tutoryal kung alam n\'yo na po maglaro. Malalaktawan ninyo ang tutoryal anumang oras sa menu ng laro.</string>
+    <string name="dialog_tutwelcome_cmdskip">Laktawan ang tutoryal</string>
+    <string name="dialog_tutwelcome_start">Tara na</string>
 
 </resources>
