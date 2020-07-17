@@ -234,7 +234,7 @@
     <string name="buildinginfo_habitants">Dân Số: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Nhân Công: %1$,d/%2$,d</string>
     <string name="topic_giveup">Không Bao Giờ Bỏ Cuộc!</string>
-    <string name="dialog_screenshot_error">Không Thể Lưu Lại %1$s. Xem Lại Quyền Cho Phép Của Game.</string>
+    <string name="dialog_screenshot_error">Không Thể Lưu %1$s. Xem Lại Quyền Cho Phép Của Game.</string>
     <string name="settings_energysaving">Chế độ tiết kiệm pin</string>
     <string name="about_idea">Ý tưởng</string>
     <string name="about_programming">Nhà sản xuất</string>
@@ -266,8 +266,8 @@
     <string name="draft_busstop00_title">Trạm xe buýt</string>
     <string name="draft_busstop00_text">Hãy đi xe buýt để không bị tắc đường.</string>
     <string name="settings_orientation">Hướng Màn Hình</string>
-    <string name="settings_orientationlandscape">Dọc</string>
-    <string name="settings_orientationportrait">Ngang</string>
+    <string name="settings_orientationlandscape">Ngang</string>
+    <string name="settings_orientationportrait">Dọc</string>
     <string name="settings_orientationauto">Tự động</string>
     <string name="draft_busdepot00_title">Bến xe</string>
     <string name="draft_busdepot00_text">Cần nó để tạo ra xe buýt.</string>
@@ -297,9 +297,9 @@
     <string name="ci_water_ratio">Sử dụng: %1$.1f%%</string>
     <string name="ci_general_cityname">Tên thành phố: %1$s</string>
     <string name="ci_general_population">Tổng dân số: %1$,d</string>
-    <string name="draftselector_titlerawbuilding">Tất cả tòa nhà:</string>
+    <string name="draftselector_titlerawbuilding">Tất cả tòa nhà: </string>
     <string name="budget_busdepot">Bến xe buýt</string>
-    <string name="ci_budget_overallincome">Tổng số tiền kiếm được</string>
+    <string name="ci_budget_overallincome">Tổng số tiền kiếm được: </string>
     <string name="ci_budget_overallspending">Tổng số tiền dư: </string>
     <string name="ci_rci_title">Đề Nghị</string>
     <string name="ci_rci_res0">Dân Cư ₮</string>
@@ -319,9 +319,9 @@
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d nâng cấp khả dụng</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d nâng cấp</string>
-    <string name="buildinginfo_construction">Đang trong quá trình xây dựng: %1$.0f%% (Còn %2$,d ngày)</string>
+    <string name="buildinginfo_construction">Đang trong quá trình xây dựng. Hoàn tất %1$.0f%%, còn %2$,d ngày.</string>
     <string name="draft_footballstadion00_title">Sân vận động</string>
-    <string name="draft_footballstadion00_text">Một Sân vận động.</string>
+    <string name="draft_footballstadion00_text">Một sân vận động.</string>
     <string name="buildinginfo_cmdupgrade">Nâng cấp</string>
     <string name="draft_footballstadion00_lights_title">Đèn</string>
     <string name="draft_footballstadion00_lights_text">Đèn cho sân vận động.</string>
@@ -343,17 +343,17 @@
     <string name="draft_middlepark00_lights_text">Nơi tổ chức tiệc tùng.</string>
     <string name="draft_middlepark00_clock_title">Đồng hồ</string>
     <string name="draft_middlepark00_clock_text">Cho mọi người biết giờ giấc.</string>
-    <string name="notify_power_low">Không còn nhiều điện nữa. Có lẽ bạn phải xây dựng thêm nơi sản xuất điện.</string>
-    <string name="notify_water_low">Thành phố này còn ít nước. Xây dựng một nhà máy bơm nước mới.</string>
-    <string name="notify_religion">Bạn có thể xây cho chúng tôi một ngôi nhà thờ chứ?</string>
+    <string name="notify_power_low">Không còn nhiều điện nữa. Có lẽ bạn phải xây thêm nơi sản xuất điện.</string>
+    <string name="notify_water_low">Thành phố này không còn nhiều nước nữa. Xây thêm một nhà máy bơm nước mới.</string>
+    <string name="notify_religion">Bạn có thể xây cho chúng tôi một nhà thờ chứ?</string>
     <string name="notify_park">Chúng tôi muốn nhiều công viên hơn.</string>
-    <string name="notify_sport">Chúng tôi muốn vận động.</string>
+    <string name="notify_sport">Chúng tôi muốn có nơi để chơi thể thao.</string>
     <string name="buildinginfo_happiness">Tổng hạnh phúc: %1$.0f%%</string>
     <string name="notify_noenergy">Có một số công trình thiếu điện!</string>
     <string name="notify_nowater">Có một số công trình thiếu nước!</string>
-    <string name="draft_footballstadion00_roof_title">Mái</string>
+    <string name="draft_footballstadion00_roof_title">Mái che</string>
     <string name="draft_footballstadion00_roof_text">Nó có thể giúp trận đấu chơi được bất cứ lúc nào.</string>
-    <string name="draft_footballstadion00_fanshop_title">Cửa hàng cổ động viên</string>
+    <string name="draft_footballstadion00_fanshop_title">Cửa hàng cho cổ động viên</string>
     <string name="draft_footballstadion00_fanshop_text">Dành cho các cổ động viên.</string>
     <string name="notify_requirementbuilding">Bạn mở khóa %1$s.</string>
     <string name="notify_requirementupgrade">Xin chúc mừng, bạn đã mở khóa được nâng cấp %1$s cho %2$s!</string>
@@ -369,7 +369,7 @@
     <string name="draft_alert_fire00_title">Gọi cứu hỏa</string>
     <string name="draft_alert_fire00_text">Để chửa cháy.</string>
     <string name="draft_alert_medic00_title">Gọi cứu thương</string>
-    <string name="draft_alert_medic00_text">Khi có tai nạn xảy ra thì phải gọi xe cứu thương.</string>
+    <string name="draft_alert_medic00_text">Khi có tai nạn hoặc ai đó bị bệnh thì phải gọi cứu thương.</string>
     <string name="buildinginfo_powerusage">Sử dụng: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Sử dụng: %1$.1f%%</string>
     <string name="settings_maxzoomout">Thu phóng tối đa</string>
@@ -387,7 +387,7 @@
     <string name="happiness_transportation">Giao thông</string>
     <string name="happiness_water">Nước</string>
     <string name="happiness_zone">Khu</string>
-    <string name="buildinginfo_happiness_comp">Hạnh phúc thấp nhất: %2$.0f%% (%1$s)</string>
+    <string name="buildinginfo_happiness_comp">Hạnh phúc thấp nhất: %2$.0f%% (chỉ %1$s)</string>
     <string name="draftselector_titlereligion">Tôn giáo</string>
     <string name="draft_church01_title">Nhà thờ</string>
     <string name="draft_church01_text">Một nhà thờ.</string>
@@ -426,7 +426,7 @@
     <string name="topic_birthday_lucasking">Chức mừng sinh nhật Lucas!</string>
     <string name="tutorial_title">Hướng dẫn</string>
     <string name="tutorial_welcome">Chào mừng đến phần hướng dẫn!</string>
-    <string name="tutorial_minimap">Bạn luôn luôn có thể mở hoặc tắt minimap.</string>
+    <string name="tutorial_minimap">Bạn luôn có thể mở hoặc tắt minimap.</string>
     <string name="tutorial_buildroad_a">Bắt đầu với phần làm đường. Chọn loại đường đơn giản nhất.</string>
     <string name="tutorial_buildroad_b">Tạo đường trên các vạch kẻ. Đầu tiên chạm vào điểm bắt đầu, sau đó nhấn vào điểm kết thúc để tạo đường.</string>
     <string name="tutorial_buildroad_c">Tốt lắm! Giờ đóng phần xây dựng đường.</string>
@@ -441,7 +441,7 @@
     <string name="tutorial_buildwater_c">Giỏi quá!</string>
     <string name="tutorial_buildpipe_a">Xây thùng nước là chưa xong. Bạn cần xây ống để vận chuyển nước.</string>
     <string name="tutorial_buildpipe_b">Đặt nó trên các ô.</string>
-    <string name="tutorial_buildpipe_c">Tốt lắm. Giờ đặt các khu.</string>
+    <string name="tutorial_buildpipe_c">Tốt lắm. Giờ, chúng ta sẽ đến với các khu.</string>
     <string name="tutorial_buildzones">Có 3 loại khu.</string>
     <string name="tutorial_buildresidential_a">Tạo khu dân cư trước.</string>
     <string name="tutorial_buildresidential_b">Đặt nó trên các ô.</string>
@@ -495,7 +495,7 @@
     <string name="ci_loan_title">Khoản vay</string>
     <string name="ci_loan_donate">Xin bạn đấy</string>
     <string name="ci_loan_get">Nâng khoản nợ</string>
-    <string name="ci_loan_donate_text">Làm ơn cho tôi một đồng đi, tôi cần nó.</string>
+    <string name="ci_loan_donate_text">Nếu muốn, bản có thể quyên góp cho chúng tôi.</string>
     <string name="ci_loan_get_text">Khoản vay mặc định, 10,000₮
 \nKhoảng thời gian: 24 tháng
 \nsố tiền mỗi tháng: 500₮</string>
@@ -508,8 +508,8 @@
     <string name="disaster_nuke_text">Đừng như Kim Jong Un.</string>
     <string name="disaster_nuke_cmdtext">Thử tí đi</string>
     <string name="budget_loans">Khoản vay</string>
-    <string name="ci_loan_loanlist">Khoản vay chủ động (tổng cộng %1$s trong %2$,d/%3$,d nợ):</string>
-    <string name="ci_loan_remaining_runtime">Thời gian còn lại: %2$,d tháng, %1$,d ngày</string>
+    <string name="ci_loan_loanlist">Khoản vay chủ động (tổng cộng %1$s trong %2$,d/%3$,d):</string>
+    <string name="ci_loan_remaining_runtime">Thời gian còn lại: %2$,d tháng, %1$,d ngày.</string>
     <string name="ci_loan_paybackcost">Số tiền cần trả: %1$s</string>
     <string name="ci_loan_estate">Bất động sản: %1$s</string>
     <string name="topic_support_ads">Bạn có thể ủng hộ chúng tôi bằng cách nhấn vào quảng cáo.</string>
@@ -569,7 +569,7 @@
     <string name="influence_education_low_text">Các trường cung cấp bậc Tiểu học.</string>
     <string name="influence_education_high_text">Học sinh lớn hơn được cung cấp bởi trường Trung học.</string>
     <string name="influence_firedep_text">Ảnh hưởng của PCCC đến thành phố của bạn.</string>
-    <string name="influence_health_text">Bệnh viện giúp cho dân được khỏe.</string>
+    <string name="influence_health_text">Bệnh viện giúp cho người dân được khỏe.</string>
     <string name="influence_noise_text">Không ai muốn sống trong một nơi ồn ào.</string>
     <string name="influence_park_text">Giúp cho dân của bạn vui và xây dựng được các tòa nhà có giá trị cao.</string>
     <string name="influence_police_text">Tránh được hoạt động của tội phạm.</string>
@@ -577,7 +577,7 @@
     <string name="influence_religion_text">Khu vực được hưởng lợi từ tôn giáo.</string>
     <string name="influence_sport_text">Người dân của bạn sẽ khỏe manhh bởi việc chơi thể thao.</string>
     <string name="draftselector_cmdShow">Xem</string>
-    <string name="ca_education_low_text">Giáo dục tiểu học và THCS: %1$,d/%2$,d học sinh</string>
+    <string name="ca_education_low_text">Giáo dục Tiểu học và THCS: %1$,d/%2$,d học sinh</string>
     <string name="ca_education_high_text">Giáo dục THPT và Đại học: %1$,d/%2$,d học sinh</string>
     <string name="ca_health_text">Y tế: %1$,d/%2$,d bệnh nhân</string>
     <string name="gamemode_nomoney">Không cần tiền</string>
@@ -673,9 +673,9 @@
     <string name="draft_rail00_text">Cho một số tàu lửa.</string>
     <string name="draft_railwaystation00_title">Nhà ga</string>
     <string name="draft_railwaystation00_text">Nhà ga cho tàu khách.</string>
-    <string name="draft_school02_title">Trường nhỏ</string>
+    <string name="draft_school02_title">Trường học nhỏ</string>
     <string name="draft_school02_text">Một ngôi trường nhỏ cho một thị trấn.</string>
-    <string name="toolremove_zone_title">Xóa Khu</string>
+    <string name="toolremove_zone_title">Xóa khu</string>
     <string name="toolremove_zone_text">Dùng nó để xóa các khu.</string>
     <string name="budget_rail">Đường sắt</string>
     <string name="budget_railstation">Ga đường sắt</string>
@@ -698,7 +698,7 @@
     <string name="notify_noindzone">Hãy xây các khu công nghiệp nhưng đừng xây chúng gần nhà bạn.</string>
     <string name="createcity_sizebigbigbig">Khổng lồ</string>
     <string name="locale">en</string>
-    <string name="draft_police02_title">Trụ Sở SWAT. </string>
+    <string name="draft_police02_title">Trụ Sở SWAT.</string>
     <string name="draft_police02_text">Biệt đội tinh nhuệ nhất.</string>
     <string name="settings_blur">Sương mù</string>
     <string name="happiness_supply">Cung cấp</string>
@@ -710,7 +710,7 @@
     <string name="influence_management_text">Điều khiển thành phố của bạn.</string>
     <string name="happiness_management">Quản lý</string>
     <string name="dialog_oldmap_title">Thành phố cổ</string>
-    <string name="dialog_oldmap_text">TheoTown đã phát triển rất nhiều kể từ khi thành phố này đã được tạo ra. Do đó, nó có thể không hoạt động như mong đợi. Xin đừng ghét chúng tôi (◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">TheoTown đã phát triển rất nhiều kể từ khi thành phố này đã được tạo ra. Do đó, nó có thể không hoạt động như mong đợi. Xin đừng ghét chúng tôi!</string>
     <string name="dialog_oldmap_cmdproceed">Không đâu!</string>
     <string name="dialog_oldmap_cmdcancel">Hủy</string>
     <string name="notify_bad_health">Y tế kém. Bạn cần xây thêm nhiều bệnh viện hơn.</string>
@@ -765,11 +765,11 @@
     <string name="control_continue">Tiếp tục</string>
     <string name="settings_winter">Mùa đông</string>
     <string name="notify_riot_reason">Có một vụ đảo chính vì %1$s!</string>
-    <string name="notify_riot_noreason">Có một cuộc đảo chính không lý do</string>
+    <string name="notify_riot_noreason">Có một cuộc đảo chính không lý do!</string>
     <string name="notify_demonstration">Có một cuộc biểu tình vì %1s! Làm điều gì đó nếu không chuyện xấu hơn sẽ xảy ra!</string>
     <string name="draft_marker_powermarker_title">Điện</string>
     <string name="draft_marker_watermarker_title">Nước</string>
-    <string name="draft_road04_title">đại lộ</string>
+    <string name="draft_road04_title">Đại lộ</string>
     <string name="draft_road05_title">Xa lộ</string>
     <string name="draft_road04_text">Một con đường đẹp với cây.</string>
     <string name="draft_road05_text">Một con đường tốt để kết nối các địa điểm xa.</string>
@@ -796,10 +796,10 @@
     <string name="draft_decoroad00_text">.</string>
     <string name="settings_experimental">Các tính năng thử nghiệm</string>
     <string name="about_thanks">Lời cảm ơn sâu sắc tới</string>
-    <string name="about_community">Và phần còn lại của cộng đồng chúng tôi</string>
-    <string name="dialog_tosandbox_title">Chế độ của nhà phát triển</string>
+    <string name="about_community">Và phần còn lại là cộng đồng của chúng tôi</string>
+    <string name="dialog_tosandbox_title">Chế độ của Nhà phát triển</string>
     <string name="dialog_tosandbox_text">Chuyển đổi thành phố sang chế độ Nhà phát triển?\n\nĐiều này không thể hoàn thành!</string>
-    <string name="dialog_tosandbox_cmdconvert">Chế độ nhà phát triển</string>
+    <string name="dialog_tosandbox_cmdconvert">Chế độ Nhà phát triển</string>
     <string name="requirement_rank">Cần ít nhất %1$s (%2$,d)</string>
     <string name="ca_wastedisposal_text">Xử lí chất thải: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Tang lễ: %1$,d/%2$,d</string>
@@ -837,14 +837,14 @@
     <string name="requirement_feature">Một phần của %s</string>
     <string name="draft_feature_military00_title">Căn cứ quân sự</string>
     <string name="draft_feature_airport00_title">Sân bay</string>
-    <string name="draft_feature_buildings00_title">Gói công trình 1</string>
-    <string name="draft_feature_buildings01_title">Gói công trình 2</string>
-    <string name="draft_feature_buildings02_title">Gói công trình 3</string>
+    <string name="draft_feature_buildings00_title">Gói công trình I</string>
+    <string name="draft_feature_buildings01_title">Gói công trình II</string>
+    <string name="draft_feature_buildings02_title">Gói công trình III</string>
     <string name="draft_feature_services00_title">Gói dịch vụ</string>
     <string name="draft_feature_tourism00_title">Gói du lịch</string>
     <string name="draft_feature_premium00_title">Premium</string>
-    <string name="features_money">Lấy %1$s cho %2$s</string>
-    <string name="features_getrank">Nhận hạng bây giờ</string>
+    <string name="features_money">Lấy %1$s bằng %2$s kim cương</string>
+    <string name="features_getrank">Lên hạng này bây giờ</string>
     <string name="settings_hide_rank_features">Ẩn nâng cấp</string>
     <string name="draftselector_titleairport">Sân bay</string>
     <string name="disaster_ufo_title">UFO</string>
@@ -857,7 +857,7 @@
     <string name="topic_build">Tôi sẽ xây dựng thành phố này với các tòa nhà cao tầng và công viên</string>
     <string name="topic_news">Tin tốt đây mọi người!</string>
     <string name="topic_welcome">Chào mừng quay trở lại.</string>
-    <string name="topic_spoon">Không có thìa trên bàn ăn</string>
+    <string name="topic_spoon">Không có thìa trên bàn ăn.</string>
     <string name="topic_relax">Nó chỉ là một trò chơi thôi!</string>
     <string name="topic_cats">Mèo thật đáng yêu!</string>
     <string name="topic_force">Mạnh mẽ lên!</string>
@@ -893,11 +893,11 @@
     <string name="dialog_present_cmdok">Cảm ơn bạn</string>
     <string name="settings_saveminimap">Lưu minimap</string>
     <string name="ci_budget_doublemoney_title">Gấp đôi số tiền thu nhập</string>
-    <string name="ci_budget_doublemoney_text">Gấp đôi số tiền thu nhập cho %1$,d ngày.</string>
+    <string name="ci_budget_doublemoney_text">Gấp đôi số tiền thu nhập trong %1$,d ngày.</string>
     <string name="ci_budget_getmoney_title">Nhận %1$s</string>
     <string name="ci_budget_getmoney_text">Trao đổi %1$s cho một khoảng bồi thường nhỏ.</string>
-    <string name="notify_badattribute">Chúng ta phải cải tiến %1$s hạnh phúc để %2$s chuyển đến thành phố của bạn.</string>
-    <string name="game_remaining_doubleincome">Gấp đôi số tiền thu nhập cho %1$,d ngày</string>
+    <string name="notify_badattribute">Chúng ta phải cải tiến hạnh phúc của %1$s để %2$s cư dân chuyển đến thành phố của bạn.</string>
+    <string name="game_remaining_doubleincome">Gấp đôi số tiền thu nhập trong %1$,d ngày</string>
     <string name="dialog_diamondshop_title">Cửa hàng</string>
     <string name="features_notenough">Không đủ %1$s</string>
     <string name="dialog_getrank_text">Bạn có thể mở khóa cấp bậc này ngay lập tức, nếu bạn muốn.</string>
@@ -938,10 +938,10 @@
     <string name="menu_achievements">Thành tích</string>
     <string name="menu_leaderboards">Bảng xếp hạng</string>
     <string name="menu_screenshot">Chụp ảnh</string>
-    <string name="menu_mapscreenshot">Chụp ảnh map</string>
+    <string name="menu_mapscreenshot">Chụp ảnh bản đồ</string>
     <string name="menu_save">Lưu</string>
     <string name="menu_title">Menu</string>
-    <string name="region_maxconcurrentunlocks">Không thể mở khóa  %1$,d map cùng lúc.</string>
+    <string name="region_maxconcurrentunlocks">Không thể mở khóa %1$,d bản đồ cùng lúc.</string>
     <string name="dialog_unlocktime_title">Thời gian ngắn</string>
     <string name="dialog_unlocktime_text">Cần rất nhiều công việc để mở khóa một bản đồ. Bạn có thể ủng hộ chúng tôi? Điều này có thể làm giảm thời gian mở khóa tới 30 phút.</string>
     <string name="region_speedup">Tăng tốc độ</string>
@@ -967,13 +967,13 @@
     <string name="dialog_rate_title">Bạn có thích Theotown không?</string>
     <string name="dialog_rate_text">Vậy hãy đánh giá chúng tôi. Nó chỉ mất một chút thời gian thôi.</string>
     <string name="dialog_rate_cmdok">Tôi thích nó</string>
-    <string name="dialog_rate_cmdcancel">Tôi khônh thích nó</string>
+    <string name="dialog_rate_cmdcancel">Tôi không thích nó</string>
     <string name="dialog_feedback_title">Để lại nhận xét cho chúng tôi</string>
     <string name="dialog_feedback_text">Có lời góp ý nào để cải tiến trò chơi không? Hãy cho chúng tôi biết.</string>
     <string name="dialog_feedback_cmdok">Có</string>
     <string name="dialog_feedback_cmdcancel">Không</string>
     <string name="dialog_buildnow_title">Hoàn thiện ngay</string>
-    <string name="dialog_buildnow_text">Bạn có muốn bỏ qua %1$,d ngày?</string>
+    <string name="dialog_buildnow_text">Bạn có muốn bỏ qua %1$,d ngày xây dựng?</string>
     <string name="draft_launch_rocket_title">Phóng tên lửa</string>
     <string name="draft_decoconstruction00_title">Xây dựng</string>
     <string name="draft_decoconstruction00_text">Một số chi tiết xây dựng.</string>
@@ -993,17 +993,17 @@
     <string name="draft_mltry_road00_text">Một con đường dành riêng cho khu vực quân sự.</string>
     <string name="draft_mltry_hq00_text">Là thứ quan trọng nhất cho căn cứ của bạn.</string>
     <string name="draft_mltry_baracks00_text">Lính sống ở đây.</string>
-    <string name="draft_mltry_depot00_text">Nơi đựng hàng hóa quân đội.</string>
-    <string name="draft_mltry_tankbase00_text">Đựng các thiết bị quân sự tiên tiến.</string>
+    <string name="draft_mltry_depot00_text">Nơi chứa hàng hóa quân đội.</string>
+    <string name="draft_mltry_tankbase00_text">Chứa các thiết bị quân sự tiên tiến.</string>
     <string name="draft_mltry_rocketlauncher00_text">Dùng nó để bắn UFO.</string>
     <string name="draft_mltry_missilesilo00_text">Chính phủ muốn làm một số thử nghiệm tên lửa tại thị trấn của bạn. Vì điều này có thể dẫn đến hiểm hoa cho thị trấn của bạn.</string>
     <string name="draft_decosmallmountain00_text">Núi nhỏ này là điểm thu hút khách du lịch trong vùng đất bằng phẳng này.</string>
     <string name="draft_feature_mountain00_text">Núi nhỏ này là điểm thu hút khách du lịch trong vùng đất bằng phẳng này.</string>
     <string name="dialog_connect_title">Kết nối các bang với nhau</string>
     <string name="dialog_connect_text">Bạn có muốn thành lập một đường kết nối ra bên ngoài?</string>
-    <string name="menu_hideui">Ẩn UI</string>
+    <string name="menu_hideui">Ẩn giao diện</string>
     <string name="ci_neighbor_title">Giao thương giữa các bang</string>
-    <string name="ci_neighbor_notavailable">Ko khả dụng bây giờ</string>
+    <string name="ci_neighbor_notavailable">Không khả dụng bây giờ</string>
     <string name="ci_neighbor_import">Nhập khẩu</string>
     <string name="ci_neighbor_export">Xuất khẩu</string>
     <string name="energy">%1$,dkW</string>
@@ -1011,16 +1011,16 @@
     <string name="ci_neighbor_power">Điện</string>
     <string name="ci_neighbor_water">Nước</string>
     <string name="dialog_buy_free">Miễn phí</string>
-    <string name="notify_missiledisaster">Oops...Tôi lo ngại rằng tên lửa cuối cùng của chúng ta cũng không thể ngăn chặn nó.</string>
-    <string name="notification00_title">NEWS: %1$s có quá nhiều tiền</string>
-    <string name="notification00_text">Thị trưởng, chúng tôi cân bạn giành dụm tất cả số tiền!</string>
+    <string name="notify_missiledisaster">Ô! Tôi lo ngại rằng tên lửa cuối cùng của chúng ta cũng không thể ngăn chặn nó.</string>
+    <string name="notification00_title">Tin nóng: %1$s có quá nhiều tiền!</string>
+    <string name="notification00_text">Thị trưởng, chúng tôi cần bạn giành dụm tiền!</string>
     <string name="roadinfo_bridgetype">Kiểu cầu</string>
     <string name="draft_feature_buildings01_text">Khu dân cư, thương mại và công nghiệp lớn cho nhiều loại khác nhau trong thành phố. Tăng mức sống của cư dân.</string>
     <string name="dialog_diamondshop_recommended">Khuyến nghị</string>
     <string name="dialog_presentdaily_title">Phần quà mỗi ngày</string>
-    <string name="dialog_presentdaily_text">Bạn sẽ nhận nó vào ngày mai.</string>
+    <string name="dialog_presentdaily_text">Bạn sẽ lại nhận được nó vào ngày mai.</string>
     <string name="dialog_presentdaily_day">Ngày %1$,d</string>
-    <string name="rank_needed_xp">Ít nhất %1$,d điểm thành phố đạt được</string>
+    <string name="rank_needed_xp">Cần %1$,d điểm cho thành phố của bạn</string>
     <string name="settings_shortmoney">Khoảng tiền viết tắt</string>
     <string name="dialog_newsign_title">Bảng mới</string>
     <string name="dialog_newsign_text">Đặt tên của nó vào đây.</string>
@@ -1032,10 +1032,10 @@
     <string name="draft_feature_deco00_title">Chi tiết cho quảng trường</string>
     <string name="draft_feature_deco00_text">Một số chi tiết cho khu thương mại của bạn.</string>
     <string name="draft_feature_slowspeed00_title">Tốc độ chậm</string>
-    <string name="draft_feature_slowspeed00_text">Một chế độ chậm giúp bạn điều khiển cho những trường hợp dễ dàng.</string>
+    <string name="draft_feature_slowspeed00_text">Một chế độ chậm giúp bạn điều khiển cho các trường hợp dễ dàng.</string>
     <string name="buildinginfo_patrol">Tuần tra</string>
     <string name="draft_beach_gnd00_title">Cát</string>
-    <string name="draft_beach_gnd00_text">Chỉ là cát.</string>
+    <string name="draft_beach_gnd00_text">Chỉ là cát</string>
     <string name="draft_searocks00_title">Đá biển</string>
     <string name="draft_searocks00_text">Đá biển trên nước</string>
     <string name="createcity_decos">Với các chi tiết</string>
@@ -1048,7 +1048,7 @@
     <string name="draft_feature_firestation00_text">Một trụ sở với nhiều xe cứu hỏa, trực thăng.</string>
     <string name="draft_feature_gocart00_title">Đường đua</string>
     <string name="draft_feature_gocart00_text">Nó sẽ tạo ra những chiếc xe đua trên đường.</string>
-    <string name="draft_firedepartment02_text">Có bán kính lớn và nhiều ô tô. Hữu ích để ngăn ngừa hoặc dập tắt đám cháy.</string>
+    <string name="draft_firedepartment02_text">Có bán kính lớn và nhiều xe. Hữu ích để ngăn ngừa hoặc dập tắt đám cháy.</string>
     <string name="draft_prmgocart00_title">Đường đua</string>
     <string name="draft_prmgocart00_text">Sẽ tạo ra những chiếc xe đua trên đường.</string>
     <string name="settings_smoothscrolling">Di chuyển mượt mà</string>
@@ -1066,46 +1066,46 @@
     <string name="tut_build030">Nhìn kìa, một số căn nhà không có điện!</string>
     <string name="tut_build04">Đương nhiên rồi, hãy xây một số nhà máy điện gần xa lộ.</string>
     <string name="tut_build05">Giờ chúng ta cần xây đường điện để kết nối điện cho người dân.</string>
-    <string name="tut_build06">Việc xây dựng nó sẽ mất một thời gian. Bạn có thể chờ hoặc nhấn vào nó để đẩy nhanh quá trình xây dựng miễn phí.</string>
-    <string name="tut_build07">Được rồi chúng ta đã có điện. Nhưng đợi đã, người dân cũng cần nước?</string>
+    <string name="tut_build06">Việc xây dựng nó sẽ mất một thời gian. Bạn có thể chờ hoặc nhấn vào kim cương để đẩy nhanh quá trình xây dựng miễn phí.</string>
+    <string name="tut_build07">Được rồi chúng ta đã có điện. Nhưng đợi đã, người dân cũng cần nước!</string>
     <string name="tut_build08">Vậy chúng ta hãy xây một số thùng nước để cung cấp nước cho họ.</string>
     <string name="tut_build09">Chúng ta cũng phải đợi nó vì vậy hãy mua chúng bằng một số kim cương.</string>
-    <string name="tut_build10">Chúng ta cần cống nước để vận chuyện nước cho dân.</string>
-    <string name="tut_build11">Tốt , chúng ta đã có đủ nhưng tôi vẫn thấy thiếu điều gì đó.</string>
-    <string name="tut_build110">Thị trưởng, chúng ta ko có nơi để làm việc hoặc mua đồ!</string>
-    <string name="tut_build12">Nhớ ra rồi, chúng ta cần các khu thương mại để dân có việc làm và giúp thành phố của bạn có tiền.</string>
+    <string name="tut_build10">Chúng ta cần cống nước để vận chuyện nước cho người dân.</string>
+    <string name="tut_build11">Tốt, chúng ta đã có đủ nhưng tôi vẫn thấy thiếu điều gì đó.</string>
+    <string name="tut_build110">Thị trưởng, chúng ta không có nơi để làm việc hoặc mua sắm!</string>
+    <string name="tut_build12">Nhớ ra rồi, chúng ta cần các khu thương mại để người dân có việc làm và giúp thành phố của bạn có tiền.</string>
     <string name="tut_build13">Ở đây bạn có thể xem yêu cầu của Khu dân cư, Khu thương mại và Khu công nghiệp.</string>
-    <string name="tut_build14">Mỗi loại chúng ta có 3 levels, đó là : ₮, ₮₮ và ₮₮₮  theo thứ tự là nghèo, trung bình và giàu.</string>
+    <string name="tut_build14">Mỗi loại chúng ta có 3 cấp độ, đó là : ₮, ₮₮ và ₮₮₮  theo thứ tự là nghèo, trung bình và giàu.</string>
     <string name="tut_build15">Đương nhiên chúng ta muốn dân giàu rồi. Nhưng bạn sẽ phải kiên nhẫn. Nhìn kìa, đã có những khu dân cư ₮ được tạo nên rồi đấy.</string>
     <string name="tut_build16">Xây nhiều khu thương mại hơn? Tôi nghĩ bạn có thể làm điều đó.</string>
-    <string name="tut_build17">Thành phố này cần khu công nghiệp. Hãy xât nó xa khu dân cư.</string>
+    <string name="tut_build17">Thành phố này cần khu công nghiệp. Hãy xây nó xa khu dân cư.</string>
     <string name="tut_build18">Trung bình bạn cần càng nhiều khu thương mại và công nghiệp khi bạn có càng nhiều khu nhà ở.</string>
     <string name="tut_build19">Bạn muốn nhìn toàn thành phố này sao. Vậy thì tôi có món quà cho bạn: Minimap.</string>
-    <string name="tut_build22">Tốt, tôi sẽ giới thiệu cho bạn các công cụ "ma thuật".</string>
+    <string name="tut_build22">Tốt, tôi sẽ giới thiệu cho bạn các công cụ "Ma thuật".</string>
     <string name="tut_build23">Ở đây bạn có thể nhìn các thông tin về thành phố của bạn. Bạn có thể đổi tên thành phố bằng cách nhấn vào đó.</string>
     <string name="tut_build24">Một công cụ hữu dụng hơn cho bạn.</string>
     <string name="tut_build25">Nó sẽ cho bạn xem về độ hạnh phúc của cư dân.</string>
     <string name="tut_build26">Sẽ rất tuyệt khi làm được chủ thời gian, đúng không? Hãy thử tua nhanh thời gian.</string>
     <string name="tut_build27">Giờ dừng trò chơi lại.</string>
     <string name="tut_build28">Cuối cùng hãy chỉnh trò chơi về bình thường.</string>
-    <string name="tut_build29">Và cũng có một số công cụ không "ma thuật", như tiền.</string>
-    <string name="tut_build30">Tôi sẽ tổng quát cho bạn về tiền. Chúng ta nhận được tiền từ thuế, cho nên chúng ta phải xây nhiều khu dân cư hơn.</string>
+    <string name="tut_build29">Và cũng có một số công cụ không "Ma thuật", như tiền.</string>
+    <string name="tut_build30">Tôi sẽ tổng quát cho bạn về tiền. Chúng ta nhận được tiền từ thuế, cho nên chúng ta phải xây nhiều khu dân cư.</string>
     <string name="tut_build31">Trong một số trường hợp chúng ta phải đi vay. Mong rằng điều này sẽ ko xảy ra.</string>
     <string name="tut_build32">Giờ chúng ta đã có đủ tiền, hay xây công viên. Mọi người thích công viên.</string>
-    <string name="tut_build33">Oops, chúng ta đã xây thừa một công viên. Hãy xóa nó.</string>
+    <string name="tut_build33">Ô, chúng ta đã xây thừa một công viên. Hãy xóa nó.</string>
     <string name="tut_build34">Tốt lắm, chúng tôi sẽ tặng cho bạn một thứ để xem hạng của thành phố bạn.</string>
     <string name="tut_build35">Hãy tăng dân số và giải quyết các vấn đề để lên hạng. Bạn sẽ mở khóa được nhiều công trình hơn.</string>
-    <string name="tut_build36">Nói về các thảm hoạ, chúng sẽ xảy ra... Bạn sẽ gọi 911 thông qua nó khi khả dụng.</string>
+    <string name="tut_build36">Nói về các thảm hoạ, chúng sẽ xảy ra... Bạn sẽ gọi cảnh sát thông qua nó khi khả dụng.</string>
     <string name="tut_build37">Để hiển thị mọi thứ, bạn có thể sử dụng tab này.</string>
-    <string name="tut_present00">Tôi đã kể cho bạn tất cả những thứ quan trọng, nhưng còn một thứ nữa: Đó là món quà.</string>
+    <string name="tut_present00">Tôi đã kể cho bạn tất cả những thứ quan trọng, nhưng còn một thứ nữa, đó là món quà.</string>
     <string name="tut_present01">Bạn sẽ nhận được chúng mỗi ngày.</string>
     <string name="tut_end00">Nếu bạn đang tìm trang của chúng tôi : www.theotown.com</string>
     <string name="tut_end01">Và giờ, chúc vui vẻ.</string>
 
     <string name="featureselector_time">%1$s của siêu tốc độ</string>
     <string name="draft_feature_time00_title">Điều khiển thời gian</string>
-    <string name="draft_feature_time00_text">Sẽ cho bạn các thời hạn để dùng tốc độ thời gian tối đa.</string>
-    <string name="draft_feature_time01_title">Điều khiển thời gian nhiều hơn</string>
+    <string name="draft_feature_time00_text">Sẽ cho bạn các thời hạn để dùng siêu tốc độ.</string>
+    <string name="draft_feature_time01_title">Điều khiển thời gian lâu hơn</string>
     <string name="draft_feature_time01_text">Bạn có thể sử dụng tốc độ trò chơi siêu nhanh trong một thời gian dài.</string>
     <string name="draft_feature_time02_title">Chủ thời gian</string>
     <string name="draft_feature_time02_text">Bạn đã làm chủ thời gian rồi đó.</string>
@@ -1116,13 +1116,13 @@
     <string name="draft_weather_machine00_text">Sử dụng một số thiết bị quân sự để điều khiển thời tiết.</string>
 
     <string name="draft_mltry_fence01_title">Hàng rào quân sự</string>
-    <string name="draft_mltry_fence01_text">Dùng để trang trí.</string>
+    <string name="draft_mltry_fence01_text">Dùng để trang trí thôi.</string>
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Xây dựng thành phố của riêng bạn trong trò chơi này.</string>
     <string name="store_longdesc">Ban muốn xây dựng thành phố? Bạn có thể nhìn lại thành phố tuyệt đẹp của bạn. Xây dựng các khu dân cư, thương mại, công nghiệp và nhiều hơn thế.
 
-Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu các thành phố trong thư mục TheoTown / bản đồ trên thiết bị của bạn để bạn có quyền truy cập vào chúng.</string>
+Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu các thành phố trong thư mục TheoTown / bản đồ trên thiết bị của bạn để bạn có quyền truy cập vào chúng.</string>
 
     <string name="settings_sound_weather">Thời tiết</string>
 
@@ -1131,18 +1131,18 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_weather_machine00_fog00_title">Máy tạo sương mù</string>
     <string name="draft_weather_machine00_fog00_text">Một lượng sương mù lớn bao phủ quanh thành phố của bạn.</string>
     <string name="dialog_cancelupgrade">Hủy nâng cấp</string>
-    <string name="draft_feature_ranger00_title">Forester\'s Lodge</string>
-    <string name="draft_feature_ranger00_text">Đôi khi cây phải được trồng lại nếu môi trường quá ô nhiễm. Forester\'s Lodge sẽ tự động thay thế cây.</string>
-    <string name="draft_ranger00_title">Forester\'s Lodge</string>
-    <string name="draft_ranger00_text">Đôi khi cây phải được trồng lại nếu môi trường quá ô nhiễm. Forester\'s Lodge sẽ tự động thay thế cây.</string>
+    <string name="draft_feature_ranger00_title">Khu lâm nghiệp</string>
+    <string name="draft_feature_ranger00_text">Đôi khi cây phải được trồng lại nếu môi trường quá ô nhiễm. Khu lâm nghiệp sẽ tự động thay thế cây.</string>
+    <string name="draft_ranger00_title">Khu lâm nghiệp</string>
+    <string name="draft_ranger00_text">Đôi khi cây phải được trồng lại nếu môi trường quá ô nhiễm. Khu lâm nghiệp sẽ tự động thay thế cây.</string>
 
-    <string name="ci_general_citypoints">Điểm thành phố: %1$s</string>
+    <string name="ci_general_citypoints">Điểm của thành phố: %1$s</string>
     <string name="settings_ringbuildindicator">Chỉ thị xây dựng</string>
 
     <string name="draft_tool_car_follower00_title">Theo dõi xe</string>
     <string name="draft_tool_car_follower00_text">Chỉ là theo dõi một số chiếc xe.</string>
     <string name="draft_mltry_bunker00_title">Hầm trú</string>
-    <string name="draft_mltry_bunker00_text">Cư dân cảm thấy an toàn khi ở trong bunker. Ít nhất chúng có khả năng chịu lửa.</string>
+    <string name="draft_mltry_bunker00_text">Cư dân cảm thấy an toàn khi ở trong hầm. Ít nhất chúng có khả năng chịu lửa.</string>
     <string name="draft_zoneairport_title">Khu vực không lưu</string>
     <string name="draft_zoneairport_text">Xây dựng một sân bay với nó.</string>
     <string name="draft_decoletters00_title">Chữ cái</string>
@@ -1153,7 +1153,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="tool_eye_dropper">Chọn một con đường hay một tòa nhà</string>
     <string name="settings_language">Ngôn ngữ</string>
     <string name="settings_language_hint">Bạn có thể sẽ phải khởi động lại trò chơi để áp dụng ngôn ngữ.</string>
-    <string name="settings_language_default">Cố định (%s)</string>
+    <string name="settings_language_default">Mặc định (%s)</string>
 
     <string name="settings_showroadlength">Xem chiều dài của đường</string>
     <string name="draft_rnk_metropolis_small_title">Đô thị nhỏ</string>
@@ -1217,9 +1217,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_transformator00_title">Máy truyền điện</string>
     <string name="draft_transformator00_text">Đặt nó trong vùng có điện và gần đường đây điện cao thế.</string>
 
-    <string name="settings_showtouchpoints">Xem các chỗ chạm</string>
+    <string name="settings_showtouchpoints">Hiện cảm ứng</string>
     <string name="shop_promotion_limited">Quảng cáo giới hạn</string>
-    <string name="shop_promotion_time">Chỉ còn %s </string>
+    <string name="shop_promotion_time">Chỉ còn %s</string>
     <string name="airport_lane_rename">Đổi tên</string>
     <string name="airport_airplane_rename">Đổi tên</string>
     <string name="airport_lane_show">Xem</string>
@@ -1233,16 +1233,16 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="topic_handmade">Mỗi pixel được làm thủ công từ người chơi</string>
     <string name="topic_lunch">Xây dựng từ đây đến bữa trưa</string>
     <string name="topic_watching">Lobby đang theo dõi bạn</string>
-    <string name="topic_code">Giờ với 5% code!</string>
+    <string name="topic_code">Giờ là với mã 5%!</string>
     <string name="topic_banana">Chuối</string>
-    <string name="topic_finish">Hãy hoàn thành cảnh này.</string>
-    <string name="topic_threed">Hãy làm nó 3D</string>
+    <string name="topic_finish">Hãy hoàn thành thành phố này.</string>
+    <string name="topic_threed">Hãy làm nó thành 3D</string>
     <string name="topic_work">Có thể chứa một số giấu vết của sự chăm chỉ</string>
-    <string name="topic_funfun">Giờ với niềm vui</string>
+    <string name="topic_funfun">Giờ là với niềm vui</string>
 
     <string name="settings_lesscars">Mật độ giao thông</string>
     <string name="settings_uploadgameplay">Đăng thành phố (ID của bạn: %s)</string>
-    <string name="settings_uploadgameplaymobile">Cho phép đăng trò chơi nà ko cần kết nối WIFI (có thể sẽ rất đắt)</string>
+    <string name="settings_uploadgameplaymobile">Cho phép đăng trò chơi nà không cần kết nối WIFI (có thể sẽ rất đắt)</string>
     <string name="createcity_sizebigbigextra">Khổng lồ</string>
     <string name="settings_uploadgameplay_quality">Chất lượng đăng</string>
     <string name="settings_uploadgameplay_qlow">Xấu</string>
@@ -1258,11 +1258,11 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_renameairplane_title">Đặt tên máy bay</string>
     <string name="dialog_renameairplane_text">Đặt một tên mới cho máy bay của bạn:</string>
     <string name="draft_airplane00_title">T340</string>
-    <string name="draft_airplane00_text">Một chiếc mày bay có phạm vi lớn của TheoAir.</string>
+    <string name="draft_airplane00_text">Một chiếc mày bay với phạm vi lớn của TheoAir.</string>
     <string name="draft_prm_airplane00_title">T340 vàng</string>
-    <string name="draft_prm_airplane00_text">Một phiên bản vàng của TheoAir.</string>
+    <string name="draft_prm_airplane00_text">Một phiên bản bằng vàng của TheoAir.</string>
     <string name="draftselector_airplane_passenger">Hành khách: %1$,d</string>
-    <string name="draft_ap_deco00_title">Chi tiết sân Bay</string>
+    <string name="draft_ap_deco00_title">Chi tiết sân bay</string>
     <string name="draft_ap_deco00_text">Khiến sân bay của bạn thật hơn với chúng.</string>
     <string name="airport_needtower_title">Không có tháp</string>
     <string name="airport_needtower_text">Ban phải sây một trạm kiểm soát để điều khiển máy bay</string>
@@ -1282,9 +1282,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_redeemcode_text">Ghi mã quà tặng vào đây:</string>
     <string name="dialog_redeemcode_cmdredeem">Kiểm tra</string>
     <string name="dialog_redeemsuccess_title">Thành công</string>
-    <string name="dialog_redeemsuccess_text">Chúc mừng, bạn vừa có %1$s kim cương.</string>
+    <string name="dialog_redeemsuccess_text">Chúc mừng, bạn đã nhận %1$s kim cương.</string>
     <string name="dialog_redeemfailure_title">Thất bại</string>
-    <string name="dialog_redeemfialire_text">Mã bạn vừa nhập không thẻ tặng quà. Vui lòng kiểm tra lại mã.</string>
+    <string name="dialog_redeemfialire_text">Mã bạn vừa nhập không thể tặng quà. Vui lòng kiểm tra lại mã.</string>
     <string name="shop_redeemcode">Mã quà tặng</string>
     <string name="draft_ap_tower00_title">Tháp</string>
     <string name="draft_ap_tower00_text">Một sân bay cần ít nhất một tòa tháp để hoạt động</string>
@@ -1318,16 +1318,16 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="requirement_upgrade_invert">Không thể kết hợp với %1$s</string>
     <string name="draft_deco_chr_present00_title">Quà</string>
     <string name="draft_deco_chr_present00_text">Chỉ là một món quà. Thử bấm vào đấy đi.</string>
-    <string name="settings_touch_rotate">Xoay kiểu chạm</string>
+    <string name="settings_touch_rotate">Xoay bằng cách chạm</string>
     <string name="disaster_green_slime_title">Slime xanh</string>
-    <string name="disaster_green_slime_text">Tiêu hủy rất ít và chậm.</string>
+    <string name="disaster_green_slime_text">Nuốt rất ít và chậm.</string>
     <string name="disaster_green_slime_cmdtext">Thả chúng ra!</string>
     <string name="disaster_pink_slime_title">Slime hồng</string>
-    <string name="disaster_pink_slime_text">Tiêu hủy nhiều hơn Slime xanh.</string>
+    <string name="disaster_pink_slime_text">Nuốt chửng nhiều hơn Slime xanh.</string>
     <string name="disaster_pink_slime_cmdtext">Thả chúng ra!</string>
     <string name="draft_hydroplant00_title">Nhà máy thủy điện</string>
     <string name="draft_hydroplant00_text">Một nhà máy tạo ra điện nhờ nước. Không gây ra ô nhiễm nhưng tạo ra tiếng ồn.</string>
-    <string name="draft_feature_slime00_title">Thảm họa Slime</string>
+    <string name="draft_feature_slime00_title">Thảm họa chất nhờn</string>
     <string name="draft_feature_slime00_text">Slime sẽ ăn hết thành phố của bạn.</string>
 
     <string name="settings_terrainshading">Đánh bóng địa hình</string>
@@ -1347,7 +1347,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_deco_chr_snowman00_title">Người tuyết</string>
     <string name="draft_deco_chr_snowman00_text">Trẻ con thích xây người tuyết vào mùa đông.</string>
     <string name="draft_internationalcommercecentre00_title">ICC</string>
-    <string name="draft_internationalcommercecentre00_text"> "International Commerce Centre" ơ Hong Kong là một tòa nhà thương mại gồm 108 tầng. Nó là công trình cao nhất ở Hong Kong với 484 m. Nó được hoàn thành vào năm 2010.</string>
+    <string name="draft_internationalcommercecentre00_text">International Commerce Centre - Trung tâm Tài chính Quốc tế ở Hong Kong là một tòa nhà thương mại gồm 108 tầng. Nó là công trình cao nhất ở Hong Kong với 484 m. Nó được hoàn thành vào năm 2010.</string>
     <string name="settings_autosave_interval">Tự động lưu</string>
     <string name="settings_autosave_interval_off">Tắt</string>
     <string name="settings_autosave_interval_minutes">%1$d phút</string>
@@ -1363,11 +1363,11 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_syl_wire_title">Dây điện</string>
     <string name="draft_syl_wire_text">Kết nối với pháo hoa.</string>
     <string name="draft_category_firework00_title">Pháo hoa</string>
-    <string name="draft_feature_firework_pack00_title">Gói năm mới(đặc biệt)</string>
+    <string name="draft_feature_firework_pack00_title">Gói năm mới</string>
     <string name="draft_feature_firework_pack00_text">Có giới hạn:</string>
     <string name="draft_feature_firework00_title">Pháo hoa</string>
-    <string name="draft_feature_firework00_text">Đặt và biên soạn pháo hoa của bạn.</string>
-    <string name="draft_syl_emitter01_title">Máy bật hẹn giờ</string>
+    <string name="draft_feature_firework00_text">Bố chí và biên soạn pháo hoa của bạn.</string>
+    <string name="draft_syl_emitter01_title">Máy hẹn giờ</string>
     <string name="draft_syl_emitter01_text">Nó sẽ tự phóng pháo hoa.</string>
 
     <string name="draft_airplane02_title">T430</string>
@@ -1378,14 +1378,14 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_syl_spawner04_text">Một vụ nổ màu đỏ với một màu vàng phai ra.</string>
     <string name="draft_syl_spawner05_title">Borr</string>
     <string name="draft_syl_spawner05_text">Một vụ nổ màu đỏ với hiệu ứng.</string>
-    <string name="draft_syl_spawner06_title">Cành cây Liễu long lanh</string>
+    <string name="draft_syl_spawner06_title">Cành cây liễu long lanh</string>
     <string name="draft_syl_spawner06_text">Một vụ nổ tuyệt vời với các màu trộn lại và phai ra.</string>
     <string name="draft_syl_spawner07_title">Nước mắt từ thiên đường</string>
     <string name="draft_syl_spawner07_text">Ba vụ nổ màu trắng kết hợp với một màu đỏ mờ dần.</string>
     <string name="draft_syl_spawner08_title">Đôi tai nóng bỏng</string>
     <string name="draft_syl_spawner08_text">Một quả tên lửa lớn bắn vào không trung.</string>
-    <string name="draft_syl_spawner09_title">Cây Liễu</string>
-    <string name="draft_syl_spawner09_text">Cây Liễu lớn.</string>
+    <string name="draft_syl_spawner09_title">Cây liễu</string>
+    <string name="draft_syl_spawner09_text">Cây liễu lớn.</string>
     <string name="draft_deco_chr_present_helipad00_title">Tuyệt vời!</string>
     <string name="draft_deco_chr_present_helipad00_text">Chiếc trực thăng đầu tiên của bạn. Tiếc rằng, nó lại không nghe lời bạn.</string>
     <string name="draft_ufo_crater00_title">Một thứ kì lạ</string>
@@ -1453,18 +1453,18 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="settings_saveonappswitch">Lưu trên chuyển đổi ứng dụng</string>
     <string name="settings_saveforscreenshot">Lưu cho ảnh chụp màn hình</string>
     <string name="draft_eiffeltower00_title">Tháp Eiffel</string>
-    <string name="draft_eiffeltower00_text">Tháp Eiffel ở  Paris là địa danh nổi tiếng nhất của Pháp. Tháp cao 324m tall và hoàn thiện vào năm 1889.</string>
+    <string name="draft_eiffeltower00_text">Tháp Eiffel ở Paris là địa danh nổi tiếng nhất của Pháp. Tháp cao 324m tall và hoàn thiện vào năm 1889.</string>
     <string name="dialog_wb_text02">Bạn có muốn nhận %1$s số tiền khi bạn vắng ko?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Lấy nó</string>
     <string name="dialog_wb_cmdforfeit">Không lấy nó</string>
     <string name="dialog_diamondtool_title">Hoàn thành xây dựng</string>
     <string name="dialog_diamondtool_text">Chúng ta có nên xây nó không?</string>
-    <string name="draft_feature_valentinesday00_title">Chúc mừng Valentine</string>
+    <string name="draft_feature_valentinesday00_title">Chúc mừng lễ tình nhân</string>
     <string name="draft_feature_valentinesday00_text">Mở khóa các tòa nhà này vĩnh viễn</string>
     <string name="tool_removetunnel_title">Xóa hầm</string>
     <string name="tool_removetunnel_text">Hãy xóa một số hầm</string>
 
-    <string name="dialog_halftunnelprice_title">Xây hầm nửa giá</string>
+    <string name="dialog_halftunnelprice_title">Xây hầm với nửa giá</string>
     <string name="dialog_halftunnelprice_text">Bạn có muốn giữ lại một số kim cương? Cái này sẽ giúp bạn giảm 50% cho %s.</string>
     <string name="game_remaining_halftunnelprice">Xây hầm nửa giá cho %s</string>
     <string name="shop_diamonds_sole">%s kim cương</string>
@@ -1504,9 +1504,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_draft_hft_title">Sự vui vẻ về thời gian nghỉ</string>
     <string name="draft_draft_hft_text">Hạnh phúc về thời gian nghỉ của cư dân.</string>
     <string name="draft_draft_henv_title">Sự vui vẻ về môi trường</string>
-    <string name="draft_draft_henv_text">Như tiêu đề.</string>
+    <string name="draft_draft_henv_text">Sự vui vẻ về môi trường.</string>
     <string name="draft_draft_hpd_title">Hạnh phúc về An Ninh</string>
-    <string name="draft_draft_hpd_text">Như tiêu đề.</string>
+    <string name="draft_draft_hpd_text">Hạnh phúc về An Ninh.</string>
     <string name="draft_draft_hfd_title">Hạnh phúc về PCCC</string>
     <string name="draft_draft_hfd_text">Hạnh phúc về PCCC.</string>
     <string name="draft_draft_hpk_title">Hạnh phúc về công viên</string>
@@ -1548,12 +1548,12 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="task_build_parks">Xây %s công viên.</string>
     <string name="task_get_inhabitants">Nhận %s người dân mới.</string>
     <string name="task_get_money">Nhận được %s₮.</string>
-    <string name="task_spend_money">Giành %s₮.</string>
-    <string name="task_spend_diamonds">Giành %s kim cương.</string>
+    <string name="task_spend_money">Giành %s₮</string>
+    <string name="task_spend_diamonds">Giành %s kim cương</string>
     <string name="task_tap_screen">Nhấn %s lần trên màn hình.</string>
     <string name="task_current">Công việc hiện hành</string>
 
-    <string name="dialog_adreward_title">Quảng cáo được thưởng</string>
+    <string name="dialog_adreward_title">Xem quảng cáo được thưởng</string>
     <string name="dialog_adreward_text">Bạn có muốn nhận thưởng cho mỗi lần xem quảng cáo?</string>
     <string name="dialog_adreward_cmdwatch">Nhận nó ngay</string>
     <string name="draftselector_titlelandmark">Địa danh</string>
@@ -1585,7 +1585,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
     <string name="draft_onerafflesplace00_text">One Raffles Place là một tòa chọc trời ở Singapore xây vào năm 1986 và cao 280m.</string>
     <string name="draft_willistower00_title">Willis Tower</string>
-    <string name="draft_willistower00_text"> Willis Tower là một tào tháp nằm ở Chicago, Mỹ. Tòa tháp được xây vào năm 1973 và cao 442 m.</string>
+    <string name="draft_willistower00_text"> Willis Tower là một tòa tháp nằm ở Chicago, Mỹ. Tòa tháp được xây vào năm 1973 và cao 442 m.</string>
     <string name="draft_feature_landmarks01_title">Gói địa danh II</string>
     <string name="draft_feature_landmarks01_text">Gồm có:</string>
 
@@ -1595,8 +1595,8 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_cat_train00_title">Tàu hỏa</string>
     <string name="draft_cat_recent00_title">Mới đây</string>
     <string name="draft_cat_service00_title">Dịch vụ</string>
-    <string name="draft_tool_eyedropper00_title">Thuốc nhỏ mắt</string>
-    <string name="draft_tool_eyedropper00_text">Muốn xây các công trình cụ thể nhiều lần? Sử dụng cái này nhấn lên công trình. Không hổ trợ mọi loại công trình.</string>
+    <string name="draft_tool_eyedropper00_title">Công cụ sao chép</string>
+    <string name="draft_tool_eyedropper00_text">Muốn xây các công trình cụ thể nhiều lần? Sử dụng cái này nhấn lên công trình. Không hỗ trợ mọi loại công trình.</string>
     <string name="draft_cat_level00_title">Cấp ₮</string>
     <string name="draft_cat_level01_title">Cấp ₮₮</string>
     <string name="draft_cat_level02_title">Cấp ₮₮₮</string>
@@ -1633,9 +1633,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_gallerypolicy_cmdcancel">Tôi không đồng ý</string>
     <string name="settings_pushnotifications">Đẩy thông báo</string>
     <string name="draft_leaningtowerofpisa00_title">Tháp nghiêng Pisa</string>
-    <string name="draft_leaningtowerofpisa00_text">Tháp nghiêng Pisa là tháp chuông được đặt ở Italian City of Pisa hoàn thành vào năm 1372 và cao 56m.</string>
+    <string name="draft_leaningtowerofpisa00_text">Tháp nghiêng Pisa là tháp chuông ở Itali, hoàn thành vào năm 1372 và cao 56m.</string>
     <string name="draft_burjalarab00_title">Burj Al Arab</string>
-    <string name="draft_burjalarab00_text">Burj Al Arab là khách sạn sang trọng tại Dubai, United Arab Emirates. Hoàn thành vào năm 1999 và cao 321m.</string>
+    <string name="draft_burjalarab00_text">Burj Al Arab là khách sạn sang trọng tại Dubai, các tiểu vương quốc Ả Rập thống nhất. Hoàn thành vào năm 1999 và cao 321m.</string>
     <string name="draft_hearsttower00_title">Hearst Tower</string>
     <string name="draft_hearsttower00_text">Hearst Tower là một cơ quan tại New York hoàn thành vào năm 2006. Nó cao 182m.</string>
     <string name="draft_feature_landmarks02_title">Gói địa danh III</string>
@@ -1662,11 +1662,11 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
 
 
     <string name="draft_orientalpearltower00_title">Oriental Pearl</string>
-    <string name="draft_orientalpearltower00_text">The Oriental Pearl Tower là một tháp TV ở Thượng Hải đã hoàn thành vào 1994. Nó cao 470m.</string>
+    <string name="draft_orientalpearltower00_text">Tháp Oriental Pearl là một tháp TV ở Thượng Hải đã hoàn thành vào 1994. Nó cao 470m.</string>
     <string name="draft_swfc_tower00_title">SWFC Tower</string>
     <string name="draft_swfc_tower00_text">Trung tâm tài chính thế giới Thượng Hải là tòa nhà chọc trời ở Thượng Hải, hoàn thành năm 2008. Nó cao 494m.</string>
-    <string name="draft_feature_landmarks03_title">Landmarks IV</string>
-    <string name="draft_feature_landmarks03_text">Những công trình tuyệ vời ở Thượng Hải.</string>
+    <string name="draft_feature_landmarks03_title">Gói địa danh IV</string>
+    <string name="draft_feature_landmarks03_text">Những công trình tuyệt vời ở Thượng Hải.</string>
     <string name="draft_cat_asphalt00_title">Nhựa đường</string>
     <string name="draft_asphalt00_title">Nhựa đường xám</string>
     <string name="draft_asphalt00_text">Đừng có thay thế cả thiên nhiên với nó đấy!</string>
@@ -1675,9 +1675,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
 
 
     <string name="draft_cat_management00_title">Quản lý</string>
-    <string name="draft_sakura00_title">Tháp hoa Anh đào</string>
-    <string name="draft_sakura00_text">Một ngôi chùa truyền thống của Nhật với cây hoa Anh đào. Thật là một nơi thơ mộng.</string>
-    <string name="draft_stbasilcathedral00_title">St Basil\'s Cathedral</string>
+    <string name="draft_sakura00_title">Tháp hoa anh đào</string>
+    <string name="draft_sakura00_text">Một ngôi chùa truyền thống của Nhật với cây hoa anh đào. Thật là một nơi thơ mộng.</string>
+    <string name="draft_stbasilcathedral00_title">Saint Basil\'s Cathedral</string>
     <string name="draft_stbasilcathedral00_text">Saint Basil\'s Cathedral là một ngôi chùa ở Moscow, Nga. Nó hoàn thành năm 1561 và trở thành một bảo tàng bây giờ. Cao 115m.</string>
 
 
@@ -1709,8 +1709,8 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_cactus00_text">Thiếu nước ư? Đừng lo đã có xương rồng.</string>
     <string name="draft_ancientbear_guard00_title">Bảo vệ</string>
     <string name="draft_ancientbear_guard00_text">Canh gác chú gấu tiền sử.</string>
-    <string name="draft_ancientbear_statue00_title">Chú Gấu Tiền Sử</string>
-    <string name="draft_ancientbear_statue00_text">Bức tượng của chú</string>
+    <string name="draft_ancientbear_statue00_title">Chú gấu tiền sử</string>
+    <string name="draft_ancientbear_statue00_text">Bức tượng của chú gấu vĩ đại nhất</string>
     <string name="draft_greatpyramid00_title">Kim tự pháp Giza vĩ đại</string>
 
 
@@ -1758,7 +1758,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
 
 
     <string name="draft_igloo00_title">Nhà băng</string>
-    <string name="draft_igloo00_text">Đủ bất ngờ rồi, vì nó chả lạnh gì cả.</string>
+    <string name="draft_igloo00_text">Đủ bất ngờ rồi đấy, vì nó chả lạnh gì cả.</string>
     <string name="features_more">Nhiều nội dung hơn</string>
     <string name="features_diamonds">Kiếm kim cương</string>
 
@@ -1771,8 +1771,8 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="settings_drawzones">Vẽ khu</string>
     <string name="draft_metrostation00_title">Nhà ga tàu điện ngầm</string>
     <string name="draft_metrostation00_text">Cổng vào ga tàu điện ngầm</string>
-    <string name="draft_metroline00_title">Đường hầm metro</string>
-    <string name="draft_metroline00_text">Một tàu điện ngầm. Bạn sẽ không thấy nó nhưng nó đang ở dưới đây.</string>
+    <string name="draft_metroline00_title">Đường hầm tàu điện ngầm</string>
+    <string name="draft_metroline00_text">Một hầm tàu điện ngầm. Bạn sẽ không thấy nó nhưng nó đang ở dưới đây.</string>
     <string name="feature_coming_soon">Đến sớm thôi</string>
     <string name="dialog_search_title">Tìm kiếm</string>
     <string name="dialog_search_text">Điền vào đây</string>
@@ -1787,12 +1787,12 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="feature_coming_soon_fulfilled">Món quà sớm</string>
 
 
-    <string name="draft_tree_sakura00_title">Cây hoa Anh đào</string>
+    <string name="draft_tree_sakura00_title">Cây hoa anh đào</string>
     <string name="draft_tree_sakura00_text">Những cây hoa quyến rũ màu hồng.</string>
     <string name="draft_circus00_title">Rạp xiếc</string>
     <string name="draft_circus00_text">Đã tới giờ đi đến rạp xiếc!</string>
     <string name="draft_chrysler00_title">Tòa nhà Chrysler</string>
-    <string name="draft_chrysler00_text">Bạn có lẻ đã nhìn thấy tòa nhà này trước đây. Chrysler Building ở New York là một tòa nhà nổi tiếng được xây vào năm 1930 cao 319m.</string>
+    <string name="draft_chrysler00_text">Bạn có lẻ đã nhìn thấy tòa nhà này trước đây. Chrysler ở New York, là một tòa nhà nổi tiếng được xây vào năm 1930 cao 319m.</string>
     <string name="draft_greatpyramid00_text">Kim tự tháp Giza là một trong những công trình cổ xưa nhất. Nó là kim tự tháp lớn nhất trong quần thể kim tự tháo cổ với chiều cao là 139m.</string>
     <string name="draft_feature_landmarks04_text">Một số công trình tuyệt đẹp</string>
 
@@ -1866,9 +1866,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_roaddeco_protester00_title">Biểu tình thuê</string>
     <string name="draft_roaddeco_protester00_text">Trả tiền để xem biểu diễn biểu tình.</string>
     <string name="draft_roaddeco_riot00_title">Đảo chính thuê</string>
-    <string name="draft_roaddeco_riot00_text">Muốn gây sự chú ý bằng cách trả một số tiền.</string>
+    <string name="draft_roaddeco_riot00_text">Gây sự chú ý bằng cách trả một ít tiền.</string>
     <string name="draft_roaddeco_roundabout00_title">Vòng xoay nhỏ</string>
-    <string name="draft_roaddeco_roundabout00_text">Một vòng xoay đáng yêu, vòng xoay nằm giữa đường.</string>
+    <string name="draft_roaddeco_roundabout00_text">Một vòng xoay đáng yêu nằm giữa đường.</string>
     <string name="disaster_blizzard_title">Bão tuyết</string>
     <string name="disaster_blizzard_text">Chuẩn bị tinh thần, bảo tuyết đang tới.</string>
     <string name="disaster_blizzard_cmdtext">Đóng băng!</string>
@@ -1879,7 +1879,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_free_title">Chế độ miễn phí</string>
     <string name="dialog_free_text">Bạn đã chọn chế độ miễn phí.</string>
     <string name="draft_medic03_title">Bệnh viện hiện đại</string>
-    <string name="draft_medic03_text">Một bệnh viện hiênh đại có nhiều không gian hơn để chăm sóc bệnh nhân hơn những bệnh viện nhỏ.</string>
+    <string name="draft_medic03_text">Một bệnh viện hiện đại có nhiều không gian hơn để chăm sóc bệnh nhân hơn những bệnh viện nhỏ.</string>
     <string name="draft_gol_dead_title">Trò chơi cuộc sống</string>
     <string name="draft_gol_dead_text">"Tạo ra một vùng Trò chơi cuộc sống. Nhấn lên chúng để thay đổi trạng thái. Trạng thái mặc định là Chết." - Lobby</string>
 
@@ -1897,10 +1897,10 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="cemetery_clear">Cách dọn như của bãi rác.</string>
     <string name="draft_cemetery00_text">Nơi yên nghĩ của người đã khuất.</string>
     <string name="draft_crematory00_text">Người đã khuất sẽ được chôn cất ở đây.</string>
-    <string name="notify_bodydisposal_needer00">Thưa thị trưởng, Tôi đề nghị ngài xây Nghĩa trang</string>
+    <string name="notify_bodydisposal_needer00">Thưa thị trưởng, tôi đề nghị ngài xây Nghĩa trang</string>
     <string name="notify_bodydisposal_producer00">Không còn chỗ cho Nghĩa Trang mày nữa, ngài nên dọn nó hoặc xây cái mới.</string>
     <string name="draft_halloween_pumpkin00_title">Bí ngô</string>
-    <string name="draft_halloween_pumpkin00_text">Halloween is coming! Everyone loves pumpkins, right?</string>
+    <string name="draft_halloween_pumpkin00_text">Haloween đang tới, mọi người yêu bí ngô, phải không?</string>
     <string name="draft_halloween_tree00_title">Cây chết</string>
     <string name="draft_halloween_tree00_text">Một cái cây bí ẩn dành cho những câu chuyện ma.</string>
     <string name="draft_feature_landmarks04_title">Gói địa danh V</string>
@@ -1932,7 +1932,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
 
 
     <string name="draft_present_notification00_text">Ông già Nôen gửi cho bạn một vụ nổ</string>
-    <string name="draft_present_notification01_text">Ông gì Nôen gửi cho bạn chút kim cương.</string>
+    <string name="draft_present_notification01_text">Ông già Nôen gửi cho bạn chút kim cương.</string>
     <string name="store_authorby">bởi %s</string>
     <string name="store_downloads">%,d tải</string>
     <string name="store_acquire">Tải về </string>
@@ -1941,9 +1941,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_storedownlaod_title">Tải về</string>
     <string name="dialog_storedownload_text">Bạn có muốn tải về %s?</string>
     <string name="dialog_storerestart_title">Khởi động lại</string>
-    <string name="dialog_storerestart_text">Cần khởi động lại để có plugin.\n\nBạn có muốn làm?</string>
+    <string name="dialog_storerestart_text">Cần khởi động lại để khởi động plugin.\n\nBạn có muốn khởi động lại?</string>
     <string name="dialog_storerestart_cmdrestart">Khởi động lại</string>
-    <string name="store_status_notacquired">Không có</string>
+    <string name="store_status_notacquired">Không</string>
     <string name="store_status_downloading">Đang tải</string>
     <string name="store_status_downloaderror">Lỗi: </string>
     <string name="store_status_acquired">Mua</string>
@@ -1965,13 +1965,13 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_storedelete_cmddelete">Xóa</string>
     <string name="store_modefeatured">Đặc sắc</string>
     <string name="store_modecategory">Phân loại</string>
-    <string name="store_shorttitle">Plugins</string>
+    <string name="store_shorttitle">Plugin</string>
     <string name="gamemenu_catcity">Thành phố</string>
     <string name="gamemenu_catcontent">Nội dung</string>
     <string name="gamemenu_catsocial">Xã hội</string>
     <string name="gamemenu_catpictures">Ảnh</string>
     <string name="gamemenu_catother">Khác</string>
-    <string name="store_catcount">%,d plugins</string>
+    <string name="store_catcount">%,d plugin</string>
     <string name="store_featured">Đặc sắc</string>
 
 
@@ -1985,9 +1985,9 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="store_ratings">Bởi %,d đánh giá</string>
     <string name="store_loadingerror">Lỗi</string>
     <string name="dialog_storeerror_title">Lỗi đang tải</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
+    <string name="dialog_storeerror_text">Plugin này không tải được vì lý do:</string>
     <string name="store_new">Mới và cập nhật</string>
-    <string name="draft_cat_plugins00_title">Plugins</string>
+    <string name="draft_cat_plugins00_title">Plugin</string>
     <string name="dialog_storesearch_title">Tìm plugin</string>
     <string name="dialog_storesearch_text">Điền plugin bạn cần tìm vào đây:</string>
     <string name="dialog_storesearch_cmdsearch">Tìm</string>
@@ -2000,12 +2000,12 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="store_previouslyinstalled">Đã xóa</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
     <string name="draft_rails00_title">Đường tàu</string>
-    <string name="draft_rails00_text">Đường cho TÀU HỎA (duh)</string>
+    <string name="draft_rails00_text">Đường cho tàu hỏa</string>
     <string name="draft_rails00oneway00_title">Đường ray một chiều</string>
-    <string name="draft_rails00oneway00_text">Đường cho TÀU HỎA nhưng 1 chiều.</string>
+    <string name="draft_rails00oneway00_text">Đường cho tàu hỏa nhưng 1 chiều.</string>
     <string name="specialoffer_cmdbuy">Mua với %s</string>
     <string name="influence_body_disposal_title">Nghĩa trang</string>
-    <string name="influence_body_disposal_text">RIP.</string>
+    <string name="influence_body_disposal_text">RIP</string>
     <string name="influence_traffic_title">Giao thông (Ảnh hưởng)</string>
     <string name="influence_traffic_text">Người dân không thích tiếng ồn và khói bụi từ xe cộ trên đường</string>
     <string name="ci_neighbor_wastedisposal">Dịch vụ vệ sinh môi trường</string>
@@ -2016,7 +2016,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_cat_metro00_title">Metro</string>
     <string name="draft_cat_tree00_title">Cây</string>
     <string name="draft_railroof00_title">Nóc</string>
-    <string name="draft_railroof00_text">N Ó C.</string>
+    <string name="draft_railroof00_text">Nóc.</string>
     <string name="draft_trainplatform00_title">Sân ga 1</string>
     <string name="draft_trainplatform00_text">Sân ga.</string>
     <string name="draft_trainplatform01_title">Sân ga 2</string>
@@ -2026,7 +2026,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_trainplatform05_title">Sân ga 6</string>
     <string name="draft_trainplatform06_title">Sân ga 7</string>
     <string name="draft_trainplatform07_title">Sân ga 8</string>
-    <string name="draft_trainstation00_title"> Sân Ga địa phương</string>
+    <string name="draft_trainstation00_title">Sân ga địa phương</string>
     <string name="draft_trainstation00_text">Chỉ có tàu địa phương bắt đầu và dừng tại đây (spawn)</string>
     <string name="draft_trainstation01_title">Sân ga đường dài</string>
     <string name="draft_trainstation01_text">Dành cho tàu chạy đường dài</string>
@@ -2066,7 +2066,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="region_individualcities">Chơi thành phố đơn</string>
     <string name="draft_redwood_tree00_title">Cây gỗ đỏ</string>
     <string name="draft_redwood_tree00_text">Cây gỗ đỏ từ California, Hoa Kỳ.</string>
-    <string name="buildinginfo_daysbuilt">Đã xây : %1$,d ngày trước</string>
+    <string name="buildinginfo_daysbuilt">Đã xây tư %1$,d ngày trước</string>
     <string name="createcity_terrain">Đồi</string>
     <string name="draft_tool_terrain_increase00_title">Nâng đồi</string>
     <string name="draft_tool_terrain_increase00_text">Nâng đồi.</string>
@@ -2080,8 +2080,8 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="draft_tollbooth00_title">Trạm thu phí</string>
     <string name="draft_tollbooth00_text">Bạn có thể thu tiền từ nó nhưng người dân của bạn ghét nó.</string>
     <string name="notification02_title">Cần làm</string>
-    <string name="notification02_text">Ai đó phải tiếp tục phát triển%1$s!</string>
-    <string name="notification03_title">Không bao giờ quên %1$s</string>
+    <string name="notification02_text">Ai đó phải tiếp tục phát triển %1$s!</string>
+    <string name="notification03_title">Không bao giờ quên %1$s!</string>
     <string name="notification03_text">Quay lại đi ngài thị trưởng!</string>
     <string name="settings_fontscaling">Cỡ chữ</string>
     <string name="settings_fontscaling_small">Nhỏ</string>
@@ -2112,12 +2112,12 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="settings_vsync">VSync</string>
 
 
-    <string name="shop_invitefriends">Nhận %d nhận cho mỗi người bạn mời chơi Theotown</string>
+    <string name="shop_invitefriends">Nhận %d kim cương nhận cho mỗi người bạn mời chơi Theotown</string>
     <string name="shop_invitetitle">Mời bạn bè</string>
-    <string name="shop_invitationtext">Này xem game này đi : \n%s</string>
+    <string name="shop_invitationtext">Này xem game này đi: \n%s</string>
     <string name="gamemenu_gameid">id game: %s</string>
     <string name="gamemenu_gameidcopied">sao chép id game</string>
-    <string name="draft_cat_intersections00_title">Nút giao cắt</string>
+    <string name="draft_cat_intersections00_title">Nút giao</string>
     <string name="draft_intersection00_title">Cầu vượt</string>
     <string name="draft_intersection00_text">Kết nối giữa đường bộ và cao tốc</string>
     <string name="draft_intersection01_title">Hầm</string>
@@ -2164,19 +2164,19 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="forum_loginerror">Lỗi đăng nhập</string>
     <string name="forum_networkerror">Lỗi kết nối</string>
     <string name="stage_account_other">Tài khoản khác</string>
-    <string name="stage_account_connected">%s - Đã kết nối</string>
+    <string name="stage_account_connected">Đã kết nối với %s</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Cập nhật</string>
     <string name="stage_gallery_noimages">Chưa có hình ảnh nào được đăng lên.</string>
     <string name="stage_region_online">Online</string>
     <string name="online_city_visit">Thăm</string>
     <string name="store_status_notavailable">Plugin không khả dụng</string>
-    <string name="dialog_missingplugins_title">Plugin thiếu</string>
+    <string name="dialog_missingplugins_title">Plugin bị thiếu</string>
     <string name="dialog_missingplugins_text">Thành phố này có những plugin sau:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s bởi %2$s</string>
     <string name="dialog_missingplugins_cmdget">Nhận chúng</string>
-    <string name="dialog_missingplugins_cmdskip">Tiếp tục mà không có</string>
-    <string name="statistics_energyproduced">Năng lượng điện đa sản xuất </string>
+    <string name="dialog_missingplugins_cmdskip">Tiếp tục mà không có chúng</string>
+    <string name="statistics_energyproduced">Lượng điện đã sản xuất</string>
     <string name="statistics_energyneed">Năng lượng điện cần thiết</string>
     <string name="statistics_waterproduced">Lượng nước đã sản xuất</string>
     <string name="statistics_waterneed">Lượng nước cần thiết</string>
@@ -2192,7 +2192,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="dialog_reported_text">Cảm ơn bạn vì đã báo cáo</string>
     <string name="dialog_report_cmd">Báo cáo</string>
     <string name="stage_comment_reportsubject">Bình luận của %1$s</string>
-    <string name="stage_store_reportsubject">plugin "%1$s"</string>
+    <string name="stage_store_reportsubject">Plugin "%1$s"</string>
     <string name="stage_comment_noperm">Bạn không có quyền để bình luận plugin này</string>
     <string name="store_modecommented">Bình luận</string>
     <string name="report_sexual">Có nội dung khiêu dâm</string>
@@ -2205,7 +2205,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="report_bad_behavior">Hành vi xấu</string>
     <string name="report_violates_store_rules">Vi phạm các quy định khác</string>
     <string name="stage_comment_cmdsend">Gửi</string>
-    <string name="stage_comment_cmdsendhint">Điền comment vào đây...</string>
+    <string name="stage_comment_cmdsendhint">Điền bình luận vào đây</string>
     <string name="dialog_storerestart_cmdlater">Để sau</string>
     <string name="wealthy_poor">Nghèo</string>
     <string name="wealthy_medium">Trung bình</string>
@@ -2249,7 +2249,7 @@ Nếu bạn cung cấp TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu
     <string name="toolaction_terrainhigher">Cao hơn</string>
 
 
-    <string name="settings_uisize">Kích thước UI</string>
+    <string name="settings_uisize">Kích thước giao diện</string>
     <string name="settings_uisize_normal">Bình thường</string>
     <string name="settings_uisize_big">Lớn</string>
     <string name="settings_uisize_bigger">Lớn hơn</string>
@@ -2281,7 +2281,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="region_acquiremap">Nhận</string>
     <string name="dialog_acquiremapfreemium_title">Nhận bản đồ</string>
     <string name="dialog_acquiremapfreemium_text">Chúc mừng, đây là một nơi miễn phí cho bạn xây thành phố của mình.</string>
-    <string name="settings_sound_plugins">Plugins</string>
+    <string name="settings_sound_plugins">Plugin</string>
     <string name="createregion_title">Bang mới</string>
     <string name="createregion_split">Tách ra</string>
     <string name="createregion_merge">Nhập vào</string>
@@ -2294,9 +2294,9 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_deleteregion_title">Xóa bang</string>
     <string name="dialog_deleteregion_text">Chắc chưa bạn hiền?</string>
     <string name="dialog_deleteregion_cmd">Xóa</string>
-    <string name="dialog_resetregion_title">Reset Bang</string>
+    <string name="dialog_resetregion_title">Dặt lại bang</string>
     <string name="dialog_resetregion_text">Chắc chưa bạn hiền?</string>
-    <string name="dialog_resetregion_cmd">Reset</string>
+    <string name="dialog_resetregion_cmd">Đặt lại</string>
     <string name="dialog_regionpassword_title">Nhập mật khẩu của bang</string>
     <string name="dialog_regionpassword_text">Mật khẩu:</string>
     <string name="dialog_generateregion_title">Tạo bang</string>
@@ -2304,8 +2304,8 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_uploadregionaccount_title">Cần tài khoản</string>
     <string name="dialog_uploadregionaccount_text">Để đăng tải bang này lên máy chủ Theotown bạn cần có tài khoản Theotown</string>
     <string name="dialog_uploadregion_title">Đăng bang</string>
-    <string name="dialog_uploadregion_text">Nó sẽ copy bang của bạn để đăng tải lên máy chủ. Bạn có thể mời bạn bè của bạn để chơi.</string>
-    <string name="dialog_uploadregion_cmdpassword">Mật khẩu ...</string>
+    <string name="dialog_uploadregion_text">Nó sẽ sao chép bang của bạn để đăng tải lên máy chủ. Bạn có thể mời bạn bè của bạn để chơi.</string>
+    <string name="dialog_uploadregion_cmdpassword">Mật khẩu</string>
     <string name="dialog_uploadregion_cmdupload">Đăng tải</string>
     <string name="stage_uploadregion_uploading">Đang đăng tải bang</string>
     <string name="dialog_uploadregionpassword_title">Điền mật khẩu</string>
@@ -2318,7 +2318,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="settings_sdcardplugins">Tải plugin từ thẻ sd (TheoTown/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">Tải lên ngay?</string>
     <string name="dialog_uploadregionconfirm_text">Hãy chắc chắn rằng mạng wifi của bạn ổn định trước khi quá trình diễn ra</string>
-    <string name="dialog_uploadregionunsuited_title">Tải lên Bang</string>
+    <string name="dialog_uploadregionunsuited_title">Tải bang lên</string>
     <string name="dialog_uploadregionunsuited_text">Đến bây giờ bạn chỉ có thể đăng tải bang mà chưa có thành phố nào trên đó.</string>
     <string name="dialog_acquirecityaccount_title">Cần tài khoản</string>
     <string name="dialog_acquirecityaccount_text">Để lấy một vùng đất bạn cần một tài khoản Theotown</string>
@@ -2338,7 +2338,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_configureregion_title">Cấu hình của bang</string>
     <string name="dialog_configureregion_previewrules">Xem trước</string>
     <string name="dialog_regionrules_general">Luật chung</string>
-    <string name="dialog_regionrules_allowplugins">được phép có Plugins </string>
+    <string name="dialog_regionrules_allowplugins">Được phép có plugin</string>
     <string name="dialog_regionrules_notallowplugins">Bạn không thể sử dụng plugins ở đây</string>
     <string name="dialog_regionrules_norules">Không có luật đặt biệt nào cho bang này</string>
     <string name="stage_onlineregion_rules">Luật</string>
@@ -2358,9 +2358,9 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_regionrules_notallowsandbox">Chế độ Sandbox không được sử dụng ở đây.</string>
     <string name="dialog_configureregion_rules">Luật</string>
     <string name="dialog_configureregion_infos">Thông tin</string>
-    <string name="dialog_configureregion_allowplugins">Cho phép plugins</string>
+    <string name="dialog_configureregion_allowplugins">Cho phép plugin</string>
     <string name="dialog_configureregion_allowsandbox">Cho phép chế độ sandbox</string>
-    <string name="draft_sandstonetiles00_text">Decal</string>
+    <string name="draft_sandstonetiles00_text">Đề can</string>
     <string name="draft_sandstonetiles00_title">Gạch sa thạch</string>
     <string name="draft_brick00_title">Gạch</string>
     <string name="draft_woodenpier00_title">Đê gỗ</string>
@@ -2382,7 +2382,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_selectuser_namelabel">Tên người chơi:</string>
     <string name="dialog_selectuser_namehint">Điền</string>
     <string name="dialog_selectuser_cmdselect">Chọn</string>
-    <string name="dialog_transfercity_title">Chuyển chủ sở hữu</string>
+    <string name="dialog_transfercity_title">Chuyền chủ sở hữu</string>
     <string name="dialog_transfercity_text">Chắc chưa?</string>
     <string name="dialog_transfercity_cmdtransfer">Chuyển</string>
     <string name="dialog_transferregion_title">Chuyển chủ sở hữu</string>
@@ -2392,13 +2392,13 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_removeowner_title">Xóa chủ sở hữu</string>
     <string name="dialog_removeowner_text">Bạn có chắc?</string>
     <string name="dialog_removeowner_cmdremove">Xóa</string>
-    <string name="stage_regioncity_lastplayed">Lần cuối cùng chơi: %1$s ago</string>
+    <string name="stage_regioncity_lastplayed">Lần cuối cùng chơi: %1$s trước</string>
     <string name="ci_loan_get_text2">Giá trị: %1$s
 \nĐiều khoản: %2$,d tháng
 \nChi tiêu mỗi tháng: %3$s</string>
     <string name="settings_uianimations">Hoạt họa</string>
     <string name="dialog_configureregion_password">Mật khẩu</string>
-    <string name="dialog_configureregion_password_desc">Điền.</string>
+    <string name="dialog_configureregion_password_desc">Điền vào</string>
     <string name="dialog_configureregion_enforepassword">Cần mật khẩu</string>
     <string name="dialog_regionstats_title">Số liệu thống kê của bang</string>
     <string name="ci_energy_produced_short">Đã sản xuất : %1$,.0fkW</string>
@@ -2406,7 +2406,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="ci_water_consumed_short">Đã sử dụng: %1$,.0fL/h</string>
     <string name="ci_water_produced_short">Đã sản xuất: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">Chung</string>
-    <string name="dialog_regionstats_cities">%1$d / %2$d thành phố</string>
+    <string name="dialog_regionstats_cities">%1$d/%2$d thành phố</string>
 
 
     <string name="regionlist_cat_popular">Nổi tiếng</string>
@@ -2441,21 +2441,21 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="settings_autosavewhenleaving">Lưu tự động khi rời thành phố</string>
     <string name="stage_regioncity_visits">Thăm: %1$,d</string>
     <string name="dialog_missingplugins_total">Plugin sử dụng</string>
-    <string name="settings_maprenderingnobackground">Hình nền trong suốt khi chụp ảnh map</string>
+    <string name="settings_maprenderingnobackground">Nền trong suốt khi chụp ảnh map</string>
     <string name="dialog_citygifts_title">Quà</string>
     <string name="dialog_citygifts_cmdnew">Gửi quà</string>
     <string name="dialog_citygifts_nogifts_receiver">Bạn chưa nhận được quà :(</string>
     <string name="dialog_citygifts_nogifts_other">Hãy là người đầu tiên gửi quà</string>
     <string name="dialog_citygifts_typemsg">Tin nhắn</string>
     <string name="dialog_citygifts_typeunknown">Không xác định</string>
-    <string name="dialog_citygifts_private">(riêng tư)</string>
+    <string name="dialog_citygifts_private">Riêng tư</string>
     <string name="dialog_citygifts_cmdcollect">Thu thập</string>
     <string name="dialog_citygifts_nomessage">Người gửi không để lại tin nhắn.</string>
     <string name="dialog_sendgift_title">Gửi quà</string>
     <string name="dialog_sendgift_cmdsend">Gửi nó</string>
     <string name="dialog_sendgift_typetext">Chữ</string>
     <string name="dialog_sendgift_typemoney">Tiền</string>
-    <string name="dialog_sendgift_typediamonds">Kim cương / Xu Region</string>
+    <string name="dialog_sendgift_typediamonds">Kim cương</string>
     <string name="dialog_sendgift_lbltype">Loại</string>
     <string name="dialog_sendgift_lblamount">Số lượng</string>
     <string name="dialog_sendgift_lblmessage">Tin nhắn</string>
