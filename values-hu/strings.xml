@@ -1,57 +1,57 @@
 <resources>
     <string name="app_name">TheoTown</string>
-    <string name="settings_title">beállitások</string>
-    <string name="loadcity_title">város betöltése</string>
-    <string name="createcity_title">új város</string>
-    <string name="settings_defaults">Defaults</string>
-    <string name="settings_apply">Apply</string>
-    <string name="createcity_mapsize">méret:</string>
-    <string name="createcity_cityname">város név:</string>
-    <string name="control_back">vissza</string>
-    <string name="createcity_start">Start</string>
-    <string name="loadcity_load">inditás</string>
-    <string name="welcome_agree">egyetértek</string>
-    <string name="welcome_content">üdvözöllek TheoTown-ba
+    <string name="settings_title">Beállitások</string>
+    <string name="loadcity_title">Város betöltése</string>
+    <string name="createcity_title">Új város</string>
+    <string name="settings_defaults">Alapértelmezett</string>
+    <string name="settings_apply">Alkalmaz</string>
+    <string name="createcity_mapsize">Méret:</string>
+    <string name="createcity_cityname">Város Név:</string>
+    <string name="control_back">Vissza</string>
+    <string name="createcity_start">Rajt</string>
+    <string name="loadcity_load">Inditás</string>
+    <string name="welcome_agree">Egyetértek</string>
+    <string name="welcome_content">Üdvözöllek TheoTown-ba
 
-\n\nThis app is currently in development. Be aware of that there might be still some small bugs. Please do not vote down this project for those little issues. Keep in mind that it\'s free.
+\n\nEz az alkalmazás jelenleg fejlesztés alatt áll. Vegye figyelembe, hogy vannak még apró bugs. Kérjük, ne engedje le ezt a projektet azokra a kis problémák. Ne feledje, hogy ingyenes.
 
-\n\nIf you like this app you might support us by telling your friends about it.
+\n\nHa tetszik ez az alkalmazás, akkor támogathat minket, ha elmondja barátainak.
 
-\n\nHave fun :)</string>
+\n\nÉrezd jól magad :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">lakosok: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Seed:</string>
-    <string name="createcity_sizesmall">kicsi</string>
-    <string name="createcity_sizemiddle">közepes</string>
-    <string name="createcity_sizebig">nagy</string>
-    <string name="createcity_sizeother">más</string>
+    <string name="createcity_seed">Mag:</string>
+    <string name="createcity_sizesmall">Kicsi</string>
+    <string name="createcity_sizemiddle">Közepes</string>
+    <string name="createcity_sizebig">Nagy</string>
+    <string name="createcity_sizeother">Más</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">Estate: %1$s</string>
+    <string name="game_estate">Birtok: %1$s</string>
     <string name="game_rating">%1$,d</string>
-    <string name="settings_resolutionlowlow">nagyon alacsony</string>
-    <string name="settings_resolutionlow">alacsony</string>
+    <string name="settings_resolutionlowlow">Nagyon alacsony</string>
+    <string name="settings_resolutionlow">Alacsony</string>
     <string name="settings_resolutionnormal">Normál</string>
-    <string name="settings_resolutionbig">nagy</string>
-    <string name="settings_resolutionbigbig">nagyon nagy</string>
-    <string name="settings_resolution">felbontás</string>
+    <string name="settings_resolutionbig">Nagy</string>
+    <string name="settings_resolutionbigbig">Nagyon nagy</string>
+    <string name="settings_resolution">Felbontás</string>
     <string name="dialog_nocities_title">Nem találtunk várost</string>
-    <string name="dialog_nocities_text">May not find any cities.</string>
-    <string name="dialog_nocities_cmdback">mégse</string>
-    <string name="dialog_nocities_cmdnewcity">új város</string>
-    <string name="settings_showads">reklámok mutatása</string>
-    <string name="settings_drawcars">kocsik mutatása</string>
-    <string name="settings_drawsmoke">füst mutatása</string>
-    <string name="settings_transparencybuildmode">Transparency in build mode</string>
-    <string name="settings_buildgrid">Grid in build mode</string>
-    <string name="settings_doublecardrawing">Double car drawing</string>
-    <string name="settings_drawwatersparkle">Draw water sparkle</string>
-    <string name="settings_drawmapedges">plya széle mutatása</string>
-    <string name="settings_hideads_title">reklámok el rejtése</string>
-    <string name="settings_hideads_text">If you really want to hide ads then it would be nice to support us by telling your friends about the app.
+    <string name="dialog_nocities_text">Lehet, hogy nem talál városokat.</string>
+    <string name="dialog_nocities_cmdback">Mégse</string>
+    <string name="dialog_nocities_cmdnewcity">Új város</string>
+    <string name="settings_showads">Reklámok mutatása</string>
+    <string name="settings_drawcars">Kocsik mutatása</string>
+    <string name="settings_drawsmoke">Füst mutatása</string>
+    <string name="settings_transparencybuildmode">Átláthatóság építkezés módban (build mode)</string>
+    <string name="settings_buildgrid">Rács építési módban (build mode)</string>
+    <string name="settings_doublecardrawing">Dupla autó rajz</string>
+    <string name="settings_drawwatersparkle">Rajzolj vízszikrát</string>
+    <string name="settings_drawmapedges">Plya széle mutatása</string>
+    <string name="settings_hideads_title">Reklámok el rejtése</string>
+    <string name="settings_hideads_text">Ha valóban el akarja rejteni a hirdetéseket, akkor jó lenne támogatni minket, ha elmondja a barátainak az alkalmazást.
 
-\n\nbiztos vagy-e benne?</string>
-    <string name="settings_hideads_yes">igen, én\ nagyon biztos vagyok benne</string>
+\n\nBiztos vagy-e benne?</string>
+    <string name="settings_hideads_yes">Igen, én\ nagyon biztos vagyok benne</string>
     <string name="settings_hideads_no">mégse</string>
     <string name="loadcity_errordialog_title">betöltés nem sikerült</string>
     <string name="loadcity_errordialog_text">May not load the city, the file seems to be damaged.\n\nSorry.</string>
