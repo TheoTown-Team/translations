@@ -1919,7 +1919,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="settings_hugeplugintexture">Chúc mừng, bạn đang chạy ở chế độ kết cấu lớn.</string>
     <string name="draft_tree00_autumn00_title">Cây mùa thu</string>
     <string name="draft_tree00_autumn00_text">Những chiếc lá úa trông thật đẹp</string>
-    <string name="settings_handintoolbar">Show tay ở thanh tình hình</string>
+    <string name="settings_handintoolbar">Hiện tay ở thanh công cụ</string>
     <string name="draft_bushman00_title">Bức tượng người lông lá</string>
     <string name="draft_bushman00_text">\"Mẹ ơi cái thứ quáy quỷ gì kia?\"\n\"Đừng nhìn nó. Nó sẽ ám con khi con mơ đấy.\"</string>
     <string name="draft_police03_title">Sở cảnh sát hiện đại</string>
@@ -1993,8 +1993,8 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="dialog_storesearch_cmdsearch">Tìm</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Nhà của Ông Già Nôen</string>
-    <string name="draft_deco_chr_santashouse00_text">Nhà của Ông Già Nôen</string>
+    <string name="draft_deco_chr_santashouse00_title">Nhà của ông già Nôen</string>
+    <string name="draft_deco_chr_santashouse00_text">Nhà của ông già Nôen</string>
 
 
     <string name="store_previouslyinstalled">Đã xóa</string>
@@ -2313,8 +2313,8 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_regionsearch_title">Tìm bang</string>
     <string name="dialog_regionsearch_text">Điền:</string>
     <string name="dialog_regionsearch_cmdsearch">Tìm</string>
-    <string name="dialog_regioncoininfo_title">Xu Region?</string>
-    <string name="dialog_regioncoininfo_text">Để cho cân bằng chúng tôi giới thiệu Xu Region. Bạn sẽ được nhận chúng mỗi ngày</string>
+    <string name="dialog_regioncoininfo_title">Xu region?</string>
+    <string name="dialog_regioncoininfo_text">Để cho cân bằng chúng tôi giới thiệu xu region. Bạn sẽ được nhận chúng mỗi ngày</string>
     <string name="settings_sdcardplugins">Tải plugin từ thẻ sd (TheoTown/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">Tải lên ngay?</string>
     <string name="dialog_uploadregionconfirm_text">Hãy chắc chắn rằng mạng wifi của bạn ổn định trước khi quá trình diễn ra</string>
@@ -2353,14 +2353,14 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="draft_concrete00_text">Bê tông cho trang trí</string>
     <string name="draft_concrete00_title">Bê tông</string>
     <string name="draft_concrete01_title">Bê tông kẻ vạch</string>
-    <string name="createregion_regionname">Tên bang:</string>
-    <string name="dialog_regionrules_allowsandbox">Chế độ Sanbox được sử dụng</string>
-    <string name="dialog_regionrules_notallowsandbox">Chế độ Sandbox không được sử dụng ở đây.</string>
+    <string name="createregion_regionname">Tên bang: </string>
+    <string name="dialog_regionrules_allowsandbox">Chế độ sandbox được sử dụng</string>
+    <string name="dialog_regionrules_notallowsandbox">Chế độ sandbox không được sử dụng ở đây.</string>
     <string name="dialog_configureregion_rules">Luật</string>
     <string name="dialog_configureregion_infos">Thông tin</string>
     <string name="dialog_configureregion_allowplugins">Cho phép plugin</string>
     <string name="dialog_configureregion_allowsandbox">Cho phép chế độ sandbox</string>
-    <string name="draft_sandstonetiles00_text">Đề can</string>
+    <string name="draft_sandstonetiles00_text">Đừng thay thế cả thiên nhiên với nó đấy</string>
     <string name="draft_sandstonetiles00_title">Gạch sa thạch</string>
     <string name="draft_brick00_title">Gạch</string>
     <string name="draft_woodenpier00_title">Đê gỗ</string>
@@ -2413,7 +2413,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="regionlist_cat_new">Mới</string>
     <string name="regionlist_cat_free">Miễn phí</string>
     <string name="regionlist_cat_protected">Được bảo vệ</string>
-    <string name="regionlist_cat_usercities">Thành phố sở hũu</string>
+    <string name="regionlist_cat_usercities">Thành phố sở hữu</string>
     <string name="regionlist_cat_userregions">Bang sở hữu</string>
     <string name="store_cat_other">Khác</string>
     <string name="store_cat_road">Đường</string>
@@ -2439,12 +2439,12 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="settings_category_tools">Công cụ</string>
     <string name="settings_category_gameplay">Nội dung của trò chơi</string>
     <string name="settings_autosavewhenleaving">Lưu tự động khi rời thành phố</string>
-    <string name="stage_regioncity_visits">Thăm: %1$,d</string>
+    <string name="stage_regioncity_visits">Thăm %1$,d</string>
     <string name="dialog_missingplugins_total">Plugin sử dụng</string>
-    <string name="settings_maprenderingnobackground">Nền trong suốt khi chụp ảnh map</string>
+    <string name="settings_maprenderingnobackground">Nền trong suốt khi chụp ảnh bản đồ</string>
     <string name="dialog_citygifts_title">Quà</string>
     <string name="dialog_citygifts_cmdnew">Gửi quà</string>
-    <string name="dialog_citygifts_nogifts_receiver">Bạn chưa nhận được quà :(</string>
+    <string name="dialog_citygifts_nogifts_receiver">Bạn chưa nhận được quà </string>
     <string name="dialog_citygifts_nogifts_other">Hãy là người đầu tiên gửi quà</string>
     <string name="dialog_citygifts_typemsg">Tin nhắn</string>
     <string name="dialog_citygifts_typeunknown">Không xác định</string>
@@ -2461,28 +2461,28 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="dialog_sendgift_lblmessage">Tin nhắn</string>
     <string name="dialog_sendgift_messagedesc">Điền tin nhắn nếu bạn muốn</string>
     <string name="dialog_sendgift_lblprivate">Riêng tư</string>
-    <string name="dialog_citygifts_reportsubject">Món quà bởi%1$s</string>
+    <string name="dialog_citygifts_reportsubject">Món quà bởi %1$s</string>
     <string name="dialog_deletegift_title">Xóa quà</string>
     <string name="dialog_deletegift_text">Chắc chưa?</string>
     <string name="dialog_deletegift_cmd">Xóa</string>
 
 
-    <string name="dialog_insufficientspace2_text">Hãy chắc chắn rằng bạn đã cấp quyền tru cập bộ nhớ cho Theotown </string>
+    <string name="dialog_insufficientspace2_text">Hãy chắc chắn rằng bạn đã cấp quyền truy cập bộ nhớ cho Theotown </string>
     <string name="dialog_uploadregiontoobig_title">Đăng bang</string>
-    <string name="dialog_uploadregiontoobig_text">Bang quá to để đăng :/</string>
+    <string name="dialog_uploadregiontoobig_text">Bang quá to để đăng!</string>
     <string name="channel_onlinemode_title">Chế độ online</string>
     <string name="channel_onlinemode_text">Thông tin mới về thành phố của bạn</string>
     <string name="dialog_externalstorage_proceedwithout">Tiếp tục với rủi ro</string>
     <string name="dialog_externalstorage_title">Không có quyền truy cập bộ nhớ</string>
     <string name="dialog_externalstorage_explanation">Theotown cần có quyền truy cập bộ nhớ để lưu thành phố và bang</string>
     <string name="dialog_onlinenotifications_title">Thông báo</string>
-    <string name="dialog_onlinenotifications_time">%1$s Trước</string>
+    <string name="dialog_onlinenotifications_time">%1$s trước</string>
     <string name="dialog_onlinenotifications_empty">Chưa có thông báo</string>
     <string name="dialog_onlinenotifications_cmdempty">Thông báo</string>
     <string name="dialog_onlinenotifications_cmdnonempty">Thông báo (%1$,d)</string>
     <string name="dialog_reason_title">Lý do</string>
     <string name="dialog_reason_text">Để tiếp tục bạn cần có lý do</string>
-    <string name="store_realtitle">Cửa hàng Plugins</string>
+    <string name="store_realtitle">Cửa hàng plugin</string>
     <string name="settings_pushnotificationsonline">Thông báo về chế độ online</string>
     <string name="settings_verticaltoolbar">Thanh công cụ dọc</string>
     <string name="settings_darktoolbar">Thanh công cụ tối</string>
