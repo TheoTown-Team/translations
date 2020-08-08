@@ -2443,46 +2443,43 @@
     <string name="dialog_deletegift_text">정말로 이 선물을 삭제하실 건가요? 되돌릴 수 없어요.</string>
     <string name="dialog_deletegift_cmd">삭제</string>
 
+    <string name="dialog_insufficientspace2_text">만약 이것이 문제를 일으킨다고 생각되면 앱이 외부저장공간에 확실히 접근할 수 있도록 해주세요.</string>
+    <string name="dialog_uploadregiontoobig_title">지역 업로드</string>
+    <string name="dialog_uploadregiontoobig_text">이 지역은 업로드 하기엔 너무 커요 :/</string>
+    <string name="channel_onlinemode_title">온라인 모드</string>
+    <string name="channel_onlinemode_text">온라인 모드에서의 새로운 도시 정보.</string>
+    <string name="dialog_externalstorage_proceedwithout">위험을 가진체로 진행하기</string>
+    <string name="dialog_externalstorage_title">외부 저장공간 접근 불가</string>
+    <string name="dialog_externalstorage_explanation">TheoTown은 도시와 지역을 저장하기 위해서 사용자가 선택하여 외부 저장소 권한을 사용합니다.
+이렇게 함으로써 앱 업데이트 또는 재설치로 인한 잠재적 데이터 손실을 피할 수 있게 됩니다.
+\n\n권한 없이 게임 자체는 작동가능합니다. 하지만, 내부 저장소를 사용함으로써 발생한 잠재적 데이터 손실이나 기능손실을 책임지지 않습니다</string>
+    <string name="dialog_onlinenotifications_title">알림</string>
+    <string name="dialog_onlinenotifications_time">%1$초 전</string>
+    <string name="dialog_onlinenotifications_empty">알림이 아직 없어요</string>
+    <string name="dialog_onlinenotifications_cmdempty">알림</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">알림 (%1$,d)</string>
+    <string name="dialog_reason_title">사유</string>
+    <string name="dialog_reason_text">진행하기전에 이 행동에 대한 특정 사유가 있어야 해요.</string>
+    <string name="store_realtitle">플러그인 스토어</string>
+    <string name="settings_pushnotificationsonline">온라인 모드 알림</string>
+    <string name="settings_verticaltoolbar">수직 툴바</string>
+    <string name="settings_darktoolbar">어두운 툴바</string>
+    <string name="dialog_tutwelcome_title">TheoTown에 오신걸 환영합니다</string>
+    <string name="dialog_tutwelcome_text">어떻게 도시를 만들어야 하는지 기본을 이 튜토리얼에서 알려드릴거에요.\n\n
+이미 어떻게 플레이하는지 알고 있다면 튜토리얼을 건너뛸 수 있어요. 게임 메뉴에서 언재든 튜토리얼을 건너뛸 수 있어요.</string>
+    <string name="dialog_tutwelcome_cmdskip">건너뛰기</string>
+    <string name="dialog_tutwelcome_start">출발합시다</string>
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
-    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
-By doing so we can circumvent potential data loss caused by app updates or re-installation.
-\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
-
-
-    <string name="settings_catplugins">Plugins</string>
-    <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
+    <string name="settings_catplugins">플러그인</string>
+    <string name="settings_keys">암호</string>
+    <string name="settings_keys_cmdreset">기본으로 설정</string>
+    <string name="settings_keys_text">현재 지정: %1$s\n
+기본: %2$s\n\n
 Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_toolbarnames">툴바에서 이름 표시</string>
+    <string name="settings_toolbarprices">툴바에서 가격 표시</string>
 
-
-    <string name="shader_default2">Default</string>
+    <string name="shader_default2">기본</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ
