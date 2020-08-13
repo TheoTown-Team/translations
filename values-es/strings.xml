@@ -42,8 +42,8 @@
     <string name="settings_showads">Mostrar anuncios</string>
     <string name="settings_drawcars">Ver autos</string>
     <string name="settings_drawsmoke">Ver humo</string>
-    <string name="settings_transparencybuildmode">Trasparencia en el modo construir</string>
-    <string name="settings_buildgrid">Rejilla en modo costruir</string>
+    <string name="settings_transparencybuildmode">Trasparencia en el modo de construcción</string>
+    <string name="settings_buildgrid">Rejilla en modo de construcción</string>
     <string name="settings_doublecardrawing">Ver coches dobles</string>
     <string name="settings_drawwatersparkle">Ver chispas de agua</string>
     <string name="settings_drawmapedges">Dibujar bordes del mapa</string>
@@ -54,7 +54,7 @@
     <string name="settings_hideads_yes">Estoy seguro</string>
     <string name="settings_hideads_no">Cancelar</string>
     <string name="loadcity_errordialog_title">Error de carga</string>
-    <string name="loadcity_errordialog_text">No se puede cargar la ciudad, el archivo parece estar dañado.\n\nSorry.</string>
+    <string name="loadcity_errordialog_text">No se puede cargar la ciudad, el archivo parece estar dañado.\n\nDisculpas.</string>
     <string name="loadcity_errordialog_cmdcancel">Cancelar</string>
     <string name="dialog_screenshot_title">Captura de pantalla</string>
     <string name="dialog_screenshot_text">La imagen se ha guardado como %1$s.</string>
@@ -97,7 +97,7 @@
     <string name="draft_wire00_title">Tendido Electrico</string>
     <string name="draft_wire00_text">Utilice el tendido electrico para conectar su ciudad con sus plantas de energía.</string>
     <string name="draft_windturbine00_title">Turbina eólica</string>
-    <string name="draft_windturbine00_text">Una turbina eólica hace ruido pero no genera contaminación.</string>
+    <string name="draft_windturbine00_text">Una turbina eólica hace ruido pero no contamina.</string>
     <string name="draft_coalplant00_title">Planta de carbón</string>
     <string name="draft_coalplant00_text">La planta de carbón genera mucha energía, pero también es mala para el medio ambiente.</string>
     <string name="draft_solarpanels00_title">Paneles solares</string>
@@ -109,6 +109,7 @@
     <string name="draft_park02_title">Parque pequeño de cespéd</string>
     <string name="draft_park02_text">A los habitantes les gustará.</string>
     <string name="draft_park03_title">Parque pequeño</string>
+    <string name="draft_park02_text">A los habitantes les gustará.</string>
     <string name="draft_waterfountain00_title">Fuente de agua</string>
     <string name="draft_waterfountain00_text">A los habitantes les gustará.</string>
     <string name="draft_bigpark00_title">Parque grande</string>
@@ -221,7 +222,7 @@
     <string name="draft_waterfountain01_title">Fuente de agua</string>
     <string name="draft_waterfountain01_text">A los habitantes les gustará.</string>
     <string name="draft_treepark01_title">Parque de árboles</string>
-    <string name="draft_treepark01_text">Un pequeño parque con árboles. A sus habitantes les gustará.</string>
+    <string name="draft_treepark01_text">Un pequeño parque con árboles. A los habitantes les gustará.</string>
     <string name="buildinginfo_res0">Residencial ₮</string>
     <string name="buildinginfo_com0">Com ₮</string>
     <string name="buildinginfo_ind0">Industrial ₮</string>
@@ -247,7 +248,7 @@
     <string name="draftselector_titletransport">Transporte</string>
     <string name="draftselector_titlezone">Zonas</string>
     <string name="draft_zoneresidential_title">Residencial</string>
-    <string name="draft_zoneresidential_text">Los residentes construirán casas en esta zona.</string>
+    <string name="draft_zoneresidential_text">Los residentes pueden construir casas en esta zona.</string>
     <string name="draft_zonecommercial_title">Comercial</string>
     <string name="draft_zonecommercial_text">Los edificios comerciales pueden construir en esta zona.</string>
     <string name="draft_zoneindustrial_title">Industrial</string>
@@ -272,7 +273,7 @@
     <string name="draft_busdepot00_title">Estación de autobuses</string>
     <string name="draft_busdepot00_text">Se necesita un depósito para turnar las salidas de los autobuses a diferentes sitios.</string>
     <string name="settings_debugmode">Modo de depuración</string>
-    <string name="unknown">Wurstbrot</string>
+    <string name="unknown">Pan de salchicha</string>
     <string name="draftselector_titleremove">Retirar</string>
     <string name="draftselector_titleview">Ver</string>
     <string name="toolremove_default_title">Eliminar</string>
@@ -312,7 +313,7 @@
     <string name="ci_rci_ind1">Ind ₮₮</string>
     <string name="ci_rci_ind2">Ind ₮₮₮</string>
     <string name="ci_general_population0">Habitantes pobres (₮): %1$,d</string>
-    <string name="ci_general_population1">Habitantes medianos (₮₮): %1$,d</string>
+    <string name="ci_general_population1">Habitantes medios (₮₮): %1$,d</string>
     <string name="ci_general_population2">Habitantes ricos (₮₮₮): %1$,d</string>
     <string name="draft_footballfield00_title">Campo de fútbol</string>
     <string name="draft_footballfield00_text">Un campo de fútbol hará que sus habitantes esten felices.</string>
@@ -332,7 +333,7 @@
     <string name="draft_pool00_text">Vamos a la piscina al aire libre.</string>
     <string name="draft_pool00_waterslide_title">Tobogán</string>
     <string name="draft_pool00_waterslide_text">Toboganes de agua y sombrillas.</string>
-    <string name="blank_text">Aquí podría poner su publicidad</string>
+    <string name="blank_text">Aquí puede poner su publicidad</string>
     <string name="draft_middlepark00_title">Parque mediano</string>
     <string name="draft_middlepark00_text">A los habitantes les gustará.</string>
     <string name="draft_basketball00_title">Baloncesto</string>
@@ -365,7 +366,7 @@
     <string name="draft_radio00_text">A los habitantes les gustará el programa de radio.</string>
     <string name="draftselector_cmdalert">¡Vamos!</string>
     <string name="draft_alert_police00_title">Llama a la policía</string>
-    <string name="draft_alert_police00_text">Llama a la policía para detener a los criminales.</string>
+    <string name="draft_alert_police00_text">Llama al cuerpo policial para detener a los criminales.</string>
     <string name="draft_alert_fire00_title">Llama a los bomberos</string>
     <string name="draft_alert_fire00_text">Llama al cuerpo de bomberos si algo está ardiendo.</string>
     <string name="draft_alert_medic00_title">Llama al doctor</string>
@@ -418,7 +419,7 @@
 \n
 \nSólo un programa de radio es permitido al mismo tiempo. Los programas antiguos se eliminarán.</string>
     <string name="draft_lighthouse00_title">Faro</string>
-    <string name="draft_lighthouse00_text">No hay naves muy lejos, pero hay un faro ... extraño.</string>
+    <string name="draft_lighthouse00_text">No hay naves cerca, pero hay un faro ... extraño.</string>
     <string name="draft_road02_title">Autovía</string>
     <string name="draft_road02_text">Conexión más rápida entre dos ubicaciones.</string>
     <string name="budget_road">Carreteras</string>
@@ -436,7 +437,7 @@
     <string name="tutorial_buildwire_a">Puedes usar el tendido electrico para transportar energía.</string>
     <string name="tutorial_buildwire_b">Colóquelo a lo largo de los azulejos marcados.</string>
     <string name="tutorial_buildwire_c">¡Buen trabajo!</string>
-    <string name="tutorial_buildwater_a">Vamos a tratar de construir una torre de agua para proporcionar un poco de ella.</string>
+    <string name="tutorial_buildwater_a">Vamos a probar a construir una torre de agua para abastecer un poco de ella.</string>
     <string name="tutorial_buildwater_b">Colócalo en el azulejo marcado.</string>
     <string name="tutorial_buildwater_c">¡Buen trabajo!</string>
     <string name="tutorial_buildpipe_a">Una torre de agua por sí sola no es suficiente. También necesitarás tuberías para proporcionar agua a los edificios.</string>
@@ -449,17 +450,17 @@
     <string name="tutorial_buildcommercial_a">Vamos a continuar con una zona comercial, los comercios se construirán allí.</string>
     <string name="tutorial_buildcommercial_b">Coloca la zona en los azulejos marcados.</string>
     <string name="tutorial_buildcommercial_c">¡Buen trabajo!</string>
-    <string name="tutorial_buildindustrial_a">Por último, pero no menos importante, las zonas industriales. Osea, donde las fábricas serán construidas.</string>
+    <string name="tutorial_buildindustrial_a">Por último, pero no menos importante, las zonas industriales. Es decir, donde las fábricas serán construidas.</string>
     <string name="tutorial_buildindustrial_b">Coloca la zona en los azulejos marcados.</string>
     <string name="tutorial_buildindustrial_c">¡Buen trabajo! Ahora se construirán los edificios.</string>
-    <string name="tutorial_industrial_keepaway">Debes mantener las zonas industriales alejadas de otras debido a la contaminación y el ruido.</string>
+    <string name="tutorial_industrial_keepaway">Debes mantener las zonas industriales alejadas de otras debido a la contaminación y el ruido que producen.</string>
     <string name="tutorial_rci">Toca este botón para ver la información detallada de la demanda para cada tipo de zona.</string>
     <string name="tutorial_speed_fast">Puedes cambiar la velocidad de la simulación para acortar el tiempo de espera.</string>
     <string name="tutorial_speed_normal">Ahora vuelve a la velocidad normal.</string>
     <string name="tutorial_money_task">Tu tarea es obtener dinero de impuestos para ampliar la ciudad.</string>
     <string name="tutorial_money_info">Toca en la esquina inferior derecha para obtener más información sobre tu dinero o para cambiar los impuestos.</string>
     <string name="tutorial_congrats">¡Felicidades! Aprendiste los fundamentos de TheoTown. Ahora puedes empezar tu propia ciudad, ¡suerte!</string>
-    <string name="draft_road03_title">Calle de un único sentido.</string>
+    <string name="draft_road03_title">Carretera de un único sentido.</string>
     <string name="draft_road03_text">Los coches sólo pueden conducir en una dirección en este tipo de carretera. Utilízala para controlar el tráfico.</string>
     <string name="budget_sports">Deportes</string>
     <string name="budget_religion">Religión</string>
@@ -475,7 +476,7 @@
     <string name="settings_disaster_auto">Catástrofes automáticas</string>
     <string name="notify_firenodp">¡Hay un incendio en la ciudad! Construye departamentos de bomberos para extinguir el fuego.</string>
     <string name="draft_destroyedtile_title">Chatarra</string>
-    <string name="draft_destroyedtile_text">Una estructura destruida, debes quitarla.</string>
+    <string name="draft_destroyedtile_text">Los restos de una estructura, debes quitarla.</string>
     <string name="disaster_fire_title">Fuego</string>
     <string name="disaster_fire_text">¡Quema todo!</string>
     <string name="disaster_fire_cmdtext">¡Quemar!</string>
@@ -499,10 +500,10 @@
     <string name="ci_loan_get_text">Préstamo por defecto, 10.000 ₮
 \nDuración: 24 meses
 \nCostes mensuales: 500 ₮</string>
-    <string name="draft_crater4x4_title">Cráter del meteorito</string>
+    <string name="draft_crater4x4_title">Cráter de meteorito</string>
     <string name="draft_crater4x4_text">Un enorme cráter de un meteoro, debes quitarlo.</string>
-    <string name="draft_crater1x1_title">Cráter del meteorito</string>
-    <string name="draft_crater1x1_text">Un pequeño cráter del meteorito. debes quitarlo.</string>
+    <string name="draft_crater1x1_title">Cráter de meteorito</string>
+    <string name="draft_crater1x1_text">Un pequeño cráter de un meteorito, debes quitarlo.</string>
     <string name="settings_disaster_nuke">Arma nuclear</string>
     <string name="disaster_nuke_title">Arma nuclear</string>
     <string name="disaster_nuke_text">Parece inofensiva...</string>
@@ -519,7 +520,7 @@
     <string name="disaster_tornado_cmdtext">Viento del lugar</string>
     <string name="buildinginfo_untouchable">Intocable</string>
     <string name="draft_zoneresidential_lvl2_title">Zona residencial densa</string>
-    <string name="draft_zoneresidential_lvl2_text">Una zona residencial con mayor densidad.</string>
+    <string name="draft_zoneresidential_lvl2_text">Una zona residencial con alta densidad.</string>
     <string name="draft_zonecommercial_lvl2_title">Zona comercial densa</string>
     <string name="draft_zonecommercial_lvl2_text">Zona comercial con alta densidad.</string>
     <string name="draft_zoneindustrial_lvl2_title">Zona industrial densa</string>
@@ -534,9 +535,9 @@
     <string name="draftselector_onlyone">Sólo se puede construir una vez</string>
     <string name="draftselector_onlyn">Solo se puede construir %1$,d veces</string>
     <string name="draft_church02_title">Iglesia pequeña</string>
-    <string name="draft_church02_text">Una iglesia para pueblos.</string>
+    <string name="draft_church02_text">Una iglesia para el pueblo.</string>
     <string name="draft_mosque01_title">Mezquita pequeña</string>
-    <string name="draft_mosque01_text">Una mezquita para pueblos.</string>
+    <string name="draft_mosque01_text">Una mezquita para el pueblo.</string>
     <string name="settings_sound_ui">Sonido de la interfaz de usuario</string>
     <string name="settings_sound_game">Sonido del juego</string>
     <string name="settings_preserveedges">Conservar los bordes</string>
@@ -566,7 +567,7 @@
     <string name="influence_religion_title">Religión</string>
     <string name="influence_culture_title">Cultura</string>
     <string name="influence_culture_text">El valor de cultura en la ciudad.</string>
-    <string name="influence_education_low_text">Las escuelas primarias ofrecen una educación basica.</string>
+    <string name="influence_education_low_text">La educación basica es proporcionada por las escuelas primarias.</string>
     <string name="influence_education_high_text">La educación superior es proporcionada por las escuelas secundarias.</string>
     <string name="influence_firedep_text">Los departamentos de bomberos reducen la probabilidad de incendios.</string>
     <string name="influence_health_text">Los médicos ayudan a mantener a los habitantes saludables.</string>
@@ -1059,7 +1060,7 @@
     <string name="tut_start01">Sin embargo, vamos a construir una ciudad, pero tal vez deberíamos empezar lentamente.</string>
     <string name="tut_start02">Toque en la pantalla para mover el mapa, puede hacer zoom con dos dedos.</string>
     <string name="tut_start03">Genial!, creo que ahora tienes algo de sensibilidad para los controles, así que podemos comenzar con su primera ciudad.</string>
-    <string name="tut_build00">Qué conveniente, la nación ya ha construido algunos caminos aquí, para que podamos usarlos gratis.</string>
+    <string name="tut_build00">Qué conveniente, el Estado ya ha construido algunos caminos aquí para que podamos usarlos gratis.</string>
     <string name="tut_build01">Vamos a declarar una zona residencial donde, la gente construirá casas por su cuenta.</string>
     <string name="tut_build02">Mejor rodeamos la zona con algunas carreteras, la gente sólo construirá cerca de carreteras.</string>
     <string name="tut_build03">Ahora tenemos que esperar a que la gente se mude a nuestra ciudad.</string>
@@ -1072,7 +1073,7 @@
     <string name="tut_build09">También tenemos que esperar a que el edificio se complete, en lugar de esperar, podríamos comprarlo por diamantes.</string>
     <string name="tut_build10">Para el agua usamos tuberías para transportarla a sus edificios, construye algunos para fines futuros.</string>
     <string name="tut_build11">Bien, ahora tenemos algunos habitantes con energía y agua, pero espera, todavía falta algo...</string>
-    <string name="tut_build110">Alcalde, ¡no tenemos trabajo ni un lugar para comprar cosas!</string>
+    <string name="tut_build110">Alcalde, ¡no tenemos trabajo ni lugares para comprar cosas!</string>
     <string name="tut_build12">Bien, también necesitamos zonas comerciales e industriales, vamos a echar un vistazo a la visión general de la demanda.</string>
     <string name="tut_build13">Aquí se puede ver la demanda de residencias, comercios e industriales.</string>
     <string name="tut_build14">Para cada tipo (res, com o ind) hay tres niveles de riqueza: ₮, ₮₮ y ₮₮₮ que corresponden a pobres, clase media y ricos.</string>
