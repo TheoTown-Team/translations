@@ -13,15 +13,15 @@
     <string name="welcome_agree">Saya setuju</string>
     <string name="welcome_content">Selamat datang di TheoTown
 
-\n\nAplikasi ini sedang dalam pengembangan. Jika ditelusuri, mungkin masih muncul beberapa bug kecil. Harap maklum dengan tidak mengurangi penilaian untuk isu-isu kecil seperti itu. Ingat bahwa game ini gratis.
+\n\nAplikasi ini sedang dalam pengembangan. Mungkin masih ada beberapa bug-bug kecil. Harap maklum dengan tidak mengurangi penilaian untuk isu-isu kecil seperti itu. Ingat bahwa game ini gratis.
 
-\n\nJika Anda menyukai aplikasi ini, Anda bisa mendukung kami dengan memberitahu teman-temanmu tentang gim ini.
+\n\nJika Anda menyukai aplikasi ini, Anda bisa mendukung kami dengan memberitahu teman-temanmu tentang game ini.
 
 \n\nSelamat bermain! :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Penduduk: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Benih:</string>
+    <string name="createcity_seed">Seed:</string>
     <string name="createcity_sizesmall">Kecil</string>
     <string name="createcity_sizemiddle">Sedang</string>
     <string name="createcity_sizebig">Besar</string>
@@ -36,34 +36,34 @@
     <string name="settings_resolutionbigbig">Sangat besar</string>
     <string name="settings_resolution">Resolusi</string>
     <string name="dialog_nocities_title">Kota tidak ditemukan</string>
-    <string name="dialog_nocities_text">Tidak dapat menemukan kota apapun.</string>
+    <string name="dialog_nocities_text">Tidak ada satupun kota yang ditemukan.</string>
     <string name="dialog_nocities_cmdback">Kembali</string>
     <string name="dialog_nocities_cmdnewcity">Kota Baru</string>
     <string name="settings_showads">Tunjukkan iklan</string>
-    <string name="settings_drawcars">Gambar mobil</string>
-    <string name="settings_drawsmoke">Gambar asap</string>
+    <string name="settings_drawcars">Tunjukkan mobil</string>
+    <string name="settings_drawsmoke">Tunjukkan asap</string>
     <string name="settings_transparencybuildmode">Transparan dalam mode pembangunan</string>
     <string name="settings_buildgrid">Kotak dalam mode pembangunan</string>
     <string name="settings_doublecardrawing">Gandakan gambaran mobil</string>
-    <string name="settings_drawwatersparkle">Gambar kilauan air</string>
-    <string name="settings_drawmapedges">Gambar perbatasan peta</string>
+    <string name="settings_drawwatersparkle">Tunjukkan kilauan air</string>
+    <string name="settings_drawmapedges">Tunjukkan perbatasan peta</string>
     <string name="settings_hideads_title">Sembunyikan iklan</string>
-    <string name="settings_hideads_text">Jika Anda benar-benar ingin menyembunyikan iklan, sebaiknya Anda mendukung kami dengan memberitahu teman-teman Anda tentang aplikasi ini.
+    <string name="settings_hideads_text">Jika Anda benar-benar ingin menyembunyikan iklan, sebaiknya Anda mendukung kami dengan memberitahu teman-teman Anda tentang game ini.
 
 \n\nApakah Anda yakin?</string>
-    <string name="settings_hideads_yes">Ya, saya benar-benar yakin</string>
-    <string name="settings_hideads_no">Kembali</string>
+    <string name="settings_hideads_yes">Ya</string>
+    <string name="settings_hideads_no">Tidak</string>
     <string name="loadcity_errordialog_title">Gagal memuat</string>
     <string name="loadcity_errordialog_text">Tidak dapat memuat kota, file sepertinya rusak.\n\nMaaf.</string>
     <string name="loadcity_errordialog_cmdcancel">Kembali</string>
-    <string name="dialog_screenshot_title">Tangkapan layar diambil</string>
-    <string name="dialog_screenshot_text">Gambar telah disimpan sebagai %1$s.</string>
-    <string name="dialog_screenshot_cmdok">OK, terima kasih</string>
+    <string name="dialog_screenshot_title">Screenshot diambil</string>
+    <string name="dialog_screenshot_text">Screenshot telah disimpan sebagai %1$s.</string>
+    <string name="dialog_screenshot_cmdok">OK</string>
     <string name="draftselector_titleparks">Taman</string>
-    <string name="draftselector_titlepublics">Fas. Umum</string>
+    <string name="draftselector_titlepublics">Fasilitas Umum</string>
     <string name="draftselector_titleenergy">Listrik</string>
     <string name="draftselector_titlewater">Air</string>
-    <string name="draftselector_titleschool">Edukasi</string>
+    <string name="draftselector_titleschool">Pendidikan</string>
     <string name="draftselector_titlehealth">Kesehatan</string>
     <string name="draftselector_titlepolice">Polisi</string>
     <string name="draftselector_titlefiredepartment">Damkar</string>
@@ -87,7 +87,7 @@
     <string name="dialog_invalidcityname_text">Harap memakai nama lain untuk kotamu. Nama tidak boleh kosong.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Peta sangat besar</string>
-    <string name="dialog_hugesize_text">Ukuran ini hanya eksperimen dan mungkin tidak bekerja pada perangkat Anda. Apakah Anda benar-benar membutuhkan peta yang besar?</string>
+    <string name="dialog_hugesize_text">Ukuran ini experimental dan mungkin tidak bekerja pada perangkat Anda. Apakah anda yakin membutuhkan peta yang besar?</string>
     <string name="dialog_hugesize_cmdyes">Ya</string>
     <string name="dialog_hugesize_cmdno">Tidak</string>
     <string name="draft_church00_title">Gereja</string>
@@ -95,35 +95,35 @@
     <string name="draft_townhall00_title">Balai Kota</string>
     <string name="draft_townhall00_text">Kota besar membutuhkan balai kota. Para penduduk akan menyukainya.</string>
     <string name="draft_wire00_title">Kabel</string>
-    <string name="draft_wire00_text">Gunakan kabel untuk menghubungkan kota Anda dengan pembangkit listrik Anda.</string>
+    <string name="draft_wire00_text">Gunakan kabel untuk menghubungkan kota dengan pembangkit listrik Anda.</string>
     <string name="draft_windturbine00_title">PLTB</string>
     <string name="draft_windturbine00_text">Turbin angin membuat kebisingan, namun tidak menimbulkan polusi.</string>
     <string name="draft_coalplant00_title">PLTU</string>
-    <string name="draft_coalplant00_text">PLTU menghasilkan banyak tenaga, tetapi juga buruk bagi lingkungan.</string>
+    <string name="draft_coalplant00_text">PLTU menghasilkan banyak tenaga, banyak juga polusinya.</string>
     <string name="draft_solarpanels00_title">Panel surya</string>
-    <string name="draft_solarpanels00_text">Panel surya bagus untuk lingkungan dan mereka tidak mencemari lingkungan.</string>
+    <string name="draft_solarpanels00_text">Panel surya bagus untuk lingkungan, namun berdaya kecil.</string>
     <string name="draft_park00_title">Taman bunga kecil</string>
-    <string name="draft_park00_text">Para penduduk akan menyukainya.</string>
+    <string name="draft_park00_text">Untuk mengharumkan kota.</string>
     <string name="draft_park01_title">Taman kecil</string>
-    <string name="draft_park01_text">Para penduduk akan menyukainya.</string>
+    <string name="draft_park01_text">Taman kecil untuk kota kecil yang indah.</string>
     <string name="draft_park02_title">Taman rumput kecil</string>
-    <string name="draft_park02_text">Para penduduk akan menyukainya.</string>
+    <string name="draft_park02_text">Anak-Anak bisa berguling-guling disini.</string>
     <string name="draft_park03_title">Taman kecil</string>
     <string name="draft_waterfountain00_title">Air mancur</string>
     <string name="draft_waterfountain00_text">Para penduduk akan menyukainya.</string>
     <string name="draft_bigpark00_title">Taman besar</string>
-    <string name="draft_bigpark00_text">Para penduduk akan menyukai taman besar.</string>
+    <string name="draft_bigpark00_text">Taman besar dengan desain yang lebih menarik.</string>
     <string name="draft_park03_text">Para penduduk akan menyukainya.</string>
-    <string name="draft_medic00_title">Dokter</string>
-    <string name="draft_medic00_text">Di sini para penduduk bisa menemui dokter.</string>
+    <string name="draft_medic00_title">Puskesmas</string>
+    <string name="draft_medic00_text">Rumah sakit kecil untuk penyakit biasa.</string>
     <string name="draft_medic01_title">Rumah sakit</string>
-    <string name="draft_medic01_text">Penduduk merasa nyaman tinggal di dekat rumah sakit.</string>
+    <string name="draft_medic01_text">Rumah Sakit untuk penyakit yang membutuhkan penanganan lebih lanjut.</string>
     <string name="draft_school00_title">Sekolah dasar</string>
-    <string name="draft_school00_text">Tempat di mana anak belajar sesuatu.</string>
+    <string name="draft_school00_text">Disini anak-anak belajar pengetahuan dasar.</string>
     <string name="draft_school01_title">Sekolah menengah</string>
-    <string name="draft_school01_text">Tempat di mana anak remaja belajar sesuatu.</string>
+    <string name="draft_school01_text">Sekolah untuk remaja dimana mereka belajar pengetahuan yang lebih tinggi.</string>
     <string name="draft_museum00_title">Museum</string>
-    <string name="draft_museum00_text">Tempat di mana orang dewasa belajar tentang sejarah.</string>
+    <string name="draft_museum00_text">Artefak-artefak disimpan disini.</string>
     <string name="draft_pipe00_title">Pipa</string>
     <string name="draft_pipe00_text">Pipa bisa digunakan untuk mengalirkan air ke bangunan-bangunan.</string>
     <string name="draft_waterpump00_title">PAM</string>
@@ -135,10 +135,10 @@
         <string name="gamemode_easy">Mudah</string>
     <string name="gamemode_middle">Normal</string>
     <string name="gamemode_hard">Sulit</string>
-    <string name="game_infinitemoney">Mode bebas</string>
+    <string name="game_infinitemoney">Tanpa Uang</string>
     <string name="about_title">Kredit</string>
     <string name="about_cmdback">Kembali</string>
-    <string name="about_text">Aplikasi TheoTown untuk Android adalah produk dari</string>
+    <string name="about_text">TheoTown Android adalah produk dari</string>
     <string name="settings_music">Musik</string>
     <string name="draftselector_titleaward">Penghargaan</string>
     <string name="shader_default">Klasik</string>
@@ -157,8 +157,8 @@
     <string name="draft_statue00_title">Patung</string>
     <string name="draft_statue00_text">Sebuah patung wali kota.</string>
     <string name="draft_gillender00_title">Gedung Gillender</string>
-    <string name="draft_gillender00_text">Gedung Gillender. Terima kasih atas 250,000 unduhan :D</string>
-    <string name="topic_thanks">Terima kasih atas dukunganmu yang keren!</string>
+    <string name="draft_gillender00_text">Gedung Gillender. Terima kasih atas 250,000 download!</string>
+    <string name="topic_thanks">Terima kasih atas dukunganmu!</string>
     <string name="topic_cake">Om telolet om!</string>
     <string name="topic_panic">Jangan panik</string>
     <string name="draft_bigschool00_title">Sekolah dasar besar</string>
@@ -166,7 +166,7 @@
     <string name="draft_treepark00_title">Taman pohon</string>
     <string name="draft_treepark00_text">Sebuah taman kecil dengan pepohonan. Para penduduk akan menyukainya.</string>
     <string name="menu_premium">Premium</string>
-    <string name="ci_budget_title">Keuangan</string>
+    <string name="ci_budget_title">Dana</string>
     <string name="budget_res0">Penduduk ₮ (%1$,d)</string>
     <string name="budget_res1">Penduduk ₮₮ (%1$,d)</string>
     <string name="budget_res2">Penduduk ₮₮₮ (%1$,d)</string>
@@ -176,16 +176,16 @@
     <string name="budget_ind0">Industri ₮ (%1$,d)</string>
     <string name="budget_ind1">Industri ₮₮ (%1$,d)</string>
     <string name="budget_ind2">Industri ₮₮₮ (%1$,d)</string>
-    <string name="budget_park">Taman</string>
-    <string name="budget_education">Edukasi</string>
+    <string name="budget_park">Rekreasi</string>
+    <string name="budget_education">Pendidikan</string>
     <string name="budget_firebrigade">Damkar</string>
     <string name="budget_police">Polisi</string>
     <string name="budget_award">Penghargaan</string>
     <string name="budget_energy">Listrik</string>
     <string name="budget_water">Air</string>
-    <string name="budget_public">Bangunan publik</string>
-    <string name="budget_medic">Medis</string>
-    <string name="ci_budget_overall">Secara keseluruhan</string>
+    <string name="budget_public">Fasilitas Publik</string>
+    <string name="budget_medic">Kesehatan</string>
+    <string name="ci_budget_overall">Total</string>
     <string name="ci_budget_income">Pendapatan (per bulan)</string>
     <string name="ci_budget_spending">Pengeluaran (per bulan)</string>
     <string name="ci_budget_taxes">Pajak</string>
@@ -196,10 +196,10 @@
     <string name="ci_water_text">TIDAK DIGUNAKAN</string>
     <string name="ci_energy_text">TIDAK DIGUNAKAN</string>
     <string name="ci_general_text">TIDAK DIGUNAKAN</string>
-    <string name="topic_reddit">Reddit udah diblokir di Indonesia</string>
+    <string name="topic_reddit">Reddit diblokir disini, tapi bisa dibuka dengan VPN</string>
     <string name="topic_animals">Tidak ada binatang yang disakiti selama produksi!</string>
     <string name="topic_users">Sedang mencari 100,000 pemain</string>
-    <string name="topic_free">Game ini gratis :D</string>
+    <string name="topic_free">Game ini gratis!</string>
     <string name="topic_about">Kamu dapat mengetuk layar kanan bawah</string>
     <string name="topic_letsplay">Ayo mulai bermain ;)</string>
     <string name="topic_tutorial">Jangan skip tutorial plis :)</string>
@@ -212,11 +212,11 @@
     <string name="shader_old">Kuno</string>
     <string name="topic_narcissistic">Jangan pedulikan orang narsis</string>
     <string name="topic_great">Aku menyukaimu &lt;3</string>
-    <string name="settings_ultrafastspeed">Kecepatan ultra cepat</string>
+    <string name="settings_ultrafastspeed">Kecepatan cahaya</string>
     <string name="draftselector_power">Listrik: %1$,dkW</string>
     <string name="draftselector_water">Air: %1$,dL/h</string>
     <string name="notify_welcome">Halo, selamat datang di %1$s.</string>
-    <string name="notify_citysize">Selamat, kotamu telah berkembang mencapai populasi %1$,d!</string>
+    <string name="notify_citysize">Selamat, kotamu telah mencapai populasi %1$,d!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Air mancur</string>
     <string name="draft_waterfountain01_text">Penduduk akan menyukainya.</string>
@@ -234,7 +234,7 @@
     <string name="buildinginfo_habitants">Penduduk: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Pekerja: %1$,d/%2$,d</string>
     <string name="topic_giveup">Jangan menyerah!</string>
-    <string name="dialog_screenshot_error">Tidak dapat membuat simpanan di direktori %1$s. Mohon periksa izin perangkat Anda.</string>
+    <string name="dialog_screenshot_error">Tidak dapat menyimpan gambar di %1$s. Mohon periksa izin aplikasi di pengaturan.</string>
     <string name="settings_energysaving">Mode hemat energi</string>
     <string name="about_idea">Ide</string>
     <string name="about_programming">Programming</string>
@@ -243,13 +243,13 @@
     <string name="about_engine">Mesin Grafik</string>
     <string name="draft_police00_title">Kantor polisi</string>
     <string name="draft_police00_text">Untuk keamanan yang lebih baik.</string>
-    <string name="settings_showinfluencepreview">Tunjukkan tayangan pengaruh</string>
+    <string name="settings_showinfluencepreview">Tunjukkan pengaruh bangunan</string>
     <string name="draftselector_titletransport">Transportasi</string>
     <string name="draftselector_titlezone">Zona</string>
     <string name="draft_zoneresidential_title">Penduduk</string>
     <string name="draft_zoneresidential_text">Penduduk akan membangun rumah di dalam zona ini.</string>
     <string name="draft_zonecommercial_title">Komersial</string>
-    <string name="draft_zonecommercial_text">Bangunan komersial bisa dibangun di dalam zona ini.</string>
+    <string name="draft_zonecommercial_text">Bangunan komersil bisa dibangun di dalam zona ini.</string>
     <string name="draft_zoneindustrial_title">Industri</string>
     <string name="draft_zoneindustrial_text">Bangunan industri akan dibangun di sini.</string>
     <string name="draft_road00_title">Jalan tanah</string>
@@ -259,8 +259,8 @@
     <string name="draftselector_titleterrain">Medan</string>
     <string name="draft_terrainwater_title">Air</string>
     <string name="draft_terrainwater_text">Tempatkan air di peta Anda.</string>
-    <string name="draft_terrainland_title">Daratan</string>
-    <string name="draft_terrainland_text">Tempatkan daratan di peta Anda.</string>
+    <string name="draft_terrainland_title">Tanah</string>
+    <string name="draft_terrainland_text">Tempatkan tanah di peta Anda.</string>
     <string name="draft_tree00_title">Pohon</string>
     <string name="draft_tree00_text">Tempatkan pohon di peta Anda.</string>
     <string name="draft_busstop00_title">Pemberhentian bus</string>
@@ -270,7 +270,7 @@
     <string name="settings_orientationportrait">Portrait</string>
     <string name="settings_orientationauto">Otomatis</string>
     <string name="draft_busdepot00_title">Terminal bus</string>
-    <string name="draft_busdepot00_text">Pengen mudik tapi takut macet? Bus muncul dari sini.</string>
+    <string name="draft_busdepot00_text">Pengen mudik tapi takut macet? Bus muncul dari sini. Jangan lupa pake masker.</string>
     <string name="settings_debugmode">Mode debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Hapus</string>
@@ -286,7 +286,7 @@
     <string name="ci_energy_networks">%1$,d Jaringan</string>
     <string name="ci_energy_produced">Diproduksi: %1$,.0fkW (%2$,d bangunan)</string>
     <string name="ci_energy_consumed">Digunakan: %1$,.0fkW (%2$,d bangunan)</string>
-    <string name="ci_energy_ratio">Pemakaian: %1$.1f%%</string>
+    <string name="ci_energy_ratio">Rasio: %1$.1f%%</string>
     <string name="ci_energy_all">Umum</string>
     <string name="ci_energy_single">Tunggal</string>
     <string name="ci_water_all">Umum</string>
@@ -294,7 +294,7 @@
     <string name="ci_water_networks">%1$,d Jaringan</string>
     <string name="ci_water_consumed">Digunakan: %1$,.0fL/h (%2$,d bangunan)</string>
     <string name="ci_water_produced">Diproduksi: %1$,.0fL/h (%2$,d bangunan)</string>
-    <string name="ci_water_ratio">Pemakaian: %1$.1f%%</string>
+    <string name="ci_water_ratio">Rasio: %1$.1f%%</string>
     <string name="ci_general_cityname">Nama kota: %1$s</string>
     <string name="ci_general_population">Total penduduk: %1$,d</string>
     <string name="draftselector_titlerawbuilding">Semua bangunan</string>
@@ -317,22 +317,22 @@
     <string name="draft_footballfield00_title">Lapangan sepak bola</string>
     <string name="draft_footballfield00_text">Anak kampung main bola di sini.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="draftselector_upgrades">%1$,d peningkatan tersedia</string>
-    <string name="buildinginfo_upgrades">%1$,d/%2$,d Peningkatan</string>
+    <string name="draftselector_upgrades">%1$,d bagunan ini bisa di upgrade</string>
+    <string name="buildinginfo_upgrades">%1$,d/%2$,d Upgrade</string>
     <string name="buildinginfo_construction">Dalam pembangunan: %1$.0f%% (%2$,d hari lagi)</string>
     <string name="draft_footballstadion00_title">Stadion</string>
     <string name="draft_footballstadion00_text">Lapangan sepak bola anti mainstream :).</string>
-    <string name="buildinginfo_cmdupgrade">Tingkatkan</string>
+    <string name="buildinginfo_cmdupgrade">Upgrade</string>
     <string name="draft_footballstadion00_lights_title">Lampu</string>
     <string name="draft_footballstadion00_lights_text">Gelap? Pasang lampu dong!.</string>
-    <string name="buildinginfo_upgraded">Telah ditingkatkan</string>
+    <string name="buildinginfo_upgraded">Telah di upgrade</string>
     <string name="buildinginfo_upgradenotavail">Tidak tersedia</string>
-    <string name="buildinginfo_upgrade">Peningkatan</string>
+    <string name="buildinginfo_upgrade">Upgrade</string>
     <string name="draft_pool00_title">Kolam renang</string>
     <string name="draft_pool00_text">Ayo bosque berenang di kolam renang terbuka.</string>
     <string name="draft_pool00_waterslide_title">Seluncuran air</string>
     <string name="draft_pool00_waterslide_text">Seluncuran air dan meja berpayung.</string>
-    <string name="blank_text">Di sini bisa menjadi tempat iklan Anda</string>
+    <string name="blank_text">Aku nggak tahu kenapa tulisannya blank_text disini</string>
     <string name="draft_middlepark00_title">Taman sedang</string>
     <string name="draft_middlepark00_text">Para penduduk akan menyukainya.</string>
     <string name="draft_basketball00_title">Lapangan bola basket</string>
@@ -343,12 +343,12 @@
     <string name="draft_middlepark00_lights_text">Hujan? Berteduhlah di paviliun.</string>
     <string name="draft_middlepark00_clock_title">Jam</string>
     <string name="draft_middlepark00_clock_text">Jam akan memberitahukan bahwa emakmu sudah menunggumu di rumah.</string>
-    <string name="notify_power_low">Kita hampir kehabisan listrik. Bangun lebih banyak pembangkit listrik lagi!.</string>
+    <string name="notify_power_low">Kita hampir kehabisan listrik. Bangun lebih banyak pembangkit listrik!.</string>
     <string name="notify_water_low">Kita hampir kehabisan air bersih. Bangun lebih banyak PAM!.</string>
     <string name="notify_religion">Kita bukan ateis, jadi tolong bangun rumah ibadah!</string>
     <string name="notify_park">Kami mau lebih banyak taman.</string>
     <string name="notify_sport">Kami butuh olahraga!. Bangun lapangan olahraga sekarang.</string>
-    <string name="buildinginfo_happiness">Total kebahagiaan: %1$.0f%%</string>
+    <string name="buildinginfo_happiness">Kebahagiaan: %1$.0f%%</string>
     <string name="notify_noenergy">Ada bangunan yang tidak punya listrik!</string>
     <string name="notify_nowater">Ada bangunan yang tidak punya air!</string>
     <string name="draft_footballstadion00_roof_title">Atap</string>
@@ -363,7 +363,7 @@
     <string name="notify_pollution">Terlalu banyak polusi!</string>
     <string name="draft_radio00_title">Stasiun radio</string>
     <string name="draft_radio00_text">Penduduk kamu akan senang ketika mendengar program radio.</string>
-    <string name="draftselector_cmdalert">Pergi!</string>
+    <string name="draftselector_cmdalert">Kirim</string>
     <string name="draft_alert_police00_title">Panggil polisi</string>
     <string name="draft_alert_police00_text">Panggil polisi untuk menghentikan tindakan kriminal.</string>
     <string name="draft_alert_fire00_title">Panggil damkar</string>
@@ -401,7 +401,7 @@
     <string name="topic_birthday_theo">Selamat ulang tahun theo :)</string>
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">69</string>
-    <string name="draft_radio00_news_title">RRI Antena</string>
+    <string name="draft_radio00_news_title">RRI</string>
     <string name="draft_radio00_news_text">Mengirim berita terbaru tentang kota. Meningkatkan pengetahuan.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
@@ -409,16 +409,16 @@
     <string name="draft_radio00_sport_text">Mengirimkan laporan olahraga dan siaran langsung acara olahraga yang menarik. Bertindak seperti lapangan olahraga dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
-    <string name="draft_radio00_fun_title">FUN Radio</string>
+    <string name="draft_radio00_fun_title">Dangdut FM</string>
     <string name="draft_radio00_fun_text">Sering mengirimkan musik dan program hiburan ringan. Pendengarnya merasa lebih baik. Jadi, bertindak seperti taman dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
-    <string name="draft_radio00_faith_title">Iman FM</string>
+    <string name="draft_radio00_faith_title">Podcast Religi</string>
     <string name="draft_radio00_faith_text">Mengirimkan percakapan tentang masalah iman dan keberadaan kita di bumi. Pada dasarnya bekerja sebagai rumah ibadah dengan jarak jauh di kota.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_lighthouse00_title">Mercusuar</string>
-    <string name="draft_lighthouse00_text">Tidak ada kapal di kejauhan, tapi ada mercusuar .... aneh.</string>
+    <string name="draft_lighthouse00_text">Tidak ada kapal yang jauh, tapi ada mercusuar .... aneh.</string>
     <string name="draft_road02_title">Jalan raya</string>
     <string name="draft_road02_text">Buat pulang mudikmu lebih bermakna.</string>
     <string name="budget_road">Jalan</string>
@@ -429,7 +429,7 @@
     <string name="tutorial_minimap">Kamu bisa menunjukkan dan menyembunyikan peta mini kapan saja.</string>
     <string name="tutorial_buildroad_a">Kita mulai dengan membangun jalan. Pilih tipe jalan yang paling sederhana.</string>
     <string name="tutorial_buildroad_b">Tempatkan jalan di sepanjang kotak yang ditandai. Untuk membangunnya tekan untuk menetapkan titik awal, tekan lagi untuk mengatur titik akhir.</string>
-    <string name="tutorial_buildroad_c">Kerja bagus! Sekarang tutup alat jalan.</string>
+    <string name="tutorial_buildroad_c">Kerja bagus! Sekarang tutup alatnya.</string>
     <string name="tutorial_buildenergy_a">Ayo coba membuat beberapa panel surya.</string>
     <string name="tutorial_buildenergy_b">Tempatkan di kotak yang ditandai.</string>
     <string name="tutorial_buildenergy_c">Kerja bagus!</string>
@@ -442,8 +442,8 @@
     <string name="tutorial_buildpipe_a">Sebuah menara air saja tidak cukup. Kamu perlu pipa untuk menyalurkannya.</string>
     <string name="tutorial_buildpipe_b">Tempatkan pipa di sepanjang kotak yang ditandai.</string>
     <string name="tutorial_buildpipe_c">Kerja bagus. Sekarang kamu bisa memulai untuk mendeklarasikan zona.</string>
-    <string name="tutorial_buildzones">Zona menunjukkan apa yang bisa di bangun di situ. Ada tiga tipe zona yang tersedia.</string>
-    <string name="tutorial_buildresidential_a">Mari deklarasikan zona hunian. Penduduk bisa membangun rumahnya di sana.</string>
+    <string name="tutorial_buildzones">Ada tiga tipe zona yang tersedia.</string>
+    <string name="tutorial_buildresidential_a">Mari deklarasikan zona perumahan. Penduduk bisa membangun rumahnya di sana.</string>
     <string name="tutorial_buildresidential_b">Tempatkan zona pada kotak yang ditandai.</string>
     <string name="tutorial_buildresidential_c">Kerja Bagus.</string>
     <string name="tutorial_buildcommercial_a">Mari lanjutkan dengan zona komersial. Area komersial akan dibangun di sana.</string>
@@ -452,9 +452,9 @@
     <string name="tutorial_buildindustrial_a">Satu lagi, zona industri. Di situlah pabrik-pabrik akan dibangun.</string>
     <string name="tutorial_buildindustrial_b">Tempatkan zona pada kotak yang ditandai.</string>
     <string name="tutorial_buildindustrial_c">Kerja Bagus. Sekarang bangunan akan segera dibangun.</string>
-    <string name="tutorial_industrial_keepaway">Kamu harus menjaga kawasan industri dari area yang lain karena akan menyebabkan polusi dan kebisingan.</string>
+    <string name="tutorial_industrial_keepaway">Kamu harus menjaga kawasan industri dari area perumahan karena akan menyebabkan penyakit paru-paru atau keracunan.</string>
     <string name="tutorial_rci">Ketuk tombol ini untuk melihat informasi permintaan rinci untuk setiap jenis zona.</string>
-    <string name="tutorial_speed_fast">Kamu bisa mengubah kecepatan simulasi untuk mempersingkat waktu tunggu.</string>
+    <string name="tutorial_speed_fast">Kamu bisa mengubah kecepatan waktu untuk mempersingkat waktu tunggu.</string>
     <string name="tutorial_speed_normal">Atur saja kembali ke kecepatan normal.</string>
     <string name="tutorial_money_task">Tugas kamu adalah untuk mendapatkan uang dari pajak untuk memperbesar kotamu.</string>
     <string name="tutorial_money_info">Ketuk di sudut kanan bawah untuk mendapatkan lebih banyak informasi tentang uang kamu atau untuk mengubah nilai pajak.</string>
@@ -475,44 +475,44 @@
     <string name="settings_disaster_auto">Bencana Otomatis</string>
     <string name="notify_firenodp">Ada kebakaran di kotamu! Bangun stasiun damkar untuk memadamkan api.</string>
     <string name="draft_destroyedtile_title">Puing</string>
-    <string name="draft_destroyedtile_text">Puing-puingan bangunan yang hancur. Kamu harus menghapusnya.</string>
+    <string name="draft_destroyedtile_text">Puing-puingan bangunan yang hancur. Entah bagaimana tapi ini menyebebkan polusi.</string>
     <string name="disaster_fire_title">Kebakaran</string>
     <string name="disaster_fire_text">Bakar semuanya!</string>
     <string name="disaster_fire_cmdtext">Bakar!</string>
-    <string name="disaster_meteorite_title">Meteorit</string>
+    <string name="disaster_meteorite_title">Meteor</string>
     <string name="disaster_meteorite_text">Biarkan meteor jatuh dari langit.</string>
     <string name="disaster_meteorite_cmdtext">Jatuhkan!</string>
     <string name="disaster_earthquake_title">Gempa Bumi</string>
     <string name="disaster_earthquake_text">Biarkan tanah bergetar.</string>
     <string name="disaster_earthquake_cmdtext">Guncang!</string>
     <string name="disaster_illness_title">Wabah</string>
-    <string name="disaster_illness_text">Biarkan orang terkena penyakit...</string>
-    <string name="disaster_illness_cmdtext">Virus!</string>
+    <string name="disaster_illness_text">WHO ingin megetes virus barunya dan butuh kandidat</string>
+    <string name="disaster_illness_cmdtext">Lepaskan virusnya!</string>
     <string name="disaster_flooding_title">Banjir</string>
-    <string name="disaster_flooding_text">Terlalu banyak air.</string>
-    <string name="disaster_flooding_cmdtext">Turunkan hujan</string>
+    <string name="disaster_flooding_text">Paretnya meluap lagi tuh.</string>
+    <string name="disaster_flooding_cmdtext">Sumbat Paretnya</string>
     <string name="buildinginfo_influences">Pengaruh</string>
     <string name="ci_loan_title">Pinjaman</string>
-    <string name="ci_loan_donate">Mengemis</string>
+    <string name="ci_loan_donate">Donasikan</string>
     <string name="ci_loan_get">Pinjam</string>
     <string name="ci_loan_donate_text">Tolong beri saya uang, saya sangat membutuhkannya :(</string>
     <string name="ci_loan_get_text">Pinjaman default, 10,000₮
 \nRentang waktu: 24 bulan
 \nBunga per bulan: 500₮</string>
     <string name="draft_crater4x4_title">Kawah meteorit</string>
-    <string name="draft_crater4x4_text">Meteor besar jatuh di sini. Kamu harus menghapusnya.</string>
+    <string name="draft_crater4x4_text">Meteor besar jatuh di sini. Menghasilkan polusi.</string>
     <string name="draft_crater1x1_title">Lubang meteor</string>
     <string name="draft_crater1x1_text">Sisa meteor kecil yang jatuh. Kamu harus menghapusnya.</string>
-    <string name="settings_disaster_nuke">Nuklir</string>
-    <string name="disaster_nuke_title">Nuklir</string>
-    <string name="disaster_nuke_text">Apakah ini mainan?</string>
-    <string name="disaster_nuke_cmdtext">DUAR!</string>
+    <string name="settings_disaster_nuke">Ledakan Nuklir</string>
+    <string name="disaster_nuke_title">Ledakan Nuklir</string>
+    <string name="disaster_nuke_text">Flashback ke Chernobyl....</string>
+    <string name="disaster_nuke_cmdtext">Kirim perintah</string>
     <string name="budget_loans">Pinjaman</string>
     <string name="ci_loan_loanlist">Pinjaman berjalan(seluruhnya %1$s dalam %2$,d/%3$,d pinjaman):</string>
     <string name="ci_loan_remaining_runtime">Waktu yang tersisa: %2$,d bulan, %1$,d hari</string>
     <string name="ci_loan_paybackcost">Harga yang harus dibayar: %1$s</string>
     <string name="ci_loan_estate">Kekayaan: %1$s</string>
-    <string name="topic_support_ads">Anda dapat mendukung kami dengan mengetuk iklan :)</string>
+    <string name="topic_support_ads">Anda dapat mendukung kami dengan melihat iklan :)</string>
     <string name="settings_disaster_tornado">Angin topan</string>
     <string name="disaster_tornado_title">Angin topan</string>
     <string name="disaster_tornado_text">Angin topan adalah bencana berbahaya yang sering terjadi di Indonesia!.</string>
@@ -657,7 +657,7 @@
     <string name="ci_budget_title_nomoney">Keuangan (teoretis)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
-    <string name="draft_nuclearplant00_text">Listrik lebih banyak daripada PLTU. Pemeliharaan jauh lebih mahal dan butuh sangat BANYAK air. Bisa meledak tanpa air.</string>
+    <string name="draft_nuclearplant00_text">Mengasilkan listrik yang lebih besar dengan fusi nuklir. Butuh suplai air yang besar, jika tidak akan meledak</string>
     <string name="draft_gasplant00_title">PLTG</string>
     <string name="draft_gasplant00_text">Lebih murah daripada pembangkit listrik lain. Sedikit polusi.</string>
     <string name="draft_carcinema00_title">Bioskop drive-in</string>
