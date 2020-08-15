@@ -2451,77 +2451,77 @@
     <string name="store_cat_pack">插件包</string>
     <string name="store_cat_roaddecoration">道路装饰</string>
     <string name="store_cat_military">军事</string>
-    <string name="dialog_confirmsendgift_title">Send gift</string>
-    <string name="dialog_confirmsendgift_text">Awesome! You are about to send that gift to %1$s.</string>
-    <string name="settings_category_tools">Tools</string>
-    <string name="settings_category_gameplay">Gameplay</string>
-    <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
-    <string name="stage_regioncity_visits">Visits: %1$,d</string>
-    <string name="dialog_missingplugins_total">Used plugins</string>
-    <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
-    <string name="dialog_citygifts_title">Gifts</string>
-    <string name="dialog_citygifts_cmdnew">Send a gift</string>
-    <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
-    <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
-    <string name="dialog_citygifts_typemsg">A message</string>
-    <string name="dialog_citygifts_typeunknown">Unknown</string>
-    <string name="dialog_citygifts_private">(private)</string>
-    <string name="dialog_citygifts_cmdcollect">Collect</string>
-    <string name="dialog_citygifts_nomessage">The sender left no message.</string>
-    <string name="dialog_sendgift_title">Send a gift</string>
-    <string name="dialog_sendgift_cmdsend">Send it</string>
-    <string name="dialog_sendgift_typetext">Text</string>
-    <string name="dialog_sendgift_typemoney">Money</string>
-    <string name="dialog_sendgift_typediamonds">Diamonds / Region coins</string>
-    <string name="dialog_sendgift_lbltype">Type</string>
-    <string name="dialog_sendgift_lblamount">Amount</string>
-    <string name="dialog_sendgift_lblmessage">Message</string>
-    <string name="dialog_sendgift_messagedesc">Here you can enter a message for the receiver if you want to</string>
-    <string name="dialog_sendgift_lblprivate">Private</string>
-    <string name="dialog_citygifts_reportsubject">the gift by %1$s</string>
-    <string name="dialog_deletegift_title">Delete gift</string>
-    <string name="dialog_deletegift_text">Are you sure that you want to delete this gift? This cannot be undone.</string>
-    <string name="dialog_deletegift_cmd">Delete</string>
+    <string name="dialog_confirmsendgift_title">送礼物</string>
+    <string name="dialog_confirmsendgift_text">太棒了！你将要把那个礼物送给%1$s。</string>
+    <string name="settings_category_tools">工具</string>
+    <string name="settings_category_gameplay">游戏</string>
+    <string name="settings_autosavewhenleaving">离开城市时自动保存</string>
+    <string name="stage_regioncity_visits">拜访数量： %1$,d</string>
+    <string name="dialog_missingplugins_total">使用的插件</string>
+    <string name="settings_maprenderingnobackground">在截图时地图背景透明</string>
+    <string name="dialog_citygifts_title">礼物</string>
+    <string name="dialog_citygifts_cmdnew">发送礼物</string>
+    <string name="dialog_citygifts_nogifts_receiver">你还没有收到礼物:(</string>
+    <string name="dialog_citygifts_nogifts_other">做送礼物的第一人</string>
+    <string name="dialog_citygifts_typemsg">信息</string>
+    <string name="dialog_citygifts_typeunknown">未知</string>
+    <string name="dialog_citygifts_private">(私人)</string>
+    <string name="dialog_citygifts_cmdcollect">领取</string>
+    <string name="dialog_citygifts_nomessage">发送者没有留下任何文字。</string>
+    <string name="dialog_sendgift_title">发个礼物</string>
+    <string name="dialog_sendgift_cmdsend">发送</string>
+    <string name="dialog_sendgift_typetext">文字</string>
+    <string name="dialog_sendgift_typemoney">钱</string>
+    <string name="dialog_sendgift_typediamonds">钻石或区域币</string>
+    <string name="dialog_sendgift_lbltype">输入</string>
+    <string name="dialog_sendgift_lblamount">金额</string>
+    <string name="dialog_sendgift_lblmessage">信息</string>
+    <string name="dialog_sendgift_messagedesc">如果想的话，可以在这里给接收者留下信息</string>
+    <string name="dialog_sendgift_lblprivate">私人</string>
+    <string name="dialog_citygifts_reportsubject">%1$s的礼物</string>
+    <string name="dialog_deletegift_title">删除礼物</string>
+    <string name="dialog_deletegift_text">你确定你要删除这个礼物吗？一经删除不能撤回。</string>
+    <string name="dialog_deletegift_cmd">删除</string>
 
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
-    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
-By doing so we can circumvent potential data loss caused by app updates or re-installation.
-\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="dialog_insufficientspace2_text">如果你认为这是一个错误请确认西奥小镇有访问外部存储的权限。</string>
+    <string name="dialog_uploadregiontoobig_title">上传区域</string>
+    <string name="dialog_uploadregiontoobig_text">区域太大，无法上传:/</string>
+    <string name="channel_onlinemode_title">在线模式</string>
+    <string name="channel_onlinemode_text">关于你的在线模式的城市的新信息。</string>
+    <string name="dialog_externalstorage_proceedwithout">后果自负。</string> 
+    <string name="dialog_externalstorage_title"不能访问外部存储</string>
+    <string name="dialog_externalstorage_explanation">西奥小镇使用外部存储权限来在用户可访问的方法保存城市和区域。
+这样我们可以规避由于app更新和重装导致的潜在的数据丢失。
+\n\n这个游戏也可以在没有这个权限时运行，但我们对使用内部存储导致的数据丢失或功能失效不负责任。</string>
+    <string name="dialog_onlinenotifications_title">提示</string>
+    <string name="dialog_onlinenotifications_time">%1$s之前</string>
+    <string name="dialog_onlinenotifications_empty">还没有提示。</string>
+    <string name="dialog_onlinenotifications_cmdempty">提示</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">提示(%1$,d)</string>
+    <string name="dialog_reason_title">原因</string>
+    <string name="dialog_reason_text">为了继续，你需要输入进行该操作的原因。</string>
+    <string name="store_realtitle">插件商店</string>
+    <string name="settings_pushnotificationsonline">在线模式提示</string>
+    <string name="settings_verticaltoolbar">垂直工具栏</string>
+    <string name="settings_darktoolbar">深色工具栏</string>
+    <string name="dialog_tutwelcome_title">欢迎来到西奥小镇:)</string>
+    <string name="dialog_tutwelcome_text">我们先教你建造城市的基本知识。\n\n
+如果你知道怎么玩，你可以跳过教程。你可以在任何时候从游戏菜单跳过教程。</string>
+    <string name="dialog_tutwelcome_cmdskip">跳过教程</string>
+    <string name="dialog_tutwelcome_start">我们开始吧！</string>
 
 
-    <string name="settings_catplugins">Plugins</string>
-    <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_catplugins">插件</string>
+    <string name="settings_keys">键盘</string>
+    <string name="settings_keys_cmdreset">设定为默认值</string>
+    <string name="settings_keys_text">目前使用： %1$s\n
+默认： %2$s\n\n
+按一个键来设定到这个操作。</string>
+    <string name="settings_toolbarnames">在工具栏中显示名称</string>
+    <string name="settings_toolbarprices">在工具栏中显示价格</string>
 
 
-    <string name="shader_default2">Default</string>
+    <string name="shader_default2">默认</string>
 
 </resources>
