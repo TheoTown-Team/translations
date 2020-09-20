@@ -132,13 +132,13 @@
       "draft_dsarocket_upg2_title":"Animal carriage",
       "draft_dsarocket_upg2_text":"Launch a rocket with cat inside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500",
       "draft_dsarocket_upg3_title":"Navigation",
-      "draft_dsarocket_upg3_text":"Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/3000",
+      "draft_dsarocket_upg3_text":"Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/5000",
       "draft_dsarocket_upg4_title":"Sattelites",
-      "draft_dsarocket_upg4_text":"Launch a rocket containing few sattelites to space to establish a satellite network.\nSupplies: ${_dsareadiness}/5000",
+      "draft_dsarocket_upg4_text":"Launch a rocket containing few sattelites to space to establish a satellite network.\nSupplies: ${_dsareadiness}/7500",
       "draft_dsarocket_upg5_title":"Exploration mission",
-      "draft_dsarocket_upg5_text":"Launch a rocket to the exploration mission to find a suitable place for colonisation.\nSupplies: ${_dsareadiness}/15000",
+      "draft_dsarocket_upg5_text":"Launch a rocket to the exploration mission to find a suitable place for colonisation.\nSupplies: ${_dsareadiness}/10000",
       "draft_dsarocket_upg6_title":"Construct SDI",
-      "draft_dsarocket_upg6_text":"Launch series of rockets to space to assemble the space defense initiative.\nSupplies: ${_dsareadiness}/30000",
+      "draft_dsarocket_upg6_text":"Launch series of rockets to space to assemble the space defense initiative.\nSupplies: ${_dsareadiness}/15000",
       "draft_Olsken.LobbysCake_title":"Lobby's Cake",
       "draft_Olsken.LobbysCake_text":"A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!",
       "draft_dsa_notify00_text":"Hello there! I am the CEO of DSA and I will help you to manage all local DSA operations.",
@@ -261,25 +261,45 @@
       "draft_space_storyline_intro_affirmed02":"All we need is a little help. In return you may have all our knowledge.",
       "draft_space_storyline_intro_affirmed03":"Now allow me to rest. We will contact you soon.",
 
+      // destroy mining things
       "draft_space_storyline_stage_2_00":"You came back? Good.",
       "draft_space_storyline_stage_2_01":"I want to see if you are willing to sacrifice something of yours for this quest",
       "draft_space_storyline_stage_2_02":"Destroy all the mining stations which are destroying this fine place",
       "draft_space_storyline_stage_2_notdone":"I can still see the mining stations running, come back again when they are all offline.",
 
+      // investigate the artifact things
       "draft_space_storyline_stage_3_00":"Thank you for taking care of that. Now I understand you rely on those stations to get funds.",
       "draft_space_storyline_stage_3_01":"But have you ever thought of investigating those strange structures instead?",
       "draft_space_storyline_stage_3_02":"Resources are limited, knowledge isn't.",
       "draft_space_storyline_stage_3_03":"How about you give that a try, eh?",
 
-      "draft_space_storyline_stage_4_00":"todo: poccolonum",
-      "draft_space_storyline_stage_5_00":"todo: take away all money",
-      "draft_space_storyline_stage_6_00":"todo: ",
-      "draft_space_storyline_stage_7_00":"todo: ",
+      // build a mine for poccolonum
+      "draft_space_storyline_stage_4_00":"Nice, nice",
+      "draft_space_storyline_stage_4_01":"We've come to realisation that I need some things...",
+      "draft_space_storyline_stage_4_02":"Namely, Poccolonum, a very nice resources that we will use later.",
+      "draft_space_storyline_stage_4_03":"Just plot down a mining station on some of the green ore",
+      "draft_space_storyline_stage_4_04":"And we'll automatically get it ourselves.",
 
-      "draft_space_storyline_stage_8_00":"Thank you for <quest 6 completion>. That'll come in handy!",
-      "draft_space_storyline_stage_8_01":"However, I'm afraid this is the last time we're seeing each other.",
-      "draft_space_storyline_stage_8_02":"We are now ready to return to our home galaxy and rebuild it, provided that there's something left.",
-      "draft_space_storyline_stage_8_03":"When you can, please assemble the spaceship. We'll board it on our own.",
+      // take money away
+      "draft_space_storyline_stage_5_00":"I am once again asking for your financial support",
+      "draft_space_storyline_stage_5_01":"I need all of that thing you call theons.",
+      "draft_space_storyline_stage_5_02":"Can you give me all your theons?",
+      "draft_space_storyline_stage_5_02_refused":"Too bad, hope you can change your mind later.",
+
+      // meteors
+      "draft_space_storyline_stage_6_00":"Trust me, I'll put it to good use.",
+      "draft_space_storyline_stage_6_01":"Now for your next task...",
+      "draft_space_storyline_stage_6_02":"...try surviving THIS",
+
+      "draft_space_storyline_stage_7_00":"Survived? That's great!",
+      "draft_space_storyline_stage_7_01":"Don't ask me how I did that though",
+      "draft_space_storyline_stage_7_02":"You could call it magic...",
+      "draft_space_storyline_stage_7_03":"...or just a super duper sattelite deorbitor 3000!",
+      "draft_space_storyline_stage_7_04":"Nothing fancy, y'know?",
+
+      "draft_space_storyline_stage_8_00":"However, I'm afraid this is the last time we're seeing each other.",
+      "draft_space_storyline_stage_8_01":"We are now ready to return to our home galaxy and rebuild it, provided that there's something left.",
+      "draft_space_storyline_stage_8_02":"When you can, please assemble the spaceship. We'll board it on our own.",
 
       "draft_space_storyline_ending_00":"Guess this is it. Thank you very much for helping us.",
       "draft_space_storyline_ending_01":"In return, we would like to give you this storage medium.",
