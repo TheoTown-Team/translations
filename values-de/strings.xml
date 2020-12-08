@@ -963,7 +963,7 @@
     <string name="dialog_notenoughmoney_title">Nicht genug Geld</string>
     <string name="dialog_notenoughmoney_text">Wir haben nicht genug Geld um das zu kaufen.\n\nSollen wir die fehlenden %1$s sofort beschaffen?</string>
     <string name="notify_fullhospital">Dieses Krankenhaus ist nicht groß genug. Wir sollten noch eines bauen.</string>
-    <string name="dialog_rate_text">Falls es dir gefällt, dann lass und bitte eine Bewertung da. Das würde uns sehr helfen.</string>
+    <string name="dialog_rate_text">Falls es dir gefällt, dann lass uns bitte eine Bewertung da. Das würde uns sehr helfen.</string>
     <string name="dialog_rate_title">Gefällt dir TheoTown?</string>
     <string name="dialog_rate_cmdcancel">Nein.</string>
     <string name="dialog_rate_cmdok">Gefällt mir</string>
@@ -2504,7 +2504,7 @@ Wir tun dies, um potentiellem Datenverlust vorzubeugen, wie er etwa durch Update
     <string name="settings_darktoolbar">Dunkle Werkzeugleiste</string>
     <string name="dialog_tutwelcome_title">Willkommen in TheoTown</string>
     <string name="dialog_tutwelcome_text">Wir werden jetzt mit der Einführung beginnen, um dir die Grundlagen des Städtebaus näher zu bringen.\n\n
-Du kannst die Einführung überspringen, falls du bereits weißt wie das Spiel funktioniert. Du kannst zudem die Einführung jederzeit im Spielmenü überspringen.</string>
+Du kannst die Einführung überspringen, falls du bereits weißt, wie das Spiel funktioniert. Du kannst zudem die Einführung jederzeit im Spielmenü überspringen.</string>
     <string name="dialog_tutwelcome_cmdskip">Einführung überspringen</string>
     <string name="dialog_tutwelcome_start">Los geht\'s</string>
 
@@ -2520,5 +2520,26 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
 
 
     <string name="shader_default2">Standard</string>
+
+
+    <string name="dialog_regionnopermission_title">Kein Zugriff</string>
+    <string name="dialog_regionnopermission_text">Diese App hat keinen Zugriff auf den externen Speicher um die Region dort sicher abzulegen. Bitte erlaube der App den Zugriff auf externen Speicher um Regionen zu erstellen.</string>
+    <string name="ranger_cmdselecttrees">Bäume auswählen</string>
+    <string name="draft_treeplantertool00_title">Baumpflanzer</string>
+    <string name="draft_treeplantertool00_text">Dieses Werkzeug kann dazu verwendet werden, eine Vielzahl von Bäumen auf einfache Art und Weise zu platzieren.</string>
+    <string name="treeplanter_cmdconfigure">Konfigurieren</string>
+    <string name="treeplanter_species">Spezies:</string>
+    <string name="treeplanter_density">Dichte:</string>
+    <string name="treeplanter_roughness">Rauheit:</string>
+    <string name="treeplanter_brushsize">Pinselgröße:</string>
+    <string name="treeplanter_outofcash">Kein Geld</string>
+    <string name="control_about">Info</string>
+    <string name="about_framework">Framework</string>
+    <string name="control_undo">Rückgängig</string>
+    <string name="control_redo">Wiederholen</string>
+    <string name="toolaction_zoneroad">Straße bauen</string>
+    <string name="settings_fullscreen_resolution">Vollbild Auflösung</string>
+    <string name="settings_tool_history">Rückgängig-Funktion für Werkzeuge</string>
+    <string name="topic_birthday_ja">Alles Gute zum Geburtstag, JustAnyone!</string>
 
 </resources>
