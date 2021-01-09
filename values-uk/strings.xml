@@ -2272,15 +2272,15 @@
     <string name="settings_uisize_big">Великий</string>
     <string name="settings_uisize_bigger">Величезний</string>
     <string name="settings_uisize_small">Малий</string>
-    <string name="settings_uisize_smaller">Маленькийй</string>
+    <string name="settings_uisize_smaller">Маленький</string>
     <string name="createcity_desert">Пустеля</string>
     <string name="createcity_snow">Сніг</string>
     <string name="weather_sunny">Сонце</string>
     <string name="weather_rainy">Дождь</string>
     <string name="weather_lighting">Буря</string>
     <string name="weather_auto">Динамічно</string>
-    <string name="store_local_plugins">Локальні плагіни</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s від %2$s (локальний плагін)</string>
+    <string name="store_local_plugins">Вмонтовані плагіни</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s від %2$s (вмонтований плагін)</string>
 
 
     <string name="dialog_storedisclaimer_title">Тут більше...</string>
@@ -2298,22 +2298,22 @@
     <string name="draft_destroyed_tree00_text">Спалені дерева,які по бажанню ви можете прибрати.</string>
     <string name="region_acquiremap">Придбати</string>
     <string name="dialog_acquiremapfreemium_title">Придбайте карту</string>
-    <string name="dialog_acquiremapfreemium_text">Вітаємо, це вільне місце, яке ви можете придбати, щоб побудувати тут власне місто.</string>
+    <string name="dialog_acquiremapfreemium_text">Вітаємо, це ніким не зайняте місце яке ви можете придбати за для власних цілей.</string>
     <string name="settings_sound_plugins">Плагіни</string>
     <string name="createregion_title">Новий регіон</string>
-    <string name="createregion_split">Розкол</string>
+    <string name="createregion_split">Розкол.</string>
     <string name="createregion_merge">Злиття</string>
-    <string name="createregion_hide">Виключати</string>
-    <string name="createregion_show">Включати</string>
+    <string name="createregion_hide">Виключити</string>
+    <string name="createregion_show">Включити</string>
     <string name="createcity_sizebigbigbigbig">Ще більший</string>
     <string name="createregion_layout">Макет:</string>
     <string name="createregion_layout2x2">2x2</string>
     <string name="createregion_layoutcircle">Коло</string>
     <string name="dialog_deleteregion_title">Видалити регіон</string>
-    <string name="dialog_deleteregion_text">Ви впевнені, що хочете видалити цей регіон? Це не можна буде скасувати.</string>
+    <string name="dialog_deleteregion_text">Ви впевнені, що хочете видалити цей регіон?</string>
     <string name="dialog_deleteregion_cmd">Видалити</string>
     <string name="dialog_resetregion_title">Скинути регіон</string>
-    <string name="dialog_resetregion_text">Ви впевнені, що хочете скинути цей регіон? Це не можна буде скасувати.</string>
+    <string name="dialog_resetregion_text">Ви впевнені, що хочете скинути цей регіон? Шляху назад немає...</string>
     <string name="dialog_resetregion_cmd">Скинути</string>
     <string name="dialog_regionpassword_title">Введіть пароль до регіону</string>
     <string name="dialog_regionpassword_text">Пароль:</string>
@@ -2526,24 +2526,24 @@
     <string name="shader_default2">Default</string>
 
 
-    <string name="dialog_regionnopermission_title">No access</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
-    <string name="ranger_cmdselecttrees">Select trees</string>
-    <string name="draft_treeplantertool00_title">Tree Planter</string>
-    <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
-    <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species:</string>
-    <string name="treeplanter_density">Density:</string>
-    <string name="treeplanter_roughness">Roughness:</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
-    <string name="control_about">About</string>
-    <string name="about_framework">Framework</string>
-    <string name="control_undo">Undo</string>
-    <string name="control_redo">Redo</string>
-    <string name="toolaction_zoneroad">Add roads</string>
-    <string name="settings_fullscreen_resolution">Fullscreen resolution</string>
-    <string name="settings_tool_history">Undo functionality</string>
-    <string name="topic_birthday_ja">Happy birthday JustAnyone!</string>
+    <string name="dialog_regionnopermission_title">Немає доступу</string>
+    <string name="dialog_regionnopermission_text">Гра не має доступу до сховища пристрою, і тому збереження неможливе. Будь-ласка, надайте грі доступ до локального сховища.</string>
+    <string name="ranger_cmdselecttrees">Вибір дерева</string>
+    <string name="draft_treeplantertool00_title">Генератор дерев</string>
+    <string name="draft_treeplantertool00_text">Цей інструмент може використовуватись за для створення різноманітних реалістичних лісів.</string>
+    <string name="treeplanter_cmdconfigure">Налаштування</string>
+    <string name="treeplanter_species">Види:</string>
+    <string name="treeplanter_density">Щільність:</string>
+    <string name="treeplanter_roughness">Шорсткість:</string>
+    <string name="treeplanter_brushsize">Розмір кисті:</string>
+    <string name="treeplanter_outofcash">Замало грошей</string>
+    <string name="control_about">Про</string>
+    <string name="about_framework">Рамки</string>
+    <string name="control_undo">Відмінити</string>
+    <string name="control_redo">Повторити</string>
+    <string name="toolaction_zoneroad">Добавити дороги</string>
+    <string name="settings_fullscreen_resolution">Повноекранна роздільна здатність</string>
+    <string name="settings_tool_history">Скасувати функцію</string>
+    <string name="topic_birthday_ja">З днем народженням JustAnyone!</string>
 
 </resources>
