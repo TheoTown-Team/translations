@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
-    <string name="app_name">TheoTown</string>
+    <string name="app_name">西奥小镇</string>
     <string name="about_cmdback">返回</string>
     <string name="about_music">音乐</string>
     <string name="budget_award">礼物</string>
@@ -32,7 +32,7 @@
     <string name="settings_showads">显示广告</string>
     <string name="settings_music">音乐</string>
     <string name="settings_hideads_no">取消</string>
-    <string name="settings_drawcars">显示汽车</string>
+    <string name="settings_drawcars">显示车辆</string>
     <string name="settings_disaster_tornado">龙卷风</string>
     <string name="settings_disaster_earthquake">地震</string>
     <string name="settings_defaults">重置</string>
@@ -55,7 +55,7 @@
     <string name="about_engine">图形引擎</string>
     <string name="about_graphics">制图</string>
     <string name="about_programming">编程</string>
-    <string name="about_text">TheoTown App for Android 来自于：</string>
+    <string name="about_text">来自于他们的努力</string>
     <string name="influence_education_low_title">小学教育</string>
     <string name="influence_firedep_title">消防队</string>
     <string name="unknown">香肠面包</string>
@@ -79,36 +79,36 @@
     <string name="dialog_invalidcityname_cmdok">同意</string>
     <string name="dialog_leave_cmdcancel">取消</string>
     <string name="dialog_leave_cmdleave">退出</string>
-    <string name="dialog_leave_text">你确定要退出TheoTown吗?</string>
+    <string name="dialog_leave_text">你确定要退出西奥小镇吗？</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_notification_cmdok">确认</string>
     <string name="dialog_nocities_title">竟然找不到城市</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
-    <string name="dialog_leave_title">退出TheoTown</string>
-    <string name="dialog_nocities_text">你还没有任何城市，请建一个新的城市。</string>
+    <string name="dialog_leave_title">退出西奥小镇</string>
+    <string name="dialog_nocities_text">你目前还没有任何城市，你可以新建新的城市。这里的城市可以定制。</string>
     <string name="about_title">制作团队</string>
-    <string name="budget_ind0">工业 Ͳ (%1$,d)</string>
-    <string name="budget_ind1">工业 ͲͲ (%1$,d)</string>
-    <string name="budget_ind2">工业 ͲͲͲ (%1$,d)</string>
+    <string name="budget_ind0">工业 ₮ (%1$,d)</string>
+    <string name="budget_ind1">工业 ₮₮ (%1$,d)</string>
+    <string name="budget_ind2">工业 ₮₮₮ (%1$,d)</string>
     <string name="budget_busdepot">公交车库 </string>
-    <string name="budget_com0">商业 Ͳ (%1$,d)</string>
-    <string name="budget_com1">商业 ͲͲ (%1$,d)</string>
-    <string name="budget_com2">商业 ͲͲͲ (%1$,d)</string>
-    <string name="budget_res0">居民 Ͳ (%1$,d)</string>
-    <string name="budget_res1">居民 ͲͲ (%1$,d)</string>
-    <string name="budget_res2">居民 ͲͲͲ (%1$,d)</string>
+    <string name="budget_com0">商业 ₮ (%1$,d)</string>
+    <string name="budget_com1">商业 ₮₮ (%1$,d)</string>
+    <string name="budget_com2">商业 ₮₮₮ (%1$,d)</string>
+    <string name="budget_res0">居民 ₮ (%1$,d)</string>
+    <string name="budget_res1">居民 ₮₮ (%1$,d)</string>
+    <string name="budget_res2">居民 ₮₮₮ (%1$,d)</string>
     <string name="budget_road">道路</string>
     <string name="budget_sports">体育设施</string>
     <string name="budget_water">供水</string>
-    <string name="buildinginfo_com2">商业 ͲͲͲ</string>
-    <string name="buildinginfo_com1">商业 ͲͲ</string>
-    <string name="buildinginfo_com0">商业 Ͳ</string>
-    <string name="buildinginfo_ind2">工业 ͲͲͲ</string>
-    <string name="buildinginfo_ind1">工业 ͲͲ</string>
-    <string name="buildinginfo_ind0">工业 Ͳ</string>
-    <string name="buildinginfo_res2">居民 ͲͲͲ</string>
-    <string name="buildinginfo_res1">居民 ͲͲ</string>
-    <string name="buildinginfo_res0">居民 Ͳ</string>
+    <string name="buildinginfo_com2">商业 ₮₮₮</string>
+    <string name="buildinginfo_com1">商业 ₮₮</string>
+    <string name="buildinginfo_com0">商业 ₮</string>
+    <string name="buildinginfo_ind2">工业 ₮₮₮</string>
+    <string name="buildinginfo_ind1">工业 ₮₮</string>
+    <string name="buildinginfo_ind0">工业 ₮</string>
+    <string name="buildinginfo_res2">居民 ₮₮₮</string>
+    <string name="buildinginfo_res1">居民 ₮₮</string>
+    <string name="buildinginfo_res0">居民 ₮</string>
     <string name="buildinginfo_upgraded">已升级</string>
     <string name="ci_education_schools">小学: %1$,d</string>
     <string name="draft_zoneindustrial_title">工业区</string>
@@ -121,7 +121,7 @@
     <string name="happiness_pollution">污染</string>
     <string name="tutorial_welcome">欢迎来到新手教程。</string>
     <string name="topic_tryharder">要努力加油哦</string>
-    <string name="topic_np">P=NP?</string>
+    <string name="topic_np">这里的土地怎么这么平坦？</string>
     <string name="topic_nature">保护大自然</string>
     <string name="topic_nice">你的小镇好美啊 :)</string>
     <string name="topic_newyear">新年快乐</string>
@@ -130,9 +130,9 @@
     <string name="topic_donate">主页上有一个捐款按钮</string>
     <string name="topic_support_ads">如果你想支持我们的话，那就点一下广告吧 :)</string>
     <string name="topic_users">期待第十万个玩家</string>
-    <string name="topic_tutorial">有一个新手教程哦 :)</string>
+    <string name="topic_tutorial">有新手教程哦 :)</string>
     <string name="topic_birthday_lobby">生日快乐，Lobby，我爱你 :)</string>
-    <string name="settings_resolution">分辨率</string>
+    <string name="settings_resolution">分辨率[决定游戏缩放]</string>
     <string name="settings_hideads_yes">真的很确定</string>
     <string name="loadcity_deletedialog_cmdcancel">取消</string>
     <string name="loadcity_cmddelete">删除</string>
@@ -165,12 +165,12 @@
     <string name="dialog_screenshot_cmdok">好的,谢谢</string>
     <string name="settings_disaster_fire">火灾</string>
     <string name="savewaiting_title">保存城市</string>
-    <string name="notify_pollution">我们收到了来自这个地区雪片般的关于污染的投诉，可能不久就会导致游行。</string>
+    <string name="notify_pollution">我们收到了来自这个地区的关于污染的投诉，可能不久就会导致游行。</string>
     <string name="notify_noise">我们收到了这个地区的市民对噪音污染的投诉。</string>
-    <string name="notify_nowater">有的建筑物没有水!</string>
+    <string name="notify_nowater">这些建筑物没有水!</string>
     <string name="notify_citysize">恭喜! 你已经有了%1$,d居民!</string>
     <string name="menu_cmddonate">捐款</string>
-    <string name="menu_premium">Premium</string>
+    <string name="menu_premium">豪华版</string>
     <string name="loadcity_load">开始</string>
     <string name="influence_noise_title">噪音</string>
     <string name="influence_health_title">医疗保障</string>
@@ -180,8 +180,7 @@
     <string name="happiness_water">供水</string>
     <string name="happiness_religion">宗教</string>
     <string name="happiness_education">教育</string>
-    <string name="gamemode_sandbox">沙盒模式</string>
-    <string name="gamemode_hard">高难</string>
+        <string name="gamemode_hard">高难</string>
     <string name="gamemode_middle">中等</string>
     <string name="gamemode_easy">简单</string>
     <string name="gamemode_nomoney">白手起家</string>
@@ -205,7 +204,7 @@
     <string name="draft_buoy00_title">浮标</string>
     <string name="draft_biergarten00_title">啤酒花园</string>
     <string name="disaster_flooding_cmdtext">下雨吧</string>
-    <string name="disaster_flooding_text">太多水了吧。</string>
+    <string name="disaster_flooding_text">水漫金山！</string>
     <string name="disaster_flooding_title">洪水</string>
     <string name="disaster_illness_cmdtext">病毒</string>
     <string name="disaster_illness_text">居民们会生病的...</string>
@@ -232,7 +231,7 @@
     <string name="ci_budget_taxes">税收</string>
     <string name="ci_education_needed">所需位置: %1$,d</string>
     <string name="ci_budget_title">财产</string>
-    <string name="ci_budget_title_nomoney">财产(虚拟)</string>
+    <string name="ci_budget_title_nomoney">城市财产</string>
     <string name="topic_narcissistic">不要让纳粹主义破坏你的心情</string>
     <string name="settings_category_audio">声音</string>
     <string name="settings_category_disasters">灾害</string>
@@ -241,13 +240,13 @@
     <string name="loadcity_memdialog_cmdok">无所谓ㅍ_ㅍ</string>
     <string name="loadcity_memdialog_cmdremind">提醒我</string>
     <string name="loadcity_errordialog_title">城市加载失败</string>
-    <string name="loadcity_kbsize">%1$,d KB</string>
-    <string name="loadcity_version">版本 %1$,d</string>
-    <string name="loadcity_title">正在加载城市...</string>
+    <string name="loadcity_kbsize">大小：%1$,d KB</string>
+    <string name="loadcity_version">版本：%1$,d</string>
+    <string name="loadcity_title">加载城市</string>
     <string name="money">%1$s</string>
-    <string name="loadcity_errordialog_text">这个城市无法成功加载，因为城市文件已损坏。\n\n我们很抱歉。</string>
+    <string name="loadcity_errordialog_text">这个城市无法成功加载，因为城市文件已损坏。\n\n我们对此深表抱歉。</string>
     <string name="loadcity_deletedialog_title">删除城市</string>
-    <string name="loadcity_deletedialog_text">你确定要删掉这个城市吗？</string>
+    <string name="loadcity_deletedialog_text">你确定要删除这个城市吗？</string>
     <string name="loadcity_errordialog_cmdrecover">恢复</string>
     <string name="influence_sport_title">体育</string>
     <string name="influence_religion_title">宗教</string>
@@ -265,15 +264,15 @@
     <string name="ci_energy_ratio">负荷率: %1$.1f%%</string>
     <string name="ci_general_population">居民总数: %1$,d</string>
     <string name="ci_general_cityname">城市名称: %1$s</string>
-    <string name="ci_general_population0">贫困阶级 (Ͳ): %1$,d</string>
-    <string name="ci_general_population1">中产阶级 (ͲͲ): %1$,d</string>
+    <string name="ci_general_population0">贫困阶级 (₮): %1$,d</string>
+    <string name="ci_general_population1">中产阶级 (₮₮): %1$,d</string>
     <string name="ci_health_buildings">建筑物: %1$,d</string>
     <string name="ci_general_seed">随机值: %1$s</string>
     <string name="ci_loan_estate">财产: %1$s</string>
-    <string name="topic_android">安卓专享！</string>
+    <string name="topic_android">安卓专享！苹果别想！（划掉）</string>
     <string name="shader_default">默认</string>
     <string name="shader_colorful">鲜艳</string>
-    <string name="shader_fancy">细腻</string>
+    <string name="shader_fancy">准确</string>
     <string name="settings_sound_ui">界面音效</string>
     <string name="settings_title">设置</string>
     <string name="settings_topstatusbar">状态栏置顶</string>
@@ -292,7 +291,7 @@
     <string name="happiness_road">道路</string>
     <string name="happiness_park">公园</string>
     <string name="happiness_noise">噪音</string>
-    <string name="happiness_energy">电</string>
+    <string name="happiness_energy">电力</string>
     <string name="game_infinitemoney">自由游戏</string>
     <string name="draftselector_titleenergy">电力</string>
     <string name="draftselector_titlecatastrophes">灾害</string>
@@ -354,7 +353,7 @@
     <string name="tutorial_buildwater_c">干得漂亮!</string>
     <string name="tutorial_buildpipe_a">仅仅有水塔还不够，还需要铺设输水管道才能将水送到各处。</string>
     <string name="tutorial_buildpipe_b">请沿标记方块放置。</string>
-    <string name="tutorial_buildpipe_c">干得好。现在我们来划分不同的城市区域。</string>
+    <string name="tutorial_buildpipe_c">干得好！现在我们来划分不同的城市区域。</string>
     <string name="tutorial_buildzones">不同的区域划分意味着可以建造不同种类的建筑。一共有三种不同的地域划分。</string>
     <string name="tutorial_buildresidential_a">首先我们划分出一块住宅区， 城市人口可以在上面建造住宅。</string>
     <string name="tutorial_buildresidential_b">将代表住宅区的绿色方格布置在标记方格上。</string>
@@ -367,19 +366,19 @@
     <string name="tutorial_industrial_keepaway">工业应该区远离其他区域，因为它会产生污染和噪音。</string>
     <string name="tutorial_rci">点击这个按钮你会看到城市现在的具体需求。</string>
     <string name="tutorial_speed_fast">你可以改变游戏速度以避免太长的等待时间。</string>
-    <string name="tutorial_money_task">你的任务就是利用税收来不断扩大你的城市。</string>
-    <string name="tutorial_money_info">点击右下角的方框你可以了解城市的财政明细或者调整税率。</string>
+    <string name="tutorial_money_task">你的任务就是利用税收来挣钱，用钱来不断扩大你的城市。</string>
+    <string name="tutorial_money_info">点击右下角的方框，你可以了解城市的财政明细或者调整税率。</string>
     <string name="tutorial_congrats">同志，你已经掌握了最基础的操作，现在就来建造你自己的理想城市吧 :)</string>
     <string name="draft_road03_text">车辆只能从一个方向通过，可以用它布控城市交通。</string>
-    <string name="ci_rci_com0">商业 Ͳ</string>
-    <string name="ci_rci_com1">商业 ͲͲ</string>
-    <string name="ci_rci_com2">商业 ͲͲͲ</string>
-    <string name="ci_rci_ind0">工业 Ͳ</string>
-    <string name="ci_rci_ind1">工业 ͲͲ</string>
-    <string name="ci_rci_ind2">工业 ͲͲͲ</string>
-    <string name="ci_rci_res0">住宅 Ͳ</string>
-    <string name="ci_rci_res1">住宅 ͲͲ</string>
-    <string name="ci_rci_res2">住宅 ͲͲͲ</string>
+    <string name="ci_rci_com0">商业 ₮</string>
+    <string name="ci_rci_com1">商业 ₮₮</string>
+    <string name="ci_rci_com2">商业 ₮₮₮</string>
+    <string name="ci_rci_ind0">工业 ₮</string>
+    <string name="ci_rci_ind1">工业 ₮₮</string>
+    <string name="ci_rci_ind2">工业 ₮₮₮</string>
+    <string name="ci_rci_res0">住宅 ₮</string>
+    <string name="ci_rci_res1">住宅 ₮₮</string>
+    <string name="ci_rci_res2">住宅 ₮₮₮</string>
     <string name="ci_rci_title">需求</string>
     <string name="ci_water_all">总计</string>
     <string name="draft_mosque00_title">清真寺</string>
@@ -392,7 +391,7 @@
     <string name="draft_destroyedtile_title">废墟</string>
     <string name="draft_decoind00_title">工业区</string>
     <string name="dialog_invalidcityname_title">无效名称</string>
-    <string name="ci_loan_get_text">默认贷款: 10000Ͳ\n期限: 24个月 \n每月费用: 500Ͳ</string>
+    <string name="ci_loan_get_text">默认贷款: 10000₮\n期限: 24个月 \n每月费用: 500₮</string>
     <string name="ci_info_title">城市概况</string>
     <string name="ci_water_waste">污染: %1$.1f%%</string>
     <string name="createcity_sizesmall">小</string>
@@ -431,7 +430,7 @@
     <string name="draft_road02_text">两个地点间最快捷的交通方式 。</string>
     <string name="draft_road01_title">乡下公路</string>
     <string name="draft_lighthouse00_text">这个世界没有船，但是有一个灯塔...真奇怪</string>
-    <string name="ci_general_population2">富裕阶级 (ͲͲͲ): %1$,d</string>
+    <string name="ci_general_population2">富裕阶级 (₮₮₮): %1$,d</string>
     <string name="ci_health_provided">可用: %1$,d</string>
     <string name="ci_health_reached">已达到: %1$,d</string>
     <string name="ci_loan_donate_text">请给我一点点钱吧，我很需要它 :(</string>
@@ -474,7 +473,7 @@
     <string name="draft_road01_text">车辆可以在这上面任意奔驰。</string>
     <string name="draftselector_titleterrain">地形</string>
     <string name="draft_terrainwater_title">水域</string>
-    <string name="draft_terrainwater_text">沧海桑田，在游戏中任你而为。</string>
+    <string name="draft_terrainwater_text">沧海桑田，在游戏中任你而为。\n小提示：你可以用放置水的次数来自定义水的颜色（从蓝到黑）。</string>
     <string name="draft_terrainland_title">陆地</string>
     <string name="draft_terrainland_text">填海造陆，只为建造理想之城。</string>
     <string name="draft_tree00_text">植树造林，宜居，宜游，宜生活。</string>
@@ -487,8 +486,8 @@
     <string name="draft_tennis00_title">网球场</string>
     <string name="draft_tennis00_text">孩子们可以在这里打网球。</string>
     <string name="draft_middlepark00_clock_text">塔钟会告诉居民现在的准确时间。</string>
-    <string name="notify_power_low">我们的用电量已经饱和，应该考虑建造更多的发电站。\n请注意，断电会导致人口减少。</string>
-    <string name="notify_water_low">我们的用水量已经接近上限，应该考虑建造更多的水源。\n请注意，断水会导致人口减少。</string>
+    <string name="notify_power_low">我们的用电量已经饱和，应该考虑建造更多的发电站。\n请注意，断电会导致房屋空置。</string>
+    <string name="notify_water_low">我们的用水量已经接近上限，应该考虑建造更多的水源。\n请注意，断水会导致房屋空置。</string>
     <string name="notify_religion">可以为我们建造一些宗教性建筑吗?</string>
     <string name="notify_noenergy">有的建筑物处于断电状态!</string>
     <string name="notify_sport">我们希望能够有做体育活动的地方。</string>
@@ -501,7 +500,7 @@
     <string name="draft_alert_fire00_text">如果发生火灾就需要报告消防局。</string>
     <string name="draft_alert_medic00_title">叫救护车</string>
     <string name="draft_alert_medic00_text">当有意外发生时，你必须要叫救护车。</string>
-    <string name="draft_radio00_news_text">发布有关于这个城市的最新消息，让居民们开拓视野。\n \n同一时间只能存在一种电视台，已有的电台节目将被替换掉。</string>
+    <string name="draft_radio00_news_text">发布有关于这个城市的最新消息，让居民们开拓视野。\n \n同一时间只能存在一种电台，已有的电台节目将被替换掉。</string>
     <string name="createcity_sizebigbig">很大</string>
     <string name="createcity_sizebigbigbig">特别大</string>
     <string name="createcity_sizemiddle">适中</string>
@@ -534,7 +533,7 @@
     <string name="draft_gasplant00_title">煤气发电厂</string>
     <string name="draft_gasplant00_text">既实惠又环保。不过也是有污染的。</string>
     <string name="draft_gillender00_title">吉尔大厦</string>
-    <string name="draft_gillender00_text">吉尔大厦是一个建于1897年，位于纽约的建筑。这是一个25万下载量的礼物 :D</string>
+    <string name="draft_gillender00_text">吉尔大厦建于1897年，位于纽约。这是一个25万下载量的礼物 :D</string>
     <string name="draft_management00_text">保障社会治安，降低犯罪率。</string>
     <string name="draft_marina00_title">游艇港</string>
     <string name="draft_marina00_text">富人们的消遣。</string>
@@ -542,8 +541,8 @@
     <string name="draft_marker_densitymarker_title">建筑密度</string>
     <string name="draft_marker_happinessmarker_text">居民对各个建筑的满意度。</string>
     <string name="draft_marker_levelmarker_title">建筑等级</string>
-    <string name="draft_destroyedtile_text">这里曾经很美，但只是曾经。我们需要把废墟清理走。</string>
-    <string name="welcome_content">欢迎来到TheoTown
+    <string name="draft_destroyedtile_text">这里曾经很美，但那只是曾经。我们需要把废墟清理走。</string>
+    <string name="welcome_content">欢迎来到 西奥小镇
 
 \n\n这是一个还处于开发阶段的App，所以有些功能不是太完善，有时也会出现一些小bug。请不要因为这些小瑕疵给差评。请记住，这是一个免费的游戏哦！
 
@@ -552,7 +551,7 @@
 \n\n祝你玩的愉快！</string>
     <string name="trainstationinfo_usage">乘客: %2$,d/%3$,d\n可用: %1$.1f%%</string>
     <string name="topic_cake">蛋糕是个谎言!</string>
-    <string name="topic_birthday_theotown">生日快乐，TheoTown :D</string>
+    <string name="topic_birthday_theotown">生日快乐，西奥小镇（TheoTown） :D</string>
     <string name="topic_birthday_theo">生日快乐，Theo :)</string>
     <string name="topic_birthday_phoenix">生日快乐，phoenix!</string>
     <string name="topic_birthday_lucasking">生日快乐，Lucas!</string>
@@ -562,15 +561,15 @@
     <string name="toolremove_zone_title">删除区域</string>
     <string name="toolremove_zone_text">使用这个工具可以删掉区域。</string>
     <string name="toolremove_pipe_title">移除输水管道</string>
-    <string name="shader_old">旧</string>
-    <string name="shader_gray">灰</string>
-    <string name="shader_fancy2">细腻+</string>
+    <string name="shader_old">8色[极其鲜艳]</string>
+    <string name="shader_gray">灰暗</string>
+    <string name="shader_fancy2">精细[低配勿入]</string>
     <string name="settings_ultrafastspeed">超快游戏速度</string>
     <string name="settings_showinfluencepreview">影响力预览</string>
-    <string name="settings_shadertype_xfancy">X-细腻</string>
-    <string name="settings_shadertype_normal">正常</string>
-    <string name="settings_shadertype_fancy">细腻</string>
-    <string name="settings_shader">Shader</string>
+    <string name="settings_shadertype_xfancy">更细腻</string>
+    <string name="settings_shadertype_normal">默认</string>
+    <string name="settings_shadertype_fancy">抗锯齿</string>
+    <string name="settings_shader">画面</string>
     <string name="settings_rightsidebar">边栏右置</string>
     <string name="settings_orientationlandscape">横屏</string>
     <string name="settings_preserveedges">保留边缘</string>
@@ -596,11 +595,11 @@
     <string name="draft_zoneharbor_text">海岸线工业</string>
     <string name="draft_zonefarm_title">农业区</string>
     <string name="draft_waterpump01_title">小型供水泵</string>
-    <string name="draft_waterpump01_text">必须要建在水源附近。</string>
+    <string name="draft_waterpump01_text">必须要建在水源附近。毕竟要抽的是水。</string>
     <string name="draft_wire00_text">可以把电力输送到城市的各个角落。</string>
     <string name="dialog_screenshot_error">目标文件夹%1$s无法建立，请设置游戏的权限。</string>
     <string name="ci_loan_paybackcost">归还金额: %1$s</string>
-    <string name="draft_carcinema00_text">多一些娱乐给TheoTown的居民。</string>
+    <string name="draft_carcinema00_text">给西奥小镇的居民多一些娱乐。</string>
     <string name="draft_marker_levelmarker_text">建筑物等级</string>
     <string name="draft_marker_trafficmarker_text">街道的饱和度</string>
     <string name="draft_nuclearplant00_text">比火力发电厂更强大，但是也更加昂贵。需要大量的水来冷却，不然有爆炸的危险。</string>
@@ -611,7 +610,7 @@
     <string name="settings_resolutionbigbig">很大</string>
     <string name="settings_relaxed_line_tool">简易线条工具</string>
     <string name="settings_orientation">屏幕方向</string>
-    <string name="settings_maxzoomout">最小化</string>
+    <string name="settings_maxzoomout">增大缩小范围</string>
     <string name="settings_energysaving">省电模式</string>
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawsmoke">烟</string>
@@ -624,9 +623,9 @@
     <string name="settings_disaster_auto">自动灾害</string>
     <string name="settings_debugmode">Debug模式</string>
     <string name="settings_category_ui">用户界面</string>
-    <string name="settings_category_graphics">图像</string>
-    <string name="draft_school02_text">小村庄的小学</string>
-    <string name="draft_sewerpipe00_text">让脏水直接牌入大自然。下水管道会变干净，但是环境会因此被污染。</string>
+    <string name="settings_category_graphics">画面</string>
+    <string name="draft_school02_text">村庄小学</string>
+    <string name="draft_sewerpipe00_text">让脏水直接排入大自然。下水管道会变干净，但是环境会因此被污染。</string>
     <string name="draft_statue00_title">雕像</string>
     <string name="draft_statue00_text">一个美丽的雕像。</string>
     <string name="draft_townhall01_text">即使一个小村庄也会需要一个小的市政厅的。</string>
@@ -644,7 +643,7 @@
     <string name="influence_sport_text">经常运动会使人精力充沛。</string>
     <string name="settings_resolutionlowlow">很小</string>
     <string name="settings_leftminimap">地图左置</string>
-    <string name="settings_hideads_text">如果你真的想要关闭广告的话，请把TheoTown推荐给你的朋友以便继续支持我们。 \n\n你确定要关闭广告吗?</string>
+    <string name="settings_hideads_text">如果你真的想要关闭广告的话，请把西奥小镇推荐给你的朋友以便继续支持我们。 \n\n你确定要关闭广告吗?</string>
     <string name="draft_marker_protectedmarker_title">受保护建筑物</string>
     <string name="draft_marker_trafficmarker_title">交通饱和度</string>
     <string name="draft_medic01_text">如果附近有一个医院，居民们会感到更加安心。</string>
@@ -655,15 +654,15 @@
     <string name="draft_radio00_fun_text">播放很多的音乐和一些娱乐。\n \n同一时间只能存在一种电视台，已有的电台节目将被替换掉。</string>
     <string name="draft_radio00_fun_title">娱乐电台</string>
     <string name="ci_loan_loanlist">所得贷款 (总 %1$s在%2$,d/%3$,d笔贷款):</string>
-    <string name="draft_marker_ticketmarker_text">Shows ticket satisfaction.</string>
-    <string name="draft_marker_ticketmarker_title">Tickets</string>
+    <string name="draft_marker_ticketmarker_text">显示票券满意度。</string>
+    <string name="draft_marker_ticketmarker_title">车票</string>
     <string name="draft_railwaystation00_text">火车车站</string>
     <string name="draft_rail00_text">火车的铁路</string>
     <string name="influence_police_text">警察会让犯罪率降低。</string>
     <string name="influence_radioactive_text">会对人类和环境造成威胁。</string>
     <string name="influence_radioactive_title">核辐射</string>
     <string name="influence_religion_text">宗教会使居民变得更开心。</string>
-    <string name="loadcity_memdialog_text">TheoTown目前未被允许访问存储，因此你无法储存城市。请尝试开启权限。</string>
+    <string name="loadcity_memdialog_text">西奥小镇 目前未被允许访问存储，因此你无法储存城市。请尝试开启权限。</string>
     <string name="draft_radio00_faith_text">播报有关于我们的信念和存在的话题。\n \n同一时间只能存在一种电视台，已有的电台节目将被替换掉。</string>
     <string name="draft_radio00_sport_text">播报体育新闻和令人兴奋的体育直播。\n \n同一时间只能存在一种电视台，已有的电台节目将被替换掉。</string>
     <string name="notify_fire">着火了! 派出消防队去灭火。你好像需要更多的消防局哦。</string>
@@ -684,7 +683,7 @@
     <string name="settings_doublecardrawing">增强汽车描绘</string>
     <string name="settings_carsimulation">汽车模拟</string>
     <string name="settings_buildgrid">建筑模式显示栅格</string>
-    <string name="settings_areazonetool">:)</string>
+    <string name="settings_areazonetool">区域工具</string>
     <string name="settings_auto_road_for_zones">自动筑路</string>
     <string name="dialog_oldmap_cmdproceed">继续</string>
     <string name="dialog_oldmap_title">老化的城市</string>
@@ -695,7 +694,7 @@
     <string name="influence_management_title">管理</string>
     <string name="happiness_freetime">业余时间</string>
     <string name="notify_noroad">有的建筑物没有通上道路。我们要改变它。</string>
-    <string name="settings_blur">模糊效果</string>
+    <string name="settings_blur">菜单背景模糊效果</string>
     <string name="notify_water_waste">这里的水污染很严重!</string>
     <string name="locale">zh</string>
     <string name="draft_police02_text">突击部队保障城市的和平与秩序。</string>
@@ -708,7 +707,7 @@
     <string name="dialog_renamebuilding_text">请给建筑物输入一个新名字。</string>
     <string name="dialog_renamebuilding_title">重命名建筑物</string>
     <string name="dialog_oldmap_cmdcancel">取消</string>
-    <string name="dialog_oldmap_text">自从你创建这个城市以后，TheoTown做了一些改动。因此，有的功能可能不会像预期的一样运作。请不要生气哦 (◕‿◕✿)</string>
+    <string name="dialog_oldmap_text">自从你创建这个城市以后，西奥小镇做了一些改动。因此，有的功能可能不会像以前一样运作。请不要生气哦 </string>
     <string name="happiness_firedepartment">消防</string>
     <string name="happiness_police">警察</string>
     <string name="dialog_closecity_title">离开城市</string>
@@ -732,28 +731,28 @@
     <string name="dialog_renameauthor_text">请输入新的作者</string>
     <string name="dialog_renameauthor_title">重命名作者</string>
     <string name="game_cityauthor">（%1$s）</string>
-    <string name="oome_text">我们很抱歉，但是你的设备上似乎没有足够的空间给TheoTown了。</string>
-    <string name="oome_title">RAM不足</string>
+    <string name="oome_text">我们很抱歉，但是你的设备上似乎没有足够的空间给西奥小镇了。</string>
+    <string name="oome_title">内部存储空间不足</string>
     <string name="notify_crime">这里会发生犯罪。你需要建立更多的警察局，或者提高居民的满意度。</string>
-    <string name="tutorial_buildbridge_a">为了使交通更加流畅，我们需要强化主街。请为此选择乡下公路。</string>
-    <string name="tutorial_buildbridge_b">点击准备规划道路的起始点和终点。位于水上的路线会自动建立起桥。</string>
+    <string name="tutorial_buildbridge_a">为了使交通更加流畅，我们需要强化主街。请为此选择 乡下公路。</string>
+    <string name="tutorial_buildbridge_b">点击准备规划道路的起始点和终点。位于水上的路线会自动建立起桥。桥更贵一些。</string>
     <string name="tutorial_buildbridge_c">好，树木就到此为止了。</string>
-    <string name="app_name_premium">TheoTown Premium</string>
+    <string name="app_name_premium">西奥小镇·至尊版</string>
     <string name="busstopinfo_title">公交车站</string>
     <string name="roadinfo_title">道路</string>
     <string name="roadinfo_trafficlights_off">关闭信号灯</string>
     <string name="roadinfo_trafficlights_on">开启信号灯</string>
     <string name="draft_beachnearwater00_title">沙滩</string>
     <string name="draft_beachnearwater00_text">没有什么能比在沙滩上度过一天还要更惬意的了!</string>
-    <string name="loadcity_version_premium">版本%1$,d (Premium)</string>
+    <string name="loadcity_version_premium">版本%1$,d (至尊版)</string>
     <string name="loadcity_preview">示范城市</string>
     <string name="settings_autorestoresamples">恢复示范城市</string>
     <string name="settings_autountouchable">建筑物默认受保护</string>
     <string name="draft_alert_swat00_title">呼叫特种部队</string>
-    <string name="draft_alert_swat00_text">只有特种部队才能平息这场暴乱。</string>
+    <string name="draft_alert_swat00_text">只有特种部队才能平息一场暴乱。</string>
     <string name="control_continue">继续</string>
-    <string name="settings_winter">冬天</string>
-    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！</string>
+    <string name="settings_winter">冬天主题</string>
+    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！（市长，你是不是动了灾难菜单？）</string>
     <string name="notify_riot_reason">这里因为%1$s而引发了一场暴乱!</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_road04_text">一条美丽的林荫大道。</string>
@@ -782,13 +781,13 @@
     <string name="draft_rnk_town_big_title">大城镇</string>
     <string name="draft_rnk_metropolis_title">大都市</string>
     <string name="draft_rnk_megalopolis_title">巨大都市</string>
-    <string name="draft_decoroad00_text">.</string>
+    <string name="draft_decoroad00_text">就是道路装饰</string>
     <string name="settings_experimental">实验性功能</string>
     <string name="about_thanks">特别感谢</string>
     <string name="about_community">以及其它的社区成员</string>
-    <string name="dialog_tosandbox_cmdconvert">沙盒</string>
-    <string name="dialog_tosandbox_title">沙盒模式</string>
-    <string name="dialog_tosandbox_text">切换城市至沙盒模式？\n\n这一步不能撤回！</string>
+    <string name="dialog_tosandbox_cmdconvert">Sandbox</string>
+    <string name="dialog_tosandbox_title">Sandbox</string>
+    <string name="dialog_tosandbox_text">确定切换城市至沙盒模式？\n这一步不能撤回！\n提示：沙盒模式将使你不再受预算的束缚，但预算是这个游戏很重要的一点。</string>
     <string name="requirement_rank">至少%1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">葬礼：%1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">垃圾处理：%1$,d/%2$,d</string>
@@ -821,7 +820,7 @@
     <string name="features_alreadybought">已购买</string>
     <string name="draft_feature_noads00_title">移除广告</string>
     <string name="features_title">附加功能</string>
-    <string name="features_getit">得到%s</string>
+    <string name="features_getit">用 %s 钻石购买</string>
     <string name="features_included">包含在%s中</string>
     <string name="requirement_feature">%s的一部分</string>
     <string name="draft_feature_military00_title">军事基地</string>
@@ -831,7 +830,7 @@
     <string name="draft_feature_buildings02_title">建筑物套餐3</string>
     <string name="draft_feature_services00_title">服务套餐</string>
     <string name="draft_feature_tourism00_title">旅游套餐</string>
-    <string name="draft_feature_premium00_title">Premium</string>
+    <string name="draft_feature_premium00_title">附加套餐</string>
     <string name="features_money">Get %1$s for %2$s</string>
     <string name="features_getrank">购买级别升级</string>
     <string name="settings_hide_rank_features">隐藏级别升级</string>
@@ -839,8 +838,8 @@
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">一个UFO袭击了你的城市！</string>
     <string name="disaster_ufo_cmdtext">设定目标</string>
-    <string name="topic_theons">我们有了新的货币：Theons Ͳ</string>
-    <string name="topic_wip">建设中。请不要穿越。</string>
+    <string name="topic_theons">我们有了新的货币：Theons ₮</string>
+    <string name="topic_wip">正在建设，请不要通行。</string>
     <string name="topic_belong">你的城市是属于我们的 &gt;:D</string>
     <string name="topic_love">你所需要的就是爱。</string>
     <string name="topic_build">我要在我的城市里建设高楼大厦和花园</string>
@@ -850,14 +849,14 @@
     <string name="topic_relax">放轻松，这只是一个游戏。</string>
     <string name="topic_cats">猫咪们真可爱</string>
     <string name="topic_force">力量与你同在</string>
-    <string name="topic_plugins">我们现在有plugins了</string>
+    <string name="topic_plugins">我们现在有插件了，可以去论坛找</string>
     <string name="topic_page">来www.theotown.com访问我们</string>
     <string name="topic_habitants">你可以达到1,000,000</string>
     <string name="ci_statistics_title">统计</string>
     <string name="statistics_inh_all">居民</string>
-    <string name="statistics_inh_0">贫困阶级 (Ͳ)</string>
-    <string name="statistics_inh_1">中产阶级 (ͲͲ)</string>
-    <string name="statistics_inh_2">富裕阶级 (ͲͲͲ)</string>
+    <string name="statistics_inh_0">贫困阶级 (₮)</string>
+    <string name="statistics_inh_1">中产阶级 (₮₮)</string>
+    <string name="statistics_inh_2">富裕阶级 (₮₮₮)</string>
     <string name="statistics_money">预计</string>
     <string name="statistics_buildings">建筑物</string>
     <string name="statistics_roads">公路</string>
@@ -868,10 +867,9 @@
     <string name="control_off">关</string>
     <string name="draft_school03_title">大型高校</string>
     <string name="draft_school03_text">一个更大的高校以容纳更多的大学生。</string>
-    <string name="gamemode_sandbox_desc">想无压力的玩游戏？开启无金钱模式。此游戏模式中没有级别并只有少量的勋章。</string>
-    <string name="gamemode_easy_desc">在这个游戏模式中，你会在游戏开始时得到一大笔金钱以降低游戏难度。</string>
+        <string name="gamemode_easy_desc">在这个游戏模式中，你会在游戏开始时得到100K₮（一大笔钱）以降低游戏难度。</string>
     <string name="gamemode_middle_desc">默认游戏模式。游戏开始时，你会得到一笔金钱，你可以用它来建立你的梦想城市。</string>
-    <string name="gamemode_hard_desc">你是TheoTown的高级玩家？那这个游戏模式很适合你。游戏开始时，你只会得到一小笔金钱。这是难度最高的模式。</string>
+    <string name="gamemode_hard_desc">你是西奥小镇的高级玩家？那这个游戏模式很适合你。游戏开始时，你只会得到一小笔金钱。这是难度最高的模式。</string>
     <string name="dialog_ffwd_title">快进</string>
     <string name="dialog_ffwd_text">游戏加速%1$,d天。</string>
     <string name="dialog_ffwd_cmdplayad">视频广告</string>
@@ -917,12 +915,12 @@
     <string name="task_openworld_title">地区</string>
     <string name="task_openworld_text">你的城市只是一个小的部分。你可以在这看到你所有的城市。</string>
     <string name="task_openrci_title">建筑物需求</string>
-    <string name="task_openrci_text">在TheoTown中，建筑物被划分了不同的类别以及级别。种类包含有居民建筑物，商业建筑物以及工业建筑物。级别分别有贫困 (Ͳ)，中产 (ͲͲ)以及富裕 (ͲͲͲ)。</string>
+    <string name="task_openrci_text">在西奥小镇中，建筑物被划分了不同的类别以及级别。种类包含有居民建筑物，商业建筑物以及工业建筑物。级别分别有贫困 (₮)，中产 (₮₮)以及富裕 (₮₮₮)。</string>
     <string name="control_gotit">明白</string>
     <string name="task_firstcity_title">新城市</string>
     <string name="task_firstcity_text">欢迎来到你的第一个城市。\n\n请试着获取300个居民。</string>
-    <string name="task_reachrank_title">新排名</string>
-    <string name="task_reachrank_text">恭喜！你的城市得到了一个新的排名。\n\n每一个新的排名都会为你解锁一些新的建筑物，你也会因此得到一个奖励。</string>
+    <string name="task_reachrank_title">升级</string>
+    <string name="task_reachrank_text">恭喜！你的城市达到了一个新的等级。\n\n每一个新的等级都会为你解锁一些新的建筑物，你也会因此得到一些奖励。</string>
     <string name="welcome_sorry_title">更新</string>
     <string name="welcome_sorry_text">亲爱的玩家：\n\n最近，我们在开发TheoTown中获得了很大的进展。但是这些进展也带来了一些较大的改动。\n\n我们希望你可以理解。为表示感谢，我们会送给你一个礼物。</string>
     <string name="menu_achievements">勋章</string>
@@ -931,12 +929,12 @@
     <string name="menu_mapscreenshot">地图截图</string>
     <string name="menu_save">保存</string>
     <string name="menu_title">菜单</string>
-    <string name="region_maxconcurrentunlocks">最多%1$,d地图可以同时解锁。</string>
+    <string name="region_maxconcurrentunlocks">最多%1$,d个地图可以同时解锁。</string>
     <string name="dialog_unlocktime_title">减少等待时间</string>
-    <string name="dialog_unlocktime_text">解锁一个地图很麻烦。你想要支持我们吗？这样的话可以使解锁加快30分钟。</string>
+    <string name="dialog_unlocktime_text">解锁一个地图很麻烦。你想要支持我们吗？这样的话可以立刻解锁。</string>
     <string name="region_speedup">加速</string>
-    <string name="region_waitingtime">我们正在为你解锁这个地图。</string>
-    <string name="settings_autoload">自动加载最新的城市。</string>
+    <string name="region_waitingtime">正在努力解锁中...</string>
+    <string name="settings_autoload">自动加载最新的城市</string>
     <string name="dialog_renameregion_title">重命名区域</string>
     <string name="dialog_renameregion_text">请输入一个新的区域名称:</string>
     <string name="shop_diamonds">%1$s钻石%2$s</string>
@@ -954,7 +952,7 @@
     <string name="dialog_notenoughmoney_title">金钱不足</string>
     <string name="dialog_notenoughmoney_text">没有足够的金钱可以购买这个商品。你想要马上得到所缺的%1$s？</string>
     <string name="notify_fullhospital">这个医院的空间不足，挂号时间太长，我们需要建立一个新的医院。</string>
-    <string name="dialog_rate_title">你喜欢TheoTown吗？</string>
+    <string name="dialog_rate_title">你喜欢西奥小镇吗？</string>
     <string name="dialog_rate_text">那就请给我们评分，只需要一小会儿哦。</string>
     <string name="dialog_rate_cmdok">我喜欢。</string>
     <string name="dialog_rate_cmdcancel">我不喜欢。</string>
@@ -974,7 +972,7 @@
     <string name="draft_mltry_missilesilo00_title">导弹发射井</string>
     <string name="draft_feature_military00_text">建立一个属于你自己的军事基地以保护你的城市。包含了UFO灾难。</string>
     <string name="dialog_smooth_title">光滑图像</string>
-    <string name="dialog_smooth_text">完美！我们发现了一个能改善游戏像素的办法。你想要试试它吗？\n\n你可以随时更改这个设置。</string>
+    <string name="dialog_smooth_text">完美！我们发现了一个能改善游戏图像的办法。你想要试试它吗？\n\n你可以随时更改这个设置。</string>
     <string name="budget_military">军事</string>
     <string name="draftselector_monthlyincome">月收入: %s</string>
     <string name="draft_decosmallmountain00_title">小山</string>
@@ -990,7 +988,7 @@
     <string name="draft_decosmallmountain00_text">这座小山是这片平坦的土地上的旅游胜地。</string>
     <string name="draft_feature_mountain00_text">这座小山是这片平坦的土地上的旅游胜地。</string>
     <string name="dialog_connect_title">连接</string>
-    <string name="dialog_connect_text">你想要与外部建立连接吗?</string>
+    <string name="dialog_connect_text">你想要与其他城市建立连接吗?</string>
     <string name="menu_hideui">隐藏界面</string>
     <string name="ci_neighbor_title">邻里商业</string>
     <string name="ci_neighbor_notavailable">暂时不可用</string>
@@ -1002,18 +1000,18 @@
     <string name="ci_neighbor_water">水</string>
     <string name="dialog_buy_free">免费</string>
     <string name="notify_missiledisaster">哦…你的上一个火箭实验好像引发了一个银河灾难。</string>
-    <string name="notification00_title">新鲜事: %1$s的金钱太多啦!</string>
-    <string name="notification00_text">市长，我们需要您来处理这些钱!</string>
+    <string name="notification00_title">西奥邮箱：%1$s：我们赚的盆满钵盈</string>
+    <string name="notification00_text">市长您好：\n得益于您的帮助，我们赚的盆满钵盈。是时候回来领取，把钱砸在工程上了。\n--议员@手机用户17105946</string>
     <string name="roadinfo_bridgetype">桥梁种类</string>
     <string name="draft_feature_buildings01_text">大型居民建筑物，商业建筑物和工业建筑物以增添城市的多元化。可以大大提高居民的生活标准。</string>
     <string name="dialog_diamondshop_recommended">推荐</string>
-    <string name="dialog_presentdaily_title">每日奖励。</string>
-    <string name="dialog_presentdaily_text">明天会有更多的</string>
+    <string name="dialog_presentdaily_title">每日奖励</string>
+    <string name="dialog_presentdaily_text">明天会有更多的钻石！</string>
     <string name="dialog_presentdaily_day">第%1$,d天</string>
-    <string name="rank_needed_xp">还需要至少%1$,d城市点数</string>
+    <string name="rank_needed_xp">需要至少%1$,d的城市点数</string>
     <string name="settings_shortmoney">缩写金钱数目</string>
     <string name="dialog_newsign_title">新建标签</string>
-    <string name="dialog_newsign_text">为这个地区输入一个名词。</string>
+    <string name="dialog_newsign_text">为这个地区输入一个名字。</string>
     <string name="dialog_editsign_title">编辑标签</string>
     <string name="dialog_editsign_text">输入一个新内容给你的标签或者删掉所有内容。</string>
     <string name="dialog_editsign_delete">删除</string>
@@ -1022,7 +1020,7 @@
     <string name="draft_feature_deco00_title">广场装饰</string>
     <string name="draft_feature_deco00_text">一用于商业区的装饰品。</string>
     <string name="draft_feature_slowspeed00_title">低速</string>
-    <string name="draft_feature_slowspeed00_text">比较慢的速度模式，让你可以在某些情况更方便操纵。</string>
+    <string name="draft_feature_slowspeed00_text">比较慢的速度模式，让你可以在某些情况更方便操纵。虽然并没有什么卵用。</string>
     <string name="buildinginfo_patrol">巡逻</string>
     <string name="draft_beach_gnd00_title">沙子</string>
     <string name="draft_beach_gnd00_text">一些沙子。 可以用于沙滩。</string>
@@ -1030,24 +1028,24 @@
     <string name="draft_searocks00_text">一些在水中的岩石。</string>
     <string name="createcity_decos">带装饰</string>
     <string name="tutorial_cmdskip">跳过教程</string>
-    <string name="dialog_skipbuildtime_ad">略过%1$,d天</string>
+    <string name="dialog_skipbuildtime_ad">略过%1$,d天的建筑时间</string>
     <string name="setting_showtrafficmarker">在交通工具中显示交通负荷</string>
     <string name="menu_console">控制台</string>
     <string name="topic_crispr">CRISPR可以改变你的生活</string>
     <string name="draft_feature_firestation00_title">消防总局</string>
     <string name="draft_feature_firestation00_text">一个覆盖范围很大的消防局。拥有很多消防车。并可以通过升级以获取消防直升机。</string>
     <string name="draft_feature_gocart00_title">卡丁车跑道</string>
-    <string name="draft_feature_gocart00_text">来点赛车运动在你的城市怎么样？卡丁车也可以在普通的道路上行驶。</string>
+    <string name="draft_feature_gocart00_text">在你的城市来点赛车运动怎么样？卡丁车也可以在普通的道路上行驶。</string>
     <string name="draft_firedepartment02_text">拥有很大的覆盖范围和很多消防车。避免或者消灭火灾最好的方法。</string>
     <string name="draft_prmgocart00_title">卡丁车跑道</string>
-    <string name="draft_prmgocart00_text">来点赛车运动在你的城市怎么样？卡丁车也可以在普通的道路上行驶。</string>
+    <string name="draft_prmgocart00_text">在你的城市来点赛车运动怎么样？卡丁车也可以在普通的道路上行驶。\n提示：卡丁车会从一个地方转悠一圈回到原地。你可以这样做个赛道。</string>
     <string name="settings_smoothscrolling">温和移动</string>
     <string name="settings_buildingtoolold">旧版建筑工具</string>
     <string name="settings_roadautojoin">自动链接道路工具</string>
 
     <string name="tut_start00">这是一个很悠闲的地方，对吧？</string>
     <string name="tut_start01">不管怎样，让我们来建设一个大城市吧，但是可能我们要慢慢开始。</string>
-    <string name="tut_start02">点击屏幕以移动地图。你可以用两根手指来缩放。</string>
+    <string name="tut_start02">点击屏幕以移动地图。你可以用两根手指来缩放。同样的，旋转手势也可以。</string>
     <string name="tut_start03">太棒了。我想你现在慢慢找到感觉了。我们现在可以开始建设你的第一个城市了。</string>
     <string name="tut_build00">看，多方便啊!政府已经在这建了一些公路，所以我们可以免费使用了。</string>
     <string name="tut_build01">好，我们现在就开始。首先先建立一片居住区，这样居民就会被吸引过来。</string>
@@ -1061,12 +1059,12 @@
     <string name="tut_build08">这不难。让我们建立一个水塔来为居民们提供水吧。</string>
     <string name="tut_build09">建筑水塔同样会花费一些时间。如果不想等太长时间的话，可以用一些钻石来加速。</string>
     <string name="tut_build10">我们需要一些水管来把水输送给居民们。建立一些以备不时之需。</string>
-    <string name="tut_build11">他好了，我们的居民现在有水有电了。但是等一下，我们好像还缺点什么…</string>
+    <string name="tut_build11">好了，我们的居民现在有水有电了。但是等一下，我们好像还缺点什么…</string>
     <string name="tut_build110">市长，我们还没有可以买东西的地方!</string>
     <string name="tut_build12">是啊，我们还需要商业区和工业区。让我们先了解一下具体需求。</string>
     <string name="tut_build13">在这里你可以看到居民建筑物，商业建筑物以及工业建筑物的需求。</string>
-    <string name="tut_build14">其中，每个类别有三个富裕等级:Ͳ（贫困）， ͲͲ（中产）和ͲͲͲ（富裕）。</string>
-    <string name="tut_build15">我们当然也想只要富裕居民，但是我们要慢慢来。就像你看到的，我们现在需要一些Ͳ商业建筑物。</string>
+    <string name="tut_build14">其中，每个类别有三个富裕等级:₮（贫困）， ₮₮（中产）和₮₮₮（富裕）。</string>
+    <string name="tut_build15">我们当然也想只要富裕居民，但是我们要慢慢来。就像你看到的，我们现在需要一些₮商业建筑物。</string>
     <string name="tut_build16">建一个商业区？我相信你能做到的。</string>
     <string name="tut_build17">做得好！现在来看，工业区的需求也不低。现在就建一个吧！</string>
     <string name="tut_build18">正常来讲，商业区和工业区的总面积应该跟居民区一样大。</string>
@@ -1075,9 +1073,9 @@
     <string name="tut_build23">在这里，你可以看到一些关于你的城市的综合信息。如果你想要给你的城市换一个新的名字的话，那就直接点击他现在的名字。</string>
     <string name="tut_build24">这是另一个好用的工具。</string>
     <string name="tut_build25">它会告诉你居民具体的满意度。</string>
-    <string name="tut_build26">你想要操控时间吗？试试加快游戏的速度吧。。</string>
+    <string name="tut_build26">你想要操控时间吗？试试加快游戏的速度吧。</string>
     <string name="tut_build27">现在暂停游戏。</string>
-    <string name="tut_build28">现在返回正常游戏速度模式。。。</string>
+    <string name="tut_build28">现在返回正常游戏速度模式。</string>
     <string name="tut_build29">不好意思，我要打断你一下。这里还有其它神奇的东西，比如金钱。</string>
     <string name="tut_build30">让我来给你解释一下吧。我们可以通过税收来得到金钱，所以我们要尽量得到更多的居民。</string>
     <string name="tut_build31">有时候，我们可能穷的需要贷款…希望我们不用走到这一步。</string>
@@ -1089,7 +1087,7 @@
     <string name="tut_build37">有时候，我们需要不同的视野。点这里试试看。</string>
     <string name="tut_present00">我把我知道的全部都告诉你了。最后一点:这些是给你的礼物。</string>
     <string name="tut_present01">你每天都会得到一个礼物。</string>
-    <string name="tut_end00">如果你在找一个论坛，那就来www.theotown.com看看吧 :)</string>
+    <string name="tut_end00">如果你想交流一下，那就来 www.theotown.com 看看吧 :)</string>
     <string name="tut_end01">现在开始尽情游戏吧 :)</string>
 
     <string name="featureselector_time">%1$s超快速度</string>
@@ -1108,14 +1106,13 @@
     <string name="draft_mltry_fence01_title">军事围栏</string>
     <string name="draft_mltry_fence01_text">用于装饰的军事围栏。</string>
 
-    <string name="store_title">TheoTown</string>
+    <string name="store_title">西奥小镇（TheoTown）</string>
     <string name="store_shortdesc">在这个城市模拟游戏中建立属于你自己的城市。</string>
-    <string name="store_longdesc">建一个属于你的城市怎么样？在TheoTown里，你可以见证你自己的城市通过建造不同的居民区，商业区和工业区慢慢的成长。建立道路来使交通更加发达；你也可以建立学校，公园等等来让你的居民游泳更加丰富多彩的生活。
-如果你允许TheoTown访问你的外部储存，TheoTown会把你的城市存在你的手机的TheoTown/maps文件夹里。同样的，你可以从官网下载插件，放在TheoTown/plugins里。</string>
-
+    <string name="store_longdesc">建造一个属于你的像素城市怎么样？\n在TheoTown里，你可以见证你自己的城市发展壮大，通过建造不同的居民区、商业区和工业区使其慢慢的成长。建立道路来使交通更加发达；你也可以建立学校、公园等等来让你的居民有更加丰富多彩的生活\n。
+如果你允许TheoTown访问你的外部存储，TheoTown会把你的地图存在你的手机的TheoTown/maps，区域存储在/regions文件夹里。\n 本应用有内购项目，需要钻石，但是每天开游戏送钻石。\n请不要使用作弊版本，钻石超过八位数会遭受惩罚。\n 你可以到论坛与其他人讨论、下载或创作插件、查看游戏文档。\n 传送门：www.theotown.com</string>
     <string name="settings_sound_weather">天气</string>
     
-    <string name="settings_energysavingplus">更节能</string>
+    <string name="settings_energysavingplus">更加省电模式</string>
     <string name="topic_designed">人工设计</string>
     <string name="draft_weather_machine00_fog00_title">制雾器</string>
     <string name="draft_weather_machine00_fog00_text">一个巨型制雾器。可以产生足够的雾，以使整个城市笼罩在浓雾之中。</string>
@@ -1126,10 +1123,10 @@
     <string name="draft_ranger00_text">如果环境污染太严重，树木必须被重新种植。林务所会自动种植新的树木。</string>
 
     <string name="ci_general_citypoints">城市点数: %1$s</string>
-    <string name="settings_ringbuildindicator">建筑进度显示</string>
+    <string name="settings_ringbuildindicator">显示建筑进度</string>
 
     <string name="draft_tool_car_follower00_title">追踪汽车</string>
-    <string name="draft_tool_car_follower00_text">随机追踪一辆在城市中行驶的汽车。</string>
+    <string name="draft_tool_car_follower00_text">随机追踪一辆在城市中行驶的汽车。\n可以通过点击车辆来切换，小心误触。</string>
     <string name="draft_mltry_bunker00_title">防空洞</string>
     <string name="draft_mltry_bunker00_text">住处附近有防空洞会使居民们感到更安心。</string>
     <string name="draft_zoneairport_title">飞机场</string>
@@ -1187,10 +1184,10 @@
     <string name="draft_feature_fountain00_title">大喷泉</string>
     <string name="draft_feature_fountain00_text">一个美丽的喷泉，会给你的城市的居民和你带来幸福感。</string>
 
-    <string name="draft_rnk_galaxy_small_title">小银河系</string>
-    <string name="draft_rnk_galaxy_medium_title">银河系</string>
-    <string name="draft_rnk_galaxy_big_title">大银河系</string>
-    <string name="draft_rnk_galaxy_large_title">超级银河系</string>
+    <string name="draft_rnk_galaxy_small_title">小星系</string>
+    <string name="draft_rnk_galaxy_medium_title">普通星系</string>
+    <string name="draft_rnk_galaxy_big_title">大星系</string>
+    <string name="draft_rnk_galaxy_large_title">超级星系</string>
     <string name="draft_rnk_galaxy_cluster_small_title">小星系团</string>
     <string name="draft_rnk_galaxy_cluster_medium_title">星系团</string>
     <string name="draft_rnk_galaxy_cluster_big_title">大星系团</string>
@@ -1217,17 +1214,17 @@
     <string name="airport_lane_add">添加跑道</string>
     <string name="airport_airplanes">飞机</string>
     <string name="airport_virtual_lane">尚未分配</string>
-    <string name="airport_lane_no_airplane">尚无飞机。</string>
+    <string name="airport_lane_no_airplane">尚无飞机</string>
     <string name="topic_lightside">来到光明的一侧吧，我们有---冰激凌！</string>
     <string name="topic_handmade">每个像素都是辛辛苦苦的点上去的。</string>
     <string name="topic_lunch">午餐意味着关门时间</string>
     <string name="topic_watching">Lobby在看着你</string>
     <string name="topic_code">现在有5% 更多的代码!</string>
     <string name="topic_banana">香蕉</string>
-    <string name="topic_finish">让我们完成这个 SA</string>
-    <string name="topic_threed">"假装自己是3D"</string>
-    <string name="topic_work">可能包含辛勤工作的痕迹</string>
-    <string name="topic_funfun">现在也带来乐趣</string>
+    <string name="topic_finish">让我说完,完这,这这,句,句,讠...（卒）</string>
+    <string name="topic_threed">"假 · 3D"</string>
+    <string name="topic_work">“可能”包含辛勤工作的痕迹</string>
+    <string name="topic_funfun">现在也可以带来各种乐趣</string>
 
     <string name="settings_lesscars">交通流量</string>
     <string name="settings_uploadgameplay">上传游戏情节（你的Id: %s）</string>
@@ -1247,13 +1244,13 @@
     <string name="dialog_renameairplane_title">重命名飞机</string>
     <string name="dialog_renameairplane_text">为你的飞机输入一个新名字：</string>
     <string name="draft_airplane00_title">T340</string>
-    <string name="draft_airplane00_text">一架隶属TheoAir的长途客机。</string>
-    <string name="draft_prm_airplane00_title">金色T340</string>
-    <string name="draft_prm_airplane00_text">TheoAir专属的金色T340。</string>
+    <string name="draft_airplane00_text">一架隶属西奥航空的长途客机。</string>
+    <string name="draft_prm_airplane00_title">土豪金T340</string>
+    <string name="draft_prm_airplane00_text">西奥航空专属的金色T340。</string>
     <string name="draftselector_airplane_passenger">乘客: %1$,d</string>
     <string name="draft_ap_deco00_title">机场装饰</string>
     <string name="draft_ap_deco00_text">用这些装饰让你的机场看起来更加真实。</string>
-    <string name="airport_needtower_title">无塔台</string>
+    <string name="airport_needtower_title">然而并没有塔台</string>
     <string name="airport_needtower_text">你需要建一个塔台来监控你的机场。</string>
     <string name="airport_needworkingtower_title">塔台未工作</string>
     <string name="airport_needworkingtower_text">你要确定你的塔台处于工作状态</string>
@@ -1261,9 +1258,9 @@
     <string name="ci_airport_newlane_title">新跑道</string>
     <string name="ci_airport_newlane_text">为你的飞机添加一条新跑道</string>
     <string name="ci_airport_onelaneatatime">每次只能添加一条跑道</string>
-    <string name="ci_airport_cmdunlock">激活</string>
-    <string name="ci_airport_cmdlocked">关闭</string>
-    <string name="ci_airport_unlocking">激活...</string>
+    <string name="ci_airport_cmdunlock">解锁</string>
+    <string name="ci_airport_cmdlocked">锁定</string>
+    <string name="ci_airport_unlocking">解锁中...</string>
     <string name="ci_airport_cmdspeedup">加速</string>
     <string name="dialog_renamelane_title">重命名跑道</string>
     <string name="dialog_renamelane_text">为你的跑道输入一个新名称：</string>
@@ -1271,9 +1268,9 @@
     <string name="dialog_redeemcode_text">你收到了一个优惠券代码？你可以在这里兑换它：</string>
     <string name="dialog_redeemcode_cmdredeem">兑换</string>
     <string name="dialog_redeemsuccess_title">兑换成功</string>
-    <string name="dialog_redeemsuccess_text">恭喜，你得到了%1$s个钻石 :)</string>
+    <string name="dialog_redeemsuccess_text">恭喜，你得到了%1$s个钻石</string>
     <string name="dialog_redeemfailure_title">错误</string>
-    <string name="dialog_redeemfialire_text">优惠券代码不可用。请检查拼写错误。</string>
+    <string name="dialog_redeemfialire_text">优惠券代码不可用。请检查是不是打错了。</string>
     <string name="shop_redeemcode">兑换优惠券</string>
     <string name="draft_ap_tower00_title">塔台</string>
     <string name="draft_ap_tower00_text">一个机场需要至少一个塔台才可以运作。塔台的作用是监控起飞和降落跑道。</string>
@@ -1285,12 +1282,12 @@
     <string name="draft_ap_field00_text">用于飞机起飞降落的跑道。最短12格。</string>
     <string name="settings_usezoneradius">对区域使用半径</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">一架TheoAir的双层长途客机。可以为旅客提供很大的空间。</string>
+    <string name="draft_airplane01_text">一架西奥航空的双层长途客机。可以为旅客提供很大的空间。</string>
     <string name="dialog_waitingtime_title">减少等待时间</string>
     <string name="dialog_waitingtime_text">减少一些等待时间怎么样？还剩\n%1$s。</string>
 
-    <string name="topic_rate">用评价来支持TheoTown吧</string>
-    <string name="ci_airport_lane_unassign">丢掉</string>
+    <string name="topic_rate">用评价来支持西奥小镇吧</string>
+    <string name="ci_airport_lane_unassign">取消分配</string>
     <string name="tool_airplanelane_title">点击一条空跑道</string>
     <string name="draft_feature_starter_pack00_title">入门套餐</string>
     <string name="draft_feature_starter_pack00_text">入门套餐里包含：</string>
@@ -1313,7 +1310,7 @@
     <string name="disaster_green_slime_cmdtext">开始黏液！</string>
     <string name="disaster_pink_slime_title">粉色黏液</string>
     <string name="disaster_pink_slime_text">一种更加凶猛的黏液，可以使整个城市陷入险境</string>
-    <string name="disaster_pink_slime_cmdtext">开始黏液！</string>
+    <string name="disaster_pink_slime_cmdtext">出动吧粘液！</string>
     <string name="draft_hydroplant00_title">水力发电站</string>
     <string name="draft_hydroplant00_text">水力发电站将水的势能和动能转换成电能。不会造成自然污染。</string>
     <string name="draft_feature_slime00_title">黏液灾难</string>
@@ -1322,57 +1319,57 @@
     <string name="settings_terrainshading">地形阴影</string>
     <string name="draft_deco_chr_tree00_title">圣诞树</string>
     <string name="draft_deco_chr_tree00_text">圣诞树将使你的居民的心充满欢乐和荣耀。你看到什么礼物了吗?</string>
-    <string name="draft_jardinehouse00_title">Jardine House</string>
-    <string name="draft_jardinehouse00_text">Jardine House是位于香港的办公大楼。它有52层,高度为179米,在1972年建成。</string>
+    <string name="draft_jardinehouse00_title">怡和大厦</string>
+    <string name="draft_jardinehouse00_text">怡和大厦是位于香港的办公大楼。它有52层,高度为179米,在1972年建成。</string>
     <string name="draft_bankofchina00_title">中国银行大厦</string>
     <string name="draft_bankofchina00_text">香港中国银行大厦是中国银行香港分行的总部。它有70层楼，高367米，于1990年完工</string>
-    <string name="settings_road_zone_width">Width between zone roads</string>
-    <string name="settings_road_zone_height">Height between zone roads</string>
+    <string name="settings_road_zone_width">自动筑路网格宽</string>
+    <string name="settings_road_zone_height">自动筑路网格长</string>
     <string name="draft_feature_christmas_pack00_title">圣诞节特惠</string>
     <string name="draft_feature_christmas_pack00_text">这个限时特惠包括：</string>
     <string name="draft_feature_christmas00_title">圣诞节</string>
     <string name="draft_feature_christmas00_text">圣诞节的各种装饰</string>
-    <string name="draft_category_christmas00_title">冬天来了</string>
+    <string name="draft_category_christmas00_title">冬天</string>
     <string name="draft_deco_chr_snowman00_title">雪人</string>
     <string name="draft_deco_chr_snowman00_text">儿童在冬天喜欢堆雪人</string>
-    <string name="draft_internationalcommercecentre00_title">ICC</string>
-    <string name="draft_internationalcommercecentre00_text">香港的国际商务中心是一座108层的商业摩天大楼。它是香港最高的建筑，高度为4.84米。它于2010年完工。</string>
+    <string name="draft_internationalcommercecentre00_title">香港国际商务中心</string>
+    <string name="draft_internationalcommercecentre00_text">香港的国际商务中心是一座108层的商业摩天大楼。它是香港最高的建筑，高度为484米。它于2010年完工。</string>
     <string name="settings_autosave_interval">自动保存间隔</string>
     <string name="settings_autosave_interval_off">关闭</string>
     <string name="settings_autosave_interval_minutes">%1$d分钟</string>
 
     <string name="draft_syl_spawner00_title">火炬烟火</string>
-    <string name="draft_syl_spawner00_text">A firework with the shape of a torch.</string>
+    <string name="draft_syl_spawner00_text">这个烟火就像火炬</string>
     <string name="draft_syl_spawner01_title">圆圈烟火</string>
-    <string name="draft_syl_spawner01_text">A rather simple firework.</string>
+    <string name="draft_syl_spawner01_text">一个极为简单的烟火</string>
     <string name="draft_syl_spawner02_title">水母形烟火</string>
-    <string name="draft_syl_spawner02_text">This firework mimics the shape of a jellyfish.</string>
+    <string name="draft_syl_spawner02_text">这是一个仿照水母的形状的烟火</string>
     <string name="draft_syl_emitter00_title">开关</string>
-    <string name="draft_syl_emitter00_text">A switch to initiate fireworks. Connect it to wires.</string>
+    <string name="draft_syl_emitter00_text">这是一个启动烟火的引线，请把它连接起来</string>
     <string name="draft_syl_wire_title">引线</string>
-    <string name="draft_syl_wire_text">Wiring for fireworks.</string>
+    <string name="draft_syl_wire_text">为烟火启动的引线</string>
     <string name="draft_category_firework00_title">烟火</string>
-    <string name="draft_feature_firework_pack00_title">New Year special</string>
+    <string name="draft_feature_firework_pack00_title">元旦特惠</string>
     <string name="draft_feature_firework_pack00_text">这个限时特惠包括：</string>
     <string name="draft_feature_firework00_title">烟火</string>
-    <string name="draft_feature_firework00_text">Place and compose your own fireworks.</string>
+    <string name="draft_feature_firework00_text">放置和排列你的烟火设计</string>
     <string name="draft_syl_emitter01_title">定时开关</string>
-    <string name="draft_syl_emitter01_text">A switch that will automatically emit a signal on new year.</string>
+    <string name="draft_syl_emitter01_text">这是一个会帮你自动启动烟火的工具，适用于元旦</string>
 
 
     <string name="draft_airplane02_title">T430</string>
-    <string name="draft_airplane02_text">这是一架来自Theoair的高速飞行的飞机。</string>
-    <string name="draft_syl_spawner03_title">Flaming Stars</string>
+    <string name="draft_airplane02_text">这是一架来自西奥航空的高速飞行的飞机。</string>
+    <string name="draft_syl_spawner03_title">燃烧的星星</string>
     <string name="draft_syl_spawner03_text">红黄爆炸+白色淡出</string>
     <string name="draft_syl_spawner04_title">五彩星烟花</string>
     <string name="draft_syl_spawner04_text">红色爆炸+黄色淡出</string>
     <string name="draft_syl_spawner05_title">Borr</string>
     <string name="draft_syl_spawner05_text">红色爆炸+发光特效</string>
-    <string name="draft_syl_spawner06_title">Glitter willow</string>
+    <string name="draft_syl_spawner06_title">闪光柳树</string>
     <string name="draft_syl_spawner06_text">美丽的爆炸+混合颜色+淡出</string>
     <string name="draft_syl_spawner07_title">天使之泪烟花</string>
     <string name="draft_syl_spawner07_text">白色爆炸*3+红色淡出</string>
-    <string name="draft_syl_spawner08_title">Sizzling Ears</string>
+    <string name="draft_syl_spawner08_title">非常刺耳的烟火</string>
     <string name="draft_syl_spawner08_text">大大的火箭射向天空</string>
     <string name="draft_syl_spawner09_title">柳树</string>
     <string name="draft_syl_spawner09_text">大柳树</string>
@@ -1380,34 +1377,34 @@
     <string name="draft_deco_chr_present_helipad00_text">你的第一架直升机。不幸的是,它不会听你的。</string>
     <string name="draft_ufo_crater00_title">怪异的东西</string>
     <string name="draft_ufo_crater00_text">看起来好像有什么东西在地上插着。把它拆了吧。</string>
-    <string name="draft_destroyedtileradioactive00_title">Scrap</string>
-    <string name="draft_destroyedtileradioactive00_text"></string>
-    <string name="settings_disaster_ufo">UFO</string>
-    <string name="dialog_externalstorage_text">TheoTown需要访问外部存储权限来保存您的进度。</string>
+    <string name="draft_destroyedtileradioactive00_title">废料</string>
+    <string name="draft_destroyedtileradioactive00_text">一个已经被核辐射污染的废料，你必须清除它</string>
+    <string name="settings_disaster_ufo">不明飞行物</string>
+    <string name="dialog_externalstorage_text">西奥小镇需要访问外部存储权限来保存您的进度。</string>
     <string name="dialog_externalstorage_cancel">取消</string>
     <string name="dialog_externalstorage_retry">重试</string>
     <string name="notify_disaster_earthquake">不好，发生了地震！</string>
     <string name="notify_disaster_flooding">大水淹没了城市！</string>
-    <string name="notify_disaster_meteorite">天上掉下个石头！</string>
+    <string name="notify_disaster_meteorite">天上掉下个大石头！</string>
     <string name="notify_disaster_nuke">这里有一颗核弹爆炸！</string>
     <string name="notify_disaster_tornado">这不只是刮风了，这是龙卷风！</string>
-    <string name="notify_disaster_ufo">外星人来袭击了！</string>
+    <string name="notify_disaster_ufo">外星人来了！而且好像还要毁灭这里！！！</string>
     <string name="settings_download_static_files">静态文件下载</string>
     <string name="pluginerror_visitforum">去论坛报告</string>
-    <string name="dialog_gameplay_title">上传游戏情节</string>
-    <string name="dialog_gameplay_text">通过启用游戏上传，你允许我们将你的游戏内容上载到我们的服务器。请参阅免责声明以获得更多信息。</string>
+    <string name="dialog_gameplay_title">在西奥直播直播Theotown</string>
+    <string name="dialog_gameplay_text">通过启用游戏内容上传，你允许我们将你的游戏画面（且不包括任何其他界面，如文本框、悬浮窗等）上传到我们的服务器并允许他人在官网观看。同时间上传的也会有一些调试用数据，用来改善游戏体验。我们不会上传您的任何个人信息。更多信息请参阅免责声明。</string>
     <string name="control_enable">允许</string>
     <string name="dialog_gameplay_disclaimer">查看免责声明</string>
-    <string name="busgame_newbus">Add %d. bus</string>
-    <string name="busgame_route">线路</string>
+    <string name="busgame_newbus">购买%d号车</string>
+    <string name="busgame_route">规划线路</string>
     <string name="busgame_speed">速度</string>
-    <string name="busgame_speed_unit">m/s</string>
+    <string name="busgame_speed_unit">米/秒</string>
     <string name="busgame_capacity">承载能力</string>
-    <string name="busgame_capacity_unit">pl</string>
+    <string name="busgame_capacity_unit">人次</string>
     <string name="busgame_income">收入</string>
-    <string name="busgame_currency">车票</string>
+    <string name="busgame_currency">公交币</string>
     <string name="busgame_upgrade">升级</string>
-    <string name="busgame_upgrade_title">%d 级</string>
+    <string name="busgame_upgrade_title">lv.%d </string>
     <string name="busgame_unlock">解锁</string>
     <string name="draft_small_church00_title">社区小教堂</string>
     <string name="draft_small_church00_text">给予你的市民一些信仰</string>
@@ -1419,11 +1416,11 @@
     <string name="minigame_price">价格</string>
     <string name="minigame_time">时间</string>
     <string name="busgame_unlockimmediately_title">立即解锁</string>
-    <string name="busgame_unlockimmediately_text">你9要现在解锁这个公交车吗？</string>
+    <string name="busgame_unlockimmediately_text">你就要现在解锁这辆公交车吗？</string>
     <string name="dialog_dbuilding_title">在这里建造</string>
-    <string name="dialog_dbuilding_text">你想把这个建筑放在这儿吗？我们将立即为您完成它。请三思而行，需要钻石。</string>
-    <string name="dialog_performance_title">Performance</string>
-    <string name="draft_brandenburgertor00_title">Brandenburg Gate</string>
+    <string name="dialog_dbuilding_text">你确定要在此修建此建筑吗？我们将立即为您完工。请三思而行，需要钻石。</string>
+    <string name="dialog_performance_title">表现</string>
+    <string name="draft_brandenburgertor00_title">勃兰堡门</string>
     <string name="draft_brandenburgertor00_text">勃兰堡门是德国的一个地标，建于18世纪。它位于柏林</string>
 
 
@@ -1431,16 +1428,16 @@
     <string name="control_dismiss">抛弃</string>
     <string name="settings_citytasks">任务</string>
     <string name="dialog_disabletasks_title">禁用任务系统</string>
-    <string name="dialog_disabletasks_text">你接二连三的抛弃任务，要不要禁用任务系统？</string>
+    <string name="dialog_disabletasks_text">你似乎正在接二连三的抛弃任务。要不要禁用任务系统？</string>
     <string name="control_disable">禁用</string>
-    <string name="draft_arcdetriomphe00_title">Arc de Triomphe</string>
+    <string name="draft_arcdetriomphe00_title">凯旋门</string>
     <string name="draft_arcdetriomphe00_text">巴黎的凯旋门纪念那些在法国革命中战斗和牺牲的人。</string>
-    <string name="featureselector_shortbuildtime">Short building time for %1$s</string>
+    <string name="featureselector_shortbuildtime">加速建造的时间 %1$s</string>
     <string name="game_remaining_shortbuildtime">加速建造剩余%s</string>
-    <string name="shop_open_features">Spend diamonds</string>
-    <string name="draft_feature_shortbuildingtime00_title">Short building time</string>
-    <string name="draft_feature_shortbuildingtime00_text">Drastic reduce of building time for all buildings.</string>
-    <string name="dialog_shortbuildtime_title">建造时间加速</string>
+    <string name="shop_open_features">消费你的钻石</string>
+    <string name="draft_feature_shortbuildingtime00_title">更快的建造时间</string>
+    <string name="draft_feature_shortbuildingtime00_text">所有的建筑物所需要的建造时间将会大幅度缩减</string>
+    <string name="dialog_shortbuildtime_title">加速建造时间</string>
     <string name="dialog_shortbuildtime_text">观看一段简短的广告，以加速建造时间%s。</string>
 
 
@@ -1448,10 +1445,9 @@
     <string name="settings_saveforscreenshot">截图时保存</string>
     <string name="draft_eiffeltower00_title">埃菲尔铁塔</string>
     <string name="draft_eiffeltower00_text">巴黎的埃菲尔铁塔是法国最著名的地标。这座塔高324米，于1889年完工。</string>
-    <string name="dialog_wb_text02">在你不在的时候，%1$s赚取了这些财产（其实是我们想给你点补贴）：\n\n%2$s\n你要拿走补贴吗？看个广告就行。
-</string>
+    <string name="dialog_wb_text02">在你不在的时候，%1$s赚取了这些财产，看个广告或者支付钻石拿走：\n%2$s</string>
     <string name="dialog_wb_cmdtake">看广告拿走</string>
-    <string name="dialog_wb_cmdforfeit">不管了</string>
+    <string name="dialog_wb_cmdforfeit">不管它了</string>
     <string name="dialog_diamondtool_title">完成建造</string>
     <string name="dialog_diamondtool_text">你需要一些钻石来修建这些。你要支付钻石吗？</string>
     <string name="draft_feature_valentinesday00_title">情人节快乐</string>
@@ -1460,79 +1456,79 @@
     <string name="tool_removetunnel_text">顾名思义。</string>
 
 
-    <string name="dialog_halftunnelprice_title">Half tunnel price</string>
+    <string name="dialog_halftunnelprice_title">隧道的建造费用减少50%</string>
     <string name="dialog_halftunnelprice_text">想要节省一些钻石？这一提升将隧道价格降低了50%%。有效时长%s。</string>
     <string name="game_remaining_halftunnelprice">隧道半价剩余%s</string>
-    <string name="shop_diamonds_sole">%s diamonds</string>
-    <string name="dialog_diamondshop_bestvalue">Best value</string>
+    <string name="shop_diamonds_sole">%s 钻石</string>
+    <string name="dialog_diamondshop_bestvalue">物超所值的钻石价格</string>
     <string name="draft_draft_edl_title">教育：低</string>
     <string name="draft_draft_edl_text">低教育水准</string>
     <string name="draft_draft_edh_title">教育：高</string>
     <string name="draft_draft_edh_text">高教育水准</string>
     <string name="draft_draft_crm_title">犯罪行为</string>
-    <string name="draft_draft_crm_text">Indicator for criminality.</string>
-    <string name="draft_draft_fire_title">Fire danger</string>
-    <string name="draft_draft_fire_text">Indicator for fire danger.</string>
-    <string name="draft_draft_wp_title">Water pollution</string>
-    <string name="draft_draft_wp_text">Indicator for water pollution.</string>
-    <string name="draft_draft_plt_title">Pollution</string>
-    <string name="draft_draft_plt_text">Indicator for pollution.</string>
-    <string name="draft_draft_prk_title">Park</string>
-    <string name="draft_draft_prk_text">Indicator for park availability.</string>
-    <string name="draft_draft_sp_title">Sport</string>
-    <string name="draft_draft_sp_text">Indicator for spot availability.</string>
-    <string name="draft_draft_fth_title">Faith</string>
-    <string name="draft_draft_fth_text">Indicator for faith of inhabitants.</string>
-    <string name="draft_draft_hlth_title">Health</string>
-    <string name="draft_draft_hlth_text">Indicator for health of inhabitants.</string>
-    <string name="draft_draft_hedu_title">Education happiness</string>
-    <string name="draft_draft_hedu_text">Indicator for happiness about education availability.</string>
-    <string name="draft_draft_hlvl_title">Level happiness</string>
-    <string name="draft_draft_hlvl_text">Happiness about level of neighboring buildings.</string>
-    <string name="draft_draft_htx_title">Tax happiness</string>
-    <string name="draft_draft_htx_text">Happiness about taxes.</string>
-    <string name="draft_draft_htr_title">Transport happiness</string>
-    <string name="draft_draft_htr_text">Happiness about transports.</string>
-    <string name="draft_draft_hzn_title">Zone happiness</string>
-    <string name="draft_draft_hzn_text">Happiness about near zones.</string>
-    <string name="draft_draft_hspl_title">Supply hapiness</string>
-    <string name="draft_draft_hspl_text">Happiness about available energy and water.</string>
-    <string name="draft_draft_hft_title">Free time happiness</string>
-    <string name="draft_draft_hft_text">Happiness about facilities for free time.</string>
-    <string name="draft_draft_henv_title">Environment happiness</string>
-    <string name="draft_draft_henv_text">Happiness about environment.</string>
-    <string name="draft_draft_hpd_title">Police happiness</string>
-    <string name="draft_draft_hpd_text">Happiness about police.</string>
-    <string name="draft_draft_hfd_title">Fire dept. happiness</string>
-    <string name="draft_draft_hfd_text">Happiness about fire departments.</string>
-    <string name="draft_draft_hpk_title">Park happiness</string>
-    <string name="draft_draft_hpk_text">Hapiness about parks.</string>
-    <string name="draft_draft_hsp_title">Sport happiness</string>
-    <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
+    <string name="draft_draft_crm_text">犯罪行为指数</string>
+    <string name="draft_draft_fire_title">火灾风险</string>
+    <string name="draft_draft_fire_text">火灾风险指数.</string>
+    <string name="draft_draft_wp_title">水源污染</string>
+    <string name="draft_draft_wp_text">水源污染指数</string>
+    <string name="draft_draft_plt_title">污染</string>
+    <string name="draft_draft_plt_text">污染指数</string>
+    <string name="draft_draft_prk_title">公园</string>
+    <string name="draft_draft_prk_text">公园覆盖的范围</string>
+    <string name="draft_draft_sp_title">体育</string>
+    <string name="draft_draft_sp_text">运动设施覆盖的范围</string>
+    <string name="draft_draft_fth_title">信仰</string>
+    <string name="draft_draft_fth_text">市民对信仰的指数</string>
+    <string name="draft_draft_hlth_title">健康</string>
+    <string name="draft_draft_hlth_text">市民基本的卫生的指标</string>
+    <string name="draft_draft_hedu_title">市民对教育的满意度</string>
+    <string name="draft_draft_hedu_text">市民针对教育设施可覆盖的范围的满意度</string>
+    <string name="draft_draft_hlvl_title">市民对阶级的满意度</string>
+    <string name="draft_draft_hlvl_text">市民针对邻近的建筑物的满意度</string>
+    <string name="draft_draft_htx_title">市民对税务的满意度</string>
+    <string name="draft_draft_htx_text">市民针对缴税率的满意度</string>
+    <string name="draft_draft_htr_title">市民对公交服务的满意度</string>
+    <string name="draft_draft_htr_text">市民对公交服务可覆盖范围的满意度</string>
+    <string name="draft_draft_hzn_title">市民对区域的满意度</string>
+    <string name="draft_draft_hzn_text">市民针对区域的分配的满意度</string>
+    <string name="draft_draft_hspl_title">市民对水电供应的满意度</string>
+    <string name="draft_draft_hspl_text">市民对水电供应的可覆盖范围的满意度</string>
+    <string name="draft_draft_hft_title">市民对可休闲的设施的满意度</string>
+    <string name="draft_draft_hft_text">市民对公园等其他休闲设施的满意度</string>
+    <string name="draft_draft_henv_title">市民对环境的满意度</string>
+    <string name="draft_draft_henv_text">市民对环境优等的满意度</string>
+    <string name="draft_draft_hpd_title">市民对警察的满意度</string>
+    <string name="draft_draft_hpd_text">市民对治安的满意度</string>
+    <string name="draft_draft_hfd_title">市民对消防的满意度</string>
+    <string name="draft_draft_hfd_text">市民对安全的满意度</string>
+    <string name="draft_draft_hpk_title">市民对公园的满意度</string>
+    <string name="draft_draft_hpk_text">市民对打发时间的指标</string>
+    <string name="draft_draft_hsp_title">市民对运动的满意度</string>
+    <string name="draft_draft_hsp_text">市民对运动设施的可覆盖范围的满意度</string>
     <string name="draft_draft_hgen_title">总体幸福度</string>
-    <string name="draft_draft_hgen_text">General happiness.</string>
+    <string name="draft_draft_hgen_text">市民针对自己是否感到辛福</string>
     <string name="influence_passenger_bus_title">公交系统</string>
-    <string name="influence_passenger_bus_text">If people use busses there will be less traffic.</string>
+    <string name="influence_passenger_bus_text">如果市民使用公交系统有助于减少交通流量</string>
     <string name="influence_passenger_train_title">轨道交通</string>
-    <string name="influence_passenger_train_text">If people use trains there will be less traffic on the road.</string>
+    <string name="influence_passenger_train_text">如果市民使用轨道交通有助于减少交通流量</string>
     <string name="influence_residential_title">住宅区</string>
-    <string name="influence_residential_text">People prefer to live in a residential area.</string>
+    <string name="influence_residential_text">大部分的市民住在这里</string>
     <string name="influence_commercial_title">商业区</string>
-    <string name="influence_commercial_text">Commercials are often groupes togther to attract customers.</string>
+    <string name="influence_commercial_text">商业区总是最会吸引市民消费的地方</string>
     <string name="influence_industrial_title">工业区</string>
-    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
+    <string name="influence_industrial_text">市民们最不想要住在这里</string>
     <string name="influence_level_low_title">低级</string>
-    <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
+    <string name="influence_level_low_text">这个等级的建筑物是最穷的级别</string>
     <string name="influence_level_middle_title">中级</string>
-    <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
+    <string name="influence_level_middle_text">这个等级的建筑物比较富裕</string>
     <string name="influence_level_high_title">高级</string>
-    <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
+    <string name="influence_level_high_text">这个等级的建筑物最富裕</string>
     <string name="influence_density_title">密度</string>
-    <string name="influence_density_text">High buildings are typically more dense.</string>
+    <string name="influence_density_text">高楼层的建筑物密度比较高</string>
     <string name="influence_nature_title">自然</string>
-    <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
+    <string name="influence_nature_text">公园和森林对自然有着好的影响</string>
     <string name="influence_waste_disposal_title">垃圾处理</string>
-    <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..(Currently Unavailable)</string>
+    <string name="influence_waste_disposal_text">垃圾被处理掉，市民才会快乐。</string>
     <string name="draft_bus_road00_title">公交专用道</string>
     <string name="draft_bus_road00_text">一条只有公共汽车才能开的简单道路。</string>
     <string name="draft_bus_oneway_road00_title">公交单向路</string>
@@ -1543,8 +1539,8 @@
     <string name="task_build_roads">建造%s条路。</string>
     <string name="task_build_parks">建造%s个公园。</string>
     <string name="task_get_inhabitants">人口增加%s人。</string>
-    <string name="task_get_money">赚%sͲ钱。</string>
-    <string name="task_spend_money">花%sͲ钱。</string>
+    <string name="task_get_money">赚%s₮钱。</string>
+    <string name="task_spend_money">花%s₮钱。</string>
     <string name="task_spend_diamonds">花费%s个钻石</string>
     <string name="task_tap_screen">点击屏幕%s次。</string>
     <string name="task_current">目前任务</string>
@@ -1556,9 +1552,9 @@
     <string name="draftselector_titlelandmark">地标建筑</string>
     <string name="draft_bigben00_title">大本钟</string>
     <string name="draft_bigben00_text">大本钟是伦敦的一座钟塔，高96米，建于1859年。</string>
-    <string name="draft_angelofindependence00_title">Angel of Independence</string>
+    <string name="draft_angelofindependence00_title">独立天使</string>
     <string name="draft_angelofindependence00_text">独立天使是墨西哥城的一座纪念碑，建于1910年，以纪念墨西哥独立战争。</string>
-    <string name="draft_statueofliberty00_title">Statue of Liberty</string>
+    <string name="draft_statueofliberty00_title">自由女神像</string>
     <string name="draft_statueofliberty00_text">自由女神像是法国人送给美国人的礼物。它于1886年落成，高93米。</string>
     <string name="draft_decorustywatertower00_title">生锈的水塔</string>
     <string name="draft_decorustywatertower00_text">一个老旧又锈蚀的水塔。真的什么都不干。</string>
@@ -1572,24 +1568,24 @@
     <string name="tool_removeuwire_text">本工具可以拆除地下电缆。</string>
 
 
-    <string name="draft_aircraft_boneyard00_title">Aircraft boneyard</string>
+    <string name="draft_aircraft_boneyard00_title">飞机坟墓</string>
     <string name="draft_aircraft_boneyard00_text">一个退休飞机的地方。它很脏，但能带来一些收入。</string>
     <string name="notify_tutorial_reminder_title">是时候开始了</string>
     <string name="notify_tutorial_reminder_text">市长，你忘了你那建设城市的任务吗？</string>
     <string name="dialog_insufficientspace_title">存储空间有点不够用</string>
-    <string name="dialog_insufficientspace_text">你的设备上没有多少剩余空间了，要给个具体数据的话，就是%,d MB。因为空间不足，你的城市可能无法成功保存。</string>
+    <string name="dialog_insufficientspace_text">你的设备上没有多少剩余空间了，只剩%,dMB。因为空间不足，你的城市可能无法成功保存。</string>
     <string name="dialog_insufficientspace_cmdproceed">继续，后果自负</string>
     <string name="draft_sydneyoperahouse00_title">悉尼歌剧院</string>
     <string name="draft_sydneyoperahouse00_text">悉尼歌剧院是位于澳大利亚悉尼的多场馆表演艺术中心。它于1973年建成，高度65米。</string>
-    <string name="draft_onerafflesplace00_title">One Raffles Place</string>
+    <string name="draft_onerafflesplace00_title">莱佛士广场</string>
     <string name="draft_onerafflesplace00_text">莱佛士广场是新加坡的一座摩天大楼，建于1986年，高度为280米。</string>
-    <string name="draft_willistower00_title">Willis Tower</string>
+    <string name="draft_willistower00_title">威利斯大厦</string>
     <string name="draft_willistower00_text">威利斯大厦（又称西尔斯大厦）是位于美国芝加哥的一座摩天大楼。这座塔建于1973年，高442米。</string>
     <string name="draft_feature_landmarks01_title">地标建筑 II</string>
     <string name="draft_feature_landmarks01_text">包括以下建筑：</string>
 
 
-    <string name="draft_cat_supply00_title">Supply</string>
+    <string name="draft_cat_supply00_title">供给</string>
     <string name="draft_cat_road00_title">道路</string>
     <string name="draft_cat_bus00_title">公交</string>
     <string name="draft_cat_train00_title">轨道交通</string>
@@ -1597,9 +1593,9 @@
     <string name="draft_cat_service00_title">服务</string>
     <string name="draft_tool_eyedropper00_title">滴管工具</string>
     <string name="draft_tool_eyedropper00_text">想要再建一条特定的道路或建筑？使用这个工具并点击它。不受所有结构的支持。</string>
-    <string name="draft_cat_level00_title">等级 Ͳ</string>
-    <string name="draft_cat_level01_title">等级 ͲͲ</string>
-    <string name="draft_cat_level02_title">等级 ͲͲͲ</string>
+    <string name="draft_cat_level00_title">等级 ₮</string>
+    <string name="draft_cat_level01_title">等级 ₮₮</string>
+    <string name="draft_cat_level02_title">等级 ₮₮₮</string>
     <string name="draft_tool_movebuilding00_title">移动建筑</string>
     <string name="draft_tool_movebuilding00_text">选择一个建筑，以便把它搬到一个新的地方。并不是所有的建筑都能被移动。</string>
     <string name="tool_movebuilding_cmd">选择一个建筑</string>
@@ -1611,9 +1607,9 @@
     <string name="draft_cat_residential00_title">住宅</string>
     <string name="draft_cat_commercial00_title">商业</string>
     <string name="draft_cat_industrial00_title">工业</string>
-    <string name="offerstage_saving">You save %d%%</string>
-    <string name="draft_pickle00_title">Almighty pickle</string>
-    <string name="draft_pickle00_text">.</string>
+    <string name="offerstage_saving">你会节省 %d%%</string>
+    <string name="draft_pickle00_title">全能黄瓜怪</string>
+    <string name="draft_pickle00_text">啊哈！我懂了！这个黄瓜成精了！\n\n会制造小黄瓜</string>
 
 
     <string name="settings_newtoolbar">使用新的工具栏</string>
@@ -1630,7 +1626,7 @@
     <string name="dialog_gallerydelete_text">确定要删除吗？此操作无法撤回！</string>
     <string name="dialog_gallerydelete_cmd">删除</string>
     <string name="dialog_gallerypolicy_title">稍等一下</string>
-    <string name="dialog_gallerypolicy_text">我很高兴你愿意为我们的画廊做贡献。然而,在我们开始之前,你必须同意我们的协议,允许我们为你上传截图。\n
+    <string name="dialog_gallerypolicy_text">很高兴你愿意为我们的画廊做贡献。然而,在我们开始之前,你必须同意我们的协议,允许我们为你上传截图。\n
 如果你同意我们的截图上传政策,那就同意。\n记住，看看协议是个好习惯。</string>
     <string name="dialog_gallerypolicy_cmdpolicy">查看协议</string>
     <string name="dialog_gallerypolicy_cmdok">同意</string>
@@ -1638,19 +1634,19 @@
     <string name="settings_pushnotifications">推送通知</string>
     <string name="draft_leaningtowerofpisa00_title">比萨斜塔</string>
     <string name="draft_leaningtowerofpisa00_text">比萨斜塔是意大利比萨市的一座钟塔，建于1372年，高度达56米。唯一的问题是，它是斜的。</string>
-    <string name="draft_burjalarab00_title">Burj Al Arab</string>
+    <string name="draft_burjalarab00_title">迪拜塔</string>
     <string name="draft_burjalarab00_text">迪拜塔是一家位于阿拉伯联合酋长国迪拜的豪华酒店。该工程于1999年完工，高度为321米</string>
-    <string name="draft_hearsttower00_title">Hearst Tower</string>
+    <string name="draft_hearsttower00_title">赫斯赫塔</string>
     <string name="draft_hearsttower00_text">赫斯赫塔是纽约市的一座办公大楼，建于2006年。它的高度是182米。</string>
     <string name="draft_feature_landmarks02_title">地标 III</string>
 
-<string name="settings_smoothcarmovement">流畅的车辆移动</string>
+<string name="settings_smoothcarmovement">平滑车辆移动</string>
 
 <string name="draft_easteregg00_title">复活节彩蛋</string>
 
 <string name="draft_easteregg00_text">这是个复活节彩蛋。你要对它做什么？</string>
 
-<string name="draft_notify_easteregg_spawned00_text">不知什么地方有个复活节彩蛋。你能找到吗？</string>
+<string name="draft_notify_easteregg_spawned00_text">某个地方有个复活节彩蛋。你能找到吗？</string>
 
 <string name="draft_notify_easteregg_found00_text">恭喜你，你找到了复活节彩蛋！</string>
 
@@ -1658,7 +1654,7 @@
 <string name="draft_recyclingyard00_title">回购中心</string>
 
 <string name="draft_recyclingyard00_text">如果可以在回收中心回收垃圾，为什么要焚烧垃圾或者把垃圾带进填埋场呢？</string>
-<string name="draft_notify_pickle_spawned00_text">一种野生的泡菜出现在%s。市长，你要对它做什么？</string>
+<string name="draft_notify_pickle_spawned00_text">一只大黄瓜出现在%s。市长，你要对它做什么？</string>
 
 <string name="draft_rugbyfield00_title">橄榄球场</string>
 
@@ -1671,5 +1667,882 @@
 
 
 
+
+
+    <string name="dialog_removediamondbuildings_title">移除用钻石购买的建筑物</string>
+    <string name="dialog_removediamondbuildings_text">你选择要移除了价值 %d 钻石的建筑物。你确定要不顾代价移除它们吗？ 建造菜单里有移动工具，可以用一用试试。</string>
+    <string name="settings_renderpollution">降低污染的程度</string>
+
+
+    <string name="settings_cloudshadow">显示云影</string>
+
+
+    <string name="draft_orientalpearltower00_title">上海东方明珠电视塔</string>
+    <string name="draft_orientalpearltower00_text">上海东方明珠电视塔是一座电视塔，并且在1994年竣工，总高度为470米。</string>
+    <string name="draft_swfc_tower00_title">上海世界金融中心</string>
+    <string name="draft_swfc_tower00_text">上海世界金融中心是一栋为于上海的摩天大楼，并且在2008年竣工，总高度为494米。</string>
+    <string name="draft_feature_landmarks03_title">地标IV</string>
+    <string name="draft_feature_landmarks03_text">上海的精美建筑物</string>
+    <string name="draft_cat_asphalt00_title">沥青</string>
+    <string name="draft_asphalt00_title">灰色沥青</string>
+    <string name="draft_asphalt00_text">不要用它替代自然！尽管如此，上面也可以种树。</string>
+    <string name="draft_asphalt01_title">深色沥青</string>
+    <string name="draft_asphalt02_title">深蓝色沥青</string>
+
+
+    <string name="draft_cat_management00_title">管理</string>
+    <string name="draft_sakura00_title">樱花宝塔</string>
+    <string name="draft_sakura00_text">一座由樱花配搭的传统式宝塔，是一个多么美好的地方</string>
+    <string name="draft_stbasilcathedral00_title">圣瓦西里主教座堂</string>
+    <string name="draft_stbasilcathedral00_text">圣瓦西里主教座堂是一座位于莫斯科，俄罗斯的教堂。它竣工于1561年，它的总高度为115米</string>
+
+
+    <string name="draft_toji00_title">东寺（教王护国寺）</string>
+    <string name="draft_toji00_text">东寺是一座位于日本京都市的佛寺。它竣工于796年，它的总高度为55米</string>
+    <string name="ca_wastedisposal_text2">垃圾运输量: %1$,d/%2$,d 升/天</string>
+    <string name="notify_waste_needer00">这栋建筑物没有受到垃圾处理服务</string>
+    <string name="notify_waste_producer00">这个填埋场的容量已满，请点击清理！</string>
+    <string name="draft_landfill00_text">用来收集所有的垃圾的大量的空间。只能空置时才能移除。</string>
+    <string name="waste_clear">在垃圾上 滑动屏幕 来清理它。</string>
+    <string name="waste_cmdclear">立即清理</string>
+    <string name="dialog_wasteclear_title">立即清理</string>
+    <string name="dialog_wasteclear_text">我们可以为你清除在填埋场的垃圾</string>
+    <string name="draft_wasteincinerator00_text">摆脱垃圾的快速而肮脏的方式。</string>
+    <string name="budget_waste_disposal">垃圾处理</string>
+    <string name="draft_alert_garbage00_title">通知垃圾车</string>
+    <string name="draft_alert_garbage00_text">呼叫垃圾车来清理马路上堆积的垃圾</string>
+    <string name="happiness_waste">垃圾处理</string>
+    <string name="settings_new_content_marker">在工具栏高亮新内容</string>
+
+
+    <string name="tool_removeroaddeco_title">移除道路装饰</string>
+    <string name="tool_removeroaddeco_text">用这个工具来移除道路装饰覆盖</string>
+
+
+    <string name="draft_palmtree00_title">棕榈树</string>
+    <string name="draft_palmtree00_text">它们对于任何绿洲都是必不可少的。</string>
+    <string name="draft_cactus00_title">仙人掌</string>
+    <string name="draft_cactus00_text">没有水？对这些仙人掌来说，一点问题也没有。</string>
+    <string name="draft_ancientbear_guard00_title">守卫</string>
+    <string name="draft_ancientbear_guard00_text">看守古代熊的守卫。似乎是浣熊。</string>
+    <string name="draft_ancientbear_statue00_title">勇士熊熊</string>
+    <string name="draft_ancientbear_statue00_text">勇士熊的雕像</string>
+    <string name="draft_greatpyramid00_title">吉萨大金字塔</string>
+
+
+    <string name="draft_wasteincinerator00_filter00_title">过滤器</string>
+    <string name="draft_wasteincinerator00_filter00_text">大幅降低排放的污染和噪音。</string>
+    <string name="draft_flowers00_title">花朵</string>
+    <string name="draft_flowers00_text">就是花朵。</string>
+
+
+    <string name="game_remaining_doubledincometime">双倍收入剩余%s</string>
+    <string name="draft_taipei101_title">台北101</string>
+    <string name="draft_taipei101_text">台北台北金融中心是台湾超高层摩天大楼。它有510米的高度，直到2010年一直是世界上最高的建筑。它于2004年完工。</string>
+    <string name="draft_roaddeco_border00_title">导向柱</string>
+    <string name="draft_roaddeco_border00_text">使车辆不至于偏离道路（尽管这不可能）</string>
+    <string name="draft_roaddeco_border01_title">路边石块</string>
+    <string name="draft_roaddeco_border01_text">就是路边的装饰石块</string>
+    <string name="draft_roaddeco_border02_title">防护栏</string>
+    <string name="draft_roaddeco_border02_text">路边的栏杆</string>
+    <string name="draft_roaddeco_border03_title">隔声墙</string>
+    <string name="draft_roaddeco_border03_text">什么噪声？我什么都没听到！\n\n本装饰似乎并没有减弱噪声的作用</string>
+    <string name="draft_roaddeco_border04_title">玻璃墙</string>
+    <string name="draft_roaddeco_border04_text">你可以从中看见车辆</string>
+    <string name="draft_roaddeco_border05_title">路灯</string>
+    <string name="draft_roaddeco_border05_text">尽管没有夜晚，在这里还是有路灯</string>
+
+
+    <string name="draft_cat_roaddeco00_title">道路装饰</string>
+
+
+    <string name="draft_feature_doubledincome00_title">双倍收入</string>
+    <string name="draft_feature_doubledincome00_text">顾名思义，就是把你的收入乘以2</string>
+    <string name="features_duration">持续时间 %s</string>
+    <string name="draft_roaddeco_crosswalk00_title">斑马线</string>
+    <string name="draft_roaddeco_crosswalk00_text">随意横穿马路是危险的！</string>
+    <string name="draft_roaddeco_bumps00_title">减速带</string>
+    <string name="draft_roaddeco_bumps00_text">你！对，就是你！开慢点！</string>
+    <string name="draft_fence00_title">栅栏</string>
+    <string name="draft_fence00_text">就是个栅栏</string>
+    <string name="draft_fence01_title">白色栅栏</string>
+    <string name="draft_fence01_text">不只是栅栏，还是白色的</string>
+
+
+    <string name="draft_jungletree00_title">丛林树</string>
+    <string name="draft_jungletree00_text">在丛林里，茂密的丛林里，狮子今晚睡着了。</string>
+
+
+    <string name="draft_igloo00_title">冰屋</string>
+    <string name="draft_igloo00_text">令人惊讶的是，在冰屋里并不是那么冷。</string>
+    <string name="features_more">更多的功能</string>
+    <string name="features_diamonds">获取钻石</string>
+
+
+    <string name="privacy_policy">隐私条款</string>
+    <string name="dialog_privacy_title">隐私条款</string>
+    <string name="dialog_privacy_text">嗨，我们正在更新我们的隐私政策。请花时间审查它。</string>
+    <string name="dialog_privacy_cmdopen">打开</string>
+    <string name="dialog_privacy_cmdlater">好的，同意</string>
+    <string name="settings_drawzones">画出区域</string>
+    <string name="draft_metrostation00_title">地铁总站</string>
+    <string name="draft_metrostation00_text">车库兼登上地铁的车站。</string>
+    <string name="draft_metroline00_title">地铁隧道</string>
+    <string name="draft_metroline00_text">地铁隧道。在地下，你一般看不到它。</string>
+    <string name="feature_coming_soon">敬请期待</string>
+    <string name="dialog_search_title">搜索</string>
+    <string name="dialog_search_text">在这里输入搜索关键字。</string>
+    <string name="dialog_search_cmdok">搜索</string>
+    <string name="dialog_search_cmdcancel">取消</string>
+    <string name="search_results_title">展示 \"%s\"的搜索结果</string>
+    <string name="draft_rail01_title">都市铁路</string>
+    <string name="draft_rail01_text">都市铁路为城市地区提供更快的铁路。</string>
+    <string name="draft_nativerailwaystation01_title">都市铁路车站</string>
+    <string name="draft_nativerailwaystation01_text">紧凑的火车站，占地小。</string>
+    <string name="settings_realmmres">真实小地图分辨率</string>
+    <string name="feature_coming_soon_fulfilled">早期的礼物</string>
+
+
+    <string name="draft_tree_sakura00_title">樱花树</string>
+    <string name="draft_tree_sakura00_text">它们表面上是樱花树，但是它们不会长出樱桃来。</string>
+    <string name="draft_circus00_title">马戏团</string>
+    <string name="draft_circus00_text">是时候来点马戏了</string>
+    <string name="draft_chrysler00_title">克莱斯勒大厦</string>
+    <string name="draft_chrysler00_text">你之前可能看过这座大楼。位于纽约的克莱斯勒大厦因其标志性外观而闻名。建于1930年，建筑高319米。</string>
+    <string name="draft_greatpyramid00_text">吉萨金字塔建筑群是古代世界七大奇迹中最古老的，也是举世闻名的。大金字塔是三座金字塔中最大的一座，高139米。</string>
+    <string name="draft_feature_landmarks04_text">来点宏大的建筑！</string>
+
+
+    <string name="draft_roaddeco_barrier_open00_title">阻拦带</string>
+    <string name="draft_roaddeco_barrier_open00_text">点击以开关。对制造拥堵很有用。</string>
+    <string name="selectable_find">查找 (%,d)</string>
+    <string name="gallery_upload_success">成功</string>
+    <string name="gallery_upload_fail">上传失败</string>
+    <string name="draft_medic02_title">小医院</string>
+    <string name="draft_medic02_text">这个小小的医院给病人们更多的空间，至少是比较小诊所而言。</string>
+    <string name="lang_pirate">海盗话（英文）</string>
+
+
+    <string name="draft_church10_title">巴洛克式教堂</string>
+    <string name="draft_church10_text">为您的城市修建这个美丽的教堂兼修道院。\n\n科普：\n巴洛克（Baroque)，是一种代表欧洲文化的典型艺术风格。
+这个词最早来源于葡萄牙语（BARROCO)，意为“不圆的珍珠”，最初特指形状怪异的珍珠。而在意大利语（BAROCCO)中有“奇特，古怪，变形”等解释。\n巴洛克建筑是17～18世纪在意大利文艺复兴建筑基础上发展起来的一种建筑和装饰风格。其特点是外形自由，追求动态，喜好富丽的装饰和雕刻、强烈的色彩，常用穿插的曲面和椭圆形空间。它的风格自由奔放，造型繁复，富于变化，只是有的建筑装饰堆砌过分。</string>
+    <string name="draft_roaddeco_construction00_title">挖掘机</string>
+    <string name="draft_roaddeco_construction00_text">等等，我们还在修路...\n微小的不便，换来巨大的好处。\n\n挖掘技术哪家强？中国山东找蓝翔！</string>
+
+
+
+    <string name="infoline_freetunnels">剩余%d条隧道 </string>
+    <string name="buildinginfo_idletime">挂机时间: %s (游戏关闭时)</string>
+    <string name="dialog_wb_completed">恭喜！在你离开的时候， %d 栋建筑建成了。</string>
+    <string name="draft_roaddeco_barrier01_title">路障</string>
+    <string name="draft_roaddeco_barrier01_text">可以用于堵路。此路不通！建议和挖掘机一起使用。</string>
+    <string name="draft_roaddeco_construction01_title">沥青山</string>
+    <string name="draft_roaddeco_construction01_text">修路是一定要有沥青的。好道路也是要好沥青的。\n（当然你修土路别来找我）</string>
+
+
+    <string name="notification00_sandbox_title">西奥邮箱：来自%1$s</string>
+    <string name="notification00_sandbox_text">市长您好：\n您可能已经听说了您的城市被评选为幸福城市。这之中您做出了很大的贡献。让我们把城市发展的更加壮大吧！\n--市议会</string>
+    <string name="notification01_title">西奥邮箱：来自%1$s</string>
+    <string name="notification01_text">市长您好：\n您已经很久没来管理城市了，城市已经停止了发展，市民很焦急。请速速归来。\n--市议会</string>
+
+
+    <string name="shop_adreward">免费钻石</string>
+    <string name="draft_smallmetrostation00_title">地铁出入口</string>
+    <string name="draft_smallmetrostation00_text">一个接入地铁的车站。如需列车，请建立一个地铁总站。</string>
+    <string name="draft_roaddeco_trafficisland00_title">安全岛</string>
+    <string name="draft_roaddeco_trafficisland00_text">可以使人们安全过街。</string>
+    <string name="draft_roaddeco_buildingsite00_title">修路工地</string>
+    <string name="draft_roaddeco_buildingsite00_text">注意！前方修路！</string>
+    <string name="draft_roaddeco_trafficlights00_title">信号灯</string>
+    <string name="draft_roaddeco_trafficlights00_text">比安全岛、斑马线都要安全。\n红灯停，绿灯行。</string>
+
+    <string name="tool_removemetrotunnel_title">移除地铁隧道</string>
+    <string name="tool_removemetrotunnel_text">让我们移除一些地铁隧道。</string>
+
+
+
+    <string name="draft_windmill00_title">老荷兰风车</string>
+    <string name="draft_windmill00_text">一个荷兰风车，非常适合乡下。</string>
+    <string name="draft_taxi_depot00_title">出租总站</string>
+    <string name="draft_taxi_depot00_text">一种非常简单的公共交通。</string>
+    <string name="settings_showclosebutton">菜单中显示退出按钮</string>
+    <string name="menu_closegame">离开</string>
+    <string name="disaster_pickle_title">黄瓜灾害</string>
+    <string name="disaster_pickle_text">地上全是黄瓜。小黄瓜会破坏一切。</string>
+    <string name="disaster_pickle_cmdtext">我勒个去，黄瓜！！！</string>
+    <string name="draft_disaster_picklehuge00_title">黄瓜之神</string>
+    <string name="draft_disaster_picklehuge00_text">一个巨大的变异的黄瓜，黄瓜教的神。</string>
+    <string name="draft_disaster_picklehuge01_title">被击败的黄瓜神</string>
+    <string name="draft_disaster_picklehuge01_text">有点太大的黄瓜。它可能产生使用道路的文明泡菜。</string>
+
+
+    <string name="draft_discord_statue00_title">Discord 雕像</string>
+    <string name="draft_discord_statue00_text">一个上面是 Discord 的雕像。</string>
+    <string name="notify_discord_statue00_title">非常感谢！</string>
+    <string name="notify_discord_statue00_text">感谢Discord服务器上的%d名会员。你想现在去看看吗？\nDiscord是专为游戏社区设计的专有免费软件VoIP应用程序和数字分发平台，专门用于聊天频道中用户之间的文本，图像，视频和音频通信。</string>
+    <string name="draftselector_titlebodydisposal">葬礼服务</string>
+    <string name="draft_roaddeco_protester00_title">假 · 抗议者</string>
+    <string name="draft_roaddeco_protester00_text">花钱雇佣假的抗议者</string>
+    <string name="draft_roaddeco_riot00_title">假 · 骚乱</string>
+    <string name="draft_roaddeco_riot00_text">雇佣一些人假装暴乱。</string>
+    <string name="draft_roaddeco_roundabout00_title">迷你环形路口</string>
+    <string name="draft_roaddeco_roundabout00_text">一个小小的环形路口。可以把它放在十字路口。</string>
+    <string name="disaster_blizzard_title">暴雪</string>
+    <string name="disaster_blizzard_text">撑着，冬天来了。</string>
+    <string name="disaster_blizzard_cmdtext">好冷！</string>
+    <string name="draft_snowtile00_title">永久雪层</string>
+    <string name="draft_snowtile00_text">全球变暖怎么样？</string>
+    <string name="gamemode_free_title">自由模式</string>
+    <string name="gamemode_free_text">不想受有限的资金束缚？在这种游戏模式中，没有钱的限制，也没有人口要求。\n与原来的沙盒模式相近，但是会花费你75钻石。\n翻译者说：\n如果不想自掏腰包，你也可以去设置 其它 里开启实验性功能，使用沙盒模式。\n但鉴于开发者资金不怎么充裕，建议购买支持一下。</string>
+    <string name="dialog_free_title">自由模式</string>
+    <string name="dialog_free_text">你选择了自由模式。\n
+优点：没有资金，没有限制，可以控制需求\n
+缺点：挑战太少</string>
+    <string name="draft_medic03_title">现代化医院</string>
+    <string name="draft_medic03_text">一个现代化的医院，可以在更小的空间内照顾更多的病人。</string>
+    <string name="draft_gol_dead_title">康威生命游戏</string>
+    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway\'s Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
+    <string name="draft_feature_landmarks04_title">地标包5</string>
+    <!-- This one is not included for good reasons: Hackers could just change it -->
+    <string name="draft_marker_hackedmarkermarker_title">水管概览</string>
+
+    <string name="draft_coittower00_title">科伊特塔</string>
+    <string name="draft_coittower00_text">科伊特塔位于Telegraph Hill的山坡上，高达60m，建成于1933年，有人说塔的形状就是为了赞颂为救火而牺牲的消防员的，而仿照消防软管的喷嘴形状而成。</string>
+    <string name="draft_bankofamerica00_title">美国银行中心</string>
+    <string name="draft_bankofamerica00_text">美国银行中心, 是加利福尼亚州旧金山的52层779英尺 (237 米) 摩天大楼。</string>
+    <string name="draft_transamerica00_title">泛美金字塔</string>
+    <string name="draft_transamerica00_text">泛美金字塔是旧金山的摩天大楼, 高260m，于1972年竣工, 是（众多）金融服务公司的所在地。</string>
+    <string name="draft_feature_landmarks05_text">获得一些旧金山的地标建筑。</string>
+    <string name="dialog_cemeteryclear_title">立刻清除</string>
+    <string name="dialog_cemeteryclear_text">我想我们可以再利用这里的一些空间。</string>
+    <string name="cemetery_cmdclear">立刻清除</string>
+    <string name="cemetery_clear">轻扫以释放一些空间。</string>
+    <string name="draft_cemetery00_text">这是埋葬死者遗体的地方。安息吧。</string>
+    <string name="draft_crematory00_text">去世的人会在这里进行火葬</string>
+    <string name="notify_bodydisposal_needer00">亲爱的市长, 我劝你建造一个墓地埋葬死者。</string>
+    <string name="notify_bodydisposal_producer00">这个墓地里没有剩余的空间了。清理它，或建造一个新的墓地或火葬场。</string>
+    <string name="draft_halloween_pumpkin00_title">南瓜</string>
+    <string name="draft_halloween_pumpkin00_text">万圣节来了！人人都喜欢南瓜，难道不是吗？</string>
+    <string name="draft_halloween_tree00_title">死树</string>
+    <string name="draft_halloween_tree00_text">幽灵般的死树, 通常用于鬼故事。</string>
+    <string name="draft_feature_landmarks05_title">地标包6</string>
+
+
+    <string name="settings_dedicatedplugintexture">更大的插件材质空间（需要重启游戏，不一定稳定，但是能装更多的插件）</string>
+    <string name="draft_haunted_house00_title">鬼屋</string>
+    <string name="draft_haunted_house00_text">看起来很危险的别墅。可能有个傻瓜住在这里。</string>
+    <string name="notify_illness">疫情爆发，我们必须立即采取行动。马上派遣医疗队！！！</string>
+    <string name="notify_illnessnomedic">见鬼了，疫情爆发，我们却没有医生。马上建一个！马上！！！</string>
+
+
+    <string name="shader_lol">扭曲</string>
+    <string name="settings_hugeplugintexture">大插件材质模式 已开启</string>
+    <string name="draft_tree00_autumn00_title">秋树</string>
+    <string name="draft_tree00_autumn00_text">黄叶是如此的美妙！</string>
+    <string name="settings_handintoolbar">在工具栏中显示手</string>
+    <string name="draft_bushman00_title">丛林人雕像</string>
+    <string name="draft_bushman00_text">“妈妈，那是什么？”\n“不要看它。否则它会在你的梦中困扰你。”\n译者注：感谢贴吧@Anssss提供的线索。\n这个来自《沙海冒险》(I Met a bushman)，有兴趣的可以读一下。</string>
+    <string name="draft_police03_title">现代警察局</string>
+    <string name="draft_police03_text">把一些钱投入其中，你将能够解决犯罪问题。</string>
+    <string name="draft_sf_cityhall00_title">市政厅</string>
+    <string name="draft_sf_cityhall00_text">一个市政厅。\n灵感来自于旧金山的市政厅。</string>
+    <string name="draft_sf_fineartspalace00_title">美术宫</string>
+    <string name="draft_sf_fineartspalace00_text">加利福尼亚州旧金山艺术宫是一座纪念性建筑，最初是为1915年的巴拿马 - 太平洋博览会而建造的。</string>
+    <string name="shader_invert">反色</string>
+
+
+    <string name="draft_present_notification00_text">圣诞老人送了你个礼...轰！！！</string>
+    <string name="draft_present_notification01_text">圣诞老人慷慨的送了你几颗钻石</string>
+    <string name="store_authorby">作者 %s</string>
+    <string name="store_downloads">%,d 下载</string>
+    <string name="store_acquire">获取</string>
+    <string name="store_downlaod">下载</string>
+    <string name="store_downloaded">已下载</string>
+    <string name="dialog_storedownlaod_title">下载提示</string>
+    <string name="dialog_storedownload_text">确认下载 %s ？</string>
+    <string name="dialog_storerestart_title">重启游戏</string>
+    <string name="dialog_storerestart_text">您对插件的更改需要重启游戏才能生效。\n是否立刻重启？\n您可以选择等一会在重启。</string>
+    <string name="dialog_storerestart_cmdrestart">重启游戏</string>
+    <string name="store_status_notacquired">未拥有</string>
+    <string name="store_status_downloading">下载中</string>
+    <string name="store_status_downloaderror">错误：</string>
+    <string name="store_status_acquired">已拥有</string>
+    <string name="store_status_newlyinstalled">已经下载</string>
+    <string name="store_status_running">已启用</string>
+    <string name="store_status_notrunning">已禁用</string>
+    <string name="store_status_newversioninstalled">已更新</string>
+    <string name="store_status_availupdate">新版本可用</string>
+    <string name="store_status_restartrequired">需要重启游戏生效</string>
+    <string name="store_active">启用</string>
+    <string name="store_notactive">禁用</string>
+    <string name="store_fetchfailed">网络错误</string>
+    <string name="store_modeexplore">发现</string>
+    <string name="store_modeinstalled">已安装</string>
+    <string name="draft_feature_freefastspeed00_title">收购时间加速公司</string>
+    <string name="draft_feature_freetunnels00_title">收购隧道公司</string>
+    <string name="dialog_storedelete_title">卸载插件</string>
+    <string name="dialog_storedelete_text">你确定要卸载这个插件吗？\n\n本操作虽然不可逆，但是在应用数据消失之前（如换手机导致账户数据丢失），你还能再次下载</string>
+    <string name="dialog_storedelete_cmddelete">卸掉它</string>
+    <string name="store_modefeatured">精选</string>
+    <string name="store_modecategory">类别</string>
+    <string name="store_shorttitle">模组库</string>
+    <string name="gamemenu_catcity">城市</string>
+    <string name="gamemenu_catcontent">内容</string>
+    <string name="gamemenu_catsocial">社交网站</string>
+    <string name="gamemenu_catpictures">图片</string>
+    <string name="gamemenu_catother">其它</string>
+    <string name="store_catcount">共有 %,d 个插件</string>
+    <string name="store_featured">精选插件</string>
+
+
+    <string name="dialog_storereport_title">举报插件</string>
+    <string name="dialog_storereport_text">请填写举报 %s 的原因。</string>
+    <string name="dialog_storereport_cmdreport">确认举报</string>
+    <string name="dialog_storereported_title">举报成功！</string>
+    <string name="dialog_storereported_text">感谢您对社区的贡献！\n我们会去检查，然后对这个插件进行适当的处理。</string>
+
+
+    <string name="store_ratings">共 %,d 个评价</string>
+    <string name="store_loadingerror">错误</string>
+    <string name="dialog_storeerror_title">插件加载失败！</string>
+    <string name="dialog_storeerror_text">因为以下的神奇原因，我们无法加载此插件：</string>
+    <string name="store_new">最新</string>
+    <string name="draft_cat_plugins00_title">搜索插件</string>
+    <string name="dialog_storesearch_title">搜索插件</string>
+    <string name="dialog_storesearch_text">请键入搜索关键词...\n如果搜不到，要么是你打错了，要么是你要的插件这里没有。</string>
+    <string name="dialog_storesearch_cmdsearch">搜索</string>
+
+    <string name="draft_deco_chr_santashouse00_title">圣诞老人的屋子</string>
+    <string name="draft_deco_chr_santashouse00_text">这就是圣诞老人用来发礼物的据点。</string>
+
+
+    <string name="store_previouslyinstalled">已删除</string>
+    <string name="spend_diamonds_format">%1$s（持有 %2$s）</string>
+    <string name="draft_rails00_title">铁道</string>
+    <string name="draft_rails00_text">用来指引你的火车</string>
+    <string name="draft_rails00oneway00_title">单项铁道</string>
+    <string name="draft_rails00oneway00_text">也是火车跑的地方，这是单向的</string>
+    <string name="specialoffer_cmdbuy">花费 %s 购买</string>
+    <string name="influence_body_disposal_title">葬礼</string>
+    <string name="influence_body_disposal_text">安息吧。</string>
+    <string name="influence_traffic_title">交通</string>
+    <string name="influence_traffic_text">居民不喜欢交通产生的污染和噪音。</string>
+    <string name="ci_neighbor_wastedisposal">废物处理服务</string>
+    <string name="ci_neighbor_bodydisposal">葬礼服务</string>
+    <string name="wastedisposal_transport">%1$,dL/天</string>
+    <string name="bodydisposal_transport">%1$,d/天</string>
+    <string name="draft_cat_elevatedtrain00_title">高架列车</string>
+    <string name="draft_cat_metro00_title">地铁</string>
+    <string name="draft_cat_tree00_title">植物</string>
+    <string name="draft_railroof00_title">屋顶</string>
+    <string name="draft_railroof00_text">可以在火车站的轨道安置的火车站屋顶。</string>
+    <string name="draft_trainplatform00_title">站台1</string>
+    <string name="draft_trainplatform00_text">火车站的站台</string>
+    <string name="draft_trainplatform01_title">站台2</string>
+    <string name="draft_trainplatform02_title">站台3</string>
+    <string name="draft_trainplatform03_title">站台4</string>
+    <string name="draft_trainplatform04_title">站台5</string>
+    <string name="draft_trainplatform05_title">站台6</string>
+    <string name="draft_trainplatform06_title">站台7</string>
+    <string name="draft_trainplatform07_title">站台8</string>
+    <string name="draft_trainstation00_title">本地交通站台</string>
+    <string name="draft_trainstation00_text">只有当地的火车将在这里出发。</string>
+    <string name="draft_trainstation01_title">城际列车站台</string>
+    <string name="draft_trainstation01_text">该站台专供长途旅行。</string>
+    <string name="draft_train_freight_station00_title">货运仓库1</string>
+    <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
+    <string name="draft_train_freight_station01_title">货运仓库2</string>
+    <string name="draft_train_freight_station02_title">货运仓库3</string>
+    <string name="draft_train_freight_station03_title">货运仓库4</string>
+    <string name="draft_train_freight_station04_title">货运仓库5</string>
+    <string name="draft_trainstation_prebuilt00_title">小型车站</string>
+    <string name="draft_trainstation_prebuilt00_text">仅限当地交通的小火车站。</string>
+    <string name="draft_trainstation_prebuilt01_title">车站</string>
+    <string name="draft_trainstation_prebuilt01_text">一个更大的火车站，用于当地交通。</string>
+    <string name="draft_trainstation_prebuilt02_title">大型车站</string>
+    <string name="draft_trainstation_prebuilt02_text">一个大型火车站，提供当地和长途交通。</string>
+    <string name="draft_cat_train00_parts00_title">部件</string>
+    <string name="draft_raildeco_crane00_title">起重机</string>
+    <string name="draft_raildeco_crane00_text">您的铁路货运起重机。</string>
+    <string name="draft_raildeco_traincrossing00_title">铁道口</string>
+    <string name="draft_raildeco_traincrossing00_text">一个铁道口。</string>
+    <string name="draft_raildeco_mast00_title">架空线桅杆</string>
+    <string name="draft_raildeco_mast00_text">铁路的架空线桅杆。</string>
+    <string name="draft_raildeco_lights00_00_title">交通灯</string>
+    <string name="draft_raildeco_lights00_00_text">铁路的交通灯</string>
+    <string name="draft_trainstation_prebuilt10_title">货运站</string>
+    <string name="draft_trainstation_prebuilt10_text">工业产品的火车站。</string>
+    <string name="draft_trainstation_prebuilt11_title">大型货运站</string>
+    <string name="draft_trainstation_prebuilt11_text">更多工业产品的大火车站。</string>
+
+
+    <string name="channel_city_title">城市新闻</string>
+    <string name="channel_city_text">有关您所在城市的一些信息</string>
+    <string name="settings_fullscreen">全屏</string>
+    <string name="control_help">帮助</string>
+    <string name="settings_scrolledges">边缘滚动</string>
+    <string name="dialog_rate_cmdlater">之后再说</string>
+    <string name="region_individualcities">单独城市</string>
+    <string name="draft_redwood_tree00_title">红木树</string>
+    <string name="draft_redwood_tree00_text">典型的一棵加利福尼亚的红木森林的树。</string>
+    <string name="buildinginfo_daysbuilt">建于： %1$,d 天之前</string>
+    <string name="createcity_terrain">山坡</string>
+    <string name="draft_tool_terrain_increase00_title">抬升</string>
+    <string name="draft_tool_terrain_increase00_text">抬升地形以形成山丘。</string>
+    <string name="draft_tool_terrain_lower00_title">降低</string>
+    <string name="draft_tool_terrain_lower00_text">降低地形。</string>
+    <string name="draft_tool_terrain_platform00_title">平整</string>
+    <string name="draft_tool_terrain_platform00_text">使一定半径内的土地与选择的土地平齐。</string>
+    <string name="draft_cat_hills00_title">山丘</string>
+    <string name="draft_feature_starter_pack01_title">新手套装 Ⅱ</string>
+    <string name="draft_budget_roadtoll00_title">收费</string>
+    <string name="draft_tollbooth00_title">收费站</string>
+    <string name="draft_tollbooth00_text">钱倒是赚了，但是有谁喜欢它呢？</string>
+    <string name="notification02_title">是时候做点事情了！</string>
+    <string name="notification02_text">总得有人出来管理一下 %1$s 吧！</string>
+    <string name="notification03_title">莫要忘记 %1$s</string>
+    <string name="notification03_text">回来吧，市长。</string>
+    <string name="settings_fontscaling">字体大小</string>
+    <string name="settings_fontscaling_small">小</string>
+    <string name="settings_fontscaling_medium">中</string>
+    <string name="settings_fontscaling_big">大</string>
+    <string name="pluginerror_disable">禁用</string>
+
+
+    <string name="music_next">下一首音乐</string>
+    <string name="createcity_generating">正在生成城市</string>
+    <string name="dialog_notenoughmoneyp_title">资金不足</string>
+    <string name="dialog_notenoughmoneyp_text">然而以我们的资金还无法购买这个。</string>
+    <string name="game_region">区域 %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">沙盒模式</string>
+    <string name="gamemode_sandbox_text">如果使用这个模式的话，将不再有金钱上的需求。不过，市民的需求你还是要满足的。</string>
+    <string name="dialog_ubermode_title">乌托邦模式</string>
+    <string name="dialog_ubermode_text">开启这个特殊的模式来免除所有的麻烦！\n-这里将不再有火灾、垃圾、疾病、犯罪、死亡，居民们也会有100%的教育水平并且会对您的政策100%的满意的！\n译者注：此模式原名叫 Uber Mode，暂时先这么翻译吧。</string>
+    <string name="topic_pluginsawesome">插件真的很不错——不过你用不到的还是禁用一下吧。</string>
+    <string name="topic_platforms">现在 TheoTown 在安卓、iOS以及Steam（PC端）都可用啦！</string>
+    <string name="topic_pluginspace">插件可用的空间是有限的，请多多留意。</string>
+    <string name="topic_rotate">你甚至可以旋转你的城市</string>
+    <string name="topic_pineapple">菠萝披萨？</string>
+    <string name="topic_f11">按 F11 来切换到全屏模式</string>
+    <string name="draft_permanent_snow00_title">雪</string>
+    <string name="draft_permanent_snow00_text">在这里永远是冬天。</string>
+    <string name="settings_hidelabels">隐藏标签</string>
+    <string name="settings_sound_ambient">环境音</string>
+    <string name="settings_vsync">垂直同步</string>
+
+
+    <string name="shop_invitefriends">每邀请一位朋友，你就能得到 %d 钻石！</string>
+    <string name="shop_invitetitle">邀请朋友</string>
+    <string name="shop_invitationtext">要不要试一下这个我最近发现的游戏呢：\n%s</string>
+    <string name="gamemenu_gameid">游戏 ID：%s</string>
+    <string name="gamemenu_gameidcopied">游戏ID已复制完毕</string>
+    <string name="draft_cat_intersections00_title">立交桥</string>
+    <string name="draft_intersection00_title">上跨式立交桥</string>
+    <string name="draft_intersection00_text">一条乡村公路通过桥梁连接到地面上的高速公路。</string>
+    <string name="draft_intersection01_title">下穿式立交桥</string>
+    <string name="draft_intersection01_text">一条乡村公路连接到一条桥梁上的高速公路。</string>
+    <string name="draft_intersection02_title">交叉型立交桥</string>
+    <string name="draft_intersection02_text">两条和彼此交叉的高速公路。其中一个在桥上。</string>
+    <string name="draft_intersection_complex00_title">苜蓿叶型立交桥</string>
+    <string name="draft_intersection_complex00_text">两条在地面上，彼此用一个巨大的，复杂的结构连接在一起的高速公路。</string>
+    <string name="tool_removefence_title">拆除栅栏</string>
+    <string name="tool_removefence_text">这个工具只能用来拆除栅栏。</string>
+    <string name="draft_fence_real00_title">木制栅栏</string>
+    <string name="draft_fence_real00_text">最简单的木栅栏。</string>
+    <string name="draft_fence_real01_title">树篱</string>
+    <string name="draft_fence_real01_text">很高很绿。</string>
+    <string name="draft_fence_real02_title">更复杂的木栅栏</string>
+    <string name="draft_fence_real02_text">一些钉在一起的木板。</string>
+    <string name="draft_fence_real03_title">现代栅栏</string>
+    <string name="draft_fence_real03_text">木板被钉在水泥杆子之间。</string>
+    <string name="draft_fence_real04_title">白色栅栏</string>
+    <string name="draft_fence_real04_text">刷成白色的木栅栏。</string>
+    <string name="draft_fence_real05_title">石墙</string>
+    <string name="draft_fence_real05_text">低，但是十分坚固。</string>
+    <string name="draft_fence_real06_title">铁栏杆</string>
+    <string name="draft_fence_real06_text">铁条镶嵌在砖墙之间。</string>
+    <string name="draft_cat_fence00_title">栅栏</string>
+    <string name="ci_neighbor_notrading">没有可交易的临城。</string>
+    <string name="settings_sound_master">总体</string>
+    <string name="draft_cemetery01_title">大型陵园</string>
+    <string name="draft_cemetery01_text">死者遗体被埋葬的地方。 这个公墓有很多空间。</string>
+
+
+    <string name="settings_bigger_minimap">加大小地图大小</string>
+    <string name="stage_account_title">账户</string>
+    <string name="stage_account_text">为了使用我们的在线服务，您必须连接到一个帐户。</string>
+    <string name="stage_account_forum">TheoTown 论坛</string>
+    <string name="forum_username">用户名 </string>
+    <string name="forum_password">密码 </string>
+    <string name="forum_inuse">此账户当前被用于登录。</string>
+    <string name="forum_cmdprofile">显示档案</string>
+    <string name="forum_cmdregister">没账户？快注册！</string>
+    <string name="forum_cmdlogin">登录</string>
+    <string name="forum_cmdlogout">退出</string>
+    <string name="forum_success">成功</string>
+    <string name="forum_loginerror">登陆错误</string>
+    <string name="forum_networkerror">连接错误</string>
+    <string name="stage_account_other">其他账号</string>
+    <string name="stage_account_connected">%s - 已连接</string>
+    <string name="stage_account_steam">Steam</string>
+    <string name="stage_gallery_update">更新</string>
+    <string name="stage_gallery_noimages">然而这里并没有图片</string>
+    <string name="stage_region_online">在线</string>
+    <string name="online_city_visit">造访</string>
+    <string name="store_status_notavailable">此插件暂时不可用</string>
+    <string name="dialog_missingplugins_title">缺少插件</string>
+    <string name="dialog_missingplugins_text">这个城市安装了一些目前未下载或未启用的插件：</string>
+    <string name="dialog_missingplugins_pluginby">• %1$s （作者：%2$s）</string>
+    <string name="dialog_missingplugins_cmdget">获取它们</string>
+    <string name="dialog_missingplugins_cmdskip">不装，继续</string>
+    <string name="statistics_energyproduced">能源产能</string>
+    <string name="statistics_energyneed">能源需求</string>
+    <string name="statistics_waterproduced">水资源产能</string>
+    <string name="statistics_waterneed">水资源需求</string>
+    <string name="ci_show_statistics">显示统计</string>
+    <string name="dialog_commentdelete_title">删除评论</string>
+    <string name="dialog_commentdelete_text">你真的要删掉 %1$s 写的评论吗?</string>
+    <string name="dialog_commentdelete_cmd">删除</string>
+    <string name="stage_comment_login">用 Theotown 账号登录以进行评论</string>
+    <string name="dialog_report_title">举报</string>
+    <string name="dialog_report_text">请说明举报 %1$s 的原因：</string>
+    <string name="dialog_report_appendix">您可向 report@theotown.com 提供更多举报信息。</string>
+    <string name="dialog_reported_title">完毕</string>
+    <string name="dialog_reported_text">感谢您的报告。 我们将对其进行审核并采取相应的措施。\n如果需要，您可以向 report@theotown.com 发送其他信息。</string>
+    <string name="dialog_report_cmd">确认举报</string>
+    <string name="stage_comment_reportsubject">%1$s 写的评论</string>
+    <string name="stage_store_reportsubject">插件 "%1$s"</string>
+    <string name="stage_comment_noperm">您未被允许评论此插件</string>
+    <string name="store_modecommented">评论</string>
+    <string name="report_sexual">性相关内容</string>
+    <string name="report_violent_or_repulsive">暴力或排斥内容</string>
+    <string name="report_hateful_or_abusive">仇恨或辱骂内容</string>
+    <string name="report_dangerous">危险内容</string>
+    <string name="report_promotes_terrorism">宣传恐怖主义</string>
+    <string name="report_spam_or_misleading">水贴或误导</string>
+    <string name="report_infringes_my_rights">侵犯我的权利</string>
+    <string name="report_bad_behavior">不良行为</string>
+    <string name="report_violates_store_rules">违反其他商店规则</string>
+    <string name="stage_comment_cmdsend">发送</string>
+    <string name="stage_comment_cmdsendhint">在这里输入评论...</string>
+    <string name="dialog_storerestart_cmdlater">以后</string>
+    <string name="wealthy_poor">贫穷</string>
+    <string name="wealthy_medium">中等</string>
+    <string name="wealthy_rich">富有</string>
+    <string name="ci_rci_res">住宅区</string>
+    <string name="ci_rci_com">商业区</string>
+    <string name="ci_rci_ind">工业区</string>
+    <string name="settings_supportdrawingintwomodetools">在双模式工具中支持拖拽</string>
+    <string name="settings_category_controls">控制</string>
+    <string name="draft_cat_rci_parts00_title">手动建造</string>
+
+
+    <string name="settings_verticaltoolbuttons">竖向工具动作</string>
+    <string name="toolaction_build">建造</string>
+    <string name="toolaction_joinroad">整合道路</string>
+    <string name="toolaction_trafficlights">Use traffic lights</string>
+    <string name="toolaction_bridge">桥梁</string>
+    <string name="toolaction_constantheight">Constant height</string>
+    <string name="toolaction_modifyunder">下方</string>
+    <string name="toolaction_levelup">抬升</string>
+    <string name="toolaction_leveldown">下降</string>
+    <string name="toolaction_upwards">向上</string>
+    <string name="toolaction_downwards">向下</string>
+    <string name="toolaction_nextframe">上一种类</string>
+    <string name="toolaction_prevframe">下一种类</string>
+    <string name="toolaction_singlelane">单车道</string>
+    <string name="toolaction_randomcar">Select random</string>
+    <string name="toolaction_hidebuildings">高亮车辆</string>
+    <string name="toolaction_radiusbigger">调大半径</string>
+    <string name="toolaction_radiussmaller">调大半径</string>
+    <string name="toolaction_routeremove">移除</string>
+    <string name="toolaction_routeundo">撤销</string>
+    <string name="toolaction_routeconfirm">确认</string>
+    <string name="toolaction_nextbuilding">下个建筑</string>
+    <string name="toolaction_prevbuilding">上个建筑</string>
+    <string name="toolaction_abortmovebuilding">中止</string>
+    <string name="toolaction_rocketfire">Fire</string>
+    <string name="toolaction_nextsign">下个标签</string>
+    <string name="toolaction_prevsign">上个标签</string>
+    <string name="toolaction_terraindeeper">下降</string>
+    <string name="toolaction_terrainhigher">抬升</string>
+
+
+    <string name="settings_uisize">UI 大小</string>
+    <string name="settings_uisize_normal">正常</string>
+    <string name="settings_uisize_big">大</string>
+    <string name="settings_uisize_bigger">很大</string>
+    <string name="settings_uisize_small">小</string>
+    <string name="settings_uisize_smaller">很小</string>
+    <string name="createcity_desert">沙漠</string>
+    <string name="createcity_snow">雪原</string>
+    <string name="weather_sunny">晴天</string>
+    <string name="weather_rainy">雨天</string>
+    <string name="weather_lighting">雷雨</string>
+    <string name="weather_auto">动态</string>
+    <string name="store_local_plugins">本地插件</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s （作者：%2$s）[本地插件]</string>
+
+
+    <string name="dialog_storedisclaimer_title">还有更多...</string>
+    <string name="dialog_storedisclaimer_text">欢迎来到插件商店！ 在这里，您可以获得世界各地玩家制作的TheoTown的数百种其他内容。\n\n
+我们建议您在下载插件之前仔细阅读插件说明，以了解插件的功能。</string>
+    <string name="dialog_accountdisclaimer_title">账户</string>
+    <string name="dialog_accountdisclaimer_text">您可以将游戏连接到一个或多个帐户。\n\n
+通过将游戏连接到TheoTown论坛帐户，您可以参与评论。</string>
+    <string name="ci_rci_help">需求描述了对特定建筑物的需求。 它分为住宅，商业和工业需求。 这三种需求都有三种不同的财富水平。</string>
+
+
+    <string name="draft_destroyed_tree00_title">烧毁的树</string>
+    <string name="draft_destroyed_tree00_text">一棵烧毁的树，你应该想要移除它。</string>
+    <string name="region_acquiremap">占领</string>
+    <string name="dialog_acquiremapfreemium_title">占领地块</string>
+    <string name="dialog_acquiremapfreemium_text">恭喜，这是一块空地块，你可以占领它并建造城市.</string>
+    <string name="settings_sound_plugins">插件</string>
+    <string name="createregion_title">新区域</string>
+    <string name="createregion_split">拆分</string>
+    <string name="createregion_merge">合并</string>
+    <string name="createregion_hide">去除</string>
+    <string name="createregion_show">包含</string>
+    <string name="createcity_sizebigbigbigbig">特别特别大</string>
+    <string name="createregion_layout">输出：</string>
+    <string name="createregion_layout2x2">2x2</string>
+    <string name="createregion_layoutcircle">圆形</string>
+    <string name="dialog_deleteregion_title">删除区域</string>
+    <string name="dialog_deleteregion_text">你确定你要删除这个区域吗？这不能撤回。</string>
+    <string name="dialog_deleteregion_cmd">删除</string>
+    <string name="dialog_resetregion_title">重置区域</string>
+    <string name="dialog_resetregion_text">你确定你要重置这个区域吗？这不能撤回。</string>
+    <string name="dialog_resetregion_cmd">重置</string>
+    <string name="dialog_regionpassword_title">输入区域密码</string>
+    <string name="dialog_regionpassword_text">密码：</string>
+    <string name="dialog_generateregion_title">生成区域</string>
+    <string name="dialog_generateregion_text">你想现在生成区域吗？</string>
+    <string name="dialog_uploadregionaccount_title">需要账号</string>
+    <string name="dialog_uploadregionaccount_text">你需要一个账号来连接西奥小镇才能上传区域。</string>
+    <string name="dialog_uploadregion_title">上传区域</string>
+    <string name="dialog_uploadregion_text">这会把这个区域复制到在线公共区域。\n\n一旦区域被上传，你可以在线上占领其中的地块。如果没有密码，其他玩家也能加入。</string>
+    <string name="dialog_uploadregion_cmdpassword">密码 ...</string>
+    <string name="dialog_uploadregion_cmdupload">上传</string>
+    <string name="stage_uploadregion_uploading">上传区域</string>
+    <string name="dialog_uploadregionpassword_title">设定密码</string>
+    <string name="dialog_uploadregionpassword_text">你可以设定一个进入在线区域的密码，留空以不设定密码。</string>
+    <string name="dialog_regionsearch_title">搜索区域</string>
+    <string name="dialog_regionsearch_text">输入关键字:</string>
+    <string name="dialog_regionsearch_cmdsearch">搜索</string>
+    <string name="dialog_regioncoininfo_title">区域币？</string>
+    <string name="dialog_regioncoininfo_text">为了游戏平衡我们加入了一个新货币：区域币。你可以通过打开游戏并签到来免费得到它们。\n\n这种货币能让我们提供免费的在线服务</string>
+    <string name="settings_sdcardplugins">从内部存储加载插件（文件夹路径是 TheoTown/plugins）\n\n翻译者的话：可以试试ES文件浏览器。</string>
+    <string name="dialog_uploadregionconfirm_title">现在上传？</string>
+    <string name="dialog_uploadregionconfirm_text">上传前请确保你有稳定的网络连接。</string>
+    <string name="dialog_uploadregionunsuited_title">上传区域</string>
+    <string name="dialog_uploadregionunsuited_text">到现在为止，你只能上传目前没有城市的区域。 </string>
+    <string name="dialog_acquirecityaccount_title">需要账号</string>
+    <string name="dialog_acquirecityaccount_text">你需要一个账号来连接到西奥小镇才能占领地块。</string>
+    <string name="region_onlinecity_free">这个地块是空的，你可以占领它。</string>
+    <string name="region_onlinecity_acquired">这是你的地块，你可以在这里建造城市。</string>
+    <string name="region_onlinecity_wait">等一会再占领其他地块。</string>
+
+
+    <string name="dialog_savingissue_title">保存失败</string>
+    <string name="dialog_savingissue_text">很不幸你的城市并不能被保存。\n提示: %s\n\n请重试.</string>
+    <string name="dialog_onlineinfo_title">在线模式</string>
+    <string name="dialog_onlineinfo_text">欢迎来到在线模式，你可以在这里和朋友一起建造城市！ 你甚至可以上传你自己的区域来和朋友玩！\n\n"这真是太酷了！" - 我们的Discord管理员说。</string>
+    <string name="dialog_outdated_title">旧版本</string>
+    <string name="dialog_outdated_text">你使用的是一个不能和在线模式兼容的旧版本。\n\n请升级你的游戏吧。</string>
+    <string name="settings_weather_lightning">闪电</string>
+    <string name="settings_item_edit">编辑</string>
+    <string name="dialog_configureregion_title">配置区域</string>
+    <string name="dialog_configureregion_previewrules">预览</string>
+    <string name="dialog_regionrules_general">基本规则</string>
+    <string name="dialog_regionrules_allowplugins">允许使用插件</string>
+    <string name="dialog_regionrules_notallowplugins">不允许使用插件</string>
+    <string name="dialog_regionrules_norules">这个区域没有特别的规则</string>
+    <string name="stage_onlineregion_rules">规则</string>
+    <string name="control_report">报告</string>
+    <string name="stage_regioncity_reportsubject">城市 %1$s</string>
+    <string name="stage_regioncity_owner">市长: %1$s</string>
+    <string name="stage_regioncity_playtime">游戏时间: %1$s</string>
+
+
+    <string name="draft_asphalt03_title">浅色沥青</string>
+    <string name="draft_asphalt04_title">白色沥青</string>
+    <string name="draft_concrete00_text">用来装饰的水泥。</string>
+    <string name="draft_concrete00_title">水泥</string>
+    <string name="draft_concrete01_title">条纹水泥</string>
+    <string name="createregion_regionname">区域名称：</string>
+    <string name="dialog_regionrules_allowsandbox">允许使用沙盒模式</string>
+    <string name="dialog_regionrules_notallowsandbox">不允许使用沙盒模式</string>
+    <string name="dialog_configureregion_rules">规则</string>
+    <string name="dialog_configureregion_infos">信息</string>
+    <string name="dialog_configureregion_allowplugins">允许插件</string>
+    <string name="dialog_configureregion_allowsandbox">允许沙盒模式</string>
+    <string name="draft_sandstonetiles00_text">装饰地面</string>
+    <string name="draft_sandstonetiles00_title">沙石</string>
+    <string name="draft_brick00_title">砖</string>
+    <string name="draft_woodenpier00_title">木墩</string>
+    <string name="draft_cobblestones00_title">鹅卵石</string>
+    <string name="draft_fancylongtiles00_title">长瓷砖</string>
+    <string name="draft_finemarble00_title">大理石</string>
+    <string name="settings_nightmode">夜晚模式</string>
+    <string name="settings_nightmode_day">白天</string>
+    <string name="settings_nightmode_night">夜晚</string>
+    <string name="settings_nightmode_auto">自动切换</string>
+    <string name="settings_nightmode_real">真实时间</string>
+    <string name="settings_rushhour">高峰期</string>
+    <string name="stage_onlineregion_information">区域信息</string>
+    <string name="dialog_configureregion_rules_desc">你可以设定一些规则来让这个区域的玩家遵守。</string>
+    <string name="dialog_configureregion_infos_desc">你可以写一些该区域的信息：</string>
+    <string name="dialog_regionrules_informationcat">信息</string>
+    <string name="dialog_regionrules_rulescat">规则</string>
+    <string name="dialog_selectuser_title">选择用户</string>
+    <string name="dialog_selectuser_namelabel">用户名</string>
+    <string name="dialog_selectuser_namehint">输入其他用户的用户名</string>
+    <string name="dialog_selectuser_cmdselect">选择</string>
+    <string name="dialog_transfercity_title">转移所有权</string>
+    <string name="dialog_transfercity_text">你确定要将你的城市%1$s的所有权转移给%2$s吗？\n\n一经转移不能撤回。</string>
+    <string name="dialog_transfercity_cmdtransfer">转移</string>
+    <string name="dialog_transferregion_title">转移所有权</string>
+    <string name="dialog_transferregion_text">你确定要将你的城市区域%1$s的所有权转移给%2$s吗？\n\n一经转移不能撤回。</string>
+    <string name="dialog_transferregion_cmdtransfer">转移</string>
+    <string name="stage_region_reportsubject">区域%1$s</string>
+    <string name="dialog_removeowner_title">删除拥有者</string>
+    <string name="dialog_removeowner_text">你确定你要从这个地块删除%1$s吗？\n\n一经删除不能撤回。</string>
+    <string name="dialog_removeowner_cmdremove">删除</string>
+    <string name="stage_regioncity_lastplayed">最后游戏：%1$s之前</string>
+    <string name="ci_loan_get_text2">贷款：%1$s
+\n期限：%2$,d months
+\n每月还款：%3$s</string>
+    <string name="settings_uianimations">动画</string>
+    <string name="dialog_configureregion_password">密码</string>
+    <string name="dialog_configureregion_password_desc">你可以设定一个新密码，留空继续使用现在的密码。</string>
+    <string name="dialog_configureregion_enforepassword">需要密码</string>
+    <string name="dialog_regionstats_title">区域数据</string>
+    <string name="ci_energy_produced_short">产生：%1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">使用：%1$,.0fkW</string>
+    <string name="ci_water_consumed_short">使用：%1$,.0fL/h</string>
+    <string name="ci_water_produced_short">使用：%1$,.0fL/h</string>
+    <string name="dialog_regionstats_general">总体</string>
+    <string name="dialog_regionstats_cities">%1$d / %2$d 城市</string>
+
+
+    <string name="regionlist_cat_popular">受欢迎</string>
+    <string name="regionlist_cat_new">新的</string>
+    <string name="regionlist_cat_free">不需要密码</string>
+    <string name="regionlist_cat_protected">需要密码</string>
+    <string name="regionlist_cat_usercities">自己的城市</string>
+    <string name="regionlist_cat_userregions">自己的区域</string>
+    <string name="store_cat_other">其他</string>
+    <string name="store_cat_road">道路</string>
+    <string name="store_cat_terrain">地形</string>
+    <string name="store_cat_trees">树木</string>
+    <string name="store_cat_transport">交通</string>
+    <string name="store_cat_residential">住宅</string>
+    <string name="store_cat_commercial">商业</string>
+    <string name="store_cat_industrial">工业</string>
+    <string name="store_cat_parks">公园、体育和管理</string>
+    <string name="store_cat_supply">供应(电，水，垃圾处理)</string>
+    <string name="store_cat_religion">宗教和文化</string>
+    <string name="store_cat_service">服务(警察, 健康, 教育,...)</string>
+    <string name="store_cat_award">奖励和特殊</string>
+    <string name="store_cat_decoration">装饰</string>
+    <string name="store_cat_tool">工具</string>
+    <string name="store_cat_overlay">天气和覆盖</string>
+    <string name="store_cat_pack">插件包</string>
+    <string name="store_cat_roaddecoration">道路装饰</string>
+    <string name="store_cat_military">军事</string>
+    <string name="dialog_confirmsendgift_title">送礼物</string>
+    <string name="dialog_confirmsendgift_text">太棒了！你将要把那个礼物送给%1$s。</string>
+    <string name="settings_category_tools">工具</string>
+    <string name="settings_category_gameplay">游戏</string>
+    <string name="settings_autosavewhenleaving">离开城市时自动保存</string>
+    <string name="stage_regioncity_visits">拜访数量： %1$,d</string>
+    <string name="dialog_missingplugins_total">使用的插件</string>
+    <string name="settings_maprenderingnobackground">在截图时地图背景透明</string>
+    <string name="dialog_citygifts_title">礼物</string>
+    <string name="dialog_citygifts_cmdnew">发送礼物</string>
+    <string name="dialog_citygifts_nogifts_receiver">你还没有收到礼物:(</string>
+    <string name="dialog_citygifts_nogifts_other">做送礼物的第一人</string>
+    <string name="dialog_citygifts_typemsg">信息</string>
+    <string name="dialog_citygifts_typeunknown">未知</string>
+    <string name="dialog_citygifts_private">(私人)</string>
+    <string name="dialog_citygifts_cmdcollect">领取</string>
+    <string name="dialog_citygifts_nomessage">发送者没有留下任何文字。</string>
+    <string name="dialog_sendgift_title">发个礼物</string>
+    <string name="dialog_sendgift_cmdsend">发送</string>
+    <string name="dialog_sendgift_typetext">文字</string>
+    <string name="dialog_sendgift_typemoney">钱</string>
+    <string name="dialog_sendgift_typediamonds">钻石或区域币</string>
+    <string name="dialog_sendgift_lbltype">输入</string>
+    <string name="dialog_sendgift_lblamount">金额</string>
+    <string name="dialog_sendgift_lblmessage">信息</string>
+    <string name="dialog_sendgift_messagedesc">如果想的话，可以在这里给接收者留下信息</string>
+    <string name="dialog_sendgift_lblprivate">私人</string>
+    <string name="dialog_citygifts_reportsubject">%1$s的礼物</string>
+    <string name="dialog_deletegift_title">删除礼物</string>
+    <string name="dialog_deletegift_text">你确定你要删除这个礼物吗？一经删除不能撤回。</string>
+    <string name="dialog_deletegift_cmd">删除</string>
+
+
+    <string name="dialog_insufficientspace2_text">如果你认为这是一个错误请确认西奥小镇有访问外部存储的权限。</string>
+    <string name="dialog_uploadregiontoobig_title">上传区域</string>
+    <string name="dialog_uploadregiontoobig_text">区域太大，无法上传:/</string>
+    <string name="channel_onlinemode_title">在线模式</string>
+    <string name="channel_onlinemode_text">关于你的在线模式的城市的新信息。</string>
+    <string name="dialog_externalstorage_proceedwithout">后果自负。</string>
+    <string name="dialog_externalstorage_title">不能访问外部存储</string>
+    <string name="dialog_externalstorage_explanation">西奥小镇使用外部存储权限来在用户可访问的方法保存城市和区域。
+这样我们可以规避由于app更新和重装导致的潜在的数据丢失。
+\n\n这个游戏也可以在没有这个权限时运行，但我们对使用内部存储导致的数据丢失或功能失效不负责任。</string>
+    <string name="dialog_onlinenotifications_title">提示</string>
+    <string name="dialog_onlinenotifications_time">%1$s之前</string>
+    <string name="dialog_onlinenotifications_empty">还没有提示。</string>
+    <string name="dialog_onlinenotifications_cmdempty">提示</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">提示(%1$,d)</string>
+    <string name="dialog_reason_title">原因</string>
+    <string name="dialog_reason_text">为了继续，你需要输入进行该操作的原因。</string>
+    <string name="store_realtitle">插件商店</string>
+    <string name="settings_pushnotificationsonline">在线模式提示</string>
+    <string name="settings_verticaltoolbar">垂直工具栏</string>
+    <string name="settings_darktoolbar">深色工具栏</string>
+    <string name="dialog_tutwelcome_title">欢迎来到西奥小镇:)</string>
+    <string name="dialog_tutwelcome_text">我们先教你建造城市的基本知识。\n\n
+如果你知道怎么玩，你可以跳过教程。你可以在任何时候从游戏菜单跳过教程。</string>
+    <string name="dialog_tutwelcome_cmdskip">跳过教程</string>
+    <string name="dialog_tutwelcome_start">我们开始吧！</string>
+
+
+    <string name="settings_catplugins">插件</string>
+    <string name="settings_keys">键盘</string>
+    <string name="settings_keys_cmdreset">设定为默认值</string>
+    <string name="settings_keys_text">目前使用： %1$s\n
+默认： %2$s\n\n
+按一个键来设定到这个操作。</string>
+    <string name="settings_toolbarnames">在工具栏中显示名称</string>
+    <string name="settings_toolbarprices">在工具栏中显示价格</string>
+
+
+    <string name="shader_default2">默认</string>
+
+
+    <string name="dialog_regionnopermission_title">没有权限</string>
+    <string name="dialog_regionnopermission_text">西奥小镇没有访问外部存储的权限。西奥小镇使用外部存储安全地保存区域。请允许西奥小镇访问外部权限，这样才能创建区域。</string>
+    <string name="ranger_cmdselecttrees">选择树种</string>
+    <string name="draft_treeplantertool00_title">树木种植器</string>
+    <string name="draft_treeplantertool00_text">这个工具可以用来方便而自然地生成各种树</string>
+    <string name="treeplanter_cmdconfigure">属性</string>
+    <string name="treeplanter_species">品种：</string>
+    <string name="treeplanter_density">密度</string>
+    <string name="treeplanter_roughness">粗糙度</string>
+    <string name="treeplanter_brushsize">笔刷大小</string>
+    <string name="treeplanter_outofcash">没钱了:(</string>
+    <string name="control_about">关于</string>
+    <string name="about_framework">材质</string>
+    <string name="control_undo">撤回</string>
+    <string name="control_redo">恢复</string>
+    <string name="toolaction_zoneroad">加入道路</string>
+    <string name="settings_fullscreen_resolution">全屏分辨率</string>
+    <string name="settings_tool_history">撤回功能</string>
+    <string name="topic_birthday_ja">生日快乐Justanyone！（他是一个游戏的管理员）</string>
 
 </resources>
