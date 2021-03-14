@@ -627,7 +627,7 @@
     <string name="ci_education_title">Educação</string>
     <string name="ci_health_title">Saúde</string>
     <string name="ci_education_schools">Escolas: %1$,d</string>
-    <string name="ci_education_needed">Nessesário: %1$,d</string>
+    <string name="ci_education_needed">Necessário: %1$,d</string>
     <string name="ci_education_provided">Fornecido: %1$,d</string>
     <string name="ci_education_reached">Alcançado: %1$,d</string>
     <string name="ci_education_low">Baixa educação</string>
@@ -635,7 +635,7 @@
     <string name="ci_health_buildings">Construções: %1$,d</string>
     <string name="ci_health_provided">Fornecido: %1$,d</string>
     <string name="ci_health_reached">Alcançado: %1$,d</string>
-    <string name="ci_health_needed">Nessesário: %1$,d</string>
+    <string name="ci_health_needed">Necessário: %1$,d</string>
     <string name="influence_pollution_title">Poluíção</string>
     <string name="influence_noise_title">Barulho</string>
     <string name="influence_health_title">Saúde</string>
@@ -894,19 +894,19 @@
     <string name="draft_decoroad00_title">Aléia de árvores</string>
     <string name="draft_rnk_city_big_title">Cidade grande</string>
     <string name="draft_rnk_city_medium_title">Cidade</string>
-    <string name="draft_rnk_city_large_title">Cidade grande</string>
+    <string name="draft_rnk_city_large_title">Megacidade</string>
     <string name="draft_rnk_conurbation_title">Conurbação</string>
     <string name="draft_rnk_city_small_title">Cidade pequena</string>
     <string name="draft_rnk_isolateddwelling_title">Habitação isolada</string>
-    <string name="draft_rnk_hamlet_title">Vila</string>
+    <string name="draft_rnk_hamlet_title">Aldeia</string>
     <string name="rank_needed_people">Pelo menos %1$,d habitantes</string>
     <string name="draft_rnk_village_small_title">Vila pequena</string>
-    <string name="draft_rnk_village_medium_title">Aldeia</string>
+    <string name="draft_rnk_village_medium_title">Vila</string>
     <string name="draft_rnk_village_big_title">Vila grande</string>
-    <string name="draft_rnk_town_small_title">Cidade pequena</string>
-    <string name="draft_rnk_town_medium_title">Cidade</string>
-    <string name="draft_rnk_town_large_title">Cidade média</string>
-    <string name="draft_rnk_town_big_title">Cidade grande</string>
+    <string name="draft_rnk_town_small_title">Município pequeno</string>
+    <string name="draft_rnk_town_medium_title">Município</string>
+    <string name="draft_rnk_town_large_title">Mega município</string>
+    <string name="draft_rnk_town_big_title">Município grande</string>
     <string name="draft_rnk_metropolis_title">Metrópolis</string>
     <string name="draft_rnk_megalopolis_title">Megalópolis</string>
     <string name="draft_decoroad00_text">.</string>
@@ -1122,8 +1122,8 @@
     <string name="ci_neighbor_notavailable">Não disponível no momento</string>
     <string name="ci_neighbor_import">Importar</string>
     <string name="ci_neighbor_export">Exportar</string>
-    <string name="energy">(#0##)kW</string>
-    <string name="water">(#0##)L/h</string>
+    <string name="energy">%1$,dkW</string>
+    <string name="water">%1$,dL/h</string>
     <string name="ci_neighbor_power">Energia</string>
     <string name="ci_neighbor_water">Água</string>
     <string name="dialog_buy_free">De graça</string>
@@ -2058,7 +2058,7 @@ Contras: Menos desafios</string>
     <string name="draft_tree00_autumn00_text">As folhas murchas podem ser tão bonitas.</string>
     <string name="settings_handintoolbar">Mostrar a mão na barra de ferramentas</string>
     <string name="draft_bushman00_title">Estátua do bushman</string>
-    <string name="draft_bushman00_text">\"Mãe, o que é isso?\"(#0##) \"Não olhes para isso. Senão vai assombrar-te nos teus sonhos.\"</string>
+    <string name="draft_bushman00_text">\"Mãe, o que é isso?\"\n\"Não olhes para isso. Senão vai assombrar-te nos teus sonhos.\"</string>
     <string name="draft_police03_title">Departamento de Polícia moderno.</string>
     <string name="draft_police03_text">Coloque algum dinheiro nisso e você será capaz de resolver qualquer problema com o crime.</string>
     <string name="draft_sf_cityhall00_title">prefeitura</string>
@@ -2147,7 +2147,7 @@ Contras: Menos desafios</string>
     <string name="influence_traffic_text">Os habitantes não gostam da poluição e do ruído produzidos pelo trânsito.</string>
     <string name="ci_neighbor_wastedisposal">Serviço de eliminação de resíduos</string>
     <string name="ci_neighbor_bodydisposal">Serviço funerário</string>
-    <string name="wastedisposal_transport">(#0##)L/d</string>
+    <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
     <string name="draft_cat_elevatedtrain00_title">Trem Elevado</string>
     <string name="draft_cat_metro00_title">Metro</string>
@@ -2203,7 +2203,7 @@ Contras: Menos desafios</string>
     <string name="region_individualcities">Cidades isoladas</string>
     <string name="draft_redwood_tree00_title">Árvore de pau vermelho</string>
     <string name="draft_redwood_tree00_text">Árvore típica da Floresta Redwood da Califórnia.</string>
-    <string name="buildinginfo_daysbuilt">Construído: (#0##) dia(s) atrás</string>
+    <string name="buildinginfo_daysbuilt">Construído: %1$,d dia(s) atrás</string>
     <string name="createcity_terrain">Colinas</string>
     <string name="draft_tool_terrain_increase00_title">Levantem</string>
     <string name="draft_tool_terrain_increase00_text">Eleva o terreno para formar colinas.</string>
@@ -2310,7 +2310,7 @@ Contras: Menos desafios</string>
     <string name="store_status_notavailable">Este plugin não está disponível neste momento.</string>
     <string name="dialog_missingplugins_title">Plugins em falta</string>
     <string name="dialog_missingplugins_text">Esta cidade contém plugins que não estão sendo baixados ou funcionando no momento:</string>
-    <string name="dialog_missingplugins_pluginby">-(#0##) por (#1##)</string>
+    <string name="dialog_missingplugins_pluginby">-%1$s por %2$s</string>
     <string name="dialog_missingplugins_cmdget">Obtê-los</string>
     <string name="dialog_missingplugins_cmdskip">Continuar sem</string>
     <string name="statistics_energyproduced">Energia Produzida</string>
@@ -2326,9 +2326,9 @@ Contras: Menos desafios</string>
     <string name="dialog_report_text">Por favor especifique a razão pela qual você quer relatar %1$s:</string>
     <string name="dialog_report_appendix">Você pode enviar informações adicionais para report@theotown.com</string>
     <string name="dialog_reported_title">Feito</string>
-    <string name="dialog_reported_text">Obrigado pelo seu relatório. Nós o revisaremos e tomaremos as medidas necessárias.(#0##)Você pode nos enviar informações adicionais para report@theotown.com, se necessário.</string>
+    <string name="dialog_reported_text">Obrigado pelo seu relatório. Nós o revisaremos e tomaremos as medidas necessárias.\nVocê pode nos enviar informações adicionais para report@theotown.com, se necessário.</string>
     <string name="dialog_report_cmd">Relatório</string>
-    <string name="stage_comment_reportsubject">o comentário por (#0##)</string>
+    <string name="stage_comment_reportsubject">o comentário por %1$s</string>
     <string name="stage_store_reportsubject">o plugin \"%1$s\".</string>
     <string name="stage_comment_noperm">Você não está autorizado a comentar esse plugin.</string>
     <string name="store_modecommented">Comentários</string>
@@ -2529,19 +2529,19 @@ Ao conectar o jogo a uma conta no TheoTown Forum, você pode participar das seç
     <string name="dialog_removeowner_title">Remover proprietário</string>
     <string name="dialog_removeowner_text">Tem a certeza que quer remover %1$s deste enredo?\n\n Isto não pode ser desfeito.</string>
     <string name="dialog_removeowner_cmdremove">Remover</string>
-    <string name="stage_regioncity_lastplayed">Última jogada: (#0##) atrás</string>
+    <string name="stage_regioncity_lastplayed">Última jogada: %1$s atrás</string>
     <string name="ci_loan_get_text2">Valor: %1$s
-(#1##)Prazo: %2$,d meses
+\nPrazo: %2$,d meses
 \nCustos mensais: %3$s</string>
     <string name="settings_uianimations">Animações</string>
     <string name="dialog_configureregion_password">Senha</string>
     <string name="dialog_configureregion_password_desc">Aqui você pode definir uma nova senha. Deixe-a em branco para reutilizar a senha atual.</string>
     <string name="dialog_configureregion_enforepassword">Solicitar senha</string>
     <string name="dialog_regionstats_title">Estatísticas regionais</string>
-    <string name="ci_energy_produced_short">Produzido: (#0##)kW</string>
-    <string name="ci_energy_consumed_short">Usado: (#0##)kW</string>
-    <string name="ci_water_consumed_short">Usado: (#0##)L/h</string>
-    <string name="ci_water_produced_short">Produzido: (#0##)L/h</string>
+    <string name="ci_energy_produced_short">Produzido: %1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">Usado: %1$,.0fkW</string>
+    <string name="ci_water_consumed_short">Usado: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">Produzido: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">Geral</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d cidades</string>
 
@@ -2664,5 +2664,13 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="settings_fullscreen_resolution">Resolução de tela inteira</string>
     <string name="settings_tool_history">Funcionalidade de desfazer</string>
     <string name="topic_birthday_ja">Feliz aniversário JustAnyone!</string>
+
+
+    <string name="ci_neighbor_se">SE</string>
+    <string name="ci_neighbor_ne">NE</string>
+    <string name="ci_neighbor_nw">NW</string>
+    <string name="ci_neighbor_sw">SW</string>
+    <string name="dialog_removewithprice_title">Removal costs</string>
+    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
 
 </resources>
