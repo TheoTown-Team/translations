@@ -2105,7 +2105,7 @@ Nachtteile: Langweilig</string>
     <string name="music_next">Nächste Musik</string>
     <string name="createcity_generating">Generiere Stadt</string>
     <string name="dialog_notenoughmoneyp_title">Zu wenig Geld</string>
-    <string name="dialog_notenoughmoneyp_text">Wir haben gerade nicht genug Geld um das zu bauen :(</string>
+    <string name="dialog_notenoughmoneyp_text">Wir haben gerade nicht genug Geld um das zu bauen :(\n\nEs fehlen %1$s</string>
     <string name="game_region">Region %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandkasten</string>
     <string name="gamemode_sandbox_text">Verwende diesen Modus für Experimente ohne Geld. Die Einwohner haben nach wie vor Bedürfnisse, die es zu erfüllen gilt.</string>
@@ -2366,7 +2366,7 @@ Indem du das Spiel mit einem TheoTown Forum Account verbindest, kannst du in den
     <string name="draft_concrete00_text">Etwas Beton zur Dekoration.</string>
     <string name="draft_concrete00_title">Beton</string>
     <string name="draft_concrete01_title">Gestreifter Beton</string>
-    <string name="createregion_regionname">Name der Region:</string>
+    <string name="createregion_regionname">Name:</string>
     <string name="dialog_regionrules_allowsandbox">Sandkastenmodus ist erlaubt.</string>
     <string name="dialog_regionrules_notallowsandbox">Sandkastenmodus ist hier nicht gestattet.</string>
     <string name="dialog_configureregion_rules">Regeln</string>
@@ -2541,5 +2541,48 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="settings_fullscreen_resolution">Vollbild Auflösung</string>
     <string name="settings_tool_history">Rückgängig-Funktion für Werkzeuge</string>
     <string name="topic_birthday_ja">Alles Gute zum Geburtstag, JustAnyone!</string>
+
+
+    <string name="ci_neighbor_se">SO</string>
+    <string name="ci_neighbor_ne">NO</string>
+    <string name="ci_neighbor_nw">NW</string>
+    <string name="ci_neighbor_sw">SW</string>
+    <string name="dialog_removewithprice_title">Abrisskosten</string>
+    <string name="dialog_removewithprice_text">Die Kosten zum Entfernen belaufen sich auf %1$s. Möchtest du fortfahren?</string>
+
+
+    <string name="featureselector_doubledincometime">Doppeltes Einkommen für %1$s</string>
+    <string name="draft_marker_powermarker_text">Stromversorgungsabdeckung. Strom wird mittels Kabeln transportiert.</string>
+    <string name="draft_marker_waterpipemarker_title">Wasser</string>
+    <string name="draft_marker_waterpipemarker_text">Wasserabdeckung. Wasser wird mittels Rohrleitungen zu Gebäuden transportiert.</string>
+    <string name="stage_files_title">Dateien</string>
+    <string name="stage_files_importhere">Hier importieren</string>
+    <string name="stage_files_currentdir">Aktueller Ordner</string>
+    <string name="stage_files_actions">Aktionen</string>
+    <string name="stage_files_actionexport">Exportieren</string>
+    <string name="stage_files_actionrename">Umbenennen</string>
+    <string name="stage_files_actionrename_text">Datei %1$s umbenennen in:</string>
+    <string name="stage_files_renamecollision_title">Namenskollision</string>
+    <string name="stage_files_renamecollision_text">Die Datei %1$s existiert bereits!</string>
+    <string name="stage_files_actiondelete">Löschen</string>
+    <string name="stage_files_actiondelete_title">Wirklich löschen?</string>
+    <string name="stage_files_actiondelete_text">Bist du dir sicher, dass du %1$s löschen möchtest? Dies kann nicht rückgängig gemacht werden!</string>
+    <string name="stage_files_settings">Einstellungen</string>
+    <string name="stage_files_settings_showhiddenfiles">Zeige versteckte Dateien</string>
+    <string name="stage_files_filesize">Größe: %1$s</string>
+    <string name="stage_files_helptitle">Hilfe</string>
+    <string name="stage_files_helptext">Willkommen im TheoTown Dateimanager. Hier kannst du deine Städte, Regionen, Plugins und so weiter verwalten.</string>
+    <string name="unit_sizebytes">%1$,d Bytes</string>
+    <string name="unit_sizekb">%1$,.1f KB</string>
+    <string name="unit_sizemb">%1$,.1f MB</string>
+    <string name="unit_sizegb">%1$,.1f GB</string>
+    <string name="pluginerror_locateplugin">Plugin orten</string>
+    <string name="stage_files_createfolder">Neuer Ordner</string>
+    <string name="stage_files_createfolder_title">Neuer Ordner</string>
+    <string name="stage_files_createfolder_text">Name des Ordners:</string>
+    <string name="stage_files_createfolder_cmdcreate">Erstellen</string>
+    <string name="stage_files_createfoldercollision_title">Ordner existiert</string>
+    <string name="stage_files_createfoldercollision_text">Eine Datei mit dem Namen %1$s existiert bereits!</string>
+    <string name="tool_terrain_smoothwaterheights">Glätte Wassertiefe</string>
 
 </resources>
