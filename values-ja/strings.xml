@@ -2,26 +2,26 @@
     <string name="app_name">TheoTown </string>
     <string name="settings_title">設定</string>
     <string name="loadcity_title">続き</string>
-    <string name="createcity_title">新しく作る</string>
+    <string name="createcity_title">新しい街</string>
     <string name="settings_defaults">デフォルト</string>
     <string name="settings_apply">追加</string>
     <string name="createcity_mapsize">大きさ:</string>
-    <string name="createcity_cityname">町名:</string>
+    <string name="createcity_cityname">街名:</string>
     <string name="control_back">戻る</string>
     <string name="createcity_start">開始</string>
     <string name="loadcity_load">開始</string>
     <string name="welcome_agree">同意する</string>
     <string name="welcome_content">TheoTownへようこそ
 
-\n\nこのアプリは今開発中です、だから多少 小さなバグがあるかも知れません :(
+\n\nこのアプリは今開発中です、だから多少小さなバグがあるかも知れません :(
 
-\n\nこのアプリが気に入ったら、あなたの友人にこのことを伝えることで私達をサポートする事が出来るかもしれません。
+\n\nこのアプリが気に入ったら、友人などにを伝えることで私達をサポートすることが出来ます。
 
 \n\n楽しんでください :)</string>
-    <string name="game_date">%1$02d/%2$02d/%3$02d</string>
+    <string name="game_date">%3$02d年%2$02d月%1$02d日</string>
     <string name="game_habitants">人口: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">地形:</string>
+    <string name="createcity_seed">シード値:</string>
     <string name="createcity_sizesmall">最小</string>
     <string name="createcity_sizemiddle">普通</string>
     <string name="createcity_sizebig">大きい</string>
@@ -36,7 +36,7 @@
     <string name="settings_resolutionbigbig">最大</string>
     <string name="settings_resolution">GUI スケール</string>
     <string name="dialog_nocities_title">町が見つかりませんでした</string>
-    <string name="dialog_nocities_text">町が見つかりませんでした.</string>
+    <string name="dialog_nocities_text">町が見つかりませんでした。</string>
     <string name="dialog_nocities_cmdback">キャンセル</string>
     <string name="dialog_nocities_cmdnewcity">新しい都市</string>
     <string name="settings_showads">広告を表示する</string>
@@ -48,16 +48,16 @@
     <string name="settings_drawwatersparkle">水の輝きを表示する</string>
     <string name="settings_drawmapedges">マップの端を表示</string>
     <string name="settings_hideads_title">広告を表示しない</string>
-    <string name="settings_hideads_text">本当に広告を表示して欲しくないなら、このアプリの事を友人に伝える事で私達をサポートする事が出来ます
+    <string name="settings_hideads_text">本当に広告を表示して欲しくないなら、このアプリを友人に伝えることで私達をサポートする事が出来ます
 
 \n\n本当に良いんですか?</string>
     <string name="settings_hideads_yes">はい</string>
     <string name="settings_hideads_no">キャンセル</string>
-    <string name="loadcity_errordialog_title">ロード 失敗</string>
-    <string name="loadcity_errordialog_text">この町を読み込む事が出来ません、ファイルが破損しているようです.\n\nごめんなさい.</string>
+    <string name="loadcity_errordialog_title">ロード失敗</string>
+    <string name="loadcity_errordialog_text">街を読み込む事が出来ません、ファイルが破損しているようです.\n\nごめんなさい。</string>
     <string name="loadcity_errordialog_cmdcancel">キャンセル</string>
     <string name="dialog_screenshot_title">スクリーンショット撮影完了</string>
-    <string name="dialog_screenshot_text"> %1$s として保存されました</string>
+    <string name="dialog_screenshot_text"> %1$sとして保存されました</string>
     <string name="dialog_screenshot_cmdok">はい</string>
     <string name="draftselector_titleparks">公園</string>
     <string name="draftselector_titlepublics">公共施設</string>
@@ -65,15 +65,15 @@
     <string name="draftselector_titlewater">水道</string>
     <string name="draftselector_titleschool">教育</string>
     <string name="draftselector_titlehealth">健康</string>
-    <string name="draftselector_titlepolice">警察署</string>
-    <string name="draftselector_titlefiredepartment">消防署</string>
+    <string name="draftselector_titlepolice">警察</string>
+    <string name="draftselector_titlefiredepartment">消防</string>
     <string name="draftselector_cmdbuild">建設</string>
-    <string name="draftselector_price">価格: %s</string>
-    <string name="draftselector_monthlyprice">月額: %s</string>
+    <string name="draftselector_price">建設費: %s</string>
+    <string name="draftselector_monthlyprice">月間維持費: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">削除</string>
     <string name="loadcity_deletedialog_text">本当に削除しますか?</string>
-    <string name="loadcity_deletedialog_title">町を削除</string>
+    <string name="loadcity_deletedialog_title">街を削除</string>
     <string name="loadcity_deletedialog_cmdcancel">キャンセル</string>
     <string name="loadcity_deletedialog_cmddelete">削除</string>
     <string name="createcity_sizebigbig">膨大</string>
@@ -1305,7 +1305,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="settings_lesscars">交通量</string>
     <string name="settings_uploadgameplay">ゲームプレイをアップロード (あなたのid: %s)</string>
     <string name="settings_uploadgameplaymobile"> Wifi接続なしでゲームプレイをアップロードできるようにする (通信料が高いかも!)</string>
-    <string name="createcity_sizebigbigextra">コロッサル</string>
+    <string name="createcity_sizebigbigextra">巨大</string>
     <string name="settings_uploadgameplay_quality">画質</string>
     <string name="settings_uploadgameplay_qlow">低い</string>
     <string name="settings_uploadgameplay_qmedium">普通</string>
@@ -2147,14 +2147,14 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="draft_redwood_tree00_title">レッドウッドツリー</string>
     <string name="draft_redwood_tree00_text">カリフォルニアのレッドウッドの森の代表的な木。</string>
     <string name="buildinginfo_daysbuilt">%1$,d日前に建設された</string>
-    <string name="createcity_terrain">ヒルズ</string>
+    <string name="createcity_terrain">山地</string>
     <string name="draft_tool_terrain_increase00_title">レイズ</string>
     <string name="draft_tool_terrain_increase00_text">地形を上げて丘を形成します。</string>
     <string name="draft_tool_terrain_lower00_title">下</string>
     <string name="draft_tool_terrain_lower00_text">地形を下げます。</string>
     <string name="draft_tool_terrain_platform00_title">プラットフォーム</string>
     <string name="draft_tool_terrain_platform00_text">半径内の地形を同じ高さまで水平にします。</string>
-    <string name="draft_cat_hills00_title">ヒルズ</string>
+    <string name="draft_cat_hills00_title">山地</string>
     <string name="draft_feature_starter_pack01_title">スターターパックII</string>
     <string name="draft_budget_roadtoll00_title">通行料</string>
     <string name="draft_tollbooth00_title">料金所</string>
@@ -2489,7 +2489,7 @@ FAQsを読む theotown.com/faq それとも info@theotown.comでお悩みを書�
     <string name="dialog_regionstats_cities">%1$d / %2$dの都市</string>
 
 
-    <string name="regionlist_cat_popular">Popular</string>
+    <string name="regionlist_cat_popular">人気</string>
     <string name="regionlist_cat_new">New</string>
     <string name="regionlist_cat_free">Free</string>
     <string name="regionlist_cat_protected">Protected</string>
