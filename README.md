@@ -5,6 +5,8 @@ Here *anybody* can help to localize TheoTown to other languages.
 
 ## Languages:
 Every directory contains a `values.xml` file. The corresponding languages are:
+- values-b+fil: Filipino
+- values-eu: Basque
 - values-ca: Catalan
 - values-cs: Czech
 - values-de: German <-- **Always up to date**
@@ -15,16 +17,17 @@ Every directory contains a `values.xml` file. The corresponding languages are:
 - values-it: Italian
 - values-ja: Japanese
 - values-ko: Korean
+- values-lt: Lithuanian
 - values-ms: Malay, Indonesian
 - values-nl: Dutch
 - values-pl: Polish
 - values-pt: Portuguese
-- values-pr: Pirate
 - values-ru: Russian
 - values-sr: Serbian
 - values-th: Thai
 - values-tr: Turkish
 - values-uk: Ukrainian
+- values-vi: Vietnamese
 - values-zh-rTW: Traditional Chinese
 - values-zh: Chinese
 - values: English (*default language*) <-- **Always up to date**<br/>
