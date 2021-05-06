@@ -1669,9 +1669,9 @@
     <string name="draft_notify_easteregg_found00_text">Enhorabuena, encontraste el huevo de Pascua :)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Quite los edificios del diamante</string>
+    <string name="dialog_removediamondbuildings_title">Elminiar edificios con coste de diamantes</string>
     <string name="dialog_removediamondbuildings_text">Seleccionó %d edificios con precios de diamantes para su retirada. ¿Está seguro de que desea eliminarlos? Hay una herramienta de construcción de movimiento si sólo desea moverlos.</string>
-    <string name="settings_renderpollution">Contaminación del Render</string>
+    <string name="settings_renderpollution">Renderizar Contaminación</string>
 
 
     <string name="settings_cloudshadow">Sombras de nubes</string>
@@ -1691,7 +1691,7 @@
 
 
     <string name="draft_cat_management00_title">Gestión</string>
-    <string name="draft_sakura00_title">Sakura Tower</string>
+    <string name="draft_sakura00_title">Torre Sakura</string>
     <string name="draft_sakura00_text">Una pagoda tradicional con árboles de Sakura, qué lugar tan encantador.</string>
     <string name="draft_stbasilcathedral00_title">Catedral de San Basilio</string>
     <string name="draft_stbasilcathedral00_text">La Catedral de San Basilio es una iglesia en Moscú, Rusia. Se completó en 1561 y ahora es un museo. Su altura asciende a 115 metros.</string>
@@ -1754,7 +1754,7 @@
     <string name="draft_cat_roaddeco00_title">Decoración vial</string>
 
 
-    <string name="draft_feature_doubledincome00_title">Ingresos duplicados</string>
+    <string name="draft_feature_doubledincome00_title">Duplicar Ingresos</string>
     <string name="draft_feature_doubledincome00_text">Simplemente duplica los ingresos.</string>
     <string name="features_duration">Duración %s</string>
     <string name="draft_roaddeco_crosswalk00_title">Paso de peatones</string>
@@ -2547,56 +2547,56 @@ Presiona una tecla para asignarlo a esta acción.</string>
 
     <string name="ci_neighbor_se">SE</string>
     <string name="ci_neighbor_ne">NE</string>
-    <string name="ci_neighbor_nw">NW</string>
-    <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
+    <string name="ci_neighbor_nw">NO</string>
+    <string name="ci_neighbor_sw">SO</string>
+    <string name="dialog_removewithprice_title">Costes de eliminación</string>
+    <string name="dialog_removewithprice_text">El coste de eliminación de la selección es %1$s. ¿Quieres proceder?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
+    <string name="featureselector_doubledincometime">Duplicar ingresos por %1$s</string>
+    <string name="draft_marker_powermarker_text">Cobertura de energía. La energía es transportada usando cables.</string>
+    <string name="draft_marker_waterpipemarker_title">Agua</string>
+    <string name="draft_marker_waterpipemarker_text">La cobertura de agua. Agua es transportado a tus habitantes utilizando tuberías.</string>
+    <string name="stage_files_title">Administrador de archivos</string>
+    <string name="stage_files_importhere">Importar aquí</string>
+    <string name="stage_files_currentdir">Carpeta actual</string>
+    <string name="stage_files_actions">Acciones</string>
+    <string name="stage_files_actionexport">Exportar</string>
+    <string name="stage_files_actionrename">Renombrar</string>
+    <string name="stage_files_actionrename_text">Renombrar el archivo %1$s:</string>
+    <string name="stage_files_renamecollision_title">Conflicto de archivos</string>
+    <string name="stage_files_renamecollision_text">¡El archivo %1$s ya existe!</string>
+    <string name="stage_files_actiondelete">Eliminar</string>
+    <string name="stage_files_actiondelete_title">¿Eliminar?</string>
+    <string name="stage_files_actiondelete_text">¿Estás seguro de que quieres eliminar el archivo %1$s? This cannot be undone!</string>
+    <string name="stage_files_settings">Ajustes</string>
+    <string name="stage_files_settings_showhiddenfiles">Enseñar archivos ocultos</string>
+    <string name="stage_files_filesize">Tamaño: %1$s</string>
+    <string name="stage_files_helptitle">Ayuda</string>
+    <string name="stage_files_helptext">Bienvenido al administrado de archivos de TheoTown. Aquí puedes acceder y gestionar tus mapas, regiones, plugins y más.</string>
     <string name="unit_sizebytes">%1$,d bytes</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="pluginerror_locateplugin">Localizar plugin</string>
+    <string name="stage_files_createfolder">Crear carpeta</string>
+    <string name="stage_files_createfolder_title">Crear Carpeta</string>
+    <string name="stage_files_createfolder_text">Pon un nombre a la carpeta:</string>
+    <string name="stage_files_createfolder_cmdcreate">Crear</string>
+    <string name="stage_files_createfoldercollision_title">El archivo existe</string>
+    <string name="stage_files_createfoldercollision_text">¡El archivo %1$s ya existe!</string>
+    <string name="tool_terrain_smoothwaterheights">Profundidad suave</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="stage_files_importherefiles">Archivo(s)</string>
+    <string name="stage_files_importherefolders">Carpeta</string>
+    <string name="draft_mosque10_title">Mezquita Hassan II</string>
+    <string name="draft_mosque10_text">La mezquita Hassan II es una mezquita en Casablanca, Marruecos. Es la  mezquita más grande en funcionamiento de África y la séptima del mundo. Su minarete es el segundo más alto del mundo, con 210 metros de altura. Se terminó de construir en 1993 y fue diseñado por Michel Pinseau bajo la dirección del rey Hassan II, y construido por artesanos marroquíes de todo el reino. El minarete tiene 60 pisos de altura y está coronado por un láser cuya luz se dirige hacia La Meca. La mezquita se encuentra en un promontorio que da al océano Atlántico; los fieles pueden rezar sobre el mar, pero no hay un suelo de cristal que dé al mar. Las paredes son de mármol artesanal y el techo es retráctil. Un máximo de 105.000 fieles pueden reunirse para rezar: 25.000 en el interior de la sala de la mezquita y otros 80.000 en el terreno exterior.</string>
+    <string name="dialog_filesrestart_title">Reiniciar</string>
+    <string name="dialog_filesrestart_text">Tendrás que reiniciar para que los cambios para que tomen efecto.\n\n¿Quieres reiniciar el juego ahora?</string>
+    <string name="dialog_filesrestart_cmdrestart">Reiniciar</string>
+    <string name="dialog_filesrestart_cmdlater">Más tarde</string>
+    <string name="settings_multiroaddecosupport">Soporte para múltiples decoraciones de carretera</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 </resources>
