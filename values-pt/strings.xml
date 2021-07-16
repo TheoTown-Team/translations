@@ -12,7 +12,7 @@
     <string name="loadcity_load">Começar</string>
     <string name="welcome_agree">Eu aceito</string>
     <string name="welcome_content">
-    Bem Vindo ao TheoTown \n\nEste aplicativo está atualmente em desenvolvimento.Esteja ciente de que pode ocorrer alguns bugs.Por favor, não vote abaixo dessas pequenas questões.Se você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele. \n\nDivirta-se :)
+    Bem-Vindo ao TheoTown \n\nEste aplicativo está atualmente em desenvolvimento. Esteja ciente de que pode ocorrer alguns bugs. Por favor, não vote abaixo dessas pequenas questões. Se você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele. \n\nDivirta-se :)
     </string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitantes: %1$,d</string>
@@ -98,9 +98,9 @@
     <string name="draft_townhall00_text">
     Uma grande cidade precisa de uma Câmara Municipal. Os habitantes vão gostar.
     </string>
-    <string name="draft_wire00_title">Fios</string>
+    <string name="draft_wire00_title">Cabos</string>
     <string name="draft_wire00_text">
-    Use esses fios para conectar sua cidade com suas usinas de energia.
+    Use esses cabos para conectar sua cidade com suas usinas de energia.
     </string>
     <string name="draft_windturbine00_title">Turbina eólica</string>
     <string name="draft_windturbine00_text">Uma turbina eólica faz barulho, mas não poluição.</string>
@@ -257,7 +257,7 @@
     <string name="buildinginfo_worker">Trabalhadores: %1$,d/%2$,d</string>
     <string name="topic_giveup">Nunca desista!</string>
     <string name="dialog_screenshot_error">
-    Não pode criar o diretório salvo para %1$s.Verifique as permissões do app.
+    Não pode criar o diretório salvo para %1$s. Verifique as permissões do app.
     </string>
     <string name="settings_energysaving">Modo de economia de energia</string>
     <string name="about_idea">Ideia</string>
@@ -481,7 +481,7 @@
     <string name="tutorial_buildenergy_a">Vamos tentar construir alguns painéis solares.</string>
     <string name="tutorial_buildenergy_b">Coloque-o sobre os azulejos marcados.</string>
     <string name="tutorial_buildenergy_c">Ótimo trabalho!</string>
-    <string name="tutorial_buildwire_a">Você pode usar fios para transportar energia.</string>
+    <string name="tutorial_buildwire_a">Você pode usar cabos para transportar energia.</string>
     <string name="tutorial_buildwire_b">Coloque-o ao longo dos azulejos marcados.</string>
     <string name="tutorial_buildwire_c">Ótimo trabalho!</string>
     <string name="tutorial_buildwater_a">
@@ -1329,7 +1329,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
 
     <string name="ci_airport_title">Aeroporto</string>
     <string name="draft_wire01_title">Linha de transmissão elétrica</string>
-    <string name="draft_wire01_text">Grandes fios para muita energia. Para troca de energia regional.</string>
+    <string name="draft_wire01_text">Grandes cabos para muita energia. Para troca de energia regional.</string>
     <string name="draft_transformator00_title">Transformador</string>
     <string name="draft_transformator00_text">Um transformador é necessário para transformar entre tensão alta e normal. Construa-o perto de uma linha de transmissão.</string>
 
@@ -1475,7 +1475,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_syl_spawner02_title">água-viva</string>
     <string name="draft_syl_spawner02_text">Este fogo de artifício imita a forma de uma água-viva.</string>
     <string name="draft_syl_emitter00_title">Interruptor</string>
-    <string name="draft_syl_emitter00_text">Um interruptor para iniciar fogos de artifício. Conectado a fios.</string>
+    <string name="draft_syl_emitter00_text">Um interruptor para iniciar fogos de artifício. Conectado a cabos.</string>
     <string name="draft_syl_wire_title">Fios</string>
     <string name="draft_syl_wire_text">Fiação para fogos de artifício.</string>
     <string name="draft_category_firework00_title">Fogos de Artifício</string>
@@ -1688,14 +1688,14 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_statueofliberty00_text">A Estátua da Liberdade foi um presente dos franceses para os americanos. Foi inaugurado em 1886 e tem 93 metros de altura.</string>
     <string name="draft_decorustywatertower00_title">Torre de água enferrujada</string>
     <string name="draft_decorustywatertower00_text">Uma torre de água velha e enferrujada. Não faz absolutamente nada.</string>
-    <string name="draft_underground_wire00_title">Fios subterrâneos</string>
-    <string name="draft_underground_wire00_text">Funcionam como fios normais, mas são colocados no subsolo para que ninguém precise vê-los.</string>
+    <string name="draft_underground_wire00_title">Cabos subterrâneos</string>
+    <string name="draft_underground_wire00_text">Funcionam como cabos normais, mas são colocados no subsolo para que ninguém precise vê-los.</string>
     <string name="draft_feature_freedombuildings00_title">Marcos I</string>
     <string name="draft_feature_freedombuildings00_text">Contém os seguintes edifícios para uso permanente:</string>
 
 
-    <string name="tool_removeuwire_title">Fios subterrâneos</string>
-    <string name="tool_removeuwire_text">Esta ferramenta remove os fios subterrâneos.</string>
+    <string name="tool_removeuwire_title">Cabos subterrâneos</string>
+    <string name="tool_removeuwire_text">Esta ferramenta remove os cabos subterrâneos.</string>
 
 
     <string name="draft_aircraft_boneyard00_title">Cemitério de aviões</string>
@@ -2386,7 +2386,7 @@ Contras: Menos desafios</string>
     <string name="toolaction_terrainhigher">Superior</string>
 
 
-    <string name="settings_uisize">Tamanho UI</string>
+    <string name="settings_uisize">Tamanho da interface</string>
     <string name="settings_uisize_normal">Normal</string>
     <string name="settings_uisize_big">Grande</string>
     <string name="settings_uisize_bigger">Maior</string>
@@ -2674,50 +2674,50 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_removewithprice_text">O preço para remover sua seleção é de %1$s.. Você deseja continuar?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
+    <string name="featureselector_doubledincometime">Renda duplicada por %1$s</string>
+    <string name="draft_marker_powermarker_text">Cobertura de energia. A energia é transportada usando cabos.</string>
+    <string name="draft_marker_waterpipemarker_title">Água</string>
+    <string name="draft_marker_waterpipemarker_text">Cobertura de água. A água é transportada para seus moradores usando canos.</string>
+    <string name="stage_files_title">Gerenciador de arquivos</string>
+    <string name="stage_files_importhere">Importar aqui</string>
+    <string name="stage_files_currentdir">Pasta atual</string>
+    <string name="stage_files_actions">Ações</string>
+    <string name="stage_files_actionexport">Exportar</string>
+    <string name="stage_files_actionrename">Renomear</string>
+    <string name="stage_files_actionrename_text">Renomear o arquivo %1$s:</string>
+    <string name="stage_files_renamecollision_title">Conflitos de nomes</string>
+    <string name="stage_files_renamecollision_text">O arquivo %1$s já existe!</string>
+    <string name="stage_files_actiondelete">Apagar</string>
+    <string name="stage_files_actiondelete_title">Apagar?</string>
+    <string name="stage_files_actiondelete_text">Realmente deseja apagar o arquivo %1$s? Isto não pode ser desfeito!</string>
+    <string name="stage_files_settings">Configurações</string>
+    <string name="stage_files_settings_showhiddenfiles">Mostrar arquivos ocultos</string>
+    <string name="stage_files_filesize">Tamanho: %1$s</string>
+    <string name="stage_files_helptitle">Ajuda</string>
+    <string name="stage_files_helptext">Bem-vindo ao gerenciador de arquivos do TheoTown. Aqui você pode acessar e gerenciar seus mapas, regiões, plugins e assim por diante.</string>
     <string name="unit_sizebytes">%1$,d bytes</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="pluginerror_locateplugin">Localizar  plugin</string>
+    <string name="stage_files_createfolder">Criar pasta</string>
+    <string name="stage_files_createfolder_title">Nova pasta</string>
+    <string name="stage_files_createfolder_text">Entre com um nome para a pasta:</string>
+    <string name="stage_files_createfolder_cmdcreate">Criar</string>
+    <string name="stage_files_createfoldercollision_title">O arquivo existe</string>
+    <string name="stage_files_createfoldercollision_text">O arquivo %1$s já existe!</string>
+    <string name="tool_terrain_smoothwaterheights">Profundidade suave</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="stage_files_importherefiles">Arquivo(s)</string>
+    <string name="stage_files_importherefolders">Pasta</string>
+    <string name="draft_mosque10_title">Mesquita Hassan II</string>
+    <string name="draft_mosque10_text">A mesquita Hassan II é uma mesquita em Casablanca, Marrocos. É a maior mesquita em funcionamento na África e a sétima do mundo. Seu minarete é o segundo mais alto do mundo, com 210 metros de altura. Foi concluída em 1993 e foi projetada por Michel Pinseau sob a direção do rei Hassan II, e construída por artesãos marroquinos de todo o reino. O minarete tem 60 andares de altura e é coberto por um laser cuja luz é direcionada para Meca. A mesquita está em um promontório com vista para o Oceano Atlântico; Os fiéis podem orar sobre o mar, mas não há piso de vidro de frente para o mar. As paredes são feitas de mármore artesanal e o telhado é retrátil. Um máximo de 105.000 fiéis pode se reunir para orar: 25.000 dentro da sala da mesquita e outros 80.000 no terreno externo.</string>
+    <string name="dialog_filesrestart_title">Reiniciar</string>
+    <string name="dialog_filesrestart_text">Você pode ter que reiniciar o jogo para que as mudanças entrem em vigor.\n\nVocê quer reiniciar o jogo agora?</string>
+    <string name="dialog_filesrestart_cmdrestart">Reiniciar</string>
+    <string name="dialog_filesrestart_cmdlater">Depois</string>
+    <string name="settings_multiroaddecosupport">Suporte para múltiplas decorações de rua</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 </resources>
