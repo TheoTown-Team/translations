@@ -8,14 +8,14 @@
     <string name="createcity_mapsize">Tamanho:</string>
     <string name="createcity_cityname">Nome da cidade:</string>
     <string name="control_back">Voltar</string>
-    <string name="createcity_start">Começar</string>
+    <string name="createcity_start">Criar cidade</string>
     <string name="loadcity_load">Começar</string>
     <string name="welcome_agree">Eu aceito</string>
-    <string name="welcome_content">Bem-Vindo ao TheoTown
+    <string name="welcome_content">Bem-vindo ao TheoTown
 
 \n\nEste aplicativo está atualmente em desenvolvimento. Esteja ciente de que pode ocorrer alguns bugs. Por favor, não vote abaixo dessas pequenas questões.
 
-\n\nISe você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele.
+\n\nSe você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele.
 
 \n\nDivirta-se :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -288,9 +288,9 @@
     <string name="ci_energy_consumed">Usado: %1$,.0fkW (%2$,d construções)</string>
     <string name="ci_energy_ratio">Uso: %1$.1f%%</string>
     <string name="ci_energy_all">Geral</string>
-    <string name="ci_energy_single">único</string>
+    <string name="ci_energy_single">Por construções</string>
     <string name="ci_water_all">Geral</string>
-    <string name="ci_water_single">único</string>
+    <string name="ci_water_single">Por construções</string>
     <string name="ci_water_networks">%1$,d rede(s)</string>
     <string name="ci_water_consumed">Usado: %1$,.0fL/h (%2$,d construções)</string>
     <string name="ci_water_produced">Produzido: %1$,.0fL/h (%2$,d construções)</string>
@@ -670,7 +670,7 @@
     <string name="draft_rail00_title">Trilhos</string>
     <string name="draft_rail00_text">Alguns trilhos para trens de passageiros.</string>
     <string name="draft_railwaystation00_title">Estação ferroviária</string>
-    <string name="draft_railwaystation00_text">Estação de comboios de passageiros.</string>
+    <string name="draft_railwaystation00_text">Estação de trens de passageiros.</string>
     <string name="draft_school02_title">Escola pequena</string>
     <string name="draft_school02_text">Uma pequena escola primária para pequenas cidades.</string>
     <string name="toolremove_zone_title">Remover zonas</string>
@@ -776,8 +776,8 @@
     <string name="draft_rnk_isolateddwelling_title">Habitação isolada</string>
     <string name="draft_rnk_hamlet_title">Aldeia</string>
     <string name="draft_rnk_village_small_title">Vila pequena</string>
-    <string name="draft_rnk_village_medium_title">Município</string>
-    <string name="draft_rnk_village_big_title">Município grande</string>
+    <string name="draft_rnk_village_medium_title">Vila</string>
+    <string name="draft_rnk_village_big_title">Vila grande</string>
     <string name="draft_rnk_town_small_title">Município pequeno</string>
     <string name="draft_rnk_town_medium_title">Município</string>
     <string name="draft_rnk_town_big_title">Município grande</string>
@@ -956,7 +956,7 @@
     <string name="notify_higheducationneeded">Vamos criar alguns gênios construindo um colégio.</string>
     <string name="dialog_ffwd1_text">Permite que você use velocidade de jogo mais rápida para %1$s.</string>
     <string name="notify_badtraffic">Há muito tráfego nesta estrada. Eu recomendo construir mais ou melhores estradas.</string>
-    <string name="dialog_wb_title">Bem-Vindo de volta!</string>
+    <string name="dialog_wb_title">Bem-vindo de volta!</string>
     <string name="dialog_wb_text">%1$s ganhou %2$s enquanto você estava ausente.</string>
     <string name="notify_fullschool">Esta escola está cheia. Construa mais deles, por favor.</string>
     <string name="dialog_notenoughmoney_title">Dinheiro insuficiente</string>
@@ -1009,7 +1009,7 @@
     <string name="ci_neighbor_power">Energia</string>
     <string name="ci_neighbor_water">Água</string>
     <string name="dialog_buy_free">De graça</string>
-    <string name="notify_missiledisaster">Oops... Eu tenho medo que nosso último teste de foguete emitiu um desastre galáctico.</string>
+    <string name="notify_missiledisaster">Oops... Eu tenho medo que o nosso último teste de foguete tenha gerado um desastre galáctico.</string>
     <string name="notification00_title">NOTÍCIAS: %1$s tem muito dinheiro!</string>
     <string name="notification00_text">Prefeito, precisamos que você gaste todo o dinheiro!</string>
     <string name="roadinfo_bridgetype">Tipo de pontes</string>
@@ -1554,7 +1554,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="dialog_adreward_title">Anúncio premiado</string>
     <string name="dialog_adreward_text">Quer receber alguns diamantes de graça assistindo a um anúncio?</string>
     <string name="dialog_adreward_cmdwatch">Obtê-los agora</string>
-    <string name="draftselector_titlelandmark">Marcos</string>
+    <string name="draftselector_titlelandmark">Monumentos</string>
     <string name="draft_bigben00_title">Big Ben</string>
     <string name="draft_bigben00_text">Big Ben é uma torre sineira em Londres que tem 96 m de altura e foi construída em 1859.</string>
     <string name="draft_angelofindependence00_title">Anjo da independência</string>
@@ -1565,7 +1565,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_decorustywatertower00_text">Uma torre de água velha e enferrujada. Não faz absolutamente nada.</string>
     <string name="draft_underground_wire00_title">Cabos subterrâneos</string>
     <string name="draft_underground_wire00_text">Funcionam como cabos normais, mas são colocados no subsolo para que ninguém precise vê-los.</string>
-    <string name="draft_feature_freedombuildings00_title">Marcos I</string>
+    <string name="draft_feature_freedombuildings00_title">Monumentos I</string>
     <string name="draft_feature_freedombuildings00_text">Contém os seguintes edifícios para uso permanente:</string>
 
     <string name="tool_removeuwire_title">Cabos subterrâneos</string>
@@ -1584,7 +1584,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_onerafflesplace00_text">The One Raffles Place é um arranha-céus na cidade de Singapura que foi construído em 1986 e tem uma altura de 280 metros.</string>
     <string name="draft_willistower00_title">Torre Willis</string>
     <string name="draft_willistower00_text">A Willis Tower (também conhecida como Sears Tower) é um arranha-céus que está localizado em Chicago, Estados Unidos. A torre foi construída em 1973 e tem 442 metros de altura.</string>
-    <string name="draft_feature_landmarks01_title">Marcos II</string>
+    <string name="draft_feature_landmarks01_title">Monumentos II</string>
     <string name="draft_feature_landmarks01_text">Contém os seguintes edifícios para uso permanente:</string>
 
     <string name="draft_cat_supply00_title">Fornecimento</string>
@@ -1637,7 +1637,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_burjalarab00_text">O Burj Al Arab é um hotel de luxo localizado em Dubai, Emirados Árabes Unidos. Foi completada em 1999 e tem uma altura de 321 metros.</string>
     <string name="draft_hearsttower00_title">Torre do Coração</string>
     <string name="draft_hearsttower00_text">A Hearst Tower é um edifício de escritórios em Nova York que foi construído em 2006. Tem uma altura de 182 metros.</string>
-    <string name="draft_feature_landmarks02_title">Marcos III</string>
+    <string name="draft_feature_landmarks02_title">Monumentos III</string>
 
     <string name="draft_recyclingyard00_title">Centro de reciclagem</string>
     <string name="draft_recyclingyard00_text">Por que queimar o lixo ou trazê-lo para o aterro se ele pode ser reciclado no centro de reciclagem?</string>
@@ -1663,7 +1663,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_orientalpearltower00_text">A Torre Pérola Oriental é uma torre de TV em Xangai cuja construção foi concluída em 1994. A altura da torre é de 470 metros.</string>
     <string name="draft_swfc_tower00_title">Torre SWFC</string>
     <string name="draft_swfc_tower00_text">O Shanghai World Financial Center é um arranha-céu que está localizado em Xangai e foi concluído em 2008. Sua altura é de 494 metros.</string>
-    <string name="draft_feature_landmarks03_title">Marcos IV</string>
+    <string name="draft_feature_landmarks03_title">Monumentos IV</string>
     <string name="draft_feature_landmarks03_text">Edifícios requintados de Xangai</string>
     <string name="draft_cat_asphalt00_title">Asfalto</string>
     <string name="draft_asphalt00_title">Asfalto Cinza</string>
@@ -1672,8 +1672,8 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_asphalt02_title">Asfalto azulado</string>
 
     <string name="draft_cat_management00_title">Gestão</string>
-    <string name="draft_sakura00_title">torre Sakura</string>
-    <string name="draft_sakura00_text">Um pagode tradicional com árvores de sakura. Que lugar lindo.</string>
+    <string name="draft_sakura00_title">Torre Sakura</string>
+    <string name="draft_sakura00_text">Um pagode tradicional com árvores de Sakura. Que lugar lindo.</string>
     <string name="draft_stbasilcathedral00_title">Catedral de São Basílio</string>
     <string name="draft_stbasilcathedral00_text">A Catedral de São Basílio é uma igreja em Moscou, na Rússia. Foi concluído em 1561 e agora é um museu. Sua altura é de 115 metros.</string>
 
@@ -1804,7 +1804,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_roaddeco_construction01_text">Parte de obras.</string>
     <string name="notification00_sandbox_title">NOTÍCIAS: %1$s é uma cidade legal!</string>
     <string name="notification00_sandbox_text">Prefeito, você pode se orgulhar de si mesmo!</string>
-    <string name="notification01_title">NOTÍCIAS: %1$s está solitária!</string>
+    <string name="notification01_title">NOTÍCIAS: %1$s se sente só!</string>
     <string name="notification01_text">Prefeito, por favor volte!</string>
 
     <string name="shop_adreward">Diamantes grátis</string>
@@ -1972,9 +1972,9 @@ Contras: Menos desafios</string>
     <string name="store_previouslyinstalled">Eliminado</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
     <string name="draft_rails00_title">Ferrovia</string>
-    <string name="draft_rails00_text">Usado para guiar os seus comboios.</string>
+    <string name="draft_rails00_text">Usado para guiar os seus trens.</string>
     <string name="draft_rails00oneway00_title">Ferrovia de sentido único</string>
-    <string name="draft_rails00oneway00_text">Usado para guiar os seus comboios. Funciona como uma estrada de sentido único.</string>
+    <string name="draft_rails00oneway00_text">Usado para guiar os seus trens. Funciona como uma estrada de sentido único.</string>
     <string name="specialoffer_cmdbuy">Comprar por %s</string>
     <string name="influence_body_disposal_title">Serviços funerários</string>
     <string name="influence_body_disposal_text">Descanse em paz.</string>
@@ -1990,7 +1990,7 @@ Contras: Menos desafios</string>
     <string name="draft_railroof00_title">Telhado</string>
     <string name="draft_railroof00_text">Telhado da estação de trem que pode ser colocado sobre trilhos em uma estação de trem.</string>
     <string name="draft_trainplatform00_title">Plataforma 1</string>
-    <string name="draft_trainplatform00_text">Uma plataforma da estação de comboios.</string>
+    <string name="draft_trainplatform00_text">Uma plataforma da estação de trem.</string>
     <string name="draft_trainplatform01_title">Plataforma 2</string>
     <string name="draft_trainplatform02_title">Plataforma 3</string>
     <string name="draft_trainplatform03_title">Plataforma 4</string>
@@ -1999,7 +1999,7 @@ Contras: Menos desafios</string>
     <string name="draft_trainplatform06_title">Plataforma 7</string>
     <string name="draft_trainplatform07_title">Plataforma 8</string>
     <string name="draft_trainstation00_title">Plataforma de tráfego local</string>
-    <string name="draft_trainstation00_text">Só os comboios locais vão começar e terminar aqui.</string>
+    <string name="draft_trainstation00_text">Só os trens locais vão começar e terminar aqui.</string>
     <string name="draft_trainstation01_title">Plataforma de tráfego de longa distância</string>
     <string name="draft_trainstation01_text">Esta plataforma é reservada para viagens de longa distância.</string>
     <string name="draft_train_freight_station00_title">Depósito de carga 1</string>
@@ -2009,11 +2009,11 @@ Contras: Menos desafios</string>
     <string name="draft_train_freight_station03_title">Depósito de carga 4</string>
     <string name="draft_train_freight_station04_title">Depósito de carga 5</string>
     <string name="draft_trainstation_prebuilt00_title">Pequena estação</string>
-    <string name="draft_trainstation_prebuilt00_text">Uma pequena estação de comboios apenas para o tráfego local.</string>
+    <string name="draft_trainstation_prebuilt00_text">Uma pequena estação de trens apenas para o tráfego local.</string>
     <string name="draft_trainstation_prebuilt01_title">Estação</string>
     <string name="draft_trainstation_prebuilt01_text">Uma estação de trem maior para o tráfego local.</string>
     <string name="draft_trainstation_prebuilt02_title">Grande estação</string>
-    <string name="draft_trainstation_prebuilt02_text">Uma grande estação de comboios que serve o tráfego local e de longa distância.</string>
+    <string name="draft_trainstation_prebuilt02_text">Uma grande estação de trens que serve o tráfego local e de longa distância.</string>
     <string name="draft_cat_train00_parts00_title">Peças</string>
     <string name="draft_raildeco_crane00_title">Guindaste</string>
     <string name="draft_raildeco_crane00_text">Uma grua de carga para o seu caminho-de-ferro.</string>
@@ -2024,9 +2024,9 @@ Contras: Menos desafios</string>
     <string name="draft_raildeco_lights00_00_title">Semáforo</string>
     <string name="draft_raildeco_lights00_00_text">Um semáforo para o seu caminho-de-ferro</string>
     <string name="draft_trainstation_prebuilt10_title">Depósito de carga</string>
-    <string name="draft_trainstation_prebuilt10_text">Estação de comboios de bens industriais.</string>
+    <string name="draft_trainstation_prebuilt10_text">Estação de trens de bens industriais.</string>
     <string name="draft_trainstation_prebuilt11_title">Grande armazém de carga</string>
-    <string name="draft_trainstation_prebuilt11_text">Uma grande estação de comboios para mais bens industriais.</string>
+    <string name="draft_trainstation_prebuilt11_text">Uma grande estação de trens para mais bens industriais.</string>
     <string name="channel_city_title">Notícias da cidade</string>
     <string name="channel_city_text">Informações gerais sobre a sua cidade.</string>
     <string name="settings_fullscreen">Tela cheia</string>
@@ -2486,8 +2486,8 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="topic_birthday_ja">Feliz aniversário JustAnyone!</string>
     <string name="ci_neighbor_se">SE</string>
     <string name="ci_neighbor_ne">NE</string>
-    <string name="ci_neighbor_nw">NW</string>
-    <string name="ci_neighbor_sw">SW</string>
+    <string name="ci_neighbor_nw">NO</string>
+    <string name="ci_neighbor_sw">SO</string>
 
     <string name="dialog_removewithprice_title">Custos de remoção</string>
     <string name="dialog_removewithprice_text">O preço para remover sua seleção é de %1$s. Você deseja continuar?</string>
@@ -2516,7 +2516,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Localizar  plugin</string>
+    <string name="pluginerror_locateplugin">Localizar plugin</string>
     <string name="stage_files_createfolder">Criar pasta</string>
     <string name="stage_files_createfolder_title">Nova pasta</string>
     <string name="stage_files_createfolder_text">Entre com um nome para a pasta:</string>
