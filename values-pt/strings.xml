@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
-    <string name="settings_title">Opções</string>
-    <string name="loadcity_title">Carregar Cidade</string>
-    <string name="createcity_title">Nova Cidade</string>
+    <string name="settings_title">Configurações</string>
+    <string name="loadcity_title">Carregar cidade</string>
+    <string name="createcity_title">Nova cidade</string>
     <string name="settings_defaults">Padrões</string>
     <string name="settings_apply">Aplicar</string>
     <string name="createcity_mapsize">Tamanho:</string>
@@ -11,11 +11,11 @@
     <string name="createcity_start">Criar cidade</string>
     <string name="loadcity_load">Carregar cidade</string>
     <string name="welcome_agree">Eu aceito</string>
-    <string name="welcome_content">Bem-vindo ao TheoTown
+    <string name="welcome_content">Bem-vindo a TheoTown
 
-\n\nEste aplicativo está atualmente em desenvolvimento. Esteja ciente de que pode ocorrer alguns bugs. Por favor, não vote abaixo dessas pequenas questões.
+\n\nEste aplicativo está atualmente em desenvolvimento. Esteja ciente de que pode ocorrer alguns erros. Por favor, não vote abaixo dessas pequenas questões.
 
-\n\nSe você gostar deste app, você pode nos apoiar dizendo a seus amigos sobre ele.
+\n\nVocê gosta deste aplicativo? Nos apoie compartilhando com seus amigos!
 
 \n\nDivirta-se :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -92,7 +92,7 @@
     <string name="dialog_hugesize_cmdno">Não</string>
     <string name="draft_church00_title">Igreja</string>
     <string name="draft_church00_text">Cada pequena cidade precisa de uma igreja.</string>
-    <string name="draft_townhall00_title">Câmara Municipal</string>
+    <string name="draft_townhall00_title">Câmara municipal</string>
     <string name="draft_townhall00_text">Uma grande cidade precisa de uma Câmara Municipal. Os habitantes vão gostar.</string>
     <string name="draft_wire00_title">Cabos</string>
     <string name="draft_wire00_text">Use esses cabos para conectar sua cidade com suas usinas de energia.</string>
@@ -409,7 +409,7 @@
     <string name="draft_radio00_sport_text">Envia relatórios esportivos e emocionantes transmissões ao vivo de eventos esportivos. Atua como uma quadra de esportes com muito longo alcance.
 \n
 \nSomente um programa de rádio permitido ao mesmo tempo. Programas antigos serão removidos.</string>
-    <string name="draft_radio00_fun_title">Rádio Diversão</string>
+    <string name="draft_radio00_fun_title">Rádio diversão</string>
     <string name="draft_radio00_fun_text">Envia principalmente música e um programa de entretenimento leve. Os ouvintes se sentem melhor. Assim, age como um parque com muito longo alcance.
 \n
 \nSomente um programa de rádio permitido ao mesmo tempo. Programas antigos serão removidos.</string>
@@ -490,7 +490,7 @@
     <string name="disaster_illness_cmdtext">Vírus</string>
     <string name="disaster_flooding_title">Inundação</string>
     <string name="disaster_flooding_text">Muita água.</string>
-    <string name="disaster_flooding_cmdtext">Deixa Chover</string>
+    <string name="disaster_flooding_cmdtext">Deixa chover</string>
     <string name="buildinginfo_influences">Influências</string>
     <string name="ci_loan_title">Empréstimo</string>
     <string name="ci_loan_donate">Solicitar</string>
@@ -531,9 +531,9 @@
     <string name="requirement_building">Requer: %1$s</string>
     <string name="draftselector_onlyone">Só pode ser construído uma vez</string>
     <string name="draftselector_onlyn">Só pode ser construído %1$,d vezes</string>
-    <string name="draft_church02_title">Pequena Igreja</string>
+    <string name="draft_church02_title">Igreja pequena</string>
     <string name="draft_church02_text">Uma igreja para cidades pequenas.</string>
-    <string name="draft_mosque01_title">Pequena mesquita</string>
+    <string name="draft_mosque01_title">Mesquita pequena</string>
     <string name="draft_mosque01_text">Uma mesquita para cidades pequenas.</string>
     <string name="settings_sound_ui">Som da interface</string>
     <string name="settings_sound_game">Som em jogo</string>
@@ -775,16 +775,16 @@
     <string name="happiness_general">Avaliação geral</string>
     <string name="draft_rnk_isolateddwelling_title">Habitação Isolada</string>
     <string name="draft_rnk_hamlet_title">Aldeia</string>
-    <string name="draft_rnk_village_small_title">Vila Pequena</string>
+    <string name="draft_rnk_village_small_title">Vila pequena</string>
     <string name="draft_rnk_village_medium_title">Vila</string>
     <string name="draft_rnk_village_big_title">Vila grande</string>
-    <string name="draft_rnk_town_small_title">Município Pequeno</string>
+    <string name="draft_rnk_town_small_title">Município pequeno</string>
     <string name="draft_rnk_town_medium_title">Município</string>
-    <string name="draft_rnk_town_big_title">Município Grande</string>
-    <string name="draft_rnk_town_large_title">Mega Município</string>
-    <string name="draft_rnk_city_small_title">Cidade Pequena</string>
+    <string name="draft_rnk_town_big_title">Município grande</string>
+    <string name="draft_rnk_town_large_title">Mega município</string>
+    <string name="draft_rnk_city_small_title">Cidade pequena</string>
     <string name="draft_rnk_city_medium_title">Cidade</string>
-    <string name="draft_rnk_city_big_title">Cidade Grande</string>
+    <string name="draft_rnk_city_big_title">Cidade grande</string>
     <string name="draft_rnk_city_large_title">Megacidade</string>
     <string name="draft_rnk_metropolis_title">Metrópoles</string>
     <string name="draft_rnk_conurbation_title">Conurbação</string>
@@ -804,16 +804,16 @@
     <string name="draftselector_titledecoration">Decorações</string>
     <string name="draftselector_titlewastedisposal">Depósito de lixo</string>
     <string name="draftselector_titlemilitary">Militar</string>
-    <string name="draft_zonemilitary_title">Área Militar</string>
-    <string name="draft_mltry_road00_title">Rua Militar</string>
-    <string name="draft_mltry_hq00_title">Quartel General</string>
+    <string name="draft_zonemilitary_title">Área militar</string>
+    <string name="draft_mltry_road00_title">Rua militar</string>
+    <string name="draft_mltry_hq00_title">Quartel general</string>
     <string name="draft_mltry_baracks00_title">Quartel</string>
     <string name="draft_mltry_depot00_title">Depósito</string>
-    <string name="draft_mltry_tankbase00_title">Base do Tanque</string>
+    <string name="draft_mltry_tankbase00_title">Base do tanque</string>
     <string name="draft_mltry_rocketlauncher00_title">Lançador de foguetes</string>
     <string name="draft_landfill00_title">Aterro</string>
     <string name="draft_wasteincinerator00_title">Incinerador de resíduos</string>
-    <string name="draft_firedepartment02_title">Corpo de Bombeiros Principal</string>
+    <string name="draft_firedepartment02_title">Corpo de bombeiros principal</string>
     <string name="draft_cemetery00_title">Cemitério</string>
     <string name="draft_crematory00_title">Crematório</string>
     <string name="rank_newrank">Parabéns, a sua cidade %1$s atingiu uma nova posição:</string>
@@ -875,7 +875,7 @@
     <string name="control_auto">Automático</string>
     <string name="control_on">Ativado</string>
     <string name="control_off">Desativado</string>
-    <string name="draft_school03_title">Grande colégio</string>
+    <string name="draft_school03_title">Colégio grande</string>
     <string name="draft_school03_text">Um colégio maior para mais alunos.</string>
     <string name="gamemode_easy_desc">Neste modo de jogo você começa com um monte de dinheiro e é um pouco mais fácil em geral.</string>
     <string name="gamemode_middle_desc">Modo de jogo padrão. Você começa com uma boa quantidade de dinheiro e não deve ser muito difícil construir a cidade de seus sonhos.</string>
@@ -948,8 +948,8 @@
     <string name="dialog_renameregion_title">Renomear região</string>
     <string name="dialog_renameregion_text">Insira um novo nome para sua região:</string>
     <string name="shop_diamonds">%1$s diamantes por %2$s</string>
-    <string name="draft_townhall02_title">Câmara Municipal grande</string>
-    <string name="draft_townhall02_text">Uma câmara municipal grande. É um agradecimento de 1M de downloads.</string>
+    <string name="draft_townhall02_title">Câmara municipal grande</string>
+    <string name="draft_townhall02_text">Uma câmara municipal grande. É um agradecimento pelos 1M de downloads.</string>
     <string name="notify_pollutedwaterpump">Esta bomba de água está na área poluída. É melhor colocá-lo em outro lugar para manter a água limpa.</string>
     <string name="notify_destroyedtiles">É melhor descartar esse lixo antes que alguém o perceba.</string>
     <string name="notify_loweducationneeded">Eu acho que é hora de dar educação aos nossos filhos. Construa uma escola primária.</string>
@@ -1042,7 +1042,7 @@
     <string name="setting_showtrafficmarker">Mostrar tráfego na ferramenta rodoviária</string>
     <string name="menu_console">Console</string>
     <string name="topic_crispr">CRISPR pode mudar sua vida</string>
-    <string name="draft_feature_firestation00_title">Corpo de Bombeiros Principal</string>
+    <string name="draft_feature_firestation00_title">Corpo de bombeiros principal</string>
     <string name="draft_feature_firestation00_text">Um corpo de bombeiros com um grande alcance, muitos carros e uma atualização de heliportos para um helicóptero.</string>
     <string name="draft_feature_gocart00_title">Pista de corrida de Go-kartk</string>
     <string name="draft_feature_gocart00_text">E quanto a alguns esportes de moto em sua cidade? Também gerará go-carts na estrada normal.</string>
@@ -1120,7 +1120,7 @@
     <string name="store_shortdesc">Crie sua própria cidade neste jogo de simulação de cidade.</string>
     <string name="store_longdesc">Você quer construir sua própria cidade? Em TheoTown você pode assistir a sua própria cidade crescendo. Declare zonas para edifícios residenciais, comerciais ou industriais e construa uma estrada para conectá-los. Faça a sua cidade mais atraente ao construir parques, escolas e muitas outras instalações.
 
-Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidades no diretório TheoTown/maps no seu dispositivo para que você tenha acesso a eles.</string>
+Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cidades no diretório TheoTown/maps no seu dispositivo para que você tenha acesso a eles.</string>
 
     <string name="settings_sound_weather">Clima</string>
 
@@ -1145,7 +1145,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_zoneairport_text">Construa seu aeroporto dentro desta zona de aeródromo.</string>
     <string name="draft_decoletters00_title">Letreiros</string>
     <string name="draft_decoletters00_text">Apenas alguns letreiros para dar %1$s um toque pessoal.</string>
-    <string name="draft_feature_letters00_title">Decoração de Letras</string>
+    <string name="draft_feature_letters00_title">Decoração de letras</string>
     <string name="draft_feature_letters00_text">Algumas letras que podem ser usadas para fins decorativos.</string>
 
     <string name="tool_eye_dropper">Selecione uma construção</string>
@@ -1154,60 +1154,60 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="settings_language_default">Padrão (%s)</string>
 
     <string name="settings_showroadlength">Mostrar comprimento da estrada</string>
-    <string name="draft_rnk_metropolis_small_title">Metrópoles Pequena</string>
-    <string name="draft_rnk_metropolis_big_title">Metrópoles Grande</string>
-    <string name="draft_rnk_metropolis_large_title">Metrópoles Extensa</string>
-    <string name="draft_rnk_conurbation_small_title">Conurbação Pequena</string>
-    <string name="draft_rnk_conurbation_big_title">Conurbação Grande</string>
-    <string name="draft_rnk_conurbation_large_title">Conurbação Extensa</string>
-    <string name="draft_rnk_megalopolis_small_title">Megalópoles Pequena</string>
-    <string name="draft_rnk_megalopolis_big_title">Megalópoles Grande</string>
-    <string name="draft_rnk_megalopolis_large_title">Megalópoles Extensa</string>
-    <string name="draft_rnk_country_small_title">País Pequeno</string>
+    <string name="draft_rnk_metropolis_small_title">Metrópoles pequena</string>
+    <string name="draft_rnk_metropolis_big_title">Metrópoles grande</string>
+    <string name="draft_rnk_metropolis_large_title">Metrópoles extensa</string>
+    <string name="draft_rnk_conurbation_small_title">Conurbação pequena</string>
+    <string name="draft_rnk_conurbation_big_title">Conurbação grande</string>
+    <string name="draft_rnk_conurbation_large_title">Conurbação extensa</string>
+    <string name="draft_rnk_megalopolis_small_title">Megalópoles pequena</string>
+    <string name="draft_rnk_megalopolis_big_title">Megalópoles grande</string>
+    <string name="draft_rnk_megalopolis_large_title">Megalópoles extensa</string>
+    <string name="draft_rnk_country_small_title">País pequeno</string>
     <string name="draft_rnk_country_medium_title">País</string>
-    <string name="draft_rnk_country_big_title">País Grande</string>
-    <string name="draft_rnk_country_large_title">País Extenso</string>
-    <string name="draft_rnk_continent_small_title">Continente Pequeno</string>
+    <string name="draft_rnk_country_big_title">País grande</string>
+    <string name="draft_rnk_country_large_title">País extenso</string>
+    <string name="draft_rnk_continent_small_title">Continente pequeno</string>
     <string name="draft_rnk_continent_medium_title">Continente</string>
-    <string name="draft_rnk_continent_big_title">Continente Grande</string>
-    <string name="draft_rnk_continent_large_title">Continente Extenso</string>
+    <string name="draft_rnk_continent_big_title">Continente grande</string>
+    <string name="draft_rnk_continent_large_title">Continente extenso</string>
     <string name="draft_rnk_planet_small_title">Planetoide</string>
     <string name="draft_rnk_planet_medium_title">Planeta</string>
-    <string name="draft_rnk_planet_big_title">Planeta Grande</string>
-    <string name="draft_rnk_planet_large_title">Planeta Extenso</string>
-    <string name="draft_rnk_solar_system_small_title">Sistema Solar Pequeno</string>
-    <string name="draft_rnk_solar_system_medium_title">Sistema Solar</string>
-    <string name="draft_rnk_solar_system_big_title">Sistema Solar Grande</string>
-    <string name="draft_rnk_solar_system_large_title">Sistema Solar Extenso</string>
-    <string name="draft_rnk_universe_small_title">Universo Pequeno</string>
+    <string name="draft_rnk_planet_big_title">Planeta grande</string>
+    <string name="draft_rnk_planet_large_title">Planeta extenso</string>
+    <string name="draft_rnk_solar_system_small_title">Sistema solar pequeno</string>
+    <string name="draft_rnk_solar_system_medium_title">Sistema solar</string>
+    <string name="draft_rnk_solar_system_big_title">Sistema solar grande</string>
+    <string name="draft_rnk_solar_system_large_title">Sistema solar extenso</string>
+    <string name="draft_rnk_universe_small_title">Universo pequeno</string>
     <string name="draft_rnk_universe_medium_title">Universo</string>
-    <string name="draft_rnk_universe_big_title">Universo Grande</string>
-    <string name="draft_rnk_universe_large_title">Universo Extenso</string>
-    <string name="draft_rnk_multiverse_small_title">Multiverso Pequeno</string>
+    <string name="draft_rnk_universe_big_title">Universo grande</string>
+    <string name="draft_rnk_universe_large_title">Universo extenso</string>
+    <string name="draft_rnk_multiverse_small_title">Multiverso pequeno</string>
     <string name="draft_rnk_multiverse_medium_title">Multiverso</string>
-    <string name="draft_rnk_multiverse_big_title">Multiverso Grande</string>
-    <string name="draft_rnk_multiverse_large_title">Multiverso Extenso</string>
-    <string name="draft_rnk_infinity_small_title">Infinito Pequeno</string>
+    <string name="draft_rnk_multiverse_big_title">Multiverso grande</string>
+    <string name="draft_rnk_multiverse_large_title">Multiverso extenso</string>
+    <string name="draft_rnk_infinity_small_title">Infinito pequeno</string>
     <string name="draft_rnk_infinity_medium_title">Infinito</string>
-    <string name="draft_rnk_infinity_big_title">Infinito Grande</string>
-    <string name="draft_rnk_infinity_large_title">Infinito Extenso</string>
+    <string name="draft_rnk_infinity_big_title">Infinito grande</string>
+    <string name="draft_rnk_infinity_large_title">Infinito extenso</string>
     <string name="draft_prm_park00_title">Fonte</string>
     <string name="draft_prm_park00_text">Uma fonte maravilhosa que encantará os habitantes de %1$s e você também.</string>
     <string name="draft_feature_fountain00_title">Fonte</string>
     <string name="draft_feature_fountain00_text">Uma fonte maravilhosa que encantará os habitantes da sua cidade e também você.</string>
 
-    <string name="draft_rnk_galaxy_small_title">Galáxia Pequena</string>
+    <string name="draft_rnk_galaxy_small_title">Galáxia pequena</string>
     <string name="draft_rnk_galaxy_medium_title">Galáxia</string>
-    <string name="draft_rnk_galaxy_big_title">Galáxia Grande</string>
-    <string name="draft_rnk_galaxy_large_title">Galáxia Extensa</string>
-    <string name="draft_rnk_galaxy_cluster_small_title">Grupo de Galáxias Pequena</string>
-    <string name="draft_rnk_galaxy_cluster_medium_title">Grupo de Galáxias</string>
-    <string name="draft_rnk_galaxy_cluster_big_title">Grupo de Galáxias Grande</string>
-    <string name="draft_rnk_galaxy_cluster_large_title">Grupo de Galáxias Extensa</string>
-    <string name="draft_rnk_supercluster_small_title">Supercluster Pequeno</string>
+    <string name="draft_rnk_galaxy_big_title">Galáxia grande</string>
+    <string name="draft_rnk_galaxy_large_title">Galáxia extensa</string>
+    <string name="draft_rnk_galaxy_cluster_small_title">Grupo de galáxias pequena</string>
+    <string name="draft_rnk_galaxy_cluster_medium_title">Grupo de galáxias</string>
+    <string name="draft_rnk_galaxy_cluster_big_title">Grupo de galáxias grande</string>
+    <string name="draft_rnk_galaxy_cluster_large_title">Grupo de galáxias extensa</string>
+    <string name="draft_rnk_supercluster_small_title">Supercluster pequeno</string>
     <string name="draft_rnk_supercluster_medium_title">Supercluster</string>
-    <string name="draft_rnk_supercluster_big_title">Supercluster Grande</string>
-    <string name="draft_rnk_supercluster_large_title">Supercluster Extenso</string>
+    <string name="draft_rnk_supercluster_big_title">Supercluster grande</string>
+    <string name="draft_rnk_supercluster_large_title">Supercluster extenso</string>
 
     <string name="ci_airport_title">Aeroporto</string>
     <string name="draft_wire01_title">Linha de transmissão elétrica</string>
@@ -1257,7 +1257,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="dialog_renameairplane_text">Digite um novo nome para o seu avião:</string>
     <string name="draft_airplane00_title">T340</string>
     <string name="draft_airplane00_text">Um avião de longo alcance da TheoAir.</string>
-    <string name="draft_prm_airplane00_title">T340 Dourado</string>
+    <string name="draft_prm_airplane00_title">T340 dourado</string>
     <string name="draft_prm_airplane00_text">Uma variante dourada do avião de longo alcance da TheoAir.</string>
     <string name="draftselector_airplane_passenger">Passageiro: %1$,d</string>
     <string name="draft_ap_deco00_title">Decoração do aeroporto</string>
@@ -1317,13 +1317,13 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_deco_chr_present00_title">Presente</string>
     <string name="draft_deco_chr_present00_text">Apenas um presente.</string>
     <string name="settings_touch_rotate">Girar ao toque</string>
-    <string name="disaster_green_slime_title">Geleia Verde</string>
+    <string name="disaster_green_slime_title">Geleia verde</string>
     <string name="disaster_green_slime_text">Uma geleia sempre em expansão que vai gradualmente consumir tudo o que está à vista.</string>
     <string name="disaster_green_slime_cmdtext">Geleia!</string>
-    <string name="disaster_pink_slime_title">Geleia Rosa</string>
+    <string name="disaster_pink_slime_title">Geleia rosa</string>
     <string name="disaster_pink_slime_text">Uma geleia sempre em expansão que vai gradualmente consumir tudo o que está à vista.</string>
     <string name="disaster_pink_slime_cmdtext">Geleia!</string>
-    <string name="draft_hydroplant00_title">Usina Hidrelétrica</string>
+    <string name="draft_hydroplant00_title">Usina hidrelétrica</string>
     <string name="draft_hydroplant00_text">Uma usina hidrelétrica que pode ser usada para gerar eletricidade usando o poder dos rios. Não gera poluição.</string>
     <string name="draft_feature_slime00_title">Catástrofe das geleias</string>
     <string name="draft_feature_slime00_text">Catástrofe das geleias vão devorar sua cidade. Claro, só se você quiser fazer isso.</string>
@@ -1332,9 +1332,9 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_deco_chr_tree00_title">Árvore de Natal</string>
     <string name="draft_deco_chr_tree00_text">A árvore de Natal encherá os corações de seus habitantes com alegria e glória. Você vê algum presente?</string>
     <string name="draft_jardinehouse00_title">Jardine House</string>
-    <string name="draft_jardinehouse00_text">A Jardine House é uma torre de escritórios localizada em Hong Kong. Tem 52 andares e tem uma altura de 179m. Foi concluído em 1972.</string>
+    <string name="draft_jardinehouse00_text">A Jardine House é uma torre de escritórios localizada em Hong Kong. Tem 52 andares e tem uma altura de 179 metros. Foi concluído em 1972.</string>
     <string name="draft_bankofchina00_title">Banco da China</string>
-    <string name="draft_bankofchina00_text">A Torre do Banco da China, em Hong Kong, abriga a sede do Banco da China HK. Tem 70 andares, tem 367m de altura e foi concluído em 1990.</string>
+    <string name="draft_bankofchina00_text">A Torre do Banco da China, em Hong Kong, abriga a sede do Banco da China HK. Tem 70 andares, tem 367 metros de altura e foi concluído em 1990.</string>
     <string name="settings_road_zone_width">Largura entre a estrada das zonas</string>
     <string name="settings_road_zone_height">Altura entre estradas da zona</string>
     <string name="draft_feature_christmas_pack00_title">Especial de Natal</string>
@@ -1342,10 +1342,10 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_feature_christmas00_title">Árvore de Natal!</string>
     <string name="draft_feature_christmas00_text">Várias decorações para o Natal :)</string>
     <string name="draft_category_christmas00_title">Inverno</string>
-    <string name="draft_deco_chr_snowman00_title">Boneco de Neve</string>
+    <string name="draft_deco_chr_snowman00_title">Boneco de neve</string>
     <string name="draft_deco_chr_snowman00_text">As crianças gostam de construir bonecos de neve no inverno.</string>
-    <string name="draft_internationalcommercecentre00_title">ICC</string>
-    <string name="draft_internationalcommercecentre00_text">O Centro Internacional de Comércio em Hong Kong é um arranha-céu comercial de 108 andares. É o edifício mais alto de Hong Kong com uma altura de 484 m. Foi concluído em 2010.</string>
+    <string name="draft_internationalcommercecentre00_title">CCI</string>
+    <string name="draft_internationalcommercecentre00_text">O Centro de Comércio Internacional em Hong Kong é um arranha-céu comercial de 108 andares. É o edifício mais alto de Hong Kong com uma altura de 484 metros. Foi concluído em 2010.</string>
     <string name="settings_autosave_interval">Intervalo do salvamento automático</string>
     <string name="settings_autosave_interval_off">Desligado</string>
     <string name="settings_autosave_interval_minutes">%1$d min</string>
@@ -1354,25 +1354,25 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_syl_spawner00_text">Um fogo de artifício com a forma de uma tocha.</string>
     <string name="draft_syl_spawner01_title">Círculos</string>
     <string name="draft_syl_spawner01_text">Um fogo de artifício bastante simples.</string>
-    <string name="draft_syl_spawner02_title">água-viva</string>
+    <string name="draft_syl_spawner02_title">Água-viva</string>
     <string name="draft_syl_spawner02_text">Este fogo de artifício imita a forma de uma água-viva.</string>
     <string name="draft_syl_emitter00_title">Interruptor</string>
     <string name="draft_syl_emitter00_text">Um interruptor para iniciar fogos de artifício. Conectado a cabos.</string>
     <string name="draft_syl_wire_title">Cabo</string>
     <string name="draft_syl_wire_text">Fiação para fogos de artifício.</string>
-    <string name="draft_category_firework00_title">Fogos de Artifício</string>
+    <string name="draft_category_firework00_title">Fogos de artifício</string>
     <string name="draft_feature_firework_pack00_title">Especial de Ano Novo</string>
     <string name="draft_feature_firework_pack00_text">A oferta limitada contém:</string>
-    <string name="draft_feature_firework00_title">Fogos de Artifício</string>
+    <string name="draft_feature_firework00_title">Fogos de artifício</string>
     <string name="draft_feature_firework00_text">Coloque e componha seus próprios fogos de artifício.</string>
     <string name="draft_syl_emitter01_title">Interruptor de tempo</string>
     <string name="draft_syl_emitter01_text">Um interruptor que emitirá automaticamente um sinal no ano novo.</string>
 
     <string name="draft_airplane02_title">T430</string>
     <string name="draft_airplane02_text">Um avião rápido de longo alcance da TheoAir.</string>
-    <string name="draft_syl_spawner03_title">Estrelas Flamejantes</string>
+    <string name="draft_syl_spawner03_title">Estrelas flamejantes</string>
     <string name="draft_syl_spawner03_text">Uma explosão vermelha e amarela combinada com o branco desvanece-se.</string>
-    <string name="draft_syl_spawner04_title">Estrelas Coloridas</string>
+    <string name="draft_syl_spawner04_title">Estrelas coloridas</string>
     <string name="draft_syl_spawner04_text">Uma explosão vermelha com um amarelo desaparece.</string>
     <string name="draft_syl_spawner05_title">Borr</string>
     <string name="draft_syl_spawner05_text">Uma explosão vermelha com um efeito de luz legal.</string>
@@ -1380,7 +1380,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_syl_spawner06_text">Uma bela explosão com cores misturadas e um desvanecimento.</string>
     <string name="draft_syl_spawner07_title">Lágrimas do céu</string>
     <string name="draft_syl_spawner07_text">Três explosões brancas combinadas com um vermelho desaparecem.</string>
-    <string name="draft_syl_spawner08_title">Orelhas Crepitantes</string>
+    <string name="draft_syl_spawner08_title">Orelhas crepitantes</string>
     <string name="draft_syl_spawner08_text">Grandes foguetes dispararam para o ar.</string>
     <string name="draft_syl_spawner09_title">Salgueiro</string>
     <string name="draft_syl_spawner09_text">Um grande salgueiro.</string>
@@ -1393,7 +1393,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="settings_disaster_ufo">OVNI</string>
     <string name="dialog_externalstorage_text">TheoTown precisa de acesso ao armazenamento externo para salvar seu progresso.</string>
     <string name="dialog_externalstorage_cancel">Cancelar</string>
-    <string name="dialog_externalstorage_retry">Tentar Novamente</string>
+    <string name="dialog_externalstorage_retry">Tentar novamente</string>
     <string name="notify_disaster_earthquake">Oh não, há um terremoto!</string>
     <string name="notify_disaster_flooding">Cidade debaixo d\'água!</string>
     <string name="notify_disaster_meteorite">Pedra tá caindo do céu, ai meu sapato!</string>
@@ -1417,7 +1417,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="busgame_upgrade">Atualizar</string>
     <string name="busgame_upgrade_title">Nível %d</string>
     <string name="busgame_unlock">Desbloquear</string>
-    <string name="draft_small_church00_title">Igreja do Bairro</string>
+    <string name="draft_small_church00_title">Igreja do bairro</string>
     <string name="draft_small_church00_text">Alguma fé para seus cidadãos.</string>
     <string name="draft_small_mosque00_title">Mesquita do Bairro</string>
     <string name="draft_small_mosque00_text">Alguma fé para seus cidadãos.</string>
@@ -1457,7 +1457,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="dialog_wb_cmdforfeit">Perdido</string>
     <string name="dialog_diamondtool_title">Acabamento de construção</string>
     <string name="dialog_diamondtool_text">Vamos construir isso?</string>
-    <string name="draft_feature_valentinesday00_title">Feliz Dia dos namorados</string>
+    <string name="draft_feature_valentinesday00_title">Feliz dia dos namorados</string>
     <string name="draft_feature_valentinesday00_text">Desbloquear esses edifícios permanentemente</string>
     <string name="tool_removetunnel_title">Remover túnel</string>
     <string name="tool_removetunnel_text">Vamos remover alguns túneis.</string>
@@ -1556,7 +1556,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="dialog_adreward_cmdwatch">Obtê-los agora</string>
     <string name="draftselector_titlelandmark">Monumentos</string>
     <string name="draft_bigben00_title">Big Ben</string>
-    <string name="draft_bigben00_text">Big Ben é uma torre de sino em Londres que tem 96m de altura e foi construída em 1859.</string>
+    <string name="draft_bigben00_text">Big Ben é uma torre de sino em Londres que tem 96 metros de altura e foi construída em 1859.</string>
     <string name="draft_angelofindependence00_title">Anjo da Independência</string>
     <string name="draft_angelofindependence00_text">O Anjo da Independência é um monumento na Cidade do México que foi construído em 1910 para lembrar a Guerra da Independência do México.</string>
     <string name="draft_statueofliberty00_title">Estátua da Liberdade</string>
@@ -1574,13 +1574,13 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_aircraft_boneyard00_title">Cemitério de aviões</string>
     <string name="draft_aircraft_boneyard00_text">Um lugar para aeronaves aposentadas. Está sujo, mas produz alguma renda.</string>
     <string name="notify_tutorial_reminder_title">Hora de começar</string>
-    <string name="notify_tutorial_reminder_text">Hey prefeito, você esqueceu sua missão de construir uma grande cidade?</string>
+    <string name="notify_tutorial_reminder_text">Ei prefeito, você esqueceu sua missão de construir uma grande cidade?</string>
     <string name="dialog_insufficientspace_title">Estamos ficando sem espaço</string>
     <string name="dialog_insufficientspace_text">Não há muito espaço livre no seu dispositivo (%,d MB).\n\nAs cidades podem não ser salvas devido a espaço insuficiente!</string>
     <string name="dialog_insufficientspace_cmdproceed">Proceda por risco próprio</string>
     <string name="draft_sydneyoperahouse00_title">Ópera de Sydney</string>
     <string name="draft_sydneyoperahouse00_text">A Sydney Opera House é um centro de artes cênicas de vários locais localizado em Sydney, Austrália. Foi completada em 1973 e tem uma altura de 65 metros.</string>
-    <string name="draft_onerafflesplace00_title">Um Local de Sorteio</string>
+    <string name="draft_onerafflesplace00_title">One Raffles Place</string>
     <string name="draft_onerafflesplace00_text">The One Raffles Place é um arranha-céus na cidade de Singapura que foi construído em 1986 e tem uma altura de 280 metros.</string>
     <string name="draft_willistower00_title">Torre Willis</string>
     <string name="draft_willistower00_text">A torre Willis (também conhecida como Sears Tower) é um arranha-céus que está localizado em Chicago, Estados Unidos. A torre foi construída em 1973 e tem 442 metros de altura.</string>
@@ -1598,14 +1598,14 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_cat_level00_title">Nível ₮</string>
     <string name="draft_cat_level01_title">Nível ₮₮</string>
     <string name="draft_cat_level02_title">Nível ₮₮₮</string>
-    <string name="draft_tool_movebuilding00_title">Mover Construções</string>
+    <string name="draft_tool_movebuilding00_title">Mover construções</string>
     <string name="draft_tool_movebuilding00_text">Selecione um prédio para movê-lo para um novo local. Nem todos os edifícios podem ser movidos.</string>
     <string name="tool_movebuilding_cmd">Selecionar uma construção</string>
     <string name="draft_cat_root00_title">Todos</string>
 
-    <string name="draft_cat_residential00_title">Construções Res</string>
-    <string name="draft_cat_commercial00_title">Construções Com</string>
-    <string name="draft_cat_industrial00_title">Construções Ind</string>
+    <string name="draft_cat_residential00_title">Edifícios residencial</string>
+    <string name="draft_cat_commercial00_title">Edifícios comerciais</string>
+    <string name="draft_cat_industrial00_title">Edifícios industriais</string>
     <string name="offerstage_saving">Você economiza %d%%</string>
     <string name="draft_pickle00_title">Picles todo-poderoso</string>
     <string name="draft_pickle00_text">.</string>
@@ -1670,7 +1670,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_asphalt01_title">Asfalto escuro</string>
     <string name="draft_asphalt02_title">Asfalto azulado</string>
 
-    <string name="draft_cat_management00_title">Gestão</string>
+    <string name="draft_cat_management00_title">Gerenciamento</string>
     <string name="draft_sakura00_title">Torre Sakura</string>
     <string name="draft_sakura00_text">Um pagode tradicional com árvores de Sakura. Que lugar lindo.</string>
     <string name="draft_stbasilcathedral00_title">Catedral de São Basílio</string>
@@ -1701,7 +1701,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_cactus00_text">Sem água? Nenhum problema para estes cactos.</string>
     <string name="draft_ancientbear_guard00_title">Guarda</string>
     <string name="draft_ancientbear_guard00_text">Um guarda que vigia o Urso Antigo.</string>
-    <string name="draft_ancientbear_statue00_title">Urso Antigo</string>
+    <string name="draft_ancientbear_statue00_title">Urso antigo</string>
     <string name="draft_ancientbear_statue00_text">Uma estátua do antigo urso.</string>
     <string name="draft_greatpyramid00_title">Grande pirâmide de Gizé</string>
 
@@ -1712,13 +1712,13 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
 
     <string name="featureselector_doubledincometime">Renda duplicada por %1$s</string>
     <string name="game_remaining_doubledincometime">Rendimentos duplicados para %s</string>
-    <string name="draft_taipei101_title">Taipé 101</string>
-    <string name="draft_taipei101_text">O Taipei Financial Center em Taipei é um arranha-céu supertall em Taiwan. Tem uma altura de 510 metros e tem sido o edifício mais alto do mundo até 2010. Foi concluído em 2004.</string>
+    <string name="draft_taipei101_title">Taipei 101</string>
+    <string name="draft_taipei101_text">O Taipei Financial Center em Taipé é um arranha-céu supertall em Taiwan. Tem uma altura de 510 metros e tem sido o edifício mais alto do mundo até 2010. Foi concluído em 2004.</string>
     <string name="draft_roaddeco_border00_title">Pós guia</string>
     <string name="draft_roaddeco_border00_text">Ajuda carros a acompanhar.</string>
     <string name="draft_roaddeco_border01_title">Borda de pedra</string>
     <string name="draft_roaddeco_border01_text">Apenas algumas pedras decorativas que estão perto da sua estrada.</string>
-    <string name="draft_roaddeco_border02_title">Guarda-corpo</string>
+    <string name="draft_roaddeco_border02_title">Guard rail</string>
     <string name="draft_roaddeco_border02_text">Segurança primeiro.</string>
     <string name="draft_roaddeco_border03_title">Proteção sonora</string>
     <string name="draft_roaddeco_border03_text">Que barulho? Eu não ouço nada.</string>
@@ -1750,7 +1750,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="privacy_policy">Política de privacidade</string>
     <string name="dialog_privacy_title">Política de privacidade</string>
     <string name="dialog_privacy_text">Olá, estamos atualizando nossa Política de Privacidade. Por favor, reserve um tempo para revisá-lo.</string>
-    <string name="dialog_privacy_cmdopen">Abrir Política</string>
+    <string name="dialog_privacy_cmdopen">Abrir política</string>
     <string name="dialog_privacy_cmdlater">Entendi</string>
     <string name="settings_drawzones">Desenhar zonas</string>
     <string name="draft_metrostation00_title">Estação de metrô</string>
@@ -1765,7 +1765,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="search_results_title">Buscar resultados para \"%s\"</string>
     <string name="draft_rail01_title">Ferrovia Urbana</string>
     <string name="draft_rail01_text">Estrada de ferro elevada para áreas urbanas para velocidade mais rápida.</string>
-    <string name="draft_nativerailwaystation01_title">Estação Ferroviária Urbana</string>
+    <string name="draft_nativerailwaystation01_title">Estação ferroviária urbana</string>
     <string name="draft_nativerailwaystation01_text">Uma estação ferroviária compacta para lugares com pouco espaço.</string>
     <string name="settings_realmmres">Resolução real do minimapa</string>
     <string name="feature_coming_soon_fulfilled">Um presente antecipado</string>
@@ -1775,8 +1775,8 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_circus00_title">Circo</string>
     <string name="draft_circus00_text">É hora do circo!</string>
     <string name="draft_chrysler00_title">Edifício Chrysler</string>
-    <string name="draft_chrysler00_text">Você provavelmente já viu este edifício antes. O Edifício Chrysler, em Nova York, é famoso por sua aparência icônica. Concluído em 1930, o edifício tem uma altura de 319m.</string>
-    <string name="draft_greatpyramid00_text">O complexo da pirâmide de Gizé é a mais antiga das Sete Maravilhas do Mundo Antigo e bem conhecida em todo o mundo. A Grande Pirâmide é a maior das três pirâmides e tem 139m de altura.</string>
+    <string name="draft_chrysler00_text">Você provavelmente já viu este edifício antes. O Edifício Chrysler, em Nova York, é famoso por sua aparência icônica. Concluído em 1930, o edifício tem uma altura de 319 metros.</string>
+    <string name="draft_greatpyramid00_text">O complexo da pirâmide de Gizé é a mais antiga das Sete Maravilhas do Mundo Antigo e bem conhecida em todo o mundo. A Grande Pirâmide é a maior das três pirâmides e tem 139 metros de altura.</string>
     <string name="draft_feature_landmarks04_text">Tenha alguns grandes edifícios</string>
 
     <string name="draft_roaddeco_barrier_open00_title">Barreira</string>
@@ -1789,7 +1789,7 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_medic02_text">O pequeno hospital oferece mais espaço para mais pacientes.</string>
     <string name="lang_pirate">Pirata</string>
 
-    <string name="draft_church10_title">Igreja Barroca</string>
+    <string name="draft_church10_title">Igreja barroca</string>
     <string name="draft_church10_text">Uma linda igreja e convento para sua cidade.</string>
     <string name="draft_roaddeco_construction00_title">Retroescavadeira</string>
     <string name="draft_roaddeco_construction00_text">Uma retroescavadeira no meio da estrada não parece uma boa ideia, não é?</string>
@@ -1812,14 +1812,14 @@ Se você fornecer o acesso TheoTown ao armazenamento externo, ele salvará cidad
     <string name="draft_roaddeco_trafficisland00_title">Ilha de tráfego</string>
     <string name="draft_roaddeco_trafficisland00_text">Permite que as pessoas atravessem com segurança a rua.</string>
     <string name="draft_roaddeco_buildingsite00_title">local de obras</string>
-    <string name="draft_roaddeco_buildingsite00_text">Cuidado em obras!</string>
+    <string name="draft_roaddeco_buildingsite00_text">Cuidado, em obras!</string>
     <string name="draft_roaddeco_trafficlights00_title">Semáforo</string>
     <string name="draft_roaddeco_trafficlights00_text">Mais seguro do que uma faixa de pedestres ou uma ilha de tráfego.</string>
 
     <string name="tool_removemetrotunnel_title">Remover túnel do metrô</string>
     <string name="tool_removemetrotunnel_text">Vamos remover alguns túneis do metrô.</string>
 
-    <string name="draft_windmill00_title">Antigo Moinho de Vento Holandês</string>
+    <string name="draft_windmill00_title">Antigo moinho de vento holandês</string>
     <string name="draft_windmill00_text">Um antigo moinho de vento para o campo da sua cidade.</string>
     <string name="draft_taxi_depot00_title">Serviço de táxi</string>
     <string name="draft_taxi_depot00_text">Uma forma simples de transporte público.</string>
@@ -1872,7 +1872,7 @@ Contras: Menos desafios</string>
     <string name="dialog_cemeteryclear_title">Limpar agora</string>
     <string name="dialog_cemeteryclear_text">Acho que podemos reutilizar parte do espaço aqui.</string>
     <string name="cemetery_cmdclear">Limpar agora</string>
-    <string name="cemetery_clear">SWIPE para liberar algum espaço.</string>
+    <string name="cemetery_clear">DESLIZE para liberar algum espaço.</string>
     <string name="draft_cemetery00_text">Um lugar onde os restos mortais de pessoas mortas são enterrados.</string>
     <string name="draft_crematory00_text">Pessoas mortas são queimadas aqui.</string>
     <string name="notify_bodydisposal_needer00">Caro prefeito, peço-lhe que construa um cemitério para enterrar o falecido.</string>
@@ -1883,7 +1883,7 @@ Contras: Menos desafios</string>
     <string name="draft_halloween_tree00_text">Uma árvore morta assustadora que é tipicamente usada em histórias de fantasmas.</string>
     <string name="draft_feature_landmarks04_title">Monumentos V</string>
     <string name="draft_feature_landmarks05_title">Monumentos VI</string>
-    <string name="draft_marker_hackedmarkermarker_title">ESTA VERSÃO FOI INVADIDA!</string>
+    <string name="draft_marker_hackedmarkermarker_title">ESTA VERSÃO FOI HACKEADA!</string>
 
     <string name="settings_dedicatedplugintexture">Mais plugins de textura (precisa ser reiniciado; pode ser instável)</string>
     <string name="draft_haunted_house00_title">Casa assombrada</string>
@@ -1900,7 +1900,7 @@ Contras: Menos desafios</string>
     <string name="draft_bushman00_text">\"Mãe, o que é isso?\"\n\"Não olhe. Senão ele irá assombrá-lo em seus sonhos.\"</string>
     <string name="draft_police03_title">Delegacia moderna</string>
     <string name="draft_police03_text">Coloque algum dinheiro nela e você será capaz de resolver qualquer problema com o crime.</string>
-    <string name="draft_sf_cityhall00_title">Câmara Municipal</string>
+    <string name="draft_sf_cityhall00_title">Câmara municipal</string>
     <string name="draft_sf_cityhall00_text">Uma câmara municipal inspirada na Câmara Municipal de São Francisco.</string>
     <string name="draft_sf_fineartspalace00_title">Palácio das Belas Artes</string>
     <string name="draft_sf_fineartspalace00_text">O Palácio de Belas Artes de São Francisco, Califórnia, é uma estrutura monumental originalmente construída para a Exposição Panamá-Pacífico de 1915.</string>
@@ -1933,8 +1933,8 @@ Contras: Menos desafios</string>
     <string name="store_fetchfailed">Erro de rede</string>
     <string name="store_modeexplore">Explorar</string>
     <string name="store_modeinstalled">Instalado</string>
-    <string name="draft_feature_freefastspeed00_title">Velocidade Rápida Ilimitada</string>
-    <string name="draft_feature_freetunnels00_title">Túneis Ilimitados</string>
+    <string name="draft_feature_freefastspeed00_title">Velocidade rápida ilimitada</string>
+    <string name="draft_feature_freetunnels00_title">Túneis ilimitados</string>
     <string name="dialog_storedelete_title">Desinstalar</string>
     <string name="dialog_storedelete_text">Tem a certeza que quer remover esse plugin?</string>
     <string name="dialog_storedelete_cmddelete">Desinstalar</string>
@@ -2059,14 +2059,14 @@ Contras: Menos desafios</string>
     <string name="pluginerror_disable">Desabilitar</string>
 
     <string name="music_next">Próxima música</string>
-    <string name="createcity_generating">Gerando Cidade</string>
+    <string name="createcity_generating">Gerando cidade</string>
     <string name="dialog_notenoughmoneyp_title">Insuficiência de fundos</string>
     <string name="dialog_notenoughmoneyp_text">Não temos dinheiro suficiente para comprar isto neste momento :(\n\nA quantidade em falta é %1$s</string>
     <string name="game_region">Região %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Caixa de areia</string>
     <string name="gamemode_sandbox_text">Use este modo para experiências sem dinheiro. Os seus habitantes ainda têm necessidades que você tem de satisfazer.</string>
     <string name="dialog_ubermode_title">Modo Uber</string>
-    <string name="dialog_ubermode_text">Habilite este modo especial para se livrar de toda a confusão da cidade:\n-Sem incêndios\n-Sem lixo\n-Sem doenças\n-Sem crimes\n-Sem mortes\n-Educação completa\n-100% -Popularidade</string>
+    <string name="dialog_ubermode_text">Habilite este modo especial para se livrar de toda a confusão da cidade:\n-Sem incêndios\n-Sem lixo\n-Sem doenças\n-Sem crimes\n-Sem mortes\n-Educação completa\n-100% de popularidade</string>
     <string name="topic_pluginsawesome">Os plugins são fantásticos! No entanto, recomendamos desativar os plugins não utilizados.</string>
     <string name="topic_platforms">Você sabia que TheoTown está disponível para PC, Android e iOS?</string>
     <string name="topic_pluginspace">O espaço de plugin é limitado, tenha isso em mente.</string>
@@ -2077,7 +2077,7 @@ Contras: Menos desafios</string>
     <string name="draft_permanent_snow00_text">Há sempre inverno neste lugar.</string>
     <string name="settings_hidelabels">Ocultar etiquetas</string>
     <string name="settings_sound_ambient">Ambiente</string>
-    <string name="settings_vsync">VSync</string>
+    <string name="settings_vsync">Sincronização vertical</string>
 
     <string name="shop_invitefriends">Ganhe %d diamantes por amigo convidado</string>
     <string name="shop_invitetitle">Convide um amigo</string>
@@ -2095,17 +2095,17 @@ Contras: Menos desafios</string>
     <string name="draft_intersection_complex00_text">Duas autoestradas planas que se cruzam usando uma estrutura gigantesca e complexa.</string>
     <string name="tool_removefence_title">Remover a cerca</string>
     <string name="tool_removefence_text">Esta ferramenta só pode ser usada para remover cercas.</string>
-    <string name="draft_fence_real00_title">Cerca de Madeira</string>
+    <string name="draft_fence_real00_title">Cerca de madeira</string>
     <string name="draft_fence_real00_text">Uma simples cerca de madeira.</string>
     <string name="draft_fence_real01_title">Cerca</string>
     <string name="draft_fence_real01_text">Uma cerca alta e verde.</string>
     <string name="draft_fence_real02_title">Cerca de Madeira</string>
     <string name="draft_fence_real02_text">Poucas tábuas juntas.</string>
-    <string name="draft_fence_real03_title">Cerca Moderna</string>
+    <string name="draft_fence_real03_title">Cerca moderna</string>
     <string name="draft_fence_real03_text">Tábuas empilhadas entre postes de betão.</string>
-    <string name="draft_fence_real04_title">Cerca Branca</string>
+    <string name="draft_fence_real04_title">Cerca branca</string>
     <string name="draft_fence_real04_text">Cerca aplainada pintada de branco.</string>
-    <string name="draft_fence_real05_title">Muro de Pedra</string>
+    <string name="draft_fence_real05_title">Muro de pedra</string>
     <string name="draft_fence_real05_text">Uma parede de pedra baixa e robusta.</string>
     <string name="draft_fence_real06_title">Cerca de Ferro</string>
     <string name="draft_fence_real06_text">Barras de ferro pesadas entre paredes de tijolo.</string>
@@ -2113,7 +2113,7 @@ Contras: Menos desafios</string>
     <string name="ci_neighbor_notrading">Não há cidades vizinhas para negociar.</string>
 
     <string name="settings_sound_master">Principal</string>
-    <string name="draft_cemetery01_title">Cemitério Grande</string>
+    <string name="draft_cemetery01_title">Cemitério grande</string>
     <string name="draft_cemetery01_text">Um lugar onde os restos mortais de pessoas mortas são enterrados. Este cemitério tem muito espaço.</string>
 
     <string name="settings_bigger_minimap">Maior minimapa</string>
@@ -2123,32 +2123,32 @@ Contras: Menos desafios</string>
     <string name="forum_username">Usuário:</string>
     <string name="forum_password">Senha:</string>
     <string name="forum_inuse">Esta conta é usada para fazer o login agora mesmo.</string>
-    <string name="forum_cmdprofile">Mostrar Perfil</string>
+    <string name="forum_cmdprofile">Mostrar perfil</string>
     <string name="forum_cmdregister">Sem conta? Registe-se agora!</string>
     <string name="forum_cmdlogin">Login</string>
     <string name="forum_cmdlogout">Sair</string>
     <string name="forum_success">Sucesso</string>
-    <string name="forum_loginerror">Erro de Login</string>
-    <string name="forum_networkerror">Erro de Conexão</string>
-    <string name="stage_account_other">Outras Contas</string>
-    <string name="stage_account_connected">%s - Conectado</string>
+    <string name="forum_loginerror">Erro de login</string>
+    <string name="forum_networkerror">Erro de conexão</string>
+    <string name="stage_account_other">Outras contas</string>
+    <string name="stage_account_connected">%s - conectado</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Atualização</string>
     <string name="stage_gallery_noimages">Nenhuma imagem enviada, ainda.</string>
     <string name="stage_region_online">Regiões online</string>
     <string name="online_city_visit">Visite</string>
     <string name="store_status_notavailable">Este plugin não está disponível neste momento.</string>
-    <string name="dialog_missingplugins_title">Plugins em Falta</string>
+    <string name="dialog_missingplugins_title">Plugins em falta</string>
     <string name="dialog_missingplugins_text">Esta cidade contém plugins que não estão sendo baixados ou funcionando no momento:</string>
     <string name="dialog_missingplugins_pluginby">•%1$s por %2$s</string>
     <string name="dialog_missingplugins_cmdget">Obtê-los</string>
     <string name="dialog_missingplugins_cmdskip">Continuar sem</string>
-    <string name="statistics_energyproduced">Energia Produzida</string>
-    <string name="statistics_energyneed">Energia Necessária</string>
-    <string name="statistics_waterproduced">Água Produzida</string>
-    <string name="statistics_waterneed">Água Necessária</string>
+    <string name="statistics_energyproduced">Energia produzida</string>
+    <string name="statistics_energyneed">Energia necessária</string>
+    <string name="statistics_waterproduced">Água produzida</string>
+    <string name="statistics_waterneed">Água necessária</string>
     <string name="ci_show_statistics">Mostrar estatísticas</string>
-    <string name="dialog_commentdelete_title">Apagar Comentário</string>
+    <string name="dialog_commentdelete_title">Apagar comentário</string>
     <string name="dialog_commentdelete_text">Ei, você tem certeza que quer apagar esse comentário até %1$s?</string>
     <string name="dialog_commentdelete_cmd">Apagar</string>
     <string name="stage_comment_login">Entre com a conta TheoTown para comentar</string>
@@ -2278,7 +2278,7 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="dialog_regionsearch_title">Pesquisar região</string>
     <string name="dialog_regionsearch_text">Digite uma palavra-chave abaixo:</string>
     <string name="dialog_regionsearch_cmdsearch">Pesquisa</string>
-    <string name="dialog_regioncoininfo_title">Moedas da Região?</string>
+    <string name="dialog_regioncoininfo_title">Moedas da região?</string>
     <string name="dialog_regioncoininfo_text">Por razões de equilíbrio, introduzimos uma moeda chamada Moedas Regionais. Você as ganhará de graça diariamente apenas com a abertura do jogo.\n\nEsta moeda nos permite oferecer nossos serviços online de graça.</string>
     <string name="settings_sdcardplugins">Carregar plugins do cartão sd (TheoTown/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">Enviar agora?</string>
@@ -2383,14 +2383,14 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="store_cat_residential">Residencial</string>
     <string name="store_cat_commercial">Comercial</string>
     <string name="store_cat_industrial">Industrial</string>
-    <string name="store_cat_parks">Parques, Esportes e Gestão</string>
-    <string name="store_cat_supply">Abastecimento (Energia, Água, Descarte de Resíduos)</string>
-    <string name="store_cat_religion">Religião e Cultura</string>
-    <string name="store_cat_service">Serviço (Polícia, Saúde, Educação,...)</string>
-    <string name="store_cat_award">Prêmios e Especiais</string>
+    <string name="store_cat_parks">Parques, esportes e gestão</string>
+    <string name="store_cat_supply">Abastecimento (energia, água, descarte de resíduos)</string>
+    <string name="store_cat_religion">Religião e cultura</string>
+    <string name="store_cat_service">Serviço (polícia, saúde, educação,...)</string>
+    <string name="store_cat_award">Prêmios e especiais</string>
     <string name="store_cat_decoration">Decorações</string>
     <string name="store_cat_tool">Ferramentas</string>
-    <string name="store_cat_overlay">Clima e Sobreposição</string>
+    <string name="store_cat_overlay">Clima e sobreposição</string>
     <string name="store_cat_pack">Pacotes</string>
     <string name="store_cat_roaddecoration">Decoração de estradas</string>
     <string name="store_cat_military">Militares</string>
@@ -2415,7 +2415,7 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="dialog_sendgift_cmdsend">Envie isto</string>
     <string name="dialog_sendgift_typetext">Texto</string>
     <string name="dialog_sendgift_typemoney">Dinheiro</string>
-    <string name="dialog_sendgift_typediamonds">Diamantes / Moedas regionais</string>
+    <string name="dialog_sendgift_typediamonds">Diamantes / moedas regionais</string>
     <string name="dialog_sendgift_lbltype">Tipo</string>
     <string name="dialog_sendgift_lblamount">Montante</string>
     <string name="dialog_sendgift_lblmessage">Mensagem</string>
