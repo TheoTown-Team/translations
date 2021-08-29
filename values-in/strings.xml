@@ -42,7 +42,7 @@
     <string name="settings_showads">Tunjukkan iklan</string>
     <string name="settings_drawcars">Tunjukkan mobil</string>
     <string name="settings_drawsmoke">Tunjukkan asap</string>
-    <string name="settings_transparencybuildmode">Transparan dalam mode pembangunan</string>
+    <string name="settings_transparencybuildmode">Transparansi dalam mode pembangunan</string>
     <string name="settings_buildgrid">Kotak dalam mode pembangunan</string>
     <string name="settings_doublecardrawing">Gandakan gambaran mobil</string>
     <string name="settings_drawwatersparkle">Tunjukkan kilauan air</string>
@@ -144,7 +144,7 @@
     <string name="shader_default">Klasik</string>
     <string name="shader_test">Tes</string>
     <string name="settings_shader">Warna</string>
-    <string name="shader_colorful">Penuh warna</string>
+    <string name="shader_colorful">Cerah</string>
     <string name="shader_gray">Abu-abu</string>
     <string name="shader_fancy">Mewah</string>
     <string name="settings_category_graphics">Grafik</string>
@@ -372,7 +372,7 @@
     <string name="draft_alert_medic00_text">Ketika terjadi kecelakaan, kamu harus memanggil ambulans.</string>
     <string name="buildinginfo_powerusage">Pemakaian: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Pemakaian: %1$.1f%%</string>
-    <string name="settings_maxzoomout">Perkecil maks.</string>
+    <string name="settings_maxzoomout">Skala terkecil</string>
     <string name="notify_noise">Berisik banget cuk!</string>
     <string name="happiness_energy">Listrik</string>
     <string name="happiness_gamemode">Mode game</string>
@@ -629,7 +629,7 @@
     <string name="shader_fancy2">X-Fancy</string>
     <string name="draft_sewerpipe00_title">Pipa limbah</string>
     <string name="draft_sewerpipe00_text">Mengurangi polusi air dengan membuang limbah ke alam. Menghasilkan pengaruh yang buruk.</string>
-    <string name="settings_lowresmapscreenshot">Rendahkan resolusi untuk screenshot peta.</string>
+    <string name="settings_lowresmapscreenshot">Turunkan resolusi untuk tangkapan layar peta.</string>
     <string name="draft_marina00_title">Marina</string>
     <string name="draft_marina00_text">Hiburan untuk horang kaya.</string>
     <string name="loadcity_version">Versi %1$,d</string>
@@ -663,7 +663,7 @@
     <string name="settings_rightsidebar">Bar sisi di kanan</string>
     <string name="settings_topstatusbar">Bar status di atas</string>
     <string name="settings_leftminimap">Peta mini di kiri</string>
-    <string name="settings_category_ui">Antarmuka pengguna</string>
+    <string name="settings_category_ui">Antarmuka Pengguna</string>
     <string name="influence_radioactive_title">Radioaktif</string>
     <string name="influence_radioactive_text">Berbahaya bagi manusia dan alam.</string>
     <string name="draft_rail00_title">Rel kereta</string>
@@ -697,7 +697,7 @@
     <string name="locale">en</string>
     <string name="draft_police02_title">Markas Besar Brimob</string>
     <string name="draft_police02_text">Markas Brimob ini akan menegakkan ketenteraman dan ketertiban di kotamu.</string>
-    <string name="settings_blur">Pudar</string>
+    <string name="settings_blur">Efek Pudar</string>
     <string name="happiness_supply">Pasokan</string>
     <string name="happiness_environment">Lingkungan</string>
     <string name="happiness_freetime">Waktu bebas</string>
@@ -756,7 +756,7 @@
     <string name="loadcity_version_premium">Versi %1$,d (Premium)</string>
     <string name="loadcity_preview">Kota contoh</string>
     <string name="settings_autorestoresamples">Kembalikan kota contoh</string>
-    <string name="settings_autountouchable">Setel jangan ganti bangunan sendiri</string>
+    <string name="settings_autountouchable">Setel jangan ganti bangunan tanpa izin</string>
     <string name="draft_alert_swat00_title">Panggil Brimob</string>
     <string name="draft_alert_swat00_text">Jika ada kerusuhan, hanya Brimob yang bisa menanganinya.</string>
     <string name="control_continue">Lanjutkan</string>
@@ -998,7 +998,7 @@
     <string name="draft_feature_mountain00_text">Gunung kecil ini merupakan atraksi turis di dataran ini.</string>
     <string name="dialog_connect_title">Hubungkan ke tetangga</string>
     <string name="dialog_connect_text">Apakah kamu ingin membangun hubungan ke luar?</string>
-    <string name="menu_hideui">Sembunyikan Antarmuka Pengguna</string>
+    <string name="menu_hideui">Sembunyikan UI</string>
     <string name="ci_neighbor_title">Komersial dalam kompleks</string>
     <string name="ci_neighbor_notavailable">Tidak tersedia saat ini</string>
     <string name="ci_neighbor_import">Impor</string>
@@ -1647,7 +1647,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="menu_facebook">Koneksi Facebook</string>
     <string name="facebook_privacy">Privasi</string>
 
-    <string name="settings_smoothcarmovement">Pergerakan mobil halus</string>
+    <string name="settings_smoothcarmovement">Pergerakan mobil mulus</string>
     <string name="draft_easteregg00_title">Telur Paskah</string>
     <string name="draft_easteregg00_text">Hanya sebutir telur paskah. Apa yang akan kamu lakukan dengannya?</string>
     <string name="draft_notify_easteregg_spawned00_text">Ada telur paskah di suatu tempat. Bisakah kamu menemukannnya?</string>
@@ -1923,8 +1923,8 @@ Kon: Kurang tantangan</string>
     <string name="store_status_acquired">Diperoleh</string>
     <string name="store_status_newlyinstalled">Baru dipasang</string>
     <string name="store_status_running">Sedang berjalan</string>
-    <string name="store_status_notrunning">Belum berjalan</string>
-    <string name="store_status_newversioninstalled">Telah memasang versi baru</string>
+    <string name="store_status_notrunning">Belum dijalankan</string>
+    <string name="store_status_newversioninstalled">Versi baru terpasang</string>
     <string name="store_status_availupdate">Pembaruan tersedia</string>
     <string name="store_status_restartrequired">Restart diperlukan</string>
     <string name="store_active">Aktif</string>
@@ -2075,7 +2075,7 @@ Kon: Kurang tantangan</string>
     <string name="draft_permanent_snow00_title">Salju</string>
     <string name="draft_permanent_snow00_text">Musim dingin selalu ada di sini.</string>
     <string name="settings_hidelabels">Sembunyikan label</string>
-    <string name="settings_sound_ambient">Ambient</string>
+    <string name="settings_sound_ambient">Lingkungan</string>
     <string name="settings_vsync">VSync</string>
 
     <string name="shop_invitefriends">Dapatkan %d berlian untuk tiap teman yang diundang</string>
@@ -2213,7 +2213,7 @@ Kon: Kurang tantangan</string>
     <string name="toolaction_terraindeeper">Dalamkan</string>
     <string name="toolaction_terrainhigher">Tinggikan</string>
 
-    <string name="settings_uisize">Ukuran Antarmuka Pengguna</string>
+    <string name="settings_uisize">Ukuran UI</string>
     <string name="settings_uisize_normal">Normal</string>
     <string name="settings_uisize_big">Besar</string>
     <string name="settings_uisize_bigger">Lebih Besar</string>
