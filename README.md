@@ -18,7 +18,7 @@ Every directory contains a `values.xml` file. The corresponding languages are:
 - values-ja: Japanese
 - values-ko: Korean
 - values-lt: Lithuanian
-- values-ms: Malay, Indonesian
+- values-ms: Malay
 - values-nl: Dutch
 - values-pl: Polish
 - values-pt: Portuguese
