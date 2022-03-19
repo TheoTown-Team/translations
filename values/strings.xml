@@ -10,14 +10,7 @@
     <string name="control_back">Back</string>
     <string name="createcity_start">Start</string>
     <string name="loadcity_load">Start</string>
-    <string name="welcome_agree">I agree</string>
-    <string name="welcome_content">Welcome to TheoTown
-
-\n\nThis app is currently in development. Be aware of that there might be still some small bugs. Please do not vote down this project for those little issues. Keep in mind that it\'s free.
-
-\n\nIf you like this app you might support us by telling your friends about it.
-
-\n\nHave fun :)</string>
+    
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitants: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -72,7 +65,7 @@
     <string name="draftselector_monthlyprice">Monthly price: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Delete</string>
-    <string name="loadcity_deletedialog_text">Do you really want to delete?</string>
+    <string name="loadcity_deletedialog_text">Do you really want to delete? This cannot be undone.</string>
     <string name="loadcity_deletedialog_title">Delete city</string>
     <string name="loadcity_deletedialog_cmdcancel">Cancel</string>
     <string name="loadcity_deletedialog_cmddelete">Delete</string>
@@ -365,11 +358,11 @@
     <string name="draft_radio00_text">Your habitants will like the radio program.</string>
     <string name="draftselector_cmdalert">Go!</string>
     <string name="draft_alert_police00_title">Call police</string>
-    <string name="draft_alert_police00_text">Call the police to stop criminals.</string>
+    <string name="draft_alert_police00_text">Call the police to stop criminals and protests.</string>
     <string name="draft_alert_fire00_title">Call fire brigade</string>
     <string name="draft_alert_fire00_text">Call the fire brigade if something is burning.</string>
-    <string name="draft_alert_medic00_title">Call the Doctor</string>
-    <string name="draft_alert_medic00_text">When an accident happens you have to call the Doctor.</string>
+    <string name="draft_alert_medic00_title">Call the ambulance</string>
+    <string name="draft_alert_medic00_text">When an accident happens you have to call the ambulance.</string>
     <string name="buildinginfo_powerusage">Usage: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Usage: %1$.1f%%</string>
     <string name="settings_maxzoomout">Max zoom out</string>
@@ -764,7 +757,7 @@
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
     <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
-    <string name="notify_demonstration">There\'s a demonstration in our town because of %1s! Do something or something bad will happen!</string>
+    <string name="notify_demonstration">There\'s a demonstration in our town because of %1s! Call the police or inprove happiness, or something bad will happen!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
     <string name="draft_marker_watermarker_title">Water</string>
     <string name="draft_road04_title">Avenue</string>
@@ -824,7 +817,7 @@
     <string name="draft_firedepartment02_heli00_title">Helipad</string>
     <string name="draft_firedepartment02_heli00_text">Helicopters may land and start here.\n\nIncreases the range of the fire department.</string>
     <string name="settings_reset_title">Reset settings</string>
-    <string name="settings_reset_text">All settings will be lost. Are you sure?</string>
+    <string name="settings_reset_text">Are you sure you want to reset all settings to their default values?\n\nThis cannot be undone.</string>
     <string name="settings_leftsidetraffic">Left-hand traffic</string>
     <string name="draft_feature_noads00_title">Remove ads</string>
     <string name="draft_feature_noads00_text">Removes the ads at the bottom of the screen.</string>
@@ -940,9 +933,9 @@
     <string name="menu_save">Save</string>
     <string name="menu_title">Menu</string>
     <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$,d maps at once.</string>
-    <string name="dialog_unlocktime_title">Shorten time</string>
-    <string name="dialog_unlocktime_text">It\'s a lot of work to unlock a map. May you want us to support us? This can reduce unlocking time by 30 minutes.</string>
-    <string name="region_speedup">Speed up</string>
+    <string name="dialog_unlocktime_title">Skip waiting time</string>
+    <string name="dialog_unlocktime_text">Do you want to skip waiting time and unlock a map now?</string>
+    <string name="region_speedup">Skip</string>
     <string name="region_waitingtime">We are currently unlocking this map for you.</string>
     <string name="settings_autoload">Auto load last city</string>
     <string name="dialog_renameregion_title">Rename region</string>
@@ -959,8 +952,8 @@
     <string name="dialog_wb_title">Welcome back</string>
     <string name="dialog_wb_text">%1$s earned %2$s while you were absent.</string>
     <string name="notify_fullschool">This school is full. Build more of them, please.</string>
-    <string name="dialog_notenoughmoney_title">Not enough money</string>
-    <string name="dialog_notenoughmoney_text">We have not enough money to buy this.\n\nDo you want to get the missing %1$s immediately?</string>
+    <string name="dialog_notenoughmoney_title">Insufficient funds</string>
+    <string name="dialog_notenoughmoney_text">We have not enough money to buy this right now.\n\nDo you want to get the missing %1$s immediately?</string>
     <string name="notify_fullhospital">There\'s not enough space in this hospital. We have to build another one.</string>
     <string name="dialog_rate_title">Like it?</string>
     <string name="dialog_rate_text">Hey, if you really enjoy our game please rate it. That would help us a lot!</string>
@@ -1283,7 +1276,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="dialog_redeemsuccess_title">Success</string>
     <string name="dialog_redeemsuccess_text">Congratulations, you just got %1$s diamonds :)</string>
     <string name="dialog_redeemfailure_title">Failure</string>
-    <string name="dialog_redeemfialire_text">The entered redeem code could not be redeemed. Please check for typing errors.</string>
+    <string name="dialog_redeemfialire_text">The entered redeem code is either invalid or was already used. Please check for typing errors.</string>
     <string name="shop_redeemcode">Redeem code</string>
     <string name="draft_ap_tower00_title">Tower</string>
     <string name="draft_ap_tower00_text">An airport needs at least one tower to work properly.</string>
@@ -1512,6 +1505,8 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_draft_hpk_text">Hapiness about parks.</string>
     <string name="draft_draft_hsp_title">Sport happiness</string>
     <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste disposal.</string>
     <string name="draft_draft_hgen_title">General happiness</string>
     <string name="draft_draft_hgen_text">General happiness.</string>
     <string name="influence_passenger_bus_title">Bus transport</string>
@@ -1535,7 +1530,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="influence_nature_title">Nature</string>
     <string name="influence_nature_text">Parks and especially forests have a great nature influence.</string>
     <string name="influence_waste_disposal_title">Waste disposal</string>
-    <string name="influence_waste_disposal_text">Waste should be removed in order to make your inhabitants happy..</string>
+    <string name="influence_waste_disposal_text">Waste should be removed in order to make your inhabitants happy.</string>
     <string name="draft_bus_road00_title">Bus road</string>
     <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
     <string name="draft_bus_oneway_road00_title">One-way bus road</string>
@@ -1616,20 +1611,18 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="gallery">Gallery</string>
     <string name="gallery_upload">Upload screenshot</string>
     <string name="dialog_galleryupload_title">Uploading</string>
-    <string name="dialog_galleryupload_text">I\'m uploading your image :)</string>
+    <string name="dialog_galleryupload_text">Your image is being uploaded...</string>
     <string name="gallery_recent">Recent</string>
     <string name="gallery_trends">Trends</string>
     <string name="gallery_own">Own</string>
     <string name="dialog_gallerydelete_title">Delete Screenshot</string>
     <string name="dialog_gallerydelete_text">Are you sure that you want to delete this screenshot? This cannot be undone!</string>
     <string name="dialog_gallerydelete_cmd">Delete</string>
-    <string name="dialog_gallerypolicy_title">First things first</string>
-    <string name="dialog_gallerypolicy_text">Hi, I\'m glad that you\'d like to contribute to our gallery. However, before we can start you have to agree to our policy to allow us to upload screenshots for you.
-
-\n\nOnly tap on agree if you agree to our policy for screenshot uploading.</string>
+    <string name="dialog_gallerypolicy_title">Upload screenshot?</string>
+    <string name="dialog_gallerypolicy_text">Do you want to upload your screenshot to our gallery?\n\nBy pressing \"Upload now\", you agree that you accept our policy.</string>
     <string name="dialog_gallerypolicy_cmdpolicy">Open policy</string>
-    <string name="dialog_gallerypolicy_cmdok">I agree</string>
-    <string name="dialog_gallerypolicy_cmdcancel">I disagree</string>
+    <string name="dialog_gallerypolicy_cmdok">Upload now</string>
+    <string name="dialog_gallerypolicy_cmdcancel">Cancel</string>
     <string name="settings_pushnotifications">Push notifications</string>
     <string name="draft_leaningtowerofpisa00_title">Leaning Tower of Pisa</string>
     <string name="draft_leaningtowerofpisa00_text">The Leaning Tower of Pisa is a bell tower located in the Italian City of Pisa that was completed in 1372 and its height amounts to 56 meters.</string>
@@ -1889,8 +1882,8 @@ Cons: Less challenges</string>
     <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable and slow)</string>
     <string name="draft_haunted_house00_title">Haunted house</string>
     <string name="draft_haunted_house00_text">An old mansion that looks dangerous. IT might live here.</string>
-    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the doctor!</string>
-    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor. Get one NOW!</string>
+    <string name="notify_illness">There\'s an epidemic outbreak, we have to take action immediately. Send the ambulance!</string>
+    <string name="notify_illnessnomedic">There\'s an epidemic outbreak and we have no doctor, clinic, or hospital. Get one NOW!</string>
 
     <string name="shader_lol">LOL</string>
     <string name="settings_hugeplugintexture">Congratulations, you\'re running in huge texture mode.</string>
@@ -1937,7 +1930,7 @@ Cons: Less challenges</string>
     <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
     <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
     <string name="dialog_storedelete_title">Uninstall</string>
-    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin? \n\nAlthough this operation is irreversible, you can download it again before the application data disappears (such as the loss of account data due to changing the phone)</string>
+    <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin? This cannot be undone.</string>
     <string name="dialog_storedelete_cmddelete">Uninstall</string>
     <string name="store_modefeatured">Featured</string>
     <string name="store_modecategory">Category</string>
