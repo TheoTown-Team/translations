@@ -32,7 +32,7 @@
     <string name="dialog_nocities_text">May not find any cities.</string>
     <string name="dialog_nocities_cmdback">Cancel</string>
     <string name="dialog_nocities_cmdnewcity">New City</string>
-    <string name="settings_showads">Show Ads</string>
+    <!--<string name="settings_showads">Show Ads</string>-->
     <string name="settings_drawcars">Draw cars</string>
     <string name="settings_drawsmoke">Draw smoke</string>
     <string name="settings_transparencybuildmode">Transparency in build mode</string>
@@ -40,12 +40,12 @@
     <string name="settings_doublecardrawing">Double car drawing</string>
     <string name="settings_drawwatersparkle">Draw water sparkle</string>
     <string name="settings_drawmapedges">Draw map edges</string>
-    <string name="settings_hideads_title">Hide ads</string>
+    <!--<string name="settings_hideads_title">Hide ads</string>
     <string name="settings_hideads_text">If you really want to hide ads then it would be nice to support us by telling your friends about the app.
 
 \n\nAre you sure?</string>
     <string name="settings_hideads_yes">Yes, I\'m really sure</string>
-    <string name="settings_hideads_no">Cancel</string>
+    <string name="settings_hideads_no">Cancel</string>-->
     <string name="loadcity_errordialog_title">Loading failed</string>
     <string name="loadcity_errordialog_text">May not load the city, the file seems to be damaged.\n\nSorry.</string>
     <string name="loadcity_errordialog_cmdcancel">Cancel</string>
@@ -77,7 +77,7 @@
     <string name="savewaiting_title">Saving city</string>
     <string name="loadwaiting_title">Loading city</string>
     <string name="dialog_invalidcityname_title">Invalid name</string>
-    <string name="dialog_invalidcityname_text">Please use another name for your city. It\'s not allowed to be empty.</string>
+    <string name="dialog_invalidcityname_text">Cannot use a empty name for your city.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Huge map</string>
     <string name="dialog_hugesize_text">This size is just experimental and may not work on your device. Do you really need a huge map?</string>
@@ -88,13 +88,13 @@
     <string name="draft_townhall00_title">City Hall</string>
     <string name="draft_townhall00_text">A big city needs a City Hall. Habitants will like it.</string>
     <string name="draft_wire00_title">Wires</string>
-    <string name="draft_wire00_text">Use these wires to connect your city with your power plants.</string>
+    <string name="draft_wire00_text">Wires are used to transport energy from your power plants to your city .</string>
     <string name="draft_windturbine00_title">Wind turbine</string>
-    <string name="draft_windturbine00_text">A wind turbine makes noise but no pollution.</string>
+    <string name="draft_windturbine00_text">A wind turbine generates electricity from the wind. It does not pollute the environment, but it makes noise.</string>
     <string name="draft_coalplant00_title">Coal plant</string>
-    <string name="draft_coalplant00_text">The coal plant generates a lot of power, but also is bad for environment.</string>
+    <string name="draft_coalplant00_text">The coal plant generates electricity by burning coal. It pollutes the environment and people don't want to live near it.</string>
     <string name="draft_solarpanels00_title">Solar panels</string>
-    <string name="draft_solarpanels00_text">Solar panels are good for the environment and they do not pollute the environment.</string>
+    <string name="draft_solarpanels00_text">Solar panels generates electricity from the sun's energy it receives. It neither pollutes the environment nor makes noise.</string>
     <string name="draft_park00_title">Little flower park</string>
     <string name="draft_park00_text">Habitants will like it.</string>
     <string name="draft_park01_title">Small park</string>
@@ -120,12 +120,12 @@
     <string name="draft_pipe00_title">Pipe</string>
     <string name="draft_pipe00_text">Pipes can be used to bring water to your buildings.</string>
     <string name="draft_waterpump00_title">Water pump</string>
-    <string name="draft_waterpump00_text">Provides water for your buildings.</string>
+    <string name="draft_waterpump00_text">Pumps water from the underground to your buildings</string>
     <string name="draft_watertower00_title">Water tower</string>
     <string name="draft_watertower00_text">Provides some water for buildings.</string>
     <string name="settings_areazonetool">Use area zone tool</string>
     <string name="createcity_gamemode">Gamemode:</string>
-        <string name="gamemode_easy">Easy</string>
+    <string name="gamemode_easy">Easy</string>
     <string name="gamemode_middle">Middle</string>
     <string name="gamemode_hard">Hard</string>
     <string name="game_infinitemoney">Free game</string>
@@ -184,7 +184,7 @@
     <string name="ci_budget_taxes">Taxes</string>
     <string name="money">%1$,d₮</string>
     <string name="ci_water_title">Water</string>
-    <string name="ci_energy_title">Energy</string>
+    <string name="ci_energy_title">Energy</string>.
     <string name="ci_info_title">City overview</string>
     <string name="ci_water_text">NOT IN USE</string>
     <string name="ci_energy_text">NOT IN USE</string>
@@ -313,7 +313,7 @@
     <string name="draftselector_upgrades">%1$,d upgrade(s) available</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Upgrade(s)</string>
     <string name="buildinginfo_construction">Under construction: %1$.0f%% (%2$,d day(s) remaining)</string>
-    <string name="draft_footballstadion00_title">Stadium</string>
+    <string name="draft_footballstadion00_title">Football stadium</string>
     <string name="draft_footballstadion00_text">A football stadium.</string>
     <string name="buildinginfo_cmdupgrade">Upgrade</string>
     <string name="draft_footballstadion00_lights_title">Lights</string>
@@ -322,7 +322,7 @@
     <string name="buildinginfo_upgradenotavail">Not available</string>
     <string name="buildinginfo_upgrade">Upgrade(s)</string>
     <string name="draft_pool00_title">Pool</string>
-    <string name="draft_pool00_text">Let\´s go to the new open air bath.</string>
+    <string name="draft_pool00_text">Let\'s go to the new open air bath.</string>
     <string name="draft_pool00_waterslide_title">Water slide</string>
     <string name="draft_pool00_waterslide_text">Water slide and sunshades.</string>
     <string name="blank_text">Here could be your advertising</string>
@@ -361,8 +361,8 @@
     <string name="draft_alert_police00_text">Call the police to stop criminals and protests.</string>
     <string name="draft_alert_fire00_title">Call fire brigade</string>
     <string name="draft_alert_fire00_text">Call the fire brigade if something is burning.</string>
-    <string name="draft_alert_medic00_title">Call the ambulance</string>
-    <string name="draft_alert_medic00_text">When an accident happens you have to call the ambulance.</string>
+    <string name="draft_alert_medic00_title">Call ambulance</string>
+    <string name="draft_alert_medic00_text">When an accident or epidemic outbreak happens you have to call the ambulance.</string>
     <string name="buildinginfo_powerusage">Usage: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Usage: %1$.1f%%</string>
     <string name="settings_maxzoomout">Max zoom out</string>
@@ -383,13 +383,14 @@
     <string name="buildinginfo_happiness_comp">Lowest happiness: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">Religion</string>
     <string name="draft_church01_title">Church</string>
-    <string name="draft_church01_text">A church.</string>
+    <string name="draft_church01_text">Provides religion and faith for inhabitants of your city.</string>
     <string name="draft_mosque00_title">Mosque</string>
-    <string name="draft_mosque00_text">A mosque.</string>
+    <string name="draft_mosque00_text">Provides religion and faith for inhabitants of your city.</string>
     <string name="settings_carsimulation">Car simulation</string>
     <string name="settings_weather">Weather</string>
+    <string name="topic_valentines">Happy Valentine\'s Day!</string>
     <string name="topic_christmas">Happy Christmas!</string>
-    <string name="topic_newyear">Happy new year</string>
+    <string name="topic_newyear">Happy new year %d</string> <!--%d should be 2022, 2023, etc.-->
     <string name="topic_birthday_lobby">Happy birthday Lobby :)</string>
     <string name="topic_birthday_theo">Happy birthday theo :)</string>
     <string name="topic_np">P=NP?</string>
@@ -525,9 +526,9 @@
     <string name="draftselector_onlyone">Can only be built one time</string>
     <string name="draftselector_onlyn">Can only be built %1$,d times</string>
     <string name="draft_church02_title">Small Church</string>
-    <string name="draft_church02_text">A church for small towns.</string>
+    <string name="draft_church02_text">Provides religion and faith for your inhabitants.</string>
     <string name="draft_mosque01_title">Small Mosque</string>
-    <string name="draft_mosque01_text">A mosque for small towns.</string>
+    <string name="draft_mosque01_text">Provides religion and faith for your inhabitants.</string>
     <string name="settings_sound_ui">UI sound</string>
     <string name="settings_sound_game">Ingame sound</string>
     <string name="settings_preserveedges">Preserve edges</string>
@@ -609,7 +610,7 @@
     <string name="topic_birthday_theotown">Happy birthday TheoTown :D</string>
     <string name="menu_cmddonate">Donate</string>
     <string name="draft_waterpump01_title">Small water pump</string>
-    <string name="draft_waterpump01_text">Has to be built near water.</string>
+    <string name="draft_waterpump01_text">Has to be built near water. Pumps water from the river to your buildings.</string>
     <string name="draft_filterplant00_title">Filter plant</string>
     <string name="draft_filterplant00_text">Cleans sewage for reuse.</string>
     <string name="topic_fun">Have fun! :)</string>
@@ -642,9 +643,9 @@
     <string name="draft_buoy00_title">Buoy</string>
     <string name="draft_buoy00_text">Helps ships to find the way.</string>
     <string name="ci_general_seed">Seed: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Some decorations for your residents.</string>
+    <string name="draft_decocom00_text">Some decorations for your commercial area.</string>
+    <string name="draft_decoind00_text">Some decorations for your industrial area.</string>
     <string name="ci_budget_title_nomoney">Financials (theoretical)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Nuclear power plant</string>
@@ -652,7 +653,7 @@
     <string name="draft_gasplant00_title">Gas plant</string>
     <string name="draft_gasplant00_text">Cheaper than other power plants. Little pollution.</string>
     <string name="draft_carcinema00_title">Drive-in cinema</string>
-    <string name="draft_carcinema00_text">Some entertaintment for the habitants of TheoTown.</string>
+    <string name="draft_carcinema00_text">Some entertaintment for your habitants.</string>
     <string name="notify_lowbudget">There\'s no money left. You may take some loans.</string>
     <string name="settings_rightsidebar">Sidebar on right side</string>
     <string name="settings_topstatusbar">Statusbar on top</string>
@@ -755,9 +756,9 @@
     <string name="draft_alert_swat00_text">If there\'s a riot only SWAT teams can hande it.</string>
     <string name="control_continue">Continue</string>
     <string name="settings_winter">Winter</string>
-    <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
-    <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
-    <string name="notify_demonstration">There\'s a demonstration in our town because of %1s! Call the police or inprove happiness, or something bad will happen!</string>
+    <string name="notify_riot_reason">There\'s a riot because of %1$s! Call SWAT teams to stop them, and improve happiness!</string>
+    <string name="notify_riot_noreason">There\'s a riot for no reason! Call SWAT teams to stop them!</string>
+    <string name="notify_demonstration">There\'s a protest in your city because of %1s! Call the police or inprove happiness, or a riot will happen!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
     <string name="draft_marker_watermarker_title">Water</string>
     <string name="draft_road04_title">Avenue</string>
@@ -924,8 +925,8 @@
     <string name="task_firstcity_text">Welcome to your first town.\n\nTry to get 300 inhabitants.</string>
     <string name="task_reachrank_title">New rank</string>
     <string name="task_reachrank_text">Congratulations your city reached a new rank.\n\nEach rank unlocks some buildings and you get a reward.</string>
-    <string name="welcome_sorry_title">News</string>
-    <string name="welcome_sorry_text">Dear player,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>
+    <!--<string name="welcome_sorry_title">News</string>
+    <string name="welcome_sorry_text">Dear player,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>-->
     <string name="menu_achievements">Achievements</string>
     <string name="menu_leaderboards">Leaderboards</string>
     <string name="menu_screenshot">Take picture</string>
@@ -933,10 +934,10 @@
     <string name="menu_save">Save</string>
     <string name="menu_title">Menu</string>
     <string name="region_maxconcurrentunlocks">Cannot unlock more than %1$,d maps at once.</string>
-    <string name="dialog_unlocktime_title">Skip waiting time</string>
-    <string name="dialog_unlocktime_text">Do you want to skip waiting time and unlock a map now?</string>
-    <string name="region_speedup">Skip</string>
-    <string name="region_waitingtime">We are currently unlocking this map for you.</string>
+    <string name="dialog_unlocktime_title">Unlock immediately</string>
+    <string name="dialog_unlocktime_text">Do you want to unlock this map immediately?</string>
+    <string name="region_speedup">Unlock now</string>
+    <string name="region_waitingtime">Wait until this map has been unlocked.</string>
     <string name="settings_autoload">Auto load last city</string>
     <string name="dialog_renameregion_title">Rename region</string>
     <string name="dialog_renameregion_text">Enter here a new name for the region:</string>
@@ -945,13 +946,13 @@
     <string name="draft_townhall02_text">A big city hall for a big city. It\'s a thank you for 1 M downloads.</string>
     <string name="notify_pollutedwaterpump">This water pump stands in polluted area. We better place it somewhere else in order to keep water clean.</string>
     <string name="notify_destroyedtiles">We better dispose of this rubbish before someone notices it.</string>
-    <string name="notify_loweducationneeded">I think it\'s time to give our children some education. Build an elementary school.</string>
+    <string name="notify_loweducationneeded">Let\'s give our children some education. Build an elementary school.</string>
     <string name="notify_higheducationneeded">Let\'s get some genius by building a high school.</string>
     <string name="dialog_ffwd1_text">Allows you to use faster game speed for %1$s.</string>
     <string name="notify_badtraffic">There\'s too much traffic on this road. I recommend to build more or better roads.</string>
     <string name="dialog_wb_title">Welcome back</string>
     <string name="dialog_wb_text">%1$s earned %2$s while you were absent.</string>
-    <string name="notify_fullschool">This school is full. Build more of them, please.</string>
+    <string name="notify_fullschool">This school is full. Tap on it and improve performance, or build more of them.</string>
     <string name="dialog_notenoughmoney_title">Insufficient funds</string>
     <string name="dialog_notenoughmoney_text">We have not enough money to buy this right now.\n\nDo you want to get the missing %1$s immediately?</string>
     <string name="notify_fullhospital">There\'s not enough space in this hospital. We have to build another one.</string>
@@ -1289,8 +1290,8 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="settings_usezoneradius">Use zone radius</string>
     <string name="draft_airplane01_title">T380</string>
     <string name="draft_airplane01_text">A double-deck, long range airplane from TheoAir. It has a lot of space.</string>
-    <string name="dialog_waitingtime_title">Reduce waiting time</string>
-    <string name="dialog_waitingtime_text">Would you like to shorten this waiting time a bit?\n%1$s left.</string>
+    <string name="dialog_waitingtime_title">Unlock immediately</string>
+    <string name="dialog_waitingtime_text">Do you want to unlock this lane immediately?\n%1$s left.</string>
 
     <string name="topic_rate">Please help us and rate TheoTown</string>
     <string name="ci_airport_lane_unassign">Discard</string>
@@ -1305,7 +1306,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="toast_seed_copy">Copied seed into clipboard</string>
     <string name="toast_recordingid_copy">Copied recording ID into clipboard</string>
     <string name="draft_ap_road00_title">Transport road</string>
-    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways.</string>
+    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways. Airport taxies use this road to transport passengers between gates and planes.</string>
     <string name="requirement_upgrade">Needs upgrade %1$s</string>
     <string name="requirement_upgrade_invert">Cannot be combined with %1$s</string>
     <string name="draft_deco_chr_present00_title">Present</string>
@@ -1385,9 +1386,9 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_destroyedtileradioactive00_title">Scrap</string>
     <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You better remove it.</string>
     <string name="settings_disaster_ufo">UFO</string>
-    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
+    <!--<string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
     <string name="dialog_externalstorage_cancel">Cancel</string>
-    <string name="dialog_externalstorage_retry">Retry</string>
+    <string name="dialog_externalstorage_retry">Retry</string>-->
     <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
     <string name="notify_disaster_flooding">City under water!</string>
     <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
@@ -2053,7 +2054,7 @@ Cons: Less challenges</string>
     <string name="music_next">Next music</string>
     <string name="createcity_generating">Generating City</string>
     <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
-    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(\n\nMissing amount is %1$s</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(. You may need to take some loan.\n\nMissing amount is %1$s</string>
     <string name="game_region">Region %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
     <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
@@ -2127,6 +2128,7 @@ Cons: Less challenges</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">No images uploaded, yet.</string>
+    <string name="stage_gallery_loadingimages">Loading images from the server...</string>
     <string name="stage_region_online">Online regions</string>
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
@@ -2141,7 +2143,7 @@ Cons: Less challenges</string>
     <string name="statistics_waterneed">Needed Water</string>
     <string name="ci_show_statistics">Show statistics</string>
     <string name="dialog_commentdelete_title">Delete Comment</string>
-    <string name="dialog_commentdelete_text">Hey, are you sure that you want to delete that comment by %1$s?</string>
+    <string name="dialog_commentdelete_text">Are you sure that you want to delete that comment by %1$s? This cannot be undone.</string>
     <string name="dialog_commentdelete_cmd">Delete</string>
     <string name="stage_comment_login">Login with TheoTown account to comment</string>
     <string name="dialog_report_title">Report</string>
@@ -2157,12 +2159,17 @@ Cons: Less challenges</string>
     <string name="report_sexual">Sexual content</string>
     <string name="report_violent_or_repulsive">Violent or repulsive content</string>
     <string name="report_hateful_or_abusive">Hateful or abusive content</string>
+    <string name="report_illegal_or_pirated">Illegal or pirated content</string>
+    <string name="report_political">Political content</string>
     <string name="report_dangerous">Dangerous content</string>
     <string name="report_promotes_terrorism">Promotes terrorism</string>
+    <string name="report_hate_speech">Hate speech</string>
     <string name="report_spam_or_misleading">Spam or misleading</string>
+    <string name="report_scam_or_fraud">Scam or fraud</string>
     <string name="report_infringes_my_rights">Infringes my rights</string>
     <string name="report_bad_behavior">Bad behavior</string>
     <string name="report_violates_store_rules">Violates other store rules</string>
+    <string name="report_violates_online_mode_rules">Violates other online mode rules</string>
     <string name="stage_comment_cmdsend">Send</string>
     <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
     <string name="dialog_storerestart_cmdlater">Later</string>
@@ -2261,7 +2268,7 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="dialog_uploadregionaccount_title">Account needed</string>
     <string name="dialog_uploadregionaccount_text">In order to upload a region you have to connect TheoTown with a TheoTown account.</string>
     <string name="dialog_uploadregion_title">Upload region</string>
-    <string name="dialog_uploadregion_text">This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If no password is set other players can join there then, too.</string>
+    <string name="dialog_uploadregion_text">This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If no password is set other players can join there then, too.\n\nBy doing this, you agree that your region follows the rules which you can read here: https://forum.theotown.com/viewtopic.php?p=160325#p160325</string>
     <string name="dialog_uploadregion_cmdpassword">Password ...</string>
     <string name="dialog_uploadregion_cmdupload">Upload</string>
     <string name="stage_uploadregion_uploading">Uploading region</string>
@@ -2276,7 +2283,7 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="dialog_uploadregionconfirm_title">Upload now?</string>
     <string name="dialog_uploadregionconfirm_text">Ensure that you have a stable internet connection before starting the process.</string>
     <string name="dialog_uploadregionunsuited_title">Upload region</string>
-    <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that are not part of the game nor have any cities in them (yet).</string>
+    <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that have cities in them (yet).</string>
     <string name="dialog_acquirecityaccount_title">Account needed</string>
     <string name="dialog_acquirecityaccount_text">In order to acquire a plot in a online region you have to connect TheoTown with a TheoTown account.</string>
     <string name="region_onlinecity_free">This plot is free so you can acquire it.</string>
@@ -2284,6 +2291,8 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
     <string name="dialog_savingissue_title">Saving failed</string>
     <string name="dialog_savingissue_text">Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.</string>
+    <string name="dialog_savingissue_cmdcancel">Cancel</string>
+    <string name="dialog_savingissue_cmdretry">Retry</string>
     <string name="dialog_onlineinfo_title">Online mode</string>
     <string name="dialog_onlineinfo_text">Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
     <string name="dialog_outdated_title">Outdated version</string>
@@ -2566,21 +2575,20 @@ Press a key to assign it to this action.</string>
     <string name="store_rating_positive">POSITIVE</string>
     <string name="store_rating_verypositive">VERY POSITIVE</string>
     <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste disposal.</string>
+    <string name="draft_draft_wst_text">Happiness about waste disposal and collection.</string>
 
     <string name="ci_rating_help"></string>
     <string name="ci_rank_help"></string>
-    <string name="ci_neighbor_help"></string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
     <string name="ci_loan_help"></string>
     <string name="ci_health_help"></string>
     <string name="ci_energy_help"></string>
     <string name="ci_info_help"></string>
     <string name="ci_education_help"></string>
     <string name="ci_airport_help"></string>
-    <string name="ci_budget_help"></string>
-    <string name="ci_budget_help_nomoney"></string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_water_help"></string>
     <string name="ci_statistics_help"></string>
 
 </resources>
-
