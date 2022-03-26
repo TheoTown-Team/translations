@@ -1517,7 +1517,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="influence_commercial_title">Commercial area</string>
     <string name="influence_commercial_text">Commercials are often grouped together to attract customers.</string>
     <string name="influence_industrial_title">Industrial area</string>
-    <string name="influence_industrial_text">People don\'t want to live nearby.</string>
+    <string name="influence_industrial_text">Industries produce and manufacture products, goods, materials, and resources to be sold at commercial buildings. People don\'t want to live nearby.</string>
     <string name="influence_level_low_title">Low level</string>
     <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
     <string name="influence_level_middle_title">Medium level</string>
@@ -1534,6 +1534,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
     <string name="draft_bus_oneway_road00_title">One-way bus road</string>
     <string name="draft_bus_oneway_road00_text">A one-way road only buses can drive on.</string>
+    
     <string name="task_build_res">Build %s residential zones.</string>
     <string name="task_build_com">Build %s commercial zones.</string>
     <string name="task_build_ind">Build %s industrial zones.</string>
@@ -1777,7 +1778,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
 
     <string name="selectable_find">Find (%,d)</string>
     <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
+    <string name="gallery_upload_fail">Upload failed, due to an technical issue on our servers, or your internet connection is unstable or unavailable.</string>
     <string name="draft_medic02_title">Small hospital</string>
     <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
     <string name="lang_pirate">Pirate</string>
@@ -2475,7 +2476,7 @@ Press a key to assign it to this action.</string>
     <string name="treeplanter_density">Density:</string>
     <string name="treeplanter_roughness">Roughness:</string>
     <string name="treeplanter_brushsize">Brush size:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
+    <string name="treeplanter_outofcash">Insufficient funds</string>
     <string name="control_about">About</string>
 
     <string name="about_framework">Framework</string>
@@ -2586,7 +2587,8 @@ Press a key to assign it to this action.</string>
     <string name="ci_info_help"></string>
     <string name="ci_education_help"></string>
     <string name="ci_airport_help"></string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.\n\nYou can also exchange your diamonds to get instant momey.</string>
+    <string name="ci_budget_help_premium">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_water_help"></string>
     <string name="ci_statistics_help"></string>
