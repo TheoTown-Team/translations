@@ -90,7 +90,7 @@
     <string name="draft_wire00_title">Wires</string>
     <string name="draft_wire00_text">Wires are used to transport energy from your power plants to your city .</string>
     <string name="draft_windturbine00_title">Wind turbine</string>
-    <string name="draft_windturbine00_text">A wind turbine generates electricity from the wind. It does not pollute the environment, but it makes noise.</string>
+    <string name="draft_windturbine00_text">A wind turbine generates electricity from the wind. It does not pollute the environment, but it creates noise.</string>
     <string name="draft_coalplant00_title">Coal plant</string>
     <string name="draft_coalplant00_text">The coal plant generates electricity by burning coal. It pollutes the environment and people don't want to live near it.</string>
     <string name="draft_solarpanels00_title">Solar panels</string>
@@ -120,7 +120,7 @@
     <string name="draft_pipe00_title">Pipe</string>
     <string name="draft_pipe00_text">Pipes can be used to bring water to your buildings.</string>
     <string name="draft_waterpump00_title">Water pump</string>
-    <string name="draft_waterpump00_text">Pumps water from the underground to your buildings</string>
+    <string name="draft_waterpump00_text">Provides water for your buildings</string>
     <string name="draft_watertower00_title">Water tower</string>
     <string name="draft_watertower00_text">Provides some water for buildings.</string>
     <string name="settings_areazonetool">Use area zone tool</string>
@@ -129,9 +129,9 @@
     <string name="gamemode_middle">Middle</string>
     <string name="gamemode_hard">Hard</string>
     <string name="game_infinitemoney">Free game</string>
-    <string name="about_title">Credits</string>
+    <!--<string name="about_title">Credits</string>
     <string name="about_cmdback">Back</string>
-    <string name="about_text">TheoTown App for Android is a product of</string>
+    <string name="about_text">TheoTown App for Android is a product of</string>-->
     <string name="settings_music">Music</string>
     <string name="draftselector_titleaward">Awards</string>
     <string name="shader_default">Classic</string>
@@ -383,14 +383,14 @@
     <string name="buildinginfo_happiness_comp">Lowest happiness: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">Religion</string>
     <string name="draft_church01_title">Church</string>
-    <string name="draft_church01_text">Provides religion and faith for inhabitants of your city.</string>
+    <string name="draft_church01_text">Provides faith and religion for the inhabitants of your city.</string>
     <string name="draft_mosque00_title">Mosque</string>
-    <string name="draft_mosque00_text">Provides religion and faith for inhabitants of your city.</string>
+    <string name="draft_mosque00_text">Provides faith and religion for the inhabitants of your city.</string>
     <string name="settings_carsimulation">Car simulation</string>
     <string name="settings_weather">Weather</string>
-    <string name="topic_valentines">Happy Valentine\'s Day!</string>
+    <!--<string name="topic_valentines">Happy Valentine\'s Day!</string>-->
     <string name="topic_christmas">Happy Christmas!</string>
-    <string name="topic_newyear">Happy new year %d</string> <!--%d should be 2022, 2023, etc.-->
+    <string name="topic_newyear">Happy new year</string>
     <string name="topic_birthday_lobby">Happy birthday Lobby :)</string>
     <string name="topic_birthday_theo">Happy birthday theo :)</string>
     <string name="topic_np">P=NP?</string>
@@ -2055,7 +2055,7 @@ Cons: Less challenges</string>
     <string name="music_next">Next music</string>
     <string name="createcity_generating">Generating City</string>
     <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
-    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(. You may need to take some loan.\n\nMissing amount is %1$s</string>
+    <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(\n\nMissing amount is %1$s</string>
     <string name="game_region">Region %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
     <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
@@ -2292,8 +2292,8 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
     <string name="dialog_savingissue_title">Saving failed</string>
     <string name="dialog_savingissue_text">Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.</string>
-    <string name="dialog_savingissue_cmdcancel">Cancel</string>
-    <string name="dialog_savingissue_cmdretry">Retry</string>
+    <!--<string name="dialog_savingissue_cmdcancel">Cancel</string>
+    <string name="dialog_savingissue_cmdretry">Retry</string>-->
     <string name="dialog_onlineinfo_title">Online mode</string>
     <string name="dialog_onlineinfo_text">Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
     <string name="dialog_outdated_title">Outdated version</string>
@@ -2576,7 +2576,7 @@ Press a key to assign it to this action.</string>
     <string name="store_rating_positive">POSITIVE</string>
     <string name="store_rating_verypositive">VERY POSITIVE</string>
     <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste disposal and collection.</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
 
     <string name="ci_rating_help"></string>
     <string name="ci_rank_help"></string>
@@ -2587,8 +2587,9 @@ Press a key to assign it to this action.</string>
     <string name="ci_info_help"></string>
     <string name="ci_education_help"></string>
     <string name="ci_airport_help"></string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.\n\nYou can also exchange your diamonds to get instant momey.</string>
-    <string name="ci_budget_help_premium">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <!--<string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.\n\nYou can also exchange your diamonds to get instant momey.</string>-->
+    <!--<string name="ci_budget_help_premium">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>-->
     <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_water_help"></string>
     <string name="ci_statistics_help"></string>
