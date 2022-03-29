@@ -32,7 +32,6 @@
     <string name="dialog_nocities_text">May not find any cities.</string>
     <string name="dialog_nocities_cmdback">Cancel</string>
     <string name="dialog_nocities_cmdnewcity">New City</string>
-    <!--<string name="settings_showads">Show Ads</string>-->
     <string name="settings_drawcars">Draw cars</string>
     <string name="settings_drawsmoke">Draw smoke</string>
     <string name="settings_transparencybuildmode">Transparency in build mode</string>
@@ -40,12 +39,6 @@
     <string name="settings_doublecardrawing">Double car drawing</string>
     <string name="settings_drawwatersparkle">Draw water sparkle</string>
     <string name="settings_drawmapedges">Draw map edges</string>
-    <!--<string name="settings_hideads_title">Hide ads</string>
-    <string name="settings_hideads_text">If you really want to hide ads then it would be nice to support us by telling your friends about the app.
-
-\n\nAre you sure?</string>
-    <string name="settings_hideads_yes">Yes, I\'m really sure</string>
-    <string name="settings_hideads_no">Cancel</string>-->
     <string name="loadcity_errordialog_title">Loading failed</string>
     <string name="loadcity_errordialog_text">May not load the city, the file seems to be damaged.\n\nSorry.</string>
     <string name="loadcity_errordialog_cmdcancel">Cancel</string>
@@ -129,9 +122,6 @@
     <string name="gamemode_middle">Middle</string>
     <string name="gamemode_hard">Hard</string>
     <string name="game_infinitemoney">Free game</string>
-    <!--<string name="about_title">Credits</string>
-    <string name="about_cmdback">Back</string>
-    <string name="about_text">TheoTown App for Android is a product of</string>-->
     <string name="settings_music">Music</string>
     <string name="draftselector_titleaward">Awards</string>
     <string name="shader_default">Classic</string>
@@ -388,7 +378,6 @@
     <string name="draft_mosque00_text">Provides faith and religion for the inhabitants of your city.</string>
     <string name="settings_carsimulation">Car simulation</string>
     <string name="settings_weather">Weather</string>
-    <!--<string name="topic_valentines">Happy Valentine\'s Day!</string>-->
     <string name="topic_christmas">Happy Christmas!</string>
     <string name="topic_newyear">Happy new year</string>
     <string name="topic_birthday_lobby">Happy birthday Lobby :)</string>
@@ -757,9 +746,7 @@
     <string name="control_continue">Continue</string>
     <string name="settings_winter">Winter</string>
     <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
-    <!--<string name="notify_riot_reason">There\'s a riot because of %1$s! Improve happiness!</string>-->
     <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
-    <!--<string name="notify_demonstration">There\'s a demonstration in your city because of %1s! Call the police or improve happiness, or something bad will happen!</string>-->
     <string name="notify_demonstration">There\'s a demonstration in your city because of %1s! Call the police or improve happiness, or a riot will happen!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
     <string name="draft_marker_watermarker_title">Water</string>
@@ -927,8 +914,6 @@
     <string name="task_firstcity_text">Welcome to your first town.\n\nTry to get 300 inhabitants.</string>
     <string name="task_reachrank_title">New rank</string>
     <string name="task_reachrank_text">Congratulations your city reached a new rank.\n\nEach rank unlocks some buildings and you get a reward.</string>
-    <!--<string name="welcome_sorry_title">News</string>
-    <string name="welcome_sorry_text">Dear player,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>-->
     <string name="menu_achievements">Achievements</string>
     <string name="menu_leaderboards">Leaderboards</string>
     <string name="menu_screenshot">Take picture</string>
@@ -1309,7 +1294,6 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="toast_recordingid_copy">Copied recording ID into clipboard</string>
     <string name="draft_ap_road00_title">Transport road</string>
     <string name="draft_ap_road00_text">Use this road to connect your gates with your runways.</string>
-    <!--<string name="draft_ap_road00_text">Use this road to connect your gates with your runways. Airport taxies use this road to transport passengers between gates and planes.</string>-->
     <string name="requirement_upgrade">Needs upgrade %1$s</string>
     <string name="requirement_upgrade_invert">Cannot be combined with %1$s</string>
     <string name="draft_deco_chr_present00_title">Present</string>
@@ -1389,9 +1373,6 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_destroyedtileradioactive00_title">Scrap</string>
     <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You better remove it.</string>
     <string name="settings_disaster_ufo">UFO</string>
-    <!--<string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
-    <string name="dialog_externalstorage_cancel">Cancel</string>
-    <string name="dialog_externalstorage_retry">Retry</string>-->
     <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
     <string name="notify_disaster_flooding">City under water!</string>
     <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
@@ -1904,9 +1885,7 @@ Cons: Less challenges</string>
     <string name="shader_invert">Inverted</string>
 
     <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
-    <!--<string name="draft_present_notification00_text">Gift from Santa gives you an explosion. Better luck next time...</string>-->
     <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
-    <!--<string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds. Good luck.</string>-->
     <string name="store_authorby">by %s</string>
     <string name="store_downloads">%,d downloads</string>
     <string name="store_acquire">Download</string>
@@ -1938,7 +1917,6 @@ Cons: Less challenges</string>
     <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin? This cannot be undone.</string>
     <string name="dialog_storedelete_cmddelete">Uninstall</string>
     <string name="store_modefeatured">Featured</string>
-    <!--<string name="store_modefeatured">Trending</string>-->
     <string name="store_modecategory">Category</string>
     <string name="store_shorttitle">Plugins</string>
     <string name="gamemenu_catcity">City</string>
@@ -2135,7 +2113,6 @@ Cons: Less challenges</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">No images uploaded, yet.</string>
-    <!--<string name="stage_gallery_loadingimages">Loading images from the server...</string>-->
     <string name="stage_region_online">Online regions</string>
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
@@ -2166,17 +2143,12 @@ Cons: Less challenges</string>
     <string name="report_sexual">Sexual content</string>
     <string name="report_violent_or_repulsive">Violent or repulsive content</string>
     <string name="report_hateful_or_abusive">Hateful or abusive content</string>
-    <!--<string name="report_illegal_or_pirated">Illegal or pirated content</string>
-    <string name="report_political">Political content</string>-->
     <string name="report_dangerous">Dangerous content</string>
     <string name="report_promotes_terrorism">Promotes terrorism</string>
-    <!--<string name="report_hate_speech">Hate speech</string>-->
     <string name="report_spam_or_misleading">Spam or misleading</string>
-    <!--<string name="report_scam_or_fraud">Scam or fraud</string>-->
     <string name="report_infringes_my_rights">Infringes my rights</string>
     <string name="report_bad_behavior">Bad behavior</string>
     <string name="report_violates_store_rules">Violates other store or online mode rules</string>
-    <!--<string name="report_violates_online_mode_rules">Violates other online mode rules</string>-->
     <string name="stage_comment_cmdsend">Send</string>
     <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
     <string name="dialog_storerestart_cmdlater">Later</string>
@@ -2298,8 +2270,6 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
     <string name="dialog_savingissue_title">Saving failed</string>
     <string name="dialog_savingissue_text">Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.</string>
-    <!--<string name="dialog_savingissue_cmdcancel">Cancel</string>
-    <string name="dialog_savingissue_cmdretry">Retry</string>-->
     <string name="dialog_onlineinfo_title">Online mode</string>
     <string name="dialog_onlineinfo_text">Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
     <string name="dialog_outdated_title">Outdated version</string>
@@ -2594,8 +2564,6 @@ Press a key to assign it to this action.</string>
     <string name="ci_education_help"></string>
     <string name="ci_airport_help"></string>
     <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <!--<string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.\n\nYou can also exchange your diamonds to get instant momey.</string>-->
-    <!--<string name="ci_budget_help_premium">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>-->
     <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_water_help"></string>
     <string name="ci_statistics_help"></string>
