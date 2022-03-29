@@ -756,8 +756,10 @@
     <string name="draft_alert_swat00_text">If there\'s a riot only SWAT teams can hande it.</string>
     <string name="control_continue">Continue</string>
     <string name="settings_winter">Winter</string>
-    <string name="notify_riot_reason">There\'s a riot because of %1$s! Call SWAT teams to stop them, and improve happiness!</string>
-    <string name="notify_riot_noreason">There\'s a riot for no reason! Call SWAT teams to stop them!</string>
+    <string name="notify_riot_reason">There\'s a riot because of %1$s!</string>
+    <!--<string name="notify_riot_reason">There\'s a riot because of %1$s! Improve happiness!</string>-->
+    <string name="notify_riot_noreason">There\'s a riot for no reason!</string>
+    <!--<string name="notify_demonstration">There\'s a demonstration in your city because of %1s! Call the police or improve happiness, or something bad will happen!</string>-->
     <string name="notify_demonstration">There\'s a demonstration in your city because of %1s! Call the police or improve happiness, or a riot will happen!</string>
     <string name="draft_marker_powermarker_title">Energy</string>
     <string name="draft_marker_watermarker_title">Water</string>
@@ -1306,7 +1308,8 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="toast_seed_copy">Copied seed into clipboard</string>
     <string name="toast_recordingid_copy">Copied recording ID into clipboard</string>
     <string name="draft_ap_road00_title">Transport road</string>
-    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways. Airport taxies use this road to transport passengers between gates and planes.</string>
+    <string name="draft_ap_road00_text">Use this road to connect your gates with your runways.</string>
+    <!--<string name="draft_ap_road00_text">Use this road to connect your gates with your runways. Airport taxies use this road to transport passengers between gates and planes.</string>-->
     <string name="requirement_upgrade">Needs upgrade %1$s</string>
     <string name="requirement_upgrade_invert">Cannot be combined with %1$s</string>
     <string name="draft_deco_chr_present00_title">Present</string>
@@ -1901,7 +1904,9 @@ Cons: Less challenges</string>
     <string name="shader_invert">Inverted</string>
 
     <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
+    <!--<string name="draft_present_notification00_text">Gift from Santa gives you an explosion. Better luck next time...</string>-->
     <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
+    <!--<string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds. Good luck.</string>-->
     <string name="store_authorby">by %s</string>
     <string name="store_downloads">%,d downloads</string>
     <string name="store_acquire">Download</string>
@@ -1933,6 +1938,7 @@ Cons: Less challenges</string>
     <string name="dialog_storedelete_text">Are you sure that you want to remove that plugin? This cannot be undone.</string>
     <string name="dialog_storedelete_cmddelete">Uninstall</string>
     <string name="store_modefeatured">Featured</string>
+    <!--<string name="store_modefeatured">Trending</string>-->
     <string name="store_modecategory">Category</string>
     <string name="store_shorttitle">Plugins</string>
     <string name="gamemenu_catcity">City</string>
@@ -2129,7 +2135,7 @@ Cons: Less challenges</string>
     <string name="stage_account_steam">Steam</string>
     <string name="stage_gallery_update">Update</string>
     <string name="stage_gallery_noimages">No images uploaded, yet.</string>
-    <string name="stage_gallery_loadingimages">Loading images from the server...</string>
+    <!--<string name="stage_gallery_loadingimages">Loading images from the server...</string>-->
     <string name="stage_region_online">Online regions</string>
     <string name="online_city_visit">Visit</string>
     <string name="store_status_notavailable">This plugin is not available right now</string>
@@ -2160,17 +2166,17 @@ Cons: Less challenges</string>
     <string name="report_sexual">Sexual content</string>
     <string name="report_violent_or_repulsive">Violent or repulsive content</string>
     <string name="report_hateful_or_abusive">Hateful or abusive content</string>
-    <string name="report_illegal_or_pirated">Illegal or pirated content</string>
-    <string name="report_political">Political content</string>
+    <!--<string name="report_illegal_or_pirated">Illegal or pirated content</string>
+    <string name="report_political">Political content</string>-->
     <string name="report_dangerous">Dangerous content</string>
     <string name="report_promotes_terrorism">Promotes terrorism</string>
-    <string name="report_hate_speech">Hate speech</string>
+    <!--<string name="report_hate_speech">Hate speech</string>-->
     <string name="report_spam_or_misleading">Spam or misleading</string>
-    <string name="report_scam_or_fraud">Scam or fraud</string>
+    <!--<string name="report_scam_or_fraud">Scam or fraud</string>-->
     <string name="report_infringes_my_rights">Infringes my rights</string>
     <string name="report_bad_behavior">Bad behavior</string>
-    <string name="report_violates_store_rules">Violates other store rules</string>
-    <string name="report_violates_online_mode_rules">Violates other online mode rules</string>
+    <string name="report_violates_store_rules">Violates other store or online mode rules</string>
+    <!--<string name="report_violates_online_mode_rules">Violates other online mode rules</string>-->
     <string name="stage_comment_cmdsend">Send</string>
     <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
     <string name="dialog_storerestart_cmdlater">Later</string>
