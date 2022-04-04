@@ -797,10 +797,10 @@
     <string name="dialog_tosandbox_text">Ililipat po ang lungsod sa sandbox mode?\n\nHindi na po ito mababawi!</string>
     <string name="dialog_tosandbox_cmdconvert">Developer Mode</string>
     <string name="requirement_rank">\'Di bababa sa %1$s (%2$,d)</string>
-    <string name="ca_wastedisposal_text">Pagtatapon ng Basura: %1$,d/%2$,d</string>
+    <string name="ca_wastedisposal_text">Nakokolektang Basura: %1$,d/%2$,d</string>
     <string name="ca_bodydisposal_text">Naihahatid sa hantungan: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Dekorasyon</string>
-    <string name="draftselector_titlewastedisposal">Pagtapon Basura</string>
+    <string name="draftselector_titlewastedisposal">Pangongolekta ng Basura</string>
     <string name="draftselector_titlemilitary">Militar</string>
     <string name="draft_zonemilitary_title">Pook Militar</string>
     <string name="draft_mltry_road00_title">Kalsadang-Militar</string>
@@ -845,7 +845,7 @@
     <string name="draftselector_titleairport">Paliparan</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">Ang \'di tukoy na lumilipad na bagay ay umaatake po sa inyong lungsod!</string>
-    <string name="disaster_ufo_cmdtext">Mantarget</string>
+    <string name="disaster_ufo_cmdtext">Tumarget</string>
     <string name="topic_theons">May bago tayong salapi: Theons ₮</string>
     <string name="topic_wip">Kasalukuyang nasa konstruksiyon. Huwag lumampas sa linya.</string>
     <string name="topic_belong">Amin ang mga lungsod n\'yo &gt;:D</string>
@@ -858,7 +858,7 @@
     <string name="topic_cats">Ang lambiiiiiiiiing ng mga pusa</string>
     <string name="topic_force">Sumainyo nawa ang Puwersa</string>
     <string name="topic_plugins">May plugins na po kami</string>
-    <string name="topic_page">Puntahan kami sa www.theotown.com</string>
+    <string name="topic_page">Bisitahin kami sa www.theotown.com</string>
     <string name="topic_habitants">Maaabot mo ang 1,000,000</string>
     <string name="ci_statistics_title">Estadistika</string>
     <string name="statistics_inh_all">Naninirahan</string>
@@ -1532,7 +1532,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="influence_density_text">Ang mga matataas na gusali ay karaniwang mas masinsin.</string>
     <string name="influence_nature_title">Kalikasan</string>
     <string name="influence_nature_text">Ang mga parke at lalong-lalo na ang kagubatan ay may malaking impluwensiya sa kalikasan.</string>
-    <string name="influence_waste_disposal_title">Pagtapon Basura</string>
+    <string name="influence_waste_disposal_title">Pangongolekta ng Basura</string>
     <string name="influence_waste_disposal_text">Ang mga dumi ay dapat tanggalin para mapasaya ang mga maninirahan.</string>
     <string name="draft_bus_road00_title">Daang Bus</string>
     <string name="draft_bus_road00_text">Isang simpleng kalsada na mga bus lamang ang makakadaan.</string>
@@ -1686,10 +1686,10 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="dialog_wasteclear_title">Linisin ngayon</string>
     <string name="dialog_wasteclear_text">Lilinisin namin ang tambakan para sa iyo.</string>
     <string name="draft_wasteincinerator00_text">Ang mabilis at maruming paraan sa pagsasawata ng maraming basura.</string>
-    <string name="budget_waste_disposal">Pagtatapon ng Basura</string>
+    <string name="budget_waste_disposal">Pangongolekta ng Basura</string>
     <string name="draft_alert_garbage00_title">Trak ng basura</string>
     <string name="draft_alert_garbage00_text">Tumawag ng trak ng basura para makolekta ang basura sa kalsada.</string>
-    <string name="happiness_waste">Pagtapon Basura</string>
+    <string name="happiness_waste">Pangongolekta ng Basura</string>
     <string name="settings_new_content_marker">I-highlight ang bagong nilalaman sa toolbar</string>
 
     <string name="tool_removeroaddeco_title">Deko Pangkalsada</string>
@@ -1977,7 +1977,7 @@ Cons: Kaunti ang hamon</string>
     <string name="influence_body_disposal_text">Sumalangit nawa.</string>
     <string name="influence_traffic_title">Trapiko</string>
     <string name="influence_traffic_text">Ayaw ng mga naninirahan sa polusyon at ingay na nililikha ng trapiko.</string>
-    <string name="ci_neighbor_wastedisposal">Serbisyo sa pagtatapon ng basura</string>
+    <string name="ci_neighbor_wastedisposal">Serbisyo sa pangongolekta ng basura</string>
     <string name="ci_neighbor_bodydisposal">Serbisyo sa paglilibing</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
@@ -2387,7 +2387,7 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="store_cat_commercial">Komersiyo</string>
     <string name="store_cat_industrial">Industriya</string>
     <string name="store_cat_parks">Parke, Isports, at Pamahalaan</string>
-    <string name="store_cat_supply">Suplay (Enerhiya, Tubig, at Pagtatapon-Basura)</string>
+    <string name="store_cat_supply">Suplay (Enerhiya, Tubig, at Basurahan)</string>
     <string name="store_cat_religion">Relihiyon at Kultura</string>
     <string name="store_cat_service">Serbisyo (Pulisya, Kalusugan, Edukasyon,...)</string>
     <string name="store_cat_award">Parangal at Espesyal</string>
@@ -2577,5 +2577,18 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="settings_translateplugins">Isalin ang mga plugin</string>
     <string name="stage_region_greeter_welcome">Masayang Pagdating sa</string>
     <string name="stage_region_greeter_madewith">Ang larong nilikha sa</string>
+
+    <string name="settings_darkbuildtool">Madilim na build tool</string>
+    <string name="forum_cmdforgot">Nakalimutan?</string>
+    <string name="store_rating">Grado</string>
+    <string name="store_rating_unrated">WALA PANG GRADO</string>
+    <string name="store_rating_verynegative">NAPAKANEGATIBO</string>
+    <string name="store_rating_negative">NEGATIBO</string>
+    <string name="store_rating_mixed">MAGKAHALO</string>
+    <string name="store_rating_positive">POSITIBO</string>
+    <string name="store_rating_verypositive">NAPAKAPOSITIBO</string>
+    <string name="draft_draft_wst_title">Kasiyahan sa Pangongolekta ng Basura</string>
+    <string name="draft_draft_wst_text">Kasiyahan hinggil sa pangongolekta ng basura.</string>
+
 
 </resources>
