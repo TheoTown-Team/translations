@@ -122,6 +122,8 @@
     <string name="gamemode_middle">Middle</string>
     <string name="gamemode_hard">Hard</string>
     <string name="game_infinitemoney">Free game</string>
+    <string name="about_title">Credits</string>
+    <string name="about_cmdback">Back</string>
     <string name="settings_music">Music</string>
     <string name="draftselector_titleaward">Awards</string>
     <string name="shader_default">Classic</string>
@@ -1373,6 +1375,9 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_destroyedtileradioactive00_title">Scrap</string>
     <string name="draft_destroyedtileradioactive00_text">A radioactive destroyed structure. You better remove it.</string>
     <string name="settings_disaster_ufo">UFO</string>
+    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
+    <string name="dialog_externalstorage_cancel">Cancel</string>
+    <string name="dialog_externalstorage_retry">Retry</string>
     <string name="notify_disaster_earthquake">Oh now, there\'s an earthquake!</string>
     <string name="notify_disaster_flooding">City under water!</string>
     <string name="notify_disaster_meteorite">Rock is falling from the sky!</string>
@@ -2567,10 +2572,4 @@ Press a key to assign it to this action.</string>
     <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_water_help"></string>
     <string name="ci_statistics_help"></string>
-
-    <string name="dialog_externalstorage_text">TheoTown needs access to external storage to save your progress.</string>
-    <string name="dialog_externalstorage_cancel">Cancel</string>
-    <string name="dialog_externalstorage_retry">Retry</string>
-    <string name="about_title">Credits</string>
-    <string name="about_cmdback">Back</string>
    </resources>
