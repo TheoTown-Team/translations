@@ -10,14 +10,7 @@
     <string name="control_back">Geri</string>
     <string name="createcity_start">Başla</string>
     <string name="loadcity_load">Başla</string>
-    <string name="welcome_agree">Kabul Ediyorum</string>
-    <string name="welcome_content">TheoTown\'a hoşgeldin
 
-\n\nBu uygulama şu anda geliştirme aşamasında. Hala ufak tefek hatalar olabilir. Bu yüzden lütfen düşük oy vermeyin. Bu uygulamanın ücretsiz olduğunu aklınızda bulundurun.
-
-\n\nEğer bu uygulamayı sevdiyseniz, bize destek olmak için arkadaşlarınıza bu oyundan bahsedebilirsiniz.
-
-\n\nİyi eğlenceler :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Nüfus: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +32,6 @@
     <string name="dialog_nocities_text">Herhangi bir şehir bulunamadı.</string>
     <string name="dialog_nocities_cmdback">İptal</string>
     <string name="dialog_nocities_cmdnewcity">Yeni Şehir</string>
-    <string name="settings_showads">Reklamı Göster</string>
     <string name="settings_drawcars">Arabaları Göster</string>
     <string name="settings_drawsmoke">Dumanı Göster</string>
     <string name="settings_transparencybuildmode">İnşa modunda göster</string>
@@ -47,12 +39,7 @@
     <string name="settings_doublecardrawing">Çift arabaları göster</string>
     <string name="settings_drawwatersparkle">Su parıldamasını göster</string>
     <string name="settings_drawmapedges">Harita kenarlarını göster</string>
-    <string name="settings_hideads_title">Reklamı Gizle</string>
-    <string name="settings_hideads_text">Reklamları gizlemek istiyorsanız uygulamamızdan arkadaşlarınıza bahsederek bize destek olabilirsiniz.
 
-\n\nEmin misiniz?</string>
-    <string name="settings_hideads_yes">Evet, Eminim</string>
-    <string name="settings_hideads_no">İptal</string>
     <string name="loadcity_errordialog_title">Yükleme başarısız.</string>
     <string name="loadcity_errordialog_text">Şehir yüklenemedi. Dosya hasar almış görünüyor.\n\nÜzgünüz.</string>
     <string name="loadcity_errordialog_cmdcancel">İptal</string>
@@ -138,7 +125,6 @@
     <string name="game_infinitemoney">Serbest oyun</string>
     <string name="about_title">Jenerik</string>
     <string name="about_cmdback">Geri</string>
-    <string name="about_text">TheoTown\'da emeği geçenler</string>
     <string name="settings_music">Müzik</string>
     <string name="draftselector_titleaward">Ödüller</string>
     <string name="shader_default">Varsayılan</string>
@@ -930,8 +916,6 @@
     <string name="task_firstcity_text">Yeni şehrine hoş geldin! 300 nüfusa ulaşmaya çalış.</string>
     <string name="task_reachrank_title">Yeni Seviye</string>
     <string name="task_reachrank_text">Tebrikler şehrin seviye atladı.\n\nHer seviye atladığında yeni binalar açılır ve ödüller alırsın.</string>
-    <string name="welcome_sorry_title">Haberler</string>
-    <string name="welcome_sorry_text">Sevgili oyuncu,\n Son zamanlarda TheoTown\'da çok ilerleme kaydettik. Ne yazık ki, bazı eski şehirleri bozabilecek oyun dinamikleri değişiklikleri kadar özel bir para birimi eklemediysek bu mümkün olamazdı. Anlayışınız için teşekkürler. \n\n Size bir teşekkür olarak küçük hediye veriyoruz.</string>
     <string name="menu_achievements">Başarımlar</string>
     <string name="menu_leaderboards">Skorlar</string>
     <string name="menu_screenshot">Resim Çek</string>
@@ -2359,14 +2343,14 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_selectuser_namehint">Başka bir kullanıcının adını giriniz.</string>
     <string name="dialog_selectuser_cmdselect">Seç</string>
     <string name="dialog_transfercity_title">Sahipliği Devret</string>
-    <string name="dialog_transfercity_text">Şehrin sahipliğini devretmeye emin misin? %1$s 'dan %2$s?\n\nBu geri çevrilemez.</string>
+    <string name="dialog_transfercity_text">Şehrin sahipliğini devretmeye emin misin? %1$s \'dan %2$s?\n\nBu geri çevrilemez.</string>
     <string name="dialog_transfercity_cmdtransfer">Devret</string>
     <string name="dialog_transferregion_title">Sahipliği Devret</string>
-    <string name="dialog_transferregion_text">Eyaletin sahipliğini devretmeye emin misin? %1$s 'dan %2$s?\n\nBu geri çevrilemez.</string>
+    <string name="dialog_transferregion_text">Eyaletin sahipliğini devretmeye emin misin? %1$s \'dan %2$s?\n\nBu geri çevrilemez.</string>
     <string name="dialog_transferregion_cmdtransfer">Devret</string>
     <string name="stage_region_reportsubject">Eyalet %1$s</string>
     <string name="dialog_removeowner_title">Sahibi çıkar.</string>
-    <string name="dialog_removeowner_text">%1$s 'in sahipliğini bu şehirden çıkarmaya emin misin?\n\nBu geri çevrilemez.</string>
+    <string name="dialog_removeowner_text">%1$s \'in sahipliğini bu şehirden çıkarmaya emin misin?\n\nBu geri çevrilemez.</string>
     <string name="dialog_removeowner_cmdremove">Çıkar</string>
     <string name="stage_regioncity_lastplayed">En son: %1$s önce oynandı</string>
     <string name="ci_loan_get_text2">Değer: %1$s
@@ -2411,7 +2395,7 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="store_cat_roaddecoration">Yol Dekorasyonları</string>
     <string name="store_cat_military">Askeri</string>
     <string name="dialog_confirmsendgift_title">Hediye Yolla</string>
-    <string name="dialog_confirmsendgift_text">Harika! %1$s 'a hediye yollamak üzeresin.</string>
+    <string name="dialog_confirmsendgift_text">Harika! %1$s \'a hediye yollamak üzeresin.</string>
     <string name="settings_category_tools">Aletler</string>
     <string name="settings_category_gameplay">Oynanış</string>
     <string name="settings_autosavewhenleaving">Oyundan çıktığımda otomatik kaydet</string>
