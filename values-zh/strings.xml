@@ -824,7 +824,7 @@
     <string name="draft_firedepartment02_heli00_text">直升机会降落在这里的任何地方。\n\n提高消防局的覆盖力。</string>
     <string name="settings_reset_text">所有的设置将会丢失，你确定吗？</string>
     <string name="settings_reset_title">重置设置</string>
-    <string name="settings_leftsidetraffic">左舵驾驶</string>
+    <string name="settings_leftsidetraffic">靠左行驶(右舵驾驶)</string>
     <string name="draft_feature_noads00_text">移除屏幕上端广告。</string>
     <string name="features_alreadybought">已购买</string>
     <string name="draft_feature_noads00_title">移除广告</string>
@@ -1338,7 +1338,7 @@
     <string name="draft_feature_christmas_pack00_text">这个限时特惠包括：</string>
     <string name="draft_feature_christmas00_title">圣诞节</string>
     <string name="draft_feature_christmas00_text">圣诞节的各种装饰</string>
-    <string name="draft_category_christmas00_title">冬天</string>
+    <string name="draft_category_christmas00_title">冬季</string>
     <string name="draft_deco_chr_snowman00_title">雪人</string>
     <string name="draft_deco_chr_snowman00_text">儿童在冬天喜欢堆雪人</string>
     <string name="draft_internationalcommercecentre00_title">香港国际商务中心</string>
@@ -1733,10 +1733,10 @@
     <string name="draft_cactus00_title">仙人掌</string>
     <string name="draft_cactus00_text">没有水？对这些仙人掌来说，一点问题也没有。</string>
     <string name="draft_ancientbear_guard00_title">守卫</string>
-    <string name="draft_ancientbear_guard00_text">看守古代熊的守卫。似乎是浣熊。</string>
+    <string name="draft_ancientbear_guard00_text">看守古代熊的守卫，似乎是浣熊。</string>
     <string name="draft_ancientbear_statue00_title">勇士熊熊</string>
-    <string name="draft_ancientbear_statue00_text">勇士熊的雕像</string>
-    <string name="draft_greatpyramid00_title">吉萨大金字塔</string>
+    <string name="draft_ancientbear_statue00_text">勇士熊熊的雕像</string>
+    <string name="draft_greatpyramid00_title">吉萨金字塔</string>
 
 
     <string name="draft_wasteincinerator00_filter00_title">过滤器</string>
@@ -1829,7 +1829,7 @@
     <string name="gallery_upload_fail">上传失败</string>
     <string name="draft_medic02_title">小医院</string>
     <string name="draft_medic02_text">这个小小的医院给病人们更多的空间，至少是比较小诊所而言。</string>
-    <string name="lang_pirate">海盗文（英文）</string>
+    <string name="lang_pirate">海盗语</string>
 
 
     <string name="draft_church10_title">巴洛克式教堂</string>
@@ -2126,10 +2126,7 @@
     <string name="gamemode_sandbox_title">沙盒模式</string>
     <string name="gamemode_sandbox_text">如果使用这个模式的话，将不再有金钱上的需求。不过，市民的需求你还是要满足的。</string>
     <string name="dialog_ubermode_title">乌托邦模式</string>
-    <string name="dialog_ubermode_text">开启这个特殊的模式来免除所有的麻烦！\n-这里将不再有火灾、垃圾、疾病、犯罪、死亡，居民们也会有100%的教育水平并且会对您的政策100%的满意的！\n译者注：此模式原名叫
-
-
-        Mode，暂时先这么翻译吧。</string>
+    <string name="dialog_ubermode_text">开启这个特殊的模式来免除所有的麻烦！\n-这里将不再有火灾、垃圾、疾病、犯罪、死亡，居民们也会有100%的教育水平并且会对您的政策100%的满意的！</string>
     <string name="topic_pluginsawesome">插件真的很不错——不过你用不到的还是禁用一下吧。</string>
     <string name="topic_platforms">现在 TheoTown 在安卓、iOS以及Steam（PC端）都可用啦！</string>
     <string name="topic_pluginspace">插件可用的空间是有限的，请多多留意。</string>
@@ -2427,7 +2424,7 @@
 \n每月还款：%3$s</string>
     <string name="settings_uianimations">动画</string>
     <string name="dialog_configureregion_password">密码</string>
-    <string name="dialog_configureregion_password_desc">你可以设定一个新密码，留空继续使用现在的密码。</string>
+    <string name="dialog_configureregion_password_desc">你可以设定一个新密码，留空以继续使用现在的密码。</string>
     <string name="dialog_configureregion_enforepassword">需要密码</string>
     <string name="dialog_regionstats_title">区域数据</string>
     <string name="ci_energy_produced_short">产生：%1$,.0fkW</string>
@@ -2534,7 +2531,7 @@
     <string name="settings_toolbarprices">在工具栏中显示价格</string>
 
 
-    <string name="shader_default2">默认</string>
+    <string name="shader_default2">经典</string>
 
 
     <string name="dialog_regionnopermission_title">没有权限</string>
@@ -2610,7 +2607,7 @@
     <string name="dialog_filesrestart_cmdrestart">现在重启</string>
     <string name="dialog_filesrestart_cmdlater">稍后重启</string>
     <string name="settings_multiroaddecosupport">允许多重道路装饰</string>
-    <string name="loadcity_uberindicator">乌托邦</string>
+    <string name="loadcity_uberindicator">·乌托邦</string>
 
 
     <string name="draft_tunnel_management00_title">路政局</string>
