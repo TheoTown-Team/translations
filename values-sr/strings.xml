@@ -10,14 +10,6 @@
     <string name="control_back">Nazad</string>
     <string name="createcity_start">Pokreni</string>
     <string name="loadcity_load">Pokreni</string>
-    <string name="welcome_agree">Slažem se</string>
-    <string name="welcome_content">Dobrodošao u TheoTown
-
-\n\nOva aplikacija je trenutno u fazi pravljenja. Zapamti da možda postoje neki problemi. Molim te, nemoj loše oceniti ovaj projekat zbog tih malih problema. Zapamti da je besplatno.
-
-\n\nAko ti se sviđa ova aplikacija, pomozi tako što ćeš je preporučiti prijateljima.
-
-\n\nZabavi se :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Stanovnici: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text">Gradovi nisu nađeni.</string>
     <string name="dialog_nocities_cmdback">Otkaži</string>
     <string name="dialog_nocities_cmdnewcity">Novi Grad</string>
-    <string name="settings_showads">Prikaži oglase</string>
     <string name="settings_drawcars">Prikaži aute</string>
     <string name="settings_drawsmoke">Prikaži dim</string>
     <string name="settings_transparencybuildmode">Providnost tokom gradnje</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">Prikaži aute duplo</string>
     <string name="settings_drawwatersparkle">Prikaži sjaj na vodi</string>
     <string name="settings_drawmapedges">Prikaži ivice mape</string>
-    <string name="settings_hideads_title">Sakri oglase</string>
-    <string name="settings_hideads_text">Ako stvarno želiš da sakriješ oglase, bilo bi lepo ako bi preporučio aplikaciju prijateljima kao znak podrške.
-
-\n\nDa li si siguran?</string>
-    <string name="settings_hideads_yes">Da, siguran sam</string>
-    <string name="settings_hideads_no">Otkaži</string>
     <string name="loadcity_errordialog_title">Učitavanje neuspelo</string>
     <string name="loadcity_errordialog_text">Učitavanje grada neuspelo, fajl je oštećen.\n\nIzvini.</string>
     <string name="loadcity_errordialog_cmdcancel">Otkaži</string>
@@ -138,7 +123,6 @@
     <string name="game_infinitemoney">Besplatna igra</string>
     <string name="about_title">Zasluge</string>
     <string name="about_cmdback">Nazad</string>
-    <string name="about_text">Aplikacija TheoTown za Android je proizvod od</string>
     <string name="settings_music">Muzika</string>
     <string name="draftselector_titleaward">Nagrade</string>
     <string name="shader_default">Normalno</string>
@@ -930,8 +914,6 @@
     <string name="task_firstcity_text">Dobrodošao u tvoj novi grad.\n\nProbaj da dobiješ 300 stanovnika.</string>
     <string name="task_reachrank_title">Novi rang</string>
     <string name="task_reachrank_text">Čestitam, tvoj grad je dostigao novi rang.\n\nSvaki rang otključava nove građevine i dobijaš nagradu.</string>
-    <string name="welcome_sorry_title">Vesti</string>
-    <string name="welcome_sorry_text">Dragi igrače,\n\nMi smo nedavno napravili mnogo promeni u TheoTown-u. Nažalost, ovo nebi bilo moguće da nismo dodali novu valutu i izmene u dinamici koje će možda pokvariti neke stare gradove.\n\nNadamo se da razumeš. Imamo mali poklon kao zahvalu.</string>
     <string name="menu_achievements">Dostignuća</string>
     <string name="menu_leaderboards">Tabele</string>
     <string name="menu_screenshot">Slikaj</string>
@@ -2630,5 +2612,27 @@ Press a key to assign it to this action.</string>
     <string name="settings_translateplugins">Translate plugins</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>

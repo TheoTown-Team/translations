@@ -10,14 +10,6 @@
     <string name="control_back">返回</string>
     <string name="createcity_start">開始</string>
     <string name="loadcity_load">開始</string>
-    <string name="welcome_agree">接受</string>
-    <string name="welcome_content">歡迎來到TheoTown
-
-\n\n這是一個還處於開發階段的App，所以有些功能不是太完善，有時也會出現一些小bug。請不要因為這些小瑕疵給差評。請記住這是一個免費的遊戲哦！
-
-\n\n如果你覺得這個遊戲很有潛力，請跟你的朋友們推薦哦 :)
-
-\n\n祝你玩得開心！</string>
     <string name="game_date">%1$,d.%2$,d.%3$,d</string>
     <string name="game_habitants">居民: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text">你還沒有任何城市, 請建一個新的城市。</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
-    <string name="settings_showads">顯示廣告</string>
     <string name="settings_drawcars">顯示汽車</string>
     <string name="settings_drawsmoke">煙</string>
     <string name="settings_transparencybuildmode">建築模式透明視圖</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">加強汽車描繪</string>
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawmapedges">地圖邊緣</string>
-    <string name="settings_hideads_title">隱藏廣告</string>
-    <string name="settings_hideads_text">如果你這的想要關閉廣告的話, 請把TheoTown推薦給你的朋友以便繼續支持我們。
-
-\n\n你確定要關閉廣告嗎?</string>
-    <string name="settings_hideads_yes">超級確定</string>
-    <string name="settings_hideads_no">取消</string>
     <string name="loadcity_errordialog_title">加載失敗</string>
     <string name="loadcity_errordialog_text">這個城市不能成功加載，因為所需的文件已損壞。\n\n我們很抱歉。</string>
     <string name="loadcity_errordialog_cmdcancel">取消</string>
@@ -138,7 +123,6 @@
     <string name="game_infinitemoney">自由遊戲</string>
     <string name="about_title">製作團隊</string>
     <string name="about_cmdback">返回</string>
-    <string name="about_text">來自於他們的努力</string>
     <string name="settings_music">音樂</string>
     <string name="draftselector_titleaward">獎賞</string>
     <string name="shader_default">默認</string>
@@ -930,8 +914,6 @@
     <string name="task_firstcity_text">歡迎來到你的第一個城市。\n\n請試著獲取300個居民。</string>
     <string name="task_reachrank_title">新排名</string>
     <string name="task_reachrank_text">恭喜！你的城市即獲得了一個新的排名。\n\n每一個新的排名都會為你解鎖一些新的建築物，你也會因此得到一個獎勵。</string>
-    <string name="welcome_sorry_title">更新</string>
-    <string name="welcome_sorry_text">心愛的玩家：\n\n最近，我們在開發TheoTown中獲得了很大的進展。但是這些進展也帶來了一些較大的改動。\n\n我們希望你可以理解。為表示感謝，我們會送給你一個禮物。</string>
     <string name="menu_achievements">勛章</string>
     <string name="menu_leaderboards">積分榜</string>
     <string name="menu_screenshot">屏幕截圖</string>
@@ -2579,5 +2561,27 @@ Press a key to assign it to this action.</string>
     <string name="settings_translateplugins">Translate plugins</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>
