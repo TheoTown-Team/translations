@@ -12,13 +12,6 @@
     <string name="settings_apply">Anwenden</string>
     <string name="settings_defaults">Zurücksetzen</string>
     <string name="settings_title">Einstellungen</string>
-    <string name="welcome_agree">Einverstanden</string><string name="welcome_content">Willkommen in TheoTown
-
-\n\nDiese App befindet sich derzeit in Entwicklung. Bitte nimm darauf Rücksicht, dass sie noch kleine Fehler enthalten könnte, immerhin ist das Spiel kostenlos.
-
-\n\nFalls dir das Spiel gefällt, empfehle es doch bitte weiter.
-
-\n\nViel Spaß :)</string>
     <string name="createcity_seed">Zufallswert:</string>
     <string name="createcity_sizebig">Groß</string>
     <string name="createcity_sizemiddle">Mittel</string>
@@ -43,14 +36,7 @@
     <string name="settings_drawmapedges">Kartenkanten</string>
     <string name="settings_drawsmoke">Rauch</string>
     <string name="settings_drawwatersparkle">Wasserglanzeffekte</string>
-    <string name="settings_showads">Werbung</string>
     <string name="settings_transparencybuildmode">Transparenz im Baumodus</string>
-    <string name="settings_hideads_text">Falls du wirklich die Werbung deaktivieren möchtest, dann unterstütze uns bitte, indem du etwa die App deinen Freunden weiterempfiehlst.
-
-\n\nBist du sicher, dass du die Werbung ausblenden möchtest?</string>
-    <string name="settings_hideads_title">Werbung verstecken</string>
-    <string name="settings_hideads_yes">Ja, ganz sicher</string>
-    <string name="settings_hideads_no">Abbrechen</string>
     <string name="loadcity_errordialog_cmdcancel">Abbrechen</string>
     <string name="loadcity_errordialog_title">Laden fehlgeschlagen</string>
     <string name="loadcity_errordialog_text">Die Stadt konnte nicht geladen werden. Die Datei ist beschädigt.\n\nDies tut uns leid.</string>
@@ -136,7 +122,6 @@
         <string name="game_infinitemoney">Freies Spiel</string>
     <string name="about_cmdback">Zurück</string>
     <string name="about_title">Credits</string>
-    <string name="about_text">TheoTown App für Android ist ein Produkt von</string>
     <string name="settings_music">Musik</string>
     <string name="draftselector_titleaward">Belohnungen</string>
     <string name="shader_default">Klassisch</string>
@@ -929,8 +914,6 @@
     <string name="task_firstcity_text">Willkommen in deiner ersten Stadt.\n\nVersuche 300 Einwohner zu bekommen.</string>
     <string name="task_reachrank_title">Neuer Rang</string>
     <string name="task_reachrank_text">Glückwunsch, deine Stadt hat einen neuen Rang erreicht.\n\nMit jedem Aufstieg erhältst du eine Belohnung und schaltest neue Gebäude frei.</string>
-    <string name="welcome_sorry_title">Neuerungen</string>
-    <string name="welcome_sorry_text">Lieber Spieler,\n\nin letzter Zeit haben wir rasante Fortschritte bei der Entwicklung von TheoTown erzielt. Leider wäre uns dies ohne einschneidende Änderungen an der Spieldynamik nicht möglich gewesen. Das betrifft einerseits alte Spielstände, als auch die Einführung der optionalen Zwischenwährung Diamanten.\n\nWir hoffen, dass du das verstehen kannst. Als Dankeschön haben wir etwas für dich.</string>
     <string name="menu_save">Speichern</string>
     <string name="menu_screenshot">Aufnahme</string>
     <string name="menu_mapscreenshot">Kartenaufnahme</string>
@@ -2623,5 +2606,27 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="settings_translateplugins">Plugins übersetzen</string>
     <string name="stage_region_greeter_welcome">Willkommen in</string>
     <string name="stage_region_greeter_madewith">Ein Spiel entwickelt mit</string>
+
+
+    <string name="settings_darkbuildtool">Dunkler Baumodus</string>
+    <string name="forum_cmdforgot">Vergessen?</string>
+    <string name="store_rating">Bewertung</string>
+    <string name="store_rating_unrated">NICHT BEWERTET</string>
+    <string name="store_rating_verynegative">SEHR NEGATIV</string>
+    <string name="store_rating_negative">NEGATIV</string>
+    <string name="store_rating_mixed">GEMISCHT</string>
+    <string name="store_rating_positive">POSITIV</string>
+    <string name="store_rating_verypositive">SEHR POSITIV</string>
+    <string name="draft_draft_wst_title">Müllentsorgungszufriedenheit</string>
+    <string name="draft_draft_wst_text">Zufriendenheit über Müllabholung und Entsorgung.</string>
+    <string name="settings_plugin_texture_cache">Plugin Textur Cache</string>
+    <string name="draft_tree_spruce00_title">Fichte</string>
+    <string name="draft_tree_spruce00_text">Die Fichte ist ein zapfentragender immergründer Baum. Er wächst vorwiegend in nördlichen Gebieten und kann bis zu 60 Meter hoch wachsen.</string>
+    <string name="draft_tree_alder00_title">Erle</string>
+    <string name="draft_tree_alder00_text">Ein verbreiteter Baum der bis zu 30 Meter hoch werden kann.</string>
+    <string name="stage_gallery_loadingimages">Lade Bilder...</string>
+    <string name="ci_neighbor_help">Hier kannst du Importe/Exporte von Resourcen wie Strom, Wasser und Müllentsorgung mit Nachbarstädten aushandeln.</string>
+    <string name="ci_budget_help">Hier kannst du deine monatlichen Ein- und Ausgaben überwachen sowie die Steuern anpassen. Reiche Einwohner und Unternehmen zahlen mehr Steueren. Hohe Steuern machen deine Einwohner unglücklich und können sie zum Wegziehen aus der Stadt bewegen. Wir empfehlen einen Steuersatz von 6,5 %% bis 8 %%.</string>
+    <string name="ci_budget_help_nomoney">Hier kannst du deine monatlichen Ein- und Ausgaben überwachen sowie die Steuern anpassen. Reiche Einwohner und Unternehmen zahlen mehr Steueren. Hohe Steuern machen deine Einwohner unglücklich und können sie zum Wegziehen aus der Stadt bewegen. Wir empfehlen einen Steuersatz von 6,5 %% bis 8 %%.</string>
 
 </resources>

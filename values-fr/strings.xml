@@ -10,14 +10,6 @@
     <string name="control_back">Retour</string>
     <string name="createcity_start">Démarrer</string>
     <string name="loadcity_load">Reprendre</string>
-    <string name="welcome_agree">J\'accepte</string>
-    <string name="welcome_content">Bienvenue sur TheoTown
-
-\n\nCette application est encore en développement, merci de ne pas vous attendre à un jeu complet. Soyez conscient qu\'il peut y avoir quelques bugs. S\'il vous plait, ne notez pas sévèrement ce jeu pour de si petits problèmes. Gardez en tête qu\'il est gratuit.
-
-\n\nSi vous pensez que ce jeu a du potentiel, n\'hésitez pas à nous aider en le partageant autour de vous.
-
-\n\nAmusez-vous bien !</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitants : %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text">Vous devriez en créer une nouvelle.</string>
     <string name="dialog_nocities_cmdback">Annuler</string>
     <string name="dialog_nocities_cmdnewcity">Nouvelle ville</string>
-    <string name="settings_showads">Afficher les publicités</string>
     <string name="settings_drawcars">Afficher les véhicules</string>
     <string name="settings_drawsmoke">Afficher la fumée</string>
     <string name="settings_transparencybuildmode">Transparence en mode construction</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">Afficher les véhicules en mode avancé</string>
     <string name="settings_drawwatersparkle">Afficher les vagues</string>
     <string name="settings_drawmapedges">Afficher les bords de la carte</string>
-    <string name="settings_hideads_title">Masquer les publicités</string>
-    <string name="settings_hideads_text">Si vous souhaitez masquer les publicités, ce serait super de nous aider en parlant de ce jeu autour de vous.
-
-\n\nÊtes-vous sûr ?</string>
-    <string name="settings_hideads_yes">Oui, je suis sûr</string>
-    <string name="settings_hideads_no">Annuler</string>
     <string name="loadcity_errordialog_title">Erreur de chargement</string>
     <string name="loadcity_errordialog_text">Impossible de charger la ville, le fichier semble être endommagé.\n\nDésolé.</string>
     <string name="loadcity_errordialog_cmdcancel">Annuler</string>
@@ -138,7 +123,6 @@
     <string name="game_infinitemoney">Jeu libre</string>
     <string name="about_title">Crédits</string>
     <string name="about_cmdback">Retour</string>
-    <string name="about_text">Le jeu TheoTown pour Android est produit par</string>
     <string name="settings_music">Musique</string>
     <string name="draftselector_titleaward">Lieux uniques</string>
     <string name="shader_default">Par défaut</string>
@@ -930,8 +914,6 @@
     <string name="task_firstcity_text">Bienvenue dans ta première ville.\n\nEssaie d\'avoir 300 habitants.</string>
     <string name="task_reachrank_title">Nouveau rang</string>
     <string name="task_reachrank_text">Félicitations, ta ville a atteint un nouveau rang.\n\nChaque rang débloque des bâtiments et donne une récompense.</string>
-    <string name="welcome_sorry_title">Nouveautés</string>
-    <string name="welcome_sorry_text">Cher Joueur,\n\nnous avons fait récemment beaucoup d\'améliorations dans TheoTown. Malheureusement, il était nécessaire d\'ajouter une monnaie spéciale et de changer certaines mécaniques de jeu. Ce qui pourrait endommager les anciennes villes.\n\nNous espérons que vous comprendrez. Nous avons un cadeau de remerciement pour vous.</string>
     <string name="menu_achievements">Succès</string>
     <string name="menu_leaderboards">Classements</string>
     <string name="menu_screenshot">Screenshot</string>
@@ -2630,5 +2612,27 @@ Appuyez sur cette touche pour la lier à cette action.</string>
     <string name="settings_translateplugins">Translate plugins</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>

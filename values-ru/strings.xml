@@ -7,7 +7,6 @@
 <string name="about_idea">Идея</string>
 <string name="about_music">Музыка</string>
 <string name="about_programming">Программирование</string>
-<string name="about_text">TheoTown приложение для Android созданное</string>
 <string name="about_thanks">Особая благодарность</string>
 <string name="about_title">Создатели</string>
 <string name="about_translation">Перевод</string>
@@ -692,12 +691,6 @@
 <string name="settings_energysaving">Режим экономии батареи</string>
 <string name="settings_experimental">Экспериментальные действия</string>
 <string name="settings_fancybg">Красивый задний фон</string>
-<string name="settings_hideads_no">Отмена</string>
-<string name="settings_hideads_text">"Если ты действительно хочешь скрыть рекламу, поделись приложением с друзьями.
-
-Ты уверен?"</string>
-<string name="settings_hideads_title">Скрыть рекламу</string>
-<string name="settings_hideads_yes">Да, я уверен</string>
 <string name="settings_leftminimap">Миникарта слева</string>
 <string name="settings_lowresmapscreenshot">Низкое качество скриншота карты</string>
 <string name="settings_maxzoomout">Максимальное приближение</string>
@@ -721,7 +714,6 @@
 <string name="settings_shadertype_fancy">Замечательные</string>
 <string name="settings_shadertype_normal">Нормальные</string>
 <string name="settings_shadertype_xfancy">Сверх замечательные</string>
-<string name="settings_showads">Показывать рекламу</string>
 <string name="settings_showinfluencepreview">Показать список покрытий</string>
 <string name="settings_sound_game">Игровые звуки</string>
 <string name="settings_sound_ui">Звуки устройства</string>
@@ -820,14 +812,6 @@
 <string name="unknown">Wurstbrot</string>
 <string name="waiting_copycity">Копирование города</string>
 <string name="waiting_screenshot">Создание скриншота</string>
-<string name="welcome_agree">Я согласен</string>
-<string name="welcome_content">"Добро пожаловать в TheoTown
-
-Это приложение ещё находится в разработке. Помните что возможны маленькие баги. Пожалуйста не понижайте оценку из за этого. Не забывайте, что она бесплатная.
-
-Если тебе нравится игра ты можешь поддержать нас рассказав о ней друзьям.
-
-Наслаждайтесь :)"</string>
     <string name="settings_reset_text">Все настройки будут потеряны. Вы уверены?</string>
     <string name="settings_reset_title">Сбросить настройки</string>
     <string name="settings_leftsidetraffic">Левостороннее движение</string>
@@ -936,8 +920,6 @@
     <string name="task_firstcity_text">Добро пожаловать в ваш первый город.\n\nПопытайтесь дойти до 300 жителей.</string>
     <string name="task_reachrank_title">Новое звание</string>
     <string name="task_reachrank_text">Поздравляем, ваш город достиг нового звания.\n\nКаждое звание открывает некоторые здания, и вы получаете награду.</string>
-    <string name="welcome_sorry_title">Новости</string>
-    <string name="welcome_sorry_text">Уважаемый игрок,\n\nмы недавно достигли большого прогресса в TheoTown. К сожалению, это было бы невозможно, если бы мы не добавили специальную валюту, а также изменения в динамике игры, которые могут сломать некоторые старые города.\n\nНадеемся, вы поймёте. У нас есть что-то в качестве подарка для вас.</string>
     <string name="menu_achievements">Достижения</string>
     <string name="menu_leaderboards">Лидеры</string>
     <string name="menu_screenshot">Сделать фотографию</string>
@@ -2636,5 +2618,27 @@
     <string name="settings_translateplugins">Переводить плагины</string>
     <string name="stage_region_greeter_welcome">Добро пожаловать в</string>
     <string name="stage_region_greeter_madewith">Игра, сделанная с</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>
