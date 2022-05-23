@@ -10,14 +10,6 @@
     <string name="control_back">戻る</string>
     <string name="createcity_start">開始</string>
     <string name="loadcity_load">開始</string>
-    <string name="welcome_agree">同意する</string>
-    <string name="welcome_content">TheoTownへようこそ
-
-\n\nこのアプリは今開発中です、だから多少小さなバグがあるかも知れません :(
-
-\n\nこのアプリが気に入ったら、友人などにを伝えることで私達をサポートすることが出来ます。
-
-\n\n楽しんでください :)</string>
     <string name="game_date">%3$02d年%2$02d月%1$02d日</string>
     <string name="game_habitants">人口: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text">街が見つかりませんでした。</string>
     <string name="dialog_nocities_cmdback">キャンセル</string>
     <string name="dialog_nocities_cmdnewcity">新しい街</string>
-    <string name="settings_showads">広告を表示する</string>
     <string name="settings_drawcars">車を表示する</string>
     <string name="settings_drawsmoke">煙を表示する</string>
     <string name="settings_transparencybuildmode">ビルドモードでの透過性</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">ダブルカー図面</string>
     <string name="settings_drawwatersparkle">水の輝きを表示する</string>
     <string name="settings_drawmapedges">マップの端を表示</string>
-    <string name="settings_hideads_title">広告を表示しない</string>
-    <string name="settings_hideads_text">本当に広告を表示して欲しくないなら、このアプリを友人に伝えることで私達をサポートする事が出来ます。
-
-\n\n本当に良いんですか?</string>
-    <string name="settings_hideads_yes">はい</string>
-    <string name="settings_hideads_no">キャンセル</string>
     <string name="loadcity_errordialog_title">ロード失敗</string>
     <string name="loadcity_errordialog_text">街を読み込む事が出来ません、ファイルが破損しているようです.\n\nごめんなさい。</string>
     <string name="loadcity_errordialog_cmdcancel">キャンセル</string>
@@ -138,7 +123,6 @@
     <string name="game_infinitemoney">無料</string>
     <string name="about_title">クレジット</string>
     <string name="about_cmdback">戻る</string>
-    <string name="about_text">TheoTownアプリ for Android」は</string>
     <string name="settings_music">BGM</string>
     <string name="draftselector_titleaward">記念建造物</string>
     <string name="shader_default">デフォルト</string>
@@ -930,8 +914,6 @@
     <string name="task_firstcity_text">あなたの最初の町へようこそ.300人の住人を集めてください。</string>
     <string name="task_reachrank_title">新しいランク</string>
     <string name="task_reachrank_text">あなたの町が新しいランクに達しましたことをお祝いします。各ランクはいくつかの建物を解錠し、あなたは報酬を得ます</string>
-    <string name="welcome_sorry_title">ニュース</string>
-    <string name="welcome_sorry_text">私たちは最近、TheoTownで多くの進歩を遂げました。 残念ながら、特別な通貨を追加していない場合や、一部の古い都市を壊れる可能性のあるゲームのダイナミクスの変更を行なわなてれば、これは不可能です。ご理解いただければ幸いです。 感謝の贈り物のようなものがあります</string>
     <string name="menu_achievements">実績</string>
     <string name="menu_leaderboards">リーダーボード</string>
     <string name="menu_screenshot">スクリーンショットを撮る</string>
@@ -2689,5 +2671,27 @@ Press a key to assign it to this action.</string>
     <string name="settings_translateplugins">Translate plugins</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>

@@ -10,14 +10,6 @@
     <string name="control_back">ย้อนกลับ</string>
     <string name="createcity_start">เริ่ม!</string>
     <string name="loadcity_load">เริ่ม!</string>
-    <string name="welcome_agree">ฉันยอมรับ</string>
-    <string name="welcome_content">ยินดีต้อนรับสู่ TheoTown!
-
-\n\nแอพลิเคชั่นนี้กำลังอยู่ระหว่างการพัฒนา อาจจะมีข้อบกพร่องเล็กน้อยเป็นบางส่วน ขอความกรุณาท่านอย่าเพิ่งด่วนสรุปตัดสินเพราะปัญหาเล็กน้อยเหล่านี้ ขอให้ท่านคำนึงด้วยว่าเกมนี้สามารถให้ดาวน์โหลดได้ฟรี และถูกพัฒนาด้วยคนกลุ่มเล็กๆ
-
-\n\nถ้าหากว่าท่านชื่นชอบเกมนี้ ท่านสามารถสนับสนุนพวกเราได้โดยการแชร์ให้เพื่อนๆของท่านรู้
-
-\n\nขอให้สนุกกับเกมนะ :D</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">ประชากร : %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text">ไม่สามารถหาเมืองได้</string>
     <string name="dialog_nocities_cmdback">ยกเลิก</string>
     <string name="dialog_nocities_cmdnewcity">สร้างเมืองใหม่</string>
-    <string name="settings_showads">แสดงโฆษณา</string>
     <string name="settings_drawcars">แสดงยานพาหนะ</string>
     <string name="settings_drawsmoke">แสดงควัน</string>
     <string name="settings_transparencybuildmode">ความโปร่งใสในโหมดก่อสร้าง</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">แสดงยานพาหนะ 2 ระดับ</string>
     <string name="settings_drawwatersparkle">แสดงประกายผิวน้ำ</string>
     <string name="settings_drawmapedges">แสดงของแผนที่</string>
-    <string name="settings_hideads_title">ซ่อนโฆษณา</string>
-    <string name="settings_hideads_text">ถ้าหากว่าคุณต้องการจะซ่อนโฆษณา ช่วยกรุณา support พวกเราโดยการส่งต่อเผยแผ่เกมนี้ให้เพื่อนคุณเล่นด้วย จะเป็นการขอบคุณอย่างมากเลย
-
-\n\nคุณแน่ใจหรือไม่?</string>
-    <string name="settings_hideads_yes">ใช่ ฉันแน่ใจ</string>
-    <string name="settings_hideads_no">ไม่เป็นไร</string>
     <string name="loadcity_errordialog_title">การโหลดล้มเหลว</string>
     <string name="loadcity_errordialog_text">ไม่สามารถโหลดเมืองได้ เนื่องจากไฟล์มีความเสียหาย \n\nขออภัยเป็นอย่างยิ่ง :(</string>
     <string name="loadcity_errordialog_cmdcancel">ยกเลิก</string>
@@ -138,7 +123,6 @@
     <string name="game_infinitemoney">อิสระ</string>
     <string name="about_title">- เครดิต -</string>
     <string name="about_cmdback">ย้อนกลับ</string>
-    <string name="about_text">TheoTown App สำหรับ Android เป็นผลิตภัณฑ์ของ</string>
     <string name="settings_music">ดนตรี</string>
     <string name="draftselector_titleaward">รางวัล</string>
     <string name="shader_default">คลาสสิก (32-bit)</string>
@@ -930,8 +914,6 @@
     <string name="task_firstcity_text">Welcome to your first town.\n\nTry to get 300 inhabitants.</string>
     <string name="task_reachrank_title">New rank</string>
     <string name="task_reachrank_text">Congratulations your city reached a new rank.\n\nEach rank unlocks some buildings and you get a reward.</string>
-    <string name="welcome_sorry_title">News</string>
-    <string name="welcome_sorry_text">Dear player,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>
     <string name="menu_achievements">Achievements</string>
     <string name="menu_leaderboards">Leaderboards</string>
     <string name="menu_screenshot">Take picture</string>
@@ -2595,5 +2577,27 @@ Press a key to assign it to this action.</string>
     <string name="settings_translateplugins">Translate plugins</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
+
+
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>
