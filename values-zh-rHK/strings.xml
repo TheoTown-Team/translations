@@ -1,4 +1,4 @@
-<resources>
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
     <string name="app_name">西奧小鎮</string>
     <string name="settings_title">設置</string>
     <string name="loadcity_title">載入城市</string>
@@ -10,14 +10,6 @@
     <string name="control_back">返回</string>
     <string name="createcity_start">初時</string>
     <string name="loadcity_load">初時</string>
-    <string name="welcome_agree">我同意</string>
-    <string name="welcome_content">歡迎來到西奧小鎮
-
-\n\n係一個仲處於開發階段嘅App，所以有些功能唔係太完善，有時都會出現一些細bug。 請不要因為呢啲小瑕疵畀差評。 請記住，係一個免費嘅遊戲哦！ 
-
-\n\n如果你覺得呢個遊戲好有潛力，請向你哋嘅啲朋友舉薦它 :)
-
-\n\n祝你玩嘅愉快！ </string>
     <string name="game_date">%3$d年%2$d月%1$d日</string>
     <string name="game_habitants">居民：%1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +31,6 @@
     <string name="dialog_nocities_text"> 你目前還沒有任何城市，你可以新建新的城市。這裡的城市可以定制。</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
-    <string name="settings_showads">展示廣告</string>
     <string name="settings_drawcars">顯示汽車</string>
     <string name="settings_drawsmoke">煙</string>
     <string name="settings_transparencybuildmode">建築模式透明檢視</string>
@@ -47,12 +38,6 @@
     <string name="settings_doublecardrawing">增強汽車描繪</string>
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawmapedges">地圖邊緣</string>
-    <string name="settings_hideads_title">隱藏廣告</string>
-    <string name="settings_hideads_text">如果你真的想要關閉廣告嘅話，唔该将西奧小鎮推薦畀你嘅朋友以便繼續支持我哋。 
-
-\n\n你確定要關閉廣告啊？</string>
-    <string name="settings_hideads_yes">真係好肯定</string>
-    <string name="settings_hideads_no">取消</string>
     <string name="loadcity_errordialog_title">城市加載失敗</string>
     <string name="loadcity_errordialog_text">城市文件已損壞，我哋無法加載此文件\n\n我哋對此深感抱歉。 </string>
     <string name="loadcity_errordialog_cmdcancel">取消</string>
@@ -132,13 +117,12 @@
     <string name="draft_watertower00_text">為建築物提供少量嘅水源。 </string>
     <string name="settings_areazonetool">區域工具</string>
     <string name="createcity_gamemode">遊戲模式：</string>
-        <string name="gamemode_easy">簡單</string>
+    <string name="gamemode_easy">簡單</string>
     <string name="gamemode_middle">中等</string>
     <string name="gamemode_hard">高難</string>
     <string name="game_infinitemoney">自由遊戲</string>
     <string name="about_title">製作團隊</string>
     <string name="about_cmdback">返回</string>
-    <string name="about_text">來自於他們的努力</string>
     <string name="settings_music">音樂</string>
     <string name="draftselector_titleaward">獎勵</string>
     <string name="shader_default">默認</string>
@@ -755,7 +739,6 @@
     <string name="draft_beachnearwater00_title">海灘</string>
     <string name="draft_beachnearwater00_text">冇乜嘢比喺海灘上度過一日更愜意的了。</string>
     <string name="loadcity_version_premium">版本 %1$,d (高級版)</string>
-    <string name="示範城市">Sample city</string>
     <string name="settings_autorestoresamples">恢復示範城市</string>
     <string name="settings_autountouchable">建築物默認受保護</string>
     <string name="draft_alert_swat00_title">呼叫特種部隊</string>
@@ -850,7 +833,7 @@
     <string name="disaster_ufo_cmdtext">設定目標</string>
     <string name="topic_theons">我哋有了一種新嘅貨幣: Theons ₮</string>
     <string name="topic_wip">正在建設。 請不要通行。</string>
-    <string name="topic_belong">你嘅城市係屬於我哋嘅 >:D</string>
+    <string name="topic_belong">你嘅城市係屬於我哋嘅 &gt;:D</string>
     <string name="topic_love">你所需要嘅就係要。</string>
     <string name="topic_build">我要喺我嘅城市度建設高樓大廈同花園</string>
     <string name="topic_news">好消息!</string>
@@ -877,7 +860,7 @@
     <string name="control_off">關</string>
     <string name="draft_school03_title">大型高校</string>
     <string name="draft_school03_text">一個仲大嘅高校以容納更多嘅學生。</string>
-        <string name="gamemode_easy_desc">喺呢個遊戲模式中，你會喺遊戲開始得到一大筆錢以降低遊戲難度。初始资金:100 K₮ </string>
+    <string name="gamemode_easy_desc">喺呢個遊戲模式中，你會喺遊戲開始得到一大筆錢以降低遊戲難度。初始资金:100 K₮ </string>
     <string name="gamemode_middle_desc">默認遊戲模式。 你可以得到一筆金錢，用它嚟建設你嘅夢想都市吧。初始资金: 50 K₮ </string>
     <string name="gamemode_hard_desc">你係西奧小鎮嘅資深經營玩家？ 呢個遊戲模式適合你。 你只會得到一小筆金錢，係難度最高嘅模式。</string>
     <string name="dialog_ffwd_title">快進</string>
@@ -931,8 +914,6 @@
     <string name="task_firstcity_text">歡迎來到您的第一個城鎮。\n\n請嘗試獲得300个居民。</string>
     <string name="task_reachrank_title">升級</string>
     <string name="task_reachrank_text">C恭喜！ 你嘅城市達到了一個新嘅等級\n\n每一個新的等級都會解鎖一些建築，你也會因此得到一些獎。</string>
-    <string name="welcome_sorry_title">更新</string>
-    <string name="welcome_sorry_text">親愛的玩家：\n\n最近，我哋喺開發西奧小鎮中取得咗好大嘅進展。 但係呢啲進展都帶嚟埋啲較大嘅改動。\n\n我哋希望你能理解。 為表示感謝，我哋會送你一個禮物。</string>
     <string name="menu_achievements">成就</string>
     <string name="menu_leaderboards">積分榜</string>
     <string name="menu_screenshot">屏幕截图</string>
@@ -1793,7 +1774,7 @@
     <string name="draft_church10_title">巴洛克教堂</string>
     <string name="draft_church10_text">一個美麗的教堂和修道院為你的城市提供一道亮麗嘅風景綫</string>
     <string name="draft_roaddeco_construction00_title">挖掘機</string>
-    <string name="draft_roaddeco_construction00_text"履帶機頭安鐵手，輕舒猿臂譜神奇。 腕下方提三砘石，爪中又掘四方泥。</string>
+    <string name="draft_roaddeco_construction00_text">履帶機頭安鐵手，輕舒猿臂譜神奇。 腕下方提三砘石，爪中又掘四方泥。</string>
 
     <string name="infoline_freetunnels">剩餘%d 条隧道</string>
     <string name="buildinginfo_idletime">掛機時間: %s (遊戲關閉時)</string>
@@ -1856,8 +1837,8 @@
     <string name="gamemode_free_text">唔想處理錢？ 喺呢個遊戲模式中，沒有錢，都冇人口需求。</string>
     <string name="dialog_free_title">自由模式</string>
     <string name="dialog_free_text">你揀咗自由模式\n
-優點：沒有资金，沒有限制，可以控制需求\n
-缺點：挑戰太少</string>
+    優點：沒有资金，沒有限制，可以控制需求\n
+    缺點：挑戰太少</string>
     <string name="draft_medic03_title">現代醫院</string>
     <string name="draft_medic03_text">一家現代化嘅醫院，可以喺更細嘅空間內照顧更多嘅患者。</string>
     <string name="draft_gol_dead_title">康威生命游戏 </string>
@@ -2066,11 +2047,11 @@
     <string name="game_region">區域 %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">沙盒模式</string>
     <string name="gamemode_sandbox_text">如果使用呢個模式嘅話，將不再有金錢上嘅需求。 之，市民嘅需求你還是要滿足嘅。
-</string>
+    </string>
     <string name="dialog_ubermode_title">烏托邦模式</string>
     <string name="dialog_ubermode_text">開啟呢個特殊嘅模式嚟免除所有嘅麻煩！ \n-這裡將不再有火災、垃圾、疾病、犯罪、死亡，居民們都會有100%教育水平並且會對您的政策100%的滿意！ \n譯者注：此模式原名叫
 
-Mode，暫時先咁翻譯吧。</string>
+    Mode，暫時先咁翻譯吧。</string>
     <string name="topic_pluginsawesome">插件真係正！ 但是，我哋建議你禁用未使用嘅插件。</string>
     <string name="topic_platforms">你是否知道西奥小鎮可用于PC，Android和iOS？</string>
     <string name="topic_pluginspace">插件空間有限，請記住</string>
@@ -2096,7 +2077,7 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="draft_intersection02_title">交叉式立交</string>
     <string name="draft_intersection02_text">兩條相互交叉嘅高速公路。 其中一條高速公路係高架嘅。</string>
     <string name="draft_intersection_complex00_title">靛葉型天桥
-</string>
+    </string>
     <string name="draft_intersection_complex00_text">兩條平坦嘅高速公路使用一個巨大嘅複雜結構相互交叉。</string>
     <string name="tool_removefence_title">移除柵欄</string>
     <string name="tool_removefence_text">此工具只能用于移除圍欄。</string>
@@ -2236,12 +2217,12 @@ Mode，暫時先咁翻譯吧。</string>
 
     <string name="dialog_storedisclaimer_title">仲有更多</string>
     <string name="dialog_storedisclaimer_text">歡迎來到插件舖頭！ 在這裡，您可以獲得世界各地玩家製作的TheoTown的數百種其他內容。\n
-\n
-我們建議你在下載插件之前仔細閱讀插件說明，以了解插件的功能。。</string>
+    \n
+    我們建議你在下載插件之前仔細閱讀插件說明，以了解插件的功能。。</string>
     <string name="dialog_accountdisclaimer_title">帳戶</string>
     <string name="dialog_accountdisclaimer_text">您可以將遊戲連接到一個或多個帳戶。\n
-\n
-透過將遊戲連接到TheoTown論壇帳戶，你可以參與評論部分。</string>
+    \n
+    透過將遊戲連接到TheoTown論壇帳戶，你可以參與評論部分。</string>
     <string name="ci_rci_help">需求描述了對特定建築物的需求。 它分為住宅，商業和工業需求。 三種需求都有三種不同的財富水平。</string>
 
     <string name="draft_destroyed_tree00_title">燒毀嘅樹木</string>
@@ -2361,8 +2342,8 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="dialog_removeowner_cmdremove">Remove</string>
     <string name="stage_regioncity_lastplayed">Last played: %1$s ago</string>
     <string name="ci_loan_get_text2">價值: %1$s
-\nTerm: %2$,d 月
-\nMonthly costs: %3$s</string>
+    \nTerm: %2$,d 月
+    \nMonthly costs: %3$s</string>
     <string name="settings_uianimations">動畫</string>
     <string name="dialog_configureregion_password">密碼</string>
     <string name="dialog_configureregion_password_desc">你可以在此處設置新密碼。 將其留空可重複使用當前版本。</string>
@@ -2439,8 +2420,8 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="dialog_externalstorage_proceedwithout">自擔風險</string>
     <string name="dialog_externalstorage_title">無法訪問外部存儲</string>
     <string name="dialog_externalstorage_explanation">TheoTown使用外部存儲權限，以便以用戶可訪問嘅方式保存城市同區域。
-透過這樣做，我哋可以避免由應用程序更新或安裝導致嘅潛在數據賴番。
-\n\n遊戲應該能夠喺冇該權限嘅情況下運行。 但是，對於因使用內部存儲而導致嘅潛在數據賴或功能損壞，我哋唔承擔任何責任。</string>
+    透過這樣做，我哋可以避免由應用程序更新或安裝導致嘅潛在數據賴番。
+    \n\n遊戲應該能夠喺冇該權限嘅情況下運行。 但是，對於因使用內部存儲而導致嘅潛在數據賴或功能損壞，我哋唔承擔任何責任。</string>
     <string name="dialog_onlinenotifications_title">通知</string>
     <string name="dialog_onlinenotifications_time">%1$s 前</string>
     <string name="dialog_onlinenotifications_empty">尚無通知</string>
@@ -2454,7 +2435,7 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="settings_darktoolbar">深色工具欄</string>
     <string name="dialog_tutwelcome_title">歡迎來到 TheoTown</string>
     <string name="dialog_tutwelcome_text">現時，我哋將由教程開始，教您如何建立城市嘅基礎知識。\n\n
-如果您已經知道如何玩，則可以跳過教程。 你可以隨時喺遊戲餐牌中跳過教程。</string>
+    如果您已經知道如何玩，則可以跳過教程。 你可以隨時喺遊戲餐牌中跳過教程。</string>
     <string name="dialog_tutwelcome_cmdskip">教程</string>
     <string name="dialog_tutwelcome_start">初時</string>
 
@@ -2462,8 +2443,8 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="settings_keys">鎖匙</string>
     <string name="settings_keys_cmdreset">設置為默認值</string>
     <string name="settings_keys_text">當前分配： %1$s\n
-違約： %2$s\n\n
-按某個鍵將其分配畀此操作.</string>
+    違約： %2$s\n\n
+    按某個鍵將其分配畀此操作.</string>
     <string name="settings_toolbarnames">在工具欄中顯示名稱</string>
     <string name="settings_toolbarprices">在工具欄中顯示價格</string>
 
@@ -2569,18 +2550,28 @@ Mode，暫時先咁翻譯吧。</string>
     <string name="stage_region_greeter_welcome">Welcome to</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
 
-    <string name="ci_rating_help"></string>
-    <string name="ci_rank_help"></string>
-    <string name="ci_neighbor_help"></string>
-    <string name="ci_loan_help"></string>
-    <string name="ci_health_help"></string>
-    <string name="ci_energy_help"></string>
-    <string name="ci_info_help"></string>
-    <string name="ci_education_help"></string>
-    <string name="ci_airport_help"></string>
-    <string name="ci_budget_help"></string>
-    <string name="ci_budget_help_nomoney"></string>
-    <string name="ci_water_help"></string>
-    <string name="ci_statistics_help"></string>
+
+
+    <string name="loadcity_preview">Sample city</string>
+    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="forum_cmdforgot">Forgot?</string>
+    <string name="store_rating">Rating</string>
+    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_verynegative">VERY NEGATIVE</string>
+    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="store_rating_mixed">MIXED</string>
+    <string name="store_rating_positive">POSITIVE</string>
+    <string name="store_rating_verypositive">VERY POSITIVE</string>
+    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
+    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="draft_tree_spruce00_title">Spruce</string>
+    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
+    <string name="draft_tree_alder00_title">Alder</string>
+    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
+    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 </resources>
