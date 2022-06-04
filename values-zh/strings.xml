@@ -128,7 +128,7 @@
     <string name="topic_users">期待第十万个玩家</string>
     <string name="topic_tutorial">有新手教程哦 :)</string>
     <string name="topic_birthday_lobby">生日快乐，Lobby，我不爱你 :)</string>
-    <string name="settings_resolution">分辨率（游戏缩放）</string>
+    <string name="settings_resolution">分辨率[游戏缩放]</string>
     <string name="loadcity_deletedialog_cmdcancel">取消</string>
     <string name="loadcity_cmddelete">删除</string>
     <string name="loadcity_deletedialog_cmddelete">确认删除</string>
@@ -554,7 +554,7 @@
     <string name="settings_ultrafastspeed">超快游戏速度</string>
     <string name="settings_showinfluencepreview">影响力预览</string>
     <string name="settings_shadertype_xfancy">更细腻</string>
-    <string name="settings_shadertype_normal">默认</string>
+    <string name="settings_shadertype_normal">经典</string>
     <string name="settings_shadertype_fancy">抗锯齿</string>
     <string name="settings_shader">画面</string>
     <string name="settings_rightsidebar">边栏右置</string>
@@ -1296,7 +1296,7 @@
     <string name="disaster_pink_slime_text">一种更加凶猛的黏液，可以使整个城市陷入险境</string>
     <string name="disaster_pink_slime_cmdtext">出动吧粘液！</string>
     <string name="draft_hydroplant00_title">水力发电站</string>
-    <string name="draft_hydroplant00_text">水力发电站将水的势能和动能转换成电能。不会造成自然污染</string>
+    <string name="draft_hydroplant00_text">水力发电站将水的势能和动能转换成电能，不会造成自然污染</string>
     <string name="draft_feature_slime00_title">黏液灾难</string>
     <string name="draft_feature_slime00_text">黏液灾难会把你的城市摧毁。当然，这所有都取决于你</string>
 
@@ -1765,7 +1765,7 @@
 
     <string name="privacy_policy">隐私条款</string>
     <string name="dialog_privacy_title">隐私条款</string>
-    <string name="dialog_privacy_text">嗨，我们正在更新我们的隐私政策。请花时间审查它。</string>
+    <string name="dialog_privacy_text">嗨，我们正在更新我们的隐私政策，请您花时间阅读它。</string>
     <string name="dialog_privacy_cmdopen">打开</string>
     <string name="dialog_privacy_cmdlater">好的，同意</string>
     <string name="settings_drawzones">画出区域</string>
@@ -2506,7 +2506,7 @@
     <string name="settings_toolbarprices">在工具栏中显示价格</string>
 
 
-    <string name="shader_default2">经典</string>
+    <string name="shader_default2">默认</string>
 
 
     <string name="dialog_regionnopermission_title">没有权限</string>
@@ -2618,24 +2618,24 @@
     <string name="forum_cmdforgot">忘记密码了?</string>
     <string name="store_rating">评价</string>
     <string name="store_rating_unrated">尚无评价</string>
-    <string name="store_rating_verynegative">好评如潮</string>
-    <string name="store_rating_negative">多半好评</string>
+    <string name="store_rating_verynegative">堪比垃圾</string>
+    <string name="store_rating_negative">多半差评</string>
     <string name="store_rating_mixed">贬褒不一</string>
-    <string name="store_rating_positive">多半差评</string>
-    <string name="store_rating_verypositive">垃圾</string>
+    <string name="store_rating_positive">多半好评</string>
+    <string name="store_rating_verypositive">好评如潮</string>
     <string name="draft_draft_wst_title">垃圾处理满意度</string>
     <string name="draft_draft_wst_text">对垃圾收集和处理的满意度</string>
 
-    <string name="ci_neighbor_help">你可以在这里与相邻的城市共享能源和水,垃圾处理和殡葬服务</string>
-    <string name="ci_budget_help">你可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为6.5至8.0之间</string>
-    <string name="ci_budget_help_nomoney">你可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为6.5至8.0之间</string>
+    <string name="ci_neighbor_help">你可以在这里与相邻的城市共享能源及水,垃圾处理与殡葬服务</string>
+    <string name="ci_budget_help">你可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为 6.5 至 8.0 之间</string>
+    <string name="ci_budget_help_nomoney">你可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为 6.5 至 8.0 之间</string>
 
 
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="settings_plugin_texture_cache">插件纹理库储存</string>
+    <string name="draft_tree_spruce00_title">云杉</string>
+    <string name="draft_tree_spruce00_text">云杉是一种常绿针叶乔木，它生长于北温带以及寒带，最高能到 60 米呢！</string>
+    <string name="draft_tree_alder00_title">桤木(Qī Mù)</string>
+    <string name="draft_tree_alder00_text">一种看上去稀松平常的树，貌似能长到 30 米高的说。</string>
+    <string name="stage_gallery_loadingimages">加载图像中⋯⋯</string>
 
 </resources>
