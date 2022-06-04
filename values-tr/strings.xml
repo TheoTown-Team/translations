@@ -1829,7 +1829,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_discord_statue00_text">Discord heykeli.</string>
     <string name="notify_discord_statue00_title">Teşekkürler!</string>
     <string name="notify_discord_statue00_text">Discord sunucumuzdaki %d üye için çok teşekkürler. Katılmak ister misiniz?</string>
-    <string name="draftselector_titlebodydisposal">Funeral</string>
+    <string name="draftselector_titlebodydisposal">Cenaze</string>
     <string name="draft_roaddeco_protester00_title">Sahte Protestocular</string>
     <string name="draft_roaddeco_protester00_text">Bazı kişilere protestocu gibi davranmaları için para öde.</string>
     <string name="draft_roaddeco_riot00_title">Sahte Ayaklanma</string>
@@ -1853,13 +1853,14 @@ Eksiler: Daha az olaylar</string>
     <string name="draft_gol_dead_title">Hayatın oyunu</string>
     <string name="draft_gol_dead_text">Bir yaşam oyunu oluşturun. Durumlarını değiştirmek için yerleşik karolara dokunun. Varsayılan durum öldü.</string>
 
-    <string name="draft_coittower00_title">Coit Memorial Tower</string>
-    <string name="draft_coittower00_text">Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco\'s five major fires.</string>
-    <string name="draft_bankofamerica00_title">Bank of America Center</string>
-    <string name="draft_bankofamerica00_text">Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California.</string>
-    <string name="draft_transamerica00_title">Transamerica Pyramid</string>
-    <string name="draft_transamerica00_text">The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.</string>
-    <string name="draft_feature_landmarks05_text">Get some famous buildings from San Francisco, CA.</string>
+    <string name="draft_coittower00_title">Coit Anıt Kulesi</string>
+    <string name="draft_coittower00_text">Coit Anıt Kulesi San Fransico\'daki beş büyük yangında hayatını kaybetmiş olan gönüllü itfaiye eri için 1933\'de inşa edildi.</string>
+    <string name="draft_bankofamerica00_title">Amerika Merkez Bankası</string>
+    <string name="draft_bankofamerica00_text">Amerika Merkez Bankası San Francisco, California merkezli 237 metrelik gökdelendir. </string>
+    <string name="draft_transamerica00_title">Transamerika Piramidi</string>
+    <string name="draft_transamerica00_text">
+Transamerica Piramidi, San Francisco'da 1972'de tamamlanan ve finansal hizmetler şirketlerinin merkezi olan 260 metrelik bir gökdelendir.</string>
+    <string name="draft_feature_landmarks05_text">,San Francisco, CA.'dan ünlü binalar al</string>
     <string name="dialog_cemeteryclear_title">Şimdi Temizle</string>
     <string name="dialog_cemeteryclear_text">Bence biraz alan açabiliriz.</string>
     <string name="cemetery_cmdclear">Şimdi Temizle</string>
@@ -1872,8 +1873,8 @@ Eksiler: Daha az olaylar</string>
     <string name="draft_halloween_pumpkin00_text">Cadılar Bayramı yaklaşıyor! Herkes balkabağı sever, değil mi?</string>
     <string name="draft_halloween_tree00_title">Ölü Ağaç</string>
     <string name="draft_halloween_tree00_text">Bir zamanlar altında korkunç hikayelerin anlatıldığı korkunç bir ağaç.</string>
-    <string name="draft_feature_landmarks04_title">Landmarks V</string>
-    <string name="draft_feature_landmarks05_title">Landmarks VI</string>
+    <string name="draft_feature_landmarks04_title">Şehir Simgesi V</string>
+    <string name="draft_feature_landmarks05_title">Şehir Simgesi VI</string>
     <string name="draft_marker_hackedmarkermarker_title">BU VERSİYON HACKLİ!</string>
 
     <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
@@ -1893,9 +1894,9 @@ Eksiler: Daha az olaylar</string>
     <string name="draft_police03_text">Birazcık para yatır ve illegal aktiviteleri sonlandır.</string>
     <string name="draft_sf_cityhall00_title">Şehir Merkezi</string>
     <string name="draft_sf_cityhall00_text">Bu şehir merkezi San Fransisco\'daki den uyarlandı.</string>
-    <string name="draft_sf_fineartspalace00_title">Palace of Fine Arts</string>
+    <string name="draft_sf_fineartspalace00_title">Güzel Sanatlar Sarayı</string>
     <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
-    <string name="shader_invert">Inverted</string>
+    <string name="shader_invert">Başaşağı</string>
 
     <string name="draft_present_notification00_text">Noel babadan gelen bu hediye patlar.</string>
     <string name="draft_present_notification01_text">Noel babadan gelen bu hediye sana elmas verir.</string>
@@ -1953,7 +1954,7 @@ Eksiler: Daha az olaylar</string>
     <string name="store_new">Yeni ve güncellenmiş</string>
     <string name="draft_cat_plugins00_title">Eklentiler</string>
     <string name="dialog_storesearch_title">Eklenti ara</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
+    <string name="dialog_storesearch_text">Anahtar kelime Girin:</string>
     <string name="dialog_storesearch_cmdsearch">Ara</string>
 
     <string name="draft_deco_chr_santashouse00_title">Noel Baba\'nın evi</string>
@@ -1991,13 +1992,13 @@ Eksiler: Daha az olaylar</string>
     <string name="draft_trainstation00_title">Yerel trafik platformu</string>
     <string name="draft_trainstation00_text">Sadece yerel trenler burada başlayıp bitecek.</string>
     <string name="draft_trainstation01_title">Uzun mesafeli trafik platformu</string>
-    <string name="draft_trainstation01_text">This platform is reserved for long-distance travel.</string>
-    <string name="draft_train_freight_station00_title">Freight depot 1</string>
+    <string name="draft_trainstation01_text">Bu platform uzun mesafeli yolculuklar için ayrıldı.</string>
+    <string name="draft_train_freight_station00_title">Yük Deposu 1</string>
     <string name="draft_train_freight_station00_text">Train station for freight traffic.</string>
-    <string name="draft_train_freight_station01_title">Freight depot 2</string>
-    <string name="draft_train_freight_station02_title">Freight depot 3</string>
-    <string name="draft_train_freight_station03_title">Freight depot 4</string>
-    <string name="draft_train_freight_station04_title">Freight depot 5</string>
+    <string name="draft_train_freight_station01_title">Yük Deposu 2</string>
+    <string name="draft_train_freight_station02_title">Yük Deposu 3</string>
+    <string name="draft_train_freight_station03_title">Yük Deposu 4</string>
+    <string name="draft_train_freight_station04_title">Yük Deposu 5</string>
     <string name="draft_trainstation_prebuilt00_title">Küçük istasyon</string>
     <string name="draft_trainstation_prebuilt00_text">Küçük yerler için küçük tren istasyonu.</string>
     <string name="draft_trainstation_prebuilt01_title">İstasyon</string>
@@ -2005,18 +2006,18 @@ Eksiler: Daha az olaylar</string>
     <string name="draft_trainstation_prebuilt02_title">Büyük istasyon</string>
     <string name="draft_trainstation_prebuilt02_text">Büyük ve uzun mesafeli yerler için büyük tren istasyonu.</string>
     <string name="draft_cat_train00_parts00_title">Paçalar</string>
-    <string name="draft_raildeco_crane00_title">Crane</string>
-    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
+    <string name="draft_raildeco_crane00_title">Vinç</string>
+    <string name="draft_raildeco_crane00_text">Demiryolun için bir yük vinci.</string>
     <string name="draft_raildeco_traincrossing00_title">Tren Geçidi</string>
     <string name="draft_raildeco_traincrossing00_text">Demiryolun için tren geçidi.</string>
     <string name="draft_raildeco_mast00_title">Overhead line mast</string>
     <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
     <string name="draft_raildeco_lights00_00_title">Trafik Işığı</string>
     <string name="draft_raildeco_lights00_00_text">Demiryolun için trafik ışığı</string>
-    <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
-    <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
-    <string name="draft_trainstation_prebuilt11_title">Big freight depot</string>
-    <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
+    <string name="draft_trainstation_prebuilt10_title">Yük deposu</string>
+    <string name="draft_trainstation_prebuilt10_text">Sanayi ürünleri için tren istasyonu</string>
+    <string name="draft_trainstation_prebuilt11_title">Büyük yük deposu</string>
+    <string name="draft_trainstation_prebuilt11_text">Daha çok sanayi ürünleri için büyük bir tren istasyonu.</string>
 
 
     <string name="channel_city_title">Şehir haberleri</string>
@@ -2243,12 +2244,12 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_acquiremapfreemium_text">Tebrikler, burası kendi şehrinizi inşa etmek için edinebileceğiniz ücretsiz bir yer.</string>
     <string name="settings_sound_plugins">Eklentiler</string>
     <string name="createregion_title">Yeni bölge</string>
-    <string name="createregion_split">Split</string>
-    <string name="createregion_merge">Merge</string>
-    <string name="createregion_hide">Exclude</string>
-    <string name="createregion_show">Include</string>
+    <string name="createregion_split">Ayır</string>
+    <string name="createregion_merge">Birleştir</string>
+    <string name="createregion_hide">Dahil etme</string>
+    <string name="createregion_show">Dail et</string>
     <string name="createcity_sizebigbigbigbig">Daha Büyük</string>
-    <string name="createregion_layout">Layout:</string>
+    <string name="createregion_layout">Düzen:</string>
     <string name="createregion_layout2x2">2x2</string>
     <string name="createregion_layoutcircle">Dairesel</string>
     <string name="dialog_deleteregion_title">Eyaleti sil</string>
@@ -2256,8 +2257,8 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_deleteregion_cmd">Sil</string>
     <string name="dialog_resetregion_title">Eyaleti sıfırla</string>
     <string name="dialog_resetregion_text">Eyaleti sıfırlayacağından emin misin? Geri alamazsın.</string>
-    <string name="dialog_resetregion_cmd">Reset</string>
-    <string name="dialog_regionpassword_title">Enter region password</string>
+    <string name="dialog_resetregion_cmd">Sıfırla</string>
+    <string name="dialog_regionpassword_title">Bölge şifresini girin</string>
     <string name="dialog_regionpassword_text">Password:</string>
     <string name="dialog_generateregion_title">Eyalet Oluştur</string>
     <string name="dialog_generateregion_text">Eyalet oluşturmak istiyor musun?</string>
@@ -2265,13 +2266,13 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_uploadregionaccount_text">Oyun içi eyalet paylaşmak için TheoTown hesabını bağlamalısın.</string>
     <string name="dialog_uploadregion_title">Eyalet Paylaş</string>
     <string name="dialog_uploadregion_text">This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If no password is set other players can join there then, too.</string>
-    <string name="dialog_uploadregion_cmdpassword">Password ...</string>
+    <string name="dialog_uploadregion_cmdpassword">Şifre ...</string>
     <string name="dialog_uploadregion_cmdupload">Paylaş</string>
     <string name="stage_uploadregion_uploading">Eyalet paylaşılıyor</string>
     <string name="dialog_uploadregionpassword_title">Şifrenizi giriniz</string>
-    <string name="dialog_uploadregionpassword_text">Here you can enter a password to access the region. Leave this field empty to set no password.</string>
+    <string name="dialog_uploadregionpassword_text">Bölgeye erişebilmek için buraya şifre girebilirsiniz. Şifre koymamak için bu bölgeyi boş bırakın.</string>
     <string name="dialog_regionsearch_title">Eyalet Ara</string>
-    <string name="dialog_regionsearch_text">Enter a keyword below:</string>
+    <string name="dialog_regionsearch_text">Anahtar kelimeyi girin:</string>
     <string name="dialog_regionsearch_cmdsearch">Ara</string>
     <string name="dialog_regioncoininfo_title">Eyalet Parası?</string>
     <string name="dialog_regioncoininfo_text">Parasal sıkıntılar için Eyalet Parasını icat ettik. Eyalet parasını sadece oyuna girerek günlük kazanacaksın.\n\nThis currency allows us to offer you our online services for free.</string>
@@ -2282,9 +2283,9 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that are not part of the game nor have any cities in them (yet).</string>
     <string name="dialog_acquirecityaccount_title">Hesap gerekli</string>
     <string name="dialog_acquirecityaccount_text">In order to acquire a plot in a online region you have to connect TheoTown with a TheoTown account.</string>
-    <string name="region_onlinecity_free">This plot is free so you can acquire it.</string>
-    <string name="region_onlinecity_acquired">This is your plot. You can found a city here.</string>
-    <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
+    <string name="region_onlinecity_free">Bu bölge bedava bu yüzden bu bölgeyi alabilirsiniz</string>
+    <string name="region_onlinecity_acquired">Bu sizin bölgeniz. Şehrinizi buraya kurabilirsiniz.</string>
+    <string name="region_onlinecity_wait">Bu bölgeden başka bir şehir elde etmek için biraz bekleyin.</string>
 
 
     <string name="dialog_savingissue_title">Kaydetme Başarısız</string>
@@ -2303,7 +2304,7 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_regionrules_norules">Burada hiçbir kural yok.</string>
     <string name="stage_onlineregion_rules">Kurallar</string>
     <string name="control_report">Bildir</string>
-    <string name="stage_regioncity_reportsubject">the city %1$s</string>
+    <string name="stage_regioncity_reportsubject">Şehir %1$s</string>
     <string name="stage_regioncity_owner">Sahip: %1$s</string>
     <string name="stage_regioncity_playtime">Oynama zamanı: %1$s</string>
 
@@ -2400,7 +2401,7 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="settings_category_gameplay">Oynanış</string>
     <string name="settings_autosavewhenleaving">Oyundan çıktığımda otomatik kaydet</string>
     <string name="stage_regioncity_visits">Ziyaret: %1$,d</string>
-    <string name="dialog_missingplugins_total">Kullanılan Pluginler</string>
+    <string name="dialog_missingplugins_total">Kullanılan eklentiler</string>
     <string name="settings_maprenderingnobackground">Ekran görüntüsünde saydam arkaplan</string>
     <string name="dialog_citygifts_title">Hediyeler</string>
     <string name="dialog_citygifts_cmdnew">Hediye Yolla</string>
@@ -2428,63 +2429,63 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
 
 
     <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
+    <string name="dialog_uploadregiontoobig_title">Bölge yükle</string>
+    <string name="dialog_uploadregiontoobig_text">Bu bölge yüklenmek için çok büyük :/</string>
+    <string name="channel_onlinemode_title">Çevrimiçi mod</string>
+    <string name="channel_onlinemode_text">Çevrimiçi modundaki şehirlerin için yeni bilgiler.</string>
+    <string name="dialog_externalstorage_proceedwithout">Devam etmek senin riskin</string>
+    <string name="dialog_externalstorage_title">Harici depolamaya erişim yok</string>
     <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
 By doing so we can circumvent potential data loss caused by app updates or re-installation.
 \n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
+    <string name="dialog_onlinenotifications_title">Bildirimler</string>
+    <string name="dialog_onlinenotifications_time">%1$s önce</string>
+    <string name="dialog_onlinenotifications_empty">Henüz bildirim yok</string>
+    <string name="dialog_onlinenotifications_cmdempty">Bildirimler</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Bildirimler (%1$,d)</string>
     <string name="dialog_reason_title">Reason</string>
     <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
+    <string name="store_realtitle">Eklenti Mağazası</string>
+    <string name="settings_pushnotificationsonline">Çevrimiçi mod için bilidirimler.</string>
+    <string name="settings_verticaltoolbar">Dikey araç çubuğu</string>
+    <string name="settings_darktoolbar">Kara araç çubuğu</string>
+    <string name="dialog_tutwelcome_title">TheoTown\'a hoşgeldiniz</string>
     <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
 You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="dialog_tutwelcome_cmdskip">Öğreticiyi geç</string>
+    <string name="dialog_tutwelcome_start">Hadi başlayalım</string>
 
 
-    <string name="settings_catplugins">Plugins</string>
-    <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
+    <string name="settings_catplugins">Eklentiler</string>
+    <string name="settings_keys">Anahtarlar</string>
+    <string name="settings_keys_cmdreset">Varsayılan durumuna çevir</string>
     <string name="settings_keys_text">Currently assigned: %1$s\n
 Default: %2$s\n\n
 Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_toolbarnames">İsimleri araç çubuğunda göster.</string>
+    <string name="settings_toolbarprices">Fiyatları araç çubuğunda göster.</string>
 
 
-    <string name="shader_default2">Default</string>
+    <string name="shader_default2">Varsayılan</string>
 
 
-    <string name="dialog_regionnopermission_title">No access</string>
+    <string name="dialog_regionnopermission_title">Erişim yok</string>
     <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
-    <string name="ranger_cmdselecttrees">Select trees</string>
+    <string name="ranger_cmdselecttrees">Ağaçları seç</string>
     <string name="draft_treeplantertool00_title">Tree Planter</string>
     <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
-    <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species:</string>
-    <string name="treeplanter_density">Density:</string>
+    <string name="treeplanter_cmdconfigure">Yapılandır</string>
+    <string name="treeplanter_species">Türler:</string>
+    <string name="treeplanter_density">Yoğunluk:</string>
     <string name="treeplanter_roughness">Roughness:</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
-    <string name="control_about">About</string>
+    <string name="treeplanter_brushsize">Fırça boyutu:</string>
+    <string name="treeplanter_outofcash">Para kalmadı</string>
+    <string name="control_about">Hakkında</string>
     <string name="about_framework">Framework</string>
-    <string name="control_undo">Undo</string>
-    <string name="control_redo">Redo</string>
-    <string name="toolaction_zoneroad">Add roads</string>
-    <string name="settings_fullscreen_resolution">Fullscreen resolution</string>
+    <string name="control_undo">Geri al</string>
+    <string name="control_redo">Tekrar yap</string>
+    <string name="toolaction_zoneroad">Yol ekle</string>
+    <string name="settings_fullscreen_resolution">Tam ekran çözünürlüğü</string>
     <string name="settings_tool_history">Undo functionality</string>
     <string name="topic_birthday_ja">Happy birthday JustAnyone!</string>
 
@@ -2493,106 +2494,106 @@ Press a key to assign it to this action.</string>
     <string name="ci_neighbor_ne">NE</string>
     <string name="ci_neighbor_nw">NW</string>
     <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
+    <string name="dialog_removewithprice_title">Kaldırma bedeli</string>
     <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
 
 
     <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
+    <string name="draft_marker_powermarker_text">Coverage with energy. Enerji kablolar ile transfer edilir.</string>
+    <string name="draft_marker_waterpipemarker_title">Su</string>
+    <string name="draft_marker_waterpipemarker_text">The coverage with water. Su yerleşimcilerinize borular ile ulaştırılır.</string>
+    <string name="stage_files_title">Dosya yöneticisi</string>
+    <string name="stage_files_importhere">Buraya yükle</string>
+    <string name="stage_files_currentdir">Şu anki klasörr</string>
+    <string name="stage_files_actions">Eylemler</string>
     <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
+    <string name="stage_files_actionrename">Yeniden adlandır</string>
+    <string name="stage_files_actionrename_text">Dosyayı yeniden adlandır %1$s:</string>
+    <string name="stage_files_renamecollision_title">İsim çakışması</string>
+    <string name="stage_files_renamecollision_text"> %1$s isimli dosya zaten var!</string>
+    <string name="stage_files_actiondelete">Sil</string>
+    <string name="stage_files_actiondelete_title">Sil?</string>
     <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
+    <string name="stage_files_settings">Ayarlar</string>
+    <string name="stage_files_settings_showhiddenfiles">Gizli dosyaları göster</string>
+    <string name="stage_files_filesize">Boyut: %1$s</string>
+    <string name="stage_files_helptitle">Yardım</string>
+    <string name="stage_files_helptext">TheoTown dosya yöneticisine hoşgeldin. Burada haritalarına, bölgelerine, eklentilerine ve daha fazlasına erişebilir ve yönetebilirsin.</string>
+    <string name="unit_sizebytes">%1$,d baytlar</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
+    <string name="pluginerror_locateplugin">Plugin\'i konumlandır</string>
+    <string name="stage_files_createfolder">Dosya oluştur</string>
+    <string name="stage_files_createfolder_title">Yeni dosya</string>
+    <string name="stage_files_createfolder_text">Dosya için isim girin:</string>
+    <string name="stage_files_createfolder_cmdcreate">Oluştur</string>
+    <string name="stage_files_createfoldercollision_title">Dosya var</string>
+    <string name="stage_files_createfoldercollision_text"> %1$s isimli dosya zaten var</string>
     <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
+    <string name="stage_files_importherefiles">Dosya(lar)</string>
+    <string name="stage_files_importherefolders">Klasör</string>
+    <string name="draft_mosque10_title">Hassan II Camii</string>
     <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="dialog_filesrestart_title">Baştan Başla</string>
+    <string name="dialog_filesrestart_text">Değişikliklerin uygulanabilmesi için oyunu baştan başlatmanız gerekebilir.\n\nOyunu şimdi yeniden başlatmak istiyor musunuz??</string>
+    <string name="dialog_filesrestart_cmdrestart">Yeniden başlat</string>
+    <string name="dialog_filesrestart_cmdlater">Sonra</string>
+    <string name="settings_multiroaddecosupport">Çoklu yol dekorları için destek</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 
-    <string name="draft_tunnel_management00_title">Road authority</string>
+    <string name="draft_tunnel_management00_title">Yol yetkisi</string>
     <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="draft_tunnel_management00_title_premium">Road authority</string>
+    <string name="draft_tunnel_management00_title_premium">Yol yetkisi</string>
     <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="stage_account_whytoregister">Why to register</string>
-    <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
+    <string name="stage_account_whytoregister">Neden kayıt olmalısın</string>
+    <string name="stage_account_pro_onlinemode">Çevrimiçi mod bölgelerine katılabilirsin.</string>
+    <string name="stage_account_pro_comment">Eklentilere ve şehirlere yorum yapabilirisin.</string>
+    <string name="stage_account_pro_synchronize">Paranız ve satın almalarınız senkronize edilir.</string>
+    <string name="stage_account_con_localcities">Sadece yerel şehirler yerel olarak depolanır.</string>
 
 
-    <string name="draft_discord_statue02_title">Discord 20k</string>
+    <string name="draft_discord_statue02_title">Discord 20bn</string>
     <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
+    <string name="settings_drawpedestrians">Yayalar</string>
+    <string name="draft_pedestrian_road00_title">Kaldırım</string>
     <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
     <string name="draft_deco_chr_manger00_title">Wooden manger</string>
     <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
+    <string name="settings_diagonalroadtool">Destekleniyorsa çapraz olarak yol oluşturabilirsiniz</string>
     <string name="settings_smoothzoom">Smooth zoom</string>
-    <string name="settings_smoothzoom_off">Off</string>
+    <string name="settings_smoothzoom_off">Kapalı</string>
     <string name="settings_smoothzoom_nearest">Blocky</string>
-    <string name="settings_smoothzoom_linear">Blurry</string>
-    <string name="settings_smoothzoom_fast">Fast</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
+    <string name="settings_smoothzoom_linear">Bulanık</string>
+    <string name="settings_smoothzoom_fast">Hızlı</string>
+    <string name="settings_regionoriginbackup">Yeni oluşturulan bölgeler için şehir sıfırlama seçeneği.</string>
+    <string name="settings_translateplugins">Çeviri eklentileri</string>
+    <string name="stage_region_greeter_welcome">Hoşgeldiniz</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
-    <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
+    <string name="settings_darkbuildtool">Koyu inşa aracı</string>
+    <string name="forum_cmdforgot">Unuttunuz mu?</string>
+    <string name="store_rating">Oy</string>
+    <string name="store_rating_unrated">OYLANMAMIŞ</string>
+    <string name="store_rating_verynegative">ÇOK KÖTÜ</string>
+    <string name="store_rating_negative">KÖTÜ</string>
+    <string name="store_rating_mixed">ORTA</string>
+    <string name="store_rating_positive">GÜZEL</string>
+    <string name="store_rating_verypositive">ÇOK GÜZEL</string>
+    <string name="draft_draft_wst_title">Atık bertarafı mutluluğu</string>
     <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
     <string name="settings_plugin_texture_cache">Plugin texture cache</string>
     <string name="draft_tree_spruce00_title">Spruce</string>
     <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
     <string name="draft_tree_alder00_title">Alder</string>
     <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="stage_gallery_loadingimages">Resimler yükleniyor...</string>
     <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
     <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="ci_budget_help_nomoney">Burada vergilerinizi ve aylık giderlerinizi görüntüleyebiliriniz ve vergilerinizi düzenleyebilirsiniz. Daha zengin yerleşimciler ve işciler daha çok vergi öder. Aşırı yüksek vergilerden dolayı yerleşimcileriniz mutsuz olur ve şehri terk eder, buda düşük vergi mutluluğuna neden olur. Vergilerinizi 6.5 ve 8.0 arası ayarlamanızı öneririz.</string>
 
 </resources>
