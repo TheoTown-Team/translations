@@ -34,6 +34,7 @@ Every directory contains a `values.xml` file. The corresponding languages are:
 - values-tr: Turkish
 - values-uk: Ukrainian
 - values-vi: Vietnamese
+- values-zh-rHK: Chinese (Hong Kong)
 - values-zh-rTW: Traditional Chinese
 - values-zh: Chinese
 - values: English (*default language*) ← **Always up to date**<br/>
