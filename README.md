@@ -11,6 +11,7 @@ You have just to translate the part in between (here "My Translation"). Special 
 
 ### Languages ###
 Every directory contains a `values.xml` file. The corresponding languages are:
+- values-af: Afrikaans
 - values-b+fil: Filipino
 - values-eu: Basque
 - values-ca: Catalan
