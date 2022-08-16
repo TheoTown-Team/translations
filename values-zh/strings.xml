@@ -154,7 +154,7 @@
     <string name="draft_decores00_title">住宅区</string>
     <string name="draft_busdepot00_title">公交车库</string>
     <string name="draft_bigschool00_title">大型小学</string>
-    <string name="draft_basketball00_title">篮球</string>
+    <string name="draft_basketball00_title">篮球场</string>
     <string name="draft_alert_police00_title">报警</string>
     <string name="disaster_earthquake_title">地震</string>
     <string name="dialog_screenshot_cmdok">好的,谢谢</string>
@@ -266,7 +266,7 @@
     <string name="ci_general_seed">随机值: %1$s</string>
     <string name="ci_loan_estate">财产: %1$s</string>
     <string name="topic_android">现在苹果也可以玩了哦（</string>
-    <string name="shader_default">标准</string>
+    <string name="shader_default">经典</string>
     <string name="shader_colorful">鲜艳</string>
     <string name="shader_fancy">准确</string>
     <string name="settings_sound_ui">界面音效</string>
@@ -2597,7 +2597,7 @@
 
 
     <string name="draft_discord_statue02_title">Discord 20K 纪念雕塑</string>
-    <string name="draft_discord_statue02_text">一个新的雕塑来纪念我们 Discord 上超过 20000 成员的庆典\n为了这个庆典我们举办了一次寻宝活动，我们光荣的同志 KolaKattz 率先完成这次活动。</string>
+    <string name="draft_discord_statue02_text">一个新的雕塑来纪念我们Discord上超过20000成员的庆典\n为了这个庆典我们举办了一次寻宝活动，我们光荣的同志 KolaKattz 率先完成这次活动。</string>
     <string name="settings_drawpedestrians">行人</string>
     <string name="draft_pedestrian_road00_title">人行道</string>
     <string name="draft_pedestrian_road00_text">一个简易的人行道为行人链接道路和邻近的建筑。</string>
@@ -2629,44 +2629,44 @@
 
     <string name="settings_plugin_texture_cache">缓存插件纹理库</string>
     <string name="draft_tree_spruce00_title">云杉</string>
-    <string name="draft_tree_spruce00_text">云杉是一种常绿针叶乔木，它生长于北温带以及寒带，最高能到 60 米呢！</string>
+    <string name="draft_tree_spruce00_text">云杉是一种常绿针叶乔木，它生长于北温带以及寒带，最高能到60米呢！</string>
     <string name="draft_tree_alder00_title">桤木</string>
-    <string name="draft_tree_alder00_text">一种看上去稀松平常的树，貌似能长到 30 米高的说。</string>
+    <string name="draft_tree_alder00_text">一种看上去稀松平常的树，貌似能长到30米高的说。</string>
     <string name="stage_gallery_loadingimages">加载图像中⋯⋯</string>
 
 
     <string name="ci_neighbor_help">您可以在这里与相邻的城市共享垃圾处理和葬礼服务资源及相互进出口能源与水资源。</string>
-    <string name="ci_budget_help">您可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为 6.5 至 8.0 之间。</string>
-    <string name="ci_budget_help_nomoney">您可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为 6.5 至 8.0 之间。</string>
+    <string name="ci_budget_help">您可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为6.5至8.0之间。</string>
+    <string name="ci_budget_help_nomoney">您可以在这里预览和调整城市的税务和每月支出，更有钱的居民可以缴纳更多的税款，但税率过高将导致居民对城市的满意度降低，甚至搬离城市，所以建议将税率设定为6.5至8.0之间。</string>
 
     <string name="stage_account_pro_gallery">将您的城市屏幕截图上传到画廊</string>
 
 
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="comments_locked">该评论区已被锁定</string>
+    <string name="comments_cmd_lock">锁定</string>
+    <string name="comments_cmd_unlock">解锁</string>
+    <string name="store_cat_officialgameextensions">官方游戏扩展内容</string>
+    <string name="dialog_screenshot_cmdshare">分享</string>
+    <string name="settings_targetfps">帧数上限</string>
+    <string name="settings_targetfps_auto">自动</string>
+    <string name="dialog_nointernetaccess_title">无网络连接</string>
+    <string name="dialog_nointernetaccess_text">您已离线</string>
+    <string name="dialog_nointernetaccess_cmdgotit">好的</string>
+    <string name="store_modebestrated">评分最高</string>
+    <string name="dialog_pluginqualityunsure_title">注意</string>
+    <string name="dialog_pluginqualityunsure_text">您要下载的此插件暂未获得更多的下载或评分。因此，它可能无法完全满足您的期望。 </string>
+    <string name="dialog_pluginqualityunsure_gotit">好的</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">不再显示</string>
+    <string name="store_modecertifiedcreators">认证作者</string>
+    <string name="ci_rating_help">在这里，您可以看到居民的满意度，更高的满意度将吸引更多的人住在你的城市，点击下列其中一行以查看您城市中的相应分布。</string>
+    <string name="ci_rank_help">一个城市的当前等级表明了该城市的发展水平，您可以通过获得更多居民或只在总体上发展城市从而获得城市积分以达到下一个级别，解锁等级可以为您解锁新建筑。</string>
+    <string name="ci_loan_help">没钱了是吧？您还可以贷款以建造您的城市，记住嗷，随着时间的流逝，您必须偿还贷款。</string>
+    <string name="ci_health_help">在大城市里保持健康可能是莫大的问题，建造更多医疗设施以使得您的居民更加快乐并保持健康。</string>
+    <string name="ci_energy_help">电力彻底改变了这个时代。大多建筑物都需要电力的供应以维持运作，您必须有足够的电力能源，并且让所有建筑都能接入电网的服务！</string>
+    <string name="ci_info_help">在这里，您可以查阅这座城市所有的主要信息！</string>
+    <string name="ci_education_help"> 教育至关重要，尤其是对改善居民的生活条件和吸引受过教育的工人和投资者来说。 </string>
+    <string name="ci_airport_help">这本质上是利用塔台来调整您机场的各项资源，您可以在地图上选择跑道、购买飞机，并且将飞机分配给跑道。（一条跑道只有一架飞机来飞着实离谱）</string>
+    <string name="ci_water_help">水是生命之源，对于您的居民们来说至关重要，您必须有足够的淡水资源，并通过水管与各个建筑物相连。请确保您的水泵放在受污染的区域之外，否则您的居民会因污染的水源生病。</string>
+    <string name="ci_statistics_help">这些图表可以帮助您追踪城市的发展，使用右侧的箭头在不同的图表之间切换。+/-按钮可用于放大和缩小。 </string>
 
 </resources>
