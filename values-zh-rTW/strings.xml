@@ -39,7 +39,7 @@
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawmapedges">地圖邊緣</string>
     <string name="loadcity_errordialog_title">加載失敗</string>
-    <string name="loadcity_errordialog_text">這個城市不能成功加載，因為所需的文件已損壞。\n\n我們很抱歉。</string>
+    <string name="loadcity_errordialog_text">這個城市不能成功加載，因為所需的檔已損壞。\n\n我們很抱歉。</string>
     <string name="loadcity_errordialog_cmdcancel">取消</string>
     <string name="dialog_screenshot_title">屏幕截圖</string>
     <string name="dialog_screenshot_text">截圖以保存在%1$s。</string>
@@ -218,7 +218,7 @@
     <string name="buildinginfo_habitants">居民: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">工人: %1$,d/%2$,d</string>
     <string name="topic_giveup">永遠都不要放棄哦</string>
-    <string name="dialog_screenshot_error">目標文件夾%1$s無法建立, 請檢查遊戲的權限。</string>
+    <string name="dialog_screenshot_error">目標資料夾%1$s無法建立, 請檢查遊戲的權限。</string>
     <string name="settings_energysaving">省電模式</string>
     <string name="about_idea">創意</string>
     <string name="about_programming">編程</string>
@@ -1102,7 +1102,7 @@
     <string name="store_shortdesc">在這個城市模擬遊戲中建立屬於你自己的城市。</string>
     <string name="store_longdesc">建一個屬於你的城市怎麽樣？在TheoTown裏，你可以見證你自己的城市通過建造不同的居民區，商業區和工業區慢慢的成長。建立道路來使交通更加發達；你也可以建立學校，公園等等來讓你的居民遊泳更加豐富多彩的生活。
 
-如果你允許TheoTown訪問你的外部儲存，TheoTown會把你的城市存在你的手機的TheoTown/maps文件夾裏。</string>
+如果你允許TheoTown訪問你的外部儲存，TheoTown會把你的城市存在你的手機的TheoTown/maps資料夾裏。</string>
 
     <string name="settings_sound_weather">天氣</string>
 
@@ -1382,7 +1382,7 @@
     <string name="notify_disaster_nuke">這里有一顆核彈爆炸！</string>
     <string name="notify_disaster_tornado">這不只是刮風了，這是龍卷風！</string>
     <string name="notify_disaster_ufo">外星人來了！而且好像還要毀滅這里！！！</string>
-    <string name="settings_download_static_files">靜態文件下載</string>
+    <string name="settings_download_static_files">靜態資料下載</string>
     <string name="pluginerror_visitforum">去論壇報告</string>
     <string name="dialog_gameplay_title">在Theo直播直播Theotown</string>
     <string name="dialog_gameplay_text">通過啟用游戲內容上傳，你允許我們將你的游戲畫面（且不包括任何其他界面，如文本框、懸浮窗等）上傳到我們的服務器并允許他人在官網觀看。同時間上傳的也會有一些調試用數據，用來改善游戲體驗。我們不會上傳您的任何個人信息。更多信息請參閱免責聲明。</string>
@@ -2049,7 +2049,7 @@
     <string name="dialog_ubermode_title">烏托邦模式</string>
     <string name="dialog_ubermode_text">開啟這個特殊的模式來免除所有的麻煩！\n-這里將不再有火災、垃圾、疾病、犯罪、死亡，居民們也會有100%的教育水平并且会对您的政策100%的满意的！\n译者注：此模式原名叫 Uber Mode，暂时先这么翻译吧。</string>
     <string name="topic_pluginsawesome">插件真的很不錯——不過你用不到的還是禁用一下吧。</string>
-    <string name="topic_platforms">現在 TheoTown 在安卓、iOS以及Steam（PC端）都可用啦！</string>
+    <string name="topic_platforms">現在 TheoTown 在安卓、iOS以及Steam都可游玩啦！</string>
     <string name="topic_pluginspace">插件可用的空間是有限的，請多多留意。</string>
     <string name="topic_rotate">你甚至可以旋轉你的城市</string>
     <string name="topic_pineapple">菠蘿披薩？</string>
@@ -2518,99 +2518,99 @@ Press a key to assign it to this action.</string>
     <string name="stage_files_createfolder_cmdcreate">Create</string>
     <string name="stage_files_createfoldercollision_title">File exists</string>
     <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="tool_terrain_smoothwaterheights">平滑深度</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="stage_files_importherefiles">檔案</string>
+    <string name="stage_files_importherefolders">資料夾</string>
+    <string name="draft_mosque10_title">哈桑二世清真寺</string>
+    <string name="draft_mosque10_text">哈桑二世清真寺是摩洛哥卡薩布蘭卡的一座清真寺。\n 它是非洲最大的清真寺，也是世界第七大清真寺。 \n它的宣禮塔是世界第二高的宣禮塔，高 689 英呎。 \n它於 1993 年竣工，由蜜雪兒·平索在國王哈桑二世的指導下設計，由來自摩洛哥各地的工匠建造。 \n尖塔高 60 層，頂部有鐳射，光線射向麥加。 \n清真寺矗立在海角上，俯瞰大西洋; 信徒可以在海上祈禱，但沒有可以望向大海的玻璃地板。 牆壁是手工製作的大理石，屋頂是可伸縮的。 \n這裡最多可以聚集十萬五千名信徒一起祈禱：兩萬五千人在清真寺大廳內，另外八萬人在清真寺外地面。</string>
+    <string name="dialog_filesrestart_title">重新啟動</string>
+    <string name="dialog_filesrestart_text">你需要重啟來使更改生效。\n\n現在就重新啟動嗎?</string>
+    <string name="dialog_filesrestart_cmdrestart">是的</string>
+    <string name="dialog_filesrestart_cmdlater">稍等</string>
+    <string name="settings_multiroaddecosupport">道路裝飾疊加</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 
-    <string name="draft_tunnel_management00_title">Road authority</string>
-    <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="draft_tunnel_management00_title_premium">Road authority</string>
-    <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="stage_account_whytoregister">Why to register</string>
-    <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
+    <string name="draft_tunnel_management00_title">路政管理局</string>
+    <string name="draft_tunnel_management00_text">將修建隧道的鑽石費用減免，讓收費站創造更多的收入，並使這座城市的道路建設的總體成本更低廉。</string>
+    <string name="draft_tunnel_management00_title_premium">全局路政管理</string>
+    <string name="draft_tunnel_management00_text_premium">將修建隧道的鑽石費用減免，讓收費站創造更多的收入，並使所有城市的道路建設的總體成本更低廉。</string>
+    <string name="stage_account_whytoregister">為何註冊</string>
+    <string name="stage_account_pro_onlinemode">參與在線模式區域</string>
+    <string name="stage_account_pro_comment">評論插件及城市</string>
+    <string name="stage_account_pro_synchronize">同步您的鑽石資源和購買記錄</string>
+    <string name="stage_account_con_localcities">本地的城市檔不會被同步</string>
 
 
     <string name="draft_discord_statue02_title">Discord 20k</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
-    <string name="settings_smoothzoom_off">Off</string>
-    <string name="settings_smoothzoom_nearest">Blocky</string>
-    <string name="settings_smoothzoom_linear">Blurry</string>
-    <string name="settings_smoothzoom_fast">Fast</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="draft_discord_statue02_text">一個新的雕塑來紀念我們Discord上超過20000成員的慶典。\n為了這個慶典我們舉辦了一次尋寶活動，我們光榮的同志 KolaKattz 率先完成這次活動。</string>
+    <string name="settings_drawpedestrians">行人</string>
+    <string name="draft_pedestrian_road00_title">人行道</string>
+    <string name="draft_pedestrian_road00_text">一個簡單的人行道，為行人連接近距離的建築物。</string>
+    <string name="draft_deco_chr_manger00_title">木製飼料槽</string>
+    <string name="draft_deco_chr_manger00_text">一個超大的開放式盒子，牛馬和其他動物從中覓食。</string>
+    <string name="settings_diagonalroadtool">建造對角線道路</string>
+    <string name="settings_smoothzoom">平滑縮放</string>
+    <string name="settings_smoothzoom_off">關閉</string>
+    <string name="settings_smoothzoom_nearest">塊製</string>
+    <string name="settings_smoothzoom_linear">模糊</string>
+    <string name="settings_smoothzoom_fast">快速</string>
+    <string name="settings_regionoriginbackup">選擇重置新生成區域里的城市</string>
+    <string name="settings_translateplugins">插件翻譯</string>
+    <string name="stage_region_greeter_welcome">歡迎來到</string>
+    <string name="stage_region_greeter_madewith">製作者：</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
+    <string name="settings_darkbuildtool">暗色建造頁面</string>
+    <string name="forum_cmdforgot">忘記了?</string>
+    <string name="store_rating">評價</string>
     <string name="store_rating_unrated">NOT RATED</string>
     <string name="store_rating_verynegative">VERY NEGATIVE</string>
     <string name="store_rating_negative">NEGATIVE</string>
     <string name="store_rating_mixed">MIXED</string>
     <string name="store_rating_positive">POSITIVE</string>
     <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="draft_draft_wst_title">垃圾處理幸福指數</string>
+    <string name="draft_draft_wst_text">關於垃圾處理的幸福指數。</string>
+    <string name="settings_plugin_texture_cache">插件紋理緩存</string>
+    <string name="draft_tree_spruce00_title">雲杉</string>
+    <string name="draft_tree_spruce00_text">雲杉是針葉常綠喬木。 大多數雲杉生長在北溫帶及以北地區。 它可以長到200英呎高。</string>
+    <string name="draft_tree_alder00_title">槳木</string>
+    <string name="draft_tree_alder00_text">一種可以長到100英呎的樹，看起來很普遍。</string>
+    <string name="stage_gallery_loadingimages">載入圖像中...</string>
+    <string name="ci_neighbor_help">您可以在這裏與相鄰的城市共用垃圾處理和葬禮服務資源及相互進出口能源與水資源。</string>
+    <string name="ci_budget_help">您可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的滿意度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
+    <string name="ci_budget_help_nomoney">您可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的滿意度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">上載您的截圖到畫廊</string>
+    <string name="comments_locked">評論已鎖定</string>
+    <string name="comments_cmd_lock">上鎖</string>
+    <string name="comments_cmd_unlock">解鎖</string>
+    <string name="store_cat_officialgameextensions">官方遊戲拓展</string>
+    <string name="dialog_screenshot_cmdshare">分享</string>
+    <string name="settings_targetfps">鎖定最高FPS</string>
+    <string name="settings_targetfps_auto">自動設定</string>
+    <string name="dialog_nointernetaccess_title">未連接</string>
+    <string name="dialog_nointernetaccess_text">您已斷開網路。</string>
+    <string name="dialog_nointernetaccess_cmdgotit">瞭解</string>
+    <string name="store_modebestrated">最佳好評</string>
+    <string name="dialog_pluginqualityunsure_title">請注意</string>
+    <string name="dialog_pluginqualityunsure_text">您將要下載的插件尚未獲得一定的下載量與評論。所以可能和您的預期不符！</string>
+    <string name="dialog_pluginqualityunsure_gotit">瞭解</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">不再展示</string>
+    <string name="store_modecertifiedcreators">認證創作者</string>
+    <string name="ci_rating_help">您可以在這裡看到居民的幸福指數。\n更高的幸福指數可以吸引更多的居民住在你的城市。\n點擊一行以查看城市中的相應分佈。</string>
+    <string name="ci_rank_help">一個城市的當前排名表明瞭它的發展水準。\n您可以吸引更多居民或是發展城市來獲得城市點數，以達到一個新的等級。\n解鎖等級可以為您解鎖新的建築。</string>
+    <string name="ci_loan_help">赤字了? 您可以貸款繼續發展。\n但是隨著時間的推移，您必須償還貸款。</string>
+    <string name="ci_health_help">也許在大城市健康生活是一個難題。\n您可以建立醫療設施，保持您的居民健康快樂。</string>
+    <string name="ci_energy_help">許多建築物需要電力才能運行。\n確保您生產足夠的電能，但也要確保一切都連接到電網。</string>
+    <string name="ci_info_help">這裡是您城市的諮詢總覽。</string>
+    <string name="ci_education_help">教育對於居民改善生活條件至關重要，同時也会吸引受教育的工人和投資者的目光。</string>
+    <string name="ci_airport_help">利用空管塔臺管理您的機場。\n 您可以購買飛機，調配航線。</string>
+    <string name="ci_water_help">水對生命至關重要，您的居民也不例外。 \n確保供给足够的水资源，並且一切都要與管道連接。\n 不要在有污染的地區放置供水设备，否則您的居民會生病。</string>
+    <string name="ci_statistics_help">這些圖表可以説明您的城市發展境況。\n 點擊右側的箭頭在不同的圖形之間切換。 \n點擊+和-按鈕可以放大和縮小圖表。</string>
 
 </resources>
