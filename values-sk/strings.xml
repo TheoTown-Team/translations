@@ -158,9 +158,9 @@
     <string name="budget_com0">Komerčné ₮ (%1$,d)</string>
     <string name="budget_com1">Komerčné ₮₮ (%1$,d)</string>
     <string name="budget_com2">Komerčné ₮₮₮ (%1$,d)</string>
-    <string name="budget_ind0">Industriálne ₮ (%1$,d)</string>
-    <string name="budget_ind1">Industriálne ₮₮ (%1$,d)</string>
-    <string name="budget_ind2">Industriálne ₮₮₮ (%1$,d)</string>
+    <string name="budget_ind0">Priemyselné ₮ (%1$,d)</string>
+    <string name="budget_ind1">Priemyselné ₮₮ (%1$,d)</string>
+    <string name="budget_ind2">Priemyselné ₮₮₮ (%1$,d)</string>
     <string name="budget_park">Parky</string>
     <string name="budget_education">Vzdelanie</string>
     <string name="budget_firebrigade">Hasiči</string>
@@ -171,8 +171,8 @@
     <string name="budget_public">Verejné budovy</string>
     <string name="budget_medic">Zdravotníctvo</string>
     <string name="ci_budget_overall">Celkovo</string>
-    <string name="ci_budget_income">Prímy (za mesiac)</string>
-    <string name="ci_budget_spending">Výdaje (za mesiac)</string>
+    <string name="ci_budget_income">Príjem (mesačne)</string>
+    <string name="ci_budget_spending">Výdaje (mesačne)</string>
     <string name="ci_budget_taxes">Dane</string>
     <string name="money">%1$,d₮</string>
     <string name="ci_water_title">Voda</string>
@@ -207,15 +207,15 @@
     <string name="draft_waterfountain01_text">Skrášli okolie a čistí vzduch..</string>
     <string name="draft_treepark01_title">Stromový park</string>
     <string name="draft_treepark01_text">Malý park so stromami. Obyvateľom sa páči.</string>
-    <string name="buildinginfo_res0">Domček</string>
-    <string name="buildinginfo_com0">Obchodík</string>
-    <string name="buildinginfo_ind0">Malá fabrika</string>
-    <string name="buildinginfo_res1">Dom</string>
-    <string name="buildinginfo_res2">Luxusný dom</string>
-    <string name="buildinginfo_com1">Obchodný dom</string>
-    <string name="buildinginfo_com2">Nákupné centrum</string>
-    <string name="buildinginfo_ind1">Továreň</string>
-    <string name="buildinginfo_ind2">Veľká továreň</string>
+    <string name="buildinginfo_res0">Dom ₮</string>
+    <string name="buildinginfo_com0">Obchod ₮</string>
+    <string name="buildinginfo_ind0">Továreň ₮</string>
+    <string name="buildinginfo_res1">Dom ₮₮</string>
+    <string name="buildinginfo_res2">Dom ₮₮₮</string>
+    <string name="buildinginfo_com1">Obchod ₮₮</string>
+    <string name="buildinginfo_com2">Obchod ₮₮₮</string>
+    <string name="buildinginfo_ind1">Továreň ₮₮</string>
+    <string name="buildinginfo_ind2">Továreň ₮₮₮</string>
     <string name="buildinginfo_habitants">Obyvatelia: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Zamestnanci: %1$,d/%2$,d</string>
     <string name="topic_giveup">Nikdy sa nevzdávajte</string>
@@ -285,7 +285,7 @@
     <string name="draftselector_titlerawbuilding">Všetky budovy</string>
     <string name="budget_busdepot">Autobusové stanice</string>
     <string name="ci_budget_overallincome">Celkový príjem</string>
-    <string name="ci_budget_overallspending">Celkový výdaj</string>
+    <string name="ci_budget_overallspending">Celkové výdaje</string>
     <string name="ci_rci_title">Požiadavky</string>
     <string name="ci_rci_res0">Oby ₮</string>
     <string name="ci_rci_res1">Oby ₮₮</string>
@@ -329,7 +329,7 @@
     <string name="draft_middlepark00_clock_title">Hodiny</string>
     <string name="draft_middlepark00_clock_text">Hodiny, ktoré ukážu obyvateľom čas.</string>
     <string name="notify_power_low">Dochádza energia. Hodila by sa nová elektráreň.</string>
-    <string name="notify_water_low">Dochádza voda. Mohli by ste postaviť nové čerpadlá.</string>
+    <string name="notify_water_low">Dochádza voda. Mali by ste postaviť nové čerpadlá.</string>
     <string name="notify_religion">Mohli by ste postaviť viac náboženských budov?</string>
     <string name="notify_park">Radi by sme tu mali viac parkov.</string>
     <string name="notify_sport">Chceli by sme športovať.</string>
@@ -1034,7 +1034,7 @@
     <string name="draft_prmgocart00_title">Motokárová trať</string>
     <string name="draft_prmgocart00_text">Čo tak trochu motošportu do vášho mesta? Motokáru sa budú objavovať aj na normálnej ceste.</string>
     <string name="settings_smoothscrolling">Hladké posúvanie</string>
-    <string name="settings_buildingtoolold">Strý nástroj stavby</string>
+    <string name="settings_buildingtoolold">Starý nástroj stavby</string>
     <string name="settings_roadautojoin">Nástroj automatického spájania ciest</string>
 
     <string name="tut_start00">Aké nádherné miesto, však?</string>
@@ -1631,7 +1631,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
 
     <string name="settings_smoothcarmovement">Hladký pohyb áut</string>
     <string name="draft_easteregg00_title">Easter egg</string>
-    <string name="draft_easteregg00_text">Len Easter egg. Čo s tým urobíš?</string>
+    <string name="draft_easteregg00_text">Obyčajné veľkonočné vajce. Čo s tým urobíš?</string>
     <string name="draft_notify_easteregg_spawned00_text">Niekde je tu Easter egg. Nájdeš ho?</string>
     <string name="draft_notify_easteregg_found00_text">Gratulujeme, našiel si Easter egg :)</string>
 
@@ -1821,7 +1821,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="draft_discord_statue00_text">Socha Discordu.</string>
     <string name="notify_discord_statue00_title">Ďakujeme!</string>
     <string name="notify_discord_statue00_text">Ďakujeme za %d členov na našom Discord. Chcete ho navštíviť?</string>
-    <string name="draftselector_titlebodydisposal">Pohreb</string>
+    <string name="draftselector_titlebodydisposal">Pohreby</string>
     <string name="draft_roaddeco_protester00_title">Falošný protest</string>
     <string name="draft_roaddeco_protester00_text">Zaplaťte zopár ľuďom, aby protestovali.</string>
     <string name="draft_roaddeco_riot00_title">Falošná vzbura</string>
@@ -1958,7 +1958,7 @@ Cons: Žiadna výzva</string>
     <string name="draft_rails00oneway00_title">Jednosmerné koľajnice</string>
     <string name="draft_rails00oneway00_text">Chodia po nich vlaky, ale iba jedným smerom. Funguje ako jednosmerná cesta.</string>
     <string name="specialoffer_cmdbuy">Kúpiť za %s</string>
-    <string name="influence_body_disposal_title">Pohreb</string>
+    <string name="influence_body_disposal_title">Pohreby</string>
     <string name="influence_body_disposal_text">Odpočívaj v pokoji.</string>
     <string name="influence_traffic_title">Doprava</string>
     <string name="influence_traffic_text">Obyvatelia nemajú radi znečistenie a hluk spôsobený dopravou.</string>
@@ -2157,12 +2157,12 @@ Cons: Žiadna výzva</string>
     <string name="stage_comment_cmdsend">Poslať</string>
     <string name="stage_comment_cmdsendhint">Napíšte sem váš komentár...</string>
     <string name="dialog_storerestart_cmdlater">Neskôr</string>
-    <string name="wealthy_poor">Chudobný</string>
-    <string name="wealthy_medium">Stredný</string>
-    <string name="wealthy_rich">Bohatý</string>
-    <string name="ci_rci_res">Obytný</string>
-    <string name="ci_rci_com">Komerčný</string>
-    <string name="ci_rci_ind">Priemyselný</string>
+    <string name="wealthy_poor">Chudobné</string>
+    <string name="wealthy_medium">Stredné</string>
+    <string name="wealthy_rich">Bohaté</string>
+    <string name="ci_rci_res">Obytné</string>
+    <string name="ci_rci_com">Komerčné</string>
+    <string name="ci_rci_ind">Priemyselné</string>
     <string name="settings_supportdrawingintwomodetools">Podpora presunu v two-mode-tools</string>
     <string name="settings_category_controls">Ovládanie</string>
     <string name="draft_cat_rci_parts00_title">Manuálne stavanie</string>
