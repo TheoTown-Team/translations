@@ -467,7 +467,7 @@
     <string name="disaster_meteorite_text">Pabayaang bumagsak ang bulalakaw mula sa kalangitan.</string>
     <string name="disaster_meteorite_cmdtext">Magbagsak</string>
     <string name="disaster_earthquake_title">Lindol</string>
-    <string name="disaster_earthquake_text">Hayaang umuga ang sahig.</string>
+    <string name="disaster_earthquake_text">Payayanigin ang sahig.</string>
     <string name="disaster_earthquake_cmdtext">Payanigin!</string>
     <string name="disaster_illness_title">Sakit</string>
     <string name="disaster_illness_text">Magkakasakit ang mga tao...</string>
@@ -2212,7 +2212,7 @@ Cons: Kaunti ang hamon</string>
     <string name="dialog_missingplugins_localpluginby">•%1$s ni %2$s (lokal na plugin)</string>
 
     <string name="dialog_storedisclaimer_title">May higit pa...</string>
-    <string name="dialog_storedisclaimer_text">Maligayang pagdating sa Bilihan ng Plugin! Dito ka makakakuha ng daan-daang karagdagang nilalaman para sa TheoTown, nilikha ng mga manlalaro mula sa iba\'t ibang panig ng mundo.\n
+    <string name="dialog_storedisclaimer_text">Maligayang pagdating sa Tindahan ng Plugin! Dito ka makakakuha ng daan-daang karagdagang nilalaman para sa TheoTown, nilikha ng mga manlalaro mula sa iba\'t ibang panig ng mundo.\n
 \n
 Bago ka mag-download, inirerekomenda namin na basahing maiigi ang deskripsiyon ng plugin para maintindihan kung ano ang nagagawa ng plugin.</string>
     <string name="dialog_accountdisclaimer_title">Account</string>
@@ -2307,10 +2307,10 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_configureregion_allowplugins">Payagan ang mga plugin</string>
     <string name="dialog_configureregion_allowsandbox">Payagan ang sandbox</string>
     <string name="draft_sandstonetiles00_text">Pinalamuting sahig.</string>
-    <string name="draft_sandstonetiles00_title">Tisang Sandstone</string>
+    <string name="draft_sandstonetiles00_title">Tisang Areniska</string>
     <string name="draft_brick00_title">Ladrilyo</string>
     <string name="draft_woodenpier00_title">Daungang kahoy</string>
-    <string name="draft_cobblestones00_title">Cobblestone</string>
+    <string name="draft_cobblestones00_title">Tipak ng Bato</string>
     <string name="draft_fancylongtiles00_title">Magarbong mahabang tisà</string>
     <string name="draft_finemarble00_title">Pinong marmol</string>
     <string name="settings_nightmode">Night mode</string>
@@ -2320,7 +2320,7 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="settings_nightmode_real">real time</string>
     <string name="settings_rushhour">Rush hour</string>
     <string name="stage_onlineregion_information">Impormasyon ng Rehiyon</string>
-    <string name="dialog_configureregion_rules_desc">Dito mo tutukuyin ang ilang panuntunan na susundin ng mga naglalaro sa rehiyong ito:</string>
+    <string name="dialog_configureregion_rules_desc">Dito mo isasaad ang ilang panuntunan na susundin ng mga maglalaro sa rehiyong ito:</string>
     <string name="dialog_configureregion_infos_desc">Dito mo mailalagay ang pangkalahatang impormasyon patungkol sa iyong rehiyon:</string>
     <string name="dialog_regionrules_informationcat">Impormasyon</string>
     <string name="dialog_regionrules_rulescat">Panuntunan</string>
@@ -2329,22 +2329,22 @@ Sa pamamagitan ng pagkonekta sa laro ng TheoTown Forum account, makakasali ka sa
     <string name="dialog_selectuser_namehint">Ilagay ang ngalan ng user ng ibang manlalaro</string>
     <string name="dialog_selectuser_cmdselect">Piliin</string>
     <string name="dialog_transfercity_title">Maglipat ng pagmamay-ari</string>
-    <string name="dialog_transfercity_text">Sigurado ka po bang gusto n\'yong ilipat ng pagmamay-ari ang inyong lungsod %1$s patungo kay %2$s?\n\nHindi n\'yo na po ito mababawi.</string>
+    <string name="dialog_transfercity_text">Sigurado ka po bang gusto n\'yong ilipat ang inyong pagmamay-aring lungsod %1$s kay %2$s?\n\nHindi n\'yo na po ito mababawi.</string>
     <string name="dialog_transfercity_cmdtransfer">Ilipat</string>
     <string name="dialog_transferregion_title">Maglipat ng pagmamay-ari</string>
-    <string name="dialog_transferregion_text">Sigurado ka po bang gusto n\'yong ilipat ng pagmamay-ari ang inyong rehiyon %1$s patungo kay %2$s?\n\nHindi n\'yo na po ito mababawi.</string>
+    <string name="dialog_transferregion_text">Sigurado ka po bang gusto n\'yong ilipat ang inyong pagmamay-aring rehiyon %1$s kay %2$s?\n\nHindi n\'yo na po ito mababawi.</string>
     <string name="dialog_transferregion_cmdtransfer">Ilipat</string>
     <string name="stage_region_reportsubject">ang rehiyon %1$s</string>
     <string name="dialog_removeowner_title">Tanggalin ang May-ari</string>
     <string name="dialog_removeowner_text">Sigurado ka po bang gusto n\'yong tanggalin si %1$s sa tipak na \'to?\n\nHindi na po ito mababawi.</string>
     <string name="dialog_removeowner_cmdremove">Tanggalin</string>
     <string name="stage_regioncity_lastplayed">Hulíng nalaro: %1$s ang nakalipas</string>
-    <string name="ci_loan_get_text2">Halaga: %1$s
+    <string name="ci_loan_get_text2">Presyo: %1$s
 \nItatagal: %2$,d (mga) buwan
-\nBuwanang halaga: %3$s</string>
+\nBuwanang Presyo: %3$s</string>
     <string name="settings_uianimations">Mga Animasyon</string>
     <string name="dialog_configureregion_password">Password</string>
-    <string name="dialog_configureregion_password_desc">Dito, makakapagtalaga ka ng bagong password. Hayaan itong blangko upang magamit pa rin ang kasalukuyan.</string>
+    <string name="dialog_configureregion_password_desc">Dito, makakapagtakda ka ng bagong password. Iwanan itong blangko upang magamit pa rin ang kasalukuyan.</string>
     <string name="dialog_configureregion_enforepassword">Kailangan ng password</string>
     <string name="dialog_regionstats_title">Estadistika ng Rehiyon</string>
     <string name="ci_energy_produced_short">Nalikha: %1$,.0fkW</string>
@@ -2430,7 +2430,7 @@ Sa pamamagitan nito ay maaaring maiwasan ang mga potensiyal na pagkawala ng data
     <string name="dialog_onlinenotifications_cmdnonempty">Notipikasyon (%1$,d)</string>
     <string name="dialog_reason_title">Dahilan</string>
     <string name="dialog_reason_text">Upang ituloy, tukuyin ang dahilan para sa aksiyong ito.</string>
-    <string name="store_realtitle">Bilihang Plugin</string>
+    <string name="store_realtitle">Tindahan ng Plugin</string>
     <string name="settings_pushnotificationsonline">Notipikasyon sa online mode</string>
     <string name="settings_verticaltoolbar">Patayong toolbar</string>
     <string name="settings_darktoolbar">Madilim na toolbar</string>
@@ -2460,7 +2460,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_treeplantertool00_title">Tagatanim ng Punò</string>
     <string name="draft_treeplantertool00_text">Ang kasangkapang ito ay magagamit para sa paglalagay ng iba-ibang punongkahoy sa natural at maginhawang paraan.</string>
     <string name="treeplanter_cmdconfigure">Isaayos</string>
-    <string name="treeplanter_species">Espesye:</string>
+    <string name="treeplanter_species">Sari:</string>
     <string name="treeplanter_density">Densidad:</string>
     <string name="treeplanter_roughness">Kapal:</string>
     <string name="treeplanter_brushsize">Laki ng Brush:</string>
@@ -2468,10 +2468,10 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="control_about">Tungkol</string>
     <string name="about_framework">Balangkas</string>
     <string name="control_undo">Bawiin</string>
-    <string name="control_redo">Gawin Uli</string>
+    <string name="control_redo">Gawin Muli</string>
     <string name="toolaction_zoneroad">Dagdagan ng Kalsada</string>
     <string name="settings_fullscreen_resolution">Resolusyong Fullscreen</string>
-    <string name="settings_tool_history">Paggamit ng Pagbawi (Undo)</string>
+    <string name="settings_tool_history">Gumamit ng Pagbawi (Undo)</string>
     <string name="topic_birthday_ja">Maligayang Kaarawan JustAnyone!</string>
 
 
@@ -2521,7 +2521,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="stage_files_importherefiles">(Mga) File</string>
     <string name="stage_files_importherefolders">Folder</string>
     <string name="draft_mosque10_title">Masjid Hassan II</string>
-    <string name="draft_mosque10_text">Ang Masjid Hassan II ay isang masjid sa Casablanca, Morocco. Ito ang pinakamalaking ginagamit na masjid sa Africa at ikapitong pinakamalaki sa mundo. Ang minaret nito ay ikalawang pinakamataas sa mundo sa sukat na 210 metro (689 talampakan). Nakompleto noong 1993, dinesenyo ito ni Michel Pinseau sa ilalim ng patnubay ni Haring Hassan II at itinayo ng mga artesanong Moroccan na nagmula sa iba\'t ibang panig ng kaharian. Ang minaret ay may taas na 60 palapag at sa tuktok nito ay may laser, ang ilaw nito ay nakatutok patungong Mecca. Nakatayo ang masjid sa ungos ng lupa paharap sa Karagatang Atlantico; ang mga sumasamba ay maaaring manalangin sa dagat ngunit walang salaming sahig na nakatingin sa dagat. Ang mga pader ay gawa sa marmol na likhang-kamay at ang bubong ay maaaring iurong. Ang maximum na 105,000 mananamba ay maaaring magtipon para sa pagdarasal: 25,000 sa loob ng bulwagan at 80,000 sa labas ng bulwagan.</string>
+    <string name="draft_mosque10_text">Ang Masjid Hassan II ay isang masjid sa Casablanca, Morocco. Ito ang pinakamalaking ginagamit na masjid sa Africa at ikapitong pinakamalaki sa mundo. Ang minaret nito ay ikalawang pinakamataas sa mundo sa sukat na 210 metro (689 talampakan). Nakompleto noong 1993, dinisenyo ito ni Michel Pinseau sa ilalim ng patnubay ni Haring Hassan II at itinayo ng mga artesanong Moroccan na nagmula sa iba\'t ibang panig ng kaharian. Ang minaret ay may taas na 60 palapag at sa tuktok nito ay may laser, ang ilaw nito ay nakatutok patungong Mecca. Nakatayo ang masjid sa ungos ng lupa paharap sa Karagatang Atlantico; ang mga sumasamba ay maaaring manalangin sa dagat ngunit walang salaming sahig na nakatingin sa dagat. Ang mga pader ay gawa sa marmol na likhang-kamay at ang bubong ay maaaring iurong. Ang maximum na 105,000 mananamba ay maaaring magtipon para sa pagdarasal: 25,000 sa loob ng bulwagan at 80,000 sa labas ng bulwagan.</string>
     <string name="dialog_filesrestart_title">Restart</string>
     <string name="dialog_filesrestart_text">Maaaring kailanganin mong i-restart ang laro para magkabisa ang mga pagbabago.\n\nGusto mo bang i-restart ngayon ang laro?</string>
     <string name="dialog_filesrestart_cmdrestart">I-restart</string>
@@ -2615,11 +2615,11 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="ci_statistics_help">Makakatulong sa iyo ang mga talangguhit na ito para subaybayan ang pag-unlad ng lungsod. Gamitin ang mga panuro sa bandang kanan upang lumipat sa pagitan ng iba\'t ibang talangguhit. Ang mga pindutan +/- ay magagamit din para sa pag-zoom palaki at paliit.</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Mga Pang-shade</string>
+    <string name="draft_cat_streetlights00_title">Ilaw Pangkalsada</string>
+    <string name="toolaction_roadautodecorations">Gumamit ng dekorasyon</string>
+    <string name="draft_biomeMaker_open00_title">Tool sa Sahig</string>
+    <string name="draft_biomeMaker_open00_text">Makakapaglagay ka ng sahig gamit ang kasangkapang ito.</string>
+    <string name="biomemaker_types">Mga Uri:</string>
 
 </resources>
