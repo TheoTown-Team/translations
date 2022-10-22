@@ -37,10 +37,10 @@
     <string name="settings_transparencybuildmode">Priehľadnosť v režime stavby</string>
     <string name="settings_buildgrid">Mriežka v režime stavby</string>
     <string name="settings_doublecardrawing">Dvojité vykresľovanie áut</string>
-    <string name="settings_drawwatersparkle">Vykreslovať vodu</string>
+    <string name="settings_drawwatersparkle">Vykresľovať vodu</string>
     <string name="settings_drawmapedges">Vykreslovať okraje mapy</string>
     <string name="loadcity_errordialog_title">Načitanie zlyhalo</string>
-    <string name="loadcity_errordialog_text">Mesto sa nepodarilo načítať. Súbory môžu byť poškodené.\n\nOspravedlňujeme.</string>
+    <string name="loadcity_errordialog_text">Mesto sa nepodarilo načítať. Súbory môžu byť poškodené.\n\nOspravedlňujeme sa.</string>
     <string name="loadcity_errordialog_cmdcancel">Zrušiť</string>
     <string name="dialog_screenshot_title">Snímka obrazovky zaznamenaný</string>
     <string name="dialog_screenshot_text">Obrázok bol uložený ako %1$s.</string>
@@ -144,7 +144,7 @@
     <string name="draft_gillender00_title">Budova Gillender</string>
     <string name="draft_gillender00_text">Budova Gillender z New Yorku. Ďakujeme za 250 000 stiahnutí :D</string>
     <string name="topic_thanks">Ďakujeme za úžasnú podporu!</string>
-    <string name="topic_cake">Torka klame!</string>
+    <string name="topic_cake">Torta je falošná!</string>
     <string name="topic_panic">Nepanikárte</string>
     <string name="draft_bigschool00_title">Stredná škola</string>
     <string name="draft_bigschool00_text">Učia sa tu žiaci po absolvovaní základnej školy.</string>
@@ -218,7 +218,7 @@
     <string name="buildinginfo_ind2">Továreň ₮₮₮</string>
     <string name="buildinginfo_habitants">Obyvatelia: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Zamestnanci: %1$,d/%2$,d</string>
-    <string name="topic_giveup">Nikdy sa nevzdávajte</string>
+    <string name="topic_giveup">Nikdy sa nevzdávajte!</string>
     <string name="dialog_screenshot_error">Nepodarilo sa vytvoriť adresár pre %1$s. Prosím, skontrolujte povolenia aplikácie.</string>
     <string name="settings_energysaving">Úsporný mód</string>
     <string name="about_idea">Nápad</string>
@@ -286,7 +286,7 @@
     <string name="budget_busdepot">Autobusové stanice</string>
     <string name="ci_budget_overallincome">Celkový príjem</string>
     <string name="ci_budget_overallspending">Celkové výdaje</string>
-    <string name="ci_rci_title">Požiadavky</string>
+    <string name="ci_rci_title">Požiadavky zón</string>
     <string name="ci_rci_res0">Oby ₮</string>
     <string name="ci_rci_res1">Oby ₮₮</string>
     <string name="ci_rci_res2">Oby ₮₮₮</string>
@@ -938,7 +938,7 @@
     <string name="notify_loweducationneeded">Doprajte deťom vzdelanie. Postavte základnú školu.</string>
     <string name="notify_higheducationneeded">Získajme géniov vybudovaním vysokej školy.</string>
     <string name="dialog_ffwd1_text">Dovolí použiť vyššiu rýchlosť hry na %1$s.</string>
-    <string name="notify_badtraffic">Na tejto ceste je priveľká premávka. Odporúčam postaviť viac alebo lepšie cesty.</string>
+    <string name="notify_badtraffic">Na tejto ceste je veľmi veľká premávka. Odporúčam postaviť viac alebo lepšie cesty.</string>
     <string name="dialog_wb_title">Vitajte naspäť</string>
     <string name="dialog_wb_text">%1$s zarobilo %2$s kým ste boli neprítomní.</string>
     <string name="notify_fullschool">Táto škola je plná. Kliknite na ňu a zvýšte jej kapacitu alebo postave novú</string>
@@ -1786,7 +1786,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="draft_roaddeco_construction01_text">Časť dobrej práce.</string>
     <string name="notification00_sandbox_title">NOVINKY: %1$s je pekné miesto!</string>
     <string name="notification00_sandbox_text">Starosta, môžete byť na seba pyšný!</string>
-    <string name="notification01_title">NOVINKY: %1$s sa cíti osamely</string>
+    <string name="notification01_title">NOVINKY: %1$s sa cíti osamelo</string>
     <string name="notification01_text">Starosta, prosím, vráťte sa!</string>
 
     <string name="shop_adreward">Damanty zadarmo</string>
@@ -2600,11 +2600,11 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="ci_statistics_help">Tieto grafy vám môžu pomôcť sledovať vývoj vášho mesta. Použite šípky vpravo, aby ste prepínali medzi jednotlivými grafmi. Tlaćidlá +/- môžete použiť pre priblíženie a oddialenie grafu.</string>
     
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Shadery</string>
+    <string name="draft_cat_streetlights00_title">Pouličné osvetlenie</string>
+    <string name="toolaction_roadautodecorations">Použiť dekorácie</string>
+    <string name="draft_biomeMaker_open00_title">Nástroj povrchu</string>
+    <string name="draft_biomeMaker_open00_text">S týmto nástrojom môžete ľahko zmeniť povrch.</string>
+    <string name="biomemaker_types">Typy:</string>
 
 </resources>
