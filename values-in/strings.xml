@@ -3,7 +3,7 @@
     <string name="settings_title">Pengaturan</string>
     <string name="loadcity_title">Muat kota</string>
     <string name="createcity_title">Kota baru</string>
-    <string name="settings_defaults">Default</string>
+    <string name="settings_defaults">Bawaan</string>
     <string name="settings_apply">Terapkan</string>
     <string name="createcity_mapsize">Ukuran:</string>
     <string name="createcity_cityname">Nama kota:</string>
@@ -31,13 +31,13 @@
     <string name="dialog_nocities_text">Tidak ada satupun kota yang ditemukan.</string>
     <string name="dialog_nocities_cmdback">Kembali</string>
     <string name="dialog_nocities_cmdnewcity">Kota Baru</string>
-    <string name="settings_drawcars">Tunjukkan mobil</string>
-    <string name="settings_drawsmoke">Tunjukkan asap</string>
+    <string name="settings_drawcars">Tampilkan mobil</string>
+    <string name="settings_drawsmoke">Tampilkan asap</string>
     <string name="settings_transparencybuildmode">Transparansi dalam mode pembangunan</string>
     <string name="settings_buildgrid">Kotak dalam mode pembangunan</string>
     <string name="settings_doublecardrawing">Gandakan gambaran mobil</string>
-    <string name="settings_drawwatersparkle">Tunjukkan kilauan air</string>
-    <string name="settings_drawmapedges">Tunjukkan perbatasan peta</string>
+    <string name="settings_drawwatersparkle">Tampilkan kilauan air</string>
+    <string name="settings_drawmapedges">Tampilkan perbatasan peta</string>
     <string name="loadcity_errordialog_title">Gagal memuat</string>
     <string name="loadcity_errordialog_text">Tidak dapat memuat kota, file sepertinya rusak.\n\nMaaf.</string>
     <string name="loadcity_errordialog_cmdcancel">Kembali</string>
@@ -117,7 +117,7 @@
     <string name="draft_watertower00_text">Menyediakan air untuk bangunan.</string>
     <string name="settings_areazonetool">Gunakan alat area zona</string>
     <string name="createcity_gamemode">Mode game:</string>
-        <string name="gamemode_easy">Mudah</string>
+    <string name="gamemode_easy">Mudah</string>
     <string name="gamemode_middle">Normal</string>
     <string name="gamemode_hard">Sulit</string>
     <string name="game_infinitemoney">Tanpa Uang</string>
@@ -135,13 +135,13 @@
     <string name="settings_category_audio">Suara</string>
     <string name="settings_category_other">Lainnya</string>
     <string name="draft_management00_title">Kantor polisi</string>
-    <string name="draft_management00_text">Untuk keamanan lebih.</string>
+    <string name="draft_management00_text">Untuk keamanan yang lebih baik.</string>
     <string name="draft_firedepartment00_title">Stasiun damkar</string>
     <string name="draft_firedepartment00_text">Mencegah dan memadamkan api. Punya dua truk damkar dengan jangkauan yang pas.</string>
     <string name="draft_statue00_title">Patung</string>
     <string name="draft_statue00_text">Sebuah patung wali kota.</string>
     <string name="draft_gillender00_title">Gedung Gillender</string>
-    <string name="draft_gillender00_text">Gedung Gillender. Terima kasih atas 250,000 download!</string>
+    <string name="draft_gillender00_text">Gedung Gillender. Terima kasih atas 250,000 unduhan!</string>
     <string name="topic_thanks">Terima kasih atas dukunganmu!</string>
     <string name="topic_cake">Kuenya adalah kebohongan</string>
     <string name="topic_panic">Jangan panik</string>
@@ -180,7 +180,7 @@
     <string name="ci_water_text">TIDAK DIGUNAKAN</string>
     <string name="ci_energy_text">TIDAK DIGUNAKAN</string>
     <string name="ci_general_text">TIDAK DIGUNAKAN</string>
-    <string name="topic_reddit">Reddit diblokir disini, tapi bisa dibuka dengan VPN</string>
+    <string name="topic_reddit">Reddit diblokir di sini, tapi bisa dibuka dengan VPN</string>
     <string name="topic_animals">Tidak ada binatang yang disakiti selama produksi!</string>
     <string name="topic_users">Sedang mencari 100,000 pemain</string>
     <string name="topic_free">Gim ini gratis!</string>
@@ -227,7 +227,7 @@
     <string name="about_engine">Mesin Grafik</string>
     <string name="draft_police00_title">Kantor polisi</string>
     <string name="draft_police00_text">Untuk keamanan yang lebih baik.</string>
-    <string name="settings_showinfluencepreview">Tunjukkan pengaruh bangunan</string>
+    <string name="settings_showinfluencepreview">Tampilkan pengaruh bangunan</string>
     <string name="draftselector_titletransport">Transportasi</string>
     <string name="draftselector_titlezone">Zona</string>
     <string name="draft_zoneresidential_title">Penduduk</string>
@@ -1134,7 +1134,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="settings_language_hint">Kamu mungkin harus melakukan restart aplikasi untuk mengganti bahasa.</string>
     <string name="settings_language_default">Default (%s)</string>
 
-    <string name="settings_showroadlength">Tunjukkan panjang jalan</string>
+    <string name="settings_showroadlength">Tampilkan panjang jalan</string>
     <string name="draft_rnk_metropolis_small_title">Metropolis Kecil</string>
     <string name="draft_rnk_metropolis_big_title">Metropolis Besar</string>
     <string name="draft_rnk_metropolis_large_title">Metropolis Raya</string>
@@ -2610,6 +2610,6 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="toolaction_roadautodecorations">Gunakan dekorasi</string>
     <string name="draft_biomeMaker_open00_title">Alat tanah</string>
     <string name="draft_biomeMaker_open00_text">Kamu bisa menempatkan tanah dengan lebih mudah menggunakan alat ini.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="biomemaker_types">Jenis:</string>
 
 </resources>
