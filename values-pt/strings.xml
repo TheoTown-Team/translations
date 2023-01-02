@@ -36,7 +36,7 @@
     <string name="settings_transparencybuildmode">Transparência no modo de construção</string>
     <string name="settings_buildgrid">Grade no modo de construção</string>
     <string name="settings_doublecardrawing">Exibir carro duplo</string>
-    <string name="settings_drawwatersparkle">Exibir resplandecência</string>
+    <string name="settings_drawwatersparkle">Exibir cintilação da água</string>
     <string name="settings_drawmapedges">Exibir bordas do mapa</string>
     <string name="loadcity_errordialog_title">Falha no carregamento</string>
     <string name="loadcity_errordialog_text">Pode não carregar a cidade, o arquivo parece estar danificado.\n\nDesculpe.</string>
@@ -120,7 +120,7 @@
         <string name="gamemode_easy">Fácil</string>
     <string name="gamemode_middle">Médio</string>
     <string name="gamemode_hard">Difícil</string>
-    <string name="game_infinitemoney">Jogo grátis</string>
+    <string name="game_infinitemoney">Jogo livre</string>
     <string name="about_title">Créditos</string>
     <string name="about_cmdback">Voltar</string>
     <string name="settings_music">Música</string>
@@ -203,7 +203,7 @@
     <string name="notify_citysize">Parabéns, sua cidade excede o tamanho de %1$,d habitantes!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Fonte de água</string>
-    <string name="draft_waterfountain01_text">Habitantes vão gostar.</string>
+    <string name="draft_waterfountain01_text">Os habitantes vão gostar.</string>
     <string name="draft_treepark01_title">Parque com árvores</string>
     <string name="draft_treepark01_text">Um pequeno parque com árvores. Seus habitantes vão adorar.</string>
     <string name="buildinginfo_res0">Residencial ₮</string>
@@ -256,7 +256,7 @@
     <string name="draft_busdepot00_title">Garagem de ônibus</string>
     <string name="draft_busdepot00_text">Uma garagem de ônibus é necessária para ter ônibus.</string>
     <string name="settings_debugmode">Modo depuração</string>
-    <string name="unknown">Wurstbrot</string>
+    <string name="unknown">Pão de salsicha</string>
     <string name="draftselector_titleremove">Remover</string>
     <string name="draftselector_titleview">Ver</string>
     <string name="toolremove_default_title">Remover</string>
@@ -309,7 +309,7 @@
     <string name="buildinginfo_cmdupgrade">Melhorias</string>
     <string name="draft_footballstadion00_lights_title">Postes</string>
     <string name="draft_footballstadion00_lights_text">Alguns postes para o estádio.</string>
-    <string name="buildinginfo_upgraded">Está melhorado</string>
+    <string name="buildinginfo_upgraded">Já melhorado</string>
     <string name="buildinginfo_upgradenotavail">Não disponível</string>
     <string name="buildinginfo_upgrade">Melhoria(s)</string>
     <string name="draft_pool00_title">Piscina</string>
@@ -587,7 +587,7 @@
     <string name="draft_marker_protectedmarker_text">Mostra construções que não podem ser removidas.</string>
     <string name="draft_marker_trafficmarker_title">Tráfego</string>
     <string name="draft_marker_trafficmarker_text">Tráfego.</string>
-    <string name="draft_mayorvilla00_title">Vivenda</string>
+    <string name="draft_mayorvilla00_title">Residência do prefeito</string>
     <string name="draft_mayorvilla00_text">Uma residência agradável para o prefeito.</string>
     <string name="happiness_health">Saúde</string>
     <string name="happiness_firedanger">Perigo de incêndio</string>
@@ -849,7 +849,7 @@
     <string name="ci_statistics_title">Estatísticas</string>
     <string name="statistics_inh_all">Habitantes</string>
     <string name="statistics_inh_0">Habitantes pobres (₮)</string>
-    <string name="statistics_inh_1">Habitantes medianos (₮₮)</string>
+    <string name="statistics_inh_1">Habitantes de classe média (₮₮)</string>
     <string name="statistics_inh_2">Habitantes ricos (₮₮₮)</string>
     <string name="statistics_money">Estado</string>
     <string name="statistics_buildings">Construções</string>
@@ -1055,7 +1055,7 @@
     <string name="tut_build110">Prefeito, os habitantes não tem onde trabalhar e comprar coisas!</string>
     <string name="tut_build12">Vamos dar uma olhadinha nas demandas.</string>
     <string name="tut_build13">Aqui você pode ver a demanda por edifícios res (residencial), com (comercial) e ind (industrial).</string>
-    <string name="tut_build14">Existem três níveis de riquezas: ₮, ₮₮ e ₮₮₮ que correspondem a pobres, mesocracia e ricos.</string>
+    <string name="tut_build14">Existem três níveis de riquezas: ₮, ₮₮ e ₮₮₮ que correspondem a pobres, classe média e ricos.</string>
     <string name="tut_build15">Obviamente queremos ter apenas habitantes ricos, mas devemos ir com calma. Como você pode ver, precisamos de alguns comércios ₮ para agora!</string>
     <string name="tut_build16">Declare uma zona comercial.</string>
     <string name="tut_build17">Declare uma zona industrial.</string>
@@ -1084,7 +1084,7 @@
 
     <string name="featureselector_time">%1$s de velocidade super rápida</string>
     <string name="draft_feature_time00_title">Controlador do tempo</string>
-    <string name="draft_feature_time00_text">Dá-lhe capacidade limitada para velocidade de jogo super rápida.</string>
+    <string name="draft_feature_time00_text">Concede capacidade limitada para velocidade de jogo super rápida.</string>
     <string name="draft_feature_time01_title">Mago do tempo</string>
     <string name="draft_feature_time01_text">Você pode usar a velocidade do jogo super rápido por mais tempo.</string>
     <string name="draft_feature_time02_title">MESTRE do tempo</string>
@@ -1276,9 +1276,9 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_ap_field00_text">Uma pista onde os aviões podem decolar e pousar. O comprimento mínimo é 12.</string>
     <string name="settings_usezoneradius">Use o raio da zona</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">Um avião de dois andares e incrivelmente incrível, da TheoAir. Tem muito espaço.</string>
-    <string name="dialog_waitingtime_title">Reduzir o tempo de espera</string>
-    <string name="dialog_waitingtime_text">Gostaria de esperar menos?\n%1$s restante(s).</string>
+    <string name="draft_airplane01_text">Um avião de dois andares, de longo alcance, da TheoAir. Ele tem muito espaço.</string>
+    <string name="dialog_waitingtime_title">Desbloquear imediatamente</string>
+    <string name="dialog_waitingtime_text">Você deseja desbloquear imediatamente?\n%1$s restante(s).</string>
 
     <string name="topic_rate">Por favor, ajude-nos e avalie o TheoTown</string>
     <string name="ci_airport_lane_unassign">Descartar</string>
@@ -1560,7 +1560,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="dialog_insufficientspace_title">Estamos ficando sem espaço</string>
     <string name="dialog_insufficientspace_text">Não há muito espaço livre no seu dispositivo (%,d MB).\n\nAs cidades podem não ser salvas devido a espaço insuficiente!</string>
     <string name="dialog_insufficientspace_cmdproceed">Proceda por risco próprio</string>
-    <string name="draft_sydneyoperahouse00_title">Sydnay Opera House</string>
+    <string name="draft_sydneyoperahouse00_title">Sydney Opera House</string>
     <string name="draft_sydneyoperahouse00_text">A Sydney Opera House é um centro de artes cênicas de vários locais localizado em Sydney, Austrália. Foi completada em 1973 e tem uma altura de 65 metros.</string>
     <string name="draft_onerafflesplace00_title">One Raffles Place</string>
     <string name="draft_onerafflesplace00_text">O One Raffles Place é um arranha-céus na cidade de Singapura que foi construído em 1986 e tem uma altura de 280 metros.</string>
@@ -1830,11 +1830,11 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_roaddeco_roundabout00_text">Uma pequena rotatória. Coloque-a nos seus cruzamentos.</string>
     <string name="disaster_blizzard_title">Nevasca</string>
     <string name="disaster_blizzard_text">Prepare-se, o inverno está chegando.</string>
-    <string name="disaster_blizzard_cmdtext">Quieto!</string>
+    <string name="disaster_blizzard_cmdtext">Congelar!</string>
     <string name="draft_snowtile00_title">Neve permanente</string>
     <string name="draft_snowtile00_text">E o aquecimento global?</string>
-    <string name="gamemode_free_title">Grátis</string>
-    <string name="gamemode_free_text">Não queres lidar com dinheiro? Neste modo de jogo não há dinheiro nem há requisitos de população.</string>
+    <string name="gamemode_free_title">Livre</string>
+    <string name="gamemode_free_text">Não deseja lidar com o dinheiro? Neste modo de jogo não há dinheiro nem requisitos de população.</string>
     <string name="dialog_free_title">Modo de jogo livre</string>
     <string name="dialog_free_text">Você selecionou o modo de jogo livre.\n
 Prós: Sem dinheiro, sem requisitos, opções para controlar a demanda\n
@@ -2191,7 +2191,7 @@ Contras: Menos desafios</string>
     <string name="toolaction_prevbuilding">Edifício anterior</string>
     <string name="toolaction_abortmovebuilding">Abortar</string>
     <string name="toolaction_rocketfire">Fogo</string>
-    <string name="toolaction_nextsign">Próximo rótulo</string>
+    <string name="toolaction_nextsign">Próxima etiqueta</string>
     <string name="toolaction_prevsign">Etiqueta anterior</string>
     <string name="toolaction_terraindeeper">Mais fundo</string>
     <string name="toolaction_terrainhigher">Superior</string>
@@ -2399,7 +2399,7 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="dialog_sendgift_typemoney">Dinheiro</string>
     <string name="dialog_sendgift_typediamonds">Diamantes / moedas regionais</string>
     <string name="dialog_sendgift_lbltype">Tipo</string>
-    <string name="dialog_sendgift_lblamount">Montante</string>
+    <string name="dialog_sendgift_lblamount">Quantidade</string>
     <string name="dialog_sendgift_lblmessage">Mensagem</string>
     <string name="dialog_sendgift_messagedesc">Aqui você pode inserir uma mensagem para o destinatário, se desejar</string>
     <string name="dialog_sendgift_lblprivate">Privado</string>
