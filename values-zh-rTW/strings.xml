@@ -10,7 +10,7 @@
     <string name="control_back">返回</string>
     <string name="createcity_start">開始</string>
     <string name="loadcity_load">開始</string>
-    <string name="game_date">%1$,d.%2$,d.%3$,d</string>
+    <string name="game_date">%3$,d年%2$,d月%1$,d日</string>
     <string name="game_habitants">居民: %1$,d</string>
     <string name="game_cityname">%1$s</string>
     <string name="createcity_seed">隨機值:</string>
@@ -929,8 +929,8 @@
     <string name="dialog_renameregion_title">重命名區域</string>
     <string name="dialog_renameregion_text">請輸入一個新的區域名稱:</string>
     <string name="shop_diamonds">%1$s鑽石%2$s</string>
-    <string name="draft_townhall02_title">大型市政廳廳</string>
-    <string name="draft_townhall02_text">大城市裡的大型市政廳。這是一個對一百萬下載量的感謝。</string>
+    <string name="draft_townhall02_title">大型市政廳</string>
+    <string name="draft_townhall02_text">大城市裡的大型市政廳。這是一個對於100,000,000下載量的感謝。</string>
     <string name="notify_pollutedwaterpump">這個水泵位於被污染的區域。我們最好把它放到別處以保持水的清潔。</string>
     <string name="notify_destroyedtiles">我們最好在別人發現之前把這些垃圾處理掉。</string>
     <string name="notify_loweducationneeded">是時候給我們的孩子們提供一些教育了。建立一所小學吧。</string>
@@ -1316,7 +1316,7 @@
     <string name="draft_jardinehouse00_title">怡和大廈</string>
     <string name="draft_jardinehouse00_text">怡和大廈是位於香港的辦公大樓。它有52層,高度为179米,在1972年建成。</string>
     <string name="draft_bankofchina00_title">中國銀行大廈</string>
-    <string name="draft_bankofchina00_text">香港中國銀行大廈是中國銀行香港分行的總部。它有70層樓，高367米，于1990年完工</string>
+    <string name="draft_bankofchina00_text">香港中銀大廈是中國銀行香港分行的總部。它有70層樓，高367米，于1990年完工</string>
     <string name="settings_road_zone_width">自動筑路網格寬</string>
     <string name="settings_road_zone_height">自動筑路網格長</string>
     <string name="draft_feature_christmas_pack00_title">聖誕節特惠</string>
@@ -1412,8 +1412,8 @@
     <string name="dialog_dbuilding_title">在這里建造</string>
     <string name="dialog_dbuilding_text">你確定要在此修建此建筑嗎？我們將立即為您完工。請三思而行，需要鑽石。</string>
     <string name="dialog_performance_title">表現</string>
-    <string name="draft_brandenburgertor00_title">勃蘭堡門</string>
-    <string name="draft_brandenburgertor00_text">勃蘭堡門是德國的一個地標，建於18世紀。它位於柏林</string>
+    <string name="draft_brandenburgertor00_title">布蘭登堡門</string>
+    <string name="draft_brandenburgertor00_text">布蘭登堡門是位於德國柏林的一個地標，建於18世紀。</string>
     <string name="control_accept">接受</string>
     <string name="control_dismiss">拋棄</string>
     <string name="settings_citytasks">任務</string>
@@ -1645,7 +1645,7 @@
     <string name="draft_swfc_tower00_title">上海世界金融中心</string>
     <string name="draft_swfc_tower00_text">上海世界金融中心是一棟為於上海的摩天大樓，并且在2008年竣工，總高度為494米。</string>
     <string name="draft_feature_landmarks03_title">地標IV</string>
-    <string name="draft_feature_landmarks03_text">上海的精美建筑物</string>
+    <string name="draft_feature_landmarks03_text">東亞的精美建筑物</string>
     <string name="draft_cat_asphalt00_title">瀝青</string>
     <string name="draft_asphalt00_title">灰色瀝青</string>
     <string name="draft_asphalt00_text">不要用它替代自然！盡管如此，上面也可以種樹。</string>
@@ -1656,7 +1656,7 @@
     <string name="draft_sakura00_title">櫻花寶塔</string>
     <string name="draft_sakura00_text">一座由櫻花配搭的傳統式寶塔，是一個多么美好的地方</string>
     <string name="draft_stbasilcathedral00_title">聖瓦西里主教座堂</string>
-    <string name="draft_stbasilcathedral00_text">聖瓦西里主教座堂是一座位於莫斯科，俄羅斯的教堂。它竣工於1561年，它的總高度為115米</string>
+    <string name="draft_stbasilcathedral00_text">聖瓦西里主教座堂是一座位於俄羅斯莫斯科的教堂。它竣工於1561年，它的總高度為115米</string>
 
     <string name="draft_toji00_title">東寺（教王護國寺）</string>
     <string name="draft_toji00_text">東寺是一座位於日本京都市的佛寺。它竣工於796年，它的總高度為55米</string>
@@ -2136,7 +2136,7 @@
     <string name="stage_comment_login">使用 TheoTown 帳戶登錄以發表評論</string>
     <string name="dialog_report_title">檢舉</string>
     <string name="dialog_report_text">請選中檢舉理由檢舉 %1$s:</string>
-    <string name="dialog_report_appendix">您可以發送其他資訊给 @theotown.com 以檢舉</string>
+    <string name="dialog_report_appendix">您可以發送其他資訊给 report@theotown.com 以檢舉</string>
     <string name="dialog_reported_title">瞭解</string>
     <string name="dialog_reported_text">Thank you for your report. We will review it and take action accordingly.\nYou may send us additional information to report@theotown.com if needed.</string>
     <string name="dialog_report_cmd">Report</string>
@@ -2614,34 +2614,34 @@ Press a key to assign it to this action.</string>
     <string name="ci_statistics_help">這些圖表可以説明您的城市發展境況。\n 點選右側的箭頭在不同的圖形之間切換。 \n點選+和-按鈕可以放大和縮小圖表。</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">著色器</string>
+    <string name="draft_cat_streetlights00_title">路燈根據道路自動鋪設</string>
+    <string name="toolaction_roadautodecorations">啟用道路之裝飾</string>
+    <string name="draft_biomeMaker_open00_title">地面漆塗工具</string>
+    <string name="draft_biomeMaker_open00_text">使用此地面漆塗專用之工具，您可以在西奧小鎮遊戲內在地圖上輕鬆且不用多費精力地進行精緻而或多樣化的地面之漆塗。</string>
+    <string name="biomemaker_types">型別:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">儲存</string>
+    <string name="control_load">載入</string>
+    <string name="draft_biomeMaker_cmdsavepreset">儲存預定之設置</string>
+    <string name="draft_biomeMaker_cmdloadpreset">加載預定之設置/string>
+    <string name="draft_biomeMaker_cmdreset">重置設置之內容</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">配置</string>
+    <string name="draft_biomeMaker_ground">平面</string>
+    <string name="draft_biomeMaker_slope">斜坡</string>
+    <string name="draft_biomeMaker_decoration">裝飾</string>
+    <string name="draft_biomeMaker_atground">覆蓋於平面上</string>
+    <string name="draft_biomeMaker_atslope">覆蓋於斜坡上</string>
+    <string name="draft_biomeMaker_useslope">使用地形已有之斜坡貼圖</string>
+    <string name="draft_biomeMaker_nogroundtype">您並未選擇平面地形之型別</string>
+    <string name="draft_biomeMaker_noslopetype">您並未選擇斜坡地形之型別</string>
+    <string name="draft_biomeMaker_nodecotype">您並未選擇裝飾地形之型別</string>
+    <string name="draft_biomeMaker_dialogreplace_title">確認操作內容</string>
+    <string name="draft_biomeMaker_dialogreplace_text">您確定要用這套來替換%s嗎？該操作不容許您採用撤銷操作以對該操作進行撤銷操作。</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">繼續</string>
+    <string name="draft_biomeMaker_cmdselect">選擇</string>
+    <string name="draft_biomeMaker_toastempty">此處並無任何內容</string>
+    <string name="store_recommended_plugin">被推薦插件</string>
 
 </resources>
