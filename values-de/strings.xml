@@ -1730,7 +1730,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_roaddeco_border04_title">Glaswand</string>
     <string name="draft_roaddeco_border04_text">Man kann Autos hindurch sehen.</string>
     <string name="draft_roaddeco_border05_title">Straßenbeleuchtung</string>
-    <string name="draft_roaddeco_border05_text">Obwohl es keine Nacht gibt, gibt es Straßenlampen. Seltsam.</string>
+    <string name="draft_roaddeco_border05_text">Straßenlaternen beleuchten die Straße in der Nacht.</string>
     <string name="draft_cat_roaddeco00_title">Straßendeko</string>
 
 
@@ -2657,5 +2657,36 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="ci_airport_help">Hier befindet sich der Tower zum Verwalten deiner Flughäfen. Du kannst Landebahnen verknüpfen, Flugzeuge kaufen, und diese dann den Landebahnen zuweisen.</string>
     <string name="ci_water_help">Wasser ist essenziell für Leben und deine Einwohner bilden da keine Ausnahme. Stelle sicher, dass du ausreichende Mengen Wasser zur Verfügung stellst und, dass alles mit Wasserleitungen verbunden ist. Wir empfehlen, Wasserpumpen nicht in verschmutzten Gebieten zu platzieren, da dies Krankheiten auslösen kann.</string>
     <string name="ci_statistics_help">Diese Graphen können dabei helfen die Entwicklung deiner Stadt nachzuverfolgen. Nutze die Pfeilknöpfe auf der rechten Seite, um zwischen den verschiedenen Graphen zu wechseln. Mit den +/- Knöpfen kannst du hinein bzw. heraus zoomen.</string>
+
+
+    <string name="store_cat_shaders">Shader</string>
+    <string name="draft_cat_streetlights00_title">Straßenbeleuchtung</string>
+    <string name="toolaction_roadautodecorations">Dekos</string>
+    <string name="draft_biomeMaker_open00_title">Bodenwerkzeug</string>
+    <string name="draft_biomeMaker_open00_text">Mit diesem Werkzeug kannst du spielend leicht den Boden ändern.</string>
+    <string name="biomemaker_types">Typen:</string>
+
+
+    <string name="control_save">Speichern</string>
+    <string name="control_load">Laden</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Einstellung speichern</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Einstellung laden</string>
+    <string name="draft_biomeMaker_cmdreset">Auswahl zurücksetzen</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Konfigurieren</string>
+    <string name="draft_biomeMaker_ground">Boden</string>
+    <string name="draft_biomeMaker_slope">Schräge</string>
+    <string name="draft_biomeMaker_decoration">Dekoration</string>
+    <string name="draft_biomeMaker_atground">Boden</string>
+    <string name="draft_biomeMaker_atslope">Schräge</string>
+    <string name="draft_biomeMaker_useslope">Schräge nutzen</string>
+    <string name="draft_biomeMaker_nogroundtype">Kein Boden ausgewählt</string>
+    <string name="draft_biomeMaker_noslopetype">Keine Schräge ausgewählt</string>
+    <string name="draft_biomeMaker_nodecotype">Keine Dekoration ausgewählt</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Bestätigung</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Bist du sicher, dass du %s ersetzen möchtest? Dies kann nicht rückgängig gemacht werden.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Fortfahren</string>
+    <string name="draft_biomeMaker_cmdselect">Auswählen</string>
+    <string name="draft_biomeMaker_toastempty">Das war leer</string>
+    <string name="store_recommended_plugin">Pluginempfehlung</string>
 
 </resources>

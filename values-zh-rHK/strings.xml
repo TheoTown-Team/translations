@@ -19,7 +19,7 @@
     <string name="createcity_sizebig">城鎮</string>
     <string name="createcity_sizeother">其他</string>
     <string name="game_monthlyincome">%1$,+d</string>
-    <string name="game_estate">遗产： %1$s</string>
+    <string name="game_estate">遺產： %1$s</string>
     <string name="game_rating">%1$,d</string>
     <string name="settings_resolutionlowlow">好细</string>
     <string name="settings_resolutionlow">小</string>
@@ -2549,8 +2549,7 @@
     <string name="settings_translateplugins">翻譯插件(翻譯質素差)</string>
     <string name="stage_region_greeter_welcome">歡迎來到</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
-    
-    
+
     <string name="loadcity_preview">本地存檔</string>
     <string name="settings_darkbuildtool">暗色建造工具</string>
     <string name="forum_cmdforgot">遺忘?</string>
@@ -2573,11 +2572,11 @@
     <string name="ci_budget_help">在這裡，您可以查看和調整您的稅款以及查看每月費用。較富裕嘅居民繳納更多嘅稅款。太高嘅稅收同你嘅居民會唔開心，離開你嘅城市,為避免低稅收幸福感。我哋建議你把稅費設置喺6.5到8.0</string>
     <string name="ci_budget_help_nomoney">在這裡，您可以查看和調整您的稅款以及查看您的每月費用,較富裕嘅居民繳納更多嘅稅款,太高嘅稅收同你嘅居民會唔開心,離開你嘅城市,為避免低稅收幸福感,我哋建議你把稅費設置喺6.5到8.0之間</string>
 
-
     <string name="stage_account_pro_gallery">将你城市嘅屏幕截图上傳到在線圖庫</string>
     <string name="comments_locked">此評論部分已鎖定</string>
     <string name="comments_cmd_lock">鎖定</string>
     <string name="comments_cmd_unlock">冇鎖定</string>
+
     <string name="store_cat_officialgameextensions">官方遊戲擴展</string>
     <string name="dialog_screenshot_cmdshare">共享</string>
     <string name="settings_targetfps">幀數設定</string>
@@ -2592,7 +2591,7 @@
     <string name="dialog_pluginqualityunsure_dontshowagain">唔再彈出</string>
     <string name="store_modecertifiedcreators">認證創作者</string>
     <string name="ci_rating_help">喺呢度，你可以睇到居民嘅幸福感,更多嘅幸福感吸引更多嘅人住喺你嘅城市。點擊一行以查看城市中嘅相應分布</string>
-    <string name="ci_rank_help"></string>
+    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
     <string name="ci_loan_help">沒有錢了？ 你可以貸款繼續建造嘢。 但是，請記住，隨著時間的推移，你將不得不償還貸款</string>
     <string name="ci_health_help">建立醫療設施，讓您的居民保持健康和快樂。</string>
     <string name="ci_energy_help">好多建築物需要電力才能運行。 確保你產生足夠嘅能量，確保一切都連接到電網</string>
@@ -2601,6 +2600,36 @@
     <string name="ci_airport_help">基本上係您的空中交通管制塔，用于控制您的機場。 您可以從地圖中選擇車道，購買飛機，然後將飛機分配給跑道。</string>
     <string name="ci_water_help">水係生命之源，您的居民都唔例外。 確保提供足夠嘅水量，並且所有嘢都用管道連接。 唔好將水泵放在污染地區，否則您的居民會生病</string>
     <string name="ci_statistics_help">呢啲圖表可以幫助您跟蹤城市嘅發展。 使用右側嘅箭頭喺不同圖形之間切換。 +/-按鈕可用于放大和縮小。</string>
-    
-    
-  </resources>
+
+
+    <string name="store_cat_shaders">著色器</string>
+    <string name="draft_cat_streetlights00_title">路燈</string>
+    <string name="toolaction_roadautodecorations">啟用裝飾</string>
+    <string name="draft_biomeMaker_open00_title">地形鋪設工具</string>
+    <string name="draft_biomeMaker_open00_text">你可以使用該工具嚟鋪設地形</string>
+    <string name="biomemaker_types">組類:</string>
+
+
+    <string name="control_save">儲存</string>
+    <string name="control_load">加載</string>
+    <string name="draft_biomeMaker_cmdsavepreset">存儲預設</string>
+    <string name="draft_biomeMaker_cmdloadpreset">加載預設</string>
+    <string name="draft_biomeMaker_cmdreset">重置所選內容</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">配置</string>
+    <string name="draft_biomeMaker_ground">地面</string>
+    <string name="draft_biomeMaker_slope">斜坡</string>
+    <string name="draft_biomeMaker_decoration">裝飾</string>
+    <string name="draft_biomeMaker_atground">覆蓋平面</string>
+    <string name="draft_biomeMaker_atslope">覆蓋斜坡</string>
+    <string name="draft_biomeMaker_useslope">使用提供嘅坡度</string>
+    <string name="draft_biomeMaker_nogroundtype">未選擇組類</string>
+    <string name="draft_biomeMaker_noslopetype">未選擇組類</string>
+    <string name="draft_biomeMaker_nodecotype">冇揀裝飾類型</string>
+    <string name="draft_biomeMaker_dialogreplace_title">確認</string>
+    <string name="draft_biomeMaker_dialogreplace_text">是否確實要用此設置替換%s？ 係無法撤消嘅。</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">進行</string>
+    <string name="draft_biomeMaker_cmdselect">選擇</string>
+    <string name="draft_biomeMaker_toastempty">這是空的</string>
+    <string name="store_recommended_plugin">推薦插件</string>
+
+</resources>

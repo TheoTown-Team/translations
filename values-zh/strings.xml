@@ -870,7 +870,7 @@
     <string name="ci_budget_doublemoney_text">使你在%1$,d天的收入加倍</string>
     <string name="ci_budget_getmoney_title">换取 %1$s</string>
     <string name="ci_budget_getmoney_text">用些钻石来换取 %1$s 吧。</string>
-    <string name="notify_badattribute">要想让%2$s搬到你的城市，我们需要把满意度提高%1$s</string>
+    <string name="notify_badattribute">要想让%2$s搬到你的城市，我们需要把%1$s的满意度提高</string>
     <string name="game_remaining_doubleincome">%1$,d 天双倍收入</string>
     <string name="dialog_diamondshop_title">商店</string>
     <string name="features_notenough">不够%1$s</string>
@@ -2283,7 +2283,7 @@
     <string name="dialog_acquiremapfreemium_title">占领地块</string>
     <string name="dialog_acquiremapfreemium_text">恭喜，这是一块空地块，你可以占领它并建造城市.</string>
     <string name="settings_sound_plugins">插件</string>
-    <string name="createregion_title">新区域</string>
+    <string name="createregion_title">创建区域</string>
     <string name="createregion_split">拆分</string>
     <string name="createregion_merge">合并</string>
     <string name="createregion_hide">去除</string>
@@ -2668,5 +2668,36 @@
     <string name="ci_airport_help">这本质上是利用塔台来调整您机场的各项资源，您可以在地图上选择跑道、购买飞机，并且将飞机分配给跑道。（一条跑道只有一架飞机来飞着实离谱）</string>
     <string name="ci_water_help">水是生命之源，对于您的居民们来说至关重要，您必须有足够的淡水资源，并通过水管与各个建筑物相连。请确保您的水泵放在受污染的区域之外，否则您的居民会因污染的水源生病。</string>
     <string name="ci_statistics_help">这些图表可以帮助您追踪城市的发展，使用右侧的箭头在不同的图表之间切换。+/-按钮可用于放大和缩小。 </string>
+
+
+    <string name="store_cat_shaders">着色器</string>
+    <string name="draft_cat_streetlights00_title">自动铺设路灯</string>
+    <string name="toolaction_roadautodecorations">启用道路装饰</string>
+    <string name="draft_biomeMaker_open00_title">地形铺设器</string>
+    <string name="draft_biomeMaker_open00_text">您可以使用地形铺设器以轻松、省力地铺设精致且多样化的地形。</string>
+    <string name="biomemaker_types">种类:</string>
+
+
+    <string name="control_save">保存</string>
+    <string name="control_load">加载</string>
+    <string name="draft_biomeMaker_cmdsavepreset">保存预设</string>
+    <string name="draft_biomeMaker_cmdloadpreset">加载预设</string>
+    <string name="draft_biomeMaker_cmdreset">重置设定</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">结构</string>
+    <string name="draft_biomeMaker_ground">地面</string>
+    <string name="draft_biomeMaker_slope">斜坡</string>
+    <string name="draft_biomeMaker_decoration">装饰</string>
+    <string name="draft_biomeMaker_atground">覆盖平面</string>
+    <string name="draft_biomeMaker_atslope">覆盖斜面</string>
+    <string name="draft_biomeMaker_useslope">使用地形自有斜坡</string>
+    <string name="draft_biomeMaker_nogroundtype">没有选择地面种类</string>
+    <string name="draft_biomeMaker_noslopetype">没有选择斜坡种类</string>
+    <string name="draft_biomeMaker_nodecotype">没有选择装饰种类</string>
+    <string name="draft_biomeMaker_dialogreplace_title">确认</string>
+    <string name="draft_biomeMaker_dialogreplace_text">您确定要以此重置%s吗？不能撤销此操作。</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">继续</string>
+    <string name="draft_biomeMaker_cmdselect">选择</string>
+    <string name="draft_biomeMaker_toastempty">这是空的</string>
+    <string name="store_recommended_plugin">推荐</string>
 
 </resources>
