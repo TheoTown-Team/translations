@@ -2443,15 +2443,15 @@ By doing so we can circumvent potential data loss caused by app updates or re-in
     <string name="dialog_onlinenotifications_empty">Henüz bildirim yok</string>
     <string name="dialog_onlinenotifications_cmdempty">Bildirimler</string>
     <string name="dialog_onlinenotifications_cmdnonempty">Bildirimler (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
+    <string name="dialog_reason_title">Sebep</string>
+    <string name="dialog_reason_text">Devam etmek için bu eylem için bir sebep belirtmeniz gerekmektedir.</string>
     <string name="store_realtitle">Eklenti Mağazası</string>
     <string name="settings_pushnotificationsonline">Çevrimiçi mod için bilidirimler.</string>
     <string name="settings_verticaltoolbar">Dikey araç çubuğu</string>
     <string name="settings_darktoolbar">Kara araç çubuğu</string>
-    <string name="dialog_tutwelcome_title">TheoTown\'a hoşgeldiniz</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
+    <string name="dialog_tutwelcome_title">TheoTown\'a hoş geldiniz</string>
+    <string name="dialog_tutwelcome_text">Şimdi sana kendi şehrini inşa etmenin temel bilgilerini öğretmek için öğreticiye başlayacağız.\n\n
+Eğer halihazırda nasıl oynanacağını biliyorsanız öğreticiyi geçebilirsiniz. İstediğiniz zaman oyun menüsünden öğretici atlayabilirsiniz.</string>
     <string name="dialog_tutwelcome_cmdskip">Öğreticiyi geç</string>
     <string name="dialog_tutwelcome_start">Hadi başlayalım</string>
 
@@ -2459,9 +2459,9 @@ You can skip the tutorial if you already know how to play. You can skip the tuto
     <string name="settings_catplugins">Eklentiler</string>
     <string name="settings_keys">Anahtarlar</string>
     <string name="settings_keys_cmdreset">Varsayılan durumuna çevir</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
+    <string name="settings_keys_text">Şu an atanık: %1$s\n
+Varsayılan: %2$s\n\n
+Bu eyleme atamak için bir tuşa basın.</string>
     <string name="settings_toolbarnames">İsimleri araç çubuğunda göster.</string>
     <string name="settings_toolbarprices">Fiyatları araç çubuğunda göster.</string>
 
@@ -2470,55 +2470,55 @@ Press a key to assign it to this action.</string>
 
 
     <string name="dialog_regionnopermission_title">Erişim yok</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
+    <string name="dialog_regionnopermission_text">Uygulamanın, bölgeyi güvenli bir şekilde depolamak için harici depolamaya erişimi yok. Bölge oluşturmak için lütfen harici depolamaya erişim izni verin.</string>
     <string name="ranger_cmdselecttrees">Ağaçları seç</string>
-    <string name="draft_treeplantertool00_title">Tree Planter</string>
-    <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
+    <string name="draft_treeplantertool00_title">Ağaç Dikici</string>
+    <string name="draft_treeplantertool00_text">Bu araç çeşitli ağaçları doğal ve elverişli bir şekilde oluşturmak için kullanılabilir.</string>
     <string name="treeplanter_cmdconfigure">Yapılandır</string>
     <string name="treeplanter_species">Türler:</string>
     <string name="treeplanter_density">Yoğunluk:</string>
-    <string name="treeplanter_roughness">Roughness:</string>
+    <string name="treeplanter_roughness">Kabalık:</string>
     <string name="treeplanter_brushsize">Fırça boyutu:</string>
     <string name="treeplanter_outofcash">Para kalmadı</string>
     <string name="control_about">Hakkında</string>
-    <string name="about_framework">Framework</string>
+    <string name="about_framework">Çerçeve</string>
     <string name="control_undo">Geri al</string>
     <string name="control_redo">Tekrar yap</string>
     <string name="toolaction_zoneroad">Yol ekle</string>
     <string name="settings_fullscreen_resolution">Tam ekran çözünürlüğü</string>
-    <string name="settings_tool_history">Undo functionality</string>
-    <string name="topic_birthday_ja">Happy birthday JustAnyone!</string>
+    <string name="settings_tool_history">İşlevselliği geri al</string>
+    <string name="topic_birthday_ja">Mutlu yıllar JustAnyone!</string>
 
 
-    <string name="ci_neighbor_se">SE</string>
-    <string name="ci_neighbor_ne">NE</string>
-    <string name="ci_neighbor_nw">NW</string>
-    <string name="ci_neighbor_sw">SW</string>
+    <string name="ci_neighbor_se">KD</string>
+    <string name="ci_neighbor_ne">GD</string>
+    <string name="ci_neighbor_nw">KB</string>
+    <string name="ci_neighbor_sw">GB</string>
     <string name="dialog_removewithprice_title">Kaldırma bedeli</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
+    <string name="dialog_removewithprice_text">Seçiminizi kaldırmak için gereken miktar %1$s. Devam etmek istiyor musunuz?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Enerji kablolar ile transfer edilir.</string>
+    <string name="featureselector_doubledincometime">%1$s için iki kat gelir</string>
+    <string name="draft_marker_powermarker_text">Enerjinin kapsaması. Enerji kablolar ile transfer edilir.</string>
     <string name="draft_marker_waterpipemarker_title">Su</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Su yerleşimcilerinize borular ile ulaştırılır.</string>
+    <string name="draft_marker_waterpipemarker_text">Suyun kapsaması. Su yerleşimcilerinize borular ile ulaştırılır.</string>
     <string name="stage_files_title">Dosya yöneticisi</string>
     <string name="stage_files_importhere">Buraya yükle</string>
     <string name="stage_files_currentdir">Şu anki klasörr</string>
     <string name="stage_files_actions">Eylemler</string>
-    <string name="stage_files_actionexport">Export</string>
+    <string name="stage_files_actionexport">Dışa aktar</string>
     <string name="stage_files_actionrename">Yeniden adlandır</string>
     <string name="stage_files_actionrename_text">Dosyayı yeniden adlandır %1$s:</string>
     <string name="stage_files_renamecollision_title">İsim çakışması</string>
     <string name="stage_files_renamecollision_text">%1$s isimli dosya zaten var!</string>
     <string name="stage_files_actiondelete">Sil</string>
     <string name="stage_files_actiondelete_title">Sil?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
+    <string name="stage_files_actiondelete_text">%1$s isimli dosyayı silmek istediğinden emin misin? Bu eylem geri alınamaz!</string>
     <string name="stage_files_settings">Ayarlar</string>
     <string name="stage_files_settings_showhiddenfiles">Gizli dosyaları göster</string>
     <string name="stage_files_filesize">Boyut: %1$s</string>
     <string name="stage_files_helptitle">Yardım</string>
-    <string name="stage_files_helptext">TheoTown dosya yöneticisine hoşgeldin. Burada haritalarına, bölgelerine, eklentilerine ve daha fazlasına erişebilir ve yönetebilirsin.</string>
+    <string name="stage_files_helptext">TheoTown dosya yöneticisine hoş geldin. Burada haritalarına, bölgelerine, eklentilerine ve daha fazlasına erişebilir ve yönetebilirsin.</string>
     <string name="unit_sizebytes">%1$,d baytlar</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
@@ -2530,13 +2530,13 @@ Press a key to assign it to this action.</string>
     <string name="stage_files_createfolder_cmdcreate">Oluştur</string>
     <string name="stage_files_createfoldercollision_title">Dosya var</string>
     <string name="stage_files_createfoldercollision_text">%1$s isimli dosya zaten var</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="tool_terrain_smoothwaterheights">Düzgün derinlik</string>
 
 
     <string name="stage_files_importherefiles">Dosya(lar)</string>
     <string name="stage_files_importherefolders">Klasör</string>
     <string name="draft_mosque10_title">Hassan II Camii</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
+    <string name="draft_mosque10_text">Hassan II Camii Kasablanka/Fastaki bir camidir. Afrika'da işleyen en büyük camidir ve dünyanın 7. büyük camisidir. Minaresi 210 metre ile dünyanın ikinci en yüksek minaresidir. 1993 yılında tamamlanan bina, Kral II. Hassan'ın rehberliğinde Michel Pinseau tarafından tasarlandı ve krallığın her yerinden Faslı zanaatkârlar tarafından inşa edildi. Minare 60 kat yüksekliğinde olup, en tepesinde mekkeye yönlendirilmiş bir lazere sahiptir. Atlas Okyanusu'na bakan bir burnun üzerinde yer alır. Duvarlar el yapımı mermerdendir ve çatı açılır kapanabilir. 105.000 kişi namaz kılmak için bir araya gelebilir: 25.000 kişi cami salonunun içinde ve 80.000 kişi caminin dışında.</string>
     <string name="dialog_filesrestart_title">Baştan Başla</string>
     <string name="dialog_filesrestart_text">Değişikliklerin uygulanabilmesi için oyunu baştan başlatmanız gerekebilir.\n\nOyunu şimdi yeniden başlatmak istiyor musunuz??</string>
     <string name="dialog_filesrestart_cmdrestart">Yeniden başlat</string>
@@ -2546,9 +2546,9 @@ Press a key to assign it to this action.</string>
 
 
     <string name="draft_tunnel_management00_title">Yol yetkisi</string>
-    <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
+    <string name="draft_tunnel_management00_text">Tünelleri elmas kullanmadan yapmayı, gişelerin daha fazla gelir elde etmesini sağlar ve şehir genelinde yolları daha ucuz yapar.</string>
     <string name="draft_tunnel_management00_title_premium">Yol yetkisi</string>
-    <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
+    <string name="draft_tunnel_management00_text_premium">Gişelerin daha fazla gelir elde etmesini sağlar ve şehir genelinde yolları daha ucuz yapar.</string>
     <string name="stage_account_whytoregister">Neden kayıt olmalısın</string>
     <string name="stage_account_pro_onlinemode">Çevrimiçi mod bölgelerine katılabilirsin.</string>
     <string name="stage_account_pro_comment">Eklentilere ve şehirlere yorum yapabilirisin.</string>
@@ -2556,22 +2556,22 @@ Press a key to assign it to this action.</string>
     <string name="stage_account_con_localcities">Sadece yerel şehirler yerel olarak depolanır.</string>
 
 
-    <string name="draft_discord_statue02_title">Discord 20bn</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
+    <string name="draft_discord_statue02_title">Discord 20 bin</string>
+    <string name="draft_discord_statue02_text">Discordda 20 bin üye yıldönümünü kutlamak adına yeni bir heykel. Bu yıldönümü için bir çöpçü avı düzenledik ve ilk tamalayan şanlı üyemiz KolaKattz oldu</string>
     <string name="settings_drawpedestrians">Yayalar</string>
     <string name="draft_pedestrian_road00_title">Kaldırım</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
+    <string name="draft_pedestrian_road00_text">Birbirine yakın binaları birleştirmek adına yayalar için basit bir kaldırım.</string>
+    <string name="draft_deco_chr_manger00_title">Tahta yemlik</string>
+    <string name="draft_deco_chr_manger00_text">At, inek ve diğer hayvanların beslendiği büyük boyda açık bir kutu.</string>
     <string name="settings_diagonalroadtool">Destekleniyorsa çapraz olarak yol oluşturabilirsiniz</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
+    <string name="settings_smoothzoom">Düzgün zum</string>
     <string name="settings_smoothzoom_off">Kapalı</string>
-    <string name="settings_smoothzoom_nearest">Blocky</string>
+    <string name="settings_smoothzoom_nearest">Bloklu</string>
     <string name="settings_smoothzoom_linear">Bulanık</string>
     <string name="settings_smoothzoom_fast">Hızlı</string>
     <string name="settings_regionoriginbackup">Yeni oluşturulan bölgeler için şehir sıfırlama seçeneği.</string>
     <string name="settings_translateplugins">Çeviri eklentileri</string>
-    <string name="stage_region_greeter_welcome">Hoşgeldiniz</string>
+    <string name="stage_region_greeter_welcome">Hoş geldiniz</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
 
 
@@ -2585,75 +2585,75 @@ Press a key to assign it to this action.</string>
     <string name="store_rating_positive">GÜZEL</string>
     <string name="store_rating_verypositive">ÇOK GÜZEL</string>
     <string name="draft_draft_wst_title">Atık bertarafı mutluluğu</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
+    <string name="draft_draft_wst_text">Atık bertarafı mutluluğu.</string>
+    <string name="settings_plugin_texture_cache">Eklenti doku önbelleği</string>
+    <string name="draft_tree_spruce00_title">Ladin</string>
+    <string name="draft_tree_spruce00_text">Ladin yaprak dökmeyen, kozalaklı bir ağaçtır. Kuzeydeki ılıman bölgelerde boreal ekosistemlerinde bulunabilir. Yüksekliği 60 metreye ulaşabilir.</string>
+    <string name="draft_tree_alder00_title">Kızılağaç</string>
+    <string name="draft_tree_alder00_text">30 metreye kadar uzayabilen ve sıradan gözüken bir ağaç.</string>
     <string name="stage_gallery_loadingimages">Resimler yükleniyor...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Burada vergilerinizi ve aylık giderlerinizi görüntüleyebiliriniz ve vergilerinizi düzenleyebilirsiniz. Daha zengin yerleşimciler ve işciler daha çok vergi öder. Aşırı yüksek vergilerden dolayı yerleşimcileriniz mutsuz olur ve şehri terk eder, buda düşük vergi mutluluğuna neden olur. Vergilerinizi 6.5 ve 8.0 arası ayarlamanızı öneririz.</string>
+    <string name="ci_neighbor_help">Burada komşu şehirlere/lerden enerji, su, atık ve cenazeleri aktarabilir/alabilirsiniz. </string>
+    <string name="ci_budget_help">Burada vergilerinizi ve aylık giderlerinizi görüntüleyebilirsiniz ve vergilerinizi düzenleyebilirsiniz. Daha zengin yerleşimciler ve işciler daha çok vergi öder. Aşırı yüksek vergilerden dolayı yerleşimcileriniz mutsuz olur ve şehri terk eder, bu da düşük vergi mutluluğuna neden olur. Vergilerinizi 6.5 ve 8.0 arası ayarlamanızı öneririz.</string>
+    <string name="ci_budget_help_nomoney">Burada vergilerinizi ve aylık giderlerinizi görüntüleyebilirsiniz ve vergilerinizi düzenleyebilirsiniz. Daha zengin yerleşimciler ve işciler daha çok vergi öder. Aşırı yüksek vergilerden dolayı yerleşimcileriniz mutsuz olur ve şehri terk eder, bu da düşük vergi mutluluğuna neden olur. Vergilerinizi 6.5 ve 8.0 arası ayarlamanızı öneririz.</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">Çevrimiçi galeriye şehirlerinin ekran görüntülerini yükle</string>
+    <string name="comments_locked">Yorumlar kilitlenmiş</string>
+    <string name="comments_cmd_lock">Kilitle</string>
+    <string name="comments_cmd_unlock">Kilidi aç</string>
+    <string name="store_cat_officialgameextensions">Resmi Oyun Uzantıları</string>
+    <string name="dialog_screenshot_cmdshare">Paylaş</string>
+    <string name="settings_targetfps">Hedef FPS</string>
+    <string name="settings_targetfps_auto">Otomatik</string>
+    <string name="dialog_nointernetaccess_title">Bağlantı yok</string>
+    <string name="dialog_nointernetaccess_text">Çevrimdışısınız.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Anladım</string>
+    <string name="store_modebestrated">En iyi derecelendirilmiş</string>
+    <string name="dialog_pluginqualityunsure_title">Dikkatli olun</string>
+    <string name="dialog_pluginqualityunsure_text">İndirmek üzere olduğunuz eklenti henüz fazla derecelendirilmedi ya da indirilmedi. Sonuç olarak, beklentilerinizi karşılayamayabilir.</string>
+    <string name="dialog_pluginqualityunsure_gotit">Anladım</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Tekrar gösterme</string>
+    <string name="store_modecertifiedcreators">Onaylanmış Üreticiler</string>
+    <string name="ci_rating_help">Burada halkının mutluluğunu görebilirsin. Daha fazla mutluluk daha fazla insanı şehrinde yaşamak için cezbeder. Şehirde karşılık gelen dağılımı görmek için bir dizinin üstün tıkla.</string>
+    <string name="ci_rank_help">Bir şehrin güncel rütbesi o şehrin gelişmişlik seviyesini belirler. Nüfusunu arttırarak ya da genel olarak şehrini geliştirerek sonraki rütbeye ulaşmak adına şehir puanları kazanabilirsin. Yeni bir rütbeye ulaşmak yeni binaların kilidini açabilir.</string>
+    <string name="ci_loan_help">Para kalmadı mı? Bir şeyler inşa etmeye devam edebilmek için borç alabilirsin. Fakat, zaman içinde borcunu geri ödemek zorunda olduğunu unutma.</string>
+    <string name="ci_health_help">Büyükşehirlerde sağlıklı kalmak sorun olabiliyor. Halkını sağlıklı ve mutlu tutmak için tıbbi tesisler inşa et.</string>
+    <string name="ci_energy_help">Çoğu binanın işlev görebilmesi için güce ihtiyacı vardır. Yeterli miktarda enerji sağladığından ve her şeyin şebekeye bağlı olduğundan emin ol.</string>
+    <string name="ci_info_help">Burada şehriniz hakkında bazı genel bilgileri görüyorsunuz.</string>
+    <string name="ci_education_help">Eğitim, halkının yaşam şartlarını yükselmesinde gereklidir ve aynı zamanda okumuş çalışan ve yatırımcıları cezbeder.</string>
+    <string name="ci_airport_help">Bu, havalimanlarını kontrol etmen için aslen hava trafik kontrol kulen. Haritadan pist seçip, uçak alıp, bu uçakları pistlere atayabilirsin.</string>
+    <string name="ci_water_help">Su yaşam için zorunludur ve senin halkın da istisna değil. Yeterli miktarda su sağladığından ve her şeyin borularla bağlanmış olduğundan emin ol. Su pompalarını kirli bölgelere inşa etme ki halkın hastalanmasın.</string>
+    <string name="ci_statistics_help">Bu grafikler şehrinin gelişimini takip etmene yardımcı olabilir. Sağ taraftaki okları kullanarak farklı grafiklere bakabilirsin. +/- butonları ile yakınlaştırıp uzaklaştırabilirsin.</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Gölgelendiriciler</string>
+    <string name="draft_cat_streetlights00_title">Sokak lambaları</string>
+    <string name="toolaction_roadautodecorations">Dekorasyonları kullan</string>
+    <string name="draft_biomeMaker_open00_title">Zemin aracı</string>
+    <string name="draft_biomeMaker_open00_text">Bu aracı kullanarak kolaylıkla zemin yerleştirebilirsin.</string>
+    <string name="biomemaker_types">Tipler:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">Kaydet</string>
+    <string name="control_load">Yükle</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Ön ayarı kaydet</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Ön ayarı yükle</string>
+    <string name="draft_biomeMaker_cmdreset">Seçimi sıfırla</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Yapılandırma</string>
+    <string name="draft_biomeMaker_ground">Zemin</string>
+    <string name="draft_biomeMaker_slope">Eğim</string>
+    <string name="draft_biomeMaker_decoration">Dekorasyon</string>
+    <string name="draft_biomeMaker_atground">Zeminde inşa et</string>
+    <string name="draft_biomeMaker_atslope">Eğimde inşa et</string>
+    <string name="draft_biomeMaker_useslope">Tedarik edilmiş eğimi kullan</string>
+    <string name="draft_biomeMaker_nogroundtype">Zemin için seçilmiş tip yok</string>
+    <string name="draft_biomeMaker_noslopetype">Eğim için seçilmiş tip yok</string>
+    <string name="draft_biomeMaker_nodecotype">Dekorasyonlar için seçilmiş tip yok</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Onayla</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Bu seti %s yerine koymak istediğinden emin misin? Bu eylem geri alınamaz.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Devam et</string>
+    <string name="draft_biomeMaker_cmdselect">Seç</string>
+    <string name="draft_biomeMaker_toastempty">Bu boştu</string>
+    <string name="store_recommended_plugin">Önerilen eklenti</string>
 
 </resources>
