@@ -111,7 +111,7 @@
     <string name="draft_museum00_text">Ang lugar kung saan natututo ang mga nakatatanda.</string>
     <string name="draft_pipe00_title">Tubo</string>
     <string name="draft_pipe00_text">Ginagamit ang mga tubo sa paghahatid ng tubig sa inyong mga gusali.</string>
-    <string name="draft_waterpump00_title">Pasigluyang Tubig</string>
+    <string name="draft_waterpump00_title">Bombahang-Tubig</string>
     <string name="draft_waterpump00_text">Nagbibigay ng tubig sa inyong mga gusali.</string>
     <string name="draft_watertower00_title">Tangke ng Tubig</string>
     <string name="draft_watertower00_text">Nagbibigay ng kaunting tubig sa mga gusali.</string>
@@ -327,8 +327,8 @@
     <string name="draft_middlepark00_lights_text">Isang pabelyon kung saan nagaganap ang mga tanghalan.</string>
     <string name="draft_middlepark00_clock_title">Orasan</string>
     <string name="draft_middlepark00_clock_text">Ang orasan ang magsasabi sa mga tao ng kasalukuyang oras.</string>
-    <string name="notify_power_low">Kakaunti na lang po ang natitirang enerhiya. Maaari po ba kayong magpagawa ng mga bagong planta-enerhiya.</string>
-    <string name="notify_water_low">Hindi na po sasapat ang inyong tubig. Siguro, dapat na po tayong magpagawa ng mga bagong pasigluyang tubig.</string>
+    <string name="notify_power_low">Kakaunti na lang po ang natitirang enerhiya. Maaari po ba kayong magpatayo ng mga bagong planta-enerhiya.</string>
+    <string name="notify_water_low">Hindi na po sasapat ang inyong tubig. Siguro, dapat na po tayong magpatayo ng mga bagong pabombahang-tubig.</string>
     <string name="notify_religion">Maaari po ba n\'yo kaming ipagpatayo ng ilang gusali panrelihiyon?</string>
     <string name="notify_park">Gusto po namin magkaroon ng marami pang parke.</string>
     <string name="notify_sport">Gusto po namin maglaro ng isports.</string>
@@ -598,7 +598,7 @@
     <string name="draft_plaza00_text">Liwasang Nayon para sa inyong munisipyo.</string>
     <string name="topic_birthday_theotown">Maligayang Kaarawan TheoTown :D</string>
     <string name="menu_cmddonate">Mag-donate</string>
-    <string name="draft_waterpump01_title">Maliit na Pasigluyang Tubig</string>
+    <string name="draft_waterpump01_title">Maliit na Bombahang Tubig</string>
     <string name="draft_waterpump01_text">Kailangang itayo malapit sa katubigan.</string>
     <string name="draft_filterplant00_title">Plantang Pansala</string>
     <string name="draft_filterplant00_text">Nililinis ang maruming tubig para magamit muli.</string>
@@ -931,7 +931,7 @@
     <string name="shop_diamonds">%1$s diyamante para sa %2$s</string>
     <string name="draft_townhall02_title">Pamahalaang-Lungsod</string>
     <string name="draft_townhall02_text">Malaking pamahalaang-lungsod para sa malaking lungsod. Ito ay pasasalamat sa 1M pagdawnlowd.</string>
-    <string name="notify_pollutedwaterpump">Ang pasigluyang tubig po na ito ay nakatayo sa mapolusyong lugar. Kailangan po natin \'tong mailipat para mapanatiling malinis ang tubig.</string>
+    <string name="notify_pollutedwaterpump">Ang bombahang-tubig po na ito ay nakatayo sa mapolusyong lugar. Kailangan po natin \'tong mailipat para mapanatiling malinis ang tubig.</string>
     <string name="notify_destroyedtiles">Kailangan po nating linisin ang dumi rito bago pa po mapansin ng iba.</string>
     <string name="notify_loweducationneeded">Sa palagay ko po panahon na para bigyan ng edukasyon ang mga bata dito. Magpagawa po ng paaralang elementarya.</string>
     <string name="notify_higheducationneeded">Lumikha po tayo ng mga henyo sa pagtatayo ng mataas na paaralan.</string>
@@ -2611,7 +2611,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="ci_info_help">Dito mo makikita ang ilang pangkalahatang impormasyon tungkol sa iyong lungsod.</string>
     <string name="ci_education_help">Mahalaga ang edukasyon sa mga naninirahan upang mapabuti ang kanilang mga kondisyon sa pamumuhay at upang maakit ang mga edukadong manggagawa at mamumuhunan.</string>
     <string name="ci_airport_help">Ito mismo ang iyong tore pangkontrol ng trapikong panghimpapawid upang makontrol ang iyong mga paliparan. Makakapili ka ng mga linya mula sa mapa, bumili ng mga eroplano, at magtakda ng eroplano sa mga linya.</string>
-    <string name="ci_water_help">Mahalaga ang tubig sa buhay, ganoon din sa iyong mga naninirahan. Tiyaking nagbibigay ka ng sapat na dami ng tubig at ang lahat ay nakakonekta sa mga tubo. Huwag ilagay ang mga pasigluyang tubig sa mapolusyong lugar kung hindi ay magkakasakit ang iyong mga naninirahan.</string>
+    <string name="ci_water_help">Mahalaga ang tubig sa buhay, ganoon din sa iyong mga naninirahan. Tiyaking nagbibigay ka ng sapat na dami ng tubig at ang lahat ay nakakonekta sa mga tubo. Huwag ilagay ang mga bombahang-tubig sa mapolusyong lugar kung hindi ay magkakasakit ang iyong mga naninirahan.</string>
     <string name="ci_statistics_help">Makakatulong sa iyo ang mga talangguhit na ito para subaybayan ang pag-unlad ng lungsod. Gamitin ang mga panuro sa bandang kanan upang lumipat sa pagitan ng iba\'t ibang talangguhit. Ang mga pindutan +/- ay magagamit din para sa pag-zoom palaki at paliit.</string>
 
 
@@ -2644,5 +2644,17 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_biomeMaker_cmdselect">Pumili</string>
     <string name="draft_biomeMaker_toastempty">Wala itong laman</string>
     <string name="store_recommended_plugin">Inirekomendang plugin</string>
+
+
+    <string name="dialog_migratefb_title">Action needed</string>
+    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
+    <string name="draft_feature_opera00_title">Opera House</string>
+    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
+    <string name="draft_opera00_title">Operatic Oasis</string>
+    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="draft_opera_park00_title">Serene Symphony Park</string>
+    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
 
 </resources>
