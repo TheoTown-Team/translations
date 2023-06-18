@@ -343,17 +343,17 @@
     <string name="notify_requirementupgrade">Parabéns, você desbloqueou a melhoria %1$s para construir %2$s!</string>
     <string name="draftselector_titlesports">Esportes</string>
     <string name="draftselector_titlealert">Emergências</string>
-    <string name="notify_fire">TÁ PEGANDO FOGO! Envie os bombeiros para extinguir as chamas. Deveria ter mais bombeiros.</string>
+    <string name="notify_fire">Fogo! Envie os bombeiros para apagar o fogo. Considere ter mais bombeiros.</string>
     <string name="notify_pollution">Tem muita poluição!</string>
     <string name="draft_radio00_title">Estação de rádio</string>
     <string name="draft_radio00_text">Seus habitantes vão gostar de um programa na rádio.</string>
     <string name="draftselector_cmdalert">Vamos nessa!</string>
     <string name="draft_alert_police00_title">Chamar polícia</string>
-    <string name="draft_alert_police00_text">Chame a polícia para combater os criminosos.</string>
+    <string name="draft_alert_police00_text">Chame a polícia para deter criminosos e protestos.</string>
     <string name="draft_alert_fire00_title">Chamar bombeiros</string>
-    <string name="draft_alert_fire00_text">Chame os bombeiros se algo estiver queimando.</string>
-    <string name="draft_alert_medic00_title">Chamar médico</string>
-    <string name="draft_alert_medic00_text">Quando um acidente acontece você precisa chamar o médico.</string>
+    <string name="draft_alert_fire00_text">Chame os bombeiros se algo estiver pegando fogo.</string>
+    <string name="draft_alert_medic00_title">Chamar ambulância</string>
+    <string name="draft_alert_medic00_text">Quando ocorre um acidente ou surto de epidemia, é necessário chamar uma ambulância.</string>
     <string name="buildinginfo_powerusage">Uso: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Uso: %1$.1f%%</string>
     <string name="settings_maxzoomout">Zoom máximo</string>
@@ -1870,7 +1870,7 @@ Contras: Menos desafios</string>
     <string name="settings_dedicatedplugintexture">Mais plugins de textura (precisa ser reiniciado; pode ser instável)</string>
     <string name="draft_haunted_house00_title">Casa assombrada</string>
     <string name="draft_haunted_house00_text">Uma velha mansão que parece perigosa. Talvez viva aqui.</string>
-    <string name="notify_illness">Há um surto epidêmico, temos de tomar medidas imediatamente. Mandem o médico!</string>
+    <string name="notify_illness">Há um surto epidêmico, precisamos agir imediatamente. Envie a ambulância!</string>
     <string name="notify_illnessnomedic">Há um surto epidêmico e não temos médico. Arranja um AGORA!</string>
 
     <string name="shader_lol">LOL</string>
@@ -2005,9 +2005,9 @@ Contras: Menos desafios</string>
     <string name="draft_raildeco_lights00_00_title">Semáforo</string>
     <string name="draft_raildeco_lights00_00_text">Um semáforo para a sua ferrovia</string>
     <string name="draft_trainstation_prebuilt10_title">Depósito de carga</string>
-    <string name="draft_trainstation_prebuilt10_text">Estação de trens de bens industriais.</string>
+    <string name="draft_trainstation_prebuilt10_text">Estação de trens de produtos industriais.</string>
     <string name="draft_trainstation_prebuilt11_title">Grande armazém de carga</string>
-    <string name="draft_trainstation_prebuilt11_text">Uma grande estação de trens para mais bens industriais.</string>
+    <string name="draft_trainstation_prebuilt11_text">Uma grande estação de trens para mais produtos industriais.</string>
     <string name="channel_city_title">Notícias da cidade</string>
     <string name="channel_city_text">Informações gerais sobre a sua cidade.</string>
     <string name="settings_fullscreen">Tela cheia</string>
@@ -2522,13 +2522,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_tunnel_management00_text">Faz túneis sem diamantes, permite que os pedágios gerem mais renda e torne as estradas mais baratas em geral nesta cidade.</string>
     <string name="draft_tunnel_management00_title_premium">Autoridade rodoviária</string>
     <string name="draft_tunnel_management00_text_premium">Permite que os pedágios gerem mais renda e tornem as estradas mais baratas em geral nesta cidade.</string>
-
     <string name="stage_account_whytoregister">Por que se registrar?</string>
     <string name="stage_account_pro_onlinemode">Participe de regiões em modo online</string>
     <string name="stage_account_pro_comment">Comente sobre plugins e cidades</string>
     <string name="stage_account_pro_synchronize">Sincronize seu dinheiro e suas compras</string>
     <string name="stage_account_con_localcities">As cidades locais ainda serão armazenadas apenas localmente</string>
-
 
     <string name="draft_discord_statue02_title">Discord 20 mil</string>
     <string name="draft_discord_statue02_text">Uma nova estátua para celebrar nosso aniversário de 20 mil membros no Discord. Para este aniversário, realizamos uma caça ao tesouro que foi concluída em primeiro lugar por nosso glorioso membro KolaKattz.</string>
@@ -2548,7 +2546,6 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="stage_region_greeter_welcome">Boas-vindas em</string>
     <string name="stage_region_greeter_madewith">Um jogo feito com</string>
 
-
     <string name="settings_darkbuildtool">Ferramenta de construção escura</string>
     <string name="forum_cmdforgot">Esqueceu?</string>
     <string name="store_rating">Avaliação</string>
@@ -2560,16 +2557,17 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="store_rating_verypositive">MUITO POSITIVA</string>
     <string name="draft_draft_wst_title">Felicidade sobre descarte de resíduos</string>
     <string name="draft_draft_wst_text">Felicidade sobre a coleta e eliminação de resíduos.</string>
+
     <string name="settings_plugin_texture_cache">Cache de textura do plugin</string>
     <string name="draft_tree_spruce00_title">Abeto</string>
     <string name="draft_tree_spruce00_text">O abeto é uma árvore conífera perene. Pode ser encontrado nas regiões temperadas e boreais do norte do planeta. Podem chegar até 60 metros.</string>
     <string name="draft_tree_alder00_title">Amieiro</string>
     <string name="draft_tree_alder00_text">Uma árvore que pode crescer até 30 metros e parece bastante comum.</string>
     <string name="stage_gallery_loadingimages">Carregando imagens..</string>
+
     <string name="ci_neighbor_help">Aqui, você pode importar/exportar energia, água, resíduos e cadáveres de/para cidades vizinhas.</string>
     <string name="ci_budget_help">Aqui você pode visualizar e ajustar seus impostos, bem como visualizar suas despesas mensais. Habitantes e trabalhadores mais ricos pagam mais impostos. Impostos muito altos e seus habitantes ficarão infelizes e deixarão sua cidade, resultando em felicidade tributária baixa. Recomendamos definir seus impostos entre 6,5 e 8,0.</string>
     <string name="ci_budget_help_nomoney">Aqui você pode visualizar e ajustar seus impostos, bem como visualizar suas despesas mensais. Habitantes e trabalhadores mais ricos pagam mais impostos. Impostos muito altos e seus habitantes ficarão infelizes e deixarão sua cidade, resultando em felicidade tributária baixa. Recomendamos definir seus impostos entre 6,5 e 8,0</string>
-
 
     <string name="stage_account_pro_gallery">Faça upload das capturas de tela de suas cidades para a galeria online</string>
     <string name="comments_locked">Esta seção de comentários está bloqueada</string>
@@ -2588,7 +2586,8 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_pluginqualityunsure_gotit">Entendi</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">Não mostrar novamente</string>
     <string name="store_modecertifiedcreators">Criadores certificados</string>
-    <string name="ci_rating_help">Aqui você pode ver a felicidade de seus habitantes. Mais felicidade atrai mais pessoas para viver em sua cidade. Pressione em uma fila para ver a distribuição correspondente na cidade.</string>
+
+    <string name="ci_rating_help">Aqui você pode ver a felicidade de seus habitantes. Quanto mais felizes eles estiverem, mais pessoas serão atraídas para viver em sua cidade. Pressione em uma linha para ver a distribuição correspondente na cidade.</string>
     <string name="ci_rank_help">A posição atual de uma cidade indica seu nível de desenvolvimento. Você pode ganhar pontos na cidade para alcançar o próximo nível, obtendo mais habitantes ou apenas desenvolvendo a cidade em geral. Desbloquear uma posição pode desbloquear novas construções para você.</string>
     <string name="ci_loan_help">Sem dinheiro? Você pode pegar um empréstimo para continuar construindo coisas. Contudo, tenha em mente que você terá que pagar o empréstimo ao longo do tempo.</string>
     <string name="ci_health_help">Permanecer saudável em uma cidade grande pode ser um problema. Construa instalações médicas para manter seus habitantes saudáveis e felizes.</string>
@@ -2599,14 +2598,12 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="ci_water_help">A água é essencial para a vida e seus habitantes não são exceção. Assegure-se de fornecer quantidades suficientes de água e de ter tudo conectado aos encanamentos. Não coloque bombas de água em áreas poluídas ou seus habitantes ficarão doentes.</string>
     <string name="ci_statistics_help">Estes gráficos podem ajudar você a acompanhar o desenvolvimento da cidade. Use as setas do lado direito para alternar entre os diferentes gráficos. Os botões +/- podem ser usados para ampliar e para afastar a visão.</string>
 
-
     <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Iluminação pública</string>
+    <string name="draft_cat_streetlights00_title">Postes de iluminação</string>
     <string name="toolaction_roadautodecorations">Usar decorações</string>
     <string name="draft_biomeMaker_open00_title">Ferramenta de terreno</string>
     <string name="draft_biomeMaker_open00_text">Você pode colocar terreno facilmente usando esta ferramenta.</string>
     <string name="biomemaker_types">Tipos:</string>
-
 
     <string name="control_save">Salvar</string>
     <string name="control_load">Carregar</string>
@@ -2630,16 +2627,15 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_biomeMaker_toastempty">Estava vazio</string>
     <string name="store_recommended_plugin">Plugin recomendado</string>
 
-
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+<string name="dialog_migratefb_title">Ação necessária</string>
+<string name="dialog_migratefb_text">Parece que você está conectado usando uma conta do Facebook. Infelizmente, esse tipo de acesso está obsoleto e não pode mais ser suportado.\nPor favor, faça login usando uma conta do fórum para migrar seus dados.</string>
+<string name="dialog_migratefb_cmdaccountsettings">Configurações da conta</string>
+<string name="draft_feature_opera00_title">Casa de Ópera</string>
+<string name="draft_feature_opera00_text">Libere a magia da cultura com o nosso Pacote de Delícias Culturais! Experimente a grandiosidade de uma Casa de Ópera, acompanhada por um parque sereno e uma fonte encantadora. Eleve a atmosfera da sua cidade e inspire seus cidadãos com a harmoniosa mistura de música, natureza e encanto artístico. Atualize agora e deixe sua cidade brilhar como uma obra-prima cultural!</string>
+<string name="draft_opera00_title">Oásis Operístico</string>
+<string name="draft_opera00_text">Entre no Palácio Melodia, o coração cultural da sua cidade! Esta deslumbrante Casa de Ópera adiciona um toque de elegância e refinamento à sua metrópole. Observe como ela influencia seus cidadãos, transformando-os em apreciadores refinados das artes. Deixe as vibrações harmoniosas fluírem e a risada surgir!</string>
+<string name="draft_opera_park00_title">Parque Sinfonia Serena</string>
+<string name="draft_opera_park00_text">Localizado ao lado da Casa de Ópera, o Parque Sinfonia Serena é um refúgio encantador onde a natureza dança ao som das óperas. Relaxe em seus espaços verdes exuberantes, desfrute de apresentações improvisadas e deixe a fusão harmoniosa da cultura e natureza rejuvenescer sua alma.</string>
+<string name="stage_comment_plugin_acquirefirst">Por favor, adquira esse plugin primeiro</string>
 
 </resources>
