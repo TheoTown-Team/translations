@@ -72,7 +72,7 @@
     <string name="dialog_invalidcityname_text">請畀你嘅城市換一個名，城市名唔可以為空哦。 </string>
     <string name="dialog_invalidcityname_cmdok">同意</string>
     <string name="dialog_hugesize_title">大型地圖</string>
-    <string name="dialog_hugesize_text">大型地圖mu『qian處於測試階段且對硬件要求高，你確定你想要噉嘅地圖呀？ </string>
+    <string name="dialog_hugesize_text">大型地圖目前處於測試階段且對硬件要求高，你確定你想要噉嘅地圖呀？ </string>
     <string name="dialog_hugesize_cmdyes">梗係</string>
     <string name="dialog_hugesize_cmdno">唔係</string>
     <string name="draft_church00_title">教堂</string>
@@ -298,14 +298,14 @@
     <string name="ci_general_population0">貧困階層 (₮): %1$,d</string>
     <string name="ci_general_population1">中產階層(₮₮): %1$,d</string>
     <string name="ci_general_population2">富有階層 (₮₮₮): %1$,d</string>
-    <string name="draft_footballfield00_title">Football field</string>
-    <string name="draft_footballfield00_text">足球場 will make your habitants happy.</string>
+    <string name="draft_footballfield00_title">足球場</string>
+    <string name="draft_footballfield00_text">足球場可以讓你嘅居民更快樂.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d u升級可行</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Upgrade(s)</string>
     <string name="buildinginfo_construction">正在建設: %1$.0f%% (%2$,d day(s) remaining)</string>
     <string name="draft_footballstadion00_title">體育場</string>
-    <string name="draft_footballstadion00_text">A 足球場</string>
+    <string name="draft_footballstadion00_text">足球場</string>
     <string name="buildinginfo_cmdupgrade">升級</string>
     <string name="draft_footballstadion00_lights_title">照明燈</string>
     <string name="draft_footballstadion00_lights_text">為體育場增添光源。</string>
@@ -357,7 +357,7 @@
     <string name="buildinginfo_powerusage">使用率: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">使用率: %1$.1f%%</string>
     <string name="settings_maxzoomout">增大縮小範圍</string>
-    <string name="notify_noise">Too much noise!</string>
+    <string name="notify_noise">噪音多咗!</string>
     <string name="happiness_energy">電力</string>
     <string name="happiness_gamemode">遊戲模式</string>
     <string name="happiness_level">等級</string>
@@ -649,7 +649,7 @@
     <string name="settings_topstatusbar">狀態欄頂置</string>
     <string name="settings_leftminimap">小地圖左置</string>
     <string name="settings_category_ui">用戶界面</string>
-    <string name="influence_radioactive_title">Radioactive</string>
+    <string name="influence_radioactive_title">輻射</string>
     <string name="influence_radioactive_text">會對人類與環境帶來風險。</string>
     <string name="draft_rail00_title">鐵路</string>
     <string name="draft_rail00_text">高架鐵路。</string>
@@ -2140,7 +2140,7 @@
     <string name="stage_comment_login">使用TheoTown帳戶登錄以發表評論</string>
     <string name="dialog_report_title">報告</string>
     <string name="dialog_report_text">請說明報告 %1$s嘅原因:</string>
-    <string name="dialog_report_appendix">你可以向@theotown.com提供更多報告信息</string>
+    <string name="dialog_report_appendix">你可以向report@theotown.com提供更多報告信息</string>
     <string name="dialog_reported_title">完畢</string>
     <string name="dialog_reported_text">感謝你的報告。 我哋將對其進行審核並採取相應的措施。 \n如果需要，你可以向 report@theotown.com 發送其他信息。</string>
     <string name="dialog_report_cmd">確認報告</string>
@@ -2545,11 +2545,10 @@
     <string name="settings_smoothzoom_nearest">鋸齒</string>
     <string name="settings_smoothzoom_linear">線性</string>
     <string name="settings_smoothzoom_fast">幾乎</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions幾乎</string>
+    <string name="settings_regionoriginbackup">選擇重置新生成區域內嘅城市</string>
     <string name="settings_translateplugins">翻譯插件(翻譯質素差)</string>
     <string name="stage_region_greeter_welcome">歡迎來到</string>
     <string name="stage_region_greeter_madewith">A game made with</string>
-
 
     <string name="loadcity_preview">本地存檔</string>
     <string name="settings_darkbuildtool">暗色建造工具</string>
@@ -2559,7 +2558,7 @@
     <string name="store_rating_verynegative">粗製濫造</string>
     <string name="store_rating_negative">多半差評</string>
     <string name="store_rating_mixed">褒貶不一</string>
-    <string name="store_rating_positive">多半好評&gt;</string>
+    <string name="store_rating_positive">多半好評</string>
     <string name="store_rating_verypositive">非常推薦</string>
     <string name="draft_draft_wst_title">垃圾回收指數</string>
     <string name="draft_draft_wst_text">關於廢物收集和處置嘅快樂。</string>
@@ -2575,8 +2574,9 @@
 
     <string name="stage_account_pro_gallery">将你城市嘅屏幕截图上傳到在線圖庫</string>
     <string name="comments_locked">此評論部分已鎖定</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
+    <string name="comments_cmd_lock">鎖定</string>
+    <string name="comments_cmd_unlock">冇鎖定</string>
+
     <string name="store_cat_officialgameextensions">官方遊戲擴展</string>
     <string name="dialog_screenshot_cmdshare">共享</string>
     <string name="settings_targetfps">幀數設定</string>
@@ -2602,35 +2602,46 @@
     <string name="ci_statistics_help">呢啲圖表可以幫助您跟蹤城市嘅發展。 使用右側嘅箭頭喺不同圖形之間切換。 +/-按鈕可用于放大和縮小。</string>
 
 
-  
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">著色器</string>
+    <string name="draft_cat_streetlights00_title">路燈</string>
+    <string name="toolaction_roadautodecorations">啟用裝飾</string>
+    <string name="draft_biomeMaker_open00_title">地形鋪設工具</string>
+    <string name="draft_biomeMaker_open00_text">你可以使用該工具嚟鋪設地形</string>
+    <string name="biomemaker_types">組類:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">儲存</string>
+    <string name="control_load">加載</string>
+    <string name="draft_biomeMaker_cmdsavepreset">存儲預設</string>
+    <string name="draft_biomeMaker_cmdloadpreset">加載預設</string>
+    <string name="draft_biomeMaker_cmdreset">重置所選內容</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">配置</string>
+    <string name="draft_biomeMaker_ground">地面</string>
+    <string name="draft_biomeMaker_slope">斜坡</string>
+    <string name="draft_biomeMaker_decoration">裝飾</string>
+    <string name="draft_biomeMaker_atground">覆蓋平面</string>
+    <string name="draft_biomeMaker_atslope">覆蓋斜坡</string>
+    <string name="draft_biomeMaker_useslope">使用提供嘅坡度</string>
+    <string name="draft_biomeMaker_nogroundtype">未選擇組類</string>
+    <string name="draft_biomeMaker_noslopetype">未選擇組類</string>
+    <string name="draft_biomeMaker_nodecotype">冇揀裝飾類型</string>
+    <string name="draft_biomeMaker_dialogreplace_title">確認</string>
+    <string name="draft_biomeMaker_dialogreplace_text">是否確實要用此設置替換%s？ 係無法撤消嘅。</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">進行</string>
+    <string name="draft_biomeMaker_cmdselect">選擇</string>
+    <string name="draft_biomeMaker_toastempty">這是空的</string>
+    <string name="store_recommended_plugin">推薦插件</string>
+
+
+    <string name="dialog_migratefb_title">Action needed</string>
+    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
+    <string name="draft_feature_opera00_title">Opera House</string>
+    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
+    <string name="draft_opera00_title">Operatic Oasis</string>
+    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="draft_opera_park00_title">Serene Symphony Park</string>
+    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
 
 </resources>

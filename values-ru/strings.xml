@@ -197,7 +197,7 @@
 <string name="dialog_screenshot_show">Показать</string>
 <string name="dialog_screenshot_text">Скриншот сохранен как %1$s.</string>
 <string name="dialog_screenshot_title">Скриншот сделан</string>
-<string name="dialog_tosandbox_cmdconvert">Sandbox</string>
+<string name="dialog_tosandbox_cmdconvert">Песочница</string>
 <string name="dialog_tosandbox_text">"Переделать город в режим Песочница?
 
 Это не вернуть!"</string>
@@ -2623,12 +2623,12 @@
     <string name="settings_darkbuildtool">Темная панель строительства</string>
     <string name="forum_cmdforgot">Забыл?</string>
     <string name="store_rating">Рейтинг</string>
-    <string name="store_rating_unrated">НЕ ОЦЕНЕНО</string>
-    <string name="store_rating_verynegative">ОЧЕНЬ НЕГАТИВНЫЙ</string>
-    <string name="store_rating_negative">НЕГАТИВНЫЙ</string>
-    <string name="store_rating_mixed">ПЕРЕМЕШАНО</string>
-    <string name="store_rating_positive">ПОЗИТИВЫЙ</string>
-    <string name="store_rating_verypositive">ОЧЕНЬ ПОЗИТИВНЫЙ</string>
+    <string name="store_rating_unrated">Не оценено</string>
+    <string name="store_rating_verynegative">Очень негативно</string>
+    <string name="store_rating_negative">Негативно</string>
+    <string name="store_rating_mixed">Перемешано</string>
+    <string name="store_rating_positive">Позитивный</string>
+    <string name="store_rating_verypositive">Очень позитивный</string>
     <string name="draft_draft_wst_title">Счастье утилизации отходов</string>
     <string name="draft_draft_wst_text">Счастье в сборе и утилизации отходов.</string>
     <string name="settings_plugin_texture_cache">Кэш текстур плагина</string>
@@ -2642,63 +2642,75 @@
     <string name="ci_budget_help_nomoney">Здесь вы можете просмотреть и скорректировать свои налоги, а также просмотреть свои ежемесячные расходы. Более богатые жители и рабочие платят больше налогов. Слишком высокие налоги - и ваши жители будут недовольны и покинут ваш город, что приведет к низкому налоговому счастью. Мы рекомендуем установить ваши налоги в диапазоне от 6.5 до 8.0.</string> <!-- its just the same, huh? -->
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">Выложить скринщот вашего города в онлайн галерею</string>
+    <string name="comments_locked">Этот раздел комментариев заблокирован</string>
+    <string name="comments_cmd_lock">Заблокировать</string>
+    <string name="comments_cmd_unlock">Разблокировать</string>
+    <string name="store_cat_officialgameextensions">Официальные дополнение игры</string>
+    <string name="dialog_screenshot_cmdshare">Поделится</string>
+    <string name="settings_targetfps">Целевой FPS</string>
+    <string name="settings_targetfps_auto">Автоматически</string>
+    <string name="dialog_nointernetaccess_title">Нет подключение</string>
+    <string name="dialog_nointernetaccess_text">Вы оффлайн.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Есть!</string>
+    <string name="store_modebestrated">Лучше оценённые</string>
+    <string name="dialog_pluginqualityunsure_title">Будь осторожен</string>
+    <string name="dialog_pluginqualityunsure_text">Плагин который вы хотите скачать не набрал много скачиваний или оценок. По этому, он может не оправдывать ваши ожидания.</string>
+    <string name="dialog_pluginqualityunsure_gotit">Есть!</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Не показывать снова</string>
+    <string name="store_modecertifiedcreators">Проверенные создатели</string>
+    <string name="ci_rating_help">здесь вы можете увидеть счасьте ваших жителей. Больше счастья привлекает людей в ваш город. Нажмите на строку, чтобы увидеть распределение счастья в вашем городе.</string>
+    <string name="ci_rank_help">Текущий уровень города показывает его уровень развития. Вы можете получать очки города получая больше жителей или развивая город в целом. Новый уровень разблокирует новые постройки для тебя.</string>
+    <string name="ci_loan_help">Нет денег? Ты можешь взять долг, чтобы продолжить строительство. Но, знай что долг нужно будет вернуть.</string>
+    <string name="ci_health_help">Оставаться здоровым в большом городе может быть проблемой. Строй больницы для здоровья и счастья ваших жителей.</string>
+    <string name="ci_energy_help">Множеству зданий нужна энергия чтобы функционировать. Убедись, что ты производишь достаточное количество энергии и, что всё также подключено к проводам.</string>
+    <string name="ci_info_help">Здесь ты увидишь немного информации о сво1м городе city.</string>
+    <string name="ci_education_help">Обучение необходимо для жителей чтобы улучшить их жилищные условия, но также  чтобы привлечь работников сферы образования и инвесторов.</string>
+    <string name="ci_airport_help">Это ваша башня управления воздушным траффиков, чтобы контролировать аэропорты. Вы можете выбрать дорожки с карты, покупать самол ты и назначать самолёты на полосы.</string>
+    <string name="ci_water_help">Вода необходима для жизни и ваши жители не исключение. Будьте уверены, что вы производите достаточное кол-во воды и всё соединено с трубами. Не ставьте водонапорные башни рядом с загрязнёнными зонами или ваши жители заболеют.</string>
+    <string name="ci_statistics_help">Эта статистика поможет отслеживать разивитие города. Используй стрелочки с правой стороны, чтобы переключаться между разными графиками. Кнопки +/- приближают график и отдаляют его.</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Шейдеры</string>
+    <string name="draft_cat_streetlights00_title">Уличное освещение</string>
+    <string name="toolaction_roadautodecorations">Использовать декорацию</string>
+    <string name="draft_biomeMaker_open00_title">Ландшафтный инструмент</string>
+    <string name="draft_biomeMaker_open00_text">Вы можете легко изменять ландшафт с помозью этого инструмента.</string>
+    <string name="biomemaker_types">Типы:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">Сохранить</string>
+    <string name="control_load">Загрузить</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Сохранить сохранение</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Загрузить сохранение</string>
+    <string name="draft_biomeMaker_cmdreset">Сбросить выбранное</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Конфигурация</string>
+    <string name="draft_biomeMaker_ground">Почва</string>
+    <string name="draft_biomeMaker_slope">Склон</string>
+    <string name="draft_biomeMaker_decoration">Декорации</string>
+    <string name="draft_biomeMaker_atground">Построить на почве</string>
+    <string name="draft_biomeMaker_atslope">Построить на склоне</string>
+    <string name="draft_biomeMaker_useslope">Использовать предоставленный склон</string>
+    <string name="draft_biomeMaker_nogroundtype">Нет выбранного типа для почвы</string>
+    <string name="draft_biomeMaker_noslopetype">Нет выбранного типа для склона</string>
+    <string name="draft_biomeMaker_nodecotype">Нет выбранного типа для декорации</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Подтвердить</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Вы уверены то, что хотите заменить %s с этой установкой? Это не может быть отменено.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Продолжить</string>
+    <string name="draft_biomeMaker_cmdselect">Выбрать</string>
+    <string name="draft_biomeMaker_toastempty">Тут было пусто</string>
+    <string name="store_recommended_plugin">Рекомендованный плагин</string>
+
+
+    <string name="dialog_migratefb_title">Action needed</string>
+    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
+    <string name="draft_feature_opera00_title">Opera House</string>
+    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
+    <string name="draft_opera00_title">Operatic Oasis</string>
+    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="draft_opera_park00_title">Serene Symphony Park</string>
+    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
 
 </resources>

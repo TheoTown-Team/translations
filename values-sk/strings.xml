@@ -145,9 +145,11 @@
     <string name="draft_gillender00_text">Budova Gillender z New Yorku. Ďakujeme za 250 000 stiahnutí :D</string>
     <string name="topic_thanks">Ďakujeme za úžasnú podporu!</string>
     <string name="topic_cake">Torta je falošná!</string>
-    <string name="topic_panic">Nepanikárte</string>
+    <string name="topic_panic">Nepanikárte!!!</string>
     <string name="draft_bigschool00_title">Stredná škola</string>
-    <string name="draft_bigschool00_text">Učia sa tu žiaci po absolvovaní základnej školy.</string>
+    <string name="draft_bigschool00_text">Učia sa tu žiaci po absolvovaní základnej školy. (
+\n
+\n(pozn. V našej hra funguje rovnako ako základná škola)</string>
     <string name="draft_treepark00_title">Stromový park</string>
     <string name="draft_treepark00_text">Malý park so stromami. Obyvateľom sa páči.</string>
     <string name="menu_premium">Prémium</string>
@@ -306,7 +308,7 @@
     <string name="buildinginfo_upgrades">%1$,d/%2$,d vylepšenie</string>
     <string name="buildinginfo_construction">Prebieha výstavba: %1$.0f%% (%2$,d dní do dokončenia)</string>
     <string name="draft_footballstadion00_title">Futbalový štadión</string>
-    <string name="draft_footballstadion00_text">Futbalový štadión.</string>
+    <string name="draft_footballstadion00_text">Veľký futbalový štadión s veľkou kapacitou.</string>
     <string name="buildinginfo_cmdupgrade">Vylepšiť</string>
     <string name="draft_footballstadion00_lights_title">Reflektory</string>
     <string name="draft_footballstadion00_lights_text">Lepšie osvetlenie pre štadión.</string>
@@ -320,10 +322,10 @@
     <string name="blank_text">Tu môžete umiestniť vašu reklamu</string>
     <string name="draft_middlepark00_title">Stredný park</string>
     <string name="draft_middlepark00_text">Obyvatelia ho majú radi.</string>
-    <string name="draft_basketball00_title">Basketbal</string>
-    <string name="draft_basketball00_text">Deti sa tu môžu hrať.</string>
-    <string name="draft_tennis00_title">Tenis</string>
-    <string name="draft_tennis00_text">Deti tu môžu hrať tenis.</string>
+    <string name="draft_basketball00_title">Basketbalové ihrisko</string>
+    <string name="draft_basketball00_text">Pre milovníkov basketbalu.</string>
+    <string name="draft_tennis00_title">Tenisový kurt</string>
+    <string name="draft_tennis00_text">Pre milovníkov tenisu.</string>
     <string name="draft_middlepark00_lights_title">Altánok</string>
     <string name="draft_middlepark00_lights_text">Altánok, kde sa môžu konať oslavy.</string>
     <string name="draft_middlepark00_clock_title">Hodiny</string>
@@ -340,14 +342,14 @@
     <string name="draft_footballstadion00_roof_text">So strechou sa tu dá hrať aj počas zlého počasia.</string>
     <string name="draft_footballstadion00_fanshop_title">Obchod pre fanúšikov</string>
     <string name="draft_footballstadion00_fanshop_text">Predávajú tu doplnky a príslušenstvo.</string>
-    <string name="notify_requirementbuilding">Odomkli ste %1$s.</string>
-    <string name="notify_requirementupgrade">Gratulujeme, odomkli ste vylepšenie %1$s pre budovu %2$s!</string>
+    <string name="notify_requirementbuilding">Odomklo sa: %1$s.</string>
+    <string name="notify_requirementupgrade">Gratulujeme, odomklo sa vylepšenie %1$s pre budovu %2$s!</string>
     <string name="draftselector_titlesports">Športy</string>
     <string name="draftselector_titlealert">Núdzové situácie</string>
     <string name="notify_fire">Horí! Zavolajte hasičov aby uhasili oheň. Zvážte postaviť viac hasičských staníc.</string>
     <string name="notify_pollution">Príliš veľké znečistenie!</string>
-    <string name="draft_radio00_title">Rádiový vysielač</string>
-    <string name="draft_radio00_text">Obbyvateľom sa páči vysielanie.</string>
+    <string name="draft_radio00_title">Rozhlas</string>
+    <string name="draft_radio00_text">Obyvateľom sa páči vysielanie.</string>
     <string name="draftselector_cmdalert">Choď!</string>
     <string name="draft_alert_police00_title">Zavolať políciu</string>
     <string name="draft_alert_police00_text">Zavolajte políciu, aby zadržala kriminálnikov.</string>
@@ -369,7 +371,7 @@
     <string name="happiness_road">Cesty</string>
     <string name="happiness_sport">Šport</string>
     <string name="happiness_taxes">Dane</string>
-    <string name="happiness_transportation">Preprava</string>
+    <string name="happiness_transportation">Doprava</string>
     <string name="happiness_water">Voda</string>
     <string name="happiness_zone">Zóny</string>
     <string name="buildinginfo_happiness_comp">Najnižšia spokojnosť: %2$.0f%% (%1$s)</string>
@@ -652,7 +654,7 @@
     <string name="settings_category_ui">Používateľské rozhranie</string>
     <string name="influence_radioactive_title">Rádioaktivita</string>
     <string name="influence_radioactive_text">Riziko pre ľudí a prírodu.</string>
-    <string name="draft_rail00_title">Koľajnice</string>
+    <string name="draft_rail00_title">Koľajnic nadzemky</string>
     <string name="draft_rail00_text">Nadzemná železnica.</string>
     <string name="draft_railwaystation00_title">Stanica nadzemky</string>
     <string name="draft_railwaystation00_text">Železnica je dobré pre zníženie premávky na cestách. Vybudujte stanice na rôznych miestach a prepojte ich koľajnicami.</string>
@@ -805,7 +807,7 @@
     <string name="rank_reward">Získali ste %1$s ako odmenu.</string>
     <string name="rank_available">Dostupné:</string>
     <string name="rank_title">Nová hodnosť mesta</string>
-    <string name="ci_rank_title">Hodnosti</string>
+    <string name="ci_rank_title">Úrovne mesta</string>
     <string name="draft_firedepartment02_heli00_title">Helipad</string>
     <string name="draft_firedepartment02_heli00_text">Miesto pre pristátie helikoptéry.\n\nZväčší dosah hasičskej stanice.</string>
     <string name="settings_reset_title">Obnoviť nastavenia</string>
@@ -828,7 +830,7 @@
     <string name="draft_feature_premium00_title">Premium</string>
     <string name="features_money">Získať %1$s za %2$s</string>
     <string name="features_getrank">Získať hodnosť hneď</string>
-    <string name="settings_hide_rank_features">Skryť zvýšenia hodnosti</string>
+    <string name="settings_hide_rank_features">Skryť zvýšenia úrovne mesta</string>
     <string name="draftselector_titleairport">Letisko</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">Neznámy lietajúci objekt útočí na mesto!</string>
@@ -846,7 +848,7 @@
     <string name="topic_force">Nech ťa sprevádza Sila</string>
     <string name="topic_plugins">Teraz máme pluginy</string>
     <string name="topic_page">Navštívte nás na www.theotown.com</string>
-    <string name="topic_habitants">Mohli by ste dosiai 1 000 000</string>
+    <string name="topic_habitants">Mohli by ste dosiahnuť 1 000 000</string>
     <string name="ci_statistics_title">Štatistiky</string>
     <string name="statistics_inh_all">Obyvatelia</string>
     <string name="statistics_inh_0">Chudobní obyvatelia (₮)</string>
@@ -1029,10 +1031,10 @@
     <string name="draft_feature_firestation00_title">Hlavná hasičská stanica</string>
     <string name="draft_feature_firestation00_text">Hasičská stanica s obrovským dosahom, množstvom vozidiel a možnosťou helipadu pre helikoptéru.</string>
     <string name="draft_feature_gocart00_title">Motokárová trať</string>
-    <string name="draft_feature_gocart00_text">Čo tak trochu motošportu do vášho mesta? Motokáru sa budú objavovať aj na normálnej ceste.</string>
+    <string name="draft_feature_gocart00_text">Čo tak trochu motošportu do vášho mesta? Motokáry sa budú objavovať aj na normálnej ceste.</string>
     <string name="draft_firedepartment02_text">Má obrovský dosah a množstvo áut. Užitočné pri prevencii a hasení požiarov.</string>
     <string name="draft_prmgocart00_title">Motokárová trať</string>
-    <string name="draft_prmgocart00_text">Čo tak trochu motošportu do vášho mesta? Motokáru sa budú objavovať aj na normálnej ceste.</string>
+    <string name="draft_prmgocart00_text">Čo tak trochu motošportu do vášho mesta? Motokáry sa budú objavovať aj na normálnej ceste.</string>
     <string name="settings_smoothscrolling">Hladké posúvanie</string>
     <string name="settings_buildingtoolold">Starý nástroj stavby</string>
     <string name="settings_roadautojoin">Nástroj automatického spájania ciest</string>
@@ -1044,7 +1046,7 @@
     <string name="tut_build00">Aké vhodné miesto. Štát tu postavil zopár ciest, takže ich môžeme zadarmo používať.</string>
     <string name="tut_build01">Začnime! Vyznač oblasť na bývanie.</string>
     <string name="tut_build02">Obklop ju cestou.</string>
-    <string name="tut_build03">Počkajme.</string>
+    <string name="tut_build03">Teraz chvíľku čakajme...</string>
     <string name="tut_build030">Ups, potrebujeme elektrinu!</string>
     <string name="tut_build04">Postavme pár solárnych panelov.</string>
     <string name="tut_build05">Spoj ich s mestom.</string>
@@ -1056,7 +1058,7 @@
     <string name="tut_build11">Dobrá práca.</string>
     <string name="tut_build110">Starosta, nemáme prácu!</string>
     <string name="tut_build12">Poďme sa pozrieť na prehľad požiadaviek.</string>
-    <string name="tut_build13">Tu vidíš požiadavky na oby (obytné), kom (komerčné) a prie (priemyselné) budovy.</string>
+    <string name="tut_build13">Tu vidíš požiadavky na obytné, komerčné a priemyselné budovy.</string>
     <string name="tut_build14">Máme tri úrovne budov: ₮, ₮₮ and ₮₮₮, čo znamená chudobné, stredné a bohaté.</string>
     <string name="tut_build15">Bohatí ľudia platia viacej daní.</string>
     <string name="tut_build16">Vyznač komerčnú (obchodnú) zónu.</string>
@@ -1574,11 +1576,11 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
 
     <string name="draft_cat_supply00_title">Zásoby</string>
     <string name="draft_cat_road00_title">Cesta</string>
-    <string name="draft_cat_bus00_title">Autobus</string>
-    <string name="draft_cat_train00_title">Vlak</string>
+    <string name="draft_cat_bus00_title">Autobusy</string>
+    <string name="draft_cat_train00_title">Vlaky</string>
     <string name="draft_cat_recent00_title">Nedávne</string>
     <string name="draft_cat_service00_title">Služby</string>
-    <string name="draft_tool_eyedropper00_title">Kvapkdlo</string>
+    <string name="draft_tool_eyedropper00_title">Kvapkadlo</string>
     <string name="draft_tool_eyedropper00_text">Chcete znova postaviť konkrétnu budovu alebo cestu? Použite tento nástroj a kliknite na ňu. Nemusí fungovať pri všetkých stavbách.</string>
     <string name="draft_cat_level00_title">Úroveň ₮</string>
     <string name="draft_cat_level01_title">Úroveň ₮₮</string>
@@ -1747,9 +1749,9 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="dialog_search_cmdcancel">Zrušiť</string>
     <string name="search_results_title">Výsledky pre \"%s\"</string>
     <string name="draft_rail01_title">Mestská železnica</string>
-    <string name="draft_rail01_text">Nadzemné koľajnice pre obytné oblasti pre rýchlejšiu prepravu.</string>
+    <string name="draft_rail01_text">Nadzemné koľajnice pre rýchlejšiu prepravu.</string>
     <string name="draft_nativerailwaystation01_title">Stanica mestskej železnice</string>
-    <string name="draft_nativerailwaystation01_text">Kompaktná stanica mestskej železnice, ktorá zaberá málo miesta.</string>
+    <string name="draft_nativerailwaystation01_text">Kompaktná stanica mestskej železnice, ktorá zaberá menej miesta.</string>
     <string name="settings_realmmres">Reálne rozlíšenie minimapy</string>
     <string name="feature_coming_soon_fulfilled">Predčasný darček</string>
 
@@ -1821,7 +1823,7 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="draft_discord_statue00_text">Socha Discordu.</string>
     <string name="notify_discord_statue00_title">Ďakujeme!</string>
     <string name="notify_discord_statue00_text">Ďakujeme za %d členov na našom Discord. Chcete ho navštíviť?</string>
-    <string name="draftselector_titlebodydisposal">Pohreby</string>
+    <string name="draftselector_titlebodydisposal">Pohrebná služba</string>
     <string name="draft_roaddeco_protester00_title">Falošný protest</string>
     <string name="draft_roaddeco_protester00_text">Zaplaťte zopár ľuďom, aby protestovali.</string>
     <string name="draft_roaddeco_riot00_title">Falošná vzbura</string>
@@ -1862,7 +1864,7 @@ Cons: Žiadna výzva</string>
     <string name="notify_bodydisposal_producer00">Nemáme miesto na tomto cintoríne. Vyčistite ho, alebo postavte nový cintorín alebo krematórium.</string>
     <string name="draft_halloween_pumpkin00_title">Tekvica</string>
     <string name="draft_halloween_pumpkin00_text">Halloween sa blíži! Všetci majú radi tekvice, že?</string>
-    <string name="draft_halloween_tree00_title">´Mŕtvy strom</string>
+    <string name="draft_halloween_tree00_title">Mŕtvy strom</string>
     <string name="draft_halloween_tree00_text">Strašidelný vyschnutý strom, ktorý sa používa v strašidelných príbehoch.</string>
     <string name="draft_feature_landmarks04_title">Pamiatky V</string>
     <string name="draft_feature_landmarks05_title">Pamiatky VI</string>
@@ -1958,7 +1960,7 @@ Cons: Žiadna výzva</string>
     <string name="draft_rails00oneway00_title">Jednosmerné koľajnice</string>
     <string name="draft_rails00oneway00_text">Chodia po nich vlaky, ale iba jedným smerom. Funguje ako jednosmerná cesta.</string>
     <string name="specialoffer_cmdbuy">Kúpiť za %s</string>
-    <string name="influence_body_disposal_title">Pohreby</string>
+    <string name="influence_body_disposal_title">Pohrebná služba</string>
     <string name="influence_body_disposal_text">Odpočívaj v pokoji.</string>
     <string name="influence_traffic_title">Doprava</string>
     <string name="influence_traffic_text">Obyvatelia nemajú radi znečistenie a hluk spôsobený dopravou.</string>
@@ -1966,7 +1968,7 @@ Cons: Žiadna výzva</string>
     <string name="ci_neighbor_bodydisposal">Pohrebná služba</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
-    <string name="draft_cat_elevatedtrain00_title">Nadzemné vlaky</string>
+    <string name="draft_cat_elevatedtrain00_title">Nadzemky</string>
     <string name="draft_cat_metro00_title">Metro</string>
     <string name="draft_cat_tree00_title">Rastliny</string>
     <string name="draft_railroof00_title">Strecha</string>
@@ -2010,7 +2012,7 @@ Cons: Žiadna výzva</string>
     <string name="draft_trainstation_prebuilt11_title">Veľké nákladné depo</string>
     <string name="draft_trainstation_prebuilt11_text">Veľká stanica pre viac priemyselných výrobkov.</string>
     <string name="channel_city_title">Mestské novinky</string>
-    <string name="channel_city_text">Obecné informácie o vašom meste.</string>
+    <string name="channel_city_text">Všeobecné informácie o vašom meste.</string>
     <string name="settings_fullscreen">Fullscreen</string>
     <string name="control_help">Pomoc</string>
     <string name="settings_scrolledges">Posúvanie hrán</string>
@@ -2101,9 +2103,9 @@ Cons: Žiadna výzva</string>
 
     <string name="settings_bigger_minimap">Väčšia minimapa</string>
     <string name="stage_account_title">Účet</string>
-    <string name="stage_account_text">Ak chcete mať prístup k našim online sluŽbám, musíte sa prihlásiť k účtu.</string>
+    <string name="stage_account_text">Ak chcete mať prístup k našim online službám, musíte sa prihlásiť k účtu.</string>
     <string name="stage_account_forum">TheoTown Fórum</string>
-    <string name="forum_username">Užívateľské eno:</string>
+    <string name="forum_username">Meno:</string>
     <string name="forum_password">Heslo:</string>
     <string name="forum_inuse">Tento účet je momentálne prihlásený.</string>
     <string name="forum_cmdprofile">Ukázať profil</string>
@@ -2320,7 +2322,7 @@ Pripojením hry k TheoTown Forum účtu môžete využívať sekciu komentárov.
     <string name="settings_rushhour">Dopravná špička</string>
     <string name="stage_onlineregion_information">Informácie o regióne</string>
     <string name="dialog_configureregion_rules_desc">Tu môžete určiť pravidlá, ktoré budú hráči v tomto regióne dodržiavať:</string>
-    <string name="dialog_configureregion_infos_desc">Tu môžete poskytnúť obecné informácie o vašom regióne:</string>
+    <string name="dialog_configureregion_infos_desc">Tu môžete poskytnúť všeobecné informácie o vašom regióne:</string>
     <string name="dialog_regionrules_informationcat">Informácie</string>
     <string name="dialog_regionrules_rulescat">Pravidlá</string>
     <string name="dialog_selectuser_title">Vybrať používateľa</string>
@@ -2350,7 +2352,7 @@ Pripojením hry k TheoTown Forum účtu môžete využívať sekciu komentárov.
     <string name="ci_energy_consumed_short">Použité: %1$,.0fkW</string>
     <string name="ci_water_consumed_short">Použité: %1$,.0fL/h</string>
     <string name="ci_water_produced_short">Produkované: %1$,.0fL/h</string>
-    <string name="dialog_regionstats_general">Obecné</string>
+    <string name="dialog_regionstats_general">Všeobecné</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d miest</string>
     <string name="regionlist_cat_popular">Populárne</string>
     <string name="regionlist_cat_new">Nové</string>
@@ -2445,7 +2447,7 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="settings_toolbarnames">Ukázať názvy v paneli nástrojov</string>
     <string name="settings_toolbarprices">Ukázať ceny v paneli nástrojov</string>
 
-    <string name="shader_default2">Pôvodný</string>
+    <string name="shader_default2">Pôvodné</string>
 
     <string name="dialog_regionnopermission_title">Žiadny prístup</string>
     <string name="dialog_regionnopermission_text">Aklikácia nemá prístup do externej pamäte pre bezpečné uchovanie regiónu. Prosím, zabezpečte prístup do externej pamäte za účelom vytvárania regiónov.</string>
@@ -2545,7 +2547,7 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="settings_regionoriginbackup">Možnosť resetovať mestá v novovytvorených regiónoch</string>
     <string name="settings_translateplugins">Prekladať pluginy</string>
     <string name="stage_region_greeter_welcome">Vitajte v</string>
-    <string name="stage_region_greeter_madewith">Hra vytvorená s pomocou</string>
+    <string name="stage_region_greeter_madewith">Hra vytvorená zo</string>
 
     <string name="settings_darkbuildtool">Tmavý stavebný nástroj</string>
     <string name="forum_cmdforgot">Zabudli ste?</string>
@@ -2629,5 +2631,17 @@ Stlačte klávesu pre priradenie tejto akcie.</string>
     <string name="draft_biomeMaker_cmdselect">Select</string>
     <string name="draft_biomeMaker_toastempty">This was empty</string>
     <string name="store_recommended_plugin">Recommended plugin</string>
+
+
+    <string name="dialog_migratefb_title">Action needed</string>
+    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
+    <string name="draft_feature_opera00_title">Opera House</string>
+    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
+    <string name="draft_opera00_title">Operatic Oasis</string>
+    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="draft_opera_park00_title">Serene Symphony Park</string>
+    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
+    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
 
 </resources>
