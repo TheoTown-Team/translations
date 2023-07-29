@@ -5,7 +5,7 @@
     <string name="createcity_title">Kota baru</string>
     <string name="settings_defaults">Bawaan</string>
     <string name="settings_apply">Terapkan</string>
-    <string name="createcity_mapsize">Ukuran:</string>
+    <string name="createcity_mapsize">Ukuran peta:</string>
     <string name="createcity_cityname">Nama kota:</string>
     <string name="control_back">Kembali</string>
     <string name="createcity_start">Mulai</string>
@@ -13,7 +13,7 @@
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Penduduk: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Seed:</string>
+    <string name="createcity_seed">Benih:</string>
     <string name="createcity_sizesmall">Kecil</string>
     <string name="createcity_sizemiddle">Sedang</string>
     <string name="createcity_sizebig">Besar</string>
@@ -34,7 +34,7 @@
     <string name="settings_drawcars">Tampilkan mobil</string>
     <string name="settings_drawsmoke">Tampilkan asap</string>
     <string name="settings_transparencybuildmode">Transparansi dalam mode pembangunan</string>
-    <string name="settings_buildgrid">Kotak dalam mode pembangunan</string>
+    <string name="settings_buildgrid">Kotak grid dalam mode pembangunan</string>
     <string name="settings_doublecardrawing">Gandakan gambaran mobil</string>
     <string name="settings_drawwatersparkle">Tampilkan kilauan air</string>
     <string name="settings_drawmapedges">Tampilkan perbatasan peta</string>
@@ -85,8 +85,8 @@
     <string name="draft_windturbine00_text">Turbin angin membuat kebisingan, namun tidak menimbulkan polusi.</string>
     <string name="draft_coalplant00_title">PLTU</string>
     <string name="draft_coalplant00_text">PLTU menghasilkan banyak tenaga, banyak juga polusinya.</string>
-    <string name="draft_solarpanels00_title">Panel surya</string>
-    <string name="draft_solarpanels00_text">Panel surya bagus untuk lingkungan, namun berdaya kecil.</string>
+    <string name="draft_solarpanels00_title">PLTS</string>
+    <string name="draft_solarpanels00_text">PLTS itu bagus untuk lingkungan, namun berdaya kecil.</string>
     <string name="draft_park00_title">Taman bunga kecil</string>
     <string name="draft_park00_text">Untuk mengharumkan kota.</string>
     <string name="draft_park01_title">Taman kecil</string>
@@ -110,9 +110,9 @@
     <string name="draft_museum00_title">Museum</string>
     <string name="draft_museum00_text">Artefak-artefak disimpan disini.</string>
     <string name="draft_pipe00_title">Pipa</string>
-    <string name="draft_pipe00_text">Pipa bisa digunakan untuk mengalirkan air ke bangunan-bangunan.</string>
-    <string name="draft_waterpump00_title">PAM</string>
-    <string name="draft_waterpump00_text">Menyediakan air untuk bangunan Anda.</string>
+    <string name="draft_pipe00_text">Pipa bisa digunakan untuk mengalirkan air ke bangunan-bangunan di kota anda.</string>
+    <string name="draft_waterpump00_title">Stasiun Pompa Air</string>
+    <string name="draft_waterpump00_text">Menyediakan air untuk bangunan kota Anda.</string>
     <string name="draft_watertower00_title">Menara air</string>
     <string name="draft_watertower00_text">Menyediakan air untuk bangunan.</string>
     <string name="settings_areazonetool">Gunakan alat area zona</string>
@@ -127,7 +127,7 @@
     <string name="draftselector_titleaward">Penghargaan</string>
     <string name="shader_default">Klasik</string>
     <string name="shader_test">Tes</string>
-    <string name="settings_shader">Warna</string>
+    <string name="settings_shader">Shader</string>
     <string name="shader_colorful">Cerah</string>
     <string name="shader_gray">Abu-abu</string>
     <string name="shader_fancy">Mewah</string>
@@ -199,7 +199,7 @@
     <string name="settings_ultrafastspeed">Kecepatan cahaya</string>
     <string name="draftselector_power">Listrik: %1$,dkW</string>
     <string name="draftselector_water">Air: %1$,dL/h</string>
-    <string name="notify_welcome">Halo, selamat datang di %1$s.</string>
+    <string name="notify_welcome">Halo, selamat datang di %1$s,dan selamat membangun!</string>
     <string name="notify_citysize">Selamat, kotamu telah mencapai populasi %1$,d!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Air mancur</string>
@@ -254,13 +254,13 @@
     <string name="settings_orientationportrait">Portrait</string>
     <string name="settings_orientationauto">Otomatis</string>
     <string name="draft_busdepot00_title">Terminal bus</string>
-    <string name="draft_busdepot00_text">Pengen mudik tapi takut macet? Bus muncul dari sini. Jangan lupa pake masker.</string>
+    <string name="draft_busdepot00_text">Bus akan muncul dari sini,pastikan kalau bus nya sudah diberi rute!</string>
     <string name="settings_debugmode">Mode debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Hapus</string>
     <string name="draftselector_titleview">Lihat</string>
     <string name="toolremove_default_title">Hapus</string>
-    <string name="toolremove_default_text">Anda bisa menghapus apapun dengan alat ini. Untuk zona pakailah alat penghapus zona sebagai gantinya.</string>
+    <string name="toolremove_default_text">Anda bisa menghapus apapun dengan alat ini. Kecuali beberapa benda,anda bisa menghapusnya menggunakan alat hapus yang ditentukan.</string>
     <string name="toolremove_pipe_text">Alat ini bisa digunakan untuk menghilangkan pipa air.</string>
     <string name="toolremove_pipe_title">Hapus pipa</string>
     <string name="draftselector_cmdremove">Hapus</string>
@@ -306,7 +306,7 @@
     <string name="buildinginfo_construction">Dalam pembangunan: %1$.0f%% (%2$,d hari lagi)</string>
     <string name="draft_footballstadion00_title">Stadion</string>
     <string name="draft_footballstadion00_text">Lapangan sepak bola anti mainstream :).</string>
-    <string name="buildinginfo_cmdupgrade">Upgrade</string>
+    <string name="buildinginfo_cmdupgrade">Tingkatkan</string>
     <string name="draft_footballstadion00_lights_title">Lampu</string>
     <string name="draft_footballstadion00_lights_text">Gelap? Pasang lampu dong!.</string>
     <string name="buildinginfo_upgraded">Telah ditingkatkan</string>
@@ -344,7 +344,7 @@
     <string name="draftselector_titlesports">Olahraga</string>
     <string name="draftselector_titlealert">Darurat</string>
     <string name="notify_fire">Kebakaran! Kirimkan truk pemadam kebakaran untuk memadamkan api. Pertimbangkan untuk membangun lebih banyak departemen pemadam kebakaran.</string>
-    <string name="notify_pollution">Terlalu banyak polusi!</string>
+    <string name="notify_pollution">Terlalu banyak polusi! Mohon jauhkan kami dari zona industri!</string>
     <string name="draft_radio00_title">Stasiun radio</string>
     <string name="draft_radio00_text">Penduduk kamu akan senang ketika mendengar program radio.</string>
     <string name="draftselector_cmdalert">Kirim</string>
@@ -356,8 +356,8 @@
     <string name="draft_alert_medic00_text">Ketika terjadi kecelakaan, kamu harus memanggil ambulans.</string>
     <string name="buildinginfo_powerusage">Pemakaian: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Pemakaian: %1$.1f%%</string>
-    <string name="settings_maxzoomout">Skala terkecil</string>
-    <string name="notify_noise">Berisik banget cuk!</string>
+    <string name="settings_maxzoomout">Zoom maksimum</string>
+    <string name="notify_noise">Berisik banget,jauhkan kami dari bangunan bising tersebut!</string>
     <string name="happiness_energy">Listrik</string>
     <string name="happiness_gamemode">Mode game</string>
     <string name="happiness_level">Level</string>
@@ -404,17 +404,17 @@
     <string name="draft_lighthouse00_title">Mercusuar</string>
     <string name="draft_lighthouse00_text">Tidak ada kapal yang jauh, tapi ada mercusuar .... aneh.</string>
     <string name="draft_road02_title">Jalan raya</string>
-    <string name="draft_road02_text">Buat pulang mudikmu lebih bermakna.</string>
+    <string name="draft_road02_text">Jalan aspal,namun memiliki batas kecepatan yang lebih tinggi.</string>
     <string name="budget_road">Jalan</string>
     <string name="topic_birthday_phoenix">Selamat ulang tahun phoenix!</string>
     <string name="topic_birthday_lucasking">Selamat ulang tahun Lucas!</string>
     <string name="tutorial_title">Tutorial</string>
     <string name="tutorial_welcome">Selamat datang di tutorial!</string>
-    <string name="tutorial_minimap">Kamu bisa menunjukkan dan menyembunyikan peta mini kapan saja.</string>
+    <string name="tutorial_minimap">Kamu bisa menunjukkan dan menyembunyikan peta mini kapan saja dengan mengetuknya.</string>
     <string name="tutorial_buildroad_a">Kita mulai dengan membangun jalan. Pilih tipe jalan yang paling sederhana.</string>
     <string name="tutorial_buildroad_b">Tempatkan jalan di sepanjang kotak yang ditandai. Untuk membangunnya tekan untuk menetapkan titik awal, tekan lagi untuk mengatur titik akhir.</string>
     <string name="tutorial_buildroad_c">Kerja bagus! Sekarang tutup alatnya.</string>
-    <string name="tutorial_buildenergy_a">Ayo coba membuat beberapa panel surya.</string>
+    <string name="tutorial_buildenergy_a">Ayo coba membuat beberapa PLTS.</string>
     <string name="tutorial_buildenergy_b">Tempatkan di kotak yang ditandai.</string>
     <string name="tutorial_buildenergy_c">Kerja bagus!</string>
     <string name="tutorial_buildwire_a">Kamu bisa menggunakan kabel untuk menyalurkan listrik.</string>
@@ -631,10 +631,10 @@
     <string name="settings_shadertype_xfancy">X-Fancy</string>
     <string name="draft_buoy00_title">Pelampung</string>
     <string name="draft_buoy00_text">Mengarahkan perahu.</string>
-    <string name="ci_general_seed">Biji: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="ci_general_seed">Benih: %1$s</string>
+    <string name="draft_decores00_text">Dekorasi zona residensial,wargamu melakukan aktivitas disni.</string>
+    <string name="draft_decocom00_text">Dekorasi zona komersial.</string>
+    <string name="draft_decoind00_text">Dekorasi zona industri.</string>
     <string name="ci_budget_title_nomoney">Keuangan (teoretis)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
@@ -643,7 +643,7 @@
     <string name="draft_gasplant00_text">Lebih murah daripada pembangkit listrik lain. Sedikit polusi.</string>
     <string name="draft_carcinema00_title">Bioskop drive-in</string>
     <string name="draft_carcinema00_text">Sedikit hiburan untuk penduduk TheoTown.</string>
-    <string name="notify_lowbudget">Kamu bokek. Kamu disarankan untuk meminjam uang.</string>
+    <string name="notify_lowbudget">Kamu kekurangan dana kota. Kamu disarankan untuk meminjam uang.</string>
     <string name="settings_rightsidebar">Bar sisi di kanan</string>
     <string name="settings_topstatusbar">Bar status di atas</string>
     <string name="settings_leftminimap">Peta mini di kiri</string>
@@ -657,7 +657,7 @@
     <string name="draft_school02_title">Sekolah kecil</string>
     <string name="draft_school02_text">Sekolah dasar kecil untuk rakyat kecil.</string>
     <string name="toolremove_zone_title">Hapus zona</string>
-    <string name="toolremove_zone_text">Pakai alat ini untuk menghapus zona yang telah ditetapkan.</string>
+    <string name="toolremove_zone_text">Pakai alat ini untuk menghapus zona yang telah ditetapkan,dapat memghacurkan bangunan yang ada di zona ini.</string>
     <string name="budget_rail">Rel</string>
     <string name="budget_railstation">Stasiun kereta</string>
     <string name="draft_marker_ticketmarker_title">Tiket</string>
@@ -669,10 +669,10 @@
     <string name="draft_police01_text">Untuk keamanan.</string>
     <string name="disaster_riot_title">Kerusuhan</string>
     <string name="disaster_riot_text">Ciptakan kerusuhan yang hanya bisa dihentikan Brimob.</string>
-    <string name="disaster_riot_cmdtext">Bakar massa</string>
+    <string name="disaster_riot_cmdtext">Massa Anarkis</string>
     <string name="draft_beach00_title">Pantai</string>
     <string name="draft_beach00_text">Selamat menikmati harimu di pantai.</string>
-    <string name="draft_biergarten00_title">Taman Bir</string>
+    <string name="draft_biergarten00_title">Taman Kafe</string>
     <string name="draft_biergarten00_text">Tempat yang nyaman untuk istirahat.</string>
     <string name="notify_noreszone">Orang-orang ingin tinggal di kotamu. Buat zona penduduk.</string>
     <string name="notify_nocomzone">Buat zona komersial supaya pebisnis bisa membangun di kotamu.</string>
@@ -681,7 +681,7 @@
     <string name="locale">en</string>
     <string name="draft_police02_title">Markas Besar Brimob</string>
     <string name="draft_police02_text">Markas Brimob ini akan menegakkan ketenteraman dan ketertiban di kotamu.</string>
-    <string name="settings_blur">Efek Pudar</string>
+    <string name="settings_blur">Efek Pudar latar belakang</string>
     <string name="happiness_supply">Pasokan</string>
     <string name="happiness_environment">Lingkungan</string>
     <string name="happiness_freetime">Waktu bebas</string>
@@ -694,7 +694,7 @@
     <string name="dialog_oldmap_text">TheoTown telah banyak berubah sejak kota ini didirikan. Maka, mungkin kota ini tidak bekerja seperti yang seharusnya. Plis jangan ngambek (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">Lanjutkan</string>
     <string name="dialog_oldmap_cmdcancel">Kembali</string>
-    <string name="notify_bad_health">Kesehatan tidak memadai. Kamu harus meningkatkan nilai lingkungan atau membangun pos medis.</string>
+    <string name="notify_bad_health">Kesehatan tidak memadai. Kamu harus meningkatkan nilai lingkungan atau membangun pos medis,pandemi dapat terjadi dan mulai jika tidak terbangun.</string>
     <string name="dialog_rename_cmdok">Namakan ulang</string>
     <string name="dialog_rename_cmdcancel">Batal</string>
     <string name="dialog_renamecity_title">Ganti nama kota</string>
@@ -731,7 +731,7 @@
     <string name="roadinfo_title">Jalan</string>
     <string name="roadinfo_trafficlights_on">Lampu lalu lintas hidup</string>
     <string name="roadinfo_trafficlights_off">Lampu lalu lintas mati</string>
-    <string name="notify_crime">Kami mendapati beberapa tindakan kejahatan di sini. Kamu harus membangun lebih banyak kantor polisi atau memperbaiki tingkat kebahagiaan.</string>
+    <string name="notify_crime">Kami mendapati beberapa tindakan kejahatan di sini. Kamu harus membangun lebih banyak kantor polisi atau memperbaiki tingkat kebahagiaan,dan juga kirim polisi kesini.</string>
     <string name="tutorial_buildbridge_a">Mungkin kita harus memperlancar lalu lintas dengan membangun jalan utama. Pilih jalan aspal.</string>
     <string name="tutorial_buildbridge_b">Ketuk titik awal dan titik akhir rencana pembangunan jalan. Perhatikan bagaimana jembatan akan dibangun otomatis melalui sungai.</string>
     <string name="tutorial_buildbridge_c">Jadi, kita sudah selesai dengan pembangunan.</string>
@@ -773,7 +773,7 @@
     <string name="draft_rnk_conurbation_title">Konurbasi</string>
     <string name="draft_rnk_megalopolis_title">Megalopolis</string>
     <string name="rank_needed_people">Setidaknya %1$,d penduduk</string>
-    <string name="draft_decoroad00_title">Pohon lorong</string>
+    <string name="draft_decoroad00_title">Pohon median</string>
     <string name="draft_decoroad00_text">.</string>
     <string name="settings_experimental">Fitur eksperimen</string>
     <string name="about_thanks">Terima kasih untuk</string>
@@ -844,7 +844,7 @@
     <string name="topic_force">May the Force be with you</string>
     <string name="topic_plugins">Kita punya plugin sekarang</string>
     <string name="topic_page">Kunjungi kami di www.theotown.com</string>
-    <string name="topic_habitants">Kamu bisa mencapai 1.000.000</string>
+    <string name="topic_habitants">Kamu bisa mencapai 1.000.000 populasi penduduk</string>
     <string name="ci_statistics_title">Statistik</string>
     <string name="statistics_inh_all">Penduduk</string>
     <string name="statistics_inh_0">Penduduk Miskin (₮)</string>
@@ -902,7 +902,7 @@
     <string name="draft_devroad00_text">Jalan beraspal yang dibangun dan dibayar negara.</string>
     <string name="dialog_resetcity_title">Reset kota</string>
     <string name="dialog_resetcity_text">Apakah kamu mau mengatur ulang kota ini seperti keadaan dahulu? Tindakan ini tidak bisa dibatalkan kembali.</string>
-    <string name="dialog_resetcity_cmdreset">Reset</string>
+    <string name="dialog_resetcity_cmdreset">Reset kota</string>
     <string name="draft_devroad01_title">Jalan searah nasional</string>
     <string name="draft_devroad01_text">Jalan searah yang dibangun dan dibayar negara.</string>
     <string name="task_openworld_title">Wilayah</string>
@@ -978,8 +978,8 @@
     <string name="draft_mltry_missilesilo00_text">Pemerintah ingin melakukan beberapa tes roket di kotamu. Karena ini dapat menyebabkan bencana, kamu mendapatkan kompensasi untuk risikonya.</string>
     <string name="draft_decosmallmountain00_text">Gunung kecil ini merupakan atraksi turis di dataran ini.</string>
     <string name="draft_feature_mountain00_text">Gunung kecil ini merupakan atraksi turis di dataran ini.</string>
-    <string name="dialog_connect_title">Hubungkan ke tetangga</string>
-    <string name="dialog_connect_text">Apakah kamu ingin membangun hubungan ke luar?</string>
+    <string name="dialog_connect_title">Hubungkan ke kota tetangga</string>
+    <string name="dialog_connect_text">Apakah kamu ingin membangun hubungan ke luar? (Hanya bekerja di kota wilayah!)</string>
     <string name="menu_hideui">Sembunyikan UI</string>
     <string name="ci_neighbor_title">Komersial dalam kompleks</string>
     <string name="ci_neighbor_notavailable">Tidak tersedia saat ini</string>
@@ -2213,11 +2213,15 @@ Kon: Kurang tantangan</string>
     <string name="dialog_storedisclaimer_title">Ada lebih banyak lagi...</string>
     <string name="dialog_storedisclaimer_text">Selamat datang ke Toko Plugin! Di sini kamu bisa mendapatkan ratusan konten-konten tambahan TheoTown yang dibuat oleh pemain-pemain dari seluruh dunia.\n
 \n
-Kami sarankan untuk membaca deskripsi plugin dengan saksama untuk mengerti apa yang plugin itu lakukan sebelum kamu mengunduhnya.</string>
+Kami sarankan untuk membaca deskripsi plugin dengan saksama untuk mengerti apa yang plugin itu lakukan sebelum kamu mengunduhnya. \n
+\n
+Jika ada plugin error maka kami rekomendasikan untuk menonaktifkan plugin tersebut,dan jangan lupa untuk tidak memakai kebanyakan plugin,karena ruang plugin game itu terbatas tergantung spesifikasi hardware. Plugin theotown tidak hanya ada di sini,namun juga ada di forum bagian showcase.\n
+\n
+Selamat menjelajah toko plugin!</string>
     <string name="dialog_accountdisclaimer_title">Akun</string>
     <string name="dialog_accountdisclaimer_text">Kamu bisa menghubungkan game ke satu atau beberapa akun.\n
 \n
-Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di bagian komentar.</string>
+Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di bagian komentar,dan juga kamu dapat menggunakan kembali plugin yang kamu telah beli di akun ini tanpa perlu membelinya lagi di masa depan jika login akun.</string>
     <string name="ci_rci_help">Permintaan menjelaskan kebutuhan bangunan tertentu. Permintaan terbagi dalam permintaan penduduk, komersial, dan industri. Masing-masing memiliki tiga level kekayaan yang berbeda.</string>
 
     <string name="draft_destroyed_tree00_title">Pohon terbakar</string>
@@ -2274,7 +2278,9 @@ Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di ba
     <string name="dialog_savingissue_title">Proses penyimpanan gagal</string>
     <string name="dialog_savingissue_text">Sayangnya kotamu tidak bisa disimpan.\nPetunjuk: %s\n\nHarap mencoba lagi.</string>
     <string name="dialog_onlineinfo_title">Mode online</string>
-    <string name="dialog_onlineinfo_text">Selamat datang di mode online! Di sini kamu bisa bekerja bareng teman-temanmu untuk membangun wilayah bersama! Kamu juga bisa mengunggah wilayah custom buatanmu sendiri untuk bermain dengan teman.\n\n"It\'s pretty cool!" kata administrator Discord kami.</string>
+    <string name="dialog_onlineinfo_text">Selamat datang di mode online! Di sini kamu bisa bekerja bareng teman-temanmu untuk membangun wilayah bersama! Kamu juga bisa mengunggah wilayah custom buatanmu sendiri untuk bermain dengan teman.\n\n"It\'s pretty cool!" kata administrator Discord kami.\n
+\n
+Catatan: Kamu tidak dapat bermain pada satu kota yang sama dengan pemain lain untuk saat ini.</string>
     <string name="dialog_outdated_title">Versi lama</string>
     <string name="dialog_outdated_text">Kamu sedang menggunakan versi ketinggalan zaman yang tidak mendukung fitur ini lagi.\n\nHarap memperbarui gamenya.</string>
     <string name="settings_weather_lightning">Petir</string>
@@ -2636,15 +2642,15 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="store_recommended_plugin">Plugin rekomendasi</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="dialog_migratefb_title">Diperlukan tindakan! PENTING!</string>
+    <string name="dialog_migratefb_text">Sepertinya Anda login menggunakan akun Facebook.  Sayangnya, jenis akses ini sudah tidak digunakan lagi dan tidak lagi didukung.\Harap masuk menggunakan akun forum untuk memindahkan data Anda.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Pengaturan akun</string>
+    <string name="draft_feature_opera00_title">Gedung Opera</string>
+    <string name="draft_feature_opera00_text">Lepaskan keajaiban budaya dengan Bundel Cultural Delight kami!  Rasakan kemegahan Gedung Opera, disertai dengan taman yang tenang dan air mancur yang mempesona.  Tingkatkan suasana kota Anda dan inspirasi warga Anda dengan perpaduan harmonis antara musik, alam, dan daya pikat artistik.  Tingkatkan sekarang dan biarkan kota Anda bersinar sebagai mahakarya budaya!</string>
+    <string name="draft_opera00_title">Bangunan Opera</string>
+    <string name="draft_opera00_text">Masuki Melody Manor, detak jantung budaya kota Anda!  Gedung Opera yang menakjubkan ini menambahkan sentuhan keanggunan dan kemahiran ke kota metropolis Anda.  Saksikan bagaimana hal itu memengaruhi warga Anda, mengubah mereka menjadi penikmat seni yang halus.  Biarkan getaran harmonis mengalir dan tawa naik!</string>
+    <string name="draft_opera_park00_title">Taman Simfoni Tenang</string>
+    <string name="draft_opera_park00_text">Terletak di samping Opera House, Serene Symphony Park adalah surga yang mempesona di mana alam menari mengikuti irama opera.  Bersantailah di ruang hijaunya yang rimbun, nikmati pertunjukan dadakan, dan biarkan perpaduan harmonis antara budaya dan alam meremajakan jiwa Anda.</string>
+    <string name="stage_comment_plugin_acquirefirst">Silakan dapatkan plugin ini terlebih dahulu</string>
 
 </resources>
