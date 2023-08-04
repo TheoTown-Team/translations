@@ -10,6 +10,7 @@
     <string name="control_back">Voltar</string>
     <string name="createcity_start">Iniciar</string>
     <string name="loadcity_load">Iniciar</string>
+
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Habitantes: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -884,7 +885,7 @@
     <string name="features_notenough">Insuficiente %1$s</string>
     <string name="dialog_getrank_text">Você pode desbloquear essa posição imediatamente, se desejar.</string>
     <string name="features_buy">Obtenha agora</string>
-    <string name="draft_feature_buildings00_text">Alguns pequenos edifícios residenciais, comerciais e industriais para maior variedade na cidade. Inclui gráficos para o inverno.</string>
+    <string name="draft_feature_buildings00_text">Aprimore a sua aventura de construção de cidade com o nosso Pacote de Variedades! Este conjunto traz uma empolgante variedade de pequenos prédios residenciais, comerciais e industriais, injetando nova vida e diversidade à sua paisagem urbana. Além disso, mergulhe no encanto sazonal com gráficos exclusivos de inverno, transformando sua cidade em um pitoresco mundo de maravilhas invernais. Liberte sua criatividade, expanda os horizontes de sua cidade e torne cada estação uma delícia para seus cidadãos. Atualize agora mesmo e experimente a última sensação de construção!</string>
     <string name="dialog_redeempromo_title">Você tem alguns diamantes</string>
     <string name="dialog_redeempromo_text">Parece que esses diamantes são seus agora.</string>
     <string name="dialog_present_cmdad">Duplicar</string>
@@ -962,7 +963,7 @@
     <string name="shader_smooth">Suave</string>
     <string name="topic_dumbledore">Dumbledore não permitiria que isso acontecesse.</string>
     <string name="draft_mltry_missilesilo00_title">Silo de mísseis</string>
-    <string name="draft_feature_military00_text">Construa sua própria base militar para proteger sua cidade. Inclui um desastre ufológico.</string>
+    <string name="draft_feature_military00_text">Defenda sua cidade com o Pacote da Guarnição Guardiã! Construa uma base militar formidável e proteja seus cidadãos de qualquer perigo. Prepare-se para um desafio extraterrestre, pois uma ameaça alienígena de OVNIs coloca em risco a paz da sua cidade. Construa, elabore estratégias e proteja seu território. Atualize agora e torne-se o guardião supremo da sua cidade!</string>
     <string name="dialog_smooth_title">Gráficos suaves</string>
     <string name="dialog_smooth_text">Ciência! Encontramos uma solução para melhorar a resolução do jogo. Você gostaria de usá-lo?\n\nIsso pode ser alterado nas configurações a qualquer momento.</string>
     <string name="budget_military">Militar</string>
@@ -978,7 +979,7 @@
     <string name="draft_mltry_rocketlauncher00_text">Pode ser usado para atirar em OVNIs. Não pode ser usado para atirar em edifícios civis ou veículos.</string>
     <string name="draft_mltry_missilesilo00_text">O governo gostaria de fazer alguns testes de foguete em sua cidade. Como isso pode levar a desastres você obtém uma compensação pelo risco.</string>
     <string name="draft_decosmallmountain00_text">Esta pequena montanha é uma atração turística nesta terra, principalmente plana.</string>
-    <string name="draft_feature_mountain00_text">Esta pequena montanha é uma atração turística nesta terra, principalmente plana.</string>
+    <string name="draft_feature_mountain00_text">Eleve o encanto da sua cidade com o Pacote Picos Majestosos! Introduza uma deslumbrante montanha, erguendo-se majestosamente como uma atração turística cativante em meio à paisagem plana. Contemple a impressionante beleza da natureza enquanto visitantes se reúnem para admirar sua presença majestosa. Mergulhe na serenidade desta joia cênica e desbloqueie novas possibilidades para sua cidade. Atualize agora mesmo e deixe as montanhas lançarem seu encanto sobre sua terra!</string>
     <string name="dialog_connect_title">Conectar com o vizinho</string>
     <string name="dialog_connect_text">Deseja estabelecer uma conexão para o exterior?</string>
     <string name="menu_hideui">Ocultar interface</string>
@@ -995,12 +996,13 @@
     <string name="notification00_title">NOTÍCIAS: %1$s tem muito dinheiro!</string>
     <string name="notification00_text">Prefeito, precisamos que você gaste toda essa grana urgentemente!</string>
     <string name="roadinfo_bridgetype">Modelos de pontes</string>
-    <string name="draft_feature_buildings01_text">Grandes edifícios residenciais, comerciais e industriais para mais variedade na cidade. Aumenta o padrão de vida de seus habitantes.</string>
+    <string name="draft_feature_buildings01_text">Libere o potencial da sua cidade com o nosso Pacote de Expansão Mega-Cidade! Introduza uma variedade de grandes prédios residenciais, comerciais e industriais que irão transformar o horizonte e dar uma nova vida à sua metrópole. Eleve o padrão de vida de seus habitantes à medida que prosperam em casas espaçosas, desfrutem de distritos comerciais movimentados e se beneficiem de instalações industriais avançadas. Experimente uma cidade de grandeza e prosperidade como nunca antes. Atualize agora e veja sua cidade atingir novas alturas de grandeza!</string>
     <string name="dialog_diamondshop_recommended">Recomendado</string>
     <string name="dialog_presentdaily_title">Recompensa diária</string>
     <string name="dialog_presentdaily_text">Amanhã vai ter mais!</string>
     <string name="dialog_presentdaily_day">Dia %1$,d</string>
     <string name="rank_needed_xp">Ao menos %1$,d pontos da cidade precisos.</string>
+    <string name="currency_symbol" translatable="false">₮</string>
     <string name="settings_shortmoney">Abreviar dinheiro</string>
     <string name="dialog_newsign_title">Nova etiqueta</string>
     <string name="dialog_newsign_text">Identifique alguma área com nomes.</string>
@@ -1010,9 +1012,9 @@
     <string name="draft_sign_tool_title">Etiquetas</string>
     <string name="draft_sign_tool_text">Crie, edite e remova etiquetas com esta ferramenta.</string>
     <string name="draft_feature_deco00_title">Decorações para praça</string>
-    <string name="draft_feature_deco00_text">Algumas decorações para sua área comercial.</string>
+    <string name="draft_feature_deco00_text">Aprimore a sua área comercial com o nosso Pacote de Encanto Comercial! Dê uma nova vida à paisagem da sua cidade com uma encantadora seleção de decorações, adicionando estilo e encanto ao agitado distrito de negócios. Transforme suas ruas em um espaço vibrante e convidativo que irá atrair clientes e deixá-los maravilhados. Atualize agora e crie uma área comercial que se destaque com estilo e charme!</string>
     <string name="draft_feature_slowspeed00_title">Velocidade lenta</string>
-    <string name="draft_feature_slowspeed00_text">Um modo de velocidade mais lenta que lhe dá mais controle para certas situações.</string>
+    <string name="draft_feature_slowspeed00_text">Desbloqueie o Pacote de Domínio de Controle para obter uma vantagem que mudará o jogo. Ative o modo de velocidade mais lenta e obtenha um controle incomparável em situações críticas. Assuma o comando, faça movimentos calculados e navegue pela sua cidade com facilidade. Atualize agora e domine o poder da precisão!</string>
     <string name="buildinginfo_patrol">Patrulha</string>
     <string name="draft_beach_gnd00_title">Areia</string>
     <string name="draft_beach_gnd00_text">Apenas um pouco de areia. Também usado em praias.</string>
@@ -1025,12 +1027,12 @@
     <string name="menu_console">Console</string>
     <string name="topic_crispr">CRISPR pode mudar sua vida</string>
     <string name="draft_feature_firestation00_title">Corpo de bombeiros principal</string>
-    <string name="draft_feature_firestation00_text">Um corpo de bombeiros com um grande alcance, muitos carros e uma atualização de heliportos para um helicóptero.</string>
-    <string name="draft_feature_gocart00_title">Pista de corrida de Go-kartk</string>
-    <string name="draft_feature_gocart00_text">E quanto a alguns esportes de moto em sua cidade? Também gerará go-carts na estrada normal.</string>
-    <string name="draft_firedepartment02_text">Tem um enorme raio e muitos carros. Útil para prevenir ou extinguir incêndios.</string>
+    <string name="draft_feature_firestation00_text">Aprimore a segurança contra incêndios da sua cidade com o nosso Pacote de Resposta a Infernos! Tenha acesso a uma estação de bombeiros de grande alcance equipada com uma frota de veículos de emergência. Leve a ação aos céus com uma atualização de heliporto, possibilitando uma resposta rápida por meio de helicópteros. Prepare-se para apagar incêndios e salvar vidas como nunca antes. Atualize agora e seja o herói que sua cidade precisa diante de qualquer inferno!</string>
+    <string name="draft_feature_gocart00_title">Pista de corrida de go-kart</string>
+    <string name="draft_feature_gocart00_text">Aumente a emoção na sua cidade com o nosso Pacote Go-Kart Grand Prix! Experimente a emoção dos esportes motorizados ao liberar a ação de alta velocidade em uma empolgante pista de go-kart. Mas isso não é tudo - esteja preparado para ainda mais diversão com muita adrenalina, à medida que os go-karts invadem as suas ruas comuns. Prepare-se para correr, derrapar e dominar as ruas como nunca antes. Atualize agora e deixe a loucura dos esportes a motor começar!</string>
+    <string name="draft_firedepartment02_text">Tem um enorme raio e muitos carros. Útil para prevenir ou apagar incêndios.</string>
     <string name="draft_prmgocart00_title">Pista de corrida de go-kart</string>
-    <string name="draft_prmgocart00_text">E quanto a alguns esportes de moto em sua cidade? Também gerará go-carts na estrada.</string>
+    <string name="draft_prmgocart00_text">E quanto a alguns esportes de moto em sua cidade? Também gerará go-karts na estrada.</string>
     <string name="settings_smoothscrolling">Deslizamento suave</string>
     <string name="settings_buildingtoolold">Antiga ferramenta de construção</string>
     <string name="settings_roadautojoin">Ferramenta de auto-junção de estradas</string>
@@ -1084,14 +1086,14 @@
 
     <string name="featureselector_time">%1$s de velocidade super rápida</string>
     <string name="draft_feature_time00_title">Controlador do tempo</string>
-    <string name="draft_feature_time00_text">Concede capacidade limitada para velocidade de jogo super rápida.</string>
-    <string name="draft_feature_time01_title">Mago do tempo</string>
-    <string name="draft_feature_time01_text">Você pode usar a velocidade do jogo super rápido por mais tempo.</string>
-    <string name="draft_feature_time02_title">MESTRE do tempo</string>
-    <string name="draft_feature_time02_text">Você é o melhor mestre de todos os tempos. Dá-lhe grande resistência para o uso de velocidade super rápida.</string>
+    <string name="draft_feature_time00_text">Prepare-se para turbinar sua experiência de construção de cidade com o nosso Pacote de Aceleração Turbo! Adquira habilidades de velocidade de jogo super rápidas por tempo limitado e observe sua cidade crescer em um ritmo eletrizante. Acelere seu progresso, supere desafios, e alcance novas conquistas em tempo recorde. Atualize agora mesmo e mergulhe na emoção de uma jogabilidade ultrarrápida!</string>
+    <string name="draft_feature_time01_title">Mago do tempo avançado</string>
+    <string name="draft_feature_time01_text">Eleve suas habilidades de construção de cidade para o próximo nível com o Pacote de Impulso Veloz! Desfrute de acesso estendido à velocidade super rápida do jogo, permitindo que você acelere seu progresso e alcance a grandeza em tempo recorde. Atualize agora mesmo e experimente a emoção de uma jogabilidade ultrarrápida como nunca antes!</string>
+    <string name="draft_feature_time02_title">Senhor do Tempo</string>
+    <string name="draft_feature_time02_text">Aproveite o poder do Senhor do Tempo! Torne-se o mestre supremo de todos os tempos, com velocidade incomparável e resistência incrível. Desbloqueie habilidades super rápidas e domine sua cidade como nunca antes. Atualize agora mesmo e conquiste o controle do tempo!</string>
 
     <string name="draft_feature_weather_machine00_title">Máquina meteorológica</string>
-    <string name="draft_feature_weather_machine00_text">Usa alguma tecnologia de alto nível para controlar o clima.</string>
+    <string name="draft_feature_weather_machine00_text">Libere o poder do clima com o nosso kit ultra-secreto de Controle Climático! Utilize tecnologia de ponta para manipular os céus e controlar os elementos. Crie tempestades, invoque o sol e traga neve para sua cidade com um simples toque de botão. Atualize agora mesmo e torne-se o mestre da manipulação climática!</string>
     <string name="draft_weather_machine00_title">Máquina meteorológica</string>
     <string name="draft_weather_machine00_text">Usa alguma tecnologia de alto nível! Você pode usá-lo para controlar o clima.</string>
 
@@ -1112,7 +1114,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_weather_machine00_fog00_text">Uma enorme máquina de neblina que pode gerar neblina para toda a cidade.</string>
     <string name="dialog_cancelupgrade">Cancelar melhoria</string>
     <string name="draft_feature_ranger00_title">Chalé florestal</string>
-    <string name="draft_feature_ranger00_text">Às vezes, as árvores devem ser replantadas se o ambiente estiver muito poluído. O chalé florestal replanta árvores automaticamente.</string>
+    <string name="draft_feature_ranger00_text">Revitalize o ambiente da sua cidade com este pacote! Apresentamos a Casa do Florestador, uma inovação no replantio de árvores. Diga adeus às preocupações com a poluição, pois essa maravilha automatizada rejuvenesce a vegetação da sua cidade sem esforço. Atualize agora mesmo e deixe a natureza prosperar com o poder do reflorestamento automatizado!</string>
     <string name="draft_ranger00_title">Chalé florestal</string>
     <string name="draft_ranger00_text">Às vezes, as árvores devem ser replantadas se o ambiente estiver muito poluído. Este chalé replanta árvores automaticamente.</string>
 
@@ -1128,7 +1130,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_decoletters00_title">Letreiros</string>
     <string name="draft_decoletters00_text">Apenas alguns letreiros para dar %1$s um toquezinho especial.</string>
     <string name="draft_feature_letters00_title">Decoração de letras</string>
-    <string name="draft_feature_letters00_text">Algumas letras que podem ser usadas para fins decorativos.</string>
+    <string name="draft_feature_letters00_text">Desbloqueie o Conjunto de Letras Decorativas e adicione um toque de personalidade à paisagem da sua cidade! Coloque essas letras versáteis onde desejar para fins decorativos encantadores. Escreva os nomes de cidades, crie sinalizações personalizadas ou simplesmente adicione um toque lúdico ao cenário urbano. Atualize agora mesmo e deixe sua criatividade brilhar no centro das atenções!</string>
 
     <string name="tool_eye_dropper">Selecione uma construção</string>
     <string name="settings_language">Idioma</string>
@@ -1176,7 +1178,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_prm_park00_title">Fonte</string>
     <string name="draft_prm_park00_text">Uma fonte maravilhosa que encantará os habitantes de %1$s e você também.</string>
     <string name="draft_feature_fountain00_title">Fonte</string>
-    <string name="draft_feature_fountain00_text">Uma fonte maravilhosa que encantará os habitantes de %1$s e também você.</string>
+    <string name="draft_feature_fountain00_text">Eleve sua cidade com o nosso Pacote da Grande Fonte! Experimente a alegria e o encantamento de uma magnífica fonte que irá cativar tanto seus habitantes quanto você. Atualize agora mesmo e crie um centro hipnotizante que traz beleza e alegria para sua cidade!</string>
 
     <string name="draft_rnk_galaxy_small_title">Galáxia pequena</string>
     <string name="draft_rnk_galaxy_medium_title">Galáxia</string>
@@ -1186,10 +1188,10 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_rnk_galaxy_cluster_medium_title">Aglomerado de galáxias</string>
     <string name="draft_rnk_galaxy_cluster_big_title">Aglomerado de galáxias grande</string>
     <string name="draft_rnk_galaxy_cluster_large_title">Aglomerado de galáxias gigantesca</string>
-    <string name="draft_rnk_supercluster_small_title">Supercluster pequena</string>
-    <string name="draft_rnk_supercluster_medium_title">Supercluster</string>
-    <string name="draft_rnk_supercluster_big_title">Supercluster grande</string>
-    <string name="draft_rnk_supercluster_large_title">Supercluster gigantesca</string>
+    <string name="draft_rnk_supercluster_small_title">Superaglomerado pequeno</string>
+    <string name="draft_rnk_supercluster_medium_title">Superaglomerado</string>
+    <string name="draft_rnk_supercluster_big_title">Superaglomerado grande</string>
+    <string name="draft_rnk_supercluster_large_title">Superaglomerado gigantesco</string>
 
     <string name="ci_airport_title">Aeroporto</string>
     <string name="draft_wire01_title">Linha de transmissão elétrica</string>
@@ -1308,7 +1310,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_hydroplant00_title">Usina hidrelétrica</string>
     <string name="draft_hydroplant00_text">Uma usina hidrelétrica que pode ser usada para gerar eletricidade usando o poder das águas. Não gera poluição.</string>
     <string name="draft_feature_slime00_title">Catástrofe das gelecas</string>
-    <string name="draft_feature_slime00_text">Catástrofe das gelecas vão devorar sua cidade. Claro, só se você quiser fazer isso.</string>
+    <string name="draft_feature_slime00_text">Apresentando o Pacote de Ataque de Geleca! Experimente a emoção de desastres de geleca que podem devorar sua cidade - somente se você ousar permitir. Lide com a confusão pegajosa com cautela ou abrace o caos enquanto sua metrópole se torna um playground pegajoso. A escolha é sua! Atualize agora e prepare-se para aventuras repletas de geleca!</string>
 
     <string name="settings_terrainshading">Sombreamento de terreno</string>
     <string name="draft_deco_chr_tree00_title">Árvore de Natal</string>
@@ -1346,7 +1348,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_feature_firework_pack00_title">Especial de Ano Novo</string>
     <string name="draft_feature_firework_pack00_text">A oferta limitada contém:</string>
     <string name="draft_feature_firework00_title">Fogos de artifício</string>
-    <string name="draft_feature_firework00_text">Coloque e componha seus próprios fogos de artifício.</string>
+    <string name="draft_feature_firework00_text">Libere uma explosão de criatividade com o nosso Pacote Frenesi de Fogos de Artifício! Coloque e componha seus próprios espetáculos espetaculares de fogos de artifício. Ilumine o céu, encante seus cidadãos e torne cada celebração inesquecível. Atualize agora mesmo e deixe sua imaginação voar em uma explosão colorida de alegria!</string>
     <string name="draft_syl_emitter01_title">Interruptor de tempo</string>
     <string name="draft_syl_emitter01_text">Um interruptor que emitirá automaticamente um sinal no ano novo.</string>
 
@@ -1426,7 +1428,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="game_remaining_shortbuildtime">Reduzir tempo de construção para %s</string>
     <string name="shop_open_features">Gastar diamantes</string>
     <string name="draft_feature_shortbuildingtime00_title">Rapidez na construção</string>
-    <string name="draft_feature_shortbuildingtime00_text">Redução drástica de tempo de construção para todos os edifícios.</string>
+    <string name="draft_feature_shortbuildingtime00_text">Turbine o progresso da sua cidade com o Pacote de Construção Rápida! Experimente uma drástica redução no tempo de construção de todas as estruturas. Veja sua cidade ganhar vida em tempo recorde, permitindo que você expanda e evolua mais rápido do que nunca. Atualize agora e acelere o caminho para a grandeza urbana!</string>
     <string name="dialog_shortbuildtime_title">Impulsionar o tempo de construção</string>
     <string name="dialog_shortbuildtime_text">Assista a um pequeno vídeo para impulsionar o tempo de construção de %s.</string>
 
@@ -1521,6 +1523,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_bus_road00_text">Uma estrada simples na qual apenas os ônibus podem dirigir.</string>
     <string name="draft_bus_oneway_road00_title">Estrada de ônibus unidirecional</string>
     <string name="draft_bus_oneway_road00_text">Uma estrada de sentido único só ônibus podem dirigir.</string>
+
     <string name="task_build_res">Construa %s zonas residenciais.</string>
     <string name="task_build_com">Construa %s zonas comerciais.</string>
     <string name="task_build_ind">Construa %s zonas industriais</string>
@@ -1597,20 +1600,18 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="gallery">Galeria</string>
     <string name="gallery_upload">Enviar captura de tela</string>
     <string name="dialog_galleryupload_title">Enviando</string>
-    <string name="dialog_galleryupload_text">Estou enviando sua imagem :)</string>
+    <string name="dialog_galleryupload_text">Sua imagem está sendo enviada...</string>
     <string name="gallery_recent">Recentes</string>
     <string name="gallery_trends">Tendências</string>
     <string name="gallery_own">Próprio</string>
     <string name="dialog_gallerydelete_title">Excluir captura de tela</string>
-    <string name="dialog_gallerydelete_text">Tem certeza de que deseja excluir esta captura de tela? Isto não pode ser desfeito!</string>
+    <string name="dialog_gallerydelete_text">Tem certeza de que deseja excluir esta captura de tela? Esta ação não pode ser desfeita!</string>
     <string name="dialog_gallerydelete_cmd">Excluir</string>
-    <string name="dialog_gallerypolicy_title">Primeiras coisas primeiro</string>
-    <string name="dialog_gallerypolicy_text">Oi, estou feliz que você gostaria de contribuir para a nossa galeria. No entanto, antes de começarmos, você precisa concordar com nossa política para nos permitir enviar capturas de tela para você.
-
-\n\nApenas toque em concordar se você concordar com nossa política de envio de capturas de tela.</string>
-    <string name="dialog_gallerypolicy_cmdpolicy">Política aberta</string>
-    <string name="dialog_gallerypolicy_cmdok">Eu concordo</string>
-    <string name="dialog_gallerypolicy_cmdcancel">Eu discordo</string>
+    <string name="dialog_gallerypolicy_title">Enviar captura de tela?</string>
+    <string name="dialog_gallerypolicy_text">Deseja enviar sua captura de tela para nossa galeria?\n\nAo pressionar \"Enviar agora\", você concorda em aceitar nossa política.</string>
+    <string name="dialog_gallerypolicy_cmdpolicy">Abrir política</string>
+    <string name="dialog_gallerypolicy_cmdok">Enviar agora</string>
+    <string name="dialog_gallerypolicy_cmdcancel">Cancelar</string>
     <string name="settings_pushnotifications">Notificações via push</string>
     <string name="draft_leaningtowerofpisa00_title">Torre inclinada de Pisa</string>
     <string name="draft_leaningtowerofpisa00_text">A Torre Inclinada de Pisa é uma torre sineira localizada na cidade italiana de Pisa que foi concluída em 1372 e sua altura é de 56 metros.</string>
@@ -1685,7 +1686,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_ancientbear_guard00_text">Um guarda que vigia o Urso Antigo.</string>
     <string name="draft_ancientbear_statue00_title">Urso antigo</string>
     <string name="draft_ancientbear_statue00_text">Uma estátua do antigo urso.</string>
-    <string name="draft_greatpyramid00_title">Grande pirâmide de Gizé</string>
+    <string name="draft_greatpyramid00_title">Grande Pirâmide de Gizé</string>
 
     <string name="draft_wasteincinerator00_filter00_title">Filtro</string>
     <string name="draft_wasteincinerator00_filter00_text">Reduz drasticamente a poluição emitida e o ruído.</string>
@@ -1711,7 +1712,7 @@ Se você fornecer ao TheoTown acesso ao armazenamento externo, ele salvará cida
     <string name="draft_cat_roaddeco00_title">Decoração rodoviária</string>
 
     <string name="draft_feature_doubledincome00_title">Duplicar renda</string>
-    <string name="draft_feature_doubledincome00_text">Apenas dobra sua renda.</string>
+    <string name="draft_feature_doubledincome00_text">Este pacote exclusivo dobra instantaneamente os ganhos da sua cidade, proporcionando um impulso massivo aos seus cofres. Atualize agora mesmo e experimente o ganho financeiro com o qual você tem sonhado!</string>
     <string name="features_duration">Duração %s</string>
     <string name="draft_roaddeco_crosswalk00_title">Faixa de pedestre</string>
     <string name="draft_roaddeco_crosswalk00_text">É perigoso atravessar a rua.</string>
@@ -2064,7 +2065,7 @@ Contras: Menos desafios</string>
     <string name="shop_invitefriends">Ganhe %d diamantes por amigo convidado</string>
     <string name="shop_invitetitle">Convide um amigo</string>
     <string name="shop_invitationtext">Ei, veja este jogo que eu encontrei recentemente:\n%s</string>
-    <string name="gamemenu_gameid">Identificação do jogo: %s</string>
+    <string name="gamemenu_gameid">Id do jogo: %s</string>
     <string name="gamemenu_gameidcopied">Identificação do jogo copiada para a área de transferência</string>
     <string name="draft_cat_intersections00_title">Intercâmbios</string>
     <string name="draft_intersection00_title">Passagem elevada</string>
@@ -2563,7 +2564,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_tree_spruce00_text">O abeto é uma árvore conífera perene. Pode ser encontrado nas regiões temperadas e boreais do norte do planeta. Podem chegar até 60 metros.</string>
     <string name="draft_tree_alder00_title">Amieiro</string>
     <string name="draft_tree_alder00_text">Uma árvore que pode crescer até 30 metros e parece bastante comum.</string>
-    <string name="stage_gallery_loadingimages">Carregando imagens..</string>
+    <string name="stage_gallery_loadingimages">Carregando imagens.</string>
 
     <string name="ci_neighbor_help">Aqui, você pode importar/exportar energia, água, resíduos e cadáveres de/para cidades vizinhas.</string>
     <string name="ci_budget_help">Aqui você pode visualizar e ajustar seus impostos, bem como visualizar suas despesas mensais. Habitantes e trabalhadores mais ricos pagam mais impostos. Impostos muito altos e seus habitantes ficarão infelizes e deixarão sua cidade, resultando em felicidade tributária baixa. Recomendamos definir seus impostos entre 6,5 e 8,0.</string>
