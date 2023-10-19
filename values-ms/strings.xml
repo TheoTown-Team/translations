@@ -499,7 +499,7 @@
     <string name="requirement_peoplecount_all">Memerlukan: Sebuah populasi seramai %1$,d</string>
     <string name="requirement_peoplecount_poor">Memerlukan: Sebuah populasi miskin seramai %1$,d</string>
     <string name="requirement_peoplecount_middle">Memerlukan: Sebuah populasi sederhana seramai %1$,d</string>
-    <string name="requirement_peoplecount_rich">Memerlukan: Sebuah populasi berada seramai %1$,d</string>
+    <string name="requirement_peoplecount_rich">Memerlukan: Sebuah populasi kaya seramai %1$,d</string>
     <string name="requirement_building">Memerlukan: %1$s</string>
     <string name="draftselector_onlyone">Hanya boleh dibina sekali sahaja</string>
     <string name="draftselector_onlyn">Hanya boleh dibina %1$,d kali</string>
@@ -603,7 +603,7 @@
     <string name="draft_sewerpipe00_text">Mengurangkan pencemaran air dengan melepaskan air sisa ke alam semulajadi. Mempunyai influens yang buruk.</string>
     <string name="settings_lowresmapscreenshot">Rendahkan resolusi untuk petikan gambar peta</string>
     <string name="draft_marina00_title">Marina</string>
-    <string name="draft_marina00_text">Hiburan untuk penduduk berada.</string>
+    <string name="draft_marina00_text">Hiburan untuk penduduk kaya.</string>
     <string name="loadcity_version">Versi %1$,d</string>
     <string name="loadcity_memdialog_title">Tiada akses ke memori luaran</string>
     <string name="loadcity_memdialog_text">Bandar-bandar akan disimpan ke dalam simpanan dalaman. Anda tidak dapat lagi akses kepadanya.</string>
@@ -849,7 +849,7 @@
     <string name="statistics_inh_all">Penduduk</string>
     <string name="statistics_inh_0">Penduduk miskin (₮)</string>
     <string name="statistics_inh_1">Penduduk sederhana (₮₮)</string>
-    <string name="statistics_inh_2">Penduduk berada (₮₮₮)</string>
+    <string name="statistics_inh_2">Penduduk kaya (₮₮₮)</string>
     <string name="statistics_money">Harta</string>
     <string name="statistics_buildings">Bangunan</string>
     <string name="statistics_roads">Jalan raya</string>
@@ -908,7 +908,7 @@
     <string name="task_openworld_title">Daerah</string>
     <string name="task_openworld_text">Bandar anda merupakan sebahagian daripada sesuatu yang besar. Anda boleh lihat semua bandar-bandar anda di sini.</string>
     <string name="task_openrci_title">Permintaan membina</string>
-    <string name="task_openrci_text">Dalam TheoTown, kami mendiskriminasi permintaan membina untuk jenis dan peringkat bangunan yang berbeza. Jenis bangunan adalah seperti perumahan, komersial dan industri. Terdapat tiga peringkat iaitu, miskin (₮), sederhana (₮₮) dan berada (₮₮₮).</string>
+    <string name="task_openrci_text">Dalam TheoTown, kami mendiskriminasi permintaan membina untuk jenis dan peringkat bangunan yang berbeza. Jenis bangunan adalah seperti perumahan, komersial dan industri. Terdapat tiga peringkat iaitu, miskin (₮), sederhana (₮₮) dan kaya (₮₮₮).</string>
     <string name="control_gotit">Saya faham</string>
     <string name="task_firstcity_title">Bandar baru</string>
     <string name="task_firstcity_text">Selamat datang ke bandar pertama anda.\n\nCuba untuk dapatkan 300 orang penduduk.</string>
@@ -1054,8 +1054,8 @@
     <string name="tut_build110">Datuk bandar, kami tiada pekerjaan atau tempat untuk membeli barang!</string>
     <string name="tut_build12">Baiklah, kita memerlukan zon komersial dan industri. Mari kita lihat gambaran keseluruhan permintaan.</string>
     <string name="tut_build13">Anda boleh melihat permintaan bagi bangunan perumahan, komersial dan industri.</string>
-    <string name="tut_build14">Untuk setiap jenis zon, terdapat tiga tahap kekayaan: ₮, ₮₮ dan ₮₮₮ merujuk kepada miskin, sederhana dan berada.</string>
-    <string name="tut_build15">Sudah tentu kita mahukan penduduk berada sahaja, tetapi kita perlu mulakan secara perlahan. Seperti yang anda lihat, kita perlu komersial ₮ buat masa ini.</string>
+    <string name="tut_build14">Untuk setiap jenis zon, terdapat tiga tahap kekayaan: ₮, ₮₮ dan ₮₮₮ merujuk kepada miskin, sederhana dan kaya.</string>
+    <string name="tut_build15">Sudah tentu kita mahukan penduduk kaya sahaja, tetapi kita perlu mulakan secara perlahan. Seperti yang anda lihat, kita perlu komersial ₮ buat masa ini.</string>
     <string name="tut_build16">Isytihar lebih banyak zon komersial? Saya fikir anda boleh lakukannya.</string>
     <string name="tut_build17">Bagus! Menurut graf permintaan, terdapat permintaan untuk zon industri. Mari isytihar zon perumahan lagi.</string>
     <string name="tut_build18">Secara purata anda memerlukan banyak zon komersial dan industri di mana anda ada zon perumahan.</string>
@@ -1515,7 +1515,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="influence_level_middle_title">Tahap sederhana</string>
     <string name="influence_level_middle_text">Tahap bangunan ini kebiasannya tahap sederhana.</string>
     <string name="influence_level_high_title">Tahap tinggi</string>
-    <string name="influence_level_high_text">Tahap bangunan ini kebiasannya tahap berada.</string>
+    <string name="influence_level_high_text">Tahap bangunan ini kebiasannya tahap kaya.</string>
     <string name="influence_density_title">Kepadatan</string>
     <string name="influence_density_text">Bangunan tinggi kebiasannya lebih padat.</string>
     <string name="influence_nature_title">Alam</string>
@@ -2209,7 +2209,7 @@ Kekurangan: Kurang cabaran</string>
     <string name="dialog_storerestart_cmdlater">Kemudian</string>
     <string name="wealthy_poor">Miskin</string>
     <string name="wealthy_medium">Sederhana</string>
-    <string name="wealthy_rich">Berada</string>
+    <string name="wealthy_rich">Kaya</string>
     <string name="ci_rci_res">Perumahan</string>
     <string name="ci_rci_com">Komersial</string>
     <string name="ci_rci_ind">Industri</string>
@@ -2478,15 +2478,15 @@ Anda boleh tinggalkan komen dengan sambung permainan ini ke akaun Forum TheoTown
 Dengan menggunakan cara ini, kita dapat menggelakkan kehilangan data disecabkan oleh kemas kini aplikasi atau pemasangan semula.
 
 \n\nPermainan ini boleh dijalankan tanpa kebenaran tersebut. Tetapi, kami tidak bertanggungjawab atas kehilangan data atau kerosakkan disebabkan penggunaan storan dalaman.</string>
-    <string name="dialog_onlinenotifications_title">Notifikasi</string>
+    <string name="dialog_onlinenotifications_title">Pemberitahuan</string>
     <string name="dialog_onlinenotifications_time">%1$s lepas</string>
-    <string name="dialog_onlinenotifications_empty">Tiada notifikasi</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifikasi</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifikasi (%1$,d)</string>
+    <string name="dialog_onlinenotifications_empty">Tiada pemberitahuan</string>
+    <string name="dialog_onlinenotifications_cmdempty">Pemberitahuan</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Pemberitahuan (%1$,d)</string>
     <string name="dialog_reason_title">Sebab</string>
     <string name="dialog_reason_text">Untuk meneruskan, anda perlu nyatakan sebab atas tindakan ini.</string>
     <string name="store_realtitle">Stor Plugin</string>
-    <string name="settings_pushnotificationsonline">Notifikasi tentang mod talian</string>
+    <string name="settings_pushnotificationsonline">Pemberitahuan tentang mod talian</string>
     <string name="settings_verticaltoolbar">Bar alat menegak</string>
     <string name="settings_darktoolbar">Bar alat gelap</string>
     <string name="dialog_tutwelcome_title">Selamat Datang ke TheoTown</string>
