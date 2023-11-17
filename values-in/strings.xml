@@ -151,9 +151,9 @@
     <string name="draft_treepark00_text">Sebuah taman kecil dengan pepohonan. Para penduduk akan menyukainya.</string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Dana</string>
-    <string name="budget_res0">Penduduk ₮ (%1$,d)</string>
-    <string name="budget_res1">Penduduk ₮₮ (%1$,d)</string>
-    <string name="budget_res2">Penduduk ₮₮₮ (%1$,d)</string>
+    <string name="budget_res0">Perumahan ₮ (%1$,d)</string>
+    <string name="budget_res1">Perumahan ₮₮ (%1$,d)</string>
+    <string name="budget_res2">Perumahan ₮₮₮ (%1$,d)</string>
     <string name="budget_com0">Komersial ₮ (%1$,d)</string>
     <string name="budget_com1">Komersial ₮₮ (%1$,d)</string>
     <string name="budget_com2">Komersial ₮₮₮ (%1$,d)</string>
@@ -206,11 +206,11 @@
     <string name="draft_waterfountain01_text">Penduduk akan menyukainya.</string>
     <string name="draft_treepark01_title">Taman pohon</string>
     <string name="draft_treepark01_text">Sebuah taman kecil dengan pepohonan. Pendudukmu akan menyukainya.</string>
-    <string name="buildinginfo_res0">Penduduk ₮</string>
-    <string name="buildinginfo_com0">Komersil ₮</string>
+    <string name="buildinginfo_res0">Perumahan ₮</string>
+    <string name="buildinginfo_com0">Komersial ₮</string>
     <string name="buildinginfo_ind0">Industri ₮</string>
-    <string name="buildinginfo_res1">Penduduk ₮₮</string>
-    <string name="buildinginfo_res2">Penduduk ₮₮₮</string>
+    <string name="buildinginfo_res1">Perumahan ₮₮</string>
+    <string name="buildinginfo_res2">Perumahan ₮₮₮</string>
     <string name="buildinginfo_com1">Komersial ₮₮</string>
     <string name="buildinginfo_com2">Komersial ₮₮₮</string>
     <string name="buildinginfo_ind1">Industri ₮₮</string>
@@ -230,8 +230,8 @@
     <string name="settings_showinfluencepreview">Tampilkan pengaruh bangunan</string>
     <string name="draftselector_titletransport">Transportasi</string>
     <string name="draftselector_titlezone">Zona</string>
-    <string name="draft_zoneresidential_title">Penduduk</string>
-    <string name="draft_zoneresidential_text">Penduduk akan membangun rumah di dalam zona ini.</string>
+    <string name="draft_zoneresidential_title">Perumahan</string>
+    <string name="draft_zoneresidential_text">Para penduduk akan membangun rumah di dalam zona ini.</string>
     <string name="draft_zonecommercial_title">Komersial</string>
     <string name="draft_zonecommercial_text">Bangunan komersil bisa dibangun di dalam zona ini.</string>
     <string name="draft_zoneindustrial_title">Industri</string>
@@ -285,7 +285,7 @@
     <string name="budget_busdepot">Terminal bus</string>
     <string name="ci_budget_overallincome">Total pendapatan</string>
     <string name="ci_budget_overallspending">Total pengeluaran</string>
-    <string name="ci_rci_title">Tuntutan</string>
+    <string name="ci_rci_title">Permintaan</string>
     <string name="ci_rci_res0">Res ₮</string>
     <string name="ci_rci_res1">Res ₮₮</string>
     <string name="ci_rci_res2">Res ₮₮₮</string>
@@ -486,7 +486,7 @@
     <string name="draft_crater1x1_text">Sisa meteor kecil yang jatuh. Kamu harus menghapusnya.</string>
     <string name="settings_disaster_nuke">Ledakan Nuklir</string>
     <string name="disaster_nuke_title">Ledakan Nuklir</string>
-    <string name="disaster_nuke_text">Flashback ke Chernobyl....</string>
+    <string name="disaster_nuke_text">Jadi ingat Chernobyl....</string>
     <string name="disaster_nuke_cmdtext">Kirim perintah</string>
     <string name="budget_loans">Pinjaman</string>
     <string name="ci_loan_loanlist">Pinjaman berjalan(seluruhnya %1$s dalam %2$,d/%3$,d pinjaman):</string>
@@ -500,7 +500,7 @@
     <string name="disaster_tornado_cmdtext">Tiup kotamu!</string>
     <string name="buildinginfo_untouchable">Jangan ganti bangunan</string>
     <string name="draft_zoneresidential_lvl2_title">Perumahan padat</string>
-    <string name="draft_zoneresidential_lvl2_text">Sebuah zona penduduk yang padat.</string>
+    <string name="draft_zoneresidential_lvl2_text">Sebuah zona perumahan yang padat.</string>
     <string name="draft_zonecommercial_lvl2_title">Komersial padat</string>
     <string name="draft_zonecommercial_lvl2_text">Sebuah zona komersial yang padat.</string>
     <string name="draft_zoneindustrial_lvl2_title">Industri padat</string>
@@ -523,7 +523,7 @@
     <string name="settings_preserveedges">Pertahankan pinggiran</string>
     <string name="settings_fancybg">Background Indah</string>
     <string name="ci_not_available">Tidak ada data untuk ditampilkan.</string>
-    <string name="ci_education_title">Edukasi</string>
+    <string name="ci_education_title">Pendidikan</string>
     <string name="ci_health_title">Kesehatan</string>
     <string name="ci_education_schools">Sekolah: %1$,d</string>
     <string name="ci_education_needed">Dibutuhkan: %1$,d</string>
@@ -550,7 +550,7 @@
     <string name="influence_education_low_text">Sekolah memberikan pendidikan rendah.</string>
     <string name="influence_education_high_text">Pendidikan tinggi diberikan oleh sekolah menengah.</string>
     <string name="influence_firedep_text">Pengaruh departemen pemadam kebakaran mengurangi kemungkinan kebakaran.</string>
-    <string name="influence_health_text">Dokter menjaga penduduk agar tetap sehat.</string>
+    <string name="influence_health_text">Dokter menjaga para penduduk agar tetap sehat.</string>
     <string name="influence_noise_text">Tidak ada yang mau hidup di area bising.</string>
     <string name="influence_park_text">Membuat pendudukmu bahagia dan memungkinkan bangunan menjulang lebih tinggi.</string>
     <string name="influence_police_text">Menghindari tindakan kriminal.</string>
@@ -575,7 +575,7 @@
     <string name="draftselector_building_habitants">Penduduk: %1$,d</string>
     <string name="draftselector_building_workers">Pekerja: %1$,d</string>
     <string name="draftselector_building_size">Luas: %1$,dx%2$,d</string>
-    <string name="happiness_education">Edukasi</string>
+    <string name="happiness_education">Pendidikan</string>
     <string name="draft_marker_densitymarker_title">Kepadatan</string>
     <string name="draft_marker_densitymarker_text">Kepadatan bangunan.</string>
     <string name="draft_marker_happinessmarker_title">Kebahagiaan</string>
@@ -632,13 +632,13 @@
     <string name="draft_buoy00_title">Pelampung</string>
     <string name="draft_buoy00_text">Mengarahkan perahu.</string>
     <string name="ci_general_seed">Benih: %1$s</string>
-    <string name="draft_decores00_text">Dekorasi zona residensial,wargamu melakukan aktivitas disni.</string>
+    <string name="draft_decores00_text">Dekorasi zona perumahan, wargamu melakukan aktivitas di sini.</string>
     <string name="draft_decocom00_text">Dekorasi zona komersial.</string>
     <string name="draft_decoind00_text">Dekorasi zona industri.</string>
     <string name="ci_budget_title_nomoney">Keuangan (teoretis)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
-    <string name="draft_nuclearplant00_text">Mengasilkan listrik yang lebih besar dengan fusi nuklir. Butuh suplai air yang besar, jika tidak akan meledak</string>
+    <string name="draft_nuclearplant00_text">Menghasilkan listrik yang lebih besar dengan fusi nuklir. Butuh suplai air yang besar, jika tidak akan meledak</string>
     <string name="draft_gasplant00_title">PLTG</string>
     <string name="draft_gasplant00_text">Lebih murah daripada pembangkit listrik lain. Sedikit polusi.</string>
     <string name="draft_carcinema00_title">Bioskop drive-in</string>
@@ -674,7 +674,7 @@
     <string name="draft_beach00_text">Selamat menikmati harimu di pantai.</string>
     <string name="draft_biergarten00_title">Taman Kafe</string>
     <string name="draft_biergarten00_text">Tempat yang nyaman untuk istirahat.</string>
-    <string name="notify_noreszone">Orang-orang ingin tinggal di kotamu. Buat zona penduduk.</string>
+    <string name="notify_noreszone">Orang-orang ingin tinggal di kotamu. Buat zona perumahan.</string>
     <string name="notify_nocomzone">Buat zona komersial supaya pebisnis bisa membangun di kotamu.</string>
     <string name="notify_noindzone">Industri-industri bisa membangun di kotamu, tetapi kamu harus membuat zona industri dulu untuk mereka.</string>
     <string name="createcity_sizebigbigbig">Sungguh Besar</string>
@@ -714,7 +714,7 @@
     <string name="createcity_cityauthor">Pencipta:</string>
     <string name="about_homepage">Halaman utama</string>
     <string name="oome_title">Tidak cukup memori</string>
-    <string name="oome_text">Maaf, perangkat anda tidak memiliki ruang RAM yang cukup untuk menjalankan TheoTown.</string>
+    <string name="oome_text">Maaf, perangkat Anda tidak memiliki ruang RAM yang cukup untuk menjalankan TheoTown.</string>
     <string name="createcity_trees">Pohon</string>
     <string name="dialog_closecity_text">Apakah kamu mau menyimpan progresmu sebelum keluar?</string>
     <string name="dialog_closecity_title">Tinggalkan kota</string>
@@ -877,13 +877,13 @@
     <string name="ci_budget_doublemoney_text">Gandakan pemasukan untuk %1$,d hari.</string>
     <string name="ci_budget_getmoney_title">Dapatkan %1$s</string>
     <string name="ci_budget_getmoney_text">Tukar %1$s untuk sedikit kompensasi.</string>
-    <string name="notify_badattribute">Kita harus meningkatkan %1$s kebahagiaan supaya %2$s bisa pindah ke kota kita.</string>
+    <string name="notify_badattribute">Kita harus meningkatkan kebahagiaan %1$s supaya %2$s bisa pindah ke kota kita.</string>
     <string name="game_remaining_doubleincome">Gandakan pemasukan untuk %1$,d hari</string>
     <string name="dialog_diamondshop_title">Toko</string>
     <string name="features_notenough">Tidak cukup %1$s</string>
     <string name="dialog_getrank_text">Kamu bisa mendapat tingkat ini dengan segera jika kamu mau.</string>
     <string name="features_buy">Dapatkan sekarang</string>
-    <string name="draft_feature_buildings00_text">Beberapa bangunan penduduk, komersial, dan industri kecil untuk lebih banyak variasi di kotamu. Termasuk gambaran grafis untuk musim dingin.</string>
+    <string name="draft_feature_buildings00_text">Beberapa bangunan perumahan, komersial, dan industri kecil untuk lebih banyak variasi di kotamu. Termasuk gambaran grafis untuk musim dingin.</string>
     <string name="dialog_redeempromo_title">Kamu mendapatkan beberapa berlian</string>
     <string name="dialog_redeempromo_text">Berlian ini kelihatannya seperti kepunyaanmu sekarang.</string>
     <string name="dialog_present_cmdad">Gandakan</string>
@@ -908,7 +908,7 @@
     <string name="task_openworld_title">Wilayah</string>
     <string name="task_openworld_text">Kotamu hanyalah bagian dari sesuatu yang lebih besar. Di sini kamu bisa melihat semua kotamu.</string>
     <string name="task_openrci_title">Permintaan bangunan</string>
-    <string name="task_openrci_text">Dalam TheoTown, kami membedakan permintaan bangunan untuk tipe dan level bangunan yang berbeda. Tipe bangunan berupa penduduk, komersial, dan industri. Terdapat tiga level, yaitu miskin (₮), menengah (₮₮), dan kaya (₮₮₮).</string>
+    <string name="task_openrci_text">Dalam TheoTown, kami membedakan permintaan bangunan untuk tipe dan level bangunan yang berbeda. Tipe bangunan berupa perumahan, komersial, dan industri. Terdapat tiga level, yaitu miskin (₮), menengah (₮₮), dan kaya (₮₮₮).</string>
     <string name="control_gotit">Mengerti</string>
     <string name="task_firstcity_title">Kota baru</string>
     <string name="task_firstcity_text">Selamat datang di kota pertamamu.\n\nCoba kumpulkan 300 penduduk.</string>
@@ -933,7 +933,7 @@
     <string name="draft_townhall02_text">Balai kota besar untuk kota besar. Tanda terima kasih untuk 1 juta unduhan.</string>
     <string name="notify_pollutedwaterpump">Pompa air ini berada di area yang terpolusi. Kita lebih baik memindahkannya ke tempat lain untuk menjaga air tetap bersih.</string>
     <string name="notify_destroyedtiles">Kita lebih baik membuang sampah ini sebelum seseorang mengetahuinya.</string>
-    <string name="notify_loweducationneeded">Sepertinya ini waktunya untuk memberikan edukasi kepada anak-anak kita. Bangun sekolah dasar.</string>
+    <string name="notify_loweducationneeded">Sepertinya ini waktunya untuk memberikan pendidikan kepada anak-anak kita. Bangunlah sebuah sekolah dasar.</string>
     <string name="notify_higheducationneeded">Mari munculkan orang-orang genius dengan membangun sekolah menengah.</string>
     <string name="dialog_ffwd1_text">Memberikan kesempatan kepadamu untuk mempercepat game dengan %1$s.</string>
     <string name="notify_badtraffic">Lalu lintas di jalan ini terlalu padat. Saya sarankan untuk membangun jalan yang lebih banyak atau lebih baik.</string>
@@ -994,7 +994,7 @@
     <string name="notification00_title">BERITA: %1$s punya sangat banyak uang!</string>
     <string name="notification00_text">Wali Kota, kami perlu Anda untuk membelanjakan seluruh uang!</string>
     <string name="roadinfo_bridgetype">Tipe jembatan</string>
-    <string name="draft_feature_buildings01_text">Bangunan penduduk, komersial, dan industri besar sebagai variasi di kota. Meningkatkan standar hidup pendudukmu.</string>
+    <string name="draft_feature_buildings01_text">Bangunan perumahan, komersial, dan industri besar sebagai variasi di kota. Meningkatkan standar hidup pendudukmu.</string>
     <string name="dialog_diamondshop_recommended">Rekomendasi</string>
     <string name="dialog_presentdaily_title">Pengiriman harian</string>
     <string name="dialog_presentdaily_text">Kamu akan mendapatkannya lagi besok.</string>
@@ -1039,12 +1039,12 @@
     <string name="tut_start02">Ketuk layar untuk mengerakkan peta. Kamu bisa memperbesar menggunakan dua jari.</string>
     <string name="tut_start03">Hebat, kayaknya kamu mulai terbiasa dengan kontrolnya. Jadi, mari kita mulai dengan kota pertamamu.</string>
     <string name="tut_build00">Betapa enaknya, beberapa jalan telah dibangun di sini, jadi kita bisa memakainya gratis.</string>
-    <string name="tut_build01">Mari kita mulai membangun kota! Ayo kita nyatakan zona penduduk.</string>
-    <string name="tut_build02">Kelilinginya dengan jalan,agar penduduk yang tidak berada di jalan utama memiliki akses jalan.</string>
+    <string name="tut_build01">Mari kita mulai membangun kota! Ayo kita nyatakan zona perumahan.</string>
+    <string name="tut_build02">Kelilinginya dengan jalan, agar penduduk yang tidak berada di jalan utama memiliki akses jalan.</string>
     <string name="tut_build03">Tunggu dulu, biarkan penduduk membangun rumah mereka di zona yang diberikan.</string>
-    <string name="tut_build030">Oops, Sepertinya pendudukmu memerlukan listrik.</string>
+    <string name="tut_build030">Oops, sepertinya pendudukmu memerlukan listrik.</string>
     <string name="tut_build04">Mari kita bangun sebuah pembangkit listrik tenaga surya.</string>
-    <string name="tut_build05">Hubungkan pembangkit listrik dengan kota,tentu menggunakan kabel.</string>
+    <string name="tut_build05">Hubungkan pembangkit listrik dengan kota, tentu menggunakan kabel.</string>
     <string name="tut_build06">Ketuk panel surya.</string>
     <string name="tut_build07">Sepertinya warga kota kita memerlukan air!</string>
     <string name="tut_build08">Bangun sebuah menara air.</string>
@@ -1052,13 +1052,13 @@
     <string name="tut_build10">Bangun pipa air untuk mengalirkan air ke bangunan kotamu.</string>
     <string name="tut_build11">Kerja bagus.</string>
     <string name="tut_build110">Wali Kota, kita memerlukan lapangan pekerjaan!</string>
-    <string name="tut_build12">Mari melihat gambaran tuntutan alias permintaan.</string>
-    <string name="tut_build13">Di sini kamu bisa melihat permintaan bangunan penduduk, komersial, dan industri. Jika permintaan ada di bawah garis,maka penduduk enggan untuk membangun bangunan zona tersebut. Jika di atas garis,maka penduduk ingin anda membuat zona baru untuk tipe bangunan zona tersebut.</string>
+    <string name="tut_build12">Mari melihat gambaran permintaan.</string>
+    <string name="tut_build13">Di sini kamu bisa melihat permintaan bangunan perumahan, komersial, dan industri. Jika permintaan ada di bawah garis, maka pendudukmu enggan membangun bangunan di zona tersebut. Jika di atas garis, maka pendudukmu menginginkanmu untuk membuat zona baru supaya bisa mendirikan bangunan di zona tersebut.</string>
     <string name="tut_build14">Untuk setiap tipe zona, ada tiga level kekayaan: ₮, ₮₮, dan ₮₮₮ yang sama dengan miskin, menengah, kaya.</string>
     <string name="tut_build15">Orang kaya membayar lebih banyak pajak.</string>
     <string name="tut_build16">Nyatakan zona komersial,agar wargamu dapat memiliki pekerjaan.</string>
     <string name="tut_build17">Bangun zona industri,agar barang dapat diproduksi.</string>
-    <string name="tut_build18">Kalau dirata-rata, kamu perlu jumlah zona komersial dan industri sebanyak zona penduduk.</string>
+    <string name="tut_build18">Kalau dirata-rata, kamu perlu jumlah zona komersial dan industri sebanyak zona perumahan.</string>
     <string name="tut_build19">Kamu mungkin telah menyadari bahwa mudah sekali kehilangan pemandangan kota yang jelas. Maka, saya ingin memperkenalkan: Peta Mini</string>
     <string name="tut_build22">Bagus. Mari kita melihat sulap yang lain.</string>
     <string name="tut_build23">Di sini kamu bisa melihat informasi umum tentang kotamu. Kamu bisa mengganti namanya dengan mengetuk namanya sekarang.</string>
@@ -1068,7 +1068,7 @@
     <string name="tut_build27">Hentikan game sementara.</string>
     <string name="tut_build28">Sekarang kembali lagi ke kecepatan normal...</string>
     <string name="tut_build29">Maaf mengganggu, tapi ada juga yang bukan sulap bukan sihir. Contohnya, uang.</string>
-    <string name="tut_build30">Di sini saya memberikan gambaran singkat tentang uang kita. Kita bisa mendapat uang dengan pajak, jadi menarik lebih banyak penduduk merupakan salah satu kepentingan kita.</string>
+    <string name="tut_build30">Di sini saya akan memberikan gambaran singkat tentang uang kita. Kita bisa mendapat uang dari pajak, jadi menarik lebih banyak penduduk merupakan hal yang penting.</string>
     <string name="tut_build31">Dalam beberapa kasus, kita harus meminjam uang... jangan sampai ini terjadi.</string>
     <string name="tut_build32">Mari bangun beberapa taman. Orang-orang menyukainya.</string>
     <string name="tut_build33">Singkirkan satu.</string>
@@ -1099,7 +1099,7 @@
 
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">Bangun kotamu di game simulasi kota ini.</string>
-    <string name="store_longdesc">Mau membangun kotamu sendiri? Di TheoTown kamu bisa melihat kotamu bertumbuh. Nyatakan zona untuk bangunan penduduk, komersial, atau industri dan bangun jalan untuk menghubungkannya. Ciptakan kota yang lebih menarik dengan membangun taman, sekolah, dan banyak fasilitas lainnya.
+    <string name="store_longdesc">Mau membangun kotamu sendiri? Di TheoTown kamu bisa melihat kotamu bertumbuh. Nyatakan zona untuk bangunan perumahan, komersial, atau industri dan bangun jalan untuk menghubungkannya. Ciptakan kota yang lebih menarik dengan membangun taman, sekolah, dan banyak fasilitas lainnya.
 
 Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direktori TheoTown/maps di perangkatmu, jadi kamu punya akses ke tempatnya.</string>
 
@@ -2045,7 +2045,7 @@ Kon: Kurang tantangan</string>
     <string name="dialog_notenoughmoneyp_text">Kita tidak punya uang untuk membeli ini sekarang: (\n\nJumlah kekurangan sebesar %1$s(</string>
     <string name="game_region">Wilayah %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">Sandbox</string>
-    <string name="gamemode_sandbox_text">Mode ini akan memberimu kesempatan untuk bereksperimen tanpa uang. Pendudukmu masih punya kebutuhan yang kamu harus penuhi.</string>
+    <string name="gamemode_sandbox_text">Mode ini akan memberimu kesempatan untuk bereksperimen tanpa uang. Pendudukmu masih punya kebutuhan yang harus kamu penuhi.</string>
     <string name="dialog_ubermode_title">Mode Uber</string>
     <string name="dialog_ubermode_text">Pakai mode spesial ini untuk membuang segala kerepotan di kotamu:\n-Tanpa kebakaran\n-Tanpa sampah\n-Tanpa penyakit\n-Tanpa kejahatan\n-Tanpa kematian\n-Pendidikan terpenuhi\n-100% popularitas</string>
     <string name="topic_pluginsawesome">Plugin itu keren! Tapi, kami menyarankan untuk mematikan plugin yang tidak terpakai.</string>
@@ -2222,7 +2222,7 @@ Selamat menjelajah toko plugin!</string>
     <string name="dialog_accountdisclaimer_text">Kamu bisa menghubungkan game ke satu atau beberapa akun.\n
 \n
 Dengan menghubungkan game ke akun Forum TheoTown, kamu bisa berpartisipasi di bagian komentar,dan juga kamu dapat menggunakan kembali plugin yang kamu telah beli di akun ini tanpa perlu membelinya lagi di masa depan jika login akun.</string>
-    <string name="ci_rci_help">Permintaan menjelaskan kebutuhan bangunan tertentu. Permintaan terbagi dalam permintaan penduduk, komersial, dan industri. Masing-masing memiliki tiga level kekayaan yang berbeda.</string>
+    <string name="ci_rci_help">Permintaan menjelaskan kebutuhan bangunan tertentu. Permintaan terbagi dalam permintaan perumahan, komersial, dan industri. Masing-masing memiliki tiga level kekayaan yang berbeda.</string>
 
     <string name="draft_destroyed_tree00_title">Pohon terbakar</string>
     <string name="draft_destroyed_tree00_text">Beberapa pohon gosong yang kamu mungkin harus tebang.</string>
@@ -2373,7 +2373,7 @@ Catatan: Kamu tidak dapat bermain pada satu kota yang sama dengan pemain lain un
     <string name="store_cat_parks">Taman, Olahraga, dan Manajemen</string>
     <string name="store_cat_supply">Pasokan (Listrik, Air, Pembuangan Sampah)</string>
     <string name="store_cat_religion">Agama dan Budaya</string>
-    <string name="store_cat_service">Layanan (Polisi, Kesehatan, Edukasi,...)</string>
+    <string name="store_cat_service">Layanan (Polisi, Kesehatan, Pendidikan,...)</string>
     <string name="store_cat_award">Penghargaan dan Spesial</string>
     <string name="store_cat_decoration">Dekorasi</string>
     <string name="store_cat_tool">Peralatan</string>
@@ -2486,7 +2486,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="featureselector_doubledincometime">Penghasilan ganda untuk %1$s</string>
     <string name="draft_marker_powermarker_text">Cakupan listrik. Listrik disalurkan menggunakan kabel.</string>
     <string name="draft_marker_waterpipemarker_title">Air</string>
-    <string name="draft_marker_waterpipemarker_text">Cakupan air. Air disalurkan untuk pendudukmu menggunakan pipa.</string>
+    <string name="draft_marker_waterpipemarker_text">Cakupan air. Air disalurkan kepada pendudukmu menggunakan pipa.</string>
     <string name="stage_files_title">Manajer file</string>
     <string name="stage_files_importhere">Impor ke sini</string>
     <string name="stage_files_currentdir">Folder ini</string>
