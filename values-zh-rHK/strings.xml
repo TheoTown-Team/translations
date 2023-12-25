@@ -50,7 +50,7 @@
     <string name="draftselector_titlewater">水</string>
     <string name="draftselector_titleschool">教育</string>
     <string name="draftselector_titlehealth">健康</string>
-    <string name="draftselector_titlepolice">警察局</string>
+    <string name="draftselector_titlepolice">警署</string>
     <string name="draftselector_titlefiredepartment">消防</string>
     <string name="draftselector_cmdbuild">建造</string>
     <string name="draftselector_price">價格: %s</string>
@@ -150,7 +150,7 @@
     <string name="draft_treepark00_title">林蔭公園</string>
     <string name="draft_treepark00_text">佈滿樹木嘅公園仔，居民們嚟呢度放鬆</string>
     <string name="menu_premium">Premium</string>
-    <string name="ci_budget_title">Financials</string>
+    <string name="ci_budget_title">城市財產</string>
     <string name="budget_res0">居民 ₮ (%1$,d)</string>
     <string name="budget_res1">居民 ₮₮ (%1$,d)</string>
     <string name="budget_res2">居民 ₮₮₮ (%1$,d)</string>
@@ -170,7 +170,7 @@
     <string name="budget_public">公共建築</string>
     <string name="budget_medic">醫療保健</string>
     <string name="ci_budget_overall">總計</string>
-    <string name="ci_budget_income">收入 (per month)</string>
+    <string name="ci_budget_income">收入 (每月)</string>
     <string name="ci_budget_spending">支出（每月）</string>
     <string name="ci_budget_taxes">稅</string>
     <string name="money">%1$,d₮</string>
@@ -490,7 +490,7 @@
     <string name="disaster_nuke_text">在選定地點引爆核武器。</string>
     <string name="disaster_nuke_cmdtext">令蘑菇雲升起吧!</string>
     <string name="budget_loans">貸款</string>
-    <string name="ci_loan_loanlist">所得貸款 (總 %1$s in %2$,d/%3$,d 筆貸款):</string>
+    <string name="ci_loan_loanlist">所得貸款 (總 %1$s 共計%2$,d/%3$,d 筆貸款):</string>
     <string name="ci_loan_remaining_runtime">剩餘時間: %2$,d 月, %1$,d 天</string>
     <string name="ci_loan_paybackcost">歸還金額: %1$s</string>
     <string name="ci_loan_estate">財產: %1$s</string>
@@ -1280,7 +1280,7 @@
     <string name="dialog_waitingtime_title">減少等待時間</string>
     <string name="dialog_waitingtime_text">減少一些等待時間，咩環境呀？還剩\n%1$s </string>
 
-    <string name="topic_rate">用評價嚟撐西奧小鎮吧</string>
+    <string name="topic_rate">用好評嚟撐西奧小鎮吧</string>
     <string name="ci_airport_lane_unassign">取消分配</string>
     <string name="tool_airplanelane_title">點擊一條空跑道</string>
     <string name="draft_feature_starter_pack00_title">入門套餐</string>
@@ -2342,8 +2342,8 @@
     <string name="dialog_removeowner_cmdremove">移除</string>
     <string name="stage_regioncity_lastplayed">上一次游戲時間: %1$s ago</string>
     <string name="ci_loan_get_text2">價值: %1$s
-    \nTerm: %2$,d 月
-    \nMonthly costs: %3$s</string>
+    \n還款期限: %2$,d 月
+    \n每月支出: %3$s</string>
     <string name="settings_uianimations">動畫</string>
     <string name="dialog_configureregion_password">密碼</string>
     <string name="dialog_configureregion_password_desc">你可以在此處設置新密碼。 將其留空可重複使用當前版本。</string>
@@ -2459,7 +2459,7 @@
     <string name="treeplanter_species">物種：</string>
     <string name="treeplanter_density">密度：</string>
     <string name="treeplanter_roughness">粗糙度：</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
+    <string name="treeplanter_brushsize">刷子大小</string>
     <string name="treeplanter_outofcash">资金不足</string>
     <string name="control_about">關於</string>
 
@@ -2528,9 +2528,9 @@
     <string name="draft_tunnel_management00_text_premium">減免修建隧道嘅使費，畀收費站創造更多嘅使費，降低總體城市建設道路嘅使費。</string>
     <string name="stage_account_whytoregister">點解要註冊</string>
     <string name="stage_account_pro_onlinemode">參與在線模式</string>
-    <string name="stage_account_pro_comment">評論插件同城市</string>
-    <string name="stage_account_pro_synchronize">同步您嘅貨幣和購買</string>
-    <string name="stage_account_con_localcities">本地城市仍將存儲喺本地</string>
+    <string name="stage_account_pro_comment">參與插件庫，在線區塊與畫廊嘅評論</string>
+    <string name="stage_account_pro_synchronize">同步您嘅鑽石和購買</string>
+    <string name="stage_account_con_localcities">本地存檔唔會與賬戶同步</string>
 
     <string name="draft_discord_statue02_title"> Discord20k紀念雕像</string>
     <string name="draft_discord_statue02_text">一座新雕像，以慶祝我哋嘅20k成員Discord周年紀念日。 喺呢個周年紀念日，我哋舉行了一次尋寶遊戲，首先由我哋光榮嘅成員KolaKattz完成。</string>
@@ -2586,7 +2586,7 @@
     <string name="dialog_nointernetaccess_cmdgotit">明喇</string>
     <string name="store_modebestrated">最高評價</string>
     <string name="dialog_pluginqualityunsure_title">唔该注意</string>
-    <string name="dialog_pluginqualityunsure_text">你即將下載嘅插件尚未獲得好多下載或評級。因此，它可能並不完全符合你嘅期望</string>
+    <string name="dialog_pluginqualityunsure_text">你即將下載嘅插件尚未獲得好多下載或評級。它可能並不完全符合你嘅期望</string>
     <string name="dialog_pluginqualityunsure_gotit">明嘅</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">唔再彈出</string>
     <string name="store_modecertifiedcreators">認證創作者</string>
@@ -3002,7 +3002,7 @@
     <string name="draft_tree_aspen00_title">山楊</string>
     <string name="draft_tree_aspen00_text">高大嘅橙葉樹，大多生長喺寒冷嘅氣候中。</string>
     <string name="draft_tree_fir00_title">冷杉樹</string>
-    <string name="draft_tree_fir00_text">装饰性常绿针叶树，通常用作圣诞树。</string>
+    <string name="draft_tree_fir00_text">装饰性常绿针叶樹，通常用作圣诞樹。</string>
     <string name="draft_foliage_bushes00_title">灌木叢</string>
     <string name="draft_foliage_bushes00_text">非常適合公園和森林嘅裝飾</string>
     <string name="draft_ancient_temple00_title">古廟</string>
@@ -3019,9 +3019,8 @@
     <string name="draft_boulders00_text">風格各異嘅巨大岩石。</string>
     <string name="draft_highway_sign00_title">高速路標志</string>
     <string name="draft_highway_sign00_text">高速路標志用於引導於指示駕駛員嘅行駛方向，注意事項。</string>
-    <string name="draft_road05_ramp00_title">高速路匝道（單向）</string>
-    <string name="draft_road05_ramp00_text">又稱引道，一般系立交/相鄰輔助道路與高速路鏈接嘅路段\n
-具有銜接作用，輔助和引導車輛進入主路</string>
+    <string name="draft_road05_ramp00_title">高速路匝道</string>
+    <string name="draft_road05_ramp00_text">又稱引道，一般系立交/相鄰輔助道路與高速路鏈接嘅路段\n具有銜接作用，輔助和引導車輛進入主路</string>
 
     <string name="settings_units">計量單位</string>
     <string name="settings_units_auto">自動選擇 (%s)</string>
