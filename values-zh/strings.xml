@@ -210,7 +210,7 @@
     <string name="buildinginfo_happiness_comp">最低满意度项: %1$s - %2$.0f%%</string>
     <string name="buildinginfo_happiness">总体满意度：%1$.0f%%</string>
     <string name="buildinginfo_habitants">居民：%1$,d/%2$,d</string>
-    <string name="buildinginfo_construction">正在建设，进度 %1$.0f%%（剩余 %2$,d 天）</string>
+    <string name="buildinginfo_construction">正在建设，进度 %1$.0f%%(剩余 %2$,d 天)</string>
     <string name="buildinginfo_upgrade">升级</string>
     <string name="buildinginfo_powerusage">使用率：%1$.01f%%</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d升级</string>
@@ -252,9 +252,9 @@
     <string name="busstopinfo_usage">乘客: %2$,d/%3$,d\n可用: %1$.1f%%</string>
     <string name="ci_education_provided">可用位置: %1$,d</string>
     <string name="ci_education_reached">已用位置: %1$,d</string>
-    <string name="ci_energy_consumed">消耗：%1$,.0fkW（%2$,d 建筑物）</string>
+    <string name="ci_energy_consumed">消耗：%1$,.0fkW(%2$,d 建筑物)</string>
     <string name="ci_energy_networks">共 %1$,d 个网络</string>
-    <string name="ci_energy_produced">生产：%1$,.0fkW（%2$,d 建筑物）</string>
+    <string name="ci_energy_produced">生产：%1$,.0fkW(%2$,d 建筑物)</string>
     <string name="ci_energy_single">详细</string>
     <string name="ci_energy_text">不在使用中</string>
     <string name="ci_energy_ratio">负荷率: %1$.1f%%</string>
@@ -265,7 +265,7 @@
     <string name="ci_health_buildings">建筑物: %1$,d</string>
     <string name="ci_general_seed">随机值: %1$s</string>
     <string name="ci_loan_estate">财产: %1$s</string>
-    <string name="topic_android">现在苹果也可以玩了哦（</string>
+    <string name="topic_android">现在苹果也可以玩了哦(</string>
     <string name="shader_default">经典</string>
     <string name="shader_colorful">鲜艳</string>
     <string name="shader_fancy">准确</string>
@@ -705,7 +705,7 @@
     <string name="createcity_cityauthor">市长：</string>
     <string name="control_ok">好的</string>
     <string name="control_cancel">取消</string>
-    <string name="loadcity_author">（%1$s）</string>
+    <string name="loadcity_author">(%1$s)</string>
     <string name="dialog_copycity_title">复制城市</string>
     <string name="dialog_copycity_text">请为你复制的城市取个名字吧</string>
     <string name="dialog_copycity_cmdok">复制</string>
@@ -716,7 +716,7 @@
     <string name="ci_general_authorname">市长：%1$s</string>
     <string name="dialog_renameauthor_text">请输入新的市长</string>
     <string name="dialog_renameauthor_title">重命名市长</string>
-    <string name="game_cityauthor">（%1$s）</string>
+    <string name="game_cityauthor">(%1$s)</string>
     <string name="oome_text">我们很抱歉，但是你的设备上似乎没有足够的空间给西奥小镇了</string>
     <string name="oome_title">内部存储空间不足</string>
     <string name="notify_crime">这里发生了犯罪，你需要建立更多的公安局，或者提高居民的满意度。</string>
@@ -738,7 +738,7 @@
     <string name="draft_alert_swat00_text">只有特种部队才能平息一场暴乱</string>
     <string name="control_continue">继续</string>
     <string name="settings_winter">冬季</string>
-    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！（市长，你是不是动了灾难菜单？）</string>
+    <string name="notify_riot_noreason">这里无缘无故发生了一起暴乱！(市长，你是不是动了灾难菜单？)</string>
     <string name="notify_riot_reason">这里因为 %1$s 而引发了一场暴乱！</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_road04_text">一条美丽的大道，中间种了树</string>
@@ -774,7 +774,7 @@
     <string name="dialog_tosandbox_cmdconvert">确认切换</string>
     <string name="dialog_tosandbox_title">沙盒模式</string>
     <string name="dialog_tosandbox_text">确定切换至沙盒模式？\n这一步不能撤回！</string>
-    <string name="requirement_rank">至少达到 %1$s 等级（%2$,d）</string>
+    <string name="requirement_rank">至少达到 %1$s 等级(%2$,d)</string>
     <string name="ca_bodydisposal_text">葬礼：%1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">垃圾处理：%1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">装饰</string>
@@ -853,7 +853,7 @@
     <string name="control_off">关</string>
     <string name="draft_school03_title">大型高校</string>
     <string name="draft_school03_text">一个更大的高校以容纳更多的大学生。</string>
-    <string name="gamemode_easy_desc">在这个游戏模式中，你会在游戏开始时得到一大笔钱以降低游戏难度。初始资金：100K₮（</string>
+    <string name="gamemode_easy_desc">在这个游戏模式中，你会在游戏开始时得到一大笔钱以降低游戏难度。初始资金：100K₮(</string>
     <string name="gamemode_middle_desc">默认游戏模式。游戏开始时，你会得到一笔金钱，你可以用它来建立你的梦想城市。初始资金：50K₮</string>
     <string name="gamemode_hard_desc">你是西奥小镇的资深经营玩家？那这个游戏模式很适合你。游戏开始时，你只会得到一小笔金钱。这是难度最高的模式。初始资金：10K₮</string>
     <string name="dialog_ffwd_title">快进</string>
@@ -1047,7 +1047,7 @@
     <string name="tut_build110">市长，我们还没有可以买东西的地方!</string>
     <string name="tut_build12">是啊，我们还需要商业区和工业区。让我们先了解一下具体需求。</string>
     <string name="tut_build13">在这里你可以看到居民建筑物，商业建筑物以及工业建筑物的需求。</string>
-    <string name="tut_build14">其中，每个类别有三个富裕等级:₮（贫困）， ₮₮（中产）和₮₮₮（富裕）。</string>
+    <string name="tut_build14">其中，每个类别有三个富裕等级:₮(贫困)， ₮₮(中产)和₮₮₮(富裕)。</string>
     <string name="tut_build15">我们当然也想只要富裕居民，但是我们要慢慢来。就像你看到的，我们现在需要一些₮商业建筑物。</string>
     <string name="tut_build16">建一个商业区？我相信你能做到的。</string>
     <string name="tut_build17">做得好！现在来看，工业区的需求也不低。现在就建一个吧！</string>
@@ -1099,7 +1099,7 @@
     <string name="settings_energysavingplus">超级省电模式</string>
     <string name="topic_designed">人工设计</string>
     <string name="draft_weather_machine00_fog00_title">制雾器</string>
-    <string name="draft_weather_machine00_fog00_text">一个巨型制雾器。可以产生足够的雾，以使整个城市笼罩在浓雾之中（雾</string>
+    <string name="draft_weather_machine00_fog00_text">一个巨型制雾器。可以产生足够的雾，以使整个城市笼罩在浓雾之中(雾</string>
     <string name="dialog_cancelupgrade">取消升级</string>
     <string name="draft_feature_ranger00_title">林务所</string>
     <string name="draft_feature_ranger00_text">如果环境污染太严重，树木必须被重新种植。林务所会自动种植新的树木</string>
@@ -1205,14 +1205,14 @@
     <string name="topic_watching">Lobby 正在看着你。</string>
     <string name="topic_code">现在有更多的 5% 代码!</string>
     <string name="topic_banana">香蕉</string>
-    <string name="topic_finish">让我说完，完这，这这，句，句，讠...（卒）</string>
+    <string name="topic_finish">让我说完，完这，这这，句，句，讠...(卒)</string>
     <string name="topic_threed">"伪 · 3D"</string>
     <string name="topic_work">“可能” 包含辛勤工作的痕迹</string>
     <string name="topic_funfun">西奥小镇可以带来各种乐趣</string>
 
     <string name="settings_lesscars">交通流量</string>
-    <string name="settings_uploadgameplay">上传游戏情节（你的ID: %s）</string>
-    <string name="settings_uploadgameplaymobile">允许游戏情节上传使用移动数据（会消耗很多流量！）</string>
+    <string name="settings_uploadgameplay">上传游戏情节(你的ID: %s)</string>
+    <string name="settings_uploadgameplaymobile">允许游戏情节上传使用移动数据(会消耗很多流量！)</string>
     <string name="createcity_sizebigbigextra">巨大</string>
     <string name="settings_uploadgameplay_quality">游戏情节上传质量</string>
     <string name="settings_uploadgameplay_qlow">低</string>
@@ -1376,7 +1376,7 @@
     <string name="settings_download_static_files">静态文件下载</string>
     <string name="pluginerror_visitforum">去论坛报告</string>
     <string name="dialog_gameplay_title">在西奥直播直播 Theotown</string>
-    <string name="dialog_gameplay_text">通过启用游戏内容上传，你允许我们将你的游戏画面（且不包括任何其他界面，如文本框、悬浮窗等）上传到我们的服务器并允许他人在官网观看。同时间上传的也会有一些调试用数据，用来改善游戏体验。我们不会上传您的任何个人信息。更多信息请参阅免责声明。</string>
+    <string name="dialog_gameplay_text">通过启用游戏内容上传，你允许我们将你的游戏画面(且不包括任何其他界面，如文本框、悬浮窗等)上传到我们的服务器并允许他人在官网观看。同时间上传的也会有一些调试用数据，用来改善游戏体验。我们不会上传您的任何个人信息。更多信息请参阅免责声明。</string>
     <string name="control_enable">允许</string>
     <string name="dialog_gameplay_disclaimer">查看免责声明</string>
     <string name="busgame_newbus">购买 %d 路车</string>
@@ -1564,7 +1564,7 @@
     <string name="draft_onerafflesplace00_title">莱佛士广场</string>
     <string name="draft_onerafflesplace00_text">莱佛士广场是新加坡的一座摩天大楼，建于1986年，高度为280米。</string>
     <string name="draft_willistower00_title">威利斯大厦</string>
-    <string name="draft_willistower00_text">威利斯大厦（又称西尔斯大厦）是位于美国芝加哥的一座摩天大楼。这座塔建于1973年，高442米。</string>
+    <string name="draft_willistower00_text">威利斯大厦(又称西尔斯大厦)是位于美国芝加哥的一座摩天大楼。这座塔建于1973年，高442米。</string>
     <string name="draft_feature_landmarks01_title">地标建筑 II</string>
     <string name="draft_feature_landmarks01_text">包括以下建筑：</string>
 
@@ -1681,7 +1681,7 @@
     <string name="draft_stbasilcathedral00_text">圣瓦西里大教堂是一座位于俄罗斯首都莫斯科的教堂。它竣工于1561年，它的总高度为115米</string>
 
 
-    <string name="draft_toji00_title">东寺（教王护国寺）</string>
+    <string name="draft_toji00_title">东寺(教王护国寺)</string>
     <string name="draft_toji00_text">东寺是一座位于日本京都市的佛寺。它竣工于796年，它的总高度为55米</string>
     <string name="ca_wastedisposal_text2">垃圾运输量: %1$,d/%2$,d 升/天</string>
     <string name="notify_waste_needer00">这栋建筑物没有受到垃圾处理服务</string>
@@ -1724,7 +1724,7 @@
     <string name="draft_taipei101_title">台北 101</string>
     <string name="draft_taipei101_text">台北 101 是位于台湾的超高层摩天大楼。它有510米的高度，直到2010年一直是世界上最高的建筑。它于2004年完工。</string>
     <string name="draft_roaddeco_border00_title">导向柱</string>
-    <string name="draft_roaddeco_border00_text">使车辆不至于偏离道路（尽管这不可能）</string>
+    <string name="draft_roaddeco_border00_text">使车辆不至于偏离道路(尽管这不可能)</string>
     <string name="draft_roaddeco_border01_title">路边石块</string>
     <string name="draft_roaddeco_border01_text">就是路边的装饰石块</string>
     <string name="draft_roaddeco_border02_title">防护栏</string>
@@ -1808,8 +1808,8 @@
 
 
     <string name="draft_church10_title">巴洛克式教堂</string>
-    <string name="draft_church10_text">为您的城市修建这个美丽的教堂兼修道院。\n\n科普：\n巴洛克（Baroque)，是一种代表欧洲文化的典型艺术风格。
-这个词最早来源于葡萄牙语（BARROCO)，意为“不圆的珍珠”，最初特指形状怪异的珍珠。而在意大利语（BAROCCO)中有“奇特，古怪，变形”等解释。\n巴洛克建筑是17～18世纪在意大利文艺复兴建筑基础上发展起来的一种建筑和装饰风格。其特点是外形自由，追求动态，喜好富丽的装饰和雕刻、强烈的色彩，常用穿插的曲面和椭圆形空间。它的风格自由奔放，造型繁复，富于变化，只是有的建筑装饰堆砌过分。</string>
+    <string name="draft_church10_text">为您的城市修建这个美丽的教堂兼修道院。\n\n科普：\n巴洛克(Baroque)，是一种代表欧洲文化的典型艺术风格。
+这个词最早来源于葡萄牙语(BARROCO)，意为“不圆的珍珠”，最初特指形状怪异的珍珠。而在意大利语(BAROCCO)中有“奇特，古怪，变形”等解释。\n巴洛克建筑是17～18世纪在意大利文艺复兴建筑基础上发展起来的一种建筑和装饰风格。其特点是外形自由，追求动态，喜好富丽的装饰和雕刻、强烈的色彩，常用穿插的曲面和椭圆形空间。它的风格自由奔放，造型繁复，富于变化，只是有的建筑装饰堆砌过分。</string>
     <string name="draft_roaddeco_construction00_title">挖掘机</string>
     <string name="draft_roaddeco_construction00_text">等等，我们还在修路...\n微小的不便，换来巨大的好处。\n\n挖掘技术哪家强？中国山东找蓝翔！</string>
 
@@ -1821,7 +1821,7 @@
     <string name="draft_roaddeco_barrier01_title">路障</string>
     <string name="draft_roaddeco_barrier01_text">可以用于堵路。此路不通！建议和挖掘机一起使用。</string>
     <string name="draft_roaddeco_construction01_title">沥青山</string>
-    <string name="draft_roaddeco_construction01_text">修路是一定要有沥青的。好道路也是要好沥青的。\n（当然你修土路别来找我）</string>
+    <string name="draft_roaddeco_construction01_text">修路是一定要有沥青的。好道路也是要好沥青的。\n(当然你修土路别来找我)</string>
 
 
     <string name="notification00_sandbox_title">西奥邮箱：来自%1$s</string>
@@ -1885,7 +1885,7 @@
     <string name="draft_medic03_title">现代化医院</string>
     <string name="draft_medic03_text">一个现代化的医院，可以在更小的空间内照顾更多的病人。</string>
     <string name="draft_gol_dead_title">康威生命游戏</string>
-    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏（英语：Conway\'s Game of Life），又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时（不包含2个）， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
+    <string name="draft_gol_dead_text">创造一个康威生命游戏区块。点击创建的方块以切换其状态。默认状态是死亡。以下是介绍和规则。\n\n简介：康威生命游戏(英语：Conway\'s Game of Life)，又称康威生命棋，是英国数学家约翰·何顿·康威在1970年发明的细胞自动机。\n规则：每个细胞有两种状态-存活或死亡，每个细胞与以自身为中心的周围八格细胞产生互动。\n当前细胞为存活状态时，当周围的存活细胞低于2个时(不包含2个)， 该细胞变成死亡状态。\n当前细胞为存活状态时，当周围有2个或3个存活细胞时， 该细胞保持原样。\n当前细胞为存活状态时，当周围有3个以上的存活细胞时，该细胞变成死亡状态。\n当前细胞为死亡状态时，当周围有3个存活细胞时，该细胞变成存活状态。 \n以上文字来自于维基百科。</string>
     <string name="draft_feature_landmarks04_title">地标包5</string>
     <!-- This one is not included for good reasons: Hackers could just change it -->
     <string name="draft_marker_hackedmarkermarker_title">!!!识别到此版本为破解版，请立即入正!!!</string>
@@ -1912,7 +1912,7 @@
     <string name="draft_feature_landmarks05_title">地标包6</string>
 
 
-    <string name="settings_dedicatedplugintexture">更大的插件纹理空间（需要重启游戏，不一定稳定，但是能装更多的插件）</string>
+    <string name="settings_dedicatedplugintexture">更大的插件纹理空间(需要重启游戏，不一定稳定，但是能装更多的插件)</string>
     <string name="draft_haunted_house00_title">鬼屋</string>
     <string name="draft_haunted_house00_text">看起来很危险的别墅。可能有个傻瓜住在这里。</string>
     <string name="notify_illness">疫情爆发，我们必须立即采取行动。马上派遣医疗队！！！</string>
@@ -1965,7 +1965,7 @@
     <string name="draft_feature_freefastspeed00_title">收购时间加速公司</string>
     <string name="draft_feature_freetunnels00_title">收购隧道公司</string>
     <string name="dialog_storedelete_title">卸载插件</string>
-    <string name="dialog_storedelete_text">你确定要卸载这个插件吗？\n\n本操作虽然不可逆，但是在应用数据消失之前（如换手机导致账号数据丢失），你还能再次下载</string>
+    <string name="dialog_storedelete_text">你确定要卸载这个插件吗？\n\n本操作虽然不可逆，但是在应用数据消失之前(如换手机导致账号数据丢失)，你还能再次下载</string>
     <string name="dialog_storedelete_cmddelete">卸掉它</string>
     <string name="store_modefeatured">精选</string>
     <string name="store_modecategory">类别</string>
@@ -2001,7 +2001,7 @@
 
 
     <string name="store_previouslyinstalled">已删除</string>
-    <string name="spend_diamonds_format">%1$s（持有 %2$s）</string>
+    <string name="spend_diamonds_format">%1$s(持有 %2$s)</string>
     <string name="draft_rails00_title">铁路</string>
     <string name="draft_rails00_text">用来指引你的火车</string>
     <string name="draft_rails00oneway00_title">单向铁路</string>
@@ -2067,8 +2067,8 @@
     <string name="settings_scrolledges">边缘滚动</string>
     <string name="dialog_rate_cmdlater">之后再说</string>
     <string name="region_individualcities">单独城市</string>
-    <string name="draft_redwood_tree00_title">红木树</string>
-    <string name="draft_redwood_tree00_text">典型的一棵加利福尼亚的红木森林的树。</string>
+    <string name="draft_redwood_tree00_title">红衫树</string>
+    <string name="draft_redwood_tree00_text">典型的一棵加利福尼亚的红衫森林的树。</string>
     <string name="buildinginfo_daysbuilt">建于： %1$,d 天之前</string>
     <string name="createcity_terrain">山坡</string>
     <string name="draft_tool_terrain_increase00_title">抬升</string>
@@ -2103,7 +2103,7 @@
     <string name="dialog_ubermode_title">乌托邦模式</string>
     <string name="dialog_ubermode_text">开启这个特殊的模式来免除所有的麻烦！\n-这里将不再有火灾、垃圾、疾病、犯罪、死亡，居民们也会有100%的教育水平并且会对您的政策100%的满意的！</string>
     <string name="topic_pluginsawesome">插件真的很不错——不过你用不到的还是禁用一下吧。</string>
-    <string name="topic_platforms">现在西奥小镇在安卓、iOS以及PC端（Steam）都可以玩啦！</string>
+    <string name="topic_platforms">现在西奥小镇在安卓、iOS以及PC端(Steam)都可以玩啦！</string>
     <string name="topic_pluginspace">插件可用的空间是有限的，请多多留意。</string>
     <string name="topic_rotate">你甚至可以旋转你的城市</string>
     <string name="topic_pineapple">菠萝披萨？</string>
@@ -2176,7 +2176,7 @@
     <string name="store_status_notavailable">此插件暂时不可用</string>
     <string name="dialog_missingplugins_title">缺少插件</string>
     <string name="dialog_missingplugins_text">这个城市安装了一些目前未下载或未启用的插件：</string>
-    <string name="dialog_missingplugins_pluginby">• %1$s （作者：%2$s）</string>
+    <string name="dialog_missingplugins_pluginby">• %1$s (作者：%2$s)</string>
     <string name="dialog_missingplugins_cmdget">获取它们</string>
     <string name="dialog_missingplugins_cmdskip">不装，继续</string>
     <string name="statistics_energyproduced">能源产能</string>
@@ -2265,12 +2265,12 @@
     <string name="weather_lighting">雷雨</string>
     <string name="weather_auto">动态</string>
     <string name="store_local_plugins">本地插件</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s （作者：%2$s）[本地插件]</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s (作者：%2$s)[本地插件]</string>
 
 
     <string name="dialog_storedisclaimer_title">还有更多...</string>
     <string name="dialog_storedisclaimer_text">欢迎来到插件商店！ 在这里，您可以获得世界各地玩家制作的西奥小镇的额外内容。\n\n
-我们建议您在下载插件之前仔细阅读插件说明，以了解插件的功能。\n\n（译者注：插件商店可能因为机器翻译等出现翻译错误，请不要因此到评论区辱骂插件作者。)</string>
+我们建议您在下载插件之前仔细阅读插件说明，以了解插件的功能。\n\n(译者注：插件商店可能因为机器翻译等出现翻译错误，请不要因此到评论区辱骂插件作者。)</string>
     <string name="dialog_accountdisclaimer_title">账号</string>
     <string name="dialog_accountdisclaimer_text">您可以将游戏连接到一个或多个帐户。\n\n
 通过将游戏连接到西奥小镇论坛帐户，您可以参与评论。</string>
@@ -2316,7 +2316,7 @@
     <string name="dialog_regionsearch_cmdsearch">搜索</string>
     <string name="dialog_regioncoininfo_title">区域币？</string>
     <string name="dialog_regioncoininfo_text">为了游戏平衡我们加入了一个新货币：区域币。你可以通过打开游戏并签到来免费得到它们。\n\n这种货币能让我们提供免费的在线服务</string>
-    <string name="settings_sdcardplugins">从内部存储加载插件（文件夹路径是 Android/data/info.flowersoft.theotown.theotown/files/plugins）</string>
+    <string name="settings_sdcardplugins">从内部存储加载插件(文件夹路径是 Android/data/info.flowersoft.theotown.theotown/files/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">现在上传？</string>
     <string name="dialog_uploadregionconfirm_text">上传前请确保你有稳定的网络连接</string>
     <string name="dialog_uploadregionunsuited_title">上传区域</string>
@@ -2527,7 +2527,7 @@
     <string name="toolaction_zoneroad">加入道路</string>
     <string name="settings_fullscreen_resolution">全屏分辨率</string>
     <string name="settings_tool_history">撤回功能</string>
-    <string name="topic_birthday_ja">生日快乐 JustAnyone！（他是一个游戏的管理员）</string>
+    <string name="topic_birthday_ja">生日快乐 JustAnyone！(他是一个游戏的管理员)</string>
 
 
     <string name="ci_neighbor_se">东南</string>
@@ -2576,7 +2576,7 @@
     <string name="stage_files_importherefiles">文件</string>
     <string name="stage_files_importherefolders">文件夹</string>
     <string name="draft_mosque10_title">哈桑二世清真寺</string>
-    <string name="draft_mosque10_text">哈桑二世清真寺是摩洛哥卡萨布兰卡的一座清真寺。 它是非洲最大的清真寺，也是世界第七大清真寺。 它的宣礼塔是世界第二高的宣礼塔，高 210 米（689 英尺）。它于 1993 年竣工，由米歇尔·平索在国王哈桑二世的指导下设计，由来自摩洛哥各地的工匠建造。 尖塔高 60 层，顶部有激光，光线射向麦加。清真寺矗立在海角上，俯瞰大西洋； 信徒可以在海上祈祷，但没有可以望向大海的玻璃地板。 墙壁是手工制作的大理石，屋顶是可伸缩的。这里最多可以聚集 10.5 万名信徒一起祈祷：两万五千人在清真寺大厅内，另外八万人在清真寺外地面。</string>
+    <string name="draft_mosque10_text">哈桑二世清真寺是摩洛哥卡萨布兰卡的一座清真寺。 它是非洲最大的清真寺，也是世界第七大清真寺。 它的宣礼塔是世界第二高的宣礼塔，高 210 米(689 英尺)。它于 1993 年竣工，由米歇尔·平索在国王哈桑二世的指导下设计，由来自摩洛哥各地的工匠建造。 尖塔高 60 层，顶部有激光，光线射向麦加。清真寺矗立在海角上，俯瞰大西洋； 信徒可以在海上祈祷，但没有可以望向大海的玻璃地板。 墙壁是手工制作的大理石，屋顶是可伸缩的。这里最多可以聚集 10.5 万名信徒一起祈祷：两万五千人在清真寺大厅内，另外八万人在清真寺外地面。</string>
     <string name="dialog_filesrestart_title">重启游戏</string>
     <string name="dialog_filesrestart_text">你需要重启游戏来使更改生效。\n\n是否要重启游戏？</string>
     <string name="dialog_filesrestart_cmdrestart">现在重启</string>
@@ -2606,11 +2606,11 @@
     <string name="settings_diagonalroadtool">斜路建设(需要道路支持)</string>
     <string name="settings_smoothzoom">平滑缩放</string>
     <string name="settings_smoothzoom_off">关闭</string>
-    <string name="settings_smoothzoom_nearest">高品质（临近）</string>
-    <string name="settings_smoothzoom_linear">高品质（线性）</string>
-    <string name="settings_smoothzoom_fast">高性能（快速）</string>
+    <string name="settings_smoothzoom_nearest">高品质(临近)</string>
+    <string name="settings_smoothzoom_linear">高品质(线性)</string>
+    <string name="settings_smoothzoom_fast">高性能(快速)</string>
     <string name="settings_regionoriginbackup">选择重置新生成区域里的城市</string>
-    <string name="settings_translateplugins">翻译插件（机器翻译，有翻译错误）</string>
+    <string name="settings_translateplugins">翻译插件(机器翻译，有翻译错误)</string>
     <string name="stage_region_greeter_welcome">欢迎游玩</string>
     <string name="stage_region_greeter_madewith">用心制成</string>
 
@@ -2665,7 +2665,7 @@
     <string name="ci_energy_help">电力彻底改变了这个时代。大多建筑物都需要电力的供应以维持运作，您必须有足够的电力能源，并且让所有建筑都能接入电网的服务！</string>
     <string name="ci_info_help">在这里，您可以查阅这座城市所有的主要信息！</string>
     <string name="ci_education_help"> 教育至关重要，尤其是对改善居民的生活条件和吸引受过教育的工人和投资者来说。 </string>
-    <string name="ci_airport_help">这本质上是利用塔台来调整您机场的各项资源，您可以在地图上选择跑道、购买飞机，并且将飞机分配给跑道。（一条跑道只有一架飞机来飞着实离谱）</string>
+    <string name="ci_airport_help">这本质上是利用塔台来调整您机场的各项资源，您可以在地图上选择跑道、购买飞机，并且将飞机分配给跑道。(一条跑道只有一架飞机来飞着实离谱)</string>
     <string name="ci_water_help">水是生命之源，对于您的居民们来说至关重要，您必须有足够的淡水资源，并通过水管与各个建筑物相连。请确保您的水泵放在受污染的区域之外，否则您的居民会因污染的水源生病。</string>
     <string name="ci_statistics_help">这些图表可以帮助您追踪城市的发展，使用右侧的箭头在不同的图表之间切换。+/-按钮可用于放大和缩小。 </string>
 
@@ -2710,7 +2710,7 @@
     <string name="draft_opera00_text">步入旋律的领域，感受文化的脉搏! \n这座歌剧院孕育了茫茫人海中的新生鉴赏家，谱出和谐快乐</string>
     <string name="draft_opera_park00_title">交响乐公园</string>
     <string name="draft_opera_park00_text">这是歌剧院旁的天堂，大自然与旋律同舞，葱郁的绿色世界放松听众的身心，一首即兴表演引人入胜，文化与自然的有机融合沁人心脾。</string>
-    <string name="stage_comment_plugin_acquirefirst">请先获取此插件（拓展包）</string>
+    <string name="stage_comment_plugin_acquirefirst">请先获取此插件(拓展包)</string>
 
 
     <string name="draft_feature_dsa00_title">DSA</string>
@@ -3010,97 +3010,97 @@
     <string name="draft_space_storyline_ending_04">Farewell, friends!</string>
     <string name="draft_space_storyline_ending_cutscene">The rocket takes off</string>
     <string name="draft_space_storyline_stage_4_06">Oh, you don\'t have any available? Let me do a magic trick...</string>
-    <string name="draft_tollbooth00_passedbycars">Passed by cars: </string>
-    <string name="draft_tollbooth00_chargedmoney">Charged money: </string>
-    <string name="draft_tollbooth00_setup">Here you can setup the amount to charge.</string>
-    <string name="draft_cat_monorail00_title">Monorail</string>
-    <string name="draft_tool_car_follower00_novehicle">No drivable vehicle available.</string>
-    <string name="forum_cmddelete">Delete account</string>
-    <string name="settings_modifymouse">Modify cursor</string>
-    <string name="settings_cursorstyle">Cursor style</string>
-    <string name="settings_cursorstyle_default">Default</string>
-    <string name="settings_cursorstyle_dark">Dark</string>
-    <string name="settings_cursorstyle_blue">Blue</string>
-    <string name="settings_cursorstyle_gold">Gold</string>
-    <string name="shop_restore">Restore previous purchases</string>
-    <string name="shop_restored_dialog_title">Purchases restored</string>
-    <string name="shop_restored_dialog_text">All of your previous purchases have been restored. You may have to restart the game in order to see an effect.</string>
-    <string name="dialog_seeds_title">Built-in Seeds</string>
-    <string name="settings_keys_cmdunassign">Unassign</string>
-    <string name="control_apply">Apply</string>
-    <string name="stage_createcity_biomes">Biomes...</string>
-    <string name="dialog_biomes_title">Biomes</string>
-    <string name="dialog_biomes_cmdselectall">All</string>
-    <string name="dialog_biomes_cmdunselectall">None</string>
-    <string name="settings_ground_blending">Ground blending</string>
-    <string name="draft_biome_aspen_forest00_title">Aspen forest</string>
-    <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
-    <string name="draft_biome_coniferous_forest00_title">Coniferous forest</string>
-    <string name="draft_biome_mixed_forest00_title">Mixed forest</string>
-    <string name="draft_biome_boreal_forest00_title">Boreal forest</string>
-    <string name="draft_biome_redwood_forest00_title">Redwood forest</string>
-    <string name="draft_biome_desert00_title">Desert</string>
-    <string name="draft_biome_snow00_title">Snow</string>
-    <string name="draft_biome_rainforest00_title">Rainforest</string>
-    <string name="draft_biome_coast00_title">Coast</string>
-    <string name="draft_biome_grassland00_title">Grassland</string>
-    <string name="draft_biome_steppe00_title">Steppe</string>
-    <string name="draft_biome_flowerygrassland00_title">Flowery grassland</string>
-    <string name="draft_biome_sakura00_title">Sakura</string>
-    <string name="draft_biome_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_asphalt00_title">Asphalt</string>
-    <string name="draft_ground_asphalt00_text">Perfect surface for cars and other vehicles alike.</string>
-    <string name="draft_ground_concrete00_title">Concrete</string>
-    <string name="draft_ground_concrete00_text">A healthy dose of concreteosis.</string>
-    <string name="draft_ground_sandstone00_title">Sandstone</string>
-    <string name="draft_ground_sandstone00_text">Sunny sandstone block surface.</string>
-    <string name="draft_ground_dirt00_title">Dirt</string>
-    <string name="draft_ground_dirt00_text">Extra dirty base soil.</string>
-    <string name="draft_ground_wildgrass00_title">Wild grass</string>
-    <string name="draft_ground_wildgrass00_text">Sun-dried wild grass. Perfect for vast plains or grasslands.</string>
-    <string name="draft_ground_darkgrass00_title">Dark grass</string>
-    <string name="draft_ground_darkgrass00_text">Shady grass from the deep woods.</string>
-    <string name="draft_ground_rockysand00_title">Rocky sand</string>
-    <string name="draft_ground_rockysand00_text">Coarse sand mixed with small rocks.</string>
-    <string name="draft_ground_forestgrass00_title">Forest grass</string>
-    <string name="draft_ground_forestgrass00_text">Moist, lush grass. Perfect for wild forests.</string>
-    <string name="draft_ground_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_cursedland00_text">We were told IT lives here.</string>
-    <string name="draft_tree_linden00_title">Linden</string>
-    <string name="draft_tree_linden00_text">A deciduous tree species commonly used for ornamental purposes.</string>
-    <string name="draft_tree_aspen00_title">Aspen</string>
-    <string name="draft_tree_aspen00_text">Tall, orange-leaved trees that mostly thrive in colder climates.</string>
-    <string name="draft_tree_fir00_title">Fir</string>
-    <string name="draft_tree_fir00_text">Decorative evergreen conifers that are often used as Christmas trees.</string>
-    <string name="draft_foliage_bushes00_title">Bushes</string>
-    <string name="draft_foliage_bushes00_text">Mixed small bush species. Great for parks and forests alike.</string>
-    <string name="draft_ancient_temple00_title">Ancient temple</string>
-    <string name="draft_ancient_temple00_text">The path forward will not reveal itself to the weak. Venture forth with strength.</string>
-    <string name="tut_plugins00">You will see, we have plenty of contents. Take your time to explore them all. After that, you may be ready to visit our plugin store to unlock thousands of additional contents.</string>
-    <string name="region_unlock_immediately">Unlock instantly</string>
-    <string name="dialog_unlockcity_im_title">Unlock Instant City</string>
-    <string name="dialog_unlockcity_im_text">Ready to dive into the fun? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let\'s build some epic cities together!</string>
-    <string name="draft_dirt_track_00_title">Dirt track</string>
-    <string name="draft_dirt_track_00_text">Compacted dirt road. Cheap, but slow to move on. Great for rural areas.</string>
-    <string name="draft_lookout_tower00_title">Lookout tower</string>
-    <string name="draft_lookout_tower00_text">Look out! A wooden lookout tower that can for example be used to watch out for fires.</string>
-    <string name="draft_boulders00_title">Boulders</string>
-    <string name="draft_boulders00_text">Huge rock formation of assorted shapes.</string>
-    <string name="draft_highway_sign00_title">Highway Sign</string>
-    <string name="draft_highway_sign00_text">Navigate with style using Highway Signs for your city roads.</string>
-    <string name="draft_road05_ramp00_title">Highway ramp (one-way)</string>
-    <string name="draft_road05_ramp00_text">Connect highways with slower roads or create elaborate interections with this one-way road.</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Metric (e.g. km)</string>
-    <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Tall wooden fence</string>
-    <string name="draft_fence_tallwooden00_text">To keep the intruders away.</string>
-    <string name="draft_fence_chainlink00_title">Chainlink fence</string>
-    <string name="draft_fence_chainlink00_text">Tall fence made of metal mesh.</string>
-    <string name="draft_fence_metalrailing00_title">Metal railing</string>
-    <string name="draft_fence_metalrailing00_text">A short, black railing to protect pedestrians.</string>
-    <string name="draft_fence_guardrail00_title">Guardrail</string>
-    <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
+    <string name="draft_tollbooth00_passedbycars">经过车辆数目:</string>
+    <string name="draft_tollbooth00_chargedmoney">收费:</string>
+    <string name="draft_tollbooth00_setup">这里可以设置收费金额</string>
+    <string name="draft_cat_monorail00_title">单轨</string>
+    <string name="draft_tool_car_follower00_novehicle">没有空闲的可驾驶车辆</string>
+    <string name="forum_cmddelete">删除账号</string>
+    <string name="settings_modifymouse">修改鼠标指针</string>
+    <string name="settings_cursorstyle">指针颜色</string>
+    <string name="settings_cursorstyle_default">默认</string>
+    <string name="settings_cursorstyle_dark">深色</string>
+    <string name="settings_cursorstyle_blue">蓝色</string>
+    <string name="settings_cursorstyle_gold">金色</string>
+    <string name="shop_restore">恢复先前的购买项目</string>
+    <string name="shop_restored_dialog_title">已恢复的购买项目</string>
+    <string name="shop_restored_dialog_text">先前购买的所有内容都已经恢复，也许你需要重启游戏来应用修改</string>
+    <string name="dialog_seeds_title">内置地图种子</string>
+    <string name="settings_keys_cmdunassign">取消分配</string>
+    <string name="control_apply">应用</string>
+    <string name="stage_createcity_biomes">生物群系...</string>
+    <string name="dialog_biomes_title">生物群系</string>
+    <string name="dialog_biomes_cmdselectall">全选</string>
+    <string name="dialog_biomes_cmdunselectall">全不选</string>
+    <string name="settings_ground_blending">混合地面(沥青)</string>
+    <string name="draft_biome_aspen_forest00_title">白杨林</string>
+    <string name="draft_biome_deciduous_forest00_title">阔叶林</string>
+    <string name="draft_biome_coniferous_forest00_title">针叶林</string>
+    <string name="draft_biome_mixed_forest00_title">混生林</string>
+    <string name="draft_biome_boreal_forest00_title">寒温带针叶林</string>
+    <string name="draft_biome_redwood_forest00_title">红杉林</string>
+    <string name="draft_biome_desert00_title">沙漠</string>
+    <string name="draft_biome_snow00_title">雪地</string>
+    <string name="draft_biome_rainforest00_title">雨林</string>
+    <string name="draft_biome_coast00_title">海岸沙滩</string>
+    <string name="draft_biome_grassland00_title">草甸</string>
+    <string name="draft_biome_steppe00_title">草原</string>
+    <string name="draft_biome_flowerygrassland00_title">繁花草甸</string>
+    <string name="draft_biome_sakura00_title">樱花林</string>
+    <string name="draft_biome_cursedland00_title">诅咒之地</string>
+    <string name="draft_ground_asphalt00_title">沥青</string>
+    <string name="draft_ground_asphalt00_text">适合车辆和其他交通工具的完美表面</string>
+    <string name="draft_ground_concrete00_title">混凝土</string>
+    <string name="draft_ground_concrete00_text">剂量合适的硬化混凝土</string>
+    <string name="draft_ground_sandstone00_title">砂岩</string>
+    <string name="draft_ground_sandstone00_text">反射着阳光的砂岩</string>
+    <string name="draft_ground_dirt00_title">泥土</string>
+    <string name="draft_ground_dirt00_text">非常脏的土壤</string>
+    <string name="draft_ground_wildgrass00_title">草地</string>
+    <string name="draft_ground_wildgrass00_text">大草原上的草地，有一些草已经被晒干了(悲</string>
+    <string name="draft_ground_darkgrass00_title">葱郁草地</string>
+    <string name="draft_ground_darkgrass00_text">树林深处的绿草成荫</string>
+    <string name="draft_ground_rockysand00_title">砂石地</string>
+    <string name="draft_ground_rockysand00_text">粗沙裹挟着小砾石</string>
+    <string name="draft_ground_forestgrass00_title">森林草地</string>
+    <string name="draft_ground_forestgrass00_text">繁茂的草地，上面可以长成大片森林</string>
+    <string name="draft_ground_cursedland00_title">诅咒之地</string>
+    <string name="draft_ground_cursedland00_text">有人说，IT部门的人就住在这</string>
+    <string name="draft_tree_linden00_title">椴树</string>
+    <string name="draft_tree_linden00_text">经常作为观赏用的落叶乔木</string>
+    <string name="draft_tree_aspen00_title">白杨</string>
+    <string name="draft_tree_aspen00_text">落叶乔木的一种，主要分布在寒冷地区，很高很高，叶子是橙黄色的</string>
+    <string name="draft_tree_fir00_title">冷杉</string>
+    <string name="draft_tree_fir00_text">松科植物，四季常绿，圣诞节里可以装饰成圣诞树</string>
+    <string name="draft_foliage_bushes00_title">灌木丛</string>
+    <string name="draft_foliage_bushes00_text">公园和森林里的小灌木</string>
+    <string name="draft_ancient_temple00_title">古代神殿</string>
+    <string name="draft_ancient_temple00_text">强者才可遇到前进的道路，前进吧！</string>
+    <string name="tut_plugins00">我们这里有很多优质的插件，去逛逛插件商店吧</string>
+    <string name="region_unlock_immediately">立即解锁</string>
+    <string name="dialog_unlockcity_im_title">立即解锁城市</string>
+    <string name="dialog_unlockcity_im_text">立即解锁区域，不需要达到一定人口的目标\n\n无需等待</string>
+    <string name="draft_dirt_track_00_title">土路</string>
+    <string name="draft_dirt_track_00_text">压实的土路，很便宜，但是车开不快，适合农村地区</string>
+    <string name="draft_lookout_tower00_title">瞭望塔</string>
+    <string name="draft_lookout_tower00_text">瞭望森林，便于第一时间发现火情</string>
+    <string name="draft_boulders00_title">巨石</string>
+    <string name="draft_boulders00_text">巨大的岩石，形状各异</string>
+    <string name="draft_highway_sign00_title">高速路牌</string>
+    <string name="draft_highway_sign00_text">指导人们走哪里</string>
+    <string name="draft_road05_ramp00_title">高速闸道(单行道)</string>
+    <string name="draft_road05_ramp00_text">连接高速和其他道路，也可以用于高速之间的连接</string>
+    <string name="settings_units">单位</string>
+    <string name="settings_units_auto">自动(%s)</string>
+    <string name="settings_units_metric">公制单位(km)</string>
+    <string name="settings_units_imperial">英制单位(mi)</string>
+    <string name="draft_fence_tallwooden00_title">比较高的木栅栏</string>
+    <string name="draft_fence_tallwooden00_text">防止入侵者</string>
+    <string name="draft_fence_chainlink00_title">钩花网</string>
+    <string name="draft_fence_chainlink00_text">金属丝制成的栅栏</string>
+    <string name="draft_fence_metalrailing00_title">金属栏杆</string>
+    <string name="draft_fence_metalrailing00_text">用于保护行人的黑色栏杆</string>
+    <string name="draft_fence_guardrail00_title">护栏</string>
+    <string name="draft_fence_guardrail00_text">保护行人的安全</string>
 
 </resources>
