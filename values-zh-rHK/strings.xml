@@ -150,7 +150,7 @@
     <string name="draft_treepark00_title">林蔭公園</string>
     <string name="draft_treepark00_text">佈滿樹木嘅公園仔，居民們嚟呢度放鬆</string>
     <string name="menu_premium">Premium</string>
-    <string name="ci_budget_title">城市財產</string>
+    <string name="ci_budget_title">財產</string>
     <string name="budget_res0">居民 ₮ (%1$,d)</string>
     <string name="budget_res1">居民 ₮₮ (%1$,d)</string>
     <string name="budget_res2">居民 ₮₮₮ (%1$,d)</string>
@@ -170,7 +170,7 @@
     <string name="budget_public">公共建築</string>
     <string name="budget_medic">醫療保健</string>
     <string name="ci_budget_overall">總計</string>
-    <string name="ci_budget_income">收入 (每月)</string>
+    <string name="ci_budget_income">每月收入</string>
     <string name="ci_budget_spending">支出（每月）</string>
     <string name="ci_budget_taxes">稅</string>
     <string name="money">%1$,d₮</string>
@@ -302,7 +302,7 @@
     <string name="draft_footballfield00_text">足球場可以讓你嘅居民更快樂.</string>
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d升級可行</string>
-    <string name="buildinginfo_upgrades">%1$,d/%2$,d Upgrade(s)</string>
+    <string name="buildinginfo_upgrades">%1$,d/%2$,d升級可行</string>
     <string name="buildinginfo_construction">正在建設: %1$.0f%% (%2$,d day(s) remaining)</string>
     <string name="draft_footballstadion00_title">體育場</string>
     <string name="draft_footballstadion00_text">足球場</string>
@@ -541,7 +541,7 @@
     <string name="influence_health_title">醫療保障</string>
     <string name="influence_education_low_title">小學教育</string>
     <string name="influence_education_high_title">高等教育</string>
-    <string name="influence_police_title">警察局</string>
+    <string name="influence_police_title">警署</string>
     <string name="influence_firedep_title">消防隊</string>
     <string name="influence_park_title">公園</string>
     <string name="influence_sport_title">體育</string>
@@ -564,7 +564,7 @@
     <string name="ca_health_text">醫療設施: %1$,d/%2$,d patients</string>
     <string name="gamemode_nomoney">白手起家</string>
     <string name="draft_zoneharbor_title">港口</string>
-    <string name="draft_zoneharbor_text">海岸線工業</string>
+    <string name="draft_zoneharbor_text">兼具口岸功能嘅工業</string>
     <string name="settings_auto_road_for_zones">自動築路工具</string>
     <string name="settings_relaxed_line_tool">簡易線條工具</string>
     <string name="topic_fstapril">愚人節快樂!</string>
@@ -732,7 +732,7 @@
     <string name="roadinfo_title">道路</string>
     <string name="roadinfo_trafficlights_on">開啟信號燈</string>
     <string name="roadinfo_trafficlights_off">關閉信號燈</string>
-    <string name="notify_crime">呢度發生犯罪，你需要建造更多嘅警察局，抑或提高居民嘅滿意度。</string>
+    <string name="notify_crime">呢度發生犯罪，你需要建造更多嘅警署，抑或提高居民嘅滿意度。</string>
     <string name="tutorial_buildbridge_a">為咗令交通更加流暢，我哋需要強化主街，請為此選擇城市道路。</string>
     <string name="tutorial_buildbridge_b">點擊規劃道路嘅起點同終點。 位於水上嘅路線會自動建立橋樑，橋會更貴一些。</string>
     <string name="tutorial_buildbridge_c">好，樹木就到此為止了。</string>
@@ -975,7 +975,7 @@
     <string name="draft_mltry_depot00_text">各種軍事設備都會放置喺呢度。</string>
     <string name="draft_mltry_tankbase00_text">重型軍用車輛嘅倉庫。</string>
     <string name="draft_mltry_rocketlauncher00_text">可用于射擊UFO。 不得用于射擊民用建築或車輛。</string>
-    <string name="draft_mltry_missilesilo00_text">政府想喺你嘅城鎮做一些火箭測試。 由於可能導致災難，因此你可以獲得風險補償。</string>
+    <string name="draft_mltry_missilesilo00_text">政府想喺你嘅城鎮做一些火箭測試。 測試可能導致災難，因此你可以獲得一定嘅風險補償。</string>
     <string name="draft_decosmallmountain00_text">這座小山係這片平坦土地上嘅旅遊景點。</string>
     <string name="draft_feature_mountain00_text">這座小山係這片平坦土地上嘅旅遊景點。</string>
     <string name="dialog_connect_title">連接</string>
@@ -990,7 +990,7 @@
     <string name="ci_neighbor_power">電</string>
     <string name="ci_neighbor_water">水</string>
     <string name="dialog_buy_free">免費</string>
-    <string name="notify_missiledisaster">哎呀。。。 恐怕你上一次嘅火箭試驗引發了一場銀河災難 !</string>
+    <string name="notify_missiledisaster">哎呀。。。 恐怕你上一次嘅火箭試驗引發了一場災難 !</string>
     <string name="notification00_title">: %1$s 我地賺嘅盆滿缽滿</string>
     <string name="notification00_text">市長你好: \n得益於你嘅幫助，我哋賺嘅盆滿缽滿，係時候嚟取回，將錢砸喺工程上!</string>
     <string name="roadinfo_bridgetype">橋接類型</string>
@@ -1079,7 +1079,7 @@
     <string name="tut_build37">有時候，我哋需要不同嘅視野，點擊呢度睇下。</string>
     <string name="tut_present00">我將我知嘅全部都話畀你晒，最後一點：係畀你嘅礼物。</string>
     <string name="tut_present01">你每日都可以得到一份禮物。</string>
-    <string name="tut_end00">如果你想交流吓，可以嚟 www.theotown.com 或在 Discord看看吧。</string>
+    <string name="tut_end00">如果你想交流吓，可以嚟 www.theotown.com 或在 Discord上看看吧。</string>
     <string name="tut_end01">玩嘅開心 :)</string>
 
     <string name="featureselector_time">%1$s 超快速度</string>
@@ -2194,7 +2194,7 @@
     <string name="toolaction_nextbuilding">下個建築</string>
     <string name="toolaction_prevbuilding">上個建築</string>
     <string name="toolaction_abortmovebuilding">中止</string>
-    <string name="toolaction_rocketfire">火災</string>
+    <string name="toolaction_rocketfire">發射</string>
     <string name="toolaction_nextsign">下一個標籤</string>
     <string name="toolaction_prevsign">上一個標籤</string>
     <string name="toolaction_terraindeeper">下降</string>
@@ -2279,7 +2279,7 @@
     <string name="dialog_savingissue_title">保存失敗</string>
     <string name="dialog_savingissue_text">好不幸你嘅城市並不能被保存。 \n提示：% s\n\n請重試。</string>
     <string name="dialog_onlineinfo_title">在線模式</string>
-    <string name="dialog_onlineinfo_text">歡迎來到在線模式，你可以喺呢度同朋友一起建造城市！ 你甚至可以上傳你自己嘅區域嚟同朋友玩！ \n\nó這真是太酷了！ " -我哋嘅Discord管理員說。</string>
+    <string name="dialog_onlineinfo_text">歡迎來到在線模式，你可以喺呢度同朋友一起建造城市！ 你甚至可以上傳你自己嘅區域嚟同朋友玩！ \n\nó這真是太酷了！ " -一名社區管理員嘅話。</string>
     <string name="dialog_outdated_title">舊版本</string>
     <string name="dialog_outdated_text">你使用嘅係一個唔可以同在線模式兼容嘅舊版本。 \n\n請升級你嘅遊戲吧。</string>
     <string name="settings_weather_lightning">閃電</string>
@@ -2532,11 +2532,11 @@
     <string name="stage_account_pro_synchronize">同步您嘅鑽石和購買</string>
     <string name="stage_account_con_localcities">本地存檔唔會與賬戶同步</string>
 
-    <string name="draft_discord_statue02_title"> Discord20k紀念雕像</string>
-    <string name="draft_discord_statue02_text">一座新雕像，以慶祝我哋嘅20k成員Discord周年紀念日。 喺呢個周年紀念日，我哋舉行了一次尋寶遊戲，首先由我哋光榮嘅成員KolaKattz完成。</string>
+    <string name="draft_discord_statue02_title"> Discord紀念雕像</string>
+    <string name="draft_discord_statue02_text">一個新嘅雕塑用以紀念我哋喺Discord上嘅總成員數超過20000人。 喺呢個周年紀念日，我哋舉行了一次尋寶遊戲，我哋嘅成員之一，KolaKattz第一個完成了呢次活動。</string>
     <string name="settings_drawpedestrians">行人</string>
     <string name="draft_pedestrian_road00_title">行人路</string>
-    <string name="draft_pedestrian_road00_text">一條簡單嘅人行道，用于連接行人嘅封閉建築物。</string>
+    <string name="draft_pedestrian_road00_text">為專供行人通行之騎樓、走廊，及劃設供行人行走之地面道路。</string>
     <string name="draft_deco_chr_manger00_title">木馬槽</string>
     <string name="draft_deco_chr_manger00_text">一個超大嘅開放式盒子，馬，牛同其他動物從中搵食。</string>
     <string name="settings_diagonalroadtool">斜路建設（需要道路支持）</string>
@@ -2658,9 +2658,9 @@
     <string name="draft_dsahq_title">DSA總部</string>
     <string name="draft_dsahq_text">DSA所有機構嘅總部</string>
     <string name="draft_dsahqupHW_title">建造ESD</string>
-    <string name="draft_dsahqupHW_text">建成後將派遣緊急小組以解決特異公共安全問題</string>
+    <string name="draft_dsahqupHW_text">建成後將派遣緊急小組（ESD）以解決特異公共安全問題</string>
     <string name="draft_dsahqupAR_title">建造RD</string>
-    <string name="draft_dsahqupAR_text">建成後將攞代研究部門</string>
+    <string name="draft_dsahqupAR_text">建成後將攞代原有嘅研究部門</string>
     <string name="draft_dsahqupMS_title">建造 RMD</string>
     <string name="draft_dsahqupMS_text">建成RMD（资源管理部门）将管理其生成区域中嘅资源</string>
     <string name="draft_dsa_outpost00_title">DSA辦事處</string>
@@ -2713,7 +2713,7 @@
     <string name="draft_prison_upgrade00_title">掃盲方案</string>
     <string name="draft_prison_upgrade00_text">對罪犯進行二次教育以預防再犯罪</string>
     <string name="draft_dsacommand_requirement">需要：DSA總部 </string>
-    <string name="draft_dsaRD_requirement">需要：研究機構 </string>
+    <string name="draft_dsaRD_requirement">需要：建造RD </string>
     <string name="draft_dsaRMD_requirement">需要：建造RMD </string>
     <string name="draft_dsaSR_requirement">需要：先進供畀 </string>
     <string name="draft_dsaCR_requirement">需要：容载设施 </string>
@@ -2774,7 +2774,7 @@
     <string name="draft_dsarocket_upg1_title">火箭測試 </string>
     <string name="draft_dsarocket_upg1_text">將實驗火箭發射至太空，以收集數據並為其他嘅測試做准備。\n供畀: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">生物火箭實驗 </string>
-    <string name="draft_dsarocket_upg2_text">將一枚裝有安卡貓嘅火箭發射到太空，以收集重要信息。\n供畀: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg2_text">將一枚裝有莱卡狗嘅火箭發射到太空，以收集重要信息。\n供畀: ${_dsareadiness}/2500</string>
     <string name="draft_dsarocket_upg3_title">導航測試</string>
     <string name="draft_dsarocket_upg3_text">將載人火箭發射到太空進行導航測試。 \n供畀: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">衛星測試 </string>
@@ -2915,7 +2915,7 @@
     <string name="draft_space_storyline_stage_3_04">嚟吧，試試研究啲遺跡吧！</string>
     <string name="draft_space_storyline_stage_4_00">很好，很好</string>
     <string name="draft_space_storyline_stage_4_01">我哋意識到我需要一些嘢。。。 </string>
-    <string name="draft_space_storyline_stage_4_02">比方講，P能源，一個非常好嘅資源，我哋稍後將使用。</string>
+    <string name="draft_space_storyline_stage_4_02">比方講，P能源，一個非常好嘅資源，我哋稍後將使用佢。</string>
     <string name="draft_space_storyline_stage_4_03">只需喺一些綠色礦石嘅頂部建造一個采礦站。</string>
     <string name="draft_space_storyline_stage_4_04">我哋將收集一些，用以我哋嘅項目。</string>
     <string name="draft_space_storyline_stage_4_05">唔好客氣，依家就去建一座P能源礦站吧！</string>
