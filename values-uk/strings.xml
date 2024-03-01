@@ -24,8 +24,8 @@
     <string name="settings_resolutionlowlow">Дуже низька</string>
     <string name="settings_resolutionlow">Низька</string>
     <string name="settings_resolutionnormal">Нормальна</string>
-    <string name="settings_resolutionbig">Велика</string>
-    <string name="settings_resolutionbigbig">Дуже велика</string>
+    <string name="settings_resolutionbig">Висока</string>
+    <string name="settings_resolutionbigbig">Дуже висока</string>
     <string name="settings_resolution">Роздільна здатність</string>
     <string name="dialog_nocities_title">Міста не знайдено</string>
     <string name="dialog_nocities_text">Неможливо знайти міста</string>
@@ -34,7 +34,7 @@
     <string name="settings_drawcars">Відображати автомобілі</string>
     <string name="settings_drawsmoke">Дим з труб</string>
     <string name="settings_transparencybuildmode">Прозорість у режимі будівлі</string>
-    <string name="settings_buildgrid">Сітка у режимі будівлі</string>
+    <string name="settings_buildgrid">Сітка у режимі будівництва</string>
     <string name="settings_doublecardrawing">Авто з обох сторін дороги</string>
     <string name="settings_drawwatersparkle">Відображення у воді</string>
     <string name="settings_drawmapedges">Показувати межі мапи</string>
@@ -42,14 +42,14 @@
     <string name="loadcity_errordialog_text">Неможливо завантажити місто,файл пошкоджений.\n\nВибач.</string>
     <string name="loadcity_errordialog_cmdcancel">Відміна</string>
     <string name="dialog_screenshot_title">Знімок екрана зроблено</string>
-    <string name="dialog_screenshot_text">Картинка була збережена як %1$s.</string>
+    <string name="dialog_screenshot_text">Знімок екрана було збережено як %1$s.</string>
     <string name="dialog_screenshot_cmdok">Добре, дякую</string>
     <string name="draftselector_titleparks">Парки</string>
     <string name="draftselector_titlepublics">Публічні</string>
     <string name="draftselector_titleenergy">Енергія</string>
     <string name="draftselector_titlewater">Вода</string>
     <string name="draftselector_titleschool">Освіта</string>
-    <string name="draftselector_titlehealth">Здоров`я</string>
+    <string name="draftselector_titlehealth">Здоров\`я</string>
     <string name="draftselector_titlepolice">Поліція</string>
     <string name="draftselector_titlefiredepartment">Відділ боротьби з вогнем.</string>
     <string name="draftselector_cmdbuild">Будувати</string>
@@ -68,8 +68,8 @@
     <string name="dialog_leave_cmdleave">Залишити</string>
     <string name="savewaiting_title">Місто зберігається...</string>
     <string name="loadwaiting_title">Завантаження міста</string>
-    <string name="dialog_invalidcityname_title">Неправильне ім`я</string>
-    <string name="dialog_invalidcityname_text">Потрібне інше ім`я міста.Поле не може бути порожнім.</string>
+    <string name="dialog_invalidcityname_title">Неправильне ім\`я</string>
+    <string name="dialog_invalidcityname_text">Потрібне інше ім\`я міста.Поле не може бути порожнім.</string>
     <string name="dialog_invalidcityname_cmdok">Добре</string>
     <string name="dialog_hugesize_title">Величезна мапа</string>
     <string name="dialog_hugesize_text">Цей розмір експерементальний,він може не працювати на твоєму пристрої.Тобі дійсно потрібен величезний розмір?</string>
@@ -157,8 +157,8 @@
     <string name="budget_com1">Комерційні райони ₮₮ (%1$,d)</string>
     <string name="budget_com2">Комерційні райони ₮₮₮ (%1$,d)</string>
     <string name="budget_ind0">Індустріальні райони ₮ (%1$,d)</string>
-    <string name="budget_ind1">Індустріальні райони ₮₮ (%1$,d)</string>
-    <string name="budget_ind2">Індустріальні райони ₮₮₮ (%1$,d)</string>
+    <string name="budget_ind1">Промислові райони ₮₮ (%1$,d)</string>
+    <string name="budget_ind2">Промислові райони ₮₮₮ (%1$,d)</string>
     <string name="budget_park">Парки</string>
     <string name="budget_education">Освіта</string>
     <string name="budget_firebrigade">Пожежники</string>
@@ -167,7 +167,7 @@
     <string name="budget_energy">Енергія</string>
     <string name="budget_water">Вода</string>
     <string name="budget_public">Публічні будівлі</string>
-    <string name="budget_medic">Медик</string>
+    <string name="budget_medic">Медицина</string>
     <string name="ci_budget_overall">Всього</string>
     <string name="ci_budget_income">Заробіток(в місяць)</string>
     <string name="ci_budget_spending">Затрати(в місяць)</string>
@@ -207,13 +207,13 @@
     <string name="draft_treepark01_text">Невеличкий парк буде радувати тих, хто до нього завітає.</string>
     <string name="buildinginfo_res0">Житловий район₮</string>
     <string name="buildinginfo_com0">Комерційний район  ₮</string>
-    <string name="buildinginfo_ind0">Індустріальний район ₮</string>
+    <string name="buildinginfo_ind0">Промисловий район ₮</string>
     <string name="buildinginfo_res1">Житловий район ₮₮</string>
     <string name="buildinginfo_res2">Житловий район ₮₮₮</string>
     <string name="buildinginfo_com1">Комерційний район ₮₮</string>
     <string name="buildinginfo_com2">Комерційний район ₮₮₮</string>
-    <string name="buildinginfo_ind1">Індустріальний район ₮₮</string>
-    <string name="buildinginfo_ind2">Індустріальний район ₮₮₮</string>
+    <string name="buildinginfo_ind1">Промисловий район ₮₮</string>
+    <string name="buildinginfo_ind2">Промисловий район ₮₮₮</string>
     <string name="buildinginfo_habitants">Мешканці: %1$,d/%2$,d</string>
     <string name="buildinginfo_worker">Робочі %1$,d/%2$,d</string>
     <string name="topic_giveup">Я не здамся без бою...</string>
@@ -291,9 +291,9 @@
     <string name="ci_rci_com0">Ком ₮</string>
     <string name="ci_rci_com1">Ком ₮₮</string>
     <string name="ci_rci_com2">Ком ₮₮₮</string>
-    <string name="ci_rci_ind0">Інд ₮</string>
-    <string name="ci_rci_ind1">Інд ₮₮</string>
-    <string name="ci_rci_ind2">Інд ₮₮₮</string>
+    <string name="ci_rci_ind0">Пром ₮</string>
+    <string name="ci_rci_ind1">Пром ₮₮</string>
+    <string name="ci_rci_ind2">Пром ₮₮₮</string>
     <string name="ci_general_population0">Бідні мешканці (₮): %1$,d</string>
     <string name="ci_general_population1">Середні мешканці (₮₮): %1$,d</string>
     <string name="ci_general_population2">Багаті мешканці (₮₮₮): %1$,d</string>
@@ -312,7 +312,7 @@
     <string name="buildinginfo_upgradenotavail">Недоступно</string>
     <string name="buildinginfo_upgrade">Модернізація(й)</string>
     <string name="draft_pool00_title">Басейн</string>
-    <string name="draft_pool00_text">Міський басейн, де хлорки більше, чим води.</string>
+    <string name="draft_pool00_text">Міський басейн, де хлорки більше, ніж води.</string>
     <string name="draft_pool00_waterslide_title">Маленький аквапарк</string>
     <string name="draft_pool00_waterslide_text">Водні гірки?!</string>
     <string name="blank_text">Тут може бути ваша реклама</string>
@@ -345,7 +345,7 @@
     <string name="notify_fire">Вогонь!Викликай пожежників!Не забувай будувати більше відділень боротьби з вогнем.</string>
     <string name="notify_pollution">У моєї кішки 5 лап!(забруднення)</string>
     <string name="draft_radio00_title">Радіостанція</string>
-    <string name="draft_radio00_text">Мешканцям сподобається радіопрограмма.</string>
+    <string name="draft_radio00_text">Мешканцям сподобається радіопрограма.</string>
     <string name="draftselector_cmdalert">Вперед!</string>
     <string name="draft_alert_police00_title">Поліцію.</string>
     <string name="draft_alert_police00_text">Виклич поліцію,і злови того негідника,що вкрав бутиль самогону!</string>
@@ -392,24 +392,24 @@
     <string name="draft_radio00_sport_text">Відсилає нові та цікаві новини про спорт.Працює як велике футбольне поле.
 \n
 \nТільки одна радіопрограма може працювати одночасно.Старі програми буде забрано.</string>
-    <string name="draft_radio00_fun_title">Веселе Фм</string>
+    <string name="draft_radio00_fun_title">Веселе ФМ</string>
     <string name="draft_radio00_fun_text">Транслює музику і вечірні програми.Працює як ВЕЛИЧЕЗНИЙ парк.
 \n
 \nТільки одна радіопрограма може працювати одночасно.Старі програми буде забрано.</string>
     <string name="draft_radio00_faith_title">Віра ФМ</string>
     <string name="draft_radio00_faith_text">Транслює розмови про віру та присутність на Землі.
 \n
-\nТільки одна радіопрограма може працювати одночасно.Старі програми буде забрано.</string>
+\nТільки одна радіопрограма може працювати одночасно.Старі програми будуть усунені.</string>
     <string name="draft_lighthouse00_title">Маяк</string>
     <string name="draft_lighthouse00_text">Кораблів не видно,але тут стоїть маяк...Дивно.</string>
     <string name="draft_road02_title">Експрес-шлях</string>
-    <string name="draft_road02_text">Найшвидший шлях до двох локацій.</string>
+    <string name="draft_road02_text">Найшвидший шлях до двох туді й назад.</string>
     <string name="budget_road">Дороги</string>
     <string name="topic_birthday_phoenix">З Днем Народження phoenix!</string>
     <string name="topic_birthday_lucasking">З днем народження Lucas!</string>
     <string name="tutorial_title">Посібник(Туторіал)</string>
     <string name="tutorial_welcome">Ласкаво просимо до посібника!</string>
-    <string name="tutorial_minimap">Ти можеш завжди відкрити або сховати міні-карту.</string>
+    <string name="tutorial_minimap">Ти можеш завжди відкрити або сховати мінімапу.</string>
     <string name="tutorial_buildroad_a">Почнемо з дороги.Вибери найпростішу дорогу.</string>
     <string name="tutorial_buildroad_b">Побудуй дорогу на позначених місцях.Щоб побудувати дорогу,вибери початкову точку,потім познач кінцеву.</string>
     <string name="tutorial_buildroad_c">Хороша робота!А тепер закрий вікно дороги.</string>
@@ -432,10 +432,10 @@
     <string name="tutorial_buildcommercial_a">Давай позначимо зону для комерційних районів.</string>
     <string name="tutorial_buildcommercial_b">Виділи зони для них.</string>
     <string name="tutorial_buildcommercial_c">Хороша робота.</string>
-    <string name="tutorial_buildindustrial_a">Тепер індустріальні райони.Тут будуть будуватися заводи.</string>
+    <string name="tutorial_buildindustrial_a">Тепер промислові райони.Тут будуть будуватися заводи.</string>
     <string name="tutorial_buildindustrial_b">Виділи зони для них.</string>
     <string name="tutorial_buildindustrial_c">Хороша робота.Будівлі вже будуються.</string>
-    <string name="tutorial_industrial_keepaway">Тримай індустріальні райони подалі від інших будівель,бо вона створює забруднення і шум.</string>
+    <string name="tutorial_industrial_keepaway">Тримай промислові райони подалі від інших будівель,бо вона створює забруднення і шум.</string>
     <string name="tutorial_rci">Натисни на цю кнопку,щоб побачити вимоги жителів до кожної зони.</string>
     <string name="tutorial_speed_fast">Ти можеш підключитися до Матриці,і контролювати швидкість часу.</string>
     <string name="tutorial_speed_normal">Постав нормальну швидкість.</string>
@@ -452,9 +452,9 @@
     <string name="settings_disaster_fire">Пожежа</string>
     <string name="settings_disaster_meteorite">Метеорит</string>
     <string name="settings_disaster_earthquake">Землетрус</string>
-    <string name="settings_disaster_illness">Хвороба</string>
+    <string name="settings_disaster_illness">Епідемія</string>
     <string name="settings_disaster_flooding">Паводок</string>
-    <string name="settings_disaster_godzilla">Годзила</string>
+    <string name="settings_disaster_godzilla">Ґодзілла</string>
     <string name="settings_disaster_auto">Автоматичні катастрофи</string>
     <string name="notify_firenodp">Вогонь у місті!Викликай пожежників.</string>
     <string name="draft_destroyedtile_title">Сміття</string>
@@ -466,9 +466,9 @@
     <string name="disaster_meteorite_text">Просто 100 тон, що падають на землю.</string>
     <string name="disaster_meteorite_cmdtext">Полетіли!</string>
     <string name="disaster_earthquake_title">Землетрус</string>
-    <string name="disaster_earthquake_text">Том,не тряси столом!</string>
+    <string name="disaster_earthquake_text">Томе,не тряси столом!</string>
     <string name="disaster_earthquake_cmdtext">Зачекай,це ж..</string>
-    <string name="disaster_illness_title">Хвороба</string>
+    <string name="disaster_illness_title">В нас епідемія:0</string>
     <string name="disaster_illness_text">Люди хворіють...</string>
     <string name="disaster_illness_cmdtext">Вірус</string>
     <string name="disaster_flooding_title">Паводок</string>
@@ -492,17 +492,17 @@
     <string name="ci_loan_remaining_runtime">Час: %2$,d місяць(ів), %1$,d день(ів)</string>
     <string name="ci_loan_paybackcost">Виплатити: %1$s</string>
     <string name="ci_loan_estate">Статус: %1$s</string>
-    <string name="topic_support_ads">На рекламу нажав-розробнику повід для життя дав :)</string>
+    <string name="topic_support_ads">На рекламу нажав-розробникові сенс життя надав :)</string>
     <string name="settings_disaster_tornado">Торнадо</string>
     <string name="disaster_tornado_title">Торнадо</string>
     <string name="disaster_tornado_text">Зачекай,ми ж не в Колорадо</string>
     <string name="disaster_tornado_cmdtext">Вітер</string>
     <string name="buildinginfo_untouchable">Недоторканість</string>
     <string name="draft_zoneresidential_lvl2_title"> Елітні будинки</string>
-    <string name="draft_zoneresidential_lvl2_text">Ухти,хмарочос</string>
+    <string name="draft_zoneresidential_lvl2_text">Ого,хмарочос</string>
     <string name="draft_zonecommercial_lvl2_title">Елітна комерція</string>
     <string name="draft_zonecommercial_lvl2_text">Гроші!</string>
-    <string name="draft_zoneindustrial_lvl2_title">Елітна індустрія</string>
+    <string name="draft_zoneindustrial_lvl2_title">Елітна промисловість</string>
     <string name="draft_zoneindustrial_lvl2_text">Цей завод більший за Івано-Франківськ!</string>
     <string name="draft_zonefarm_title">Ферма</string>
     <string name="draft_zonefarm_text">Дешева зона для ферм.Мінімальний розмір 4х4.</string>
@@ -548,13 +548,13 @@
     <string name="influence_culture_text">Наскільки культурне твоє місто.</string>
     <string name="influence_education_low_text">Школи дають дітям початкову освіту.</string>
     <string name="influence_education_high_text">Вищу освіту дають вищі навчальні заклади.</string>
-    <string name="influence_firedep_text">Вплив відділу боротьби з вогнем зменшує ризик виникнення вогню.</string>
+    <string name="influence_firedep_text">Вплив відділу боротьби з вогнем зменшує ризик виникнення пожеж.</string>
     <string name="influence_health_text">Лікарі не дадуть статися епідемії.</string>
     <string name="influence_noise_text">Ніхто не хоче жити у місцевості,де нічого не чути. (шум)</string>
     <string name="influence_park_text">Робить мешканців щасливими і дає змогу будувати елітні будинки.</string>
     <string name="influence_police_text">Пограбувати когось біля поліцейського відділу-погана ідея.</string>
     <string name="influence_pollution_text">Ніхто не хоче жити у забрудненій місцевості. (екологія)</string>
-    <string name="influence_religion_text">Релігія збільшує атрибут твоїх мешканців.</string>
+    <string name="influence_religion_text">Релігія збільшує щастя твоїх мешканців.</string>
     <string name="influence_sport_text">Тримає твоїх жителів у формі.</string>
     <string name="draftselector_cmdShow">Показати</string>
     <string name="ca_education_low_text">Початкова освіта: %1$,d/%2$,d студенти</string>
@@ -562,13 +562,13 @@
     <string name="ca_health_text">Здоров\'я: %1$,d/%2$,d пацієнти</string>
     <string name="gamemode_nomoney">Немає грошей</string>
     <string name="draft_zoneharbor_title">Гавань</string>
-    <string name="draft_zoneharbor_text">Замість грузових авто тепер кораблі!</string>
+    <string name="draft_zoneharbor_text">Замість вантажних авто тепер кораблі!</string>
     <string name="settings_auto_road_for_zones">Будувати дорогу в інструменті зон</string>
     <string name="settings_relaxed_line_tool">Легка лінія</string>
     <string name="topic_fstapril">Брехня всесвітня</string>
     <string name="draftselector_residential">Мешканці</string>
     <string name="draftselector_commercial">Комерція</string>
-    <string name="draftselector_industrial">Індустрія</string>
+    <string name="draftselector_industrial">Промисловість</string>
     <string name="draftselector_building_level">Рівень: %1$,d</string>
     <string name="draftselector_building_zone">Зона: %1$s</string>
     <string name="draftselector_building_habitants">Мешканці: %1$,d</string>
@@ -582,7 +582,7 @@
     <string name="draft_marker_levelmarker_title">Рівень</string>
     <string name="draft_marker_levelmarker_text">Рівень будівлі</string>
     <string name="draft_marker_protectedmarker_title">Захищені будівлі</string>
-    <string name="draft_marker_protectedmarker_text">Показує,які будинки є захищені від знищення.</string>
+    <string name="draft_marker_protectedmarker_text">Показує,які будинки є захищеними від знищення.</string>
     <string name="draft_marker_trafficmarker_title">Трафік</string>
     <string name="draft_marker_trafficmarker_text">Введіть текст</string>
     <string name="draft_mayorvilla00_title">Вілла</string>
@@ -603,7 +603,7 @@
     <string name="draft_filterplant00_text">Очищує воду.</string>
     <string name="topic_fun">Розважайся! :)</string>
     <string name="topic_android">Тільки для Андроїд</string>
-    <string name="topic_tryharder">Трайхард</string>
+    <string name="topic_tryharder">Трайгард</string>
     <string name="topic_nature">Бережи природу!</string>
     <string name="topic_time">Візьми трохи часу</string>
     <string name="topic_big">Зроби щось велике</string>
@@ -612,7 +612,7 @@
     <string name="shader_fancy2">Супер-класний</string>
     <string name="draft_sewerpipe00_title">Злив</string>
     <string name="draft_sewerpipe00_text">Знижує забруднення води,створюючи забруднення навколо себе.</string>
-    <string name="settings_lowresmapscreenshot">Нижча роздільна здатність для знімку екрану</string>
+    <string name="settings_lowresmapscreenshot">Нижча роздільна здатність для знімку екрана</string>
     <string name="draft_marina00_title">Марина</string>
     <string name="draft_marina00_text">Розвага для багатих мешканців.</string>
     <string name="loadcity_version">Версія %1$,d</string>
@@ -623,8 +623,8 @@
     <string name="about_translation">Переклад</string>
     <string name="draft_decocom00_title">Ком. зона</string>
     <string name="draft_decores00_title">Зона мешканців</string>
-    <string name="draft_decoind00_title">Інд. зона</string>
-    <string name="settings_shaderconfig">Кольора</string>
+    <string name="draft_decoind00_title">Пром. зона</string>
+    <string name="settings_shaderconfig">Кольори</string>
     <string name="settings_shadertype_normal">Нормальний</string>
     <string name="settings_shadertype_fancy">Класний</string>
     <string name="settings_shadertype_xfancy">Дуже класний</string>
@@ -637,22 +637,22 @@
     <string name="ci_budget_title_nomoney">Кошти (теоретично)</string>
     <string name="dialog_notification_cmdok">ОК</string>
     <string name="draft_nuclearplant00_title">АЕС</string>
-    <string name="draft_nuclearplant00_text">Дуже потужна.Дуже дорога і потребує БАГАТО води для охолодження.Немає води-є Чорнобиль.</string>
+    <string name="draft_nuclearplant00_text">Дуже потужна і дорога, потребує БАГАТО води для охолодження.Немає води-є Чорнобиль.</string>
     <string name="draft_gasplant00_title">Газова електростанція</string>
     <string name="draft_gasplant00_text">Дешевша за інші.</string>
     <string name="draft_carcinema00_title">Кінотеатр під відкритим небом</string>
     <string name="draft_carcinema00_text">Одна з розваг для мешканців TheoTown.</string>
-    <string name="notify_lowbudget">Немає грошей.Візьми декілька позик,іпотеку і Феррарі в кредит.</string>
+    <string name="notify_lowbudget">Немає грошей.Візьми декілька позик,іпотеку та Феррарі в кредит.</string>
     <string name="settings_rightsidebar">Бічна панель з правої сторони.</string>
     <string name="settings_topstatusbar">Бічна панель зверху</string>
-    <string name="settings_leftminimap">Міні-мапа з лівої сторони</string>
+    <string name="settings_leftminimap">Мінімапа з лівої сторони</string>
     <string name="settings_category_ui">Інтерфейс користувача</string>
     <string name="influence_radioactive_title">Радіоактивність</string>
     <string name="influence_radioactive_text">Ризик для людей і природи.</string>
     <string name="draft_rail00_title">Залізниця</string>
-    <string name="draft_rail00_text">Трохи рейок для пасажирських поїздів.</string>
+    <string name="draft_rail00_text">Трохи рейок для пасажирських потягів.</string>
     <string name="draft_railwaystation00_title">Залізнична станція</string>
-    <string name="draft_railwaystation00_text">Станція для пасажирських поїздів.</string>
+    <string name="draft_railwaystation00_text">Станція для пасажирських потягв.</string>
     <string name="draft_school02_title">Маленька школа</string>
     <string name="draft_school02_text">Маленька школа для сіл і містечок.</string>
     <string name="toolremove_zone_title">Видалити зону</string>
@@ -664,10 +664,10 @@
     <string name="trainstationinfo_usage">Чекають: %2$,d/%3$,d\nВикористання: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Відділ боротьби з вогнем.</string>
     <string name="draft_firedepartment01_text">Проти вогню.</string>
-    <string name="draft_police01_title">Маленький поліцейський відділ</string>
-    <string name="draft_police01_text">Для захисту.</string>
+    <string name="draft_police01_title">Маленький поліцейський відділок</string>
+    <string name="draft_police01_text">Для захисту громадян від криміналу.</string>
     <string name="disaster_riot_title">Бунт</string>
-    <string name="disaster_riot_text">Зупинити його можна тільки дубінками та пістолями.Тобі потрібен Спецназ.</string>
+    <string name="disaster_riot_text">Зупинити його можна тільки кийками та пістолями.Тобі потрібен Спецназ.</string>
     <string name="disaster_riot_cmdtext">1917</string>
     <string name="draft_beach00_title">Пляж</string>
     <string name="draft_beach00_text">Який чудовий день!</string>
@@ -675,13 +675,13 @@
     <string name="draft_biergarten00_text">Хороше місця для відпочинку та вибивання зубів.</string>
     <string name="notify_noreszone">Люди хочуть жити в твоєму місті.Виділи зони для них.</string>
     <string name="notify_nocomzone">Нам потрібні комерційні райони.Виділи зони для них.</string>
-    <string name="notify_noindzone">Індустріальні райони хочуть будуватися в твоєму місті.</string>
+    <string name="notify_noindzone">Промислові райони хочуть будуватися в твоєму місті.</string>
     <string name="createcity_sizebigbigbig">Гігант</string>
     <string name="locale">uk</string>
     <string name="draft_police02_title">Спецназ</string>
     <string name="draft_police02_text">Старі добрі 1930-ті повертаються!</string>
     <string name="settings_blur">Блюр</string>
-    <string name="happiness_supply">Поставка</string>
+    <string name="happiness_supply">Постачання</string>
     <string name="happiness_environment">Навколишнє середовище</string>
     <string name="happiness_freetime">Вільний час</string>
     <string name="notify_noroad">Деякі будівлі відрізані від доріг.Виправ це.</string>
@@ -713,7 +713,7 @@
     <string name="createcity_cityauthor">Автор:</string>
     <string name="about_homepage">Наш вебсайт</string>
     <string name="oome_title">Недостатньо пам\'яті</string>
-    <string name="oome_text">Вибач,але твій гаджет лайно.Недостатньо RАМ  для запуску TheoTown.</string>
+    <string name="oome_text">Вибач,але твій ґаджет лайно.Недостатньо RАМ  для запуску TheoTown.</string>
     <string name="createcity_trees">З деревами</string>
     <string name="dialog_closecity_text">Можливо,варто зберегтись перед виходом?</string>
     <string name="dialog_closecity_title">Залишити місто</string>
@@ -723,12 +723,12 @@
     <string name="dialog_copycity_text">Назви копію.</string>
     <string name="dialog_copycity_cmdok">Копіювати</string>
     <string name="dialog_copycity_cmdcancel">Відміна</string>
-    <string name="waiting_screenshot">Роблю фотографію...</string>
+    <string name="waiting_screenshot">Роблю знімок екрана...</string>
     <string name="waiting_copycity">Копіюю місто</string>
     <string name="app_name_premium">TheoTown Преміум</string>
     <string name="busstopinfo_title">Автобусна зупинка</string>
     <string name="roadinfo_title">Дорога</string>
-    <string name="roadinfo_trafficlights_on">Світлофор ВМК</string>
+    <string name="roadinfo_trafficlights_on">Світлофор УВІМК</string>
     <string name="roadinfo_trafficlights_off">Світлофор ВИМК</string>
     <string name="notify_crime">Число вкрадених телефонів за день-228.Побудуй більше поліцейських відділків.</string>
     <string name="tutorial_buildbridge_a">Давай покращимо головну дорогу.Вибери асфальтовану дорогу.</string>
@@ -746,7 +746,7 @@
     <string name="settings_winter">Зима</string>
     <string name="notify_riot_reason">Тут бунт через %1$s!</string>
     <string name="notify_riot_noreason">Тут бунт через ніщо!</string>
-    <string name="notify_demonstration">Тут демонстрація через %1s! Зроби щось,або 1917 стане реальністю!</string>
+    <string name="notify_demonstration">Тут демонстрація через %1s! Зроби щось,або тікай до Ростова!</string>
     <string name="draft_marker_powermarker_title">Енергія</string>
     <string name="draft_marker_watermarker_title">Вода</string>
     <string name="draft_road04_title">Алея</string>
@@ -777,7 +777,7 @@
     <string name="settings_experimental">Експериментальні</string>
     <string name="about_thanks">Подяка</string>
     <string name="about_community">І інші члени</string>
-    <string name="dialog_tosandbox_title">Sandbox</string>
+    <string name="dialog_tosandbox_title">Пісочниця</string>
     <string name="dialog_tosandbox_text">Перетворити місто в пісочницю?\n\nЦе неможливо зупинити!</string>
     <string name="dialog_tosandbox_cmdconvert">Пісочниця</string>
     <string name="requirement_rank"> %1$s (%2$,d)</string>
@@ -803,7 +803,7 @@
     <string name="rank_available">Тепер доступно:</string>
     <string name="rank_title">Нове звання</string>
     <string name="ci_rank_title">Звання</string>
-    <string name="draft_firedepartment02_heli00_title">Посадочна полоса</string>
+    <string name="draft_firedepartment02_heli00_title">Злітно-посадкова смуга</string>
     <string name="draft_firedepartment02_heli00_text">Гелікоптери будуть приземлятися тут.\n\nЗбільшує радіус дії.</string>
     <string name="features_included">Включено %s</string>
     <string name="features_getit">Купити %s</string>
@@ -811,7 +811,7 @@
     <string name="settings_shader">Шейдер</string>
     <string name="settings_reset_title">Відновити налаштування</string>
     <string name="settings_reset_text">Ти впевнений?</string>
-    <string name="settings_leftsidetraffic">Трафік з лівого боку</string>
+    <string name="settings_leftsidetraffic">Лівосторонній рух автомобілів</string>
     <string name="features_title">Додаткові можливості</string>
     <string name="features_alreadybought">Вже куплено</string>
     <string name="draft_feature_noads00_title">Забрати рекламу</string>
@@ -832,7 +832,7 @@
     <string name="disaster_ufo_text">1947!</string>
     <string name="disaster_ufo_cmdtext">Ціль</string>
     <string name="topic_theons">В нас нова валюта- Теоні₮</string>
-    <string name="topic_wip">Ведуться роботи. Не перегинай палку.</string>
+    <string name="topic_wip">Ведуться роботи. Не перегинай палицю.</string>
     <string name="topic_belong">ТВОЇ МІСТА НАШІ &gt;:D</string>
     <string name="topic_love">Все що тобі потрібно це Івано-Франківськ</string>
     <string name="topic_build">Я зроблю своє місто з хмарочосами і парками</string>
@@ -856,12 +856,12 @@
     <string name="statistics_rails">Рейки</string>
     <string name="statistics_cars">Авто</string>
     <string name="control_auto">Авто</string>
-    <string name="control_on">Вкл</string>
+    <string name="control_on">Увімк</string>
     <string name="control_off">Вимк</string>
-    <string name="draft_school03_title">Великий ВУЗ</string>
+    <string name="draft_school03_title">Великий ВНЗ</string>
     <string name="draft_school03_text">Тепер ще більший радіус.</string>
     <string name="gamemode_easy_desc">У цьому режимі гри ви починаєте з великою кількостю грошей.</string>
-    <string name="gamemode_middle_desc">Режим гри за умовчанням. Ви починаєте з хорошою сумою грошей,тобі буде важче будувати місто твоїх мрій.</string>
+    <string name="gamemode_middle_desc">Режим гри за замовчуванням. Ви починаєте з хорошою сумою грошей,тобі буде важче будувати місто твоїх мрій.</string>
     <string name="gamemode_hard_desc">Ви є професіоналом в TheoTown? Тоді цей режим для вас. Ви починаєте з невеликою сумою грошей(для економічних стратегів).</string>
     <string name="dialog_ffwd_title">Найшвидше прискорення</string>
     <string name="dialog_ffwd_text">Швидка гра за день.</string>
@@ -872,9 +872,9 @@
     <string name="dialog_present_title">Подарунок для вас</string>
     <string name="dialog_present_text">Використовуйте їх мудро.</string>
     <string name="dialog_present_cmdok">Дякую вам!</string>
-    <string name="settings_saveminimap">Збереження зовнішньої мінікарти</string>
-    <string name="ci_budget_doublemoney_title">Подвоэний прибуток</string>
-    <string name="ci_budget_doublemoney_text">Подвоюэ ваш прибуток на %1$,днів.</string>
+    <string name="settings_saveminimap">Збереження зовнішньої мінімапи</string>
+    <string name="ci_budget_doublemoney_title">Подвоєний прибуток</string>
+    <string name="ci_budget_doublemoney_text">Подвоює ваш прибуток на %1$,днів.</string>
     <string name="ci_budget_getmoney_title">Отримати %1$s</string>
     <string name="ci_budget_getmoney_text">Обміняти %1$s за невелику компенсацію.</string>
     <string name="notify_badattribute">Ми повинні покращити %1$s щастя %2$s може переїхати до нашого міста.</string>
@@ -883,7 +883,7 @@
     <string name="features_notenough">Недостатньо %1$s</string>
     <string name="dialog_getrank_text">Ви можете розблокувати це звання негайно, якщо захочете.</string>
     <string name="features_buy">Розблокувати</string>
-    <string name="draft_feature_buildings00_text">евеликі житлові, торгівельні та промислові споруди для більшої різноманітності в місті. Включіть графіку для зимового часу.</string>
+    <string name="draft_feature_buildings00_text">Великі житлові, торгівельні та промислові споруди для більшої різноманітності в місті. Увімкніть графіку для зимового часу.</string>
     <string name="dialog_redeempromo_title">Ви отримали діаманти</string>
     <string name="dialog_redeempromo_text">Схоже, що ці діаманти зараз є вашими.</string>
     <string name="dialog_present_cmdad">Подвоїти це</string>
@@ -903,12 +903,12 @@
     <string name="dialog_resetcity_title">Скинути місто</string>
     <string name="dialog_resetcity_text">Ви хочете скинути це місто на початковий стан? Це не можна скасувати.</string>
     <string name="dialog_resetcity_cmdreset">Скинути</string>
-    <string name="draft_devroad01_title">Національний один шлях</string>
-    <string name="draft_devroad01_text">Один з шляхів будується і оплачується державою.</string>
+    <string name="draft_devroad01_title">Національна дорога з одностороннім рухом</string>
+    <string name="draft_devroad01_text">Дорога з рухом в одному напрямку, збудована і оплачена державою.</string>
     <string name="task_openworld_title">Регіон</string>
     <string name="task_openworld_text">Ваше місто є лише частиною чогось більшого. Тут ви можете побачити всі ваші міста.</string>
     <string name="task_openrci_title">Попит на будівництво</string>
-    <string name="task_openrci_text">У TheoTown ми розрізняємо вимоги до будівництва різних типів будівель та різних рівнів. Типи будівель - житлові, комерційні та промислові. Існує три рівні, поганий (₮), середній (₮₮) та багатий (₮₮₮).</string>
+    <string name="task_openrci_text">У TheoTown ми розрізняємо вимоги до будівництва різних типів будівель та різних рівнів. Типи будівель - житлові, комерційні та промислові. Існує три рівні, бідний (₮), середній (₮₮) та багатий (₮₮₮).</string>
     <string name="control_gotit">Зрозумів</string>
     <string name="task_firstcity_title">Нове місто</string>
     <string name="task_firstcity_text">Ласкаво просимо до вашого першого міста.\n\nСпробуйте отримати 300 мешканців.</string>
@@ -916,8 +916,8 @@
     <string name="task_reachrank_text">Вітаю,ваше місто дісталось до нового рівня.\n\nКожен рівень відкриває нові будівлі, і ви їх будете отримувати винагороду.</string>
     <string name="menu_achievements">Досягнення</string>
     <string name="menu_leaderboards">Таблиця лідерів</string>
-    <string name="menu_screenshot">Зробити фото</string>
-    <string name="menu_mapscreenshot">Зробити фото карти</string>
+    <string name="menu_screenshot">Зробити знімок екрана</string>
+    <string name="menu_mapscreenshot">Зробити знімок мапи</string>
     <string name="menu_save">Зберегти</string>
     <string name="menu_title">Меню</string>
     <string name="region_maxconcurrentunlocks">Неможливо розблокувати більше, ніж %1$,d Карти одночасно.</string>
@@ -929,22 +929,22 @@
     <string name="dialog_renameregion_title">Перейменувати регіон</string>
     <string name="dialog_renameregion_text">Введіть нове ім\'я для регіону:</string>
     <string name="shop_diamonds">%1$s Діаманти для %2$s</string>
-    <string name="draft_townhall02_title">Велика міська зала</string>
-    <string name="draft_townhall02_text">Великий міський зал для великого міста.Дякую вам за 1 М завантажень!</string>
+    <string name="draft_townhall02_title">Велика ратуша</string>
+    <string name="draft_townhall02_text">Ратуша для великого міста, дякуємо вам за 1 мільйон завантажень!</string>
     <string name="notify_pollutedwaterpump">Цей водяний насос стоїть у забрудненій зоні.Думаю краще розмістимо його де-небудь ще, щоб вода була чистою.</string>
     <string name="notify_destroyedtiles">Краще розпорядитися цим сміттям,поки хтось не помітив його.</string>
     <string name="notify_loweducationneeded">Я думаю,що настав час для навчання.Побудуйте початкову школу.</string>
     <string name="notify_higheducationneeded">Середня школа,що тут може бути ще цікавого? :).</string>
-    <string name="dialog_ffwd1_text">Дозволяє використовувати швидшу ігрову швидкість для %1$s.</string>
+    <string name="dialog_ffwd1_text">Дозволяє використовувати більшу ігрову швидкість для %1$s.</string>
     <string name="notify_badtraffic">Там занадто багато руху на дорозі. Я рекомендую побудувати більше доріг,або покращити старі дороги.</string>
     <string name="dialog_wb_title">Раді бачити вас знову =)</string>
     <string name="dialog_wb_text">%1$s було зароблено %2$s поки ви були відсутні.</string>
-    <string name="notify_fullschool">Ця школа повна.Будь ласка,збудуйте більше шкіл.</string>
+    <string name="notify_fullschool">Ця школа переповена.Будь ласка,збудуйте більше шкіл.</string>
     <string name="dialog_notenoughmoney_title">Недостатньо коштів</string>
     <string name="dialog_notenoughmoney_text">Нам не вистачає коштів, щоб купити це.\n\nВи хочете отримати цю суму %1$s негайно?</string>
     <string name="notify_fullhospital">Агов!Там закінчились місця в палатах.Потрібно побудувати ще одну лікарню.</string>
     <string name="dialog_rate_title">Чи вам подобається TheoTown?</string>
-    <string name="dialog_rate_text">Тоді оцініть нас, будь ласка. Це займе декілька секунд.</string>
+    <string name="dialog_rate_text">Тоді оцініть нас, будь ласка. Це займе всього декілька секунд.</string>
     <string name="dialog_rate_cmdok">Мені подобається ця гра</string>
     <string name="dialog_rate_cmdcancel">Мені не подобається ця гра</string>
     <string name="dialog_feedback_title">Дайте нам відгук</string>
@@ -958,18 +958,18 @@
     <string name="draft_decoconstruction00_text">Будівельні декорації.</string>
     <string name="draft_mltry_deco00_title">Військові декорації.</string>
     <string name="draft_mltry_deco00_text">Декорації для вашої військової бази.</string>
-    <string name="shader_smooth">Плавна</string>
+    <string name="shader_smooth">Плавний</string>
     <string name="topic_dumbledore">Дамблдор міг би \n нехай це станеться.</string>
     <string name="draft_mltry_missilesilo00_title">Ракетний силос</string>
-    <string name="draft_feature_military00_text">Створіть свою власну військову базу для захисту свого міста.Включає стихійне(НЛО) лихо.</string>
+    <string name="draft_feature_military00_text">Створіть свою власну військову базу для захисту свого міста.Включає стихійне лихо (НЛО).</string>
     <string name="dialog_smooth_title">Гладка графіка</string>
     <string name="dialog_smooth_text">Наука! Ми знайшли рішення для поліпшення вирішення ігор. Чи хотіли б ви це використати??\n\nЦе можна змінити в налаштуваннях в будь-який час.</string>
-    <string name="budget_military">Війська</string>
+    <string name="budget_military">Військо</string>
     <string name="draftselector_monthlyincome">Місячний дохід: %s</string>
     <string name="draft_decosmallmountain00_title">Мала гора</string>
     <string name="draft_feature_mountain00_title">Мала гора</string>
     <string name="draft_zonemilitary_text">Військові будівлі можуть розміщуватися тільки в військовій зоні.</string>
-    <string name="draft_mltry_road00_text">Дорога, присвячена військовим машинам та аварійним машинам. Ви не можете будувати інші дороги у військовій сфері.</string>
+    <string name="draft_mltry_road00_text">Дорога, призначена для військових машин та машинан служб. Ви не можете будувати інші дороги у військовій зоні.</string>
     <string name="draft_mltry_hq00_text">Штаб-квартира є найважливішою будівлею вашої військової бази.</string>
     <string name="draft_mltry_baracks00_text">Тут живуть військові.</string>
     <string name="draft_mltry_depot00_text">Депо для будь-якого військового запасу.</string>
@@ -992,7 +992,7 @@
     <string name="dialog_buy_free">Безкоштовно</string>
     <string name="notify_missiledisaster">Упс...Я\' боюся що наш останній ракетний тест видав галактичну катастрофу.</string>
     <string name="notification00_title">Новини: %1$s має забагато грошей!</string>
-    <string name="notification00_text">Мер, нам потрібно, щоб ви витратили всі гроші!</string>
+    <string name="notification00_text">Мере, нам потрібно, щоб ви витратили всі гроші!</string>
     <string name="roadinfo_bridgetype">Тип мосту</string>
     <string name="draft_feature_buildings01_text">Великі житлові, комерційні та промислові споруди для більшої різноманітності в місті. Підвищує рівень життя ваших мешканців.</string>
     <string name="dialog_diamondshop_recommended">Рекомендоване</string>
@@ -1008,7 +1008,7 @@
     <string name="dialog_editsign_delete">Видалити</string>
     <string name="draft_sign_tool_title">Мітка</string>
     <string name="draft_sign_tool_text">Створюйте, редагуйте та видаляйте мітки за допомогою цього інструмента.</string>
-    <string name="draft_feature_deco00_title">Plaza Decorations</string>
+    <string name="draft_feature_deco00_title">Декорації для комерції</string>
     <string name="draft_feature_deco00_text">Деякі декорації для вашого комерційного району.</string>
     <string name="draft_feature_slowspeed00_title">Повільна швидкість</string>
     <string name="draft_feature_slowspeed00_text">Режим повільної швидкості, він надає вам більше можливостей керувати певними ситуаціями.</string>
@@ -1030,7 +1030,7 @@
     <string name="draft_firedepartment02_text">Має величезний радіус і багато машин. Якісно запобігає та гасить пожежі.</string>
     <string name="draft_prmgocart00_title">Гоночний трек з гонками</string>
     <string name="draft_prmgocart00_text">Як щодо мотоспорту у вашому місті? Будуть також з\'являтися по місту гоночні машини.</string>
-    <string name="settings_smoothscrolling">Плавна прокрутка</string>
+    <string name="settings_smoothscrolling">Плавне прокручування</string>
     <string name="settings_buildingtoolold">Старий інструмент будівництва</string>
     <string name="settings_roadautojoin">Автоматичний підхід до дорожнього інструменту</string>
 
@@ -1051,15 +1051,15 @@
     <string name="tut_build09">Тут нам також доведеться чекати завершення будівництва. Замість того, щоб чекати, ми можемо придбати його за діаманти.</string>
     <string name="tut_build10">Щоб транспортувати воду до ваших будинків потрібно збудувати труби. (труби не обов\'язково під\'єднувати до кожного будинку,головне щоб будинок не був занадто далеко від труби).</string>
     <string name="tut_build11">Відмінно, у нас зараз є декілька мешканців з електроенергією та водопостачанням. Але почекайте, чогось ще не вистачає...</string>
-    <string name="tut_build110">Мер, у нас немає ні робочих місць, ні місця, щоб купувати речі!</string>
+    <string name="tut_build110">Мере, у нас немає ні робочих місць, ні місця, щоб купувати речі!</string>
     <string name="tut_build12">Гаразд, нам також потрібні комерційні та промислові зони.. Пішли,ознайомимось з оглядом попиту.</string>
-    <string name="tut_build13">Тут ви можете побачити попит на жит. (житлові), ком. (комерційні) та інд. (промислові) будівлі.</string>
+    <string name="tut_build13">Тут ви можете побачити попит на жит. (житлові), ком. (комерційні) та пром. (промислові) будівлі.</string>
     <string name="tut_build14">Для кожного типу (жит,ком або інд)) існує три типи розвитку : ₮, ₮₮ та ₮₮₮, які відповідають бідним, середнім і багатим.</string>
-    <string name="tut_build15">Звичайно, ми хочемо мати тільки багатих мешканців, але ми повинні почати повільно. Як ви можете бачити, нам потрібно ще кілька рекламних роликів.</string>
-    <string name="tut_build16">Створіть декілька комерційних зон.</string>
+    <string name="tut_build15">Звичайно, ми хочемо мати тільки багатих мешканців, але ми повинні почати повільно. Як ви можете бачити, нам потрібно ще кілька комерційних зон.</string>
+    <string name="tut_build16">Створіть декілька нових комерційних зон.</string>
     <string name="tut_build17">Добре зроблено! Згідно з графіком є попит на промислові зони, зараз.Створіть промислові райони недалеко від нашого житлового району.</string>
     <string name="tut_build18">У середньому вам потрібно стільки комерційних та промислових зон, скільки у вас є жителів.</string>
-    <string name="tut_build19">Ви, можливо, помітили що у вашому місті легко загубитись. Тому я хотів би представити вам: Мінікарту</string>
+    <string name="tut_build19">Ви, можливо, помітили що у вашому місті легко загубитись. Тому я хотів би представити вам: Мінімапу</string>
     <string name="tut_build22">Чудово.Подивіться на інші магічні речі.</string>
     <string name="tut_build23">Тут ви можете побачити загальну інформацію про своє місто. Ви можете перейменувати його, натиснувши на поточне ім\'я.</string>
     <string name="tut_build24">Інший корисний інструмент - це такий.</string>
@@ -1067,18 +1067,18 @@
     <string name="tut_build26">Чи круто бути повелителем часу? Спробуйте зробити щось швидше.</string>
     <string name="tut_build27">Тепер призупиніть гру.</string>
     <string name="tut_build28">А тепер повернімося до нормальної швидкості ...</string>
-    <string name="tut_build29">Вибачте що перериває вас, але там також не магічні речі. Гроші, наприклад..</string>
-    <string name="tut_build30">Тут я даю короткий огляд наших грошей. Ми можемо заробляти гроші податками, в нашому інтересі отримати більше мешканців.</string>
+    <string name="tut_build29">Вибачте що перериваю вас, але там також не магічні речі. Гроші, наприклад..</string>
+    <string name="tut_build30">Тут я даю короткий огляд наших грошей. Ми можемо заробляти гроші податками, то в нашому інтересі мати більше мешканців.</string>
     <string name="tut_build31">У деяких випадках ми можемо взяти позику... сподіваюся, що це ніколи не станеться.</string>
     <string name="tut_build32">Я думаю, у нас є достатньо грошей ... на даний момент...Потрібно більше зосередитися на будівництві. Давайте побудуємо кілька парків. Люди люблять парки.</string>
-    <string name="tut_build33">Ууупс,немає де розташувати парка.Знищи одну будівлю щоб збудувати на її місці парк.</string>
-    <string name="tut_build34">Хороша робота, поки що. Тепер я хочу представити вам показник рейтингу. Він показує вам поточний рейтинг вашого міста.</string>
-    <string name="tut_build35">Отриматйте жителів і вирішуйте катастрофи, щоб досягти наступного рангу. Таким чином, ви можете розблокувати більше будівель .</string>
+    <string name="tut_build33">Ууупс,немає де розташувати парк.Знищи одну будівлю щоб збудувати на її місці парк.</string>
+    <string name="tut_build34">Хороша робота, поки що. Тепер я хочу представити вам показник рівнів міста. Він показує вам поточний рівень вашого міста.</string>
+    <string name="tut_build35">Збільшуйте число жителів і вирішуйте проблеми, щоб досягти наступного рівня. Таким чином, ви можете розблокувати більше будівель .</string>
     <string name="tut_build36">Про стихійних лихах вони стаються ... Ви можете отримати доступ до дій сил через цю вкладку, коли це можливо.</string>
     <string name="tut_build37">Щоб зробити все доступним, ви можете скористатися цією вкладкою.</string>
-    <string name="tut_present00">Я розказав вам більшість речей, які я знаю. Але залишається одна важлива річ: є подарунки</string>
-    <string name="tut_present01">Ви будеш отримувати подарунок кожного деня безкоштовно.</string>
-    <string name="tut_end00">Якщо ви шукаєш чудову спільноту, ви знайдете її на www.theotown.com</string>
+    <string name="tut_present00">Я розказав вам більшість речей, які я знаю. Але залишається одна важлива річ: подарунки</string>
+    <string name="tut_present01">Ви будете отримувати подарунок кожного деня безкоштовно.</string>
+    <string name="tut_end00">Якщо ви шукаєте чудову спільноту, ви знайдете її на www.theotown.com</string>
     <string name="tut_end01">А тепер веселіться :)</string>
 
     <string name="featureselector_time">%1$s супер швидкість</string>
@@ -1089,19 +1089,19 @@
     <string name="draft_feature_time02_title">Володарь часу</string>
     <string name="draft_feature_time02_text">Ви найвищий майстер усіх часів. Дає вам велику витривалість для надзвичайно швидкого використання.</string>
 
-    <string name="draft_feature_weather_machine00_title">Контроллер погоди</string>
+    <string name="draft_feature_weather_machine00_title">Контролер погоди</string>
     <string name="draft_feature_weather_machine00_text">Використовує деякі надсекретні технології для контролю погоди.</string>
-    <string name="draft_weather_machine00_title">Контроллер погоди</string>
+    <string name="draft_weather_machine00_title">Контролер погоди</string>
     <string name="draft_weather_machine00_text">Використовує кілька секретних технологій! Ви можете використовувати його для управління погодою.</string>
 
     <string name="draft_mltry_fence01_title">Військовий паркан</string>
     <string name="draft_mltry_fence01_text">Військовий паркан для декоративних цілей.</string>
 
     <string name="store_title">TheoTown</string>
-    <string name="store_shortdesc">Побудуйте своє власне місто в цій симуляторній грі.</string>
-    <string name="store_longdesc">Ви хочете побудувати своє власне місто? У TheoTown ви можете спостерігати за зростанням свого міста. Оголосіть зони для житлових, комерційних або промислових будівель та спорудження дороги, щоб їх з\'єднати. Зробіть своє місто більш привабливим, створивши парки, школи та багато інших об\'єктів..
+    <string name="store_shortdesc">Побудуйте своє власне місто в цій грі-симуляторі.</string>
+    <string name="store_longdesc">Ви хочете побудувати своє власне місто? У TheoTown ви можете спостерігати за зростанням свого міста. Виділіть зони для житлових, комерційних або промислових будівель та споруджуйте дороги, щоб їх з\'єднати. Зробіть своє місто більш привабливим, створивши парки, школи та багато інших об\'єктів..
 
-Якщо ви надасте доступ TheoTown на зовнішню пам\'ять, це допоможе зберегти міста в каталозі TheoTown /maps на вашому пристрої, щоб мати доступ до них.</string>
+Якщо ви надасте TheoTown доступ до зовнішньої пам\'яті, це допоможе зберегти міста в каталозі TheoTown /maps на вашому пристрої, щоб мати доступ до них.</string>
 
     <string name="settings_sound_weather">Погода</string>
 
@@ -1121,11 +1121,11 @@
     <string name="draft_tool_car_follower00_title">Слідувати за машиною</string>
     <string name="draft_tool_car_follower00_text">Просто слідкує за випадковим автомобілем.</string>
     <string name="draft_mltry_bunker00_title">Бункер</string>
-    <string name="draft_mltry_bunker00_text">Мешканці почуваються в безпеці біля бункерів. Вони\' принаймні вогнестійкість.</string>
+    <string name="draft_mltry_bunker00_text">Мешканці почуваються в безпеці біля бункерів. Вони\' принаймні вогнестійкі.</string>
     <string name="draft_zoneairport_title">Аеродром</string>
     <string name="draft_zoneairport_text">Побудуйте свій аеропорт в зоні аеродрому.</string>
-    <string name="draft_decoletters00_title">Листи</string>
-    <string name="draft_decoletters00_text">Просто кілька листів надати %1$s особистим дотиком.</string>
+    <string name="draft_decoletters00_title">Літери</string>
+    <string name="draft_decoletters00_text">Просто кілька літер нададуть %1$s особливу атмосферу.</string>
     <string name="draft_feature_letters00_title">Оздоблення букв</string>
     <string name="draft_feature_letters00_text">Деякі букви, які можуть бути використані для декоративних цілей.</string>
 
@@ -1203,15 +1203,15 @@
     <string name="airport_airplane_rename">Перейменувати</string>
     <string name="airport_lane_show">Показати</string>
     <string name="airport_lane_assign">Призначити</string>
-    <string name="airport_lane_assign_airplane">Добавити</string>
+    <string name="airport_lane_assign_airplane">Додати літак</string>
     <string name="airport_lane_add">Додати рядок</string>
     <string name="airport_airplanes">Літаки</string>
-    <string name="airport_virtual_lane">Не призначено ще</string>
-    <string name="airport_lane_no_airplane">Жодного проекту не встановлено</string>
+    <string name="airport_virtual_lane">Смугу ще не призначено</string>
+    <string name="airport_lane_no_airplane">Жодного літака не додано</string>
     <string name="topic_lightside">Приїжджайте на світло, у нас є морозиво</string>
     <string name="topic_handmade">Кожен піксель виконаний вручну</string>
     <string name="topic_lunch">Побудуй від сюди до обіду</string>
-    <string name="topic_watching">Лобі спостерігає за тобою</string>
+    <string name="topic_watching">Lobby спостерігає за тобою</string>
     <string name="topic_code">Тепер на 5% більше коду!</string>
     <string name="topic_banana">Банан</string>
     <string name="topic_finish">Давайте закінчимо цей день</string>
@@ -1222,24 +1222,24 @@
     <string name="settings_lesscars">Звук трафіку</string>
     <string name="settings_uploadgameplay">Завантажити гру (ваш id: %s)</string>
     <string name="settings_uploadgameplaymobile">Дозволити завантажувати контент без Wi-Fi ? (може стягувати кошти з вашого рахунку!)</string>
-    <string name="createcity_sizebigbigextra">Колосально</string>
+    <string name="createcity_sizebigbigextra">Колосальний</string>
     <string name="settings_uploadgameplay_quality">Завантажити якість</string>
-    <string name="settings_uploadgameplay_qlow">Погано</string>
-    <string name="settings_uploadgameplay_qmedium">Середні</string>
-    <string name="settings_uploadgameplay_qhigh">Високі</string>
+    <string name="settings_uploadgameplay_qlow">Низька</string>
+    <string name="settings_uploadgameplay_qmedium">Середня</string>
+    <string name="settings_uploadgameplay_qhigh">Висока</string>
     <string name="dialog_addairplane_title">Додати літак</string>
     <string name="draftselector_airplane_buy">Купити</string>
     <string name="dialog_airplanes_title">Ваші літаки</string>
     <string name="dialog_airplanes_cmdadd">Додати</string>
     <string name="dialog_airplanes_usethis">Використовуйте цей</string>
     <string name="dialog_airplanes_selected">Струм</string>
-    <string name="dialog_airplanes_inuse">В вживанні</string>
+    <string name="dialog_airplanes_inuse">Вже використовується</string>
     <string name="dialog_renameairplane_title">Перейменувати літак</string>
     <string name="dialog_renameairplane_text">Введіть нове ім\'я для вашого літака:</string>
     <string name="draft_airplane00_title">T340</string>
     <string name="draft_airplane00_text">Довгий літак від TheoAir.</string>
     <string name="draft_prm_airplane00_title">T340 Золотий</string>
-    <string name="draft_prm_airplane00_text">Золотий варіант довгострокового літака з TheoAir.</string>
+    <string name="draft_prm_airplane00_text">Золотий варіант довгострокового літака від TheoAir.</string>
     <string name="draftselector_airplane_passenger">Пасажири: %1$,d</string>
     <string name="draft_ap_deco00_title">Декорації аеропорту</string>
     <string name="draft_ap_deco00_text">Зробіть свій аеропорт більш реалістичним з цими декораціями.</string>
@@ -1258,12 +1258,12 @@
     <string name="dialog_renamelane_title">Перейменування смуги</string>
     <string name="dialog_renamelane_text">Введіть нове ім\'я для своєї смуги:</string>
     <string name="dialog_redeemcode_title">Активувати код</string>
-    <string name="dialog_redeemcode_text">Введіть тут код викупу, щоб викупити його:</string>
-    <string name="dialog_redeemcode_cmdredeem">Викупити</string>
+    <string name="dialog_redeemcode_text">Введіть тут промокод, щоб активувати його:</string>
+    <string name="dialog_redeemcode_cmdredeem">Активувати</string>
     <string name="dialog_redeemsuccess_title">Успіх</string>
     <string name="dialog_redeemsuccess_text">Вітаємо, ви отримали діамантів% 1 $ s :)</string>
     <string name="dialog_redeemfailure_title">Невдача</string>
-    <string name="dialog_redeemfialire_text">Введений код викупу не дійсний або ви не правиль його ввели. Будь-ласка, перевірте чи правильно ви ввели цей код.</string>
+    <string name="dialog_redeemfialire_text">Введений промокод не дійсний або ви не правиль його ввели. Будь-ласка, перевірте чи правильно ви ввели цей код.</string>
     <string name="shop_redeemcode">Активувати код</string>
     <string name="draft_ap_tower00_title">Вежа</string>
     <string name="draft_ap_tower00_text">Для роботи аеропорту потрібна щонайменше одна вежа.</string>
@@ -1290,24 +1290,24 @@
     <string name="fb_login_text">Увійдіть, щоб ми могли синхронізувати ваш профіль.</string>
     <string name="fb_login_cancel">Відміна</string>
     <string name="toast_seed_copy">Скопійовано насіння в буфер обміну</string>
-    <string name="toast_recordingid_copy">Копіював ідентифікатор запису в буфер обміну</string>
+    <string name="toast_recordingid_copy">Скопійовано ідентифікатор запису в буфер обміну</string>
     <string name="draft_ap_road00_title">Транспортна дорога</string>
     <string name="draft_ap_road00_text">Використовуйте цю дорогу, щоб з\'єднати ворота зі злітно-посадковими смугами.</string>
     <string name="requirement_upgrade">Потрібно оновити %1$s</string>
-    <string name="requirement_upgrade_invert">Не вдається поєднати %1$s</string>
+    <string name="requirement_upgrade_invert">Не вдається оновити %1$s</string>
     <string name="draft_deco_chr_present00_title">Подарунок</string>
     <string name="draft_deco_chr_present00_text">Тільки подарунок.</string>
     <string name="settings_touch_rotate">Поворот на дотик</string>
     <string name="disaster_green_slime_title">Зелена слизь</string>
     <string name="disaster_green_slime_text">Слизь,яка повільно "з\'їдає" ваше місто.</string>
     <string name="disaster_green_slime_cmdtext">Слизь!</string>
-    <string name="disaster_pink_slime_title">Розова Слизь</string>
+    <string name="disaster_pink_slime_title">Рожева Слизь</string>
     <string name="disaster_pink_slime_text">Слизь,яка повільно "з\'їдає" ваше місто.</string>
     <string name="disaster_pink_slime_cmdtext">Слизь!</string>
-    <string name="draft_hydroplant00_title">Річкова електростанція</string>
+    <string name="draft_hydroplant00_title">Гідроелектростанція</string>
     <string name="draft_hydroplant00_text">ГЕС, яка може бути використана для виробництва електроенергії з використанням потужності річок. Не генерує забруднення.</string>
     <string name="draft_feature_slime00_title">Слизнева катастрофа</string>
-    <string name="draft_feature_slime00_text">КАТАСТРОФА!Слизь з\'їдає ваше місто.Звичайно,тільки якщо ти хочеш це зробити.</string>
+    <string name="draft_feature_slime00_text">КАТАСТРОФА!Слизь з\'їсть ваше місто.Звичайно,тільки якщо ви захочете це зробити.</string>
 
     <string name="settings_terrainshading">Ландшафтне затінення</string>
     <string name="draft_deco_chr_tree00_title">Новорічне дерево</string>
@@ -1315,10 +1315,10 @@
     <string name="draft_jardinehouse00_title">Jardine House</string>
     <string name="draft_jardinehouse00_text">Jardine House - офісна вежа, розташована в Гонконгу. Має 52 поверхи і має висоту 179 м. був завершений у 1972 році.</string>
     <string name="draft_bankofchina00_title">Банк Китаю</string>
-    <string name="draft_bankofchina00_text">Банк Китаю в Гонконгу має штаб-квартиру для Банку Китаю Гонконг. Він має 70 поверхів, висотою 367 м і був закінчений у 1990 році.</string>
+    <string name="draft_bankofchina00_text">Банк Китаю в Гонконгу це штаб-квартира Банку Китаю в місті Гонконг. Він має 70 поверхів, висотою 367 м і був закінчений у 1990 році.</string>
     <string name="settings_road_zone_width">Ширина між зональними дорогами</string>
     <string name="settings_road_zone_height">Висота між зональними дорогами</string>
-    <string name="draft_feature_christmas_pack00_title">Різдвяні особливі</string>
+    <string name="draft_feature_christmas_pack00_title">Різдвяна пропозиція</string>
     <string name="draft_feature_christmas_pack00_text">Обмежена пропозиція містить:</string>
     <string name="draft_feature_christmas00_title">Різдвяна пора!</string>
     <string name="draft_feature_christmas00_text">Різноманітні прикраси на Різдво :)</string>
@@ -1328,7 +1328,7 @@
     <string name="draft_internationalcommercecentre00_title">ICC</string>
     <string name="draft_internationalcommercecentre00_text">Міжнародний торговельний центр у Гонконгу - це 108-поверховий комерційний хмарочос.Найвища будівля в Гонконгу з висотою 484 м. був завершений у 2010 році.</string>
     <string name="settings_autosave_interval">Інтервал автозбереження</string>
-    <string name="settings_autosave_interval_off">Виключено</string>
+    <string name="settings_autosave_interval_off">Вимкнено</string>
     <string name="settings_autosave_interval_minutes">%1$d хв.</string>
 
     <string name="draft_syl_spawner00_title">Факел</string>
@@ -1355,13 +1355,13 @@
     <string name="draft_syl_spawner03_title">Палаючі зірки</string>
     <string name="draft_syl_spawner03_text">червоний та жовтий вибух у поєднанні з білим вицвітанням.</string>
     <string name="draft_syl_spawner04_title">Кольорові зірки</string>
-    <string name="draft_syl_spawner04_text">Червоний вибух із жовтим висиханням..</string>
+    <string name="draft_syl_spawner04_text">Червоний вибух із жовтим вицвітанням..</string>
     <string name="draft_syl_spawner05_title">Borr</string>
     <string name="draft_syl_spawner05_text">Червоний вибух із прохолодним ефектом світла.</string>
     <string name="draft_syl_spawner06_title">Блискуча верба</string>
-    <string name="draft_syl_spawner06_text">Гарний вибух із змішаними кольорами і зникає.</string>
+    <string name="draft_syl_spawner06_text">Гарний вибух із змішаними кольорами і ефектом зникнення.</string>
     <string name="draft_syl_spawner07_title">Сльози з небес</string>
-    <string name="draft_syl_spawner07_text">Три білі вибухи разом з червоним вицвітають.</string>
+    <string name="draft_syl_spawner07_text">Три білі вибухи разом з червоним вицвітанням.</string>
     <string name="draft_syl_spawner08_title">Шипучі вуха</string>
     <string name="draft_syl_spawner08_text">Великі ракети вистрілили в повітря.</string>
     <string name="draft_syl_spawner09_title">Верба</string>
@@ -1369,7 +1369,7 @@
     <string name="draft_deco_chr_present_helipad00_title">єКласно!!</string>
     <string name="draft_deco_chr_present_helipad00_text">Ваш перший власний гелікоптер. На жаль, це не такn\' слухати вас.</string>
     <string name="draft_ufo_crater00_title">Дивна річ</string>
-    <string name="draft_ufo_crater00_text">Схоже, що щось застряло в землі.Краще  видаліть його.</string>
+    <string name="draft_ufo_crater00_text">Схоже, що щось застрягло в землі.Краще  видаліть його.</string>
     <string name="draft_destroyedtileradioactive00_title">Брухт</string>
     <string name="draft_destroyedtileradioactive00_text">Радіоактивна зруйнована структура. Ви повинні видалити її.</string>
     <string name="settings_disaster_ufo">НЛО</string>
@@ -1379,13 +1379,13 @@
     <string name="notify_disaster_earthquake">О, зараз, там землетрус!</string>
     <string name="notify_disaster_flooding">Місто під водою!</string>
     <string name="notify_disaster_meteorite">Скеля падає з неба</string>
-    <string name="notify_disaster_nuke">У нас є ядерний вибух прямо тут!</string>
-    <string name="notify_disaster_tornado">Це більше, ніж вітряний тут!</string>
+    <string name="notify_disaster_nuke">У нас ядерний вибух прямо тут!</string>
+    <string name="notify_disaster_tornado">Це більше, ніж сильний вітер!</string>
     <string name="notify_disaster_ufo">Чужі атакують!</string>
     <string name="settings_download_static_files">Завантажити статистику files</string>
     <string name="pluginerror_visitforum">Звіт на форумі</string>
-    <string name="dialog_gameplay_title">Завантажити геймплей</string>
-    <string name="dialog_gameplay_text">Увімкнувши завантаження геймплея, ви дозволяєте нам завантажувати свій геймплей на наші сервери. Для отримання додаткової інформації дивіться розділ про відмову.</string>
+    <string name="dialog_gameplay_title">Завантажити ґеймплей</string>
+    <string name="dialog_gameplay_text">Увімкнувши завантаження ґеймплея, ви дозволяєте нам завантажувати свій ґеймплей на наші сервери. Для отримання додаткової інформації дивіться розділ про відмову.</string>
     <string name="control_enable">Увімкнути</string>
     <string name="dialog_gameplay_disclaimer">Показати відмову від відповідальності</string>
     <string name="busgame_newbus">Додати %d. Автобус</string>
@@ -1400,9 +1400,9 @@
     <string name="busgame_upgrade_title">Рівень %d</string>
     <string name="busgame_unlock">Розблокувати</string>
     <string name="draft_small_church00_title">Маленька церква</string>
-    <string name="draft_small_church00_text">Віра для ваших громадян.</string>
+    <string name="draft_small_church00_text">Місце віри для ваших громадян.</string>
     <string name="draft_small_mosque00_title">Маленька мечеть</string>
-    <string name="draft_small_mosque00_text">Віра для ваших громадян.</string>
+    <string name="draft_small_mosque00_text">Місце віри для ваших громадян.</string>
 
 
     <string name="minigame_reachlevel">Досягти звання %d</string>
@@ -1414,7 +1414,7 @@
     <string name="dialog_dbuilding_text">Ви хочете розмістити цю будівлю тут? Ми негайно закінчимо будівлю для вас.</string>
     <string name="dialog_performance_title">Продуктивність</string>
     <string name="draft_brandenburgertor00_title">Бранденбурзькі ворота</string>
-    <string name="draft_brandenburgertor00_text">Бранденбурзькі ворота - німецький пам\'ятник, побудований у XVIII столітті. Вони розташовані у Берліні.</string>
+    <string name="draft_brandenburgertor00_text">Бранденбурзькі ворота - німецькиа пам\'ятка, побудована у XVIII столітті. Вони розташовані у Берліні.</string>
 
 
     <string name="control_accept">Прийняти</string>
@@ -1427,17 +1427,17 @@
     <string name="draft_arcdetriomphe00_text">Тріумфальна арка в Парижі.</string>
     <string name="featureselector_shortbuildtime">Короткий час будівництва для %1$s</string>
     <string name="game_remaining_shortbuildtime">Короткий час будівництва для %s</string>
-    <string name="shop_open_features">Витрачайте алмази</string>
+    <string name="shop_open_features">Витрачайте lsfvfynи</string>
     <string name="draft_feature_shortbuildingtime00_title">Короткий час будівництва</string>
     <string name="draft_feature_shortbuildingtime00_text">Різке скорочення часу будівництва для всіх будівель.</string>
     <string name="dialog_shortbuildtime_title">Прискорення будівництва</string>
     <string name="dialog_shortbuildtime_text">Перегляньте коротке відео, щоб зменшити час будівництва %s.</string>
 
 
-    <string name="settings_saveonappswitch">Зберегти на комутаторі програми</string>
-    <string name="settings_saveforscreenshot">Зберегти скріншот</string>
+    <string name="settings_saveonappswitch">Зберегти програми на комутаторі</string>
+    <string name="settings_saveforscreenshot">Зберегти скриншот</string>
     <string name="draft_eiffeltower00_title">Ейфелева Вежа</string>
-    <string name="draft_eiffeltower00_text">Ейфелева вежа в Парижі - найвизначніша пам\'ятка Франції. Вежа 324 метра заввишки,вона була закінчена в 1889 році.</string>
+    <string name="draft_eiffeltower00_text">Ейфелева вежа в Парижі - найвизначніша пам\'ятка Франції. Це вежа 324 метра заввишки, що була закінчена в 1889 році.</string>
     <string name="dialog_wb_text02">Ви хочете забрати гроші які були зароблені у %1$s за вашої відсутності?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Взяти</string>
     <string name="dialog_wb_cmdforfeit">Відмовитися</string>
@@ -1445,21 +1445,21 @@
     <string name="dialog_diamondtool_text">Чи ми це будуємо?</string>
     <string name="draft_feature_valentinesday00_title">З Днем Святого Валентина!</string>
     <string name="draft_feature_valentinesday00_text">Розблокувати ці будівлі назавжди</string>
-    <string name="tool_removetunnel_title">Видалений тунель</string>
+    <string name="tool_removetunnel_title">Видалити тунель</string>
     <string name="tool_removetunnel_text">Давайте видалимо кілька тунелів.</string>
 
 
-    <string name="dialog_halftunnelprice_title">Половина тунельної ціни</string>
-    <string name="dialog_halftunnelprice_text">Хочете зберегти алмази? Цей приріст знижує тунельну ціну на 50 %% за %s.</string>
-    <string name="game_remaining_halftunnelprice">Ціна на півтора тонни %s</string>
-    <string name="shop_diamonds_sole">Алмазів</string>
+    <string name="dialog_halftunnelprice_title">Половина ціни тунелю</string>
+    <string name="dialog_halftunnelprice_text">Хочете зберегти діамантии? Цей приріст знижує тунельну ціну на 50 %% за %s.</string>
+    <string name="game_remaining_halftunnelprice">Решта ціни тунелю %s</string>
+    <string name="shop_diamonds_sole">Діамантівів</string>
     <string name="dialog_diamondshop_bestvalue">Найкраща ціна</string>
-    <string name="draft_draft_edl_title">Дошкільна освіта</string>
-    <string name="draft_draft_edl_text">Дошкільна освіта</string>
-    <string name="draft_draft_edh_title">Висока освіта</string>
-    <string name="draft_draft_edh_text">Висока освіта</string>
+    <string name="draft_draft_edl_title">Початкова освіта</string>
+    <string name="draft_draft_edl_text">Початкова освіта</string>
+    <string name="draft_draft_edh_title">Вища освіта</string>
+    <string name="draft_draft_edh_text">Вища освіта</string>
     <string name="draft_draft_crm_title">Злочинність</string>
-    <string name="draft_draft_crm_text">Показник для злочинності.</string>
+    <string name="draft_draft_crm_text">Показник злочинності.</string>
     <string name="draft_draft_fire_title">Пожежна небезпека</string>
     <string name="draft_draft_fire_text">Індикатор пожежної небезпеки.</string>
     <string name="draft_draft_wp_title">Забруднення води</string>
@@ -1475,11 +1475,11 @@
     <string name="draft_draft_hlth_title">Здоров\'я</string>
     <string name="draft_draft_hlth_text">Показник здоров\'я мешканців.</string>
     <string name="draft_draft_hedu_title">Забезпечення освітою</string>
-    <string name="draft_draft_hedu_text">Індикатор забезпечення освіти.</string>
+    <string name="draft_draft_hedu_text">Індикатор забезпечення освітою.</string>
     <string name="draft_draft_hlvl_title">Рівень щастя</string>
     <string name="draft_draft_hlvl_text">Рівень щастя всіх жителів.</string>
     <string name="draft_draft_htx_title">Задоволення податками</string>
-    <string name="draft_draft_htx_text">Задоволення податками</string>
+    <string name="draft_draft_htx_text">Задоволення жителів податками</string>
     <string name="draft_draft_htr_title">Забезбечення логістикою</string>
     <string name="draft_draft_htr_text">Рівень забезпечення логістикою.</string>
     <string name="draft_draft_hzn_title">Задовілні зони</string>
@@ -1487,9 +1487,9 @@
     <string name="draft_draft_hspl_title">Забезпечення щастя</string>
     <string name="draft_draft_hspl_text">Рівень забезпечення енергії та води.</string>
     <string name="draft_draft_hft_title">Місця для проведення вільного часу</string>
-    <string name="draft_draft_hft_text">Рівень забезпечення місць для проведення вільного часу.</string>
+    <string name="draft_draft_hft_text">Рівень забезпечення місцями для проведення вільного часу.</string>
     <string name="draft_draft_henv_title">Екологічне забезпечення</string>
-    <string name="draft_draft_henv_text">Рівень навколишнього середовища.</string>
+    <string name="draft_draft_henv_text">Рівень екологічності навколишнього середовища.</string>
     <string name="draft_draft_hpd_title">Поліцейський захист</string>
     <string name="draft_draft_hpd_text">Рівень поліцейського захисту.</string>
     <string name="draft_draft_hfd_title">Забезпечення пожежними станціями</string>
@@ -1501,14 +1501,14 @@
     <string name="draft_draft_hgen_title">Загальне щастя</string>
     <string name="draft_draft_hgen_text">Загальне щастя.</string>
     <string name="influence_passenger_bus_title">Автобусний транспорт</string>
-    <string name="influence_passenger_bus_text">Якщо люди використовують автобуси, трафік буде менше.</string>
+    <string name="influence_passenger_bus_text">Якщо люди використовують автобуси, трафік буде меншим.</string>
     <string name="influence_passenger_train_title">Потяги</string>
-    <string name="influence_passenger_train_text">Якщо люди використовують поїзди, на дорозі буде менше трафіку.</string>
+    <string name="influence_passenger_train_text">Якщо люди використовують потяги, на дорозі буде менше трафіку.</string>
     <string name="influence_residential_title">Житловий район</string>
-    <string name="influence_residential_text">Люди переважають жити в житлових районах.</string>
+    <string name="influence_residential_text">Люди надають перевагу житловим районам.</string>
     <string name="influence_commercial_title">Комерційний район</string>
     <string name="influence_commercial_text">Комерційні райони залучують багато покупців.</string>
-    <string name="influence_industrial_title">Індустріальний район</string>
+    <string name="influence_industrial_title">Промисловий район</string>
     <string name="influence_industrial_text">Люди не хочуть жити поруч з цими районами.</string>
     <string name="influence_level_low_title">Низький рівень</string>
     <string name="influence_level_low_text">Будинки цього рівня зазвичай погані.</string>
@@ -1521,35 +1521,35 @@
     <string name="influence_nature_title">Природа</string>
     <string name="influence_nature_text">Парки та особливо ліс мають великий вплив на екологію.</string>
     <string name="influence_waste_disposal_title">Утилізація відходів</string>
-    <string name="influence_waste_disposal_text">Відходи слід видаляти,щоб зробити ваших жителів щасливими.</string>
+    <string name="influence_waste_disposal_text">Відходи слід утилізувати,щоб зробити ваших жителів щасливими.</string>
     <string name="draft_bus_road00_title">Автобусна дорога</string>
     <string name="draft_bus_road00_text">Проста дорога, на якій можуть їхати лише автобуси.</string>
-    <string name="draft_bus_oneway_road00_title">Автобусна дорога в одну сторону</string>
+    <string name="draft_bus_oneway_road00_title">Автобусна дорога з одностороннім рухом</string>
     <string name="draft_bus_oneway_road00_text">На дорозі з одностороннім рухом автобуси можуть рухатися тільки в одному напрямку.</string>
     <string name="task_build_res">Побудовано житлових зон.</string>
     <string name="task_build_com">Побудовано комерційних зон.</string>
-    <string name="task_build_ind">Побудовано індустріальних зон.</string>
+    <string name="task_build_ind">Побудовано промислових зон.</string>
     <string name="task_build_roads">Побудовано доріг.</string>
     <string name="task_build_parks">Побудовано парків.</string>
     <string name="task_get_inhabitants">Отримано нових жителів.</string>
     <string name="task_get_money">Зароблено ₮.</string>
     <string name="task_spend_money">Витрачено ₮.</string>
-    <string name="task_spend_diamonds">Витрачено алмазів.</string>
+    <string name="task_spend_diamonds">Витрачено діамантів.</string>
     <string name="task_tap_screen">Натисніть на екран.</string>
     <string name="task_current">Поточне завдання</string>
 
 
     <string name="dialog_adreward_title">Нагорода за рекламу</string>
-    <string name="dialog_adreward_text">Хочете отримати безкоштовні алмази, переглядаючи рекламу?</string>
+    <string name="dialog_adreward_text">Хочете отримати безкоштовні діаманти, переглядаючи рекламу?</string>
     <string name="dialog_adreward_cmdwatch">Отримати їх зараз</string>
     <string name="draftselector_titlelandmark">Визначні будівлі</string>
-    <string name="draft_bigben00_title">Біг Бен</string>
-    <string name="draft_bigben00_text">Великий Бен-дзвіниця в Лондоні,висота 96 м,була побудована в 1859 р.</string>
+    <string name="draft_bigben00_title">Біґ Бен</string>
+    <string name="draft_bigben00_text">Біґ Бен уе дзвіниця в Лондоні висотою в 96 м,була побудована в 1859 р.</string>
     <string name="draft_angelofindependence00_title">Ангел Незалежності</string>
     <string name="draft_angelofindependence00_text">Ангел Незалежності-це пам\'ятник у Мехіко,побудований у 1910 році,який вшановує Мексиканську Незалежність.</string>
     <string name="draft_statueofliberty00_title">Статуя Свободи</string>
-    <string name="draft_statueofliberty00_text">Статуя Свободи була подарунком від Франції Американцям.Вона була відкрита в 1886 році,висота становить 93 метра.</string>
-    <string name="draft_decorustywatertower00_title">Древня водонапірна вежа</string>
+    <string name="draft_statueofliberty00_text">Статуя Свободи була подарунком від Франції Американцям.Вона була відкрита в 1886 році, її висота становить 93 метра.</string>
+    <string name="draft_decorustywatertower00_title">Стародавня водонапірна вежа</string>
     <string name="draft_decorustywatertower00_text">Стара та іржава водонапірна вежа.Це просто декорація.</string>
     <string name="draft_underground_wire00_title">Підземні дроти</string>
     <string name="draft_underground_wire00_text">Працюють як звичайні дроти,але вони розташовані під землею,тому вони не заважають та їх не видно.</string>
@@ -1557,12 +1557,12 @@
     <string name="draft_feature_freedombuildings00_text">Містить наступні будівлі для постійного використання:</string>
 
 
-    <string name="tool_removeuwire_title">Підземні дроти</string>
+    <string name="tool_removeuwire_title">Видалити підземні дроти</string>
     <string name="tool_removeuwire_text">Цей інструмент знімає підземні дроти.</string>
 
 
     <string name="draft_aircraft_boneyard00_title">Кладовище літаків</string>
-    <string name="draft_aircraft_boneyard00_text">Місце для списаних літаків.Це місце грязне,але виробляє певний дохід.</string>
+    <string name="draft_aircraft_boneyard00_text">Місце для списаних літаків.Це місце брудне,але виробляє певний дохід.</string>
     <string name="notify_tutorial_reminder_title">Час,щоб почати</string>
     <string name="notify_tutorial_reminder_text">Агов,мер,ти забув про свою місію побудувати велике місто?</string>
     <string name="dialog_insufficientspace_title">Ми вичерпали простір.</string>
@@ -1570,18 +1570,18 @@
     <string name="dialog_insufficientspace_cmdproceed">Використовуйте на власний ризик</string>
     <string name="draft_sydneyoperahouse00_title">Сіднейський оперний театр</string>
     <string name="draft_sydneyoperahouse00_text">Сіднейський оперний театр-це центр виконавських мистецтв на багатьох майданчиках,розташований у Сіднеї,Австралія.Він був закінчений у 1973 році і має висоту 65 метри.</string>
-    <string name="draft_onerafflesplace00_title">The One Raffles Place</string>
-    <string name="draft_onerafflesplace00_text">The One Raffles Place - хмарочос в місті Сінгапур,який був побудований в 1986 році і має висоту 280 метрів.</string>
-    <string name="draft_willistower00_title">Будинок Уілліса</string>
-    <string name="draft_willistower00_text">Будинок Willis (також відомий як Sears Tower) - це хмарочос, розташований у Чикаго, США. Башта була побудована в 1973 році і її висота 442 метри.</string>
+    <string name="draft_onerafflesplace00_title">OUB Centre</string>
+    <string name="draft_onerafflesplace00_text">OUB Centre - хмарочос в місті Сінгапур,який був побудований в 1986 році і має висоту 280 метрів.</string>
+    <string name="draft_willistower00_title">Вілліс Тауер</string>
+    <string name="draft_willistower00_text">Вілліс Тауер (також відомий як Сірз Тауер) - це хмарочос, розташований у Чикаго, США. Башта була побудована в 1973 році і її висота 442 метри.</string>
     <string name="draft_feature_landmarks01_title">Визначні будівлі II</string>
     <string name="draft_feature_landmarks01_text">Містить наступні будівлі для постійного використання:</string>
 
 
     <string name="draft_cat_supply00_title">Постачання</string>
     <string name="draft_cat_road00_title">Дороги</string>
-    <string name="draft_cat_bus00_title">Автобус</string>
-    <string name="draft_cat_train00_title">Потяг</string>
+    <string name="draft_cat_bus00_title">Автобуси</string>
+    <string name="draft_cat_train00_title">Потяги</string>
     <string name="draft_cat_recent00_title">Нещодавно</string>
     <string name="draft_cat_service00_title">Послуги</string>
     <string name="draft_tool_eyedropper00_title">Піпетка</string>
@@ -1599,8 +1599,8 @@
 
     <string name="draft_cat_residential00_title">Жит. Будівлі</string>
     <string name="draft_cat_commercial00_title">Ком. Будівлі</string>
-    <string name="draft_cat_industrial00_title">Інд. Будівлі</string>
-    <string name="offerstage_saving">Ви сбережете %d%%</string>
+    <string name="draft_cat_industrial00_title">Пром. Будівлі</string>
+    <string name="offerstage_saving">Ви заощадите %d%%</string>
     <string name="draft_pickle00_title">Всемогутній макіяж</string>
     <string name="draft_pickle00_text">.</string>
 
@@ -1616,7 +1616,7 @@
     <string name="gallery_trends">Тенденції</string>
     <string name="gallery_own">Власник</string>
     <string name="dialog_gallerydelete_title">Видалити знімок екрана</string>
-    <string name="dialog_gallerydelete_text">Ви впевнені, що хочете видалити цей скріншот? Ви не зможете повернути!</string>
+    <string name="dialog_gallerydelete_text">Ви впевнені, що хочете видалити цей скриншот? Ви не зможете повернути!</string>
     <string name="dialog_gallerydelete_cmd">Видалити</string>
     <string name="dialog_gallerypolicy_title">Насамперед</string>
     <string name="dialog_gallerypolicy_text">Привіт, я радий, що ви хотіли б внести свій внесок у нашу галерею.Однак перш ніж ми можемо почати,вам потрібно погодитися з нашою політикою,щоб ми могли завантажувати вамші скріншоти.\n\n Торкніться,якщо ви згодні,якщо ви приймаєте нашу політику щодо завантаження скріншотів.</string>
@@ -1624,33 +1624,33 @@
     <string name="dialog_gallerypolicy_cmdok">Я погоджуюсь</string>
     <string name="dialog_gallerypolicy_cmdcancel">Я не погоджуюсь</string>
     <string name="settings_pushnotifications">Натисніть на сповіщення</string>
-    <string name="draft_leaningtowerofpisa00_title">Пизанська вежа</string>
-    <string name="draft_leaningtowerofpisa00_text">Пизанська вежа-це дзвіниця,розташована в італійському місті Піза,яка була збудована в 1372 році,а її висота становить 56 метри.</string>
-    <string name="draft_burjalarab00_title">Аль-Арабська башта</string>
-    <string name="draft_burjalarab00_text">The Burj Al Arab це розкішний готель, розташований у Дубаї, Об\'єднані Арабські Емірати. Він був збудований в 1999 році і має висоту 321 метра.</string>
-    <string name="draft_hearsttower00_title">Херст Тауер</string>
-    <string name="draft_hearsttower00_text">Херст-вежа -це офісна будівля в Нью-Йорку,побудована в 2006 році.Її висота-182 метри.</string>
+    <string name="draft_leaningtowerofpisa00_title">Пізанська вежа</string>
+    <string name="draft_leaningtowerofpisa00_text">Пізанська вежа-це дзвіниця,розташована в італійському місті Піза,яка була збудована в 1372 році,а її висота становить 56 метри.</string>
+    <string name="draft_burjalarab00_title">Бурдж-аль-Араб</string>
+    <string name="draft_burjalarab00_text">Бурдж-аль-Араб це розкішний готель, розташований у Дубаї, Об\'єднані Арабські Емірати. Він був збудований в 1999 році і має висоту 321 метра.</string>
+    <string name="draft_hearsttower00_title">Вежа Герста</string>
+    <string name="draft_hearsttower00_text">Вежа Герста це офісна будівля в Нью-Йорку,побудована в 2006 році.Її висота-182 метри.</string>
     <string name="draft_feature_landmarks02_title">Визначні будівлі III</string>
 
 
     <string name="draft_recyclingyard00_title">Центр переробки</string>
-    <string name="draft_recyclingyard00_text">Навіщо спалювати сміття або вивозити його на полігон,якщо його можна переробити у центрі переробки?</string>
-    <string name="draft_notify_pickle_spawned00_text">n% існує тварин.Що ви з цим зробите,мер?</string>
-    <string name="draft_rugbyfield00_title">Поле для регбі</string>
-    <string name="draft_rugbyfield00_text">Поле для регбі для любителів регбі.</string>
+    <string name="draft_recyclingyard00_text">Навіщо спалювати сміття або вивозити його на звалище,якщо його можна переробити у центрі переробки?</string>
+    <string name="draft_notify_pickle_spawned00_text">n% існує тварин.Що ви з цим зробите, мере?</string>
+    <string name="draft_rugbyfield00_title">Поле для реґбі</string>
+    <string name="draft_rugbyfield00_text">Поле для реґбі для любителів регбі.</string>
     <string name="menu_facebook">Підключення до Facebook</string>
     <string name="facebook_privacy">Конфіденційність</string>
 
 
-    <string name="settings_smoothcarmovement">Плавний рух автомобіля</string>
-    <string name="draft_easteregg00_title">Пасхальне яйце</string>
-    <string name="draft_easteregg00_text">Всього-навсього пасхальне яйце. Що ви будете робити з ним?</string>
-    <string name="draft_notify_easteregg_spawned00_text">Там десь є пасхальне яйце.Ви можете його знайти?</string>
-    <string name="draft_notify_easteregg_found00_text">Вітаю, ви знайшли пасхальне яйце :)</string>
+    <string name="settings_smoothcarmovement">Плавний рух автомобілів</string>
+    <string name="draft_easteregg00_title">Великоднє яйце</string>
+    <string name="draft_easteregg00_text">Всього-навсього великоднє яйце. Що ви будете робити з ним?</string>
+    <string name="draft_notify_easteregg_spawned00_text">Там десь є великоднє яйце.Ви можете його знайти?</string>
+    <string name="draft_notify_easteregg_found00_text">Вітаю, ви знайшли великоднє яйце яйце :)</string>
 
 
-    <string name="dialog_removediamondbuildings_title">Видалити алмазні будівлі</string>
-    <string name="dialog_removediamondbuildings_text">Ви вибрали будинки з вартістю алмазів% d для видалення.Ви впевнені, що хочете їх видалити? Там є інструмент переміщення,якщо ви просто хочете їх перемістити.</string>
+    <string name="dialog_removediamondbuildings_title">Видалити будівлі за діаманти?</string>
+    <string name="dialog_removediamondbuildings_text">Ви оббрали будинки з вартістю діамантів% d для видалення.Ви впевнені, що хочете їх видалити? Є інструмент переміщення,якщо ви просто хочете їх перемістити.</string>
     <string name="settings_renderpollution">Очистити забруднення</string>
 
 
@@ -1658,44 +1658,44 @@
 
 
     <string name="draft_orientalpearltower00_title">Східна перлина</string>
-    <string name="draft_orientalpearltower00_text">Східна Жемчужна вежа-телевізійна башта в Шанхаї,будівництво якої завершилася в 1994 році.Висота вежі становить 470 метри.</string>
-    <string name="draft_swfc_tower00_title">SWFC вежа</string>
-    <string name="draft_swfc_tower00_text">Шанхайський світовий фінансовий центр-це хмарочос,розташований у Шанхаї, і був збудований в 2008 році.Його висота складає 494 метри.</string>
+    <string name="draft_orientalpearltower00_text">Східна перлина це телевізійна башта в Шанхаї,будівництво якої завершилася в 1994 році.Висота вежі становить 470 метри.</string>
+    <string name="draft_swfc_tower00_title">Шанхайський всесвітній фінансовий центр</string>
+    <string name="draft_swfc_tower00_text">Шанхайський всесвітній фінансовий центр це хмарочос,розташований у Шанхаї, і був збудований в 2008 році.Його висота складає 494 метри.</string>
     <string name="draft_feature_landmarks03_title">Визначні будівлі IV</string>
     <string name="draft_feature_landmarks03_text">Вишукані будівлі з Шанхаю</string>
     <string name="draft_cat_asphalt00_title">Асфальт</string>
     <string name="draft_asphalt00_title">Сірий асфальт</string>
-    <string name="draft_asphalt00_text">Не змішуйте природу з нею!</string>
+    <string name="draft_asphalt00_text">Не знищуйте природу з ним!</string>
     <string name="draft_asphalt01_title">Темний асфальт</string>
     <string name="draft_asphalt02_title">Синій асфальт</string>
 
 
     <string name="draft_cat_management00_title">Менеджмент</string>
-    <string name="draft_sakura00_title">Башта Сакури</string>
-    <string name="draft_sakura00_text">Традиційна пагода з деревами Сакура.Яке чудове місце.</string>
-    <string name="draft_stbasilcathedral00_title">Собор Святого Василя</string>
-    <string name="draft_stbasilcathedral00_text">Собор Василя Блаженного-це собор в Москві,Росія.Він був збудований в 1561 році і зараз є музеєм.Його висота становить 115 метри.</string>
+    <string name="draft_sakura00_title">Пагода з сакурою</string>
+    <string name="draft_sakura00_text">Традиційна пагода з деревами Сакури.Яке чудове місце.</string>
+    <string name="draft_stbasilcathedral00_title">Собор Василія Блаженного</string>
+    <string name="draft_stbasilcathedral00_text">Собор Василія Блаженного це собор у Москві,Московія.Він був збудований в 1561 році і зараз є музеєм.Його висота становить 115 метри.</string>
 
 
     <string name="draft_toji00_title">То-дзі</string>
     <string name="draft_toji00_text">То-дзі є буддійським храмом у Кіото,Японія.Він був збудований в 796 році і має висоту 55 метри.</string>
-    <string name="ca_wastedisposal_text2">Перевезення відходів: %1$,d/%2$,d L/d</string>
+    <string name="ca_wastedisposal_text2">Вивевезення відходів: %1$,d/%2$,d L/d</string>
     <string name="notify_waste_needer00">Сміття не вивозиться з цього будинку.</string>
-    <string name="notify_waste_producer00">Цей полігон повний, ви повинні очистити його!</string>
-    <string name="draft_landfill00_text">Великий склад для збору всього сміття.Можна видалити лише коли він порожній.</string>
-    <string name="waste_clear">Перемістіть сміття,щоб очистити його.</string>
+    <string name="notify_waste_producer00">Це звалище переповнене, ви повинні очистити його!</string>
+    <string name="draft_landfill00_text">Велике звалище для збору всього сміття.Можна видалити лише коли воно порожнє.</string>
+    <string name="waste_clear">Проведіть,щоб очистити це звалище.</string>
     <string name="waste_cmdclear">Очистити зараз</string>
     <string name="dialog_wasteclear_title">Очистити зараз</string>
-    <string name="dialog_wasteclear_text">Ми можемо очистити полігон.</string>
+    <string name="dialog_wasteclear_text">Ми можемо очистити звалище.</string>
     <string name="draft_wasteincinerator00_text">Швидкий і брудний спосіб позбутися всього сміття.</string>
     <string name="budget_waste_disposal">Утилізація відходів</string>
-    <string name="draft_alert_garbage00_title">Зателефонуйте сміттєвозу</string>
-    <string name="draft_alert_garbage00_text">Зателефонуйте смітнику,щоб він збиратв сміття з дороги.</string>
+    <string name="draft_alert_garbage00_title">Зателефонуйте сміттєвозові</string>
+    <string name="draft_alert_garbage00_text">Зателефонуйте до сміттєвоза,щоб він збирав сміття з доріг.</string>
     <string name="happiness_waste">Утилізація відходів</string>
     <string name="settings_new_content_marker">Виділіть новий вміст на панелі інструментів</string>
 
 
-    <string name="tool_removeroaddeco_title">Видалити декор на дорогах</string>
+    <string name="tool_removeroaddeco_title">Видалити декорації на дорогах</string>
     <string name="tool_removeroaddeco_text">Використовуйте цей інструмент, щоб видалити накладення або оздоблення на дорогах.</string>
 
 
@@ -1711,16 +1711,16 @@
 
 
     <string name="draft_wasteincinerator00_filter00_title">Фільтер</string>
-    <string name="draft_wasteincinerator00_filter00_text">Знижує викидне забруднення та рівень шуму.</string>
+    <string name="draft_wasteincinerator00_filter00_text">Знижує викиди забруднення та рівень шуму.</string>
     <string name="draft_flowers00_title">Квіти</string>
     <string name="draft_flowers00_text">Лише кілька квітів.</string>
 
 
     <string name="game_remaining_doubledincometime">Подвійний дохід для %s</string>
     <string name="draft_taipei101_title">Тайбей 101</string>
-    <string name="draft_taipei101_text">Тайбейський фінансовий центр у Тайвані-це супертал-хмарочос в Тайвані.Він має висоту 510 метрів і був найвищою будівлею в світі до 2010 року.Він збудований в 2004 році.</string>
+    <string name="draft_taipei101_text">Тайбей 101 це хмарочос у Тайвані.Він має висоту 510 метрів і був найвищою будівлею в світі до 2010 року.Він збудований в 2004 році.</string>
     <string name="draft_roaddeco_border00_title">Дорожні пости</string>
-    <string name="draft_roaddeco_border00_text">Допомагає водію відчувати швидкість.</string>
+    <string name="draft_roaddeco_border00_text">Допомагає водієві відчувати швидкість.</string>
     <string name="draft_roaddeco_border01_title">Кам\'яний паркан</string>
     <string name="draft_roaddeco_border01_text">Красиві декоративні камені, які спокійно собі лежать біля дороги.</string>
     <string name="draft_roaddeco_border02_title">Охоронні перила</string>
@@ -1728,9 +1728,9 @@
     <string name="draft_roaddeco_border03_title">Звуковий захист</string>
     <string name="draft_roaddeco_border03_text">Який шум? Я нічого не чую.</string>
     <string name="draft_roaddeco_border04_title">Скляний паркан</string>
-    <string name="draft_roaddeco_border04_text">Ви можете побачити автомобілі через це.</string>
+    <string name="draft_roaddeco_border04_text">Ви можете побачити автомобілі через нього.</string>
     <string name="draft_roaddeco_border05_title">Придорожні лампи</string>
-    <string name="draft_roaddeco_border05_text">Там ніч,проте в нас є вуличні вогні!</string>
+    <string name="draft_roaddeco_border05_text">Там ніч,проте в нас є вуличне освітлення!</string>
 
 
     <string name="draft_cat_roaddeco00_title">Дорожня прикраса</string>
@@ -1740,11 +1740,11 @@
     <string name="draft_feature_doubledincome00_text">Просто подвоює ваш дохід.</string>
     <string name="features_duration">Тривалість %s</string>
     <string name="draft_roaddeco_crosswalk00_title">Зебра</string>
-    <string name="draft_roaddeco_crosswalk00_text">Неможна просто так взяти і перетнути дорогу.</string>
+    <string name="draft_roaddeco_crosswalk00_text">Не можна просто так взяти і перейти дорогу.</string>
     <string name="draft_roaddeco_bumps00_title">ЛП</string>
     <string name="draft_roaddeco_bumps00_text">Лежачий поліцейський це штучна дорожня нерівність, ціль якої уповільнювати трафік.</string>
     <string name="draft_fence00_title">Огорожа</string>
-    <string name="draft_fence00_text">Просто проста огорожа.</string>
+    <string name="draft_fence00_text">Просто звичайна огорожа.</string>
     <string name="draft_fence01_title">Білий паркан</string>
     <string name="draft_fence01_text">Це паркан,але він також ще й білий.</string>
 
@@ -1754,21 +1754,21 @@
 
 
     <string name="draft_igloo00_title">Іглу</string>
-    <string name="draft_igloo00_text">Досить дивно,не так вже й холодно в іглі.</string>
+    <string name="draft_igloo00_text">Досить дивно, але в іглу не так вже й холодно.</string>
     <string name="features_more">Більше вмісту</string>
-    <string name="features_diamonds">Отримайте алмази</string>
+    <string name="features_diamonds">Отримайте діаманти</string>
 
 
     <string name="privacy_policy">Політика конфіденційності</string>
     <string name="dialog_privacy_title">Політика конфіденційності</string>
-    <string name="dialog_privacy_text">Привіт,ми оновлюємо нашу Політику конфіденційності.Потрібно витратити час,щоб переглянути його.</string>
+    <string name="dialog_privacy_text">Привіт,ми оновлюємо нашу Політику конфіденційності.Потрібно витратити час,щоб переглянути зміни.</string>
     <string name="dialog_privacy_cmdopen">Відкрити політику конфіденційності</string>
     <string name="dialog_privacy_cmdlater">Зрозумів</string>
     <string name="settings_drawzones">Нічия територія</string>
     <string name="draft_metrostation00_title">Депо</string>
-    <string name="draft_metrostation00_text">Депо для поїздів.</string>
+    <string name="draft_metrostation00_text">Депо для потягів.</string>
     <string name="draft_metroline00_title">Тунель метро</string>
-    <string name="draft_metroline00_text">Тунель метро.Ви не можете його побачити,але все-таки воно саме там.</string>
+    <string name="draft_metroline00_text">Тунель метро.Ви не можете його побачити,але все-таки він є).</string>
     <string name="feature_coming_soon">Незабаром</string>
     <string name="dialog_search_title">Пошук</string>
     <string name="dialog_search_text">Введіть ключове слово пошуку нижче.</string>
@@ -1776,57 +1776,57 @@
     <string name="dialog_search_cmdcancel">Скасувати</string>
     <string name="search_results_title">Результати пошуку для \"%s\"</string>
     <string name="draft_rail01_title">Міська залізниця</string>
-    <string name="draft_rail01_text">Підвищена залізниця для міських районів для більш швидкої швидкості.</string>
+    <string name="draft_rail01_text">Підвищена залізниця для міських районів з більш високою швидкостю.</string>
     <string name="draft_nativerailwaystation01_title">Міський залізничний вокзал</string>
     <string name="draft_nativerailwaystation01_text">Компактний залізничний вокзал для місць з невеликим простором.</string>
-    <string name="settings_realmmres">Реальна роздільна здатність мінікарти</string>
+    <string name="settings_realmmres">Реальна роздільна здатність мінімапи</string>
     <string name="feature_coming_soon_fulfilled">Дочасний подарунок</string>
 
 
     <string name="draft_tree_sakura00_title">Цвітіння вишні</string>
-    <string name="draft_tree_sakura00_text">Хоча це технічно вишня,Проте з неї не можна дістати вишню.</string>
+    <string name="draft_tree_sakura00_text">Хоча це технічно вишня, проте з неї не можна дістати вишню.</string>
     <string name="draft_circus00_title">Цирк</string>
     <string name="draft_circus00_text">Час для цирку!</string>
-    <string name="draft_chrysler00_title">Chrysler Building</string>
-    <string name="draft_chrysler00_text">Ви, напевно,бачили цю будівлю раніше.Будівля "Крайслер" у Нью-Йорку славиться своїм знаковим виглядом.Збудовано в 1930 році будівля висотою в 319м.</string>
-    <string name="draft_greatpyramid00_text">Пірамідний комплекс "Гиза" є найстарішим з Сім чудес Стародавнього світу і добре відомий у всьому світі.Велика піраміда є найбільшою з трьох пірамід і має висоту 139м.</string>
+    <string name="draft_chrysler00_title">Крайслер Білдінґ</string>
+    <string name="draft_chrysler00_text">Ви, напевно,бачили цю будівлю раніше.Крайслер Білдінґ у Нью-Йорку славиться своїм знаковим виглядом.Збудована в 1930 році будівля висотою в 319м.</string>
+    <string name="draft_greatpyramid00_text">Комплекс пірамід у Гізі є найстарішим з Сім чудес Стародавнього світу і добре відомий у всьому світі.Велика піраміда є найбільшою з трьох пірамід і має висоту 139м.</string>
     <string name="draft_feature_landmarks04_text">Маю кілька чудових будівель</string>
 
 
     <string name="draft_roaddeco_barrier_open00_title">Шлагбаун</string>
-    <string name="draft_roaddeco_barrier_open00_text">Натисніть на нього,щоб закрити.Відмінний спосіб для створення пробок.</string>
+    <string name="draft_roaddeco_barrier_open00_text">Натисніть на нього,щоб закрити.Відмінний спосіб для створення заторів.</string>
     <string name="selectable_find">Знайти (%,d)</string>
     <string name="gallery_upload_success">Успіх</string>
     <string name="gallery_upload_fail">Не вдалося завантажити</string>
     <string name="draft_medic02_title">Маленька лікарня</string>
-    <string name="draft_medic02_text">Маленька лікарня пропонує трохи місць для пацієнтів.</string>
+    <string name="draft_medic02_text">Маленька лікарня має трохи місць для пацієнтів.</string>
     <string name="lang_pirate">Пірати</string>
 
 
     <string name="draft_church10_title">Барокова церква</string>
     <string name="draft_church10_text">Красивий монастир для вашого міста.</string>
     <string name="draft_roaddeco_construction00_title">Екскаватор-навантажувач</string>
-    <string name="draft_roaddeco_construction00_text">Екскаватор по середині дороги не звучить як гарна ідея,чи не так?</string>
+    <string name="draft_roaddeco_construction00_text">Екскаватор по середині дороги - погана ідея,чи не так?</string>
 
 
-    <string name="infoline_freetunnels">%d tunnels left</string>
+    <string name="infoline_freetunnels">%d бузкоштовних тунелів залишилося</string>
     <string name="buildinginfo_idletime">Час простою: %s (з останнього вашого візиту)</string>
     <string name="dialog_wb_completed">Вітаємо,% d будинків було збудовано з часу останнього відвідування.</string>
     <string name="draft_roaddeco_barrier01_title">Барикади</string>
     <string name="draft_roaddeco_barrier01_text">Зазвичай використовують для того щоб перекрити дорогу.</string>
-    <string name="draft_roaddeco_construction01_title">Гравійні гори</string>
-    <string name="draft_roaddeco_construction01_text">Частина хороших дорожніх робіт.</string>
+    <string name="draft_roaddeco_construction01_title">Гори гравію</string>
+    <string name="draft_roaddeco_construction01_text">Невід\'ємна частина дорожніх робіт.</string>
 
 
-    <string name="notification00_sandbox_title">NEWS: %1$s гарне місто!</string>
-    <string name="notification00_sandbox_text">Мер,ти можеш пишатися собою!</string>
+    <string name="notification00_sandbox_title">NEWS: %1$s - гарне місто!</string>
+    <string name="notification00_sandbox_text">Мере,ти можеш пишатися собою!</string>
     <string name="notification01_title">NEWS: %1$s відчуває себе самотнім!</string>
-    <string name="notification01_text">Мер,будь ласка,поверніться!</string>
+    <string name="notification01_text">Мере,будь ласка,поверніться!</string>
 
 
-    <string name="shop_adreward">Безкоштовні алмази</string>
+    <string name="shop_adreward">Безкоштовні діаманти</string>
     <string name="draft_smallmetrostation00_title">Станція метро</string>
-    <string name="draft_smallmetrostation00_text">Станція метро. Для поїздів потрібно побудувати депо.</string>
+    <string name="draft_smallmetrostation00_text">Станція метро. Для курсування потягів потрібно побудувати депо.</string>
     <string name="draft_roaddeco_trafficisland00_title">Пішохідний перехід</string>
     <string name="draft_roaddeco_trafficisland00_text">Дозволяє людям безпечно перетинати вулицю.</string>
     <string name="draft_roaddeco_buildingsite00_title">Будівельний майданчик</string>
@@ -1836,20 +1836,20 @@
 
 
     <string name="tool_removemetrotunnel_title">Знищення тунелю метро</string>
-    <string name="tool_removemetrotunnel_text">Давайте видалемо деякі тунелі з метро.</string>
+    <string name="tool_removemetrotunnel_text">Давайте видалемо деякі тунелі метро.</string>
 
 
     <string name="draft_windmill00_title">Старий Голландський вітряк</string>
     <string name="draft_windmill00_text">Старий вітряк для сільської місцевості вашого міста.</string>
     <string name="draft_taxi_depot00_title">Депо таксі</string>
-    <string name="draft_taxi_depot00_text">Простий громадськоий транспорт.</string>
+    <string name="draft_taxi_depot00_text">Простий громадський транспорт.</string>
     <string name="settings_showclosebutton">Сховати кнопку меню гри</string>
     <string name="menu_closegame">Вийти з гри</string>
     <string name="disaster_pickle_title">Маринований</string>
     <string name="disaster_pickle_text">Маринований.</string>
     <string name="disaster_pickle_cmdtext">Маринований!</string>
     <string name="draft_disaster_picklehuge00_title">Всемогутній маринад</string>
-    <string name="draft_disaster_picklehuge00_text">Гігантський бог всіх маринадів.(не путати з шреком! :D )</string>
+    <string name="draft_disaster_picklehuge00_text">Гігантський бог всіх маринадів.(не плутати зі шреком! :D )</string>
     <string name="draft_disaster_picklehuge01_title">Переможений маринад</string>
     <string name="draft_disaster_picklehuge01_text">Завелика овочева культура,яка може породжувати цивілізовані соління,які можуть використовувати дороги.</string>
 
@@ -1860,11 +1860,11 @@
     <string name="notify_discord_statue00_text">Дякую за %d учасників на нашому сервері Discord.Ви хочете відвідати його зараз?</string>
     <string name="draftselector_titlebodydisposal">Похорон</string>
     <string name="draft_roaddeco_protester00_title">Підроблені мітингуючі</string>
-    <string name="draft_roaddeco_protester00_text">Проплачені люди які мітингують.</string>
+    <string name="draft_roaddeco_protester00_text">Проплачені люди, що мітингують.</string>
     <string name="draft_roaddeco_riot00_title">Підроблений бунт</string>
-    <string name="draft_roaddeco_riot00_text">Проплачені люди які знаходяться на підробленому бунті.</string>
+    <string name="draft_roaddeco_riot00_text">Проплачені люди, ящо знаходяться на підробленому бунті.</string>
     <string name="draft_roaddeco_roundabout00_title">Кільце</string>
-    <string name="draft_roaddeco_roundabout00_text">Крихітна кільцева карусель.Покладіть її на свої перехрестя.</string>
+    <string name="draft_roaddeco_roundabout00_text">Крихітна кільцева розв\'язка.Нанесіть її на свої перехрестя.</string>
     <string name="disaster_blizzard_title">Завірюха</string>
     <string name="disaster_blizzard_text">Приготуйся! Настає зима.</string>
     <string name="disaster_blizzard_cmdtext">Заморозки!</string>
@@ -1874,7 +1874,7 @@
     <string name="gamemode_free_text">Не хочеш займатися грошима? У цьому режимі гри немає грошей,а також немає вимог до населення.</string>
     <string name="dialog_free_title">Вільний ігровий режим</string>
     <string name="dialog_free_text">Ви вибрали вільний режим гри.\n
-Плюси: Немає грошей, ніяких вимог, варіантів контролю за попитом\n
+Плюси: Немає грошей, ніяких вимог, можливість регулювання попиту\n
 Мінуси: менше проблем</string>
     <string name="draft_medic03_title">Сучасна лікарня</string>
     <string name="draft_medic03_text">Сучасна лікарня,яка може доглядати за більшою кількістю пацієнтів у меншому просторі.</string>
@@ -1883,24 +1883,24 @@
 
 
     <string name="draft_coittower00_title">Меморіальна башта Койт</string>
-    <string name="draft_coittower00_text">Меморіальна вежа Коїт була побудована в 1933 році і була присвячена вогняним пожежникам,які загинули в п\'ятьох найбільших пожеж Сан-Франциско.</string>
-    <string name="draft_bankofamerica00_title">Центральний банк Америки</string>
-    <string name="draft_bankofamerica00_text">Центр "Банк Америки" - 52-поверховий хмарочос площею 779 футів (237 м) у Сан-Франциско, штат Каліфорнія.</string>
-    <string name="draft_transamerica00_title">Піраміда "ТрансАмерика"</string>
-    <string name="draft_transamerica00_text">Піраміда Transamerica - це 260-метровий хмарочос у Сан-Франциско,який був збудований у 1972 році і є домом для компаній з фінансових послуг.</string>
+    <string name="draft_coittower00_text">Меморіальна вежа Койт була побудована в 1933 році і була присвячен пожежникам,які загинули в п\'ятьох найбільших пожежах Сан-Франциско. Спроєктована українським художником-монументалістом Віктором Арнпутовим.</string>
+    <string name="draft_bankofamerica00_title">555 Каліфорнія-стріт</string>
+    <string name="draft_bankofamerica00_text">555 Каліфорнія-стріт - 52-поверховий хмарочос площею 779 футів (237 м) у Сан-Франциско, штат Каліфорнія.</string>
+    <string name="draft_transamerica00_title">Піраміда Трансамерика</string>
+    <string name="draft_transamerica00_text">Піраміда Трансамерика - це 260-метровий хмарочос у Сан-Франциско,який був збудований у 1972 році і є штаб-квартирою для компаній з фінансових послуг.</string>
     <string name="draft_feature_landmarks05_text">Отримайте знамениті будівлі з Сан-Франциско, штат Каліфорнія.</string>
     <string name="dialog_cemeteryclear_title">Очистити зараз</string>
     <string name="dialog_cemeteryclear_text">Я думаю, ми можемо знову використати частину простору тут.</string>
     <string name="cemetery_cmdclear">Очистити зараз</string>
-    <string name="cemetery_clear">SWIPE звільнити простір.</string>
+    <string name="cemetery_clear">Проведіть щоб звільнити простір.</string>
     <string name="draft_cemetery00_text">Місце,де поховані залишки мертвих людей.Відпочивають в спокої.</string>
     <string name="draft_crematory00_text">Тут спалюють мертвих людей.</string>
-    <string name="notify_bodydisposal_needer00">Шановний мер,я закликаю вас побудувати кладовище для поховання загиблих.</string>
-    <string name="notify_bodydisposal_producer00">На цьому цвинтарі не залишилося місця. Очистіть його або побудуйте нове кладовище чи крематорію.</string>
+    <string name="notify_bodydisposal_needer00">Шановний мере,я закликаю вас побудувати кладовище для поховання загиблих.</string>
+    <string name="notify_bodydisposal_producer00">На цьому цвинтарі не залишилося місця. Очистіть його або побудуйте нове кладовище чи крематорій.</string>
     <string name="draft_halloween_pumpkin00_title">Гарбуз</string>
-    <string name="draft_halloween_pumpkin00_text">Приходить Хеллоуїн! Кожен любить гарбузи,чи не так?</string>
+    <string name="draft_halloween_pumpkin00_text">Приходить Геловін! Кожен любить гарбузи,чи не так?</string>
     <string name="draft_halloween_tree00_title">Мертве дерево</string>
-    <string name="draft_halloween_tree00_text">Приголомшене мертве дерево,яке зазвичай використовується в примарних історіях.</string>
+    <string name="draft_halloween_tree00_text">Приголомшливе мертве дерево,яке зазвичай використовується в страшних історіях.</string>
     <string name="draft_feature_landmarks04_title">Визначні пам\'ятки V</string>
     <string name="draft_feature_landmarks05_title">Визначні пам\'ятки VI</string>
     <string name="draft_marker_hackedmarkermarker_title">ЦЕ ЗЛАМАНА ВЕРСІЯ!</string>
@@ -1910,27 +1910,27 @@
     <string name="draft_haunted_house00_title">Будинок з привидами</string>
     <string name="draft_haunted_house00_text">Старий будинок,який є на вигляд дуже страшним.Воно може жити тут!</string>
     <string name="notify_illness">Там спалах епідемії,ми повинні негайно вжити заходів.Відправте лікаря!</string>
-    <string name="notify_illnessnomedic">Там епідемічний спалах,і у нас ще досі немає лікаря...</string>
+    <string name="notify_illnessnomedic">Там спалах епідемії,а у нас ще досі немає лікаря...</string>
 
 
     <string name="shader_lol">Лол</string>
-    <string name="settings_hugeplugintexture">Вітаємо, ви працюєте у великому текстурному режимі.</string>
+    <string name="settings_hugeplugintexture">Вітаємо, ви працюєте у режимі великих текстур .</string>
     <string name="draft_tree00_autumn00_title">Осінні дерева</string>
-    <string name="draft_tree00_autumn00_text">Хто-б знав що листя,яке висихає,може бути настільки красивим.</string>
+    <string name="draft_tree00_autumn00_text">Хто б знав що листя,яке висихає,може бути настільки красивим.</string>
     <string name="settings_handintoolbar">Показати руку на панелі інструментів</string>
     <string name="draft_bushman00_title">Статуя бушмана</string>
     <string name="draft_bushman00_text">\"Мамо, що це таке?\"\n\"Не дивись на нього,інакше він переслідуватиме тебе у снах.\"</string>
     <string name="draft_police03_title">Сучасний поліцейський центр</string>
-    <string name="draft_police03_text">Вкладіть у неї гроші,і ви зможете вирішити будь-які проблеми з злочинністю.</string>
+    <string name="draft_police03_text">Вкладіть у нього гроші,і ви зможете вирішити будь-які проблеми з злочинністю.</string>
     <string name="draft_sf_cityhall00_title">Ратуша</string>
-    <string name="draft_sf_cityhall00_text">Міський зал, натхнений мерією у Сан-Франциско.</string>
-    <string name="draft_sf_fineartspalace00_title">Палац художнього мистецтва</string>
-    <string name="draft_sf_fineartspalace00_text">Палац художніх мистецтв Сан-Франциско, штат Каліфорнія, - це монументальна споруда, спочатку побудована для Панама-Тихоокеанського експозиції 1915 року.</string>
+    <string name="draft_sf_cityhall00_text">Ратуша, натхнена мерією у Сан-Франциско.</string>
+    <string name="draft_sf_fineartspalace00_title">Палац образотворчих мистецтв</string>
+    <string name="draft_sf_fineartspalace00_text">Палац образотворчих мистецтв Сан-Франциско, штат Каліфорнія, - це монументальна споруда, спочатку побудована для Панама-Тихоокеанського експозиції 1915 року.</string>
     <string name="shader_invert">Віддзеркалити</string>
 
 
     <string name="draft_present_notification00_text">Подарунок від Санти дає вам вибух.</string>
-    <string name="draft_present_notification01_text">Подарунок від Санта нагороджує вас кількома діамантами.</string>
+    <string name="draft_present_notification01_text">Подарунок від Санти нагороджує вас кількома діамантами.</string>
     <string name="store_authorby">по %s</string>
     <string name="store_downloads">%,d завантаження</string>
     <string name="store_acquire">Завантажити</string>
@@ -1997,7 +1997,7 @@
 
     <string name="store_previouslyinstalled">Видалені</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
-    <string name="draft_rails00_title">Залізнична дорога</string>
+    <string name="draft_rails00_title">Залізнична колія</string>
     <string name="draft_rails00_text">Використовується для залізничної логістики.</string>
     <string name="draft_rails00oneway00_title">Одностороння залізнична колія</string>
     <string name="draft_rails00oneway00_text">Використовується для залізничної логістики.Діє як дорога для потягів в один бік.</string>
@@ -2006,7 +2006,7 @@
     <string name="influence_body_disposal_text">Місце поховання.</string>
     <string name="influence_traffic_title">Трафік</string>
     <string name="influence_traffic_text">Мешканці не люблять забруднення та шум, що виникають внаслідок руху транспорту.</string>
-    <string name="ci_neighbor_wastedisposal">Приберальна служба</string>
+    <string name="ci_neighbor_wastedisposal">Служба вивезення відходів</string>
     <string name="ci_neighbor_bodydisposal">Ритуальні послуги</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
@@ -2024,8 +2024,8 @@
     <string name="draft_trainplatform05_title">Платформа 6</string>
     <string name="draft_trainplatform06_title">Платформа 7</string>
     <string name="draft_trainplatform07_title">Платформа 8</string>
-    <string name="draft_trainstation00_title">Платформа для локального трафіку</string>
-    <string name="draft_trainstation00_text">Тут починають і закінчують свій шлях місцеві потяги.</string>
+    <string name="draft_trainstation00_title">Платформа для регіонального трафіку</string>
+    <string name="draft_trainstation00_text">Тут починають і закінчують свій шлях регіональні потяги.</string>
     <string name="draft_trainstation01_title">Платформа для дальніх перевезень</string>
     <string name="draft_trainstation01_text">Ця платформа призначена для подорожей на далекі відстані.</string>
     <string name="draft_train_freight_station00_title">Вантажне Депо 1</string>
@@ -2039,8 +2039,8 @@
     <string name="draft_trainstation_prebuilt01_title">Станція</string>
     <string name="draft_trainstation_prebuilt01_text">Залізнична станція для місцевого руху.</string>
     <string name="draft_trainstation_prebuilt02_title">Велика станція</string>
-    <string name="draft_trainstation_prebuilt02_text">Велика залізнична станція, яка обслуговує місцевий і міжміський трафік.</string>
-    <string name="draft_cat_train00_parts00_title">Додатоки</string>
+    <string name="draft_trainstation_prebuilt02_text">Велика залізнична станція, яка обслуговує регіональий і міжміський трафік.</string>
+    <string name="draft_cat_train00_parts00_title">Додатки</string>
     <string name="draft_raildeco_crane00_title">Кран</string>
     <string name="draft_raildeco_crane00_text">Вантажний кран для вашої залізниці.</string>
     <string name="draft_raildeco_traincrossing00_title">Перетин залізничного шляху</string>
@@ -2048,7 +2048,7 @@
     <string name="draft_raildeco_mast00_title">Дроти на рейках</string>
     <string name="draft_raildeco_mast00_text">Дроти над рейками які постачають в залізничні вагони електроенергію.</string>
     <string name="draft_raildeco_lights00_00_title">Світлофор</string>
-    <string name="draft_raildeco_lights00_00_text">Світлофор для поїздів</string>
+    <string name="draft_raildeco_lights00_00_text">Світлофор для потягів</string>
     <string name="draft_trainstation_prebuilt10_title">Вантажне депо</string>
     <string name="draft_trainstation_prebuilt10_text">Залізнична станція для промислових товарів.</string>
     <string name="draft_trainstation_prebuilt11_title">Велике вантажне депо</string>
@@ -2075,12 +2075,12 @@
     <string name="draft_cat_hills00_title">Пагорби</string>
     <string name="draft_feature_starter_pack01_title">Початковий пакет II</string>
     <string name="draft_budget_roadtoll00_title">Мито</string>
-    <string name="draft_tollbooth00_title">Дорожнье мито</string>
+    <string name="draft_tollbooth00_title">Дорожнє мито</string>
     <string name="draft_tollbooth00_text">Розмістіть це на дорозі щоб водії платили за використання дороги (занижує щастя).</string>
     <string name="notification02_title">Потрібна дія</string>
     <string name="notification02_text">Хтось повинен керувати розвитком %1$s !</string>
     <string name="notification03_title">Ніколи не забувай %1$s !</string>
-    <string name="notification03_text">Будь ласка, міський голова, поверніться!</string>
+    <string name="notification03_text">Будь ласка, мере, поверніться!</string>
     <string name="settings_fontscaling">Розмір шрифту</string>
     <string name="settings_fontscaling_small">Малий</string>
     <string name="settings_fontscaling_medium">Середній</string>
@@ -2089,7 +2089,7 @@
 
 
     <string name="music_next">Наступний трек</string>
-    <string name="createcity_generating">Сгенерування міста</string>
+    <string name="createcity_generating">Генерування міста</string>
     <string name="dialog_notenoughmoneyp_title">Недостатньо коштів</string>
     <string name="dialog_notenoughmoneyp_text">У вас недостатньо коштів,щоб купити це прямо зараз:(</string>
     <string name="game_region">Регіон %1$d/%2$d</string>
@@ -2105,57 +2105,57 @@
     <string name="topic_f11">Натисніть F11, щоб активувати повноекранний режим</string>
     <string name="draft_permanent_snow00_title">Сніг</string>
     <string name="draft_permanent_snow00_text">Тут завжди холодно.</string>
-    <string name="settings_hidelabels">Приховати бирки</string>
+    <string name="settings_hidelabels">Приховати бірки</string>
     <string name="settings_sound_ambient">Навколишнє середовище</string>
     <string name="settings_vsync">Вертикальна синхроналізація</string>
 
 
-    <string name="shop_invitefriends">Отримай %d алмазів за кожного запрошеного друга</string>
+    <string name="shop_invitefriends">Отримай %d діамантів за кожного запрошеного друга</string>
     <string name="shop_invitetitle">Запросити друга</string>
     <string name="shop_invitationtext">Агов! Пограй в цю гру,яку я нещодавно знайшов,можливо вона тобі сподобається :) \n%s</string>
     <string name="gamemenu_gameid">Id Гри: %s</string>
     <string name="gamemenu_gameidcopied">Id був скопійований в буфер обміну</string>
     <string name="draft_cat_intersections00_title">Транспортна розв\'язка</string>
     <string name="draft_intersection00_title">Естакада</string>
-    <string name="draft_intersection00_text">Дорога, яка з’єднується з шосем через спеціальний міст.</string>
+    <string name="draft_intersection00_text">Дорога, яка з’єднується з шосе через спеціальний міст.</string>
     <string name="draft_intersection01_title">Підземний пішохідний перехід</string>
     <string name="draft_intersection01_text">Дорога, яка з’єднується з шосем який знаходиться на рівень вище.</string>
     <string name="draft_intersection02_title">Перехрестя естакади</string>
     <string name="draft_intersection02_text">Дві магістралі, що перетинаються між собою. Одна з автомобільних доріг знаходиться на рівень вище.</string>
     <string name="draft_intersection_complex00_title">Комплексна естакада</string>
-    <string name="draft_intersection_complex00_text">Дві плоскі автомагістралі, що перетинаються одна з одною за допомогою гігантської складної структури.</string>
+    <string name="draft_intersection_complex00_text">Дві пласкі автомагістралі, що перетинаються одна з одною за допомогою гігантської складної розв\'язки.</string>
     <string name="tool_removefence_title">Зняти паркан</string>
     <string name="tool_removefence_text">Цей інструмент можна використовувати лише для зняття огорожі.</string>
-    <string name="draft_fence_real00_title">Дерев’яний паркан</string>
+    <string name="draft_fence_real00_title">Дерев\'яний паркан</string>
     <string name="draft_fence_real00_text">Простий дерев\'яний паркан</string>
     <string name="draft_fence_real01_title">Живий паркан</string>
     <string name="draft_fence_real01_text">Висока,зелений живий паркан.</string>
-    <string name="draft_fence_real02_title">Дерев’яний паркан</string>
+    <string name="draft_fence_real02_title">Дерев\'яний паркан</string>
     <string name="draft_fence_real02_text">Небагато дощок, які прибили одну до одної.</string>
     <string name="draft_fence_real03_title">Сучасний паркан</string>
     <string name="draft_fence_real03_text">Дошки, укладені між бетонними стовпами.</string>
     <string name="draft_fence_real04_title">Білий паркан</string>
-    <string name="draft_fence_real04_text">Дошки паркану пофарбовані в білий колір.</string>
+    <string name="draft_fence_real04_text">Дошки паркану, пофарбовані в білий колір.</string>
     <string name="draft_fence_real05_title">Кам\'яна стіна</string>
     <string name="draft_fence_real05_text">Невисока міцна кам\'яна стіна.</string>
     <string name="draft_fence_real06_title">Залізний паркан</string>
     <string name="draft_fence_real06_text">Важкі залізні бруски між цегляними стінами.</string>
     <string name="draft_cat_fence00_title">Паркан</string>
-    <string name="ci_neighbor_notrading">Незнайдено сусідніх міст, з якими можнаб було торгувати.</string>
+    <string name="ci_neighbor_notrading">Не знайдено сусідніх міст, з якими можна було б торгувати.</string>
     <string name="settings_sound_master">Помічники</string>
     <string name="draft_cemetery01_title">Велике кладовище</string>
     <string name="draft_cemetery01_text">Місце, де поховані останки загиблих людей. На цьому кладовищі багато місця.</string>
 
 
-    <string name="settings_bigger_minimap">Збільшена мінікарта</string>
-    <string name="stage_account_title">Аккаунт</string>
+    <string name="settings_bigger_minimap">Збільшена мінімапа</string>
+    <string name="stage_account_title">Акаунт</string>
     <string name="stage_account_text">Щоб користуватися нашими онлайн-сервісами, ви повинні бути підключені до облікового запису.</string>
     <string name="stage_account_forum">TheoTown Форум</string>
     <string name="forum_username">Нікнейм:</string>
     <string name="forum_password">Пароль:</string>
     <string name="forum_inuse">Цей обліковий запис використовується для входу.</string>
     <string name="forum_cmdprofile">Показати профіль</string>
-    <string name="forum_cmdregister">Немає аккаунту? Зареєструйтесь зараз!</string>
+    <string name="forum_cmdregister">Не маєте акаунту? Зареєструйтесь зараз!</string>
     <string name="forum_cmdlogin">Ввійти</string>
     <string name="forum_cmdlogout">Вийти</string>
     <string name="forum_success">Успіх</string>
@@ -2199,9 +2199,9 @@
     <string name="report_dangerous">Небезпечний вміст</string>
     <string name="report_promotes_terrorism">Пропагує тероризм</string>
     <string name="report_spam_or_misleading">Спам або введення в оману</string>
-    <string name="report_infringes_my_rights">Порушує мої права</string>
+    <string name="report_infringes_my_rights">Порушення моїх прав</string>
     <string name="report_bad_behavior">Погана поведінка</string>
-    <string name="report_violates_store_rules">Порушує інші правила магазину</string>
+    <string name="report_violates_store_rules">Порушення інших правил магазину</string>
     <string name="stage_comment_cmdsend">Надіслати</string>
     <string name="stage_comment_cmdsendhint">Введіть тут свій коментар ...</string>
     <string name="dialog_storerestart_cmdlater">Пізніше</string>
@@ -2239,7 +2239,7 @@
     <string name="toolaction_routeconfirm">Підтвердіть</string>
     <string name="toolaction_nextbuilding">Наступна будівля</string>
     <string name="toolaction_prevbuilding">Попередня будівля</string>
-    <string name="toolaction_abortmovebuilding">скасувати</string>
+    <string name="toolaction_abortmovebuilding">Скасувати</string>
     <string name="toolaction_rocketfire">Вогонь</string>
     <string name="toolaction_nextsign">Наступна мітка</string>
     <string name="toolaction_prevsign">Попередня мітка</string>
@@ -2256,7 +2256,7 @@
     <string name="createcity_desert">Пустеля</string>
     <string name="createcity_snow">Сніг</string>
     <string name="weather_sunny">Сонце</string>
-    <string name="weather_rainy">Дождь</string>
+    <string name="weather_rainy">Дощ</string>
     <string name="weather_lighting">Буря</string>
     <string name="weather_auto">Динамічно</string>
     <string name="store_local_plugins">Вмонтовані плагіни</string>
@@ -2264,27 +2264,27 @@
 
 
     <string name="dialog_storedisclaimer_title">Тут більше...</string>
-    <string name="dialog_storedisclaimer_text">Вітаємо в магазині плагінів! Тут ти можеж отримати додатковий контент для TheoTown,який створили користувачі.\n
+    <string name="dialog_storedisclaimer_text">Вітаємо в магазині плагінів! Тут ти можеш отримати додатковий контент для TheoTown,який створили користувачі.\n
 \n
-Ми рекомендуємо вам прочитати про плагін щоб розуміти що він дає,перед тим як його скачати</string>
-    <string name="dialog_accountdisclaimer_title">Аккаунт</string>
-    <string name="dialog_accountdisclaimer_text">Ви можете підключити один з своїх аккаунтів.\n
+Ми рекомендуємо вам прочитати про плагін щоб розуміти що він дає,перед тим як його завантажити</string>
+    <string name="dialog_accountdisclaimer_title">Акаунт</string>
+    <string name="dialog_accountdisclaimer_text">Ви можете підключити один з своїх акаунтів.\n
 \n
-Підключіть TheoTown форум аккаунт щоб отримати доступ до коментарів.</string>
+Підключіть акаунт з форуму TheoTown щоб отримати доступ до коментарів.</string>
     <string name="ci_rci_help">Попит описує потребу в конкретних будівлях. Він поділяється на житлові, комерційні та промислові потреби. Для кожного з них існує три різних рівня багатства.</string>
 
 
-    <string name="draft_destroyed_tree00_title">Спален дерева</string>
-    <string name="draft_destroyed_tree00_text">Спалені дерева,які по бажанню ви можете прибрати.</string>
+    <string name="draft_destroyed_tree00_title">Спалені дерева</string>
+    <string name="draft_destroyed_tree00_text">Спалені дерева,які ви можете прибрати.</string>
     <string name="region_acquiremap">Придбати</string>
-    <string name="dialog_acquiremapfreemium_title">Придбайте карту</string>
+    <string name="dialog_acquiremapfreemium_title">Придбайте мапу</string>
     <string name="dialog_acquiremapfreemium_text">Вітаємо, це ніким не зайняте місце яке ви можете придбати за для власних цілей.</string>
     <string name="settings_sound_plugins">Плагіни</string>
     <string name="createregion_title">Новий регіон</string>
     <string name="createregion_split">Розкол.</string>
     <string name="createregion_merge">Злиття</string>
-    <string name="createregion_hide">Виключити</string>
-    <string name="createregion_show">Включити</string>
+    <string name="createregion_hide">Сховати</string>
+    <string name="createregion_show">Показати</string>
     <string name="createcity_sizebigbigbigbig">Ще більший</string>
     <string name="createregion_layout">Макет:</string>
     <string name="createregion_layout2x2">2x2</string>
@@ -2300,7 +2300,7 @@
     <string name="dialog_generateregion_title">Створити регіон</string>
     <string name="dialog_generateregion_text">Ви бажаєте створити регіон зараз?</string>
     <string name="dialog_uploadregionaccount_title">Потрібен акаунт</string>
-    <string name="dialog_uploadregionaccount_text">Щоб завантажити регіон, вам потрібно підключити TheoTown з обліковим записом TheoTown.</string>
+    <string name="dialog_uploadregionaccount_text">Щоб завантажити регіон, вам потрібно підключити ваш обліковий запис TheoTown.</string>
     <string name="dialog_uploadregion_title">Завантажити регіон</string>
     <string name="dialog_uploadregion_text">Вивантажує цей регіон у загальнодоступний список онлайн-регіонів.\n\n Після завантаження регіону ви можете грати в Інтернеті. Якщо пароль не встановлений, до регіону зможуть приєднатися й інші гравці.</string>
     <string name="dialog_uploadregion_cmdpassword">Пароль ...</string>
@@ -2312,7 +2312,7 @@
     <string name="dialog_regionsearch_text">Введіть ключове слово нижче:</string>
     <string name="dialog_regionsearch_cmdsearch">Шукати</string>
     <string name="dialog_regioncoininfo_title">Монети регіону?</string>
-    <string name="dialog_regioncoininfo_text">З метою баланса, ми ввели валюту під назвою Монети регіону. Ви заробляєте їх безкоштовно щодня, відкриваючи гру.\n\n Ця валюта дозволяє нам пропонувати вам наші онлайн-послуги безкоштовно.</string>
+    <string name="dialog_regioncoininfo_text">З метою балансу, ми ввели валюту під назвою Монети регіону. Ви заробляєте їх безкоштовно щодня, відкриваючи гру.\n\n Ця валюта дозволяє нам надавати вам наші онлайн-послуги безкоштовно.</string>
     <string name="settings_sdcardplugins">Завантажте плагіни з sd-карти (TheoTown/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">Завантажити зараз?</string>
     <string name="dialog_uploadregionconfirm_text">Перед початком процесу переконайтеся, що у вас є стабільне підключення до Інтернету.</string>
@@ -2328,7 +2328,7 @@
     <string name="dialog_savingissue_title">Збереження провалено</string>
     <string name="dialog_savingissue_text"> На жаль, ваше місто не вдалося врятувати.\n Підказка: %s\n\n Будь ласка спробуйте ще раз.</string>
     <string name="dialog_onlineinfo_title">Онлайн режим</string>
-    <string name="dialog_onlineinfo_text">Ласкаво просимо в онлайн-режим! Тут ви можете грати разом зі своїми друзями, щоб разом працювати над регіонами! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
+    <string name="dialog_onlineinfo_text">Ласкаво просимо в онлайн режим! Тут ви можете грати разом зі своїми друзями, щоб разом працювати над регіонами! Ви навіть можете завантажувати власні регіони, щоб грати з друзями.\n\n "Це дуже круто!" - сказав адміністратор нашого Discord.</string>
     <string name="dialog_outdated_title">Застаріла версія</string>
     <string name="dialog_outdated_text">Ви використовуєте застарілу версію, яка більше не сумісна з цією функцією.\n\n Будь-ласка, оновіть гру до актуальної версії..</string>
     <string name="settings_weather_lightning">Блискавки</string>
@@ -2357,9 +2357,9 @@
     <string name="dialog_configureregion_rules">Правила</string>
     <string name="dialog_configureregion_infos">Інформація</string>
     <string name="dialog_configureregion_allowplugins">Дозволити плагіни</string>
-    <string name="dialog_configureregion_allowsandbox">Дозволити сандбокс</string>
+    <string name="dialog_configureregion_allowsandbox">Дозволити пісочницю</string>
     <string name="draft_sandstonetiles00_text">Декоративна земля.</string>
-    <string name="draft_sandstonetiles00_title">Плитка з пісковика</string>
+    <string name="draft_sandstonetiles00_title">Плитка з пісковику</string>
     <string name="draft_brick00_title">Цегла</string>
     <string name="draft_woodenpier00_title">Дерев\'яний причал</string>
     <string name="draft_cobblestones00_title">Бруківка</string>
@@ -2369,7 +2369,7 @@
     <string name="settings_nightmode_day">День</string>
     <string name="settings_nightmode_night">Ніч</string>
     <string name="settings_nightmode_auto">Авто</string>
-    <string name="settings_nightmode_real">реальний час</string>
+    <string name="settings_nightmode_real">Реальний час</string>
     <string name="settings_rushhour">Година пік</string>
     <string name="stage_onlineregion_information">Інформація про регіон</string>
     <string name="dialog_configureregion_rules_desc">Тут ви можете визначити правила, яких повинні дотримуватися гравці в цьому регіону:</string>
@@ -2378,7 +2378,7 @@
     <string name="dialog_regionrules_rulescat">Правила</string>
     <string name="dialog_selectuser_title">Вибрати користувача</string>
     <string name="dialog_selectuser_namelabel">Ім\'я користувача:</string>
-    <string name="dialog_selectuser_namehint">Введіть ім\’я іншого гравця</string>
+    <string name="dialog_selectuser_namehint">Введіть ім\'я іншого гравця</string>
     <string name="dialog_selectuser_cmdselect">Вибрати</string>
     <string name="dialog_transfercity_title">Передати право власності</string>
     <string name="dialog_transfercity_text">Ви впевнені, що хочете передати право власності на своє місто %1$s гравцю %2$s ?\n\n Ви не зможете повернути все назад.</string>
@@ -2403,7 +2403,7 @@
     <string name="ci_energy_consumed_short">Використовується: %1$,.0fkW</string>
     <string name="ci_water_consumed_short">Використовується: %1$,.0fL/h</string>
     <string name="ci_water_produced_short">Виробляється: %1$,.0fL/h</string>
-    <string name="dialog_regionstats_general">Загально</string>
+    <string name="dialog_regionstats_general">Загалом</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d місті</string>
 
 
@@ -2429,7 +2429,7 @@
     <string name="store_cat_decoration">Декорації</string>
     <string name="store_cat_tool">Інструменти</string>
     <string name="store_cat_overlay">Погода та оверлей</string>
-    <string name="store_cat_pack">Паки</string>
+    <string name="store_cat_pack">Набори</string>
     <string name="store_cat_roaddecoration">Дорожні прикраси</string>
     <string name="store_cat_military">Війська</string>
     <string name="dialog_confirmsendgift_title">Надіслати подарунок</string>
@@ -2443,7 +2443,7 @@
     <string name="dialog_citygifts_title">Подарунки</string>
     <string name="dialog_citygifts_cmdnew">Надіслати подарунок</string>
     <string name="dialog_citygifts_nogifts_receiver">Ви ще не отримали подарунків :(</string>
-    <string name="dialog_citygifts_nogifts_other">Будьте першим, хто надіслав подарунок</string>
+    <string name="dialog_citygifts_nogifts_other">Будьте першим, хто надішле подарунок</string>
     <string name="dialog_citygifts_typemsg">Повідомлення</string>
     <string name="dialog_citygifts_typeunknown">Невідомий</string>
     <string name="dialog_citygifts_private">(приват)</string>
@@ -2453,7 +2453,7 @@
     <string name="dialog_sendgift_cmdsend">Відправити</string>
     <string name="dialog_sendgift_typetext">Текст</string>
     <string name="dialog_sendgift_typemoney">Гроші</string>
-    <string name="dialog_sendgift_typediamonds">Алмази / Регіон коіни</string>
+    <string name="dialog_sendgift_typediamonds">Діаманти / Монети регіону</string>
     <string name="dialog_sendgift_lbltype">Тип</string>
     <string name="dialog_sendgift_lblamount">Сума</string>
     <string name="dialog_sendgift_lblmessage">Повідомлення</string>
@@ -2472,7 +2472,7 @@
     <string name="channel_onlinemode_text">Нова інформація про ваші міста в онлайн-режимі.</string>
     <string name="dialog_externalstorage_proceedwithout">Продовжуйте на власний ризик</string>
     <string name="dialog_externalstorage_title">Немає доступу до зовнішнього сховища</string>
-    <string name="dialog_externalstorage_explanation">TheoTown використовує зовнішній дозвіл на зберігання, щоб зберегти міста та регіони доступним для користувача способом.
+    <string name="dialog_externalstorage_explanation">TheoTown використовує зовнішній дозвіл на зберігання, щоб зберігати міста та регіони доступним для користувача способом.
 Тим самим ми можемо обійти потенційну втрату даних, спричинену оновленнями програми або її перевстановленням.
 \n\nГра може працювати без цього дозволу. Однак ми не несемо відповідальності за потенційну втрату даних або порушену функціональність, викликану використанням внутрішнього сховища.</string>
     <string name="dialog_onlinenotifications_title">Сповіщення</string>
@@ -2483,7 +2483,7 @@
     <string name="dialog_reason_title">Причина</string>
     <string name="dialog_reason_text">Щоб продовжити, вам потрібно вказати причину цієї дії.</string>
     <string name="store_realtitle">Магазин плагінів</string>
-    <string name="settings_pushnotificationsonline">Сповіщення про онлайн-режим</string>
+    <string name="settings_pushnotificationsonline">Сповіщення про онлайн режим</string>
     <string name="settings_verticaltoolbar">Вертикальна панель інструментів</string>
     <string name="settings_darktoolbar">Темна тема панелі інструментів</string>
     <string name="dialog_tutwelcome_title">Вітаємо у TheoTown</string>
@@ -2510,7 +2510,7 @@
     <string name="dialog_regionnopermission_text">Гра не має доступу до сховища пристрою, і тому збереження неможливе. Будь-ласка, надайте грі доступ до локального сховища.</string>
     <string name="ranger_cmdselecttrees">Вибір дерева</string>
     <string name="draft_treeplantertool00_title">Генератор дерев</string>
-    <string name="draft_treeplantertool00_text">Цей інструмент може використовуватись за для створення різноманітних реалістичних лісів.</string>
+    <string name="draft_treeplantertool00_text">Цей інструмент може використовуватись задля створення різноманітних реалістичних лісів.</string>
     <string name="treeplanter_cmdconfigure">Налаштування</string>
     <string name="treeplanter_species">Види:</string>
     <string name="treeplanter_density">Щільність:</string>
@@ -2530,13 +2530,13 @@
     <string name="ci_neighbor_ne">Пн. Сх.</string>
     <string name="ci_neighbor_nw">Пн. Зх.</string>
     <string name="ci_neighbor_sw">Пд. Зх.</string>
-    <string name="dialog_removewithprice_title">Виплати на вивезення</string>
+    <string name="dialog_removewithprice_title">Ціна за вивезення</string>
     <string name="dialog_removewithprice_text">Ціна, яку потрібно виплатити, становить %1$s. Ви хочете продовжити?</string>
 
     <string name="featureselector_doubledincometime">Подвоєний прибуток в %1$s</string>
-    <string name="draft_marker_powermarker_text">Енергетичне покриття. За для транспортування електроенергії - використовуйте провода.</string>
+    <string name="draft_marker_powermarker_text">Енергетичне покриття. За для транспортування електроенергії - використовуйте дроти.</string>
     <string name="draft_marker_waterpipemarker_title">Вода</string>
-    <string name="draft_marker_waterpipemarker_text">Покриття води. За для транспортування води - використовуйте труби.</string>
+    <string name="draft_marker_waterpipemarker_text">Покриття води. Задля транспортування води - використовуйте труби.</string>
     <string name="stage_files_title">Файловий провідник</string>
     <string name="stage_files_importhere">Імпортувати сюди</string>
     <string name="stage_files_currentdir">Поточна папка</string>
@@ -2544,7 +2544,7 @@
     <string name="stage_files_actionexport">Експорт</string>
     <string name="stage_files_actionrename">Перейменування</string>
     <string name="stage_files_actionrename_text">Перейменувати файл %1$s:</string>
-    <string name="stage_files_renamecollision_title">Конфлікт однойменний найменувань</string>
+    <string name="stage_files_renamecollision_title">Конфлікт однакових найменувань файлів</string>
     <string name="stage_files_renamecollision_text">Файл %1$s вже існує!</string>
     <string name="stage_files_actiondelete">Видалити</string>
     <string name="stage_files_actiondelete_title">Видалити?</string>
@@ -2565,7 +2565,7 @@
     <string name="stage_files_createfolder_cmdcreate">Створити</string>
     <string name="stage_files_createfoldercollision_title">Файл вже створено</string>
     <string name="stage_files_createfoldercollision_text">Файл %1$s вже існує!</string>
-    <string name="tool_terrain_smoothwaterheights">Плане поглиблення</string>
+    <string name="tool_terrain_smoothwaterheights">Плавне поглиблення</string>
 
 
     <string name="stage_files_importherefiles">Файл(и)</string>
@@ -2581,18 +2581,18 @@
 
 
     <string name="draft_tunnel_management00_title">Дорожній департамент</string>
-    <string name="draft_tunnel_management00_text">Тунелі більше не потребують алмазів, дорожнє мито генерує вдвічі більше податків</string>
+    <string name="draft_tunnel_management00_text">Тунелі більше не потребують діамантів, дорожнє мито генерує вдвічі більше податків</string>
     <string name="draft_tunnel_management00_title_premium">Дорожній департамент</string>
     <string name="draft_tunnel_management00_text_premium">Дозволяє дорожнім митам генерувати більше податків, та робить дешевшими дороги в цьому місті.</string>
     <string name="stage_account_whytoregister">Навіщо реєструватись</string>
-    <string name="stage_account_pro_onlinemode">Беріть участь в онлайн-режимі регіонів</string>
+    <string name="stage_account_pro_onlinemode">Беріть участь в онлайн режимі регіонів</string>
     <string name="stage_account_pro_comment">Коментуйте плагіни та міста</string>
-    <string name="stage_account_pro_synchronize">Синхроналізуйте ваші статки та покупки</string>
+    <string name="stage_account_pro_synchronize">Синхронізуйте ваші статки та покупки</string>
     <string name="stage_account_con_localcities">Міста без онлайну зберігаються тільки на вашому пристрої</string>
 
 
     <string name="draft_discord_statue02_title">Діскорд 20k</string>
-    <string name="draft_discord_statue02_text">Нова статуя в честь 20 тисяч учасників нашого Діскорд каналу. В честь цього св\'ята була проведена спеціальна подія, яку першим закінчив наш славетний KolaKattz</string>
+    <string name="draft_discord_statue02_text">Нова статуя в честь 20 тисяч учасників нашого Діскорд каналу. В честь цього свята була проведена спеціальна подія, яку першим закінчив наш славетний KolaKattz</string>
     <string name="settings_drawpedestrians">Пішоходи</string>
     <string name="draft_pedestrian_road00_title">Бруківка</string>
     <string name="draft_pedestrian_road00_text">Проста бруківка яка з\'єднує будівлі між собою за для безпечного переміщення пішоходів між ними</string>
@@ -2610,7 +2610,7 @@
     <string name="stage_region_greeter_madewith">Гра, створена за допомогою</string>
 
 
-    <string name="settings_darkbuildtool">Інструмент відлатки</string>
+    <string name="settings_darkbuildtool">Інструмент відладки</string>
     <string name="forum_cmdforgot">Забули?</string>
     <string name="store_rating">Оцінювання</string>
     <string name="store_rating_unrated">НЕ ОЦІНЕНО</string>
@@ -2620,88 +2620,88 @@
     <string name="store_rating_positive">ДОБРЕ</string>
     <string name="store_rating_verypositive">ДУЖЕ ДОБРЕ</string>
     <string name="draft_draft_wst_title">Задоволеність утилізацією сміття</string>
-    <string name="draft_draft_wst_text">Задоволення від збирання та утилізації сміття.</string>
+    <string name="draft_draft_wst_text">Задоволеність мешканців збиранням та утилізацією сміття.</string>
     <string name="settings_plugin_texture_cache">Кеш текстур плагіну</string>
-    <string name="draft_tree_spruce00_title">Ялина</string>
-    <string name="draft_tree_spruce00_text">Ялина - вічнозелене дерево. Ви можете її зустріти на півночі землі. Її ріст може досягати до 60 метрів заввишки.</string>
+    <string name="draft_tree_spruce00_title">Смерека</string>
+    <string name="draft_tree_spruce00_text">Смерека - вічнозелене дерево. Ви можете її зустріти на півночі землі, зокрема в Україні. Її висота може сягати 60 метрів.</string>
     <string name="draft_tree_alder00_title">Вільха</string>
     <string name="draft_tree_alder00_text">На вигляд звичайне дерево, яке може виростати до 30 метрів.</string>
     <string name="stage_gallery_loadingimages">Завантаження зображень...</string>
     <string name="ci_neighbor_help">Тут ви можете імпортувати/експортувати енергію, воду, відходи та тіла померлих з/до сусідніх міст.</string>
-    <string name="ci_budget_help">Тут ви можете переглянути та відкоригувати свої податки, а також переглянути свої щомісячні витрати. Багаті жителі та робітники платять більше податків. Встановивши занадто високі податки, мешканці будуть незадоволені весь час і рано чи пізно почнуть покидати ваше місто, що призведе до низького податкового щастя. Ми рекомендуємо встановлювати свої податки від 6,5 до 8,0.</string>
-    <string name="ci_budget_help_nomoney">Тут ви можете переглянути та відкоригувати свої податки, а також переглянути свої щомісячні витрати. Багаті жителі та робітники платять більше податків. Встановивши занадто високі податки, мешканці будуть незадоволені весь час і рано чи пізно почнуть покидати ваше місто, що призведе до низького податкового щастя. Ми рекомендуємо встановлювати свої податки від 6,5 до 8,0.</string>
+    <string name="ci_budget_help">Тут ви можете переглянути та відкоригувати свої податки, а також переглянути свої щомісячні витрати. Багаті жителі та робітники платять більше податків. Встановивши занадто високі податки, мешканці будуть незадоволені весь час і рано чи пізно почнуть покидати ваше місто. Ми рекомендуємо встановлювати свої податки від 6,5 до 8,0 відсотків.</string>
+    <string name="ci_budget_help_nomoney">Тут ви можете переглянути та відкоригувати свої податки, а також переглянути свої щомісячні витрати. Багаті жителі та робітники платять більше податків. Встановивши занадто високі податки, мешканці будуть незадоволені весь час і рано чи пізно почнуть покидати ваше місто. Ми рекомендуємо встановлювати свої податки від 6,5 до 8,0 відсотків.</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">Завантажуйте скриншоти своїх міст в онлайн-галерею</string>
+    <string name="comments_locked">Цю секцію коментарів заблоковано</string>
+    <string name="comments_cmd_lock">Заблокувати</string>
+    <string name="comments_cmd_unlock">Розблокувати</string>
+    <string name="store_cat_officialgameextensions">Офіційні розширення для гри</string>
+    <string name="dialog_screenshot_cmdshare">Поділитися</string>
+    <string name="settings_targetfps">Цільова частота кадрів (ФПС)</string>
+    <string name="settings_targetfps_auto">Автоматично</string>
+    <string name="dialog_nointernetaccess_title">Немає з\'єднання</string>
+    <string name="dialog_nointernetaccess_text">Ви відключені від мережі.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Зрозуміло</string>
+    <string name="store_modebestrated">Найкращі за рейтингом</string>
+    <string name="dialog_pluginqualityunsure_title">Будьте обережні</string>
+    <string name="dialog_pluginqualityunsure_text">Плагін, який ви збираєтеся завантажити, ще не отримав багато завантажень або оцінок. Тому він може не зовсім відповідати вашим очікуванням.</string>
+    <string name="dialog_pluginqualityunsure_gotit">Зрозуміло</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Не показувати зновуn</string>
+    <string name="store_modecertifiedcreators">Сертифіковані автори</string>
+    <string name="ci_rating_help">Тут ви можете побачити щастя ваших мешканців. Чим більше щастя, тим більше людей хочуть жити у вашому місті. Натисніть на рядок, щоб побачити відповідний розподіл щастя у місті.</string>
+    <string name="ci_rank_help">Поточний рівень міста вказує на рівень його розвитку. Ви можете отримати очки міста, щоб перейти на наступний рівень, збільшивши кількість мешканців або просто розвиваючи місто в цілому. Підвищення рангу відкриває доступ до нових будівель.</string>
+    <string name="ci_loan_help">Немає грошей? Ви можете взяти позику, щоб продовжити будівництво. Однак майте на увазі, що з часом вам доведеться її повернути.</string>
+    <string name="ci_health_help">Збереження здоров\'я у великому місті може бути проблемою. Будуйте медичні заклади, щоб ваші мешканці були здоровими та щасливими.</string>
+    <string name="ci_energy_help">Багатьом будівлям для функціонування потрібна енергія. Переконайтеся, що ви виробляєте достатню кількість енергії, а також, що все підключено до електромережі.</string>
+    <string name="ci_info_help">Тут ви можете побачити інформацію про ваше місто.</string>
+    <string name="ci_education_help">Освіта необхідна мешканцям для покращення умов життя, а також для залучення освічених працівників та інвесторів.</string>
+    <string name="ci_airport_help">Це, по суті, ваша диспетчерська вишка для управління повітряним рухом в аеропортах. Ви можете вибирати смуги на карті, купувати літаки і призначати їх на смуги.</string>
+    <string name="ci_water_help">Вода необхідна для життя, і ваші мешканці не є винятком. Переконайтеся, що ви забезпечили достатню кількість води і що у вас є все, що пов\'язано з трубами. Не розміщуйте водяні насоси в забруднених районах, інакше ваші мешканці будуть хворіти.</string>
+    <string name="ci_statistics_help">Ці графіки допоможуть вам відстежити розвиток міста. Використовуйте стрілки праворуч для перемикання між різними графіками. Кнопки +/- можна використовувати для збільшення та зменшення масштабу.</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Шейдери</string>
+    <string name="draft_cat_streetlights00_title">Вуличне освітлення</string>
+    <string name="toolaction_roadautodecorations">Використовувати декорації</string>
+    <string name="draft_biomeMaker_open00_title">Інструмент для роботи з ґрунтом</string>
+    <string name="draft_biomeMaker_open00_text">За допомогою цього інструменту ви можете легко розмістити ґрунт.</string>
+    <string name="biomemaker_types">Типи:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">Зберегти</string>
+    <string name="control_load">Завантажити</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Зберегти попередні налаштування</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Завантажити попередні налаштування</string>
+    <string name="draft_biomeMaker_cmdreset">Скинути вибір</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Конфігурація</string>
+    <string name="draft_biomeMaker_ground">Земля</string>
+    <string name="draft_biomeMaker_slope">Нахил</string>
+    <string name="draft_biomeMaker_decoration">Декорація</string>
+    <string name="draft_biomeMaker_atground">Будівництво на землі</string>
+    <string name="draft_biomeMaker_atslope">Будівництво під нахилом</string>
+    <string name="draft_biomeMaker_useslope">Використовуйте наданий нахил</string>
+    <string name="draft_biomeMaker_nogroundtype">Не обрано тип для групи</string>
+    <string name="draft_biomeMaker_noslopetype">Не обрано тип для нахилу</string>
+    <string name="draft_biomeMaker_nodecotype">Не обрано тип для декору</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Підтвердити</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Ви впевнені, що хочете замінити %s на цей набір? Це не можна скасувати.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Продовжити</string>
+    <string name="draft_biomeMaker_cmdselect">Обрати</string>
+    <string name="draft_biomeMaker_toastempty">Тут було порожньо.</string>
+    <string name="store_recommended_plugin">Рекомендований плагін</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
+    <string name="dialog_migratefb_title">Необхідні дії</string>
+    <string name="dialog_migratefb_text">Здається, ви увійшли за допомогою облікового запису Facebook. На жаль, цей тип доступу застарілий і більше не підтримується.\nБудь ласка, увійдіть за допомогою облікового запису на форумі, щоб перенести ваші дані.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Налаштування акаунта</string>
+    <string name="draft_feature_opera00_title">Оперний театр</string>
+    <string name="draft_feature_opera00_text">Відкрийте для себе магію культури з нашим пакетом "Культурна насолода"! Відчуйте велич оперного театру у супроводі спокійного парку та чарівного фонтану. Підніміть атмосферу вашого міста та надихніть його мешканців гармонійним поєднанням музики, природи та мистецької привабливості. Оновлюйтесь зараз і нехай ваше місто засяє як культурний шедевр!</string>
+    <string name="draft_opera00_title">Оаза оперного мистецтва</string>
+    <string name="draft_opera00_text">Завітайте до Оази оперного мистецтва, культурного центру вашого міста! Цей приголомшливий оперний театр додасть вашому мегаполісу нотку елегантності та вишуканості. Спостерігайте, як він впливає на ваших мешканців, перетворюючи їх на витончених поціновувачів мистецтва. Нехай розливається атмосфера гармонії та лунає сміх!</string>
     <string name="draft_opera_park00_title">Serene Symphony Park</string>
     <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="stage_comment_plugin_acquirefirst">Будь ласка, спершу придбайте цей плагін</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
     <string name="draft_feature_dsa00_text">Цей інтегрований додатковий контент додає систему постачання, невелику кількість нових службових автомобілів, нову дорогу, яка швидша і дешевша, нове лихо, прапори DSA, новобудови, багато нових подій, космічний вимір для дослідження, нові методи заробітку та багато чого ще.</string>
@@ -2715,7 +2715,7 @@
     <string name="draft_dsa_ultra_road00_title">DSA MK3.2 дорога</string>
     <string name="draft_dsa_ultra_road00_text">Найшвидша дорога, розроблена компанією DSA.</string>
     <string name="draft_dsahq_title">Штаб DSA</string>
-    <string name="draft_dsahq_text">Штаб-квартира DSA, з якої керуються всі операції DSA в районі.</string>
+    <string name="draft_dsahq_text">Штаб-квартира DSA, з якої керуються всі операції DSA в регіоні.</string>
     <string name="draft_dsahqupHW_title">Встановити ESD</string>
     <string name="draft_dsahqupHW_text">Спеціальний DSA відділ надзвичайних служб, що підвищує безпеку цивільного населення шляхом впровадження спеціальних секретних угрупувань.</string>
     <string name="draft_dsahqupAR_title">Встановити RD</string>
@@ -2729,7 +2729,7 @@
     <string name="draft_tool_disaster_super_nuke00_cmd">Давайте протестуємо це</string>
     <string name="draft_dsa_icbm_marker_title">ICBM позначка</string>
     <string name="draft_dsa_icbm_marker_text">Спеціальна позначка, що використовується для вказання цілі „Екс-трим“ ICBMу</string>
-    <string name="draft_dsaicbmarmed_title">Підготовлений силос</string>
+    <string name="draft_dsaicbmarmed_title">Ракетний силос</string>
     <string name="draft_dsaicbmarmed_text">DSA-ракетний силос підготовлений до запуску „Екс-трим“ ICBM.</string>
     <string name="draft_dsa_space_command00_title">Космічна команда</string>
     <string name="draft_dsa_space_command00_text">Будівля, відповідальна за всі локальні космічні операції DSA.</string>
@@ -2747,17 +2747,17 @@
     <string name="draft_dsaclockstore_text">Зовсім непомітне місце для придбання годинників.</string>
     <string name="draft_dsa_deco00_title">DSA декорації</string>
     <string name="draft_dsa_deco00_text">Декорації для вашої DSA бази.</string>
-    <string name="draft_dsadrill_text">Використовується для збору цінних ресурсів, які можна продати і отримати хороший прибуток, однак пам’ятайте!Дрель, може викликати землетрус!</string>
+    <string name="draft_dsadrill_text">Використовується для збору цінних ресурсів, які можна продати і отримати хороший прибуток, однак пам’ятайте, що дриль може викликати землетрус!</string>
     <string name="draft_dsadrill01_title">Покращити лазер</string>
     <string name="draft_dsadrill01_text">Покращення лазеру, за для посилення його сили та швидкості збирання ресурсів.</string>
     <string name="draft_dsadrill02_title">Покращення ефективності</string>
     <string name="draft_dsadrill02_text">Вводяться багато різноманітних оптимізацій за для підвищення енергоефективності станції.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_title">Покращення стабільності</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Покращує станцію на безпечне збирання ресурсів, не втручаючись у навколишнє середовище.</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Покращує станцію для безпечного збирання ресурсів, не втручаючись у навколишнє середовище.</string>
     <string name="draft_dsahouse00_title">Будинок CEO</string>
-    <string name="draft_dsahouse00_text">Тут проживає генеральний директор DSA, який заставляє DSA нормально виконувати свою роботу.</string>
+    <string name="draft_dsahouse00_text">Тут проживає генеральний директор DSA, який змушує DSA нормально виконувати свою роботу.</string>
     <string name="draft_dsahouse01_title">Особняк JustAnyone</string>
-    <string name="draft_dsahouse01_text">Особняк самого лідера DSA.</string>
+    <string name="draft_dsahouse01_text">Особняк головного лідера DSA.</string>
     <string name="draft_dsa_ja_mansion_template00_title">Сир</string>
     <string name="draft_dsa_ja_mansion_template00_text">Сир світового класу виготовлений для генерального директора DSA.</string>
     <string name="draft_ICBMarm_title">Рука „Екс-триму“</string>
@@ -2807,20 +2807,20 @@
     <string name="draft_blackhole_dsa_text">Межа, за якою гравітаційне тяготіння масивного предмета стає настільки великим, що навіть фотони світла не взмозі покинути це місце.</string>
     <string name="draft_blackhole_dsa_static_title">Сингулярність</string>
     <string name="draft_blackhole_dsa_static_text">Область у космічному часі, в якій припливні гравітаційні сили стають нескінченними.</string>
-    <string name="draft_tool_disaster_gliu44_title">Гелінніум</string>
+    <string name="draft_tool_disaster_gliu44_title">Ґелінніум</string>
     <string name="draft_tool_disaster_gliu44_text">Вірус невідомого походження, який має шалені руйнівні властивості.</string>
     <string name="draft_tool_disaster_gliu44_cmd">Нехай вона пошириться</string>
-    <string name="draft_gliu44_title">Гелінніум</string>
+    <string name="draft_gliu44_title">Ґелінніум</string>
     <string name="draft_gliu44_text">Вірус невідомого походження, який має шалені руйнівні властивості.</string>
     <string name="draft_gialodathomyle00_title">Гіаловий одатоміл</string>
-    <string name="draft_gialodathomyle00_text">Мутований штам гелінніуму, який націлений на звичайний вірус.</string>
+    <string name="draft_gialodathomyle00_text">Мутований штам ґелінніуму, який націлений на звичайний вірус.</string>
     <string name="draft_dsa_moon_drillingstation_template00_title">Гірнича станція</string>
     <string name="draft_dsa_moon_drillingstation_template00_text">Будівля для збору та переробки місцевих корисних копалин.</string>
     <string name="draft_dsa_moon_drillingstation_depleted_title">Виснажена гірнича станція</string>
     <string name="draft_dsa_moon_drillingstation_depleted_text">Виснажена гірнича станція, яка вже не виконує ніяких функцій</string>
     <string name="draft_dsa_moon_zone_title">Житлова зона</string>
     <string name="draft_dsa_moon_zone_text">Встановіть житлову зону для мешканців вашої колонії.</string>
-    <string name="draft_dsa_moon_zone_req1_text">У сховищі невистачає їжі</string>
+    <string name="draft_dsa_moon_zone_req1_text">У сховищі не вистачає їжі</string>
     <string name="draft_picklebparty00_title">Маринований пиріг</string>
     <string name="draft_picklebparty00_text">Огірковий пиріг в законсервованій банці. Не слухайте його, якщо він щось почне говорити.</string>
     <string name="draft_dsarocket_title">Пускова станція</string>
@@ -2828,7 +2828,7 @@
     <string name="draft_dsarocket_upg1_title">Випробування ракет</string>
     <string name="draft_dsarocket_upg1_text">Запустіть порожню експериментальну ракету в космос для збору інформації та підготовки до інших запусків та операцій.\n Припаси: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Перевезення тварин</string>
-    <string name="draft_dsarocket_upg2_text">Запустіть ракету з котом всередині на ім’я Акіал, щоб зібрати інформацію про те як себе відчуває живий організм під час польоту.\n Припаси: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg2_text">Запустіть ракету з котом на ім\'я Акіал, щоб зібрати інформацію про те як себе відчуває живий організм під час польоту.\n Припаси: ${_dsareadiness}/2500</string>
     <string name="draft_dsarocket_upg3_title">Навігація</string>
     <string name="draft_dsarocket_upg3_text">Запустіть ракету з людиною в космос для проведення навігаційних випробувань.\n Припаси: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Супутники</string>
@@ -2841,18 +2841,18 @@
     <string name="draft_Olsken.LobbysCake_text">Пиріг з обмеженим тиражем, створений спеціально для Лоббі та всього комюніті! \n З Днем народженням Лоббі і комюніті!</string>
     <string name="draft_dsa_notify00_text">Привіт! Я генеральний директор DSA і допоможу вам керувати всіма місцевими операціями DSA.</string>
     <string name="draft_dsa_notify01_text">Схоже, земля почала трястись!</string>
-    <string name="draft_dsa_notify02_text">Мер, через загрозу землетрусу ми вилучаємо кошти на відновлення різноманітних структур, які постраждали від катастрофи.</string>
-    <string name="draft_dsa_notify03_text">Гей мер, ви можете побудувати у своєму місті кілька бурових установок для видобутку та продажу корисних копалин, але вони можуть з невеликим шансом спричинити землетрус.</string>
-    <string name="draft_dsa_notify04_text">Мер, наші системи виявили невідому речовину, яка знищує все на своєму шляху.</string>
+    <string name="draft_dsa_notify02_text">Мере, через загрозу землетрусу ми вилучаємо кошти на відновлення різноманітних структур, які постраждали від катастрофи.</string>
+    <string name="draft_dsa_notify03_text">Гей мере, ви можете побудувати у своєму місті кілька бурових установок для видобутку та продажу корисних копалин, але вони можуть з невеликим шансом спричинити землетрус.</string>
+    <string name="draft_dsa_notify04_text">Мере, наші системи виявили невідому речовину, яка знищує все на своєму шляху.</string>
     <string name="draft_dsa_notify05_text">Всі, підготуйтеся до підйому!</string>
-    <string name="draft_dsa_notify06_text">Привіт Мер. Я хочу побудувати тут свій будиночок, якщо ви, звісно дозволите мені це зробити.</string>
+    <string name="draft_dsa_notify06_text">Привіт Мере. Я хочу побудувати тут свій будиночок, якщо ви, звісно дозволите мені це зробити.</string>
     <string name="draft_dsa_notify07_text">Все виходить із під контролю ... Час для протоколу „Вибухова зупинка“.</string>
     <string name="draft_dsa_notify08_text">Квантові ядра вибухонебезпечні. Ти не знав?</string>
     <string name="draft_dsa_notify09_text">Почалась процедура приземлення.\n Затамуйте подих.</string>
-    <string name="draft_dsa_notify10_text">О, привіт, містер Хаккер, ви не заперечите,якщо я відкрию чорну діру тут?</string>
-    <string name="draft__dsa_ask00_text">Мер, чи варто вкладати гроші в відновлення структур після катастрофи, а що якщо все піде не так?</string>
+    <string name="draft_dsa_notify10_text">О, привіт, пане Гакер, ви не заперечите,якщо я відкрию чорну діру тут?</string>
+    <string name="draft__dsa_ask00_text">Мере, чи варто вкладати гроші в відновлення структур після катастрофи, а що якщо все піде не так?</string>
     <string name="draft__dsa_ask01_text">Ракета дісталася пункту призначення.\n Хочете подивитись?</string>
-    <string name="draft__dsa_ask02_text">Доброго ранку. Мер, чи можу я побудувати будинок десь у вашому місті?</string>
+    <string name="draft__dsa_ask02_text">Доброго ранку. Мере, чи можу я побудувати будинок десь у вашому місті?</string>
     <string name="draft_dsa_landing_notify00_text">Починається процедура приземлення, зберігайте терпіння!</string>
     <string name="draft_dsa_moon_notify00_text">Ви можете використовувати видимі руди, якщо ви поставите на них бурові станції, то це дасть певноцінний прибуток!</string>
     <string name="draft_dsa_moon_notify01_text">Здається, колоністи голодують. Забезпечте їх достатньою кількістю їжі!</string>
@@ -2861,12 +2861,12 @@
     <string name="draft_dsa_moon_notify04_text">Як ви ймовірно бачили, я виділив 10 мільйонів тонн, на те щоб побудувати невеликий аванпост.</string>
     <string name="draft_dsa_moon_notify05_text">Будь ласка, витрачайте кошти з розумом, оскільки це ваш єдиний постріл.</string>
     <string name="draft_dsa_moon_notify06_text">Що стосується подальшого фінансування, ви можете спробувати використовувати ці рудні родовища.</string>
-    <string name="draft_dsa_moon_notify07_text">У будь-якому випадку, удачі, мер! Пам\'ятайте, що ви завжди можете повернутися сюди, знайшовши карту у своєму списку міст.</string>
+    <string name="draft_dsa_moon_notify07_text">У будь-якому випадку, удачі, мере! Пам\'ятайте, що ви завжди можете повернутися сюди, знайшовши карту у своєму списку міст.</string>
     <string name="draft_dsa_bear_lua_notify00_text">Великий День. День народження для мене та комюніті! Сподіваюся, у вас прекрасний день!</string>
     <string name="draft_dsa_lua_notify00_text">Під час цієї космічної експедиції ми виявили достатньо велике місце, для приземлення.\n Підключення до космічної команди...</string>
     <string name="draft_dsa_lua_notify01_text">Ця експедиція не принесла нічого цікавого з космосу.</string>
     <string name="draft_dsa_lua_notify02_text">А, і ще, ракета може зіткнутися з землею... РОЗВАЖАЙСЯ!</string>
-    <string name="draft_dsa_lua_notify03_text">Вітаємо Мер, ми створили мережу SDI над цим районом. Це захистить місто від метеоритів та вторгнень НЛО.</string>
+    <string name="draft_dsa_lua_notify03_text">Вітаємо Мере, ми створили мережу SDI над цим районом. Це захистить місто від метеоритів та вторгнень НЛО.</string>
     <string name="draft_dsa_lua_notify04_text">Вітаємо! Ми побудували найбільше наше досягнення - сферу Дайсона!</string>
     <string name="draft_dsa_detect_op00_text">Це були не дуже великі гроші, але все гаразд.</string>
     <string name="draft_moon_auto_deco00_title">Невідома структура</string>
@@ -2884,7 +2884,7 @@
     <string name="draft_dsa_time_machine00_title">Машина часу</string>
     <string name="draft_dsa_time_machine00_text">ЗАСЕКРЕЧЕНО</string>
     <string name="draft_dsa_moon_command00_title">Космічне командування</string>
-    <string name="draft_dsa_moon_command00_text">Будівля, що командує всіма локальними та космічними операціями в околицях.</string>
+    <string name="draft_dsa_moon_command00_text">Будівля, що командує всіма локальними та космічними операціями в околиці.</string>
     <string name="draft_dsacomingsoon_text">НЕЗАБАРОМ</string>
     <string name="draft_dsa_moon_spaceport_title">Космічний порт</string>
     <string name="draft_dsa_moon_spaceport_text">Будівля, яка використовується для перевезення товарів, матеріалів або людей у космос.</string>
@@ -2898,26 +2898,26 @@
     <string name="draft_moon_pipe00_text">Труби, які використовуються для транспортування води на місцеву базу.</string>
     <string name="draft_moon_water00_title">Водо-станція</string>
     <string name="draft_moon_water00_text">Синтезує воду з тілесних рідин колоністів або з атмосфери.</string>
-    <string name="draft_moon_energy00_title">Соначні панелі</string>
+    <string name="draft_moon_energy00_title">Сонячні панелі</string>
     <string name="draft_moon_energy00_text">Перетворює сонячну енергію на електроенергію для вашої бази.</string>
     <string name="draft_moon_wire00_title">Лінія електропередачі</string>
-    <string name="draft_moon_wire00_text">Провід, який використовується для передачі електроенергії під землею на вашу базу.</string>
+    <string name="draft_moon_wire00_text">Дріт, який використовується для передачі електроенергії під землею на вашу базу.</string>
     <string name="draft_dsa_moon_road00_title">Ровер-треки</string>
     <string name="draft_dsa_moon_road00_text">Електропідпитані наземні колії для роверів та інших транспортних засобів.</string>
     <string name="draft_dsa_moon_farm_title">Аквапоніка</string>
     <string name="draft_dsa_moon_farm_text">Будівля зі штучною екосистемою, призначена для вирощування продуктів харчування.</string>
     <string name="draft_dsa_moon_storage_title">Склад</string>
     <string name="draft_dsa_moon_storage_text">Будівля, де зберігаються продукти харчування та інші життєвоважливі ресурси.\n На складі:\n Їжа: ${food_storage/10}/${total_food_storage/10}</string>
-    <string name="draft_dsa_helium3_upgrade_title">Експорт гелінніуму 3</string>
-    <string name="draft_dsa_helium3_upgrade_text">Експортуйте гелінніум 3 назад в Теонію для використання в термоядерних реакторах. Ви експортуєте кількість гелінніуму 3 до ${helium_amount} електростанції.</string>
-    <string name="draft_dsa_helium3_upgrade_req_text">Потрібен: Гелінніумний добувальщик</string>
+    <string name="draft_dsa_helium3_upgrade_title">Експорт ґелінніуму 3</string>
+    <string name="draft_dsa_helium3_upgrade_text">Експортуйте ґелінніум 3 назад в Теонію для використання в термоядерних реакторах. Ви експортуєте кількість гелінніуму 3 до ${helium_amount} електростанції.</string>
+    <string name="draft_dsa_helium3_upgrade_req_text">Потрібен: Ґелінніумний добувальщик</string>
     <string name="draft_dsa_helium3_upgrade_req1_text">Вже експортується</string>
     <string name="draft_dsa_dyson_upgrade_title">Дайсонова сфера</string>
     <string name="draft_dsa_dyson_upgrade_text">Побудуйте мегаструктуру навколо зірки, яка повинна захоплювати практично всю енергію зірки.\n Для отримання живлення знадобиться мікрохвильова антена.</string>
     <string name="draft_dsa_dyson_upgrade_req1_text">Вже будується</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">Потрібно: ${dyson_progress}/5000 Покколоніуму</string>
-    <string name="draft_dsa_moon_drillingstation01_text">Будівля для збору та переробки Гелінніуму 3.</string>
-    <string name="draft_dsa_moon_drillingstation02_text">Будівля для збору та переробки Генеріккуму.</string>
+    <string name="draft_dsa_moon_drillingstation01_text">Будівля для збору та переробки Ґелінніуму 3.</string>
+    <string name="draft_dsa_moon_drillingstation02_text">Будівля для збору та переробки Ґенеріккуму.</string>
     <string name="draft_dsa_moon_drillingstation03_text">Будівля для збору та очищення Покколоніуму.</string>
     <string name="draft_pidroid_remote_template00_title">ПІ Дронний пульт</string>
     <string name="draft_pidroid_remote_template00_text">Пульт дистанційного використання, який використовується для управління ПІ-Дронним роєм.</string>
@@ -2925,9 +2925,9 @@
     <string name="draft_tool_pidroid_remote00_cmd">Керуйте ними!</string>
     <string name="draft_pidroid00_title">Пі-Дроїд</string>
     <string name="draft_pidroid00_text">Покоління найрозумніших і найсучасніших роботів, які коли-небудь розроблялися, вони працють на ядерній енергетиці. \n\n Замітка: через проблеми безпеки, AI було вилучено з цієї моделі.</string>
-    <string name="draft_picklebparty00_text00_text">З днем народження маринад!</string>
+    <string name="draft_picklebparty00_text00_text">З днем народження маринаде!</string>
     <string name="draft_picklebparty00_text01_text">Маринади старіють, як вино</string>
-    <string name="draft_picklebparty00_text02_text">Ти ніколи не будеш занадто старою для маринаду</string>
+    <string name="draft_picklebparty00_text02_text">Ти ніколи не будеш занадто старим для маринаду</string>
     <string name="draft_picklebparty00_text03_text">З повагою до вас,а тепер їжте цей ароматний торт.</string>
     <string name="draft_picklebparty00_text04_text">Стільки свічок</string>
     <string name="draft_picklebparty00_text05_text">Приємно</string>
@@ -2946,7 +2946,7 @@
     <string name="draft_space_tree00_text">Штучно-створені дерева, які допомагають піднімати настрій колоністам.</string>
     <string name="draft_space_storyline_cancel00">Вибач, проте я нічого тобі не розповім!</string>
     <string name="draft_space_storyline_busy00">Вибач, я не знаю що тобі зараз скаазати.</string>
-    <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
+    <string name="draft_space_storyline_intro00">3gopoBeHbki 6yJlu!</string>
     <string name="draft_space_storyline_intro01">Будь ласка, не атакуйте нас, ми прийшли з миром.</string>
     <string name="draft_space_storyline_intro02">Ну, крах був би доречним</string>
     <string name="draft_space_storyline_intro03">Ми віримо, що ви нам не зашкодите. Ми надіємось це так??</string>
@@ -2957,41 +2957,41 @@
     <string name="draft_space_storyline_intro_affirmed03">А тепер будь-ласка залиши мене наодинці, мені потрібно відпочити. Ми вийдемо на контакт пізніше.</string>
     <string name="draft_space_storyline_stage_2_00">зробити: гроші</string>
     <string name="draft_space_storyline_stage_3_00">зробити: артефакти</string>
-    <string name="draft_space_storyline_stage_4_00">зробити: покколоніуму</string>
+    <string name="draft_space_storyline_stage_4_00">зробити: покколоніум</string>
     <string name="draft_space_storyline_stage_5_00">зробити: </string>
     <string name="draft_space_storyline_stage_7_00">зробити: </string>
-    <string name="draft_space_storyline_stage_8_00">Дякую вам quest completion. Це все нам пригодиться!</string>
+    <string name="draft_space_storyline_stage_8_00">Дякую вам за виконання квесту. Це все нам пригодиться!</string>
     <string name="draft_space_storyline_stage_8_01">Проте, я боюсь, це наша остання зустріч.</string>
     <string name="draft_space_storyline_stage_8_02">Якщо вам не важко, будь-ласка, створіть космічний корабель для нас.</string>
     <string name="draft_space_storyline_ending_00">Думаю, це все. Щиро дякуємо за допомогу.</string>
     <string name="draft_space_storyline_ending_01">ми хотіли б надати вам цей невеличкий носій інформації..</string>
     <string name="draft_space_storyline_ending_02">В ньому записані нові знання.</string>
     <string name="draft_space_storyline_ending_03">Якщо ви готові, ініціюйте знімок зірки.</string>
-    <string name="draft_space_storyline_ending_04">Дозустрічі, любі друзі!</string>
-    <string name="draft_dsa_award00_title">Камень</string>
+    <string name="draft_space_storyline_ending_04">До зустрічі, любі друзі!</string>
+    <string name="draft_dsa_award00_title">Камінь</string>
     <string name="draft_dsa_award00_text">Ну і звідки цей камінь взявся?</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">Ракета маринадів</string>
-    <string name="draft_dsa_moon_pickle_rocket00_text">Ця величезна ракета була спеціально розроблена за для того щоб вмістити багато маринада.</string>
+    <string name="draft_dsa_moon_pickle_rocket00_text">Ця величезна ракета була спеціально розроблена за для того щоб вмістити багато маринаду.</string>
     <string name="moon_region_unsupported">На жаль, місячні регіони поки не підтримуються. Місто зараз закрите!</string>
-    <string name="draft_space_storyline_stage_2_01">Ми хочемо перевірити, чи є у вас сила волі та що потрібно для цього завдання.</string>
-    <string name="draft_space_storyline_stage_2_02">Знищте всі гірничі станції, які руйнують це чудове місце!</string>
-    <string name="draft_space_storyline_stage_2_notdone">Я все ще бачу, як працюють деякі шахти, повертаються знову, коли всі вони перебувають поза мережею.</string>
-    <string name="draft_space_storyline_stage_3_01">Але чи замислювались ви коли-небудь інвестувати в ці дивні споруди?</string>
+    <string name="draft_space_storyline_stage_2_01">Ми хочемо перевірити, чи є у тебе сила волі, що потрібна для цього завдання.</string>
+    <string name="draft_space_storyline_stage_2_02">Знищи всі гірничі станції, які руйнують це чудове місце!</string>
+    <string name="draft_space_storyline_stage_2_notdone">Я все ще бачу, як працюють деякі шахти! Я повернуся знову, коли всі вони перебуватимуть поза мережею.</string>
+    <string name="draft_space_storyline_stage_3_01">Але чи замислювався ти коли-небудь інвестувати в ці дивні споруди?</string>
     <string name="draft_space_storyline_stage_3_02">Ресурси обмежені, ресурси - ні.</string>
     <string name="draft_space_storyline_stage_3_03">Як би ти спробував, так?</string>
-    <string name="draft_space_storyline_stage_3_04">Давай,спробуй вивчити артефакти!</string>
+    <string name="draft_space_storyline_stage_3_04">Давай,спробуй дослідити артефакти!</string>
     <string name="draft_space_storyline_stage_4_01">Ми зрозуміли те що нам потрібні деякі речі</string>
     <string name="draft_space_storyline_stage_4_02">А саме, Покколоніум, дуже приємний ресурси, які ми використаємо пізніше.</string>
-    <string name="draft_space_storyline_stage_4_03">Просто побудуйте гірничу станцію на вершині зеленої руди.</string>
+    <string name="draft_space_storyline_stage_4_03">Просто побудуй гірничу станцію на вершині зеленої руди.</string>
     <string name="draft_space_storyline_stage_4_04">Ми самі візьмемо руду для нашого проекту.</string>
     <string name="draft_space_storyline_stage_4_05">Не соромтеся, побудуйте шахту Покколоніуму!</string>
-    <string name="draft_space_storyline_stage_5_01">Мені потрібно все те, що ви називаєте міста.</string>
-    <string name="draft_space_storyline_stage_5_02">Ви можете дати мені всі свої міста?</string>
-    <string name="draft_space_storyline_stage_5_02_refused">Погано, надіюся ти зміниш свою думку.</string>
-    <string name="draft_space_storyline_stage_5_03">Вірь мені, здати їх, хороша думка, я використаю з користю.</string>
-    <string name="draft_space_storyline_stage_7_01">I assume you are familiar with rocket construction</string>
-    <string name="draft_space_storyline_stage_7_02">Можеж сконструювати ракету за цією схемою?</string>
-    <string name="draft_space_storyline_stage_7_03">Всі добуті мариновані огірки будуть мої, я їх всі заберу.</string>
+    <string name="draft_space_storyline_stage_5_01">Мені потрібно все те, що ви називаєте містами.</string>
+    <string name="draft_space_storyline_stage_5_02">Ти можеш дати мені всі свої міста?</string>
+    <string name="draft_space_storyline_stage_5_02_refused">Погано, мподіваюся що ти зміниш свою думку.</string>
+    <string name="draft_space_storyline_stage_5_03">Повір мені, здати їх це хороша думка, я використаю з користю.</string>
+    <string name="draft_space_storyline_stage_7_01">Я припускаю, що ти знайомий з ракетобудуванням</string>
+    <string name="draft_space_storyline_stage_7_02">Можеш сконструювати ракету за цією схемою?</string>
+    <string name="draft_space_storyline_stage_7_03">Всі добуті мариновані огірки будуть моїми, я їх всі заберу.</string>
     <string name="draft_space_storyline_stage_7_04">Що ти кажеш?</string>
     <string name="draft_space_storyline_stage_7_04_notyetbuilt">Я бачу, будівництво ракети все ще триває</string>
     <string name="draft_space_storyline_stage_8_cutscene">Мариновані огірки завантажуються на борт.</string>
@@ -3004,7 +3004,7 @@
     <string name="draft_tollbooth00_passedbycars">Автомобілів проїхало: </string>
     <string name="draft_tollbooth00_chargedmoney">Зароблені гроші: </string>
     <string name="draft_tollbooth00_setup">Тут ти можеш встановити ціну.</string>
-    <string name="draft_cat_monorail00_title">Одиночні рельси</string>
+    <string name="draft_cat_monorail00_title">Одинарні рейки</string>
     <string name="draft_tool_car_follower00_novehicle">Немає доступних транспортних засобів.</string>
     <string name="forum_cmddelete">Видалити акаунт</string>
     <string name="settings_modifymouse">Змінити курсор</string>
@@ -3015,7 +3015,7 @@
     <string name="settings_cursorstyle_gold">Золотий</string>
     <string name="shop_restore">Відновити попередні покупки</string>
     <string name="shop_restored_dialog_title">Покупки відновлені.</string>
-    <string name="shop_restored_dialog_text">Всі твої попередні покупки були відновлені. Ти повинен перезапустити гру, щоб побачити це.</string>
+    <string name="shop_restored_dialog_text">Всі ваші попередні покупки були відновлені. Потрібно перезапустити гру, щоб побачити це.</string>
     <string name="dialog_seeds_title">Вбудовані сіди</string>
     <string name="settings_keys_cmdunassign">Скасувати</string>
     <string name="control_apply">Застосувати</string>
@@ -3066,19 +3066,19 @@
     <string name="draft_foliage_bushes00_title">Кущі</string>
     <string name="draft_foliage_bushes00_text">Мішані маленькі кущі, які підходять як і для парків, - так і для лісів.</string>
     <string name="draft_ancient_temple00_title">Стародавній храм</string>
-    <string name="draft_ancient_temple00_text">Шлях вперед не відкриється слабким. Вирушайте вперед із силою!</string>
+    <string name="draft_ancient_temple00_text">Шлях вперед не буде легким. Вирушайте вперед із силою!</string>
     <string name="tut_plugins00">Ти побачиш, що у нас є багато вмісту. Не варто поспішати, щоб дослідити його увесь. Також ти можеш відвідати наш магазин плагінів, щоб знайти багато чого іншого, створеного ентузіастами.</string>
     <string name="region_unlock_immediately">Розблокувати миттєво</string>
     <string name="dialog_unlockcity_im_title">Розблокувати місто миттєво</string>
     <string name="dialog_unlockcity_im_text">Готовий розважитися? Розблокуй цю дивовижну зону зараз і розпочни власну міську пригоду, не чекаючи відповідних вимог щодо населення. Більше не чекай – давай побудуємо декілька чудових міст разом!</string>
-    <string name="draft_dirt_track_00_title">Грунтова дорога</string>
-    <string name="draft_dirt_track_00_text">Утрамбована грунтова дорога. Дешева, але дуже погана. Чудово підходить для сільської місцевості (та й для будь-якого українського міста, на жаль).</string>
+    <string name="draft_dirt_track_00_title">Ґрунтова дорога</string>
+    <string name="draft_dirt_track_00_text">Утрамбована ґрунтова дорога. Дешева, але дуже погана. Чудово підходить для сільської місцевості (та й для будь-якого українського міста, на жаль).</string>
     <string name="draft_lookout_tower00_title">Оглядова вишка</string>
     <string name="draft_lookout_tower00_text">Поглянь! Дерев\'яна оглядова вишка може, для прикладу, виявляти пожежі.</string>
     <string name="draft_boulders00_title">Валуни</string>
     <string name="draft_boulders00_text">Величезна скеля різної форми.</string>
     <string name="draft_highway_sign00_title">Дорожній знак</string>
-    <string name="draft_highway_sign00_text">Керуйся стильно, використовуючи дорожні знаки для доріг твого міста.</string>
+    <string name="draft_highway_sign00_text">Керуй рухом, використовуючи дорожні знаки для доріг твого міста.</string>
     <string name="draft_road05_ramp00_title">Шосе (одностороннє)</string>
     <string name="draft_road05_ramp00_text">Поєднай шосе з повільнішими дорогами або створи складні перехрестя за допомогою цієї дороги з одностороннім рухом.</string>
     <string name="settings_units">Одиниці вимірювання</string>
