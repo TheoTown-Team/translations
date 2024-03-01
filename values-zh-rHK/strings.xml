@@ -28,10 +28,10 @@
     <string name="settings_resolutionbigbig">好大</string>
     <string name="settings_resolution">解析度</string>
     <string name="dialog_nocities_title">竟然搵唔到城市</string>
-    <string name="dialog_nocities_text"> 你目前還沒有任何城市，你可以新建新城市。這裡嘅城市可以定制。</string>
+    <string name="dialog_nocities_text"> 你目前還沒有任何城市，可以喺此處定制自己嘅新城市。</string>
     <string name="dialog_nocities_cmdback">取消</string>
     <string name="dialog_nocities_cmdnewcity">新建城市</string>
-    <string name="settings_drawcars">顯示汽車</string>
+    <string name="settings_drawcars">顯示車輛</string>
     <string name="settings_drawsmoke">煙</string>
     <string name="settings_transparencybuildmode">建築模式透明檢視</string>
     <string name="settings_buildgrid">建築模式顯示柵格</string>
@@ -39,7 +39,7 @@
     <string name="settings_drawwatersparkle">水光效果</string>
     <string name="settings_drawmapedges">地圖邊緣</string>
     <string name="loadcity_errordialog_title">城市加載失敗</string>
-    <string name="loadcity_errordialog_text">城市文件已損壞，我哋無法加載此文件\n\n我哋對此深感抱歉。 </string>
+    <string name="loadcity_errordialog_text">城市文件已損壞，無法加載此文件\n\n我哋對此深感抱歉。 </string>
     <string name="loadcity_errordialog_cmdcancel">取消</string>
     <string name="dialog_screenshot_title">屏幕截圖</string>
     <string name="dialog_screenshot_text">截圖已保存在 %1$s.</string>
@@ -84,7 +84,7 @@
     <string name="draft_windturbine00_title">風力發電機組</string>
     <string name="draft_windturbine00_text">風力發電機組會產生噪音，但沒有污染。 </string>
     <string name="draft_coalplant00_title">火力發電站</string>
-    <string name="draft_coalplant00_text">火力發電站可以產生大量電力，但也有害於環境。 </string>
+    <string name="draft_coalplant00_text">火力發電站會污染環境，但可以產生大量電力。 </string>
     <string name="draft_solarpanels00_title">太陽能電池板</string>
     <string name="draft_solarpanels00_text">太陽能電池板對環境有益，唔會污染環境。 </string>
     <string name="draft_park00_title">小花壇</string>
@@ -102,13 +102,13 @@
     <string name="draft_medic00_title">醫療中心</string>
     <string name="draft_medic00_text">居民喺呢度可以享受便捷嘅醫療服務</string>
     <string name="draft_medic01_title">醫院</string>
-    <string name="draft_medic01_text">如果附近有一個醫院，居民們會感到更加安心</string>
+    <string name="draft_medic01_text">如果呢附近有一個醫院，居民們會更加安心嘅。 </string>
     <string name="draft_school00_title">小學</string>
-    <string name="draft_school00_text">為兒童提供基礎教育</string>
+    <string name="draft_school00_text">為兒童提供基礎教育嘅場所</string>
     <string name="draft_school01_title">高校</string>
     <string name="draft_school01_text">為青少年提供教育嘅場所</string>
     <string name="draft_museum00_title">博物館</string>
-    <string name="draft_museum00_text">一個使人們獲得更多知識嘅地方。 </string>
+    <string name="draft_museum00_text">博物館為公眾提供了一個欣賞、學習和探索嘅場所。 </string>
     <string name="draft_pipe00_title">輸水管</string>
     <string name="draft_pipe00_text">管道可用于把水輸送到每一個建築物。 </string>
     <string name="draft_waterpump00_title">供水泵站</string>
@@ -134,7 +134,7 @@
     <string name="settings_category_graphics">螢幕</string>
     <string name="settings_category_audio">聲音</string>
     <string name="settings_category_other">其他</string>
-    <string name="draft_management00_title">警察局</string>
+    <string name="draft_management00_title">警署</string>
     <string name="draft_management00_text">保障社會治安，降低犯辠率</string>
     <string name="draft_firedepartment00_title">消防局</string>
     <string name="draft_firedepartment00_text">防止和撲滅火災。 有两辆車同一定範圍嘅消防覆蓋</string>
@@ -142,7 +142,7 @@
     <string name="draft_statue00_text">一個美麗嘅雕像</string>
     <string name="draft_gillender00_title">吉伦德大廈</string>
     <string name="draft_gillender00_text">吉伦德大廈建於1897年，位於紐約，係一個25万下載量為禮物D</string>
-    <string name="topic_thanks">感謝你嘅大力支持！</string>
+    <string name="topic_thanks">感謝你對游戲嘅大力支持！</string>
     <string name="topic_cake">蛋糕係大話！</string>
     <string name="topic_panic">放鬆,不要驚慌</string>
     <string name="draft_bigschool00_title">大型小學</string>
@@ -180,19 +180,19 @@
     <string name="ci_water_text">不在使用中</string>
     <string name="ci_energy_text">不在使用中</string>
     <string name="ci_general_text">不在使用中</string>
-    <string name="topic_reddit">兩棵蒜嚟了！ :)</string>
-    <string name="topic_animals">冇動物受到傷害</string>
+    <string name="topic_reddit">喺rebbit上關注我哋吧 :)</string>
+    <string name="topic_animals">冇動物喺游戲中受到傷害</string>
     <string name="topic_users">期待第100,000名玩家</string>
     <string name="topic_free">呢個遊戲係免費嘅（STEAM平台上嘅除外） :D</string>
     <string name="topic_about">你可以嘗試點擊右下角哦</string>
     <string name="topic_letsplay">快啲嚟撩我吧 ;)</string>
     <string name="topic_tutorial">有新手教程哦 :)</string>
-    <string name="topic_donate">主頁上有一個捐款按鈕</string>
+    <string name="topic_donate">游戲主頁上有一個捐款按鈕</string>
     <string name="topic_nice">你嘅小鎮好美呀 :)</string>
     <string name="topic_trolls">唔好理唔等使嘅人</string>
     <string name="settings_reversedbuildtool">建築模式唔移動地圖</string>
     <string name="draft_karlsruhecastle00_title">卡尔斯鲁厄宮</string>
-    <string name="draft_karlsruhecastle00_text">呢個宮殿會吸引遊客，都可以畀你嘅城市變嘅更美。</string>
+    <string name="draft_karlsruhecastle00_text">呢個巴洛克式嘅宮殿可以畀你嘅城市變嘅更美。</string>
     <string name="shader_old">八色</string>
     <string name="topic_narcissistic">唔好畀納粹主義破壞你嘅心情</string>
     <string name="topic_great">我中意你! &lt;3</string>
@@ -235,7 +235,7 @@
     <string name="draft_zonecommercial_title">商業區</string>
     <string name="draft_zonecommercial_text">商業性建築會被建喺呢度。</string>
     <string name="draft_zoneindustrial_title">工業區</string>
-    <string name="draft_zoneindustrial_text">I工廠將會被建喺呢度。</string>
+    <string name="draft_zoneindustrial_text">工廠將會被建喺呢度。</string>
     <string name="draft_road00_title">鄉村土路</string>
     <string name="draft_road00_text">一個簡易鋪設嘅鄉村土路。</string>
     <string name="draft_road01_title">城市道路</string>
@@ -275,7 +275,7 @@
     <string name="ci_energy_single">詳細</string>
     <string name="ci_water_all">總計</string>
     <string name="ci_water_single">詳細</string>
-    <string name="ci_water_networks">%1$,d 水管負載(s)</string>
+    <string name="ci_water_networks">%1$,d 供水系統(s)</string>
     <string name="ci_water_consumed">消耗: %1$,.0fL/h (%2$,d buildings)</string>
     <string name="ci_water_produced">製造: %1$,.0fL/h (%2$,d buildings)</string>
     <string name="ci_water_ratio">負荷率: %1$.1f%%</string>
@@ -344,12 +344,12 @@
     <string name="draftselector_titlesports">體育</string>
     <string name="draftselector_titlealert">意外</string>
     <string name="notify_fire">火災！ 派出消防車滅火。 考慮建立更多嘅消防部門喂。</string>
-    <string name="notify_pollution">此地區嘅居民向我哋投訴污染問題，可能不久之後就會導致遊行!</string>
+    <string name="notify_pollution">此地區嘅居民向我哋投訴污染問題，可能不久之後會遊行!</string>
     <string name="draft_radio00_title">廣播企</string>
     <string name="draft_radio00_text">你嘅居民好鍾意聽廣播。</string>
     <string name="draftselector_cmdalert">初時!</string>
     <string name="draft_alert_police00_title">報警</string>
-    <string name="draft_alert_police00_text">通知警察去阻止犯罪行為。</string>
+    <string name="draft_alert_police00_text">通知警察去打擊犯罪行為。</string>
     <string name="draft_alert_fire00_title">報火警</string>
     <string name="draft_alert_fire00_text">如果發生火災，就需要通知消防局</string>
     <string name="draft_alert_medic00_title">叫白車</string>
@@ -376,14 +376,14 @@
     <string name="draft_church01_title">教堂</string>
     <string name="draft_church01_text">標準嘅教堂</string>
     <string name="draft_mosque00_title">清真寺</string>
-    <string name="draft_mosque00_text">標準嘅清真寺</string>
+    <string name="draft_mosque00_text">一個標準嘅清真寺</string>
     <string name="settings_carsimulation">汽車模擬</string>
     <string name="settings_weather">天氣</string>
     <string name="topic_christmas">聖誕節快樂!</string>
     <string name="topic_newyear">新年快樂 !</string>
     <string name="topic_birthday_lobby">生日快樂Lobby :)</string>
     <string name="topic_birthday_theo">生日快樂Theotown :)</string>
-    <string name="topic_np">P=NP?</string>
+    <string name="topic_np">p ≠ NP 問題系否等價?</string>
     <string name="topic_42">42</string>
     <string name="draft_radio00_news_title">新聞104.0電台</string>
     <string name="draft_radio00_news_text">發佈有關呢個城市嘅最新消息，令居民們開拓視野。
@@ -494,7 +494,7 @@
     <string name="ci_loan_remaining_runtime">剩餘時間: %2$,d 月, %1$,d 天</string>
     <string name="ci_loan_paybackcost">歸還金額: %1$s</string>
     <string name="ci_loan_estate">財產: %1$s</string>
-    <string name="topic_support_ads">如果你想支持我哋，就點吓廣告啦 :)</string>
+    <string name="topic_support_ads">想支持呢款游戲嘅話，點吓廣告啦 :)</string>
     <string name="settings_disaster_tornado">龍捲風</string>
     <string name="disaster_tornado_title">龍捲風</string>
     <string name="disaster_tornado_text">龍捲風破壞力好強大。</string>
@@ -551,7 +551,7 @@
     <string name="influence_education_low_text">提供基本教育。</string>
     <string name="influence_education_high_text">提供高等教育</string>
     <string name="influence_firedep_text">會減少火災</string>
-    <string name="influence_health_text">医师幫助你嘅居民保持健康。</string>
+    <string name="influence_health_text">呢度嘅医师幫助你嘅居民保持健康。</string>
     <string name="influence_noise_text">沒有人願意住喺嘈嘅地區。</string>
     <string name="influence_park_text">居民生活會更有樂趣，人口密度也會增高。</string>
     <string name="influence_police_text">警察局會令犯辠率降低</string>
@@ -588,7 +588,7 @@
     <string name="draft_marker_trafficmarker_title">交通飽和度</string>
     <string name="draft_marker_trafficmarker_text">街道飽和度</string>
     <string name="draft_mayorvilla00_title">府邸</string>
-    <string name="draft_mayorvilla00_text">腐敗市長嘅豪華別墅</string>
+    <string name="draft_mayorvilla00_text">兩棵蒜市長嘅豪華別墅</string>
     <string name="happiness_health">健康</string>
     <string name="happiness_firedanger">火警</string>
     <string name="dialog_screenshot_show">打開</string>
@@ -606,7 +606,7 @@
     <string name="topic_fun">玩得開心! :)</string>
     <string name="topic_android">安卓專享，iOS滾蛋（劃掉）</string>
     <string name="topic_tryharder">要努力加油哦</string>
-    <string name="topic_nature">保護生態環境</string>
+    <string name="topic_nature">一起嚟保護生態環境吧</string>
     <string name="topic_time">花啲時間喺呢度吧</string>
     <string name="topic_big">做出啲成績吧 ! </string>
     <string name="buildinginfo_waterwaste">水污染: %1$.1f%%</string>
@@ -842,7 +842,7 @@
     <string name="topic_relax">放鬆，這只是一個遊戲</string>
     <string name="topic_cats">貓咪太可愛啦</string>
     <string name="topic_force">願原力與你同喺</string>
-    <string name="topic_plugins">我哋而家有插件了，可以去論壇上搵</string>
+    <string name="topic_plugins"> 你可以喺https://forum.theotown.com上獲攞免費插件</string>
     <string name="topic_page">来 www.theotown.com访问我们</string>
     <string name="topic_habitants">你可以達到 1,000,000</string>
     <string name="ci_statistics_title">統計</string>
@@ -1023,7 +1023,7 @@
     <string name="dialog_skipbuildtime_ad">略過 %1$,d 天嘅建築時間</string>
     <string name="setting_showtrafficmarker">在交通工具中顯示交通負荷</string>
     <string name="menu_console">控制台</string>
-    <string name="topic_crispr">CRISPR可能會改變你嘅生活</string>
+    <string name="topic_crispr">基因剔除技術平台終將改變你我生活</string>
     <string name="draft_feature_firestation00_title">主消防局</string>
     <string name="draft_feature_firestation00_text">一個覆蓋範圍好大嘅消防局，擁有好多消防車，並可以透過升級以獲取消防直升機。</string>
     <string name="draft_feature_gocart00_title">卡丁車賽道</string>
@@ -1212,12 +1212,12 @@
     <string name="topic_lightside">來到光明嘅一面，我哋有~冰淇淋</string>
     <string name="topic_handmade">每個像素都係辛辛苦苦啲上去嘅</string>
     <string name="topic_lunch">午餐意味住關門時間</string>
-    <string name="topic_watching">老大哥Lobby喺睇住你</string>
-    <string name="topic_code">而家代碼增加咗5%！</string>
+    <string name="topic_watching">兩棵蒜喺睇住你</string>
+    <string name="topic_code">依家游戲嘅代碼增加了5%！</string>
     <string name="topic_banana">香蕉</string>
     <string name="topic_finish">讓我說完，完這，這，這句，句，讠...()</string>
     <string name="topic_threed">"假"3D</string>
-    <string name="topic_work">"可能"含有辛勤工作嘅痕迹</string>
+    <string name="topic_work">"可能"含有你辛勤工作嘅痕迹</string>
     <string name="topic_funfun">而家都可以帶來各種樂趣</string>
 
     <string name="settings_lesscars">交通流量</string>
@@ -2053,10 +2053,10 @@
 
     Mode，暫時先咁翻譯吧。</string>
     <string name="topic_pluginsawesome">插件真係正！ 但是，我哋建議你禁用未使用嘅插件。</string>
-    <string name="topic_platforms">你是否知道西奧小鎮可用于PC，Android和iOS？</string>
-    <string name="topic_pluginspace">插件空間有限，請注意</string>
+    <string name="topic_platforms">你是否知道西奧小鎮可喺PC,iOS與Android平台游玩？</string>
+    <string name="topic_pluginspace">插件空間（紋理庫）系有限嘅，請注意</string>
     <string name="topic_rotate">你知道你可以輪換你嘅城市嗎？</string>
-    <string name="topic_pineapple">pizza上嘅菠蘿？</string>
+    <string name="topic_pineapple">在意大利人面前食菠蘿披薩，佢哋會有乜反應？</string>
     <string name="topic_f11">按F11激活全屏模式</string>
     <string name="draft_permanent_snow00_title">雪</string>
     <string name="draft_permanent_snow00_text">喺呢度永遠係冬天。</string>
@@ -2265,7 +2265,7 @@
     <string name="dialog_regionsearch_text">喺下面輸入關鍵字:</string>
     <string name="dialog_regionsearch_cmdsearch">搜尋</string>
     <string name="dialog_regioncoininfo_title">區域幣？</string>
-    <string name="dialog_regioncoininfo_text">為咗遊戲平衡我哋加入了一個新貨幣：區域幣。 你可以通過打開遊戲並簽到來免費得到它們。 \n\n 這種貨幣能讓我們提供免費嘅在線服務</string>
+    <string name="dialog_regioncoininfo_text">為咗遊戲平衡我哋加入了一個新貨幣：區域幣。 你可以通過打開遊戲，進入在線區域來領攞。 \n\n 這種貨幣能讓我們提供免費嘅在線服務</string>
     <string name="settings_sdcardplugins">從內部存儲加載插件（文件夾路徑係TheoTown/plugins ）\n\n翻譯者嘅話：可以試試ES文件瀏覽器。</string>
     <string name="dialog_uploadregionconfirm_title">立即上傳？</string>
     <string name="dialog_uploadregionconfirm_text">在開始該過程之前，請確保你具有穩定嘅互聯網連接。</string>
@@ -2440,7 +2440,7 @@
     <string name="dialog_tutwelcome_start">初時</string>
 
     <string name="settings_catplugins">插件</string>
-    <string name="settings_keys">鎖匙</string>
+    <string name="settings_keys">鍵盤 </string>
     <string name="settings_keys_cmdreset">設置為默認值</string>
     <string name="settings_keys_text">當前分配： %1$s\n
     默認： %2$s\n\n
@@ -2569,8 +2569,8 @@
     <string name="draft_tree_alder00_text">一種可以長到30米嘅樹，睇嚟好普通</string>
     <string name="stage_gallery_loadingimages">加載圖片...</string>
     <string name="ci_neighbor_help">在這裡可以從鄰近城市進口/出口能源，水，廢物和死者屍體.</string>
-    <string name="ci_budget_help">在這裡，您可以查看和調整您嘅稅款以及查看每月費用。較富裕嘅居民繳納更多嘅稅款。太高嘅稅收同你嘅居民會唔開心，離開你嘅城市,為避免低稅收幸福感。我哋建議你把稅費設置喺6.5到8.0</string>
-    <string name="ci_budget_help_nomoney">在這裡，您可以查看和調整您嘅稅款以及查看您嘅每月費用,較富裕嘅居民繳納更多嘅稅款,太高嘅稅收同你嘅居民會唔開心,離開你嘅城市,為避免低稅收幸福感,我哋建議你把稅費設置喺6.5到8.0之間</string>
+    <string name="ci_budget_help">在這裡，您可以查看和調整您嘅稅款以及查看每月費用。較富裕嘅居民繳納更多嘅稅款。太高嘅稅收同你嘅居民會唔開心，離開你嘅城市,為避免幸福感下降。我哋建議你把稅費設置喺6.5到8.0</string>
+    <string name="ci_budget_help_nomoney">在這裡，您可以查看和調整您嘅稅款以及查看您嘅每月費用,較富裕嘅居民繳納更多嘅稅款,太高嘅稅收同你嘅居民會唔開心,離開你嘅城市,為避免幸福感下降,我哋建議你把稅費設置喺6.5到8.0之間</string>
 
     <string name="stage_account_pro_gallery">将你城市嘅屏幕截圖上傳到在線圖庫</string>
     <string name="comments_locked">此評論部分已鎖定</string>
@@ -2745,7 +2745,7 @@
     <string name="draft_dsacontainingwalls_title">防護牆 </string>
     <string name="draft_dsacontainingwalls_text">堅不可摧嘅牆壁，旨喺阻止破壞性物質。 </string>
     <string name="draft_dsa_tree_destroyer_title">砍樹機 42-069型 </string>
-    <string name="draft_dsa_tree_destroyer_text">一台叻嘅機器，用於砍伐樹木，獲得三倍嘅收益 </string>
+    <string name="draft_dsa_tree_destroyer_text">一台叻嘅機器，用於砍伐樹木，嚟獲得三倍嘅收益 </string>
     <string name="draft_tool_disaster_blackhole_title">黑洞 </string>
     <string name="draft_tool_disaster_blackhole_text">呢個系一場特殊嘅災難。 </string>
     <string name="draft_tool_disaster_blackhole_cmd">所到之處全部被吸進去 </string>
@@ -2774,7 +2774,7 @@
     <string name="draft_dsarocket_upg1_title">火箭測試 </string>
     <string name="draft_dsarocket_upg1_text">將實驗火箭發射至太空，以收集數據並為其他嘅測試做准備。\n供畀: ${_dsareadiness}/1,000</string>
     <string name="draft_dsarocket_upg2_title">生物火箭實驗 </string>
-    <string name="draft_dsarocket_upg2_text">將一枚裝有莱卡狗嘅火箭發射到太空，以收集重要信息。\n供畀: ${_dsareadiness}/2,500</string>
+    <string name="draft_dsarocket_upg2_text">將裝有莱卡狗嘅火箭發射到太空，以收集重要信息。\n供畀: ${_dsareadiness}/2,500</string>
     <string name="draft_dsarocket_upg3_title">導航測試</string>
     <string name="draft_dsarocket_upg3_text">將載人火箭發射到太空進行導航測試。 \n供畀: ${_dsareadiness}/5,000</string>
     <string name="draft_dsarocket_upg4_title">衛星測試 </string>
