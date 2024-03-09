@@ -254,7 +254,7 @@
     <string name="settings_orientationportrait">豎屏</string>
     <string name="settings_orientationauto">自動</string>
     <string name="draft_busdepot00_title">巴士廠</string>
-    <string name="draft_busdepot00_text">巴士由呢度出庫，但具體嘅乘降需要喺巴士站進行。</string>
+    <string name="draft_busdepot00_text">巴士喺呢度出廠，但係巴士嘅上落客要喺巴士站進行。</string>
     <string name="settings_debugmode">調試模式</string>
     <string name="unknown">腸仔包</string>
     <string name="draftselector_titleremove">摧毀</string>
@@ -284,7 +284,7 @@
     <string name="draftselector_titlerawbuilding">所有建築物</string>
     <string name="budget_busdepot">巴士車房</string>
     <string name="ci_budget_overallincome">總收入</string>
-    <string name="ci_budget_overallspending">總體支出</string>
+    <string name="ci_budget_overallspending">總支出</string>
     <string name="ci_rci_title">需求</string>
     <string name="ci_rci_res0">房屋 ₮</string>
     <string name="ci_rci_res1">房屋 ₮₮</string>
@@ -303,7 +303,7 @@
     <string name="loadcity_kbsize">%1$,d KB</string>
     <string name="draftselector_upgrades">%1$,d升級可行</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d升級可行</string>
-    <string name="buildinginfo_construction">正在建設: %1$.0f%% (%2$,d day(s) remaining)</string>
+    <string name="buildinginfo_construction">正在建設: %1$.0f%% (還有%2$,d日)</string>
     <string name="draft_footballstadion00_title">體育場</string>
     <string name="draft_footballstadion00_text">足球場</string>
     <string name="buildinginfo_cmdupgrade">升級</string>
@@ -320,26 +320,26 @@
     <string name="draft_middlepark00_title">中型公園</string>
     <string name="draft_middlepark00_text">居民們會鍾意呢個公園嘅。</string>
     <string name="draft_basketball00_title">籃球場</string>
-    <string name="draft_basketball00_text">仔們會鍾意喺呢度玩耍嘅</string>
+    <string name="draft_basketball00_text">小朋友會鍾意喺呢度玩嘅</string>
     <string name="draft_tennis00_title">網球場</string>
-    <string name="draft_tennis00_text">仔們可以喺呢度打網球。</string>
+    <string name="draft_tennis00_text">小朋友可以喺呢度打網球。</string>
     <string name="draft_middlepark00_lights_title">涼亭</string>
     <string name="draft_middlepark00_lights_text">涼亭係一個聚會玩樂嘅好去處。</string>
     <string name="draft_middlepark00_clock_title">塔鐘</string>
-    <string name="draft_middlepark00_clock_text">塔钟則會告訴居民而家嘅具體時間。</string>
-    <string name="notify_power_low">請注意，我哋嘅用電量已經飽和，應該考慮修建更多嘅發電設施。</string>
+    <string name="draft_middlepark00_clock_text">塔鐘則會告訴居民而家嘅具體時間。</string>
+    <string name="notify_power_low">請注意，我哋嘅用電量已經接近上限，應該考慮修建更多嘅發電機。</string>
     <string name="notify_water_low">請注意，我哋嘅用水量已經接近上限，應該考慮修建更多嘅水源供給設施。</string>
     <string name="notify_religion">可以為我哋建造一些宗教建築啊？</string>
     <string name="notify_park">多點綠化，呢度會更美</string>
     <string name="notify_sport">我哋希望有能夠做體育活動嘅地方</string>
-    <string name="buildinginfo_happiness">總體滿意度: %1$.0f%%</string>
+    <string name="buildinginfo_happiness">整體滿意度: %1$.0f%%</string>
     <string name="notify_noenergy">有些建築處於斷電狀態！ （請注意，斷電會導致建築廢棄）</string>
-    <string name="notify_nowater">有些建築物冇水！(请注意,缺少水源會导致建築废弃)</string>
+    <string name="notify_nowater">有些建築物冇水！(請注意，缺少水源會導致建築廢氣)</string>
     <string name="draft_footballstadion00_roof_title">頂棚</string>
     <string name="draft_footballstadion00_roof_text">安裝頂棚之後，可以喺任何天氣情況下進行足球比賽</string>
     <string name="draft_footballstadion00_fanshop_title">球迷商店</string>
-    <string name="draft_footballstadion00_fanshop_text">出售紀念品.</string>
-    <string name="notify_requirementbuilding">恭喜，你解鎖了%1$s.</string>
+    <string name="draft_footballstadion00_fanshop_text">出售紀念品。</string>
+    <string name="notify_requirementbuilding">恭喜，你解鎖了%1$s。</string>
     <string name="notify_requirementupgrade">恭喜，你解鎖了%1$s 建築物嘅 %2$s!</string>
     <string name="draftselector_titlesports">體育</string>
     <string name="draftselector_titlealert">意外</string>
@@ -352,8 +352,8 @@
     <string name="draft_alert_police00_text">通知警察去打擊犯罪行為。</string>
     <string name="draft_alert_fire00_title">報火警</string>
     <string name="draft_alert_fire00_text">如果發生火災，就需要通知消防局</string>
-    <string name="draft_alert_medic00_title">叫白車</string>
-    <string name="draft_alert_medic00_text">当有意外發生時，你必須叫救護車</string>
+    <string name="draft_alert_medic00_title">叫救護車</string>
+    <string name="draft_alert_medic00_text">當有意外發生時，你必須叫救護車</string>
     <string name="buildinginfo_powerusage">使用率: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">使用率: %1$.1f%%</string>
     <string name="settings_maxzoomout">增大縮小範圍</string>
@@ -371,7 +371,7 @@
     <string name="happiness_transportation">交通</string>
     <string name="happiness_water">水</string>
     <string name="happiness_zone">區域</string>
-    <string name="buildinginfo_happiness_comp">最低滿意度項: %2$.0f%% (%1$s)</string>
+    <string name="buildinginfo_happiness_comp">最低滿意度項目: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">宗教</string>
     <string name="draft_church01_title">教堂</string>
     <string name="draft_church01_text">標準嘅教堂</string>
@@ -388,7 +388,7 @@
     <string name="draft_radio00_news_title">新聞104.0電台</string>
     <string name="draft_radio00_news_text">發佈有關呢個城市嘅最新消息，令居民們開拓視野。
 \n
-\nOnly 同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
+\n同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
     <string name="draft_radio00_sport_title">體育電台</string>
     <string name="draft_radio00_sport_text">播報體育新聞同令人興奮嘅體育直播
 \n
@@ -396,13 +396,13 @@
     <string name="draft_radio00_fun_title">娛樂電台</string>
     <string name="draft_radio00_fun_text">播放很多嘅音樂和一些娛樂資訊，令聽眾感到愉悅。
 \n
-\nOnly 同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
+\n同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
     <string name="draft_radio00_faith_title">信仰電台</string>
     <string name="draft_radio00_faith_text">播報有關我哋嘅信念同存在嘅話題
 \n
-\nOnly 同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
+\n同一時間只能存在一種電台，已有嘅電台節目會被替換掉。</string>
     <string name="draft_lighthouse00_title">燈塔</string>
-    <string name="draft_lighthouse00_text">似乎可以畀船隻指路</string>
+    <string name="draft_lighthouse00_text">可以為船隻指路</string>
     <string name="draft_road02_title">快速路</string>
     <string name="draft_road02_text">兩個地點之間嘅快速連接。</string>
     <string name="budget_road">道路</string>
