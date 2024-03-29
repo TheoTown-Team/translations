@@ -266,7 +266,7 @@
     <string name="draftselector_cmdremove">刪除</string>
     <string name="draftselector_cmdview">顯示</string>
     <string name="busstopinfo_usage">等待中： %2$,d/%3$,d\n使用率: %1$.1f%%</string>
-    <string name="ci_rating_title">評價</string>
+    <string name="ci_rating_title">評分</string>
     <string name="ci_energy_networks">%1$,d 個網絡</string>
     <string name="ci_energy_produced">生產: %1$,.0fkW (%2$,d 建築物)</string>
     <string name="ci_energy_consumed">消耗: %1$,.0fkW (%2$,d 建築物)</string>
@@ -334,7 +334,7 @@
     <string name="notify_sport">我哋希望有能夠做體育活動嘅地方</string>
     <string name="buildinginfo_happiness">整體滿意度： %1$.0f%%</string>
     <string name="notify_noenergy">有些建築處於斷電狀態！ （請注意，斷電會導致建築廢棄）</string>
-    <string name="notify_nowater">有些建築物冇水！(請注意，缺少水源會導致建築廢氣)</string>
+    <string name="notify_nowater">有些建築物冇水！(請注意，缺少水源會導致建築廢棄)</string>
     <string name="draft_footballstadion00_roof_title">頂棚</string>
     <string name="draft_footballstadion00_roof_text">安裝頂棚之後，可以喺任何天氣情況下進行足球比賽</string>
     <string name="draft_footballstadion00_fanshop_title">球迷商店</string>
@@ -484,7 +484,7 @@
     <string name="draft_crater4x4_title">隕石坑</string>
     <string name="draft_crater4x4_text">呢個隕石阬都唔細，清理吓佢啦。</string>
     <string name="draft_crater1x1_title">小隕石坑</string>
-    <string name="draft_crater1x1_text">呢度有一個小小嘅石阬石坑，要有人清理一下大概有其他適合。</string>
+    <string name="draft_crater1x1_text">呢度有一個小小嘅石阬石坑，要有人清理一下。</string>
     <string name="settings_disaster_nuke">核武器</string>
     <string name="disaster_nuke_title">核武器</string>
     <string name="disaster_nuke_text">在選定地點引爆核武器。</string>
@@ -581,7 +581,7 @@
     <string name="draft_marker_densitymarker_text">建築物的密度</string>
     <string name="draft_marker_happinessmarker_title">滿意度</string>
     <string name="draft_marker_happinessmarker_text">居民對各個建築嘅滿意度</string>
-    <string name="draft_marker_levelmarker_title">等級</string>
+    <string name="draft_marker_levelmarker_title">建築物等級</string>
     <string name="draft_marker_levelmarker_text">建築物等級</string>
     <string name="draft_marker_protectedmarker_title">受保護建築</string>
     <string name="draft_marker_protectedmarker_text">顯示受保護建築物</string>
@@ -669,7 +669,7 @@
     <string name="draft_police01_title">小型警察局</string>
     <string name="draft_police01_text">保障社會治安，降低犯罪率</string>
     <string name="disaster_riot_title">暴動</string>
-    <string name="disaster_riot_text">引發一個暴動，呢個暴動只能由特種部隊嚟平息。</string>
+    <string name="disaster_riot_text">引發一場只能由特種部隊來平息的暴動。</string>
     <string name="disaster_riot_cmdtext">放佢哋出嚟！</string>
     <string name="draft_beach00_title">海灘</string>
     <string name="draft_beach00_text">冇嘢比喺海灘上過一日更舒服了。</string>
