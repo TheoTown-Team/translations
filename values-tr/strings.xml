@@ -3059,4 +3059,305 @@ Bu eyleme atamak için bir tuşa basın.</string>
     <string name="draft_fence_guardrail00_title">Guardrail</string>
     <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
 
+
+    <string name="draft_dsarocket_launchbutton">Launch</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
+    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Price: %s</string>
+    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
+    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
+    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
+    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
+    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
+    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
+    <string name="stage_createcity_terrain">Terrain...</string>
+    <string name="dialog_terrain_title">Terrain</string>
+    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
+    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
+    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
+    <string name="createcity_rivers">Rivers</string>
+    <string name="createcity_roughness">Roughness</string>
+    <string name="createcity_roughness_flat">Flat</string>
+    <string name="createcity_roughness_less">Less</string>
+    <string name="createcity_roughness_default">Default</string>
+    <string name="createcity_roughness_more">More</string>
+    <string name="createcity_roughness_extreme">Extreme</string>
+    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
+    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
+    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
+    <string name="buildingicon_nowater">This building does not receive enough water.</string>
+    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
+    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
+    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
+    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
+    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
+    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
+    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
+    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
+    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
+    <string name="buildingicon_crimeriot">People here are rioting.</string>
+    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
+    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
+    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+\n
+If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+\n
+Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
+    <string name="stage_files_itemcount">%d item(s)</string>
+    <string name="tips_title">Tips</string>
+    <string name="tips_cmd_random">Another one</string>
+    <string name="tip_topic_culture_title">
+Culture is provided by some landmarks, awards and plugins!
+    </string>
+    <string name="tip_topic_culture_text">
+Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+    </string>
+    <string name="tip_topic_fire_too_frequent_title">
+If buildings catch fire too often, place a fire station close by!
+    </string>
+    <string name="tip_topic_fire_too_frequent_text">
+If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+    </string>
+    <string name="tip_topic_pollution_distance_title">
+Keep residentials far away from pollution
+    </string>
+    <string name="tip_topic_pollution_distance_text">
+Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+    </string>
+    <string name="tip_topic_pollution_trees_title">
+You can reduce pollution by surrounding it with trees
+    </string>
+    <string name="tip_topic_pollution_trees_text">
+Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+    </string>
+    <string name="tip_topic_traffic_networking_title">
+Use one way roads and intersections to reduce traffic
+    </string>
+    <string name="tip_topic_traffic_networking_text">
+Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+    </string>
+    <string name="tip_topic_traffic_volume_title">
+You can adjust traffic volume in settings to reduce traffic
+    </string>
+    <string name="tip_topic_traffic_volume_text">
+To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+    </string>
+    <string name="tip_topic_more_cash_title">
+To get more cash, take a loan
+    </string>
+    <string name="tip_topic_more_cash_text">
+Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+    </string>
+    <string name="tip_topic_loan_repayment_title">
+Loans get repaid automatically each month
+    </string>
+    <string name="tip_topic_loan_repayment_text">
+Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+    </string>
+    <string name="tip_topic_discord_title">
+There\'s an official discord server!
+    </string>
+    <string name="tip_topic_discord_text">
+The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+    </string>
+    <string name="tip_topic_making_plugins_title">
+You can make your own plugins. It\'s easy™
+    </string>
+    <string name="tip_topic_making_plugins_text">
+It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+    </string>
+    <string name="tip_topic_online_collaboration_title">
+Collaborate on a region using online mode
+    </string>
+    <string name="tip_topic_online_collaboration_text">
+By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+    </string>
+    <string name="tip_topic_online_upload_title">
+Uploading a map to online mode takes diamonds or region coins
+    </string>
+    <string name="tip_topic_online_upload_text">
+Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+    </string>
+    <string name="tip_topic_diamonds_title">
+You can get diamonds by logging in daily
+    </string>
+    <string name="tip_topic_diamonds_text">
+Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+    </string>
+    <string name="tip_topic_supplies_title">
+Rocket supplies are provided by certain industrial buildings
+    </string>
+    <string name="tip_topic_supplies_text">
+The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+    </string>
+    <string name="tip_topic_train_bus_usage_title">
+There may be no visible train nor bus usage, but they still have an effect
+    </string>
+    <string name="tip_topic_train_bus_usage_text">
+Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+    </string>
+    <string name="tip_topic_vandalism_title">
+The spray paint icon indicates vandalism, build a police station
+    </string>
+    <string name="tip_topic_vandalism_text">
+The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+    </string>
+    <string name="tip_topic_cemetary_cremetorium_title">
+Build cemeteries and crematoriums to treat dead people
+    </string>
+    <string name="tip_topic_cemetary_cremetorium_text">
+If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
+    </string>
+    <string name="tip_topic_neighbourhood_commercial_title">
+To make some extra income, set up neighborhood commercial
+    </string>
+    <string name="tip_topic_neighbourhood_commercial_text">
+This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+    </string>
+    <string name="tip_topic_airport_title">
+The airport is a good long term investment
+    </string>
+    <string name="tip_topic_airport_text">
+To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+    </string>
+    <string name="tip_topic_youtube_title">
+YouTube has some useful tutorials
+    </string>
+    <string name="tip_topic_youtube_text">
+There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+    </string>
+    <string name="tip_topic_price_increase_title">
+Prices increase in game just like in real life
+    </string>
+    <string name="tip_topic_price_increase_text">
+Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+    </string>
+    <string name="tip_topic_creative_gameplay_title">
+For more creative freedom, play on sandbox/uber mode
+    </string>
+    <string name="tip_topic_creative_gameplay_text">
+A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+    </string>
+    <string name="tip_topic_toggle_disasters_title">
+You can turn off auto disasters in the game settings
+    </string>
+    <string name="tip_topic_toggle_disasters_text">
+Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+    </string>
+    <string name="tip_topic_taxes_percentage_title">
+Most your income is from taxes, but don\'t set it above 9%
+    </string>
+    <string name="tip_topic_taxes_percentage_text">
+Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+    </string>
+    <string name="tip_topic_taxes_adjust_title">
+You can toggle taxes using the + and - buttons
+    </string>
+    <string name="tip_topic_taxes_adjust_text">
+Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+    </string>
+    <string name="tip_topic_moon_title">
+Use DSA to go to the moon
+    </string>
+    <string name="tip_topic_moon_text">
+Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+    </string>
+    <string name="tip_topic_icbm_title">
+Careful! The ICBM will blow up your whole city
+    </string>
+    <string name="tip_topic_icbm_text">
+The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+    </string>
+    <string name="tip_topic_normalzone_densezone_title">
+Dense zones accommodate more people, but is more expensive to place
+    </string>
+    <string name="tip_topic_normalzone_densezone_text">
+Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+    </string>
+    <string name="tip_topic_forum_plugins_title">
+You can download plugins through the forums
+    </string>
+    <string name="tip_topic_forum_plugins_text">
+Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+    </string>
+    <string name="tip_topic_toll_happiness_title">
+Toll booths give additional income but they make residents unhappy
+    </string>
+    <string name="tip_topic_toll_happiness_text">
+Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+    </string>
+    <string name="tip_topic_building_rotation_title">
+Not all buildings have rotation frames
+    </string>
+    <string name="tip_topic_building_rotation_text">
+Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+    </string>
+    <string name="tip_topic_map_rotation_title">
+Change the map orientation using the mini map
+    </string>
+    <string name="tip_topic_map_rotation_text">
+The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+    </string>
+    <string name="tip_topic_demands_title">
+Build zones which are above the demand line
+    </string>
+    <string name="tip_topic_demands_text">
+When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
+    </string>
+    <string name="tip_topic_happiness_title">
+Press on a building to see their lowest happiness
+    </string>
+    <string name="tip_topic_happiness_text">
+Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+    </string>
+    <string name="tip_topic_game_extentions_title">
+There are official game extensions on the plugin store
+    </string>
+    <string name="tip_topic_game_extentions_text">
+Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
+    </string>
+    <string name="tip_topic_inspiration_title">
+Don\'t compare with other players\' cities, take inspiration
+    </string>
+    <string name="tip_topic_inspiration_text">
+Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+    </string>
+    <string name="tip_topic_road_connection_title">
+Use auto connect roads when building road networks
+    </string>
+    <string name="tip_topic_road_connection_text">
+Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+    </string>
+    <string name="tip_topic_epidemic_prevention_title">
+Place hospitals to avoid epidemics
+    </string>
+    <string name="tip_topic_epidemic_prevention_text">
+If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+    </string>
+    <string name="tip_topic_education_title">
+Residentials need both high and low education
+    </string>
+    <string name="tip_topic_education_text">
+To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
+    </string>
+    <string name="tip_topic_disable_smooth_zoom_title">
+To reduce lag, disable smooth zoom
+    </string>
+    <string name="tip_topic_disable_smooth_zoom_text">
+If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
+    </string>
+    <string name="tip_topic_building_bridges_title">
+Elevate roads using the arrow options on the right
+    </string>
+    <string name="tip_topic_building_bridges_text">
+Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
+    </string>
+    <string name="store_cmd_downloadall_title">Download all</string>
+    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+
+
+    <string name="tips_cmd_visitwebsite">Open</string>
+
 </resources>
