@@ -3104,68 +3104,68 @@
     <string name="draft_fence_guardrail00_text">保护行人的安全</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="draft_dsarocket_launchbutton">发射！</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">发射完毕。</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">发射进行中</string>
+    <string name="draft_dsarocket_requirement_supplies">供给: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">价格: %s</string>
+    <string name="draft_dsarocket_test_text">发射一个实验火箭，获得实验数据。</string>
+    <string name="draft_dsarocket_animal_text">送一只叫Akial的猫猫上天，收集生物数据。</string>
+    <string name="draft_dsarocket_navigation_text">这次是送一个人上天了。</string>
+    <string name="draft_dsarocket_exploration_text">寻找太空中宜居的地方。</string>
+    <string name="draft_dsarocket_sdi_text">发射一系列火箭，建立太空防御系统。</string>
+    <string name="draft_dsarocket_deprecated_text">发射台更新了，你得把这个拆掉去建新的。</string>
+    <string name="stage_createcity_terrain">地形</string>
+    <string name="dialog_terrain_title">地形</string>
+    <string name="dialog_missingmanifest_title">未包含清单文件的插件</string>
+    <string name="dialog_missingmanifest_text">下面的这些插件都没有清单文件。没有清单文件的插件容易和其他插件冲突，并且呢，还不能在多人游戏里面用，未来的兼容性也无法保证。</string>
+    <string name="dialog_missingmanifest_cmdhelp">这是什么？</string>
+    <string name="createcity_rivers">河流</string>
+    <string name="createcity_roughness">地形平整度</string>
+    <string name="createcity_roughness_flat">一望无际</string>
+    <string name="createcity_roughness_less">一马平川</string>
+    <string name="createcity_roughness_default">连绵起伏</string>
+    <string name="createcity_roughness_more">参差错落</string>
+    <string name="createcity_roughness_extreme">层峦叠嶂</string>
+    <string name="buildingicon_illness">住在这里的人生病了，速速呼叫救护车:(</string>
+    <string name="buildingicon_noroad">这里的建筑还没连上路呢！</string>
+    <string name="buildingicon_noenergy">这里的建筑没接上电呢！</string>
+    <string name="buildingicon_nowater">这里没连上水管。</string>
+    <string name="buildingicon_overloaded">啊哦，这里人似乎满了。</string>
+    <string name="buildingicon_unhappy">住在这儿的人不是很高兴呢。</string>
+    <string name="buildingicon_waste">看看是不是垃圾堆积如山了。</string>
+    <string name="buildingicon_wasteoverloaded">这儿的填埋场满了。</string>
+    <string name="buildingicon_deadbodies">这儿有人挂了，还没被运走呢。</string>
+    <string name="buildingicon_deadbodiesoverloaded">墓地没地方了。</string>
+    <string name="buildingicon_crimegraffiti">似乎有人在这里乱涂乱画呢。</string>
+    <string name="buildingicon_crimeburglary">这里似乎被洗劫一空了。</string>
+    <string name="buildingicon_crimemurder">有人死了，似乎是谋杀。</string>
+    <string name="buildingicon_crimeriot">暴乱！</string>
+    <string name="dialog_scriptpolicy_title">插件脚本设置</string>
+    <string name="dialog_scriptpolicy_help_title">插件的脚本可能带有风险。</string>
+    <string name="dialog_scriptpolicy_help_text">你必须同意才能让游戏加载这些有脚本的插件。这些插件应该是从你信任的地方下载的。\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+如果来源不明，最好不要勾选那些的插件。(译者注:带中文且有脚本的插件需要把名字改成英文，不然进不去游戏。)\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+这些插件的额外功能需要脚本来实现，如果不同意加载脚本，那么这些插件基本上也用不了。做出更改之后需要重启游戏。</string>
+    <string name="settings_openscriptpolicy">插件脚本设置</string>
+    <string name="stage_files_itemcount">%d 文件</string>
+    <string name="tips_title">小贴士</string>
+    <string name="tips_cmd_random">下一个</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
+地标奖励和插件提供文化满意度
     </string>
     <string name="tip_topic_culture_text">
 Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
+如果建筑总是着火，就把消防站建得近一点。
     </string>
     <string name="tip_topic_fire_too_frequent_text">
 If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
     </string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
+居民区要远离污染区域
     </string>
     <string name="tip_topic_pollution_distance_text">
 Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
@@ -3189,7 +3189,7 @@ You can adjust traffic volume in settings to reduce traffic
 To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
     </string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
+没钱可以去城市面板里面贷款借钱。
     </string>
     <string name="tip_topic_more_cash_text">
 Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
@@ -3207,7 +3207,7 @@ There\'s an official discord server!
 The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
     </string>
     <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
+自己动手做插件
     </string>
     <string name="tip_topic_making_plugins_text">
 It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
@@ -3225,7 +3225,7 @@ Uploading a map to online mode takes diamonds or region coins
 Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
     </string>
     <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
+连续每天签到领钻石
     </string>
     <string name="tip_topic_diamonds_text">
 Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
@@ -3249,7 +3249,7 @@ The spray paint icon indicates vandalism, build a police station
 The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
+建墓地或者火葬场处理死人
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
 If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
@@ -3279,13 +3279,13 @@ Prices increase in game just like in real life
 Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+开沙盒模式造景
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+很多老玩家造景的时候都喜欢用沙盒模式，顺便把乌托邦模式也开了。这样可以更静心地创造自己的杰作，毕竟不需要考虑满意度之类的东西。造景的建筑很多都是手工放置的，不过呢，也有人不是自己手动放的。
     </string>
     <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
+设置里关闭灾难
     </string>
     <string name="tip_topic_toggle_disasters_text">
 Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
@@ -3309,7 +3309,7 @@ Use DSA to go to the moon
 Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
     </string>
     <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
+洲际导弹
     </string>
     <string name="tip_topic_icbm_text">
 The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
@@ -3333,7 +3333,7 @@ Toll booths give additional income but they make residents unhappy
 Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
     </string>
     <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
+有的建筑不能旋转方向
     </string>
     <string name="tip_topic_building_rotation_text">
 Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
