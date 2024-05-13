@@ -5,12 +5,12 @@ Here *anybody* can help to localize TheoTown to other languages.
 ## For translators ##
 
 ### How translation works ###
-Each `values.xml` file contains lines of the form:<br/>
+Each `strings.xml` file contains lines of the form:<br/>
 `<tagname>"My translation"</tagname>`<br/>
 You have just to translate the part in between (here "My Translation"). Special characters like `\n` might be used to indicate a new line. When your translation is done, **make sure to create a 'pull request'** so it can be merged to main branch. If you forget to do that step your translation won't be added to the main branch.
 
 ### Languages ###
-Every directory contains a `values.xml` file. The corresponding languages are:
+Every directory contains a `strings.xml` file. The corresponding languages are:
 - values-af: Afrikaans
 - values-b+fil: Filipino
 - values-eu: Basque
