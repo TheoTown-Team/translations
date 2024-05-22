@@ -2101,8 +2101,8 @@
     <string name="draft_cemetery01_text">死者遺體被埋葬嘅地方，呢個公墓有好多空間。</string>
 
     <string name="settings_bigger_minimap">加大小地圖大小</string>
-    <string name="stage_account_title">帳戶</string>
-    <string name="stage_account_text">為咗使用我們嘅在線服務，你必須連接到一個帳戶。</string>
+    <string name="stage_account_title">帳户</string>
+    <string name="stage_account_text">為咗使用我們嘅在線服務，你必須連接到一個帳户。</string>
     <string name="stage_account_forum">西奧小鎮論壇</string>
     <string name="forum_username">用戶名：</string>
     <string name="forum_password">密碼：</string>
@@ -3035,291 +3035,332 @@
     <string name="draft_fence_guardrail00_text">使用金屬交通護欄嚟保障安全。</string>
 
 
-    <string name="draft_dsarocket_launchbutton">發射！</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">準備發射</string>
-    <string name="draft_dsarocket_requirement_launchOngoing"> 火箭發射中……</string>
-    <string name="draft_dsarocket_requirement_supplies">供給: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">所需物資: %s</string>
-    <string name="draft_dsarocket_test_text">將實驗火箭發射至太空，以收集數據並為其他嘅測試做准備。</string>
-    <string name="draft_dsarocket_animal_text">將裝有莱卡狗嘅火箭發射到太空，以收集重要信息。</string>
-    <string name="draft_dsarocket_navigation_text">將載人火箭發射到太空進行導航測試。 </string>
-    <string name="draft_dsarocket_exploration_text">發射火箭前往探險任務，尋搵合適嘅星球建立殖民地。</string>
-    <string name="draft_dsarocket_sdi_text">向太空發射一系列火箭，以建設太空防御計劃。</string>
-    <string name="draft_dsarocket_deprecated_text">發射臺已更新,拆除現有嘅舊發射臺,用新發射臺嚟替代佢啦！</string>
-    <string name="stage_createcity_terrain">地形鋪設…</string>
-    <string name="dialog_terrain_title">地形</string>
-    <string name="dialog_missingmanifest_title">插件清單檔案缺失</string>
-    <string name="dialog_missingmanifest_text">以下插件因冇插件清單檔案(plugin.manifest). 可能無法用於在線模式,會喺遊戲上造成不穩定： </string>
-    <string name="dialog_missingmanifest_cmdhelp">這是什麼？</string>
-    <string name="createcity_rivers">河流</string>
-    <string name="createcity_roughness">粗糙度</string>
-    <string name="createcity_roughness_flat">平坦</string>
-    <string name="createcity_roughness_less">少量</string>
-    <string name="createcity_roughness_default">預設</string>
-    <string name="createcity_roughness_more">大量</string>
-    <string name="createcity_roughness_extreme">極高</string>
-    <string name="buildingicon_illness">呢棟樓入面嘅人病. 你應該派個醫生嚟.。</string>
-    <string name="buildingicon_noroad">呢棟建築沒有連接到合適嘅道路上。</string>
-    <string name="buildingicon_noenergy">呢棟建築沒有能源供給</string>
-    <string name="buildingicon_nowater">呢棟建築沒有能源供給</string>
-    <string name="buildingicon_overloaded">呢棟建築過載了，需要進行擴建</string>
-    <string name="buildingicon_unhappy">呢棟建築內的居民滿意度極低</string>
-    <string name="buildingicon_waste">臭氣熏天！呢棟建築內有大量未被垃圾車運走嘅垃圾。</string>
-    <string name="buildingicon_wasteoverloaded">垃圾堆填區空間不足。</string>
-    <string name="buildingicon_deadbodies">屍體正在等待被運走</string>
-    <string name="buildingicon_deadbodiesoverloaded">墓地空間不足。</string>
-    <string name="buildingicon_crimegraffiti">有人喺呢度乱扠乱画.。</string>
-    <string name="buildingicon_crimeburglary">有人非法闖入呢度。</string>
-    <string name="buildingicon_crimemurder">呢度發生一起兇殺案</string>
-    <string name="buildingicon_crimeriot">呢度發生一場暴亂!</string>
-    <string name="dialog_scriptpolicy_title">插件指令碼程式安全策略</string>
-    <string name="dialog_scriptpolicy_help_title">部分插件嘅指令碼程式有安全風險 </string>
-    <string name="dialog_scriptpolicy_help_text">用戶可以 開啓/關閉 相關插件嘅指令碼程式 只可通過信任源（例如你正在製作一個插件，需要在遊戲中測試）開啓對應嘅指令碼程式。\n
+    <string name="draft_dsarocket_launchbutton">Launch</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
+    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Price: %s</string>
+    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
+    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
+    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
+    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
+    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
+    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
+    <string name="stage_createcity_terrain">Terrain...</string>
+    <string name="dialog_terrain_title">Terrain</string>
+    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
+    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
+    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
+    <string name="createcity_rivers">Rivers</string>
+    <string name="createcity_roughness">Roughness</string>
+    <string name="createcity_roughness_flat">Flat</string>
+    <string name="createcity_roughness_less">Less</string>
+    <string name="createcity_roughness_default">Default</string>
+    <string name="createcity_roughness_more">More</string>
+    <string name="createcity_roughness_extreme">Extreme</string>
+    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
+    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
+    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
+    <string name="buildingicon_nowater">This building does not receive enough water.</string>
+    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
+    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
+    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
+    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
+    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
+    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
+    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
+    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
+    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
+    <string name="buildingicon_crimeriot">People here are rioting.</string>
+    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
+    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
+    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
 \n
-插件未經檢查前，不要啓用對應嘅指令碼程式。\n
+If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
 \n
-禁用后，需要重新啟動應用程序。</string>
-    <string name="settings_openscriptpolicy">插件指令碼程式安全策略</string>
-    <string name="stage_files_itemcount">%d 文件</string>
-    <string name="tips_title">貼士</string>
-    <string name="tips_cmd_random">下一個</string>
+Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
+    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
+    <string name="stage_files_itemcount">%d item(s)</string>
+    <string name="tips_title">Tips</string>
+    <string name="tips_cmd_random">Another one</string>
     <string name="tip_topic_culture_title">
-遊戲中的文化影響力可由部分地標建築、獎勵和插件提供！    </string>
+Culture is provided by some landmarks, awards and plugins!
+    </string>
     <string name="tip_topic_culture_text">
-多数数规模较小嘅地标，包埃菲尔铁塔，喺现实世界中都有一定嘅文化影响力。通過插件庫和論壇，你可以下載更多提供文化影響力嘅插件。
+Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-如果一個建築物經常起火，這就需要喺佢嘅附近放置消防局！    </string>
+If buildings catch fire too often, place a fire station close by!
+    </string>
     <string name="tip_topic_fire_too_frequent_text">
-某個建築物經常起火？這意味着佢可能不在消防局的覆蓋範圍中，住宅區、商業區、工業區都要在消防局的覆蓋半徑內，請確保整個地圖都在各個消防局的影響範圍中，以便火災發生時能進行救援。    </string>
+If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+    </string>
     <string name="tip_topic_pollution_distance_title">
-住宅區需要遠離各類污染源（如噪音，核輻射，工業污染）    </string>
+Keep residentials far away from pollution
+    </string>
     <string name="tip_topic_pollution_distance_text">
-沒有人願意居住在一個污染嚴重嘅城市中，如果居民嘅環境滿意度極低，則需要尋找城市中的污染源，採取措施來消除它（使用移動或拆除工具），污染源可通過“視圖”工具嚟進行查找，或尋找有紅色標識嘅建築物。    </string>
+Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+    </string>
     <string name="tip_topic_pollution_trees_title">
-你也可以用樹林環繞污染源，以減輕污染程度！    </string>
+You can reduce pollution by surrounding it with trees
+    </string>
     <string name="tip_topic_pollution_trees_text">
-如果無法移動或拆除某一建築物時，可以使用樹木環繞污染源，樹木可以過濾這些污染物，這是一種成本較低嘅解決方案。    </string>
+Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+    </string>
     <string name="tip_topic_traffic_networking_title">
-單行道與立交可以緩解交通擁堵！    </string>
+Use one way roads and intersections to reduce traffic
+    </string>
     <string name="tip_topic_traffic_networking_text">
-通常，高速路和工業區嘅交匯處容易出現交通擁擠。 這就需要一個合適嘅道路網。 單向道路和各類立交橋可以有效緩解擁堵。 遊戲原版同插件庫中都有立交插件。 你也可以以現實生活中嘅立交橋爲例進行建設。    </string>
+Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+    </string>
     <string name="tip_topic_traffic_volume_title">
-你可以喺設置欄中較車流量！    </string>
+You can adjust traffic volume in settings to reduce traffic
+    </string>
     <string name="tip_topic_traffic_volume_text">
-要在設置中調整流量，請打開調試模式先。 啟用調試與實驗性功能後，將提供降低或增加流量的選項。 你揀嘅百分比取決於你擁有幾多流量以及需要幾多挑戰。
+To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
     </string>
     <string name="tip_topic_more_cash_title">
-資金唔夠，貸款嚟湊！
+To get more cash, take a loan
     </string>
     <string name="tip_topic_more_cash_text">
-點擊右下角（或左下角）嘅收入圖標，然後切換到帶有綠色現金圖標嘅選項卡，點擊“收下”。 貸款提供的金額取決於城市財產，一次最多可以申請5筆貸款。
+Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
     </string>
     <string name="tip_topic_loan_repayment_title">
-貸款償還，每月自動進行！
+Loans get repaid automatically each month
     </string>
     <string name="tip_topic_loan_repayment_text">
-遊戲時間中嘅每個月都會自動扣除貸款還款額。 它們無需手動支付，可以透過進入貸款選項卡嚟查看投資回收期。
+Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
     </string>
     <string name="tip_topic_discord_title">
-加入官方discord服務器，開啟一段新嘅遊戲之旅！
+There\'s an official discord server!
     </string>
     <string name="tip_topic_discord_text">
-喺官方discord服務器中一同探尋遊戲嘅樂趣吧！服務器可以喺遊戲設置欄中搵到。 
+The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
     </string>
     <string name="tip_topic_making_plugins_title">
-你都可以製作一個自己嘅插件。 這很簡單 ™
+You can make your own plugins. It\'s easy™
     </string>
     <string name="tip_topic_making_plugins_text">
-步驟有點繁瑣，但製作插件好易。 要製作插件貼圖，你可以喺PC上使用Pixel Studio同喺移動設備上使用Pixly之類嘅嘢。 要編寫指令碼程式，可以前往https://pca.svetikas.lt/。 如果你有任何問題，我哋可以喺discord或論壇上響應！
+It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
     </string>
     <string name="tip_topic_online_collaboration_title">
-與好友一同探索在線模式！
+Collaborate on a region using online mode
     </string>
     <string name="tip_topic_online_collaboration_text">
-通過按區域視圖中的 在線 按鈕，您可以與朋友或其他成員協作，一同創建一個美麗的區域。 遊戲不允許多個玩家喺同一張地圖上建造，但你可以訪問區域上嘅其他城市並獲得靈感。
+By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
     </string>
     <string name="tip_topic_online_upload_title">
-地圖上傳到在線模式需要鑽石或區域幣！
+Uploading a map to online mode takes diamonds or region coins
     </string>
     <string name="tip_topic_online_upload_text">
-每日登錄會獎勵鑽石（移動端）同區域幣（Steam平台）。 上傳區域嘅使費因大小而異。 上傳地圖時，創建者可以設置密碼和一些規則。 注意，密碼一旦創建就無法重置。 
+Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
     </string>
     <string name="tip_topic_diamonds_title">
-你可以透過每日獎勵嚟獲得鑽石
+You can get diamonds by logging in daily
     </string>
     <string name="tip_topic_diamonds_text">
-点击每日奖励（移動端）會獲得鑽石。一旦你獲得第7天的最終獎勵，它就會重置並重新開始。 此外，你仲可以每30分钟觀看一次免費廣告以獲取鑽石。
+Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
     </string>
     <string name="tip_topic_supplies_title">
-火箭供給由某些工業建築供應！
+Rocket supplies are provided by certain industrial buildings
     </string>
     <string name="tip_topic_supplies_text">
-供應燃料嘅建築物分佈在三個不同等級嘅工業建築中。 其中包括石油開採建築、儲存建築同加工建築。 呢啲將為您的火箭提供補給。 在火箭附近擁有大量工業區將有助於更快咁供應火箭。
+The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
     </string>
     <string name="tip_topic_train_bus_usage_title">
-空無一人嘅車站，卻是交通擁堵嘅救星？
+There may be no visible train nor bus usage, but they still have an effect
     </string>
     <string name="tip_topic_train_bus_usage_text">
-巴士站和火車站可能會顯示 目前冇乘客 。但是，它們有一定嘅交通影響力，可以提升居民嘅滿意度，因此，請務必與佢哋一齊覆蓋成個區域。 
+Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
     </string>
     <string name="tip_topic_vandalism_title">
-犯罪現場の噴漆圖標，警察局建設刻不容緩！    </string>
+The spray paint icon indicates vandalism, build a police station
+    </string>
     <string name="tip_topic_vandalism_text">
-当建築物旁沒有警察局時，會出現噴漆圖標。 住宅、商業和工業建築需要喺警察局嘅覆蓋半徑內。
+The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-塵歸塵，土歸土：建造墓地，讓靈魂安息~
+Build cemeteries and crematoriums to treat dead people
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
-如果死人圖標   在一棟或多棟建築物上方彈出，則表明你嘅城市需要建造墓地或火葬場。 墓地啱啱開始時好好，但隨住城市嘅發展，它們的清理頻率會越嚟越高。 因此，火葬場可能係一個更好嘅長期解決方案。
+If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-為咗賺取一些額外收入，請建立鄰里商業~
+To make some extra income, set up neighborhood commercial
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-只能喺你解鎖咗附近城市嘅區域完成。 有一個鄰里商業標籤。 通過調整數值，您可以從附近的城市進口/出口水電，能源等。 在線模式下不起作用，如果您嘗試設置的一個或多個城市處於沙盒或優步模式，則此操作不起作用。
+This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
     </string>
     <string name="tip_topic_airport_title">
-投資機場？畀錢生錢嘅新選擇！
+The airport is a good long term investment
     </string>
     <string name="tip_topic_airport_text">
-要使機場正常運行，請建造所有機場建築物（如塔台，航站樓），建設跑道，並將飛機分配畀跑道。機場喺正式投入運營後會變得有利可圖。 意味住一旦投入了初始成本，就可以獲得大量利潤。
+To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
     </string>
     <string name="tip_topic_youtube_title">
-YouTube 和 Bilibili上有好多有用嘅教程！
+YouTube has some useful tutorials
     </string>
     <string name="tip_topic_youtube_text">
-有啲經驗豐富嘅TheoTown玩家同創作者喺YouTube或Bilibili上發佈視頻哟。
+There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
     </string>
     <string name="tip_topic_price_increase_title">
-遊戲中各個建築嘅建設成本會隨著時間的推移慢慢上漲~
+Prices increase in game just like in real life
     </string>
     <string name="tip_topic_price_increase_text">
-放置嘅建築物同道路越多，價格越高。這一點適用于道路、裝飾、區域同所有類型嘅建築物。
+Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-感覺遊戲中嘅條條框框過多？請喺沙盒/烏托邦模式下玩！
+For more creative freedom, play on sandbox/uber mode
     </string>
     <string name="tip_topic_creative_gameplay_text">
-呢啲模式允許玩家喺冇資金限制嘅情況下進行建造，而且喺占烏托邦佤模式時，玩家甚至不需要擔心居民嘅幸福度或需求。 可以不受限制嘅進行創作。 </string>
+A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+    </string>
     <string name="tip_topic_toggle_disasters_title">
-你可以喺遊戲設置欄中關閉自動災難~
+You can turn off auto disasters in the game settings
     </string>
     <string name="tip_topic_toggle_disasters_text">
-災難可以在設置中關閉。如果使用DSA採礦企或軍用導彈發射井，該市喺自動災難關閉嘅情況下仍面臨地震或其他災難的風險。
+Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-你城市嘅大部分收入來自稅收，但唔好將其設置喺9%以上！
+Most your income is from taxes, but don\'t set it above 9%
     </string>
     <string name="tip_topic_taxes_percentage_text">
-特別係喺遊戲早期，90%甚至更多嘅收入來自稅收。 要徵收的稅款喺7%到9%之間。 如果稅收高於呢個數字，可能會發生騷亂或建築廢棄。
+Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
     </string>
     <string name="tip_topic_taxes_adjust_title">
-你可以使用+和-按鈕嚟調整稅收
+You can toggle taxes using the + and - buttons
     </string>
     <string name="tip_topic_taxes_adjust_text">
-按下遊戲左上角或右上角嘅笑臉圖標，然後切換到稅收選項卡，然後使用 + 同 - 按鈕切換每種建築類型同收入組嘅税收。 不過要注意唔好将稅收定得太高。
+Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
     </string>
     <string name="tip_topic_moon_title">
-DSA機構：月球，我哋嚟咗！
+Use DSA to go to the moon
     </string>
     <string name="tip_topic_moon_text">
-解鎖DSA總部並升級建築物以前往月球。 火箭發射需要補給，一旦補給充足，就有機會登上月球（有可能會發射失敗，墜毀在城市中）。 如果發射到月球成功，月球地圖可在單獨城市下進行重訪。 透過喺太空中開採某些礦石，探索某些神秘嘅遺蹟，仲有精彩嘅劇情等待你的發現。
+Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
     </string>
     <string name="tip_topic_icbm_title">
-小心! 洲際彈道導彈會炸毀你嘅成個城市！
+Careful! The ICBM will blow up your whole city
     </string>
     <string name="tip_topic_icbm_text">
-洲際彈道導彈唔係自然發生的災難，只能透過洲際彈道導彈發射井嚟引爆。 之，使用洲際彈道導彈時要小心，它會喺幾秒鐘內炸毀成個城市，無論它有多大。 您可以備份或複製城市，避免在測試洲際彈道導彈後後悔。
+The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
-密集住宅/商業/工業區可容納更多人，但放置成本更高~
+Dense zones accommodate more people, but is more expensive to place
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-密集住宅/商業/工業區通常比普通區域更昂貴，但可以容納更多嘅居民。 反過來，它們通常都比正常區域內嘅建築高。 撇開呢啲差異唔傾，沒有太多其他差異。
+Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
     </string>
     <string name="tip_topic_forum_plugins_title">
-你可以透過論壇下載插件！
+You can download plugins through the forums
     </string>
     <string name="tip_topic_forum_plugins_text">
-一些插件創建者選擇喺論壇上獨家發佈一些插件。 插件库内可能沒有嗰啲插件。 呢啲係免費下載嘅，必須手動放置喺設備嘅插件文件夾中。 請注意，呢啲插件冇經過審核，可能有一定嘅安全風險。
+Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
     </string>
     <string name="tip_topic_toll_happiness_title">
-收費站提供了額外收入，但會降低居民嘅整體滿意度~
+Toll booths give additional income but they make residents unhappy
     </string>
     <string name="tip_topic_toll_happiness_text">
-可以設置收費站，對来往車輛收取一定的金額，有助於提升整體收入。 收費金額可以進行調整。 然而，這會降低咗交通滿意度，使啲人唔快樂。
+Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
     </string>
     <string name="tip_topic_building_rotation_title">
-並非所有建築物都有旋轉感知！
+Not all buildings have rotation frames
     </string>
     <string name="tip_topic_building_rotation_text">
-一些原版建築確實有旋轉感知，但唔係全部。 要查看哪些建築物具有旋轉感知，請點擊建築物，然後查看它們右上角是否有 下一種類 和 上一種類 按鈕。 沒有旋轉感知可為更多樣化嘅建築物留低咗更多空間。
+Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
     </string>
     <string name="tip_topic_map_rotation_title">
-利用遊戲小地圖來改變整個地圖方向~
+Change the map orientation using the mini map
     </string>
     <string name="tip_topic_map_rotation_text">
-小地圖可以用作旋轉地圖嘅工具。 按下小地圖並使用    向左或向右旋轉地圖。 需要注意嘅係，雖然地圖可以旋轉，但並非所有建築物都會跟隨旋轉。
+The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
     </string>
     <string name="tip_topic_demands_title">
-注意需求線以上嘅部分~
+Build zones which are above the demand line
     </string>
     <string name="tip_topic_demands_text">
-当特定建築物嘅需求高於需求線時，表明相應需求嘅人或企業希望搬到您的城市。 因此，您應該為他們提供對應嘅設施。 当需求低於需求線時，表示要建設其他類型嘅建築和配套設施（公園、警察等）。
+When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
     </string>
     <string name="tip_topic_happiness_title">
-按喺建築物上，睇吓佢哋最低嘅滿意度~
+Press on a building to see their lowest happiness
     </string>
     <string name="tip_topic_happiness_text">
-點擊並查看建築物有助於確定該建築內嘅居民滿意度過低嘅原因。 同時也能查看該建築對應嘅平均滿意度。 一旦確定了該建築物內居民最低的一項滿意度，你就可以採取行動嚟解決它。 例如，如果一棟建築因為缺乏公園設施而導致滿意度降低，喺建築物嘅地方放置一個公園以提升滿意度身。 
+Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
     </string>
     <string name="tip_topic_game_extentions_title">
-插件库上有官方遊戲擴展~
+There are official game extensions on the plugin store
     </string>
     <string name="tip_topic_game_extentions_text">
-官方遊戲擴展由用Lobby發佈。 呢啲通常係免費嘅。
+Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
     </string>
     <string name="tip_topic_inspiration_title">
-獨步城市，汲取靈感之光~
+Don\'t compare with other players\' cities, take inspiration
     </string>
     <string name="tip_topic_inspiration_text">
-不同玩家的城市作品風貌各異，與其艷慕他人，不如發掘其他玩家城市中的美，尋找那些城市中吸引你的點，試著一點點模仿他們，直到創造出屬於你的城市之美！    </string>
+Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+    </string>
     <string name="tip_topic_road_connection_title">
-建設十字路口時开启整合道路~
+Use auto connect roads when building road networks
     </string>
     <string name="tip_topic_road_connection_text">
-點擊道路，然後按右上角嘅“整合道路”将会自動合併另一側嘅道路。將有助於避免道路因未正確連接而無法正常工作。
+Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
-安置醫院以阻止瘟疫嘅傳播~
+Place hospitals to avoid epidemics
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-如果建築物上方有綠色面孔圖標，則表明該住宅嘅居民生病了。 為咗避免將來出現呢種情況，請喺所有區域範圍內建造醫院。 為咗保持居民嘅健康，你仲應該確保你的供水設施位於清潔區域。
+If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
     </string>
     <string name="tip_topic_education_title">
-住宅區需要高等教育同小學教育~
+Residentials need both high and low education
     </string>
     <string name="tip_topic_education_text">
-為咗提高教育幸福感，必須提供高等教育同小學教育。 呢啲係建築物升級的必要條件。 因此，請務必同時覆蓋具有兩種教育設施。
+To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
-想要減少遊戲畫面卡頓，請進入設置欄禁用平滑縮放~
+To reduce lag, disable smooth zoom
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-如果你覺得遊戲畫面卡頓，請考慮關閉平滑縮放選項。 此選項可以喺遊戲設置中搵到。 這樣做有助於改善遊戲體驗。
+If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
     </string>
     <string name="tip_topic_building_bridges_title">
-點擊右側嘅↑選項嚟建造高架橋~
+Elevate roads using the arrow options on the right
     </string>
     <string name="tip_topic_building_bridges_text">
-點擊要抬升嘅道路。 然後在道路建設選項中，點擊其中一塊道路，然後構建一個向上嘅斜坡。 接著再點擊 下降 ，以建造下坡。 同時，點擊 橋 自動搭設。 需要注意嘅係，並非所有道路都能建造高架橋。 
+Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
     </string>
-    <string name="store_cmd_downloadall_title">全部下載</string>
-    <string name="store_cmd_downloadall_text">全部下載/一次搞定所有缺失插件</string>
+    <string name="store_cmd_downloadall_title">Download all</string>
+    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
 
 
-    <string name="tips_cmd_visitwebsite">打開</string>
+    <string name="tips_cmd_visitwebsite">Open</string>
+
+
+    <string name="settings_category_notifications">Notifications</string>
+    <string name="settings_notify_low_power">Low power</string>
+    <string name="settings_notify_low_water">Low water</string>
+    <string name="settings_notify_no_power">No power</string>
+    <string name="settings_notify_no_water">No water</string>
+    <string name="settings_notify_no_road">No road</string>
+    <string name="settings_notify_no_park">No park</string>
+    <string name="settings_notify_no_sport">No sport</string>
+    <string name="settings_notify_pollution">Pollution</string>
+    <string name="settings_notify_noise">Noise</string>
+    <string name="settings_notify_water_waste">Water waste</string>
+    <string name="settings_notify_unhappy">Unhappy</string>
+    <string name="settings_notify_unlocked">Unlocked building</string>
+    <string name="settings_notify_low_budget">Low budget</string>
+    <string name="settings_notify_zone_needed">Zone needed</string>
+    <string name="settings_notify_polluted_pump">Polluted pump</string>
+    <string name="settings_notify_school_overloaded">School overloaded</string>
+    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
+    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
+    <string name="settings_notify_need_low_education">Need low education</string>
+    <string name="settings_notify_need_high_education">Need high education</string>
+    <string name="settings_notify_bad_traffic">Bad traffic</string>
+    <string name="settings_notify_waste">Garbage collection</string>
+    <string name="settings_notify_body_disposal">Body disposal</string>
+    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="show_eula">EULA</string>
 
 </resources>
