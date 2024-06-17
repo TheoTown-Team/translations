@@ -3090,132 +3090,132 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_fence_tallwooden00_title">Valla alta de madera</string>
     <string name="draft_fence_tallwooden00_text">Para mantener los intrusos a raya.</string>
     <string name="draft_fence_chainlink00_title">Valla metálica</string>
-    <string name="draft_fence_chainlink00_text">Valla metálica hecho de made una malla metálica.</string>
+    <string name="draft_fence_chainlink00_text">Valla metálica hecho de una malla metálica.</string>
     <string name="draft_fence_metalrailing00_title">Barandilla metálica</string>
     <string name="draft_fence_metalrailing00_text">Una barandilla negra y baja para protejer a los peatones.</string>
     <string name="draft_fence_guardrail00_title">Barandilla</string>
     <string name="draft_fence_guardrail00_text">Mantente seguro con estas barreras de tráfico metálicas.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="draft_dsarocket_launchbutton">Despegar</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Ya despegado</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Despegue en curso</string>
+    <string name="draft_dsarocket_requirement_supplies">Suministros: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Precio: %s</string>
+    <string name="draft_dsarocket_test_text">Lanza un cohete experimental al espacio para obtener información y preparar otros lanzamientos y misiones.</string>
+    <string name="draft_dsarocket_animal_text">Lanza un cohete al espacio con el gato Aikal adentro para obtener información importante.</string>
+    <string name="draft_dsarocket_navigation_text">Lanza un cohete con un humano adentro para llevar a cabo pruebas de navegación.</string>
+    <string name="draft_dsarocket_exploration_text">Lanza un cohete para la misión de exploración para encontrar un lugar apropiado para la colonización.</string>
+    <string name="draft_dsarocket_sdi_text">Lanza unos cohetes en serie para la iniciativa de defensa espacial.</string>
+    <string name="draft_dsarocket_deprecated_text">La plataforma de despegue se ha actualizado, necesitas quitar este y construir la nueva.</string>
+    <string name="stage_createcity_terrain">Terreno...</string>
+    <string name="dialog_terrain_title">Terreno</string>
+    <string name="dialog_missingmanifest_title">Archivos Plugin Manifest No Encontrados</string>
+    <string name="dialog_missingmanifest_text">Los siguientes plugins no tienen definido un archivo plugin manifest (plugin.manifest). Esto puede provocar problemas con otros plugins y en el modo online. La compatibilidad no se puede asegurar a la larga:</string>
+    <string name="dialog_missingmanifest_cmdhelp">¿Qué es esto?</string>
+    <string name="createcity_rivers">Ríos</string>
+    <string name="createcity_roughness">Rugosidad</string>
+    <string name="createcity_roughness_flat">Aplanar</string>
+    <string name="createcity_roughness_less">Menor</string>
+    <string name="createcity_roughness_default">Por defecto</string>
+    <string name="createcity_roughness_more">Mas</string>
+    <string name="createcity_roughness_extreme">Extremo</string>
+    <string name="buildingicon_illness">Los residentes de este edificio están enfermos. Deberías mandar un médico.</string>
+    <string name="buildingicon_noroad">Este edificio no está conectada a una carretera apropiada.</string>
+    <string name="buildingicon_noenergy">Este edificio no está recibiendo suficiente electricidad.</string>
+    <string name="buildingicon_nowater">Este edificio no está recibiendo suficiente agua.</string>
+    <string name="buildingicon_overloaded">Este edificio está sobrecargado. Deberías proporcionar más capacidad.</string>
+    <string name="buildingicon_unhappy">Los inquilinos de este edificio no están contentos.</string>
+    <string name="buildingicon_waste">Hay basura no recogida en este edificio.</string>
+    <string name="buildingicon_wasteoverloaded">Este vertedero está lleno.</string>
+    <string name="buildingicon_deadbodies">Hay cuerpos no recogidos en este edificio.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Este cementerio está lleno.</string>
+    <string name="buildingicon_crimegraffiti">Alguien ha dibujado un grafiti aquí.</string>
+    <string name="buildingicon_crimeburglary">Alguien acaba de allanar aquí.</string>
+    <string name="buildingicon_crimemurder">Alguien ha sido asesinado aquí.</string>
+    <string name="buildingicon_crimeriot">Está ocurriendo un motín aquí.</string>
+    <string name="dialog_scriptpolicy_title">Política de Scripts para Plugins</string>
+    <string name="dialog_scriptpolicy_help_title">Los Scrpts de Plugins pueden ser peligrosos</string>
+    <string name="dialog_scriptpolicy_help_text">TÚ tienes el poder de permitir la ejecución de Scripts para plugins externos. Solo autoriza scripts de fuentes confiables (ej. tú mismo, si estás trabajando en un plugin).\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+En caso de duda, NO habilites la ejecución de scripts de plugins sin inspeccionar el código por ti mismo.\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+Plugins que requiera la ejecución de scripts para funcionar puede no funcionar si lo deshabilitas. Necesitarás reiniciar el juego para que surta efecto.</string>
+    <string name="settings_openscriptpolicy">Política de Scripts para Plugins</string>
+    <string name="stage_files_itemcount">%d elemento(s)</string>
+    <string name="tips_title">Consejos</string>
+    <string name="tips_cmd_random">Otro</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
+¡La cultura es proporcionada por algunos monumentos y plugins!
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+La mayoría de monumentos pequeños hasta la Torre Eiffel proveen influencia de cultura, igual que las recompensas con un significado cultural en la vida real. Se puede descargar mass plugins que proporcionan cultura en la tienda de plugins o en los foros.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
+Si los edificios se incendian muy a menudo, ¡Coloca una estación de bomberos!
     </string>
     <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+Si los edificios se incendian muy a menudo, esto indica que el radio de influencia de la estación de bomberos no los cubre. Los edificios Residenciales, Comerciales e Industriales requieren una estación de bomberos cuya influencia les cubra. Esto ayudará en prevenir más incendios en el futuro.
     </string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
+Manten las residencias lejos de la contaminación
     </string>
     <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+A los habitantes no les gusta la contaminación. Si se quejan sobre demasiada contaminación, investiga la fuente de ella. El edificio que produce contaminación se puede encontrar presionando el botón de las influencias (botón con el ojo) y luego la influencia de la contaminación, o buscando edificio con círculos rojos alrededor de este. Mueve el edificio contaminante o elimínalo  en favor de una opción más respetuosa con el medio ambiente.
     </string>
     <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
+Puedes reducir la contaminación con árboles
     </string>
     <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+A los habitantes no les gusta la contaminación. Para salvarte de la molestia de mover edificios, especialmente en ciudades bien planificadas, puedes plantar árboles. Los árboles frenan la contaminación y plantando más reduce considerablemente la contaminación. Además, este método es considerado el más económico, ya que los árboles son baratos de plantar. El número de árboles que son necesarios depende de la cantidad de contaminación y la influencia de los árboles.
     </string>
     <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
+Utiliza carreteras de un sentido e intersecciones para reducir el tráfico
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+Muy a menudo, lugares como las autopistas o las zonas industriales se pueden congestionar. Una red de carreteras apropiada es necesario para solucionar este problema. Carreteras de un sentido e intersecciones pueden ayudar. Existen intersecciones pre hechas en el juego y como plugins. También puedes hacerlos por tu cuenta utilizando intersecciones en la vida real como ejemplo. Esto permitirá una mejor fluidez de tráfico.
     </string>
     <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
+Puedes ajustar la cantidad de tráfico en los ajustes
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+Para ajustar la cantidad de tráfico en los ajustes, habilita primero el modo debug que se encuentra en el apartado Otro. Una vez que el modo debug esté habilitado, estará disponible la opción de incrementar o decrementar el tráfico. El porcentaje que elijas dependerá de ti y de la dificultad deseada.
     </string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
+Para obtener más dinero, consigue un préstamo
     </string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Dale clic al icono de ingresos y luego cambia la pestaña con los billetes verdes. Luego presiona incrementar. La cantidad de dinero ofrecido depende del patrimonio y se pueden obtener hasta 5 préstamos a la vez.
     </string>
     <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
+Los préstamos se pagan automáticamente
     </string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+Las cuotas del préstamo se descuentan de tu cuenta automáticamente cada mes. No es necesario pagar las cuotas manualmente, pero sí que reduciría los gastos mensuales. El periodo de devolución se puede ver en la pestaña de préstamos.
     </string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server!
+¡Existe un servidor de Discord oficial!
     </string>
     <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+El servidor oficial de Discord es un lugar en donde los jugadores y creadores pasan el tiempo, enseñan sus creaciones y hacen nuevos amigos. El link se puede encontrar en el juego en el menú de ajustes.
     </string>
     <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
+Puedes hacer tus propios plugins. Es facil™
     </string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+Puede ser abrumador al principio, pero hacer plugins es fácil. Para dibujar las texturas, puedes utilizar programas como paint.net en PC o Pixly en móvil. Para hacer el código (json), puedes escribirlo por tu cuenta con la ayuda de los foros con programas como VSC o usar https://pca.svetikas.lt/. Si tienes alguna pregunta, ¡te la podemos contestar en los foros o en Discord!
     </string>
     <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
+Colabora en una region en el modo Online
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+Presionando el botón de modo Online en la vista de las regiones, puedes crear con amigos u otros miembros una hermosa región. El juego solo permite una persona por mapa, pero puedes visitarlos e inspirarte.
     </string>
     <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
+Subir un mapa al modo Online cuesta diamantes o monedar de región
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+Los diamantes (móvil) y monedas de región (PC) se obtienen iniciando sesión al juego diariamente. El precio de subir una región depende de su tamaño. Cuando se suba un mapa, el creador puede poner una contraseña o fijar unas reglas. Una vez creado, la contraseña no se puede añadir ni modificar.
     </string>
     <string name="tip_topic_diamonds_title">
 You can get diamonds by logging in daily
