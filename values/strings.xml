@@ -232,11 +232,22 @@
     <string name="draftselector_titletransport">Transport</string>
     <string name="draftselector_titlezone">Zones</string>
     <string name="draft_zoneresidential_title">Residential</string>
-    <string name="draft_zoneresidential_text">Residents will build houses in this zone.</string>
+    <string name="draft_zoneresidential_text">Residents will build houses in this zone.
+\n
+\nAdditional needs:
+\n₮₮: Health + Park + Low education
+\n₮₮₮: Health + Park + Sport + Low education + High education</string>
     <string name="draft_zonecommercial_title">Commercial</string>
-    <string name="draft_zonecommercial_text">Commercial buildings can build in this zone.</string>
+    <string name="draft_zonecommercial_text">Commercial buildings can build in this zone.
+\n
+\nAdditional needs:
+\n₮₮: Park
+\n₮₮₮: Park + Sport</string>
     <string name="draft_zoneindustrial_title">Industrial</string>
-    <string name="draft_zoneindustrial_text">Industrial buildings will be built here.</string>
+    <string name="draft_zoneindustrial_text">Industrial buildings will be built here.
+\n
+\nAdditional needs:
+\n₮₮₮: Park</string>
     <string name="draft_road00_title">Dirt road</string>
     <string name="draft_road00_text">A simple dirty road.</string>
     <string name="draft_road01_title">Country road</string>
@@ -502,11 +513,23 @@
     <string name="disaster_tornado_cmdtext">Place wind</string>
     <string name="buildinginfo_untouchable">Untouchable</string>
     <string name="draft_zoneresidential_lvl2_title">Dense residential</string>
-    <string name="draft_zoneresidential_lvl2_text">A residential zone with higher density.</string>
+    <string name="draft_zoneresidential_lvl2_text">A residential zone with higher density.
+\n
+\nAdditional needs:
+\n₮: Health
+\n₮₮: Health + Park + Low education
+\n₮₮₮: Health + Park + Sport + Low education + High education</string>
     <string name="draft_zonecommercial_lvl2_title">Dense commercial</string>
-    <string name="draft_zonecommercial_lvl2_text">A commercial zone with high density.</string>
+    <string name="draft_zonecommercial_lvl2_text">A commercial zone with high density.
+\n
+\nAdditional needs:
+\n₮₮: Park
+\n₮₮₮: Park + Sport</string>
     <string name="draft_zoneindustrial_lvl2_title">Dense industrial</string>
-    <string name="draft_zoneindustrial_lvl2_text">Industrial zone with high density.</string>
+    <string name="draft_zoneindustrial_lvl2_text">Industrial zone with high density.
+\n
+\nAdditional needs:
+\n₮₮₮: Park</string>
     <string name="draft_zonefarm_title">Farm</string>
     <string name="draft_zonefarm_text">A cheap zone for farm buildings. Minimum size for farms is 4x4.</string>
     <string name="requirement_peoplecount_all">Need: A population of %1$,d</string>
@@ -1082,7 +1105,7 @@
     <string name="tut_present00">I told you most of the things I know. But one important thing left: There are presents</string>
     <string name="tut_present01">You can get a present each day.</string>
     <string name="tut_end00">You can join our community on theotown.com or in Discord (see game menu for that).</string>
-    <string name="tut_end01">And now, have fun :)</string>
+    <string name="tut_end01">And also, don't forget to check out our helpful tips in the game menu. Have fun :)</string>
 
     <string name="featureselector_time">%1$s of super fast speed</string>
     <string name="draft_feature_time00_title">Time controller</string>
