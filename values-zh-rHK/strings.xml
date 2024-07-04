@@ -1922,10 +1922,10 @@
     <string name="dialog_storedelete_cmddelete">卸掉佢</string>
     <string name="store_modefeatured">精選</string>
     <string name="store_modecategory">類別</string>
-    <string name="store_shorttitle">模組庫</string>
+    <string name="store_shorttitle">插件庫</string>
     <string name="gamemenu_catcity">城市</string>
     <string name="gamemenu_catcontent">內容</string>
-    <string name="gamemenu_catsocial">社交網站</string>
+    <string name="gamemenu_catsocial">官方網站</string>
     <string name="gamemenu_catpictures">圖片</string>
     <string name="gamemenu_catother">其他</string>
     <string name="store_catcount">共有 %,d 個插件</string>
@@ -3074,7 +3074,7 @@
     <string name="buildingicon_crimeriot">呢度發生一場暴亂!</string>
     <string name="dialog_scriptpolicy_title">插件指令碼程式安全策略</string>
     <string name="dialog_scriptpolicy_help_title">部分插件嘅指令碼程式有安全風險 </string>
-    <string name="dialog_scriptpolicy_help_text">用戶可以 開啓/關閉 相關插件嘅指令碼程式 只可通過信任源（例如你正在製作一個插件，需要在遊戲中測試）開啓對應嘅指令碼程式。\n
+    <string name="dialog_scriptpolicy_help_text">用戶可以 開啓/關閉 相關插件嘅指令碼程式只可通過信任源（例如你製作了一個插件需要在遊戲中測試）開啓對應嘅指令碼程式。\n
 \n
 插件未經檢查前，不要啓用對應嘅指令碼程式。\n
 \n
@@ -3113,13 +3113,13 @@
 資金唔夠，貸款嚟湊！
     </string>
     <string name="tip_topic_more_cash_text">
-點擊右下角（或左下角）嘅收入圖標，然後切換到帶有綠色現金圖標嘅選項卡，點擊“收下”。 貸款提供的金額取決於城市財產，一次最多可以申請5筆貸款。
+點擊右下角（或左下角）嘅收入圖標。 然後切換到帶有綠色現金圖標嘅選項卡。 點擊“收下”。 貸款提供的金額取決於城市財產，一次最多可以申請5筆貸款。
     </string>
     <string name="tip_topic_loan_repayment_title">
 貸款償還，每月自動進行！
     </string>
     <string name="tip_topic_loan_repayment_text">
-遊戲時間中嘅每個月都會自動扣除貸款還款額。 它們無需手動支付，可以透過進入貸款選項卡嚟查看投資回收期。
+遊戲時間中嘅每個月都會自動扣除貸款還款額。 它們無需手動支付。 可以透過進入貸款選項卡嚟查看投資回收期。
     </string>
     <string name="tip_topic_discord_title">
 加入官方discord服務器，開啟一段新嘅遊戲之旅！
@@ -3149,7 +3149,7 @@
 你可以透過每日獎勵嚟獲得鑽石
     </string>
     <string name="tip_topic_diamonds_text">
-点击每日奖励（移動端）會獲得鑽石。一旦你獲得第7天的最終獎勵，它就會重置並重新開始。 此外，你仲可以每30分钟觀看一次免費廣告以獲取鑽石。
+点击每日奖励（移動端）會獲得鑽石。\n一旦你獲得第7天的最終獎勵，它就會重置並重新開始。\n此外，你仲可以每30分钟觀看一次免費廣告以獲取鑽石。
     </string>
     <string name="tip_topic_supplies_title">
 火箭供給由某些工業建築供應！
@@ -3161,7 +3161,7 @@
 空無一人嘅車站，卻是交通擁堵嘅救星？
     </string>
     <string name="tip_topic_train_bus_usage_text">
-巴士站和火車站可能會顯示 目前冇乘客 。但是，它們有一定嘅交通影響力，可以提升居民嘅滿意度，因此，請務必與佢哋一齊覆蓋成個區域。 
+巴士站和火車站可能會顯示 目前冇乘客。 但是，它們有一定嘅交通影響力，可以提升居民嘅滿意度，因此，請務必與佢哋一齊覆蓋成個區域。 
     </string>
     <string name="tip_topic_vandalism_title">
 犯罪現場の噴漆圖標，警察局建設刻不容緩！    </string>
@@ -3178,13 +3178,13 @@
 為咗賺取一些額外收入，請建立鄰里商業~
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-只能喺你解鎖咗附近城市嘅區域完成。 有一個鄰里商業標籤。 通過調整數值，您可以從附近的城市進口/出口水電，能源等。 在線模式下不起作用，如果您嘗試設置的一個或多個城市處於沙盒或優步模式，則此操作不起作用。
+只能喺你解鎖咗附近城市嘅區域完成。 有一個鄰里商業標籤。 通過調整數值，您可以從附近的城市進口/出口水電，能源等。 在線模式下不起作用。 如果您嘗試設置的一個或多個城市處於沙盒或優步模式，則此操作不起作用。
     </string>
     <string name="tip_topic_airport_title">
 投資機場？畀錢生錢嘅新選擇！
     </string>
     <string name="tip_topic_airport_text">
-要使機場正常運行，請建造所有機場建築物（如塔台，航站樓），建設跑道，並將飛機分配畀跑道。機場喺正式投入運營後會變得有利可圖。 意味住一旦投入了初始成本，就可以獲得大量利潤。
+要使機場正常運行，請建造所有機場建築物（如塔台，航站樓）  建設跑道，並將飛機分配畀跑道。機場喺正式投入運營後會變得有利可圖。 意味住一旦投入了初始成本，就可以獲得大量利潤。
     </string>
     <string name="tip_topic_youtube_title">
 YouTube 和 Bilibili上有好多有用嘅教程！
@@ -3202,7 +3202,7 @@ YouTube 和 Bilibili上有好多有用嘅教程！
 感覺遊戲中嘅條條框框過多？請喺沙盒/烏托邦模式下玩！
     </string>
     <string name="tip_topic_creative_gameplay_text">
-呢啲模式允許玩家喺冇資金限制嘅情況下進行建造，而且喺占烏托邦佤模式時，玩家甚至不需要擔心居民嘅幸福度或需求。 可以不受限制嘅進行創作。 </string>
+呢啲模式允許玩家喺冇資金限制嘅情況下進行建造。 而且喺占烏托邦佤模式時，玩家甚至不需要擔心居民嘅幸福度或需求。 可以不受限制嘅進行創作。 </string>
     <string name="tip_topic_toggle_disasters_title">
 你可以喺遊戲設置欄中關閉自動災難~
     </string>
@@ -3225,19 +3225,19 @@ YouTube 和 Bilibili上有好多有用嘅教程！
 DSA機構：月球，我哋嚟咗！
     </string>
     <string name="tip_topic_moon_text">
-解鎖DSA總部並升級建築物以前往月球。 火箭發射需要補給，一旦補給充足，就有機會登上月球（有可能會發射失敗，墜毀在城市中）。 如果發射到月球成功，月球地圖可在單獨城市下進行重訪。 透過喺太空中開採某些礦石，探索某些神秘嘅遺蹟，仲有精彩嘅劇情等待你的發現。
+解鎖DSA總部並升級建築物以前往月球。 火箭發射需要補給。 一旦補給充足，就有機會登上月球（有可能會發射失敗，墜毀在城市中）。 如果發射到月球成功，月球地圖可在單獨城市下進行重訪。 透過喺太空中開採某些礦石，探索某些神秘嘅遺蹟。 仲有精彩嘅劇情等待你的發現。
     </string>
     <string name="tip_topic_icbm_title">
-小心! 洲際彈道導彈會炸毀你嘅成個城市！
+小心！洲際彈道導彈會炸毀你嘅成個城市！
     </string>
     <string name="tip_topic_icbm_text">
-洲際彈道導彈唔係自然發生的災難，只能透過洲際彈道導彈發射井嚟引爆。 之，使用洲際彈道導彈時要小心，它會喺幾秒鐘內炸毀成個城市，無論它有多大。 您可以備份或複製城市，避免在測試洲際彈道導彈後後悔。
+洲際彈道導彈唔係自然發生的災難只能透過洲際彈道導彈發射井嚟引爆。 之，使用洲際彈道導彈時要小心，它會喺幾秒鐘內炸毀成個城市，無論它有多大。 您可以備份或複製城市，避免在測試洲際彈道導彈後後悔。
     </string>
     <string name="tip_topic_normalzone_densezone_title">
 密集住宅/商業/工業區可容納更多人，但放置成本更高~
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-密集住宅/商業/工業區通常比普通區域更昂貴，但可以容納更多嘅居民。 反過來，它們通常都比正常區域內嘅建築高。 撇開呢啲差異唔傾，沒有太多其他差異。
+密集住宅/商業/工業區通常比普通區域更昂貴。 但可以容納更多嘅居民。 反過來，它們通常都比正常區域內嘅建築高。 撇開呢啲差異唔傾，沒有太多其他差異。
     </string>
     <string name="tip_topic_forum_plugins_title">
 你可以透過論壇下載插件！
@@ -3249,7 +3249,7 @@ DSA機構：月球，我哋嚟咗！
 收費站提供了額外收入，但會降低居民嘅整體滿意度~
     </string>
     <string name="tip_topic_toll_happiness_text">
-可以設置收費站，對来往車輛收取一定的金額，有助於提升整體收入。 收費金額可以進行調整。 然而，這會降低咗交通滿意度，使啲人唔快樂。
+可以設置收費站，對来往車輛收取一定的金額。 有助於提升整體收入。 收費金額可以進行調整。 然而，這會降低咗交通滿意度，使啲人唔快樂。
     </string>
     <string name="tip_topic_building_rotation_title">
 並非所有建築物都有旋轉感知！
@@ -3261,7 +3261,7 @@ DSA機構：月球，我哋嚟咗！
 利用遊戲小地圖來改變整個地圖方向~
     </string>
     <string name="tip_topic_map_rotation_text">
-小地圖可以用作旋轉地圖嘅工具。 按下小地圖並使用    向左或向右旋轉地圖。 需要注意嘅係，雖然地圖可以旋轉，但並非所有建築物都會跟隨旋轉。
+小地圖可以用作旋轉地圖嘅工具。 按下小地圖並使用    向左或向右旋轉地圖。 需要注意嘅係，雖然地圖可以旋轉。 但並非所有建築物都會跟隨旋轉。
     </string>
     <string name="tip_topic_demands_title">
 注意需求線以上嘅部分~
@@ -3273,7 +3273,7 @@ DSA機構：月球，我哋嚟咗！
 按喺建築物上，睇吓佢哋最低嘅滿意度~
     </string>
     <string name="tip_topic_happiness_text">
-點擊並查看建築物有助於確定該建築內嘅居民滿意度過低嘅原因。 同時也能查看該建築對應嘅平均滿意度。 一旦確定了該建築物內居民最低的一項滿意度，你就可以採取行動嚟解決它。 例如，如果一棟建築因為缺乏公園設施而導致滿意度降低，喺建築物嘅地方放置一個公園以提升滿意度身。 
+點擊並查看建築物有助於確定該建築內嘅居民滿意度過低嘅原因。 同時也能查看該建築對應嘅平均滿意度。 一旦確定了該建築物內居民最低的一項滿意度。 你就可以採取行動嚟解決它。 例如，如果一棟建築因為缺乏公園設施而導致滿意度降低。 喺建築物嘅地方放置一個公園以提升滿意度身。 
     </string>
     <string name="tip_topic_game_extentions_title">
 插件库上有官方遊戲擴展~
@@ -3314,7 +3314,7 @@ DSA機構：月球，我哋嚟咗！
 點擊右側嘅↑選項嚟建造高架橋~
     </string>
     <string name="tip_topic_building_bridges_text">
-點擊要抬升嘅道路。 然後在道路建設選項中，點擊其中一塊道路，然後構建一個向上嘅斜坡。 接著再點擊 下降 ，以建造下坡。 同時，點擊 橋 自動搭設。 需要注意嘅係，並非所有道路都能建造高架橋。 
+點擊要抬升嘅道路。 然後在道路建設選項中。 點擊其中一塊道路然後構建一個向上嘅斜坡。 接著再點擊 下降 ，以建造下坡。 同時，點擊 橋 自動搭設。 需要注意嘅係，並非所有道路都能建造高架橋。 
     </string>
     <string name="store_cmd_downloadall_title">全部下載</string>
     <string name="store_cmd_downloadall_text">全部下載/一次搞定所有缺失插件</string>
