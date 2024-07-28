@@ -2794,7 +2794,7 @@
     <string name="draft_dsapower01_text">Антенна, используемая для передачи мощности от сферы Дайсона обратно к Теонии с помощью микроволновых радиоволн.\n\nNote: выходная мощность находится на высоком напряжении.</string>
     <string name="draft_dsawater00_title">Молекулярная водная установка</string>
     <string name="draft_dsawater00_text">Производит воду из реакции синтеза водорода и кислорода.</string>
-    <string name="draft_dsaicbmpad_title">Пусковая шахта ICBM</string>
+    <string name="draft_dsaicbmpad_title">Пусковая шахта МБР</string>
     <string name="draft_dsaicbmpad_text">Пусковая шахта для величайших межконтинентальных баллистических ракет DSA, созданных когда-либо.</string>
     <string name="draft_dsa_dsaicbmpad_req2_text">Только один на весь город</string>
     <string name="draft_dsacontainmentfacility_title">Защитное сооружение</string>
@@ -3115,11 +3115,11 @@
     <string name="draft_dsarocket_navigation_text">Запусти в космос ракету с человеком на борту, чтобы протестировать навигацию.</string>
     <string name="draft_dsarocket_exploration_text">Отправь исследовательский зонд для поиска подходящего для колонизации космического тела.</string>
     <string name="draft_dsarocket_sdi_text">Проведи серию запусков с миссией создания космической обороны.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
+    <string name="draft_dsarocket_deprecated_text">Стартовая площадка обновлена, вам нужно уничтожить эту и построить новую.</string>
     <string name="stage_createcity_terrain">Ландшафт...</string>
     <string name="dialog_terrain_title">Ландшафт</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
+    <string name="dialog_missingmanifest_title">Отсутсвует файл манифеста у плагина</string>
+    <string name="dialog_missingmanifest_text">Следующии плагины не определяют файл манифеста (plugin.manifest). Это может вызвать проблемы с другими плагинами и с онлайн режимом. Совместимость не может быть гарантирована в будущем:</string>
     <string name="dialog_missingmanifest_cmdhelp">Что это?</string>
     <string name="createcity_rivers">Реки</string>
     <string name="createcity_roughness">Грубость</string>
@@ -3133,7 +3133,7 @@
     <string name="buildingicon_noenergy">У этого здания недостаточно энергии.</string>
     <string name="buildingicon_nowater">В это здание не поступает вода.</string>
     <string name="buildingicon_overloaded">Здание переполнено. Предоставь больше места.</string>
-    <string name="buildingicon_unhappy">Люди в этом здании не счастливы.</string>
+    <string name="buildingicon_unhappy">Люди в этом здании несчастны.</string>
     <string name="buildingicon_waste">В этом здании скопился мусор.</string>
     <string name="buildingicon_wasteoverloaded">Эта свалка заполнена.</string>
     <string name="buildingicon_deadbodies">В этом здании невывезенные трупы.</string>
@@ -3142,14 +3142,14 @@
     <string name="buildingicon_crimeburglary">Кто-то проник в здание.</string>
     <string name="buildingicon_crimemurder">Кто-то был убит здесь.</string>
     <string name="buildingicon_crimeriot">Люди бунтуют здесь.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="dialog_scriptpolicy_title">Политика скриптов плагина</string>
+    <string name="dialog_scriptpolicy_help_title">Скрипты плагина могут быть опаснымы</string>
+    <string name="dialog_scriptpolicy_help_text">Ты можешь утверждать выполнение скрипта для внешних плагинов. Только одобренные скрипты с ресурсов или игроков которым ты доверяешь (например скрипт твоего плагина, если ты над ним работаешь).\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+Если ты сомневаешься, не включай выполнение скрипта без проверки кода.\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
+Плагины которым нужны скрипты, могут работать не так как ты ожидаешь. Придеться перезапустить игру чтобы изменения пришли в силу.</string>
+    <string name="settings_openscriptpolicy">Политика скриптов плагина</string>
     <string name="stage_files_itemcount">%d файлов</string>
     <string name="tips_title">Подсказки</string>
     <string name="tips_cmd_random">Ещё</string>
@@ -3157,7 +3157,7 @@ Plugins that require script execution to work may not function as expected if di
 Культуру повышают некоторые монументы, награды и плагины!
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+Любые достопримечательности производят культурное влияние вместе с культурныи значением. Больше плагинов, предоставляющих культуру можно скачать с форума или с магазина плагинов.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
 Если здание горит слишком часто, наверное, рядом стоит построить пожарное депо!
@@ -3169,7 +3169,7 @@ Most smaller landmarks up to the Eiffel tower produce a culture influence as wel
 Жилые здания должны стоять как можно дальше от загрязненной области
     </string>
     <string name="tip_topic_pollution_distance_text">
-Жители не любят загрязнения. Если они жалуются на этт, поищи источники загрязнения среды. Для поиска здания, которое загрязняет природу, нажми на глаз слева и выбери «Загрязнение», поищи здания с красным пятном вокруг них. Перемести или снеси такое здание в пользу чистоты окружающей среды.
+Жители не любят загрязнения. Если они жалуются на это, поищи источники загрязнения среды. Для поиска здания, которое загрязняет природу, нажми на глаз слева и выбери «Загрязнение», поищи здания с красным пятном вокруг них. Перемести или снеси такое здание в пользу чистоты окружающей среды.
     </string>
     <string name="tip_topic_pollution_trees_title">
 Загрязнение можно уменьшить, если посадить рядом деревья.
@@ -3181,14 +3181,14 @@ Most smaller landmarks up to the Eiffel tower produce a culture influence as wel
 Используй односторонние дороги и развязки для снижения трафика.
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+Часто, такие места как шоссе или промышленные территории могут быть перегружены траффиком. Необходима надлежащая дорога чтобы исправить это. Дороги с односторонним движением и перекрестки могут помочь тебе в этом. Ты можешь найти в игре готовые перекрестки. Также ты можешь сделать свои, используя настоящие как пример. Это разрешит лучший поток траффика, уменьшая его в твоем городе.
     </string>
     <string name="tip_topic_traffic_volume_title">
 В настройках ты можешь изменить объём трафика.
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
+Для регулирования объема траффика с помощью настроке, сначала включи режим разработчика. Как только он включен, тебе будет предложена опция изменить объем траффика. Какой процент ты выберешь зависит от того сколько у тебя траффика и сколько ты хочешь испытания.
+    </string>h
     <string name="tip_topic_more_cash_title">
 Нужны деньги? Возьми заём.
     </string>
@@ -3229,13 +3229,13 @@ To adjust traffic volume in settings, turn on debug mode first, it should be als
 Ты можешь получать алмазы, просто играя каждый день.
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+Ты получишь вознаграждение если будешь заходить каждый день (работает только на моб. устройствах). Если ты заходишь неделю подряд, то ты получишь больше наград. Получив финальную награду, они начнутся сначала. Также ты можешь смотреть видео каждые 30 минут для получения бриллиантов - просто не забудь выключить адблок чтобы они показывались!
     </string>
     <string name="tip_topic_supplies_title">
 Некоторые индустриальные здания производят ресурсы для ракет.
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+Здания, поставляющие нефть, распространены в любых уровнях промышленности. Они включают в себя здания, извлекающие нефть, склады и производственные здания. Они будут снабжать тебя ракетным топливом. Чем больше заводов к ракете, тем быстрее она заполнится топливом.
     </string>
     <string name="tip_topic_train_bus_usage_title">
 Даже если поезда и автобусы не видны, они всё равно дают эффект.
@@ -3256,22 +3256,22 @@ The buildings that supply oil are spread across the different levels of industri
 Если иконка умершего появляется над зданием, это говорит о том, что в городе недостаточно кладбищ или крематориев. Кладбища хороши в начале игры, но с увеличением города, кладбища придётся чистить чаще. Поэтому крематорий может быть хорошим решением на долгое время.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
+Для дополнительного заработка, установи соседскую коммерцию
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+Это может быть выполнено только если у тебя разблокированы близлежащие города. Тут есть вкладка соседской коммерции. Корректировкой значений, ты можешь импортировать или экспортировать с других городов. Это не работает в онлайн режиме если близлежащие города в режиме бога или песочницы.
     </string>
     <string name="tip_topic_airport_title">
-Аэропорт — хорошая инвестиция в перспективе!
+Аэропорт — хорошая инвестиция в перспективу!
     </string>
     <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+Чтобы сделать аэропорт функциональным, построй все необходимые здания, добавь впп, и назначь их самолетам. Аэропорты часто становятся прибыльными. Это значит, когда начальная цена покрыта, хорошая прибыль обеспечена.
     </string>
     <string name="tip_topic_youtube_title">
 На YouTube есть полезные туториалы.
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+Есть куча опытных игроков Theotown и людей, выкладывающих видео на YouTube. От простых таймлапсов геймплея до видео, которые могут улучшить твой опыт игры.
     </string>
     <string name="tip_topic_price_increase_title">
 Стоимость в игре растёт. Прям как в реальной жизни...
@@ -3280,22 +3280,22 @@ There are a couple of experienced TheoTown players and creators who publish vide
 Чем больше дорог и зданий построено, тем они дороже. Чем чаще они используются, тем дороже они стоя. Механика действует для зон, декораций, дорог и всех типов зданий.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+Для большей творческой свободы, играй в режимах песочницы/бога
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+Огромное количество опытных игроков играет в режиме бога или песочницы для самовыражения. Это позволяет тебе строить без ограничений денег, или в случае режима бога, без беспокойства о счастье или нуждах горожан. Часто здания ставятся вручную для создания потрясающих работ. Не волнуйтесь, если это не похоже на вас, каждый играет по своему!
     </string>
     <string name="tip_topic_toggle_disasters_title">
 Случайные катастрофы можно выключить в настройках.
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+Случайные катастрофы можно выключить в настройках, или выбрать свои катастрофы, с которыми ты хочешь играть. Если у тебя есть добывающая станция DSA или военная ракета, всё равно есть риск землятрясений или других стихийных бедствий.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-Большая часть доходов — налоги. Но не стать их выше 9%.
+Большая часть доходов — налоги. Но не ставь их выше 9%.
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+Особенно в начальной игре, 90% дохода идет с налогов граждан. Хороший процент где-то между 7% и 9%. Если процент налогооблажения больше, есть риск бунтов и отказов от жилищ.
     </string>
     <string name="tip_topic_taxes_adjust_title">
 Ты можешь менять процент налогов с помощью кнопок + и -
@@ -3307,55 +3307,55 @@ Especially early game, 90% or more of the income is being made from taxing the r
 Отправляйся на Луну с DSA.
     </string>
     <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+Разблокируй DSA и обновляй здания для полета на луну. Ракета запуститься только с полным снабжением, есть шанс крушения. Если полет удачный, карта луны находится ниже одиночных город. От добычи определенных ресурсов в космосе, ты можешь разблокировать определенные здания для луны.
     </string>
     <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
+Осторожно! МБР может взорвать весь город
     </string>
     <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+МБР это не стихийное бедствие, и отправляется только с помощью DSA. Будь осторожен, используя МБР, оно может взорвать весь город, независимо от размера. Ты можешь создать копию города, чтобы не жалеть о тесте МБР.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
+Плотные зоны вмещают больше людей, но их дороже ставить
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+Плотные зоны дороже чем обычные, но могут вмещать больше людей. Они чаще всего выше обычных зон. Больше ничего особенного, поскольку нужды у них одинаковые.
     </string>
     <string name="tip_topic_forum_plugins_title">
 Ты можешь найти плагины на форуме.
     </string>
     <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+Некоторые создатели плагинов выкладывают их только на форуме. Это значит что тебе не нужно будет скачивать их с магазина. Они бесплатные и помещаются в папку плагинов вручную. Будь осторожен, эти плагины не модерируются.
     </string>
     <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
+КПП дают дополнительных доход, но уменьшают счастье
     </string>
     <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+КПП можно поставить чтобы брать деньги за проезд по дороге. Количество взимаемых денег можно настроить, но это не меняет счастье.
     </string>
     <string name="tip_topic_building_rotation_title">
-Не у всех зданий есть картинки для их поворота.
+Не у всех зданий есть стороны для их поворота.
     </string>
     <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+Некоторые игровые здания имеют стороны поворота, но не все. Особенно когда дело касается плагинов. Это потому что автор их не сделал. Чтобы узнать есть ли они у этой постройки, нажми на нее и проверь, есть ли там определённые кнопки в правом верхнем углу.
     </string>
     <string name="tip_topic_map_rotation_title">
 Измени ориентацию карты с помощью миникарты.
     </string>
     <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+Мини карта может быть использована для поворота. Нажми на нее и используй стрелочки. Важно заметить, что не все здания будут поворачиваться, это значит что у них нету другой стороны.
     </string>
     <string name="tip_topic_demands_title">
 Объявляй зоны, на которые есть спрос.
     </string>
     <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
+Когда спрос выше линии, что люди или коммерция хотят находится в твоём городе. Ты должен обеспечить их удобствами для этого. Когда спрос ниже линии, строй другие зоны или необходимые для счастья здания.
     </string>
     <string name="tip_topic_happiness_title">
 Нажми на здание, чтобы увидеть, чем они довольны меньше всего.
     </string>
     <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+Нажатие на здание помогает узнать, чем недовольны жители. Также есть информация о среднем счастье дома. Как только ты узнал причину, ты можешь исправить несчастье постройкой необходимых зданий.
     </string>
     <string name="tip_topic_game_extentions_title">
 В магазине плагинов есть даже официальные!
@@ -3364,40 +3364,40 @@ Pressing on a building helps to identify why the house and the houses close by a
 Официальные дополнения опубликованы в магазине пользователем Lobby. В основном они бесплатные, т. к. официальные.
     </string>
     <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
+Не сравнивай себя с другими игроками, каждый играет по своему
     </string>
     <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+У разных игроков разные стили игры. Вместо того чтобы им завидовать, попробуй узнать почему тебе это нравится. Как только ты узнал, попробуй реализовать это в своём городе, и мало-по-малу он будет расти.
     </string>
     <string name="tip_topic_road_connection_title">
 Используй автосоединение при строительстве дорог.
     </string>
     <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+Нажми на дорогу и выбери "соеденить дорогу" в правой верхнем углу чтобы автоматически присоедениться к строющейся дороге. Это поможет тебе избежать неправильных дорог.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
 Строй госпитали во избежание эпидемий.
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+Если над зданием находится зеленое лицо, это обозначает что проживающие больны. Чтобы избежать это в будущем, строй больнице по всему городу. Также проверь, не расположены ли источники воды в загрязненных местах.
     </string>
     <string name="tip_topic_education_title">
 Жителям нужно и общее, и высшее образование.
     </string>
     <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
+Чтобы исправить необразованность, необходимы строить учебные заведения любого уровня. Они нужны для обогащения других зданий. Будь уверен, что школы покрывают жилые дома.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
+Чтобы устранить лаги, отключи плавное масштабирование
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
+Если тебе кажется, что игра лагает, попробуй отключить плавное масштабирование. Эту опцию можно найти в настройках игры. Это поможет улучшить опыт игры.
     </string>
     <string name="tip_topic_building_bridges_title">
 Меняй высоту дорог с помощью стрелок в меню справа.
     </string>
     <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
+Нажми на необходимую дорогу. Пока ты в меню построек, нажми на плитку и постройся для наклона вверх. Нажмите на эстакаду и постройся вниз для наклона. В тот же момент, нажми на мост чтобы построить мост. Однако, не все дороги поддерживают эстакады.
     </string>
     <string name="store_cmd_downloadall_title">Скачать все</string>
     <string name="store_cmd_downloadall_text">Скачай и активируй все недостающие плагины за раз.</string>
