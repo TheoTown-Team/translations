@@ -2384,17 +2384,17 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="dialog_transfercity_cmdtransfer">Transfer</string>
     <string name="dialog_transferregion_title">Transfer ownership</string>
     <string name="dialog_transferregion_text">Are you sure that you want to transfer the ownership over your region %1$s to %2$s?\n\nYou cannot undo that.</string>
-    <string name="dialog_transferregion_cmdtransfer">Transfer</string>
-    <string name="stage_region_reportsubject">the region %1$s</string>
-    <string name="dialog_removeowner_title">Remove owner</string>
+    <string name="dialog_transferregion_cmdtransfer">Transfereix</string>
+    <string name="stage_region_reportsubject">la regió %1$s</string>
+    <string name="dialog_removeowner_title">Trau el propietari</string>
     <string name="dialog_removeowner_text">Are you sure that you want to remove %1$s from this plot?\n\nThis cannot be undone.</string>
-    <string name="dialog_removeowner_cmdremove">Remove</string>
-    <string name="stage_regioncity_lastplayed">Last played: %1$s ago</string>
-    <string name="ci_loan_get_text2">Value: %1$s
+    <string name="dialog_removeowner_cmdremove">Trau</string>
+    <string name="stage_regioncity_lastplayed">Jugat per última vegada fa %1$s</string>
+    <string name="ci_loan_get_text2">Valor: %1$s
 \nTerm: %2$,d months
 \nMonthly costs: %3$s</string>
-    <string name="settings_uianimations">Animations</string>
-    <string name="dialog_configureregion_password">Password</string>
+    <string name="settings_uianimations">Animacions</string>
+    <string name="dialog_configureregion_password">Contrasenya</string>
     <string name="dialog_configureregion_password_desc">Here you can set a new password. Leave it blank to reuse the current one.</string>
     <string name="dialog_configureregion_enforepassword">Require password</string>
     <string name="dialog_regionstats_title">Region statistics</string>
@@ -2403,85 +2403,85 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="ci_water_consumed_short">Used: %1$,.0fL/h</string>
     <string name="ci_water_produced_short">Produced: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">General</string>
-    <string name="dialog_regionstats_cities">%1$d / %2$d cities</string>
+    <string name="dialog_regionstats_cities">%1$d / %2$d ciutats</string>
 
 
-    <string name="regionlist_cat_popular">Popular</string>
-    <string name="regionlist_cat_new">New</string>
-    <string name="regionlist_cat_free">Free</string>
-    <string name="regionlist_cat_protected">Protected</string>
-    <string name="regionlist_cat_usercities">Own cities</string>
-    <string name="regionlist_cat_userregions">Own regions</string>
-    <string name="store_cat_other">Other</string>
-    <string name="store_cat_road">Road</string>
-    <string name="store_cat_terrain">Terrain</string>
-    <string name="store_cat_trees">Trees</string>
+    <string name="regionlist_cat_popular">Populars</string>
+    <string name="regionlist_cat_new">Noves</string>
+    <string name="regionlist_cat_free">Gratis</string>
+    <string name="regionlist_cat_protected">Protegides</string>
+    <string name="regionlist_cat_usercities">Ciutats pròpies</string>
+    <string name="regionlist_cat_userregions">Regions pròpies</string>
+    <string name="store_cat_other">Altres</string>
+    <string name="store_cat_road">Carreteres</string>
+    <string name="store_cat_terrain">Terreny</string>
+    <string name="store_cat_trees">Arbres</string>
     <string name="store_cat_transport">Transport</string>
-    <string name="store_cat_residential">Residential</string>
-    <string name="store_cat_commercial">Commercial</string>
+    <string name="store_cat_residential">Residencial</string>
+    <string name="store_cat_commercial">Comercial</string>
     <string name="store_cat_industrial">Industrial</string>
-    <string name="store_cat_parks">Parks, Sports and Management</string>
-    <string name="store_cat_supply">Supply (Energy, Water, Waste Disposal)</string>
-    <string name="store_cat_religion">Religion and Culture</string>
-    <string name="store_cat_service">Service (Police, Health Care, Education,...)</string>
-    <string name="store_cat_award">Award and Special</string>
-    <string name="store_cat_decoration">Decorations</string>
-    <string name="store_cat_tool">Tools</string>
-    <string name="store_cat_overlay">Weather and Overlay</string>
-    <string name="store_cat_pack">Packs</string>
-    <string name="store_cat_roaddecoration">Road decoration</string>
-    <string name="store_cat_military">Military</string>
-    <string name="dialog_confirmsendgift_title">Send gift</string>
-    <string name="dialog_confirmsendgift_text">Awesome! You are about to send that gift to %1$s.</string>
-    <string name="settings_category_tools">Tools</string>
+    <string name="store_cat_parks">Parcs, esports i gestió</string>
+    <string name="store_cat_supply">Subministraments (energia, aigua i gestió de residus)</string>
+    <string name="store_cat_religion">Religió i cultura</string>
+    <string name="store_cat_service">Serveis (Seguretat, salut, educació,...)</string>
+    <string name="store_cat_award">Premis i especials</string>
+    <string name="store_cat_decoration">Decoracions</string>
+    <string name="store_cat_tool">Eines</string>
+    <string name="store_cat_overlay">Meteorologia i capes</string>
+    <string name="store_cat_pack">Pacs</string>
+    <string name="store_cat_roaddecoration">Decoració de carreteres</string>
+    <string name="store_cat_military">Militars</string>
+    <string name="dialog_confirmsendgift_title">Envia un regal</string>
+    <string name="dialog_confirmsendgift_text">Fantàstic! Esteu a punt d\'enviar un regal a %1$s.</string>
+    <string name="settings_category_tools">Eines</string>
     <string name="settings_category_gameplay">Gameplay</string>
     <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
     <string name="stage_regioncity_visits">Visits: %1$,d</string>
     <string name="dialog_missingplugins_total">Used plugins</string>
     <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
-    <string name="dialog_citygifts_title">Gifts</string>
-    <string name="dialog_citygifts_cmdnew">Send a gift</string>
+    <string name="dialog_citygifts_title">Regals</string>
+    <string name="dialog_citygifts_cmdnew">Envia un regal</string>
     <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
     <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
-    <string name="dialog_citygifts_typemsg">A message</string>
-    <string name="dialog_citygifts_typeunknown">Unknown</string>
-    <string name="dialog_citygifts_private">(private)</string>
-    <string name="dialog_citygifts_cmdcollect">Collect</string>
-    <string name="dialog_citygifts_nomessage">The sender left no message.</string>
-    <string name="dialog_sendgift_title">Send a gift</string>
-    <string name="dialog_sendgift_cmdsend">Send it</string>
+    <string name="dialog_citygifts_typemsg">Un missatge</string>
+    <string name="dialog_citygifts_typeunknown">Desconegut</string>
+    <string name="dialog_citygifts_private">(privat)</string>
+    <string name="dialog_citygifts_cmdcollect">Agafa</string>
+    <string name="dialog_citygifts_nomessage">El donant no ha enviat cap missatge.</string>
+    <string name="dialog_sendgift_title">Envia un regal</string>
+    <string name="dialog_sendgift_cmdsend">Envia'l</string>
     <string name="dialog_sendgift_typetext">Text</string>
-    <string name="dialog_sendgift_typemoney">Money</string>
-    <string name="dialog_sendgift_typediamonds">Diamonds / Region coins</string>
-    <string name="dialog_sendgift_lbltype">Type</string>
-    <string name="dialog_sendgift_lblamount">Amount</string>
-    <string name="dialog_sendgift_lblmessage">Message</string>
-    <string name="dialog_sendgift_messagedesc">Here you can enter a message for the receiver if you want to</string>
-    <string name="dialog_sendgift_lblprivate">Private</string>
-    <string name="dialog_citygifts_reportsubject">the gift by %1$s</string>
-    <string name="dialog_deletegift_title">Delete gift</string>
-    <string name="dialog_deletegift_text">Are you sure that you want to delete this gift? This cannot be undone.</string>
-    <string name="dialog_deletegift_cmd">Delete</string>
+    <string name="dialog_sendgift_typemoney">Diners</string>
+    <string name="dialog_sendgift_typediamonds">Diamants / Monedes de la regió</string>
+    <string name="dialog_sendgift_lbltype">Tipus</string>
+    <string name="dialog_sendgift_lblamount">Quantitat</string>
+    <string name="dialog_sendgift_lblmessage">Missatge</string>
+    <string name="dialog_sendgift_messagedesc">Aquí, si voleu, podeu escriure un missatge a l\'usuari al qual envieu el regal.</string>
+    <string name="dialog_sendgift_lblprivate">Privat</string>
+    <string name="dialog_citygifts_reportsubject">el regal de %1$s</string>
+    <string name="dialog_deletegift_title">Elimina el regal</string>
+    <string name="dialog_deletegift_text">Esteu segur que voleu eliminar el regal? Això no es pot desfer.</string>
+    <string name="dialog_deletegift_cmd">Elimina</string>
 
 
     <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
+    <string name="dialog_uploadregiontoobig_title">Carrega la regió</string>
     <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
+    <string name="channel_onlinemode_title">Mode en línia</string>
     <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
     <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
     <string name="dialog_externalstorage_title">No access to external storage</string>
     <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
 By doing so we can circumvent potential data loss caused by app updates or re-installation.
 \n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
+    <string name="dialog_onlinenotifications_title">Notificacions</string>
+    <string name="dialog_onlinenotifications_time">fa %1$s</string>
+    <string name="dialog_onlinenotifications_empty">Encara no hi ha notificacions</string>
+    <string name="dialog_onlinenotifications_cmdempty">Notificacions</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Notificacions (%1$,d)</string>
+    <string name="dialog_reason_title">Motiu</string>
     <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
+    <string name="store_realtitle">Botiga de complements</string>
     <string name="settings_pushnotificationsonline">Notifications about online mode</string>
     <string name="settings_verticaltoolbar">Vertical toolbar</string>
     <string name="settings_darktoolbar">Dark toolbar</string>
@@ -2506,21 +2506,21 @@ Press a key to assign it to this action.</string>
 
 
     <string name="dialog_regionnopermission_title">Accés no permès</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
-    <string name="ranger_cmdselecttrees">Select trees</string>
-    <string name="draft_treeplantertool00_title">Tree Planter</string>
-    <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
-    <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species:</string>
-    <string name="treeplanter_density">Density:</string>
-    <string name="treeplanter_roughness">Roughness:</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
-    <string name="control_about">About</string>
-    <string name="about_framework">Framework</string>
+    <string name="dialog_regionnopermission_text">L\'aplicació no té accés a l\'emmagatzematge extern per a desar la regió de manera segura. Concediu-li accés per a poder generar regions.</string>
+    <string name="ranger_cmdselecttrees">Tria arbres</string>
+    <string name="draft_treeplantertool00_title">Plantador d\'arbres</string>
+    <string name="draft_treeplantertool00_text">Aquesta eina es pot fer servir per a què al mapa apareguin diversos tipus d\'arbres de manera natural i adequada.</string>
+    <string name="treeplanter_cmdconfigure">Configura</string>
+    <string name="treeplanter_species">Espècies:</string>
+    <string name="treeplanter_density">Densitat:</string>
+    <string name="treeplanter_roughness">Irregularitat:</string>
+    <string name="treeplanter_brushsize">Mida del pinzell:</string>
+    <string name="treeplanter_outofcash">Sense diners</string>
+    <string name="control_about">Quant a</string>
+    <string name="about_framework">Infraestructura</string>
     <string name="control_undo">Desfés</string>
     <string name="control_redo">Refés</string>
-    <string name="toolaction_zoneroad">Add roads</string>
+    <string name="toolaction_zoneroad">Afegeix carreteres</string>
     <string name="settings_fullscreen_resolution">Resolució a pantalla completa</string>
     <string name="settings_tool_history">Opció de desfer</string>
     <string name="topic_birthday_ja">D\'avui a molts anys, JustAnyone!</string>
@@ -2707,10 +2707,10 @@ Press a key to assign it to this action.</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
     <string name="draft_feature_dsa00_text">This integration adds better supply systems, few new service cars, a new road which is faster and is cheaper, a new disaster, DSA flags, new buildings, a lot of events, a space dimension to explore, new methods to earn money and much more.</string>
-    <string name="draft_dsa_category00_title">Agency</string>
-    <string name="draft_dsa_space_category00_title">Space Base</string>
-    <string name="draft_dsadevcat_title">DSA Debug</string>
-    <string name="draft_dsa_zone_title">DSA zone</string>
+    <string name="draft_dsa_category00_title">Agència</string>
+    <string name="draft_dsa_space_category00_title">Base espacial</string>
+    <string name="draft_dsadevcat_title">Depuració DSA</string>
+    <string name="draft_dsa_zone_title">Zona DSA</string>
     <string name="draft_dsa_zone_text">Zone to declare DSA territory in the city.</string>
     <string name="draft_dsaroad_title">Speedroad</string>
     <string name="draft_dsaroad_text">Faster than normal road designed by DSA.</string>
@@ -2728,7 +2728,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_outpost00_text">Local DSA office with most qualified representatives.</string>
     <string name="draft_tool_disaster_super_nuke00_title">„X-treme“ ICBM</string>
     <string name="draft_tool_disaster_super_nuke00_text">DSA\'s most powerful ICBM capable of destroy anything that comes into contact with it.</string>
-    <string name="draft_tool_disaster_super_nuke00_cmd">Let\'s test it</string>
+    <string name="draft_tool_disaster_super_nuke00_cmd">Provem-ho</string>
     <string name="draft_dsa_icbm_marker_title">ICBM flare</string>
     <string name="draft_dsa_icbm_marker_text">A flare used to mark the target for „X-treme“ ICBM</string>
     <string name="draft_dsaicbmarmed_title">Prepared Silo</string>
@@ -2792,7 +2792,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsaLORE10_requirement">Help the giant pickle on the moon</string>
     <string name="draft_dsapower00_title">Fusion power plant</string>
     <string name="draft_dsapower00_text">Energy from fusion is proven to be more efficient and cleaner than other energy, but it costs more in return.</string>
-    <string name="draft_dsapower01_title">Microwave antenna</string>
+    <string name="draft_dsapower01_title">Antena de microones</string>
     <string name="draft_dsapower01_text">Antenna used for transmitting power from Dyson sphere back to Theonia using microwave radio waves.\n\nNote: the outputted power is at very high voltage.</string>
     <string name="draft_dsawater00_title">Molecular water plant</string>
     <string name="draft_dsawater00_text">Produces water from synthesis reaction of hydrogen and oxygen.</string>
@@ -2801,7 +2801,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_dsaicbmpad_req2_text">Only one per city</string>
     <string name="draft_dsacontainmentfacility_title">Containment facility</string>
     <string name="draft_dsacontainmentfacility_text">A BSL-4 containment facility containing most dangerous substances known to man including the infamous poccolovirus.</string>
-    <string name="draft_dsawalls_title">Pollution walls</string>
+    <string name="draft_dsawalls_title">Murs anticontaminació</string>
     <string name="draft_dsawalls_text">Offers noise and pollution protection for your citizens.</string>
     <string name="draft_dsacontainingwalls_title">Containment walls</string>
     <string name="draft_dsacontainingwalls_text">Indestructible walls designed to hold destructive substances at bay.</string>
@@ -2812,7 +2812,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_tool_disaster_blackhole_cmd">Vacuum it up</string>
     <string name="draft_blackhole_dsa_title">Event horizon</string>
     <string name="draft_blackhole_dsa_text">The boundary at which the gravitational pull of a massive object becomes so great as to make escape impossible.</string>
-    <string name="draft_blackhole_dsa_static_title">Singularity</string>
+    <string name="draft_blackhole_dsa_static_title">Singularitat</string>
     <string name="draft_blackhole_dsa_static_text">A region in spacetime in which tidal gravitational forces become infinite.</string>
     <string name="draft_tool_disaster_gliu44_title">Geliumium</string>
     <string name="draft_tool_disaster_gliu44_text">A virus of unknown origin which exhibits insane destructive properties.</string>
@@ -2821,7 +2821,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_gliu44_text">A virus of unknown origin which exhibits insane destructive properties.</string>
     <string name="draft_gialodathomyle00_title">Gialodathomyle</string>
     <string name="draft_gialodathomyle00_text">A mutated strain of geliumium which targets the regular virus.</string>
-    <string name="draft_dsa_moon_drillingstation_template00_title">Mining station</string>
+    <string name="draft_dsa_moon_drillingstation_template00_title">Estació minera</string>
     <string name="draft_dsa_moon_drillingstation_template00_text">Building for gathering and refining local minerals.</string>
     <string name="draft_dsa_moon_drillingstation_depleted_title">Depleted mining station</string>
     <string name="draft_dsa_moon_drillingstation_depleted_text">A depleted mining station which no longer serves any purpose</string>
@@ -2832,15 +2832,15 @@ Press a key to assign it to this action.</string>
     <string name="draft_picklebparty00_text">A cucumber cake in a pickle jar. Don\'t listen to it if it says something.</string>
     <string name="draft_dsarocket_title">Launch station</string>
     <string name="draft_dsarocket_text">The place where DSA launches it\'s rockets from.\nRequires road access to industry for supplies.</string>
-    <string name="draft_dsarocket_upg1_title">Rocket test</string>
+    <string name="draft_dsarocket_upg1_title">Prova de llançament</string>
     <string name="draft_dsarocket_upg1_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.\nSupplies: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Animal carriage</string>
     <string name="draft_dsarocket_upg2_text">Launch a rocket with cat inside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500</string>
-    <string name="draft_dsarocket_upg3_title">Navigation</string>
+    <string name="draft_dsarocket_upg3_title">Navegació</string>
     <string name="draft_dsarocket_upg3_text">Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/5000</string>
-    <string name="draft_dsarocket_upg4_title">Sattelites</string>
+    <string name="draft_dsarocket_upg4_title">Satèl·lits</string>
     <string name="draft_dsarocket_upg4_text">Launch a rocket containing few sattelites to space to establish a satellite network.\nSupplies: ${_dsareadiness}/7500</string>
-    <string name="draft_dsarocket_upg5_title">Exploration mission</string>
+    <string name="draft_dsarocket_upg5_title">Missió d\'exploració</string>
     <string name="draft_dsarocket_upg5_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.\nSupplies: ${_dsareadiness}/10000</string>
     <string name="draft_dsarocket_upg6_title">Construct SDI</string>
     <string name="draft_dsarocket_upg6_text">Launch series of rockets to space to assemble the space defense initiative.\nSupplies: ${_dsareadiness}/15000</string>
@@ -2876,10 +2876,10 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_lua_notify03_text">Congratulations mayor, we have established SDI network above this area. It will protect the city from meteorites and UFO invasions.</string>
     <string name="draft_dsa_lua_notify04_text">Congratulations! We\'ve constructed the greatest our achievement - the Dyson sphere!</string>
     <string name="draft_dsa_detect_op00_text">That wasn\'t very cash money of you.</string>
-    <string name="draft_moon_auto_deco00_title">Unknown structure</string>
+    <string name="draft_moon_auto_deco00_title">Estructura desconeguda</string>
     <string name="draft_moon_auto_deco00_text">A strange structure with unknown use.</string>
-    <string name="draft_moon_dsa_rocks00_title">Shiny rocks</string>
-    <string name="draft_moon_dsa_rocks00_text">Might have some precious metals inside.</string>
+    <string name="draft_moon_dsa_rocks00_title">Roques brillants</string>
+    <string name="draft_moon_dsa_rocks00_text">Potser contenen metalls preciosos.</string>
     <string name="draft_space_shuttle_ja_title">Lander</string>
     <string name="draft_space_shuttle_ja_text">A vehicle used for landing on other space bodies.</string>
     <string name="draft_ja_picklehuge01_title">Lord of pickles</string>
@@ -2888,12 +2888,12 @@ Press a key to assign it to this action.</string>
     <string name="draft_ja_tinypickle00_text">Seems like a form of an intelligent life.</string>
     <string name="draft_moon_artifact_ja00_title">Alien artifact</string>
     <string name="draft_moon_artifact_ja00_text">Use or purpose of this object is unsure.</string>
-    <string name="draft_dsa_time_machine00_title">Time machine</string>
-    <string name="draft_dsa_time_machine00_text">CLASSIFIED</string>
+    <string name="draft_dsa_time_machine00_title">Màquina del temps</string>
+    <string name="draft_dsa_time_machine00_text">RESERVAT</string>
     <string name="draft_dsa_moon_command00_title">Space Command</string>
     <string name="draft_dsa_moon_command00_text">Building commanding all local and space operations in the vacinity.</string>
     <string name="draft_dsacomingsoon_text">COMING SOON</string>
-    <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
+    <string name="draft_dsa_moon_spaceport_title">Port espacial</string>
     <string name="draft_dsa_moon_spaceport_text">Building which is used for easy transportation of goods, materials or people in space.</string>
     <string name="draft_dsa_moon_sport00_title">Fitness center</string>
     <string name="draft_dsa_moon_sport00_text">A place for colonists to remain fit and healthy.</string>
@@ -3022,8 +3022,8 @@ Press a key to assign it to this action.</string>
     <string name="control_apply">Aplica</string>
     <string name="stage_createcity_biomes">Biomes...</string>
     <string name="dialog_biomes_title">Biomes</string>
-    <string name="dialog_biomes_cmdselectall">All</string>
-    <string name="dialog_biomes_cmdunselectall">None</string>
+    <string name="dialog_biomes_cmdselectall">Tots</string>
+    <string name="dialog_biomes_cmdunselectall">Cap</string>
     <string name="settings_ground_blending">Ground blending</string>
     <string name="draft_biome_aspen_forest00_title">Aspen forest</string>
     <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
@@ -3084,16 +3084,16 @@ Press a key to assign it to this action.</string>
     <string name="draft_road05_ramp00_text">Connect highways with slower roads or create elaborate interections with this one-way road.</string>
     <string name="settings_units">Units</string>
     <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Metric (e.g. km)</string>
+    <string name="settings_units_metric">Mètric (e.g. km)</string>
     <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Tall wooden fence</string>
-    <string name="draft_fence_tallwooden00_text">To keep the intruders away.</string>
-    <string name="draft_fence_chainlink00_title">Chainlink fence</string>
-    <string name="draft_fence_chainlink00_text">Tall fence made of metal mesh.</string>
-    <string name="draft_fence_metalrailing00_title">Metal railing</string>
-    <string name="draft_fence_metalrailing00_text">A short, black railing to protect pedestrians.</string>
-    <string name="draft_fence_guardrail00_title">Guardrail</string>
-    <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
+    <string name="draft_fence_tallwooden00_title">Tanca alta de fusta</string>
+    <string name="draft_fence_tallwooden00_text">Per a mantenir els intrusos lluny.</string>
+    <string name="draft_fence_chainlink00_title">Tanca de tela metàl·lica</string>
+    <string name="draft_fence_chainlink00_text">Tanca alta feta de filferro.</string>
+    <string name="draft_fence_metalrailing00_title">Barana de metall</string>
+    <string name="draft_fence_metalrailing00_text">Una barana negra i curta que ajuda als vianants.</string>
+    <string name="draft_fence_guardrail00_title">Barrera de seguretat</string>
+    <string name="draft_fence_guardrail00_text">Aquestes barreres metàl·liques serveixen com a mesura de seguretat per al trànsit.</string>
 
 
     <string name="draft_dsarocket_launchbutton">Llança</string>
@@ -3135,7 +3135,7 @@ Press a key to assign it to this action.</string>
     <string name="buildingicon_crimeriot">Aquí la gent hi provoca disturbis.</string>
     <string name="dialog_scriptpolicy_title">Política de scripts per a complements</string>
     <string name="dialog_scriptpolicy_help_title">Els scripts de complement poden ser perillosos</string>
-    <string name="dialog_scriptpolicy_help_text">Podeu permetre o no que s\'executin els scripts dels complements externs. Només els scripts de la llista blanca d\'origens amb els que confieu (com ara els vostres scripts, si n\'esteu creant algun).\n
+    <string name="dialog_scriptpolicy_help_text">Podeu permetre o no que s\'executin els scripts dels complements externs. Només els scripts de la llista blanca d\'orígens amb els que confieu (com ara els vostres scripts, si n\'esteu creant algun).\n
 \n
 Si teniu dubtes, NO habiliteu l\'execució de scripts sense inspeccionar-ne el codi.\n
 \n
@@ -3172,31 +3172,31 @@ Els habitants dels edificis residencials veuen la contaminació amb mals ulls. P
 Feu servir carreteres d\'un sol sentit i cruïlles per a reduir el trànsit.
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+Les autopistes i les àrees industrials solen patir embussos de trànsit. Cal que disposin d\'una xarxa viària adequada. Les carreteres d\'un sol sentit i les cruïlles poden fer el trànsit més fluid. També hi ha cruïlles preconstruïdes tant al joc com als complements. Fins i tot podeu fer les vostres cruïlles inspirant-vos amb intercanviadors reals. Així s\'hauria d\'aconseguir reduir el trànsit.
     </string>
     <string name="tip_topic_traffic_volume_title">
 Podeu ajustar el volum de trànsit a les opcions per a reduir el trànsit.
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+Per a ajustar el volum del trànsit a les opcions, caldrà que activeu el mode de depuració. Quan l\'hagueu activat, disposareu de l\'opció de reduir o augmentar el trànsit. Escolliu el percentatge en funció de com difícil voleu que sigui el repte.
     </string>
     <string name="tip_topic_more_cash_title">
 Si voleu més efectiu, demaneu un préstec.
     </string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Premeu la icona d\'ingressos i escolliu la pestanya amb un botó de diners verd. Premeu "Augmenta". La quantitat de diners oferits en préstec depèn de l\'estat de la partida i es poden tenir fins a 5 préstecs al mateix temps.
     </string>
     <string name="tip_topic_loan_repayment_title">
 Els préstecs es retornen automàticament cada mes.
     </string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+Els pagaments dels préstecs es fan automàticament cada mes. No fa falta pagar-los manualment, encara que si ho feu i reduïu la quantitat en préstec, també reduireu els interessos que heu de pagar. El període de retorn es pot veure a la pestanya de préstecs.
     </string>
     <string name="tip_topic_discord_title">
 Hi ha un servidor oficial de Discord!
     </string>
     <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+Al servidor oficial de Discord els jugadors i creadors parlen, mostren les seves creacions i fan amistat. L\'enllaç es pot trobar a dins del joc, amb les opcions.
     </string>
     <string name="tip_topic_making_plugins_title">
 Podeu escriure els vostres propis complements. És fàcil™.
