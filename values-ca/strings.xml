@@ -120,7 +120,7 @@
         <string name="gamemode_easy">Fàcil</string>
     <string name="gamemode_middle">Mitjà</string>
     <string name="gamemode_hard">Difícil</string>
-    <string name="game_infinitemoney">Mode gratis</string>
+    <string name="game_infinitemoney">Mode lliure</string>
     <string name="about_title">Crèdits</string>
     <string name="about_cmdback">Torna</string>
     <string name="settings_music">Música</string>
@@ -529,8 +529,8 @@
     <string name="ci_education_needed">Cal: %1$,d</string>
     <string name="ci_education_provided">Proporcionat: %1$,d</string>
     <string name="ci_education_reached">S\'ha arribat: %1$,d</string>
-    <string name="ci_education_low">Educació baixa</string>
-    <string name="ci_education_high">Educació superior</string>
+    <string name="ci_education_low">Educació primària</string>
+    <string name="ci_education_high">Educació secundària</string>
     <string name="ci_health_buildings">Edificis: %1$,d</string>
     <string name="ci_health_provided">Proporcionat: %1$,d</string>
     <string name="ci_health_reached">S\'ha arribat: %1$,d</string>
@@ -538,8 +538,8 @@
     <string name="influence_pollution_title">Contaminació</string>
     <string name="influence_noise_title">Soroll</string>
     <string name="influence_health_title">Salut</string>
-    <string name="influence_education_low_title">Educació baixa</string>
-    <string name="influence_education_high_title">Educació superior</string>
+    <string name="influence_education_low_title">Educació primària</string>
+    <string name="influence_education_high_title">Educació secundària</string>
     <string name="influence_police_title">Policia</string>
     <string name="influence_firedep_title">Departament de bombers</string>
     <string name="influence_park_title">Parcs</string>
@@ -548,7 +548,7 @@
     <string name="influence_culture_title">Cultura</string>
     <string name="influence_culture_text">Valor cultural de la teva ciutat.</string>
     <string name="influence_education_low_text">Aquestes escoles proporcionen educació primària.</string>
-    <string name="influence_education_high_text">Aquestes escoles proporcionen educació secundària.</string>
+    <string name="influence_education_high_text">Aquests instituts proporcionen educació secundària.</string>
     <string name="influence_firedep_text">La influència dels departaments de bombers redueix la probabilitat d\'incendis.</string>
     <string name="influence_health_text">Els metges ajuden a mantenir sans als teus habitants.</string>
     <string name="influence_noise_text">Ningú vol viure en una zona sorollosa.</string>
@@ -655,7 +655,7 @@
     <string name="draft_railwaystation00_title">Estació de ferrocarril</string>
     <string name="draft_railwaystation00_text">Estació de ferrocarrils de passatgers.</string>
     <string name="draft_school02_title">Escola petita</string>
-    <string name="draft_school02_text">Una escola primària petita per a vilatges.</string>
+    <string name="draft_school02_text">Una escola d\'educació primària petita.</string>
     <string name="toolremove_zone_title">Eliminar zona</string>
     <string name="toolremove_zone_text">Utilitza aquesta eina per eliminar zones.</string>
     <string name="budget_rail">Rails</string>
@@ -756,11 +756,11 @@
     <string name="draft_road05_text">El camí perfecte per connectar àrees distants.</string>
     <string name="happiness_general">Felicitat general</string>
     <string name="notify_unhappy">La gent aquí està descontenta per culpa de %1$s. Has d\'intentar millorar la felicitat.</string>
-    <string name="draft_rnk_isolateddwelling_title">Habitatge aïllat</string>
+    <string name="draft_rnk_isolateddwelling_title">Zona deshabitada</string>
     <string name="draft_rnk_hamlet_title">Llogaret</string>
-    <string name="draft_rnk_village_small_title">Vilatge Petit</string>
-    <string name="draft_rnk_village_medium_title">Vilatge</string>
-    <string name="draft_rnk_village_big_title">Vilatge Gran</string>
+    <string name="draft_rnk_village_small_title">Pedania petita</string>
+    <string name="draft_rnk_village_medium_title">Pedania mitjana</string>
+    <string name="draft_rnk_village_big_title">Pedania gran</string>
     <string name="draft_rnk_town_small_title">Vila Petita</string>
     <string name="draft_rnk_town_medium_title">Vila</string>
     <string name="draft_rnk_town_big_title">Vila Gran</string>
@@ -858,9 +858,9 @@
     <string name="control_auto">Auto</string>
     <string name="control_on">Habilitat</string>
     <string name="control_off">Deshabilitat</string>
-    <string name="draft_school03_title">Gran institut</string>
-    <string name="draft_school03_text">Una escola secundària més gran per a més estudiants.</string>
-        <string name="gamemode_easy_desc">En aquest mode de joc, comences amb molts diners i és una mica més senzill en general.</string>
+    <string name="draft_school03_title">Institut gros</string>
+    <string name="draft_school03_text">Un institut d'\ensenyament secundari més gran per a més estudiants.</string>
+    <string name="gamemode_easy_desc">En aquest mode de joc, comences amb molts diners i és una mica més senzill en general.</string>
     <string name="gamemode_middle_desc">Mode de joc per defecte. Comences amb una bona quantitat de diners i no hauria de ser massa difícil construir la ciutat dels vostres somnis.</string>
     <string name="gamemode_hard_desc">Ets un professional a TheoTown? Llavors aquest és el mode de joc correcte per a tu. Comences amb una petita quantitat de diners i és difícil en general.</string>
     <string name="dialog_ffwd_title">Avanç ràpid</string>
@@ -933,7 +933,7 @@
     <string name="draft_townhall02_text">Un gran ajuntament per a una gran ciutat. Gràcies per 1 M de descàrregues.</string>
     <string name="notify_pollutedwaterpump">Aquesta bomba d\'aigua es troba en una zona contaminada. És millor situar la bomba en un altre lloc per mantenir l\'aigua neta.</string>
     <string name="notify_destroyedtiles">Desfem-nos d\'aquestes escombraries abans que algú ho noti.</string>
-    <string name="notify_loweducationneeded">Crec que ha arribat l\'hora de donar educació als fills dels ciutadans. Construeix una escola primària.</string>
+    <string name="notify_loweducationneeded">Crec que ha arribat l\'hora de donar educació als fills dels ciutadans. Construeix una escola d\'educació primària.</string>
     <string name="notify_higheducationneeded">Obtinguem alguns genis mitjançant la construcció d\'un institut.</string>
     <string name="dialog_ffwd1_text">Permet utilitzar una velocitat de joc més ràpida per a %1$s.</string>
     <string name="notify_badtraffic">Hi ha massa trànsit en aquest camí. Construeix més o millors carreteres.</string>
@@ -1154,7 +1154,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_rnk_continent_large_title">Continent enorme</string>
     <string name="draft_rnk_planet_small_title">Planeta petit</string>
     <string name="draft_rnk_planet_medium_title">Planeta</string>
-    <string name="draft_rnk_planet_big_title">Planeta gran</string>
+    <string name="draft_rnk_planet_big_title">Planeta gros</string>
     <string name="draft_rnk_planet_large_title">Planeta enorme</string>
     <string name="draft_rnk_solar_system_small_title">Sistema esteŀlar petit</string>
     <string name="draft_rnk_solar_system_medium_title">Sistema esteŀlar</string>
@@ -1172,19 +1172,19 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_rnk_infinity_medium_title">Infinit</string>
     <string name="draft_rnk_infinity_big_title">Infinit gran</string>
     <string name="draft_rnk_infinity_large_title">Infinit enorme</string>
-    <string name="draft_prm_park00_title">Font gran</string>
+    <string name="draft_prm_park00_title">Font grossa</string>
     <string name="draft_prm_park00_text">Una font meravellosa que delectarà als habitants de %1$s .</string>
-    <string name="draft_feature_fountain00_title">Font gran</string>
+    <string name="draft_feature_fountain00_title">Font grossa</string>
     <string name="draft_feature_fountain00_text">Una font meravellosa que delectarà als habitants de la teva ciutat.</string>
 
     <string name="draft_rnk_galaxy_small_title">Galàxia petita</string>
     <string name="draft_rnk_galaxy_medium_title">Galàxia</string>
-    <string name="draft_rnk_galaxy_big_title">Galàxia gran</string>
+    <string name="draft_rnk_galaxy_big_title">Galàxia grossa</string>
     <string name="draft_rnk_galaxy_large_title">Galàxia enorme</string>
     <string name="draft_rnk_galaxy_cluster_small_title">Cúmul de galàxies petit</string>
     <string name="draft_rnk_galaxy_cluster_medium_title">Cúmul de galàxies</string>
-    <string name="draft_rnk_galaxy_cluster_big_title">Cúmul de galàxies gran</string>
-    <string name="draft_rnk_galaxy_cluster_large_title">Cúmul de galàxies gran</string>
+    <string name="draft_rnk_galaxy_cluster_big_title">Cúmul gran de galàxies</string>
+    <string name="draft_rnk_galaxy_cluster_large_title">Cúmul gran de galàxies</string>
     <string name="draft_rnk_supercluster_small_title">Supercúmul de galàxies petit</string>
     <string name="draft_rnk_supercluster_medium_title">Supercúmul de galàxies</string>
     <string name="draft_rnk_supercluster_big_title">Supercúmul de galàxies gran</string>
@@ -1452,10 +1452,10 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="game_remaining_halftunnelprice">Túnel un 50% més barat per %s</string>
     <string name="shop_diamonds_sole">%s diamants</string>
     <string name="dialog_diamondshop_bestvalue">Millor valor</string>
-    <string name="draft_draft_edl_title">Educació baixa</string>
-    <string name="draft_draft_edl_text">Educació baixa.</string>
-    <string name="draft_draft_edh_title">Educació superior</string>
-    <string name="draft_draft_edh_text">Educació superior.</string>
+    <string name="draft_draft_edl_title">Educació primària</string>
+    <string name="draft_draft_edl_text">Educació primària.</string>
+    <string name="draft_draft_edh_title">Educació secundària</string>
+    <string name="draft_draft_edh_text">Educació secundària.</string>
     <string name="draft_draft_crm_title">Criminalitat</string>
     <string name="draft_draft_crm_text">Indicador de criminalitat.</string>
     <string name="draft_draft_fire_title">Perill d\'incendi</string>
@@ -1588,22 +1588,22 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_cat_level01_title">Nivell ₮₮</string>
     <string name="draft_cat_level02_title">Nivell ₮₮₮</string>
     <string name="draft_tool_movebuilding00_title">Moure edifici</string>
-    <string name="draft_tool_movebuilding00_text">Selecciona un edifici per moure-lo a un lloc nou. No es poden moure tots els edificis.</string>
+    <string name="draft_tool_movebuilding00_text">Seleccioneu un edifici per a moure\'l a un altre lloc. No tots els edificis es poden moure.</string>
     <string name="tool_movebuilding_cmd">Seleccionar un edifici</string>
 
 
     <string name="draft_cat_root00_title">Tots</string>
 
 
-    <string name="draft_cat_residential00_title">Edificis de residents</string>
-    <string name="draft_cat_commercial00_title">Edificis de comerços</string>
-    <string name="draft_cat_industrial00_title">Edificis d\'indústries</string>
-    <string name="offerstage_saving">Estalvies %d%%</string>
+    <string name="draft_cat_residential00_title">Edificis residencials</string>
+    <string name="draft_cat_commercial00_title">Edificis comercials</string>
+    <string name="draft_cat_industrial00_title">Edificis industrials</string>
+    <string name="offerstage_saving">Estalvieu %d%%</string>
     <string name="draft_pickle00_title">Cogombret totpoderós</string>
     <string name="draft_pickle00_text">.</string>
 
 
-    <string name="settings_newtoolbar">Utilitzar la barra d\'eines</string>
+    <string name="settings_newtoolbar">Utilitza la barra d\'eines</string>
 
 
     <string name="gallery">Galeria</string>
@@ -1671,7 +1671,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
 
     <string name="draft_cat_management00_title">Gestió</string>
     <string name="draft_sakura00_title">Torre Sakura</string>
-    <string name="draft_sakura00_text">Una pagoda tradicional amb sakures. Quin lloc encantador.</string>
+    <string name="draft_sakura00_text">Una pagoda tradicional amb cirerers japonesos. Quin lloc encantador.</string>
     <string name="draft_stbasilcathedral00_title">Catedral de Sant Basili</string>
     <string name="draft_stbasilcathedral00_text">La catedral de Sant Basili és una església de Moscou, Rússia. Es va completar el 1561 i ara és un museu. La seva alçada és de 115 metres.</string>
 
@@ -1871,8 +1871,8 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_snowtile00_text">Què passa amb l\'escalfament global?</string>
     <string name="gamemode_free_title">Lliure</string>
     <string name="gamemode_free_text">No vols lluitar amb els diners? En aquest mode de joc no hi ha diners ni hi ha requisits de població..</string>
-    <string name="dialog_free_title">Mode gratis</string>
-    <string name="dialog_free_text">Has seleccionat el mode gratis.\n
+    <string name="dialog_free_title">Mode lliure</string>
+    <string name="dialog_free_text">Has seleccionat el mode lliure.\n
 Pros: Sense diners, sense requisits, opcions per controlar la demanda\n
 Cons: Menys reptes</string>
     <string name="draft_medic03_title">Hospital modern</string>
@@ -1936,27 +1936,27 @@ Cons: Menys reptes</string>
     <string name="store_downlaod">Descarrega</string>
     <string name="store_downloaded">Descarregat</string>
     <string name="dialog_storedownlaod_title">Descarrega</string>
-    <string name="dialog_storedownload_text">Do you want to download %s?</string>
-    <string name="dialog_storerestart_title">Restart</string>
+    <string name="dialog_storedownload_text">Voleu descarregar %s?</string>
+    <string name="dialog_storerestart_title">Reinicia</string>
     <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
-    <string name="store_status_notacquired">Not acquired</string>
-    <string name="store_status_downloading">Downloading</string>
+    <string name="dialog_storerestart_cmdrestart">Reinicia</string>
+    <string name="store_status_notacquired">No s\'ha adquirit</string>
+    <string name="store_status_downloading">Es descarrega</string>
     <string name="store_status_downloaderror">Error: </string>
-    <string name="store_status_acquired">Acquired</string>
-    <string name="store_status_newlyinstalled">Newly installed</string>
-    <string name="store_status_running">Running</string>
-    <string name="store_status_notrunning">Not running</string>
-    <string name="store_status_newversioninstalled">Installed new version</string>
-    <string name="store_status_availupdate">Update available</string>
-    <string name="store_status_restartrequired">Restart required</string>
-    <string name="store_active">Active</string>
-    <string name="store_notactive">Not active</string>
-    <string name="store_fetchfailed">Network error</string>
-    <string name="store_modeexplore">Explore</string>
-    <string name="store_modeinstalled">Installed</string>
-    <string name="draft_feature_freefastspeed00_title">Unlimited Fast Speed</string>
-    <string name="draft_feature_freetunnels00_title">Unlimited Tunnels</string>
+    <string name="store_status_acquired">Adquirit</string>
+    <string name="store_status_newlyinstalled">Instal·lat recentment</string>
+    <string name="store_status_running">S\'executa</string>
+    <string name="store_status_notrunning">No s\'executa</string>
+    <string name="store_status_newversioninstalled">Versió nova instal·lada</string>
+    <string name="store_status_availupdate">Actualització disponible</string>
+    <string name="store_status_restartrequired">Cal reiniciar</string>
+    <string name="store_active">Actiu</string>
+    <string name="store_notactive">No actiu</string>
+    <string name="store_fetchfailed">Error de xarxa</string>
+    <string name="store_modeexplore">Explora</string>
+    <string name="store_modeinstalled">Instal·lat</string>
+    <string name="draft_feature_freefastspeed00_title">Velocitat ràpida il·limitada</string>
+    <string name="draft_feature_freetunnels00_title">Túnels il·limitats</string>
     <string name="dialog_storedelete_title">Desinstal·la</string>
     <string name="dialog_storedelete_text">Esteu segur que voleu traure el complement?</string>
     <string name="dialog_storedelete_cmddelete">Desinstal·la</string>
@@ -1979,40 +1979,40 @@ Cons: Menys reptes</string>
     <string name="dialog_storereported_text">Gràcies pel vostre comentari! Revisarem el complement i decidirem què fem.</string>
 
 
-    <string name="store_ratings">by %,d ratings</string>
+    <string name="store_ratings">de %,d valoracions</string>
     <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
-    <string name="store_new">New and Updated</string>
+    <string name="dialog_storeerror_title">Error de càrrega</string>
+    <string name="dialog_storeerror_text">El complement no s\'ha pogut carregar pel següent motiu:</string>
+    <string name="store_new">Nou i actualitzat</string>
     <string name="draft_cat_plugins00_title">Complements</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="dialog_storesearch_title">Cerca un complement</string>
+    <string name="dialog_storesearch_text">Escriviu una paraula clau:</string>
+    <string name="dialog_storesearch_cmdsearch">Cerca</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
-    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+    <string name="draft_deco_chr_santashouse00_title">Casa del Pare Noel</string>
+    <string name="draft_deco_chr_santashouse00_text">El Pare Noel la fa servir de base per a repartir regals.</string>
 
 
-    <string name="store_previouslyinstalled">Deleted</string>
+    <string name="store_previouslyinstalled">Eliminat</string>
     <string name="spend_diamonds_format">%1$s/%2$s</string>
-    <string name="draft_rails00_title">Railway</string>
-    <string name="draft_rails00_text">Used to guide your trains.</string>
-    <string name="draft_rails00oneway00_title">One-way Railway</string>
-    <string name="draft_rails00oneway00_text">Used to guide your trains. Acts like a one-way road.</string>
-    <string name="specialoffer_cmdbuy">Buy for %s</string>
-    <string name="influence_body_disposal_title">Funeral</string>
-    <string name="influence_body_disposal_text">Rest in peace.</string>
-    <string name="influence_traffic_title">Traffic</string>
-    <string name="influence_traffic_text">Inhabitants don\'t like pollution and noise produced by traffic.</string>
-    <string name="ci_neighbor_wastedisposal">Waste disposal service</string>
-    <string name="ci_neighbor_bodydisposal">Funeral service</string>
-    <string name="wastedisposal_transport">%1$,dL/d</string>
+    <string name="draft_rails00_title">Via fèrria</string>
+    <string name="draft_rails00_text">Feu-la servir per a guiar els trens.</string>
+    <string name="draft_rails00oneway00_title">Via fèrria d\'1 sentit</string>
+    <string name="draft_rails00oneway00_text">Feu-la servir per a guiar els trens. Només s\'hi pot circular en un sentit.</string>
+    <string name="specialoffer_cmdbuy">Compra per %s</string>
+    <string name="influence_body_disposal_title">Serveis funeraris</string>
+    <string name="influence_body_disposal_text">Descansi en pau.</string>
+    <string name="influence_traffic_title">Trànsit</string>
+    <string name="influence_traffic_text">Als habitants no els agrada la contaminació ni el soroll que produeix el trànsit.</string>
+    <string name="ci_neighbor_wastedisposal">Servei d\'eliminació de residus</string>
+    <string name="ci_neighbor_bodydisposal">Serveis funeraris</string>
+    <string name="wastedisposal_transport">%1$,d L/d</string>
     <string name="bodydisposal_transport">%1$,d/d</string>
-    <string name="draft_cat_elevatedtrain00_title">Elevated Train</string>
+    <string name="draft_cat_elevatedtrain00_title">Tren elevat</string>
     <string name="draft_cat_metro00_title">Metro</string>
-    <string name="draft_cat_tree00_title">Plants</string>
-    <string name="draft_railroof00_title">Roof</string>
+    <string name="draft_cat_tree00_title">Plantes</string>
+    <string name="draft_railroof00_title">Teulada</string>
     <string name="draft_railroof00_text">Train station roof that can be placed on rails in a train station.</string>
     <string name="draft_trainplatform00_title">Andana 1</string>
     <string name="draft_trainplatform00_text">Una andana de l\'estació de tren.</string>
@@ -2040,13 +2040,13 @@ Cons: Menys reptes</string>
     <string name="draft_trainstation_prebuilt02_title">Big station</string>
     <string name="draft_trainstation_prebuilt02_text">A big train station that serves local and long-distance traffic.</string>
     <string name="draft_cat_train00_parts00_title">Parts</string>
-    <string name="draft_raildeco_crane00_title">Crane</string>
-    <string name="draft_raildeco_crane00_text">A freight crane for your railway.</string>
+    <string name="draft_raildeco_crane00_title">Grua</string>
+    <string name="draft_raildeco_crane00_text">Una grua de mercaderies per al transport ferroviari.</string>
     <string name="draft_raildeco_traincrossing00_title">Train Crossing</string>
     <string name="draft_raildeco_traincrossing00_text">A Train Crossing for your railway.</string>
     <string name="draft_raildeco_mast00_title">Overhead line mast</string>
     <string name="draft_raildeco_mast00_text">An overhead line mast for your railway.</string>
-    <string name="draft_raildeco_lights00_00_title">Traffic light</string>
+    <string name="draft_raildeco_lights00_00_title">Semàfor</string>
     <string name="draft_raildeco_lights00_00_text">A traffic light for your Railway</string>
     <string name="draft_trainstation_prebuilt10_title">Freight depot</string>
     <string name="draft_trainstation_prebuilt10_text">Train station for industrial goods.</string>
@@ -2054,45 +2054,45 @@ Cons: Menys reptes</string>
     <string name="draft_trainstation_prebuilt11_text">A big train station for more industrial goods.</string>
 
 
-    <string name="channel_city_title">City News</string>
-    <string name="channel_city_text">General information about your city.</string>
-    <string name="settings_fullscreen">Fullscreen</string>
-    <string name="control_help">Help</string>
-    <string name="settings_scrolledges">Edge scrolling</string>
-    <string name="dialog_rate_cmdlater">Later</string>
-    <string name="region_individualcities">Single Cities</string>
-    <string name="draft_redwood_tree00_title">Redwood Tree</string>
-    <string name="draft_redwood_tree00_text">Typical tree from the Redwood Forest of California.</string>
-    <string name="buildinginfo_daysbuilt">Built: %1$,d day(s) ago</string>
-    <string name="createcity_terrain">Hills</string>
-    <string name="draft_tool_terrain_increase00_title">Raise</string>
-    <string name="draft_tool_terrain_increase00_text">Raises the terrain to form hills.</string>
-    <string name="draft_tool_terrain_lower00_title">Lower</string>
-    <string name="draft_tool_terrain_lower00_text">Lowers the terrain.</string>
-    <string name="draft_tool_terrain_platform00_title">Platform</string>
-    <string name="draft_tool_terrain_platform00_text">Levels terrain within a radius to the same height.</string>
-    <string name="draft_cat_hills00_title">Hills</string>
-    <string name="draft_feature_starter_pack01_title">Starter Pack II</string>
-    <string name="draft_budget_roadtoll00_title">Toll</string>
-    <string name="draft_tollbooth00_title">Tollbooths</string>
-    <string name="draft_tollbooth00_text">A tollbooth can make you some cash but your people hate it.</string>
-    <string name="notification02_title">Action required</string>
-    <string name="notification02_text">Someone has to manage the development of %1$s!</string>
-    <string name="notification03_title">Never forget %1$s</string>
-    <string name="notification03_text">Please mayor, come back!</string>
-    <string name="settings_fontscaling">Font size</string>
-    <string name="settings_fontscaling_small">Small</string>
-    <string name="settings_fontscaling_medium">Medium</string>
-    <string name="settings_fontscaling_big">Big</string>
-    <string name="pluginerror_disable">Disable</string>
+    <string name="channel_city_title">Notícies locals</string>
+    <string name="channel_city_text">Informació general de la ciutat.</string>
+    <string name="settings_fullscreen">Pantalla completa</string>
+    <string name="control_help">Ajuda</string>
+    <string name="settings_scrolledges">Moviment per la vora</string>
+    <string name="dialog_rate_cmdlater">Més endavant</string>
+    <string name="region_individualcities">Ciutats simples</string>
+    <string name="draft_redwood_tree00_title">Sequoia roja</string>
+    <string name="draft_redwood_tree00_text">Arbre típic dels boscos de sequoies de Califòrnia.</string>
+    <string name="buildinginfo_daysbuilt">Construït fa %1$,d dies</string>
+    <string name="createcity_terrain">Pendents</string>
+    <string name="draft_tool_terrain_increase00_title">Eleva</string>
+    <string name="draft_tool_terrain_increase00_text">Eleva el terreny.</string>
+    <string name="draft_tool_terrain_lower00_title">Baixa</string>
+    <string name="draft_tool_terrain_lower00_text">Baixa el terreny avall.</string>
+    <string name="draft_tool_terrain_platform00_title">Anivella</string>
+    <string name="draft_tool_terrain_platform00_text">Anivella a la mateixa alçària el terreny dins d\'un radi.</string>
+    <string name="draft_cat_hills00_title">Pendents</string>
+    <string name="draft_feature_starter_pack01_title">Pac d\'inici II</string>
+    <string name="draft_budget_roadtoll00_title">Peatge</string>
+    <string name="draft_tollbooth00_title">Cabines de peatge</string>
+    <string name="draft_tollbooth00_text">Una cabina us aconseguirà diners, però als habitants no els agrada pagar.</string>
+    <string name="notification02_title">Cal una acció</string>
+    <string name="notification02_text">Algú ha de dirigir la construcció de %1$s!</string>
+    <string name="notification03_title">No us oblideu de %1$s</string>
+    <string name="notification03_text">Alcalde, torni!</string>
+    <string name="settings_fontscaling">Mida de lletra</string>
+    <string name="settings_fontscaling_small">Petita</string>
+    <string name="settings_fontscaling_medium">Mitjana</string>
+    <string name="settings_fontscaling_big">Gran</string>
+    <string name="pluginerror_disable">Desactiva</string>
 
 
-    <string name="music_next">Next music</string>
-    <string name="createcity_generating">Generating City</string>
-    <string name="dialog_notenoughmoneyp_title">Insufficient funds</string>
+    <string name="music_next">Propera peça</string>
+    <string name="createcity_generating">Es genera la ciutat</string>
+    <string name="dialog_notenoughmoneyp_title">No hi ha prou diners.</string>
     <string name="dialog_notenoughmoneyp_text">We have not enough money to buy this right now :(\n\nMissing amount is %1$s</string>
-    <string name="game_region">Region %1$d/%2$d</string>
-    <string name="gamemode_sandbox_title">Sandbox</string>
+    <string name="game_region">Regió %1$d/%2$d</string>
+    <string name="gamemode_sandbox_title">Mode lliure</string>
     <string name="gamemode_sandbox_text">Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.</string>
     <string name="dialog_ubermode_title">Uber Mode</string>
     <string name="dialog_ubermode_text">Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity</string>
@@ -2201,188 +2201,188 @@ Cons: Menys reptes</string>
     <string name="report_infringes_my_rights">Infringes my rights</string>
     <string name="report_bad_behavior">Bad behavior</string>
     <string name="report_violates_store_rules">Violates other store rules</string>
-    <string name="stage_comment_cmdsend">Send</string>
+    <string name="stage_comment_cmdsend">Envia</string>
     <string name="stage_comment_cmdsendhint">Enter your comment here...</string>
-    <string name="dialog_storerestart_cmdlater">Later</string>
-    <string name="wealthy_poor">Poor</string>
-    <string name="wealthy_medium">Medium</string>
-    <string name="wealthy_rich">Wealthy</string>
-    <string name="ci_rci_res">Residential</string>
-    <string name="ci_rci_com">Commercial</string>
+    <string name="dialog_storerestart_cmdlater">Més endavant</string>
+    <string name="wealthy_poor">Pobre</string>
+    <string name="wealthy_medium">Mitjà</string>
+    <string name="wealthy_rich">Ric</string>
+    <string name="ci_rci_res">Residencial</string>
+    <string name="ci_rci_com">Comercial</string>
     <string name="ci_rci_ind">Industrial</string>
-    <string name="settings_supportdrawingintwomodetools">Support dragging in two-mode-tools</string>
+    <string name="settings_supportdrawingintwomodetools">Suporta l\'arrossegament en eines de dos modes</string>
     <string name="settings_category_controls">Controls</string>
     <string name="draft_cat_rci_parts00_title">Construcció manual</string>
 
 
-    <string name="settings_verticaltoolbuttons">Vertical tool actions</string>
-    <string name="toolaction_build">Build</string>
-    <string name="toolaction_joinroad">Join roads</string>
-    <string name="toolaction_trafficlights">Use traffic lights</string>
-    <string name="toolaction_bridge">Bridge</string>
-    <string name="toolaction_constantheight">Constant height</string>
-    <string name="toolaction_modifyunder">Below</string>
-    <string name="toolaction_levelup">Higher</string>
-    <string name="toolaction_leveldown">Lower</string>
-    <string name="toolaction_upwards">Upwards</string>
-    <string name="toolaction_downwards">Downwards</string>
-    <string name="toolaction_nextframe">Next variant</string>
-    <string name="toolaction_prevframe">Previous variant</string>
-    <string name="toolaction_singlelane">Single lane</string>
-    <string name="toolaction_randomcar">Select random</string>
-    <string name="toolaction_hidebuildings">Highlight car</string>
-    <string name="toolaction_radiusbigger">Bigger</string>
-    <string name="toolaction_radiussmaller">Smaller</string>
-    <string name="toolaction_routeremove">Remove</string>
-    <string name="toolaction_routeundo">Undo</string>
-    <string name="toolaction_routeconfirm">Confirm</string>
-    <string name="toolaction_nextbuilding">Next building</string>
-    <string name="toolaction_prevbuilding">Previous building</string>
-    <string name="toolaction_abortmovebuilding">Abort</string>
-    <string name="toolaction_rocketfire">Fire</string>
-    <string name="toolaction_nextsign">Next label</string>
-    <string name="toolaction_prevsign">Previous label</string>
-    <string name="toolaction_terraindeeper">Deeper</string>
-    <string name="toolaction_terrainhigher">Higher</string>
+    <string name="settings_verticaltoolbuttons">Accions d\'eines verticals</string>
+    <string name="toolaction_build">Construeix</string>
+    <string name="toolaction_joinroad">Uneix carreteres</string>
+    <string name="toolaction_trafficlights">Fes servir semàfors</string>
+    <string name="toolaction_bridge">Pont</string>
+    <string name="toolaction_constantheight">Alçària constant</string>
+    <string name="toolaction_modifyunder">Per sota</string>
+    <string name="toolaction_levelup">Més amunt</string>
+    <string name="toolaction_leveldown">Més avall</string>
+    <string name="toolaction_upwards">Amunt</string>
+    <string name="toolaction_downwards">Avall</string>
+    <string name="toolaction_nextframe">Següent variant</string>
+    <string name="toolaction_prevframe">Variant anterior</string>
+    <string name="toolaction_singlelane">Un sol carril</string>
+    <string name="toolaction_randomcar">Selecció aleatòria</string>
+    <string name="toolaction_hidebuildings">Marca el cotxe</string>
+    <string name="toolaction_radiusbigger">Més gran</string>
+    <string name="toolaction_radiussmaller">Més petit</string>
+    <string name="toolaction_routeremove">Trau</string>
+    <string name="toolaction_routeundo">Desfés</string>
+    <string name="toolaction_routeconfirm">Confirma</string>
+    <string name="toolaction_nextbuilding">Següent edifici</string>
+    <string name="toolaction_prevbuilding">Edifici anterior</string>
+    <string name="toolaction_abortmovebuilding">Cancel·la</string>
+    <string name="toolaction_rocketfire">Dispara</string>
+    <string name="toolaction_nextsign">Següent senyal</string>
+    <string name="toolaction_prevsign">Senyal anterior</string>
+    <string name="toolaction_terraindeeper">Més profund</string>
+    <string name="toolaction_terrainhigher">Més amunt</string>
 
 
-    <string name="settings_uisize">UI Size</string>
+    <string name="settings_uisize">Mida de la interfície</string>
     <string name="settings_uisize_normal">Normal</string>
-    <string name="settings_uisize_big">Big</string>
-    <string name="settings_uisize_bigger">Bigger</string>
-    <string name="settings_uisize_small">Small</string>
-    <string name="settings_uisize_smaller">Smaller</string>
+    <string name="settings_uisize_big">Gran</string>
+    <string name="settings_uisize_bigger">Enorme</string>
+    <string name="settings_uisize_small">Petita</string>
+    <string name="settings_uisize_smaller">Minúscula</string>
     <string name="createcity_desert">Desert</string>
-    <string name="createcity_snow">Snow</string>
-    <string name="weather_sunny">Sunny</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_lighting">Thunderstorm</string>
-    <string name="weather_auto">Dynamic</string>
-    <string name="store_local_plugins">Local plugins</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s by %2$s (local plugin)</string>
+    <string name="createcity_snow">Nevat</string>
+    <string name="weather_sunny">Assolellat</string>
+    <string name="weather_rainy">Plujós</string>
+    <string name="weather_lighting">Tempestuós</string>
+    <string name="weather_auto">Dinàmic</string>
+    <string name="store_local_plugins">Complements locals</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s de %2$s (complement local)</string>
 
 
-    <string name="dialog_storedisclaimer_title">There\'s more...</string>
+    <string name="dialog_storedisclaimer_title">Hi ha més...</string>
     <string name="dialog_storedisclaimer_text">Welcome to the Plugin Store! Here you can get hundreds of additional contents for TheoTown made by players around the world.\n
 \n
 We recommend to read the plugin descriptions carefully to understand what a plugin does before you download it.</string>
-    <string name="dialog_accountdisclaimer_title">Account</string>
-    <string name="dialog_accountdisclaimer_text">You can connect your game to one or multiple accounts.\n
+    <string name="dialog_accountdisclaimer_title">Compte d\'usuari</string>
+    <string name="dialog_accountdisclaimer_text">Podeu connectar la vostra partida a un o més comptes.\n
 \n
-By connecting the game to a TheoTown Forum account you can participate in comment sections.</string>
-    <string name="ci_rci_help">The demand describes the need for specific buildings. It is divided into residential, commercial and industrial demands. For each of them there are three different levels of wealth.</string>
+Si connecteu la partida amb el compte del fòrum del TheoTown, podreu participar en les seccions de comentaris.</string>
+    <string name="ci_rci_help">La demanda descriu quins tipus d\'edificis fan falta. Es divideix en tres tipus: residencial, comercial i industrial. Per a cadascuna, podeu veure els diferents nivells de riquesa.</string>
 
 
-    <string name="draft_destroyed_tree00_title">Burnt trees</string>
+    <string name="draft_destroyed_tree00_title">Arbres cremats</string>
     <string name="draft_destroyed_tree00_text">Some burnt down trees that you might want to remove.</string>
     <string name="region_acquiremap">Acquire</string>
     <string name="dialog_acquiremapfreemium_title">Acquire map</string>
     <string name="dialog_acquiremapfreemium_text">Congratulations, this is a free spot that you can acquire to build your own city here.</string>
     <string name="settings_sound_plugins">Complements</string>
-    <string name="createregion_title">New region</string>
-    <string name="createregion_split">Split</string>
-    <string name="createregion_merge">Merge</string>
+    <string name="createregion_title">Regió nova</string>
+    <string name="createregion_split">Parteix</string>
+    <string name="createregion_merge">Uneix</string>
     <string name="createregion_hide">Exclude</string>
     <string name="createregion_show">Include</string>
-    <string name="createcity_sizebigbigbigbig">Even bigger</string>
-    <string name="createregion_layout">Layout:</string>
+    <string name="createcity_sizebigbigbigbig">Més gran</string>
+    <string name="createregion_layout">Disposició:</string>
     <string name="createregion_layout2x2">2x2</string>
-    <string name="createregion_layoutcircle">Circle</string>
-    <string name="dialog_deleteregion_title">Delete region</string>
+    <string name="createregion_layoutcircle">Cercle</string>
+    <string name="dialog_deleteregion_title">Esborra la regió</string>
     <string name="dialog_deleteregion_text">Are you sure that you want to delete this region? This cannot be undone.</string>
-    <string name="dialog_deleteregion_cmd">Delete</string>
-    <string name="dialog_resetregion_title">Reset region</string>
+    <string name="dialog_deleteregion_cmd">Esborra</string>
+    <string name="dialog_resetregion_title">Restableix la regió</string>
     <string name="dialog_resetregion_text">Are you sure that you want to reset this region? This cannot be undone.</string>
-    <string name="dialog_resetregion_cmd">Reset</string>
+    <string name="dialog_resetregion_cmd">Restableix</string>
     <string name="dialog_regionpassword_title">Enter region password</string>
-    <string name="dialog_regionpassword_text">Password:</string>
-    <string name="dialog_generateregion_title">Generate region</string>
+    <string name="dialog_regionpassword_text">Contrasenya:</string>
+    <string name="dialog_generateregion_title">Genera una regió</string>
     <string name="dialog_generateregion_text">Do you want to generate that region now?</string>
-    <string name="dialog_uploadregionaccount_title">Account needed</string>
+    <string name="dialog_uploadregionaccount_title">Cal un compte d\'usuari</string>
     <string name="dialog_uploadregionaccount_text">In order to upload a region you have to connect TheoTown with a TheoTown account.</string>
-    <string name="dialog_uploadregion_title">Upload region</string>
+    <string name="dialog_uploadregion_title">Puja la regió</string>
     <string name="dialog_uploadregion_text">This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If no password is set other players can join there then, too.</string>
-    <string name="dialog_uploadregion_cmdpassword">Password ...</string>
-    <string name="dialog_uploadregion_cmdupload">Upload</string>
-    <string name="stage_uploadregion_uploading">Uploading region</string>
-    <string name="dialog_uploadregionpassword_title">Enter password</string>
+    <string name="dialog_uploadregion_cmdpassword">Contrasenya...</string>
+    <string name="dialog_uploadregion_cmdupload">Puja</string>
+    <string name="stage_uploadregion_uploading">Es puja la regió</string>
+    <string name="dialog_uploadregionpassword_title">Escriviu la contrasenya</string>
     <string name="dialog_uploadregionpassword_text">Here you can enter a password to access the region. Leave this field empty to set no password.</string>
-    <string name="dialog_regionsearch_title">Search region</string>
-    <string name="dialog_regionsearch_text">Enter a keyword below:</string>
-    <string name="dialog_regionsearch_cmdsearch">Search</string>
-    <string name="dialog_regioncoininfo_title">Region Coins?</string>
+    <string name="dialog_regionsearch_title">Busca una regió</string>
+    <string name="dialog_regionsearch_text">Escriviu una paraula clau:</string>
+    <string name="dialog_regionsearch_cmdsearch">Busca</string>
+    <string name="dialog_regioncoininfo_title">Moneda de la regió?</string>
     <string name="dialog_regioncoininfo_text">For balancing reasons we introduced a currency called Region Coins. You will earn them for free on a daily basis just by opening the game.\n\nThis currency allows us to offer you our online services for free.</string>
     <string name="settings_sdcardplugins">Load plugins from sd card (TheoTown/plugins)</string>
-    <string name="dialog_uploadregionconfirm_title">Upload now?</string>
+    <string name="dialog_uploadregionconfirm_title">Voleu pujar-ho ara?</string>
     <string name="dialog_uploadregionconfirm_text">Ensure that you have a stable internet connection before starting the process.</string>
-    <string name="dialog_uploadregionunsuited_title">Upload region</string>
+    <string name="dialog_uploadregionunsuited_title">Puja la regió</string>
     <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that are not part of the game nor have any cities in them (yet).</string>
-    <string name="dialog_acquirecityaccount_title">Account needed</string>
+    <string name="dialog_acquirecityaccount_title">Cal un compte d\'usuari</string>
     <string name="dialog_acquirecityaccount_text">In order to acquire a plot in a online region you have to connect TheoTown with a TheoTown account.</string>
     <string name="region_onlinecity_free">This plot is free so you can acquire it.</string>
     <string name="region_onlinecity_acquired">This is your plot. You can found a city here.</string>
     <string name="region_onlinecity_wait">Wait some time before you acquire another city in that region.</string>
 
 
-    <string name="dialog_savingissue_title">Saving failed</string>
+    <string name="dialog_savingissue_title">No s\'ha pogut desar.</string>
     <string name="dialog_savingissue_text">Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.</string>
-    <string name="dialog_onlineinfo_title">Online mode</string>
+    <string name="dialog_onlineinfo_title">Mode en línia</string>
     <string name="dialog_onlineinfo_text">Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n"It\'s pretty cool!" - our Discord administrator said.</string>
-    <string name="dialog_outdated_title">Outdated version</string>
+    <string name="dialog_outdated_title">Versió desactualitzada</string>
     <string name="dialog_outdated_text">You are using an outdated version that is not compatible with this feature anymore.\n\nPlease update your game.</string>
-    <string name="settings_weather_lightning">Lightnings</string>
-    <string name="settings_item_edit">Edit</string>
-    <string name="dialog_configureregion_title">Configure region</string>
-    <string name="dialog_configureregion_previewrules">Preview</string>
-    <string name="dialog_regionrules_general">General rules</string>
-    <string name="dialog_regionrules_allowplugins">Plugins are allowed.</string>
-    <string name="dialog_regionrules_notallowplugins">You cannot use plugins here.</string>
-    <string name="dialog_regionrules_norules">There are no specific rules for this region.</string>
-    <string name="stage_onlineregion_rules">Rules</string>
-    <string name="control_report">Report</string>
-    <string name="stage_regioncity_reportsubject">the city %1$s</string>
-    <string name="stage_regioncity_owner">Owner: %1$s</string>
-    <string name="stage_regioncity_playtime">Playtime: %1$s</string>
+    <string name="settings_weather_lightning">Llamps</string>
+    <string name="settings_item_edit">Edita</string>
+    <string name="dialog_configureregion_title">Configura la regió</string>
+    <string name="dialog_configureregion_previewrules">Previsualització</string>
+    <string name="dialog_regionrules_general">Regles generals</string>
+    <string name="dialog_regionrules_allowplugins">Es poden fer servir complements.</string>
+    <string name="dialog_regionrules_notallowplugins">No es poden fer servir complements.</string>
+    <string name="dialog_regionrules_norules">No hi ha regles específiques per a la regió.</string>
+    <string name="stage_onlineregion_rules">Regles</string>
+    <string name="control_report">Denuncia</string>
+    <string name="stage_regioncity_reportsubject">la ciutat %1$s</string>
+    <string name="stage_regioncity_owner">Propietari: %1$s</string>
+    <string name="stage_regioncity_playtime">Temps de joc: %1$s</string>
 
 
-    <string name="draft_asphalt03_title">Light asphalt</string>
-    <string name="draft_asphalt04_title">White asphalt</string>
-    <string name="draft_concrete00_text">Some concrete for decorative purposes.</string>
-    <string name="draft_concrete00_title">Concrete</string>
-    <string name="draft_concrete01_title">Stripped concrete</string>
-    <string name="createregion_regionname">Region name:</string>
-    <string name="dialog_regionrules_allowsandbox">Sandbox is allowed.</string>
-    <string name="dialog_regionrules_notallowsandbox">Sandbox is not available here.</string>
-    <string name="dialog_configureregion_rules">Rules</string>
-    <string name="dialog_configureregion_infos">Info</string>
-    <string name="dialog_configureregion_allowplugins">Allow plugins</string>
-    <string name="dialog_configureregion_allowsandbox">Allow sandbox</string>
-    <string name="draft_sandstonetiles00_text">Decorative ground.</string>
-    <string name="draft_sandstonetiles00_title">Sandstone tiles</string>
-    <string name="draft_brick00_title">Brick</string>
-    <string name="draft_woodenpier00_title">Wooden pier</string>
-    <string name="draft_cobblestones00_title">Cobblestone</string>
-    <string name="draft_fancylongtiles00_title">Fancy long tiles</string>
-    <string name="draft_finemarble00_title">Fine marble</string>
-    <string name="settings_nightmode">Night mode</string>
-    <string name="settings_nightmode_day">Day</string>
-    <string name="settings_nightmode_night">Night</string>
+    <string name="draft_asphalt03_title">Asfalt clar</string>
+    <string name="draft_asphalt04_title">Asfalt blanc</string>
+    <string name="draft_concrete00_text">Formigó per a decorar.</string>
+    <string name="draft_concrete00_title">Formigó</string>
+    <string name="draft_concrete01_title">Formigó natural</string>
+    <string name="createregion_regionname">Nom de la regió:</string>
+    <string name="dialog_regionrules_allowsandbox">Es permet mode lliure.</string>
+    <string name="dialog_regionrules_notallowsandbox">No es permet el mode lliure.</string>
+    <string name="dialog_configureregion_rules">Reglament</string>
+    <string name="dialog_configureregion_infos">Informació</string>
+    <string name="dialog_configureregion_allowplugins">Permet complements</string>
+    <string name="dialog_configureregion_allowsandbox">Permet mode lliure</string>
+    <string name="draft_sandstonetiles00_text">Terra decoratiu.</string>
+    <string name="draft_sandstonetiles00_title">Rajoles d\'arenisca</string>
+    <string name="draft_brick00_title">Maons</string>
+    <string name="draft_woodenpier00_title">Moll de fusta</string>
+    <string name="draft_cobblestones00_title">Llamborda</string>
+    <string name="draft_fancylongtiles00_title">Rajoles llargues elegants</string>
+    <string name="draft_finemarble00_title">Marbre elegant</string>
+    <string name="settings_nightmode">Mode nit</string>
+    <string name="settings_nightmode_day">Dia</string>
+    <string name="settings_nightmode_night">Nit</string>
     <string name="settings_nightmode_auto">Auto</string>
-    <string name="settings_nightmode_real">real time</string>
-    <string name="settings_rushhour">Rush hour</string>
-    <string name="stage_onlineregion_information">Region information</string>
+    <string name="settings_nightmode_real">temps real</string>
+    <string name="settings_rushhour">Hora punta</string>
+    <string name="stage_onlineregion_information">Informació de la regió</string>
     <string name="dialog_configureregion_rules_desc">Here you can define some rules the players of this region have to follow:</string>
     <string name="dialog_configureregion_infos_desc">Here you can provide some general information about your region:</string>
-    <string name="dialog_regionrules_informationcat">Information</string>
-    <string name="dialog_regionrules_rulescat">Rules</string>
-    <string name="dialog_selectuser_title">Select user</string>
-    <string name="dialog_selectuser_namelabel">User name:</string>
+    <string name="dialog_regionrules_informationcat">Informació</string>
+    <string name="dialog_regionrules_rulescat">Regles</string>
+    <string name="dialog_selectuser_title">Tria un usuari</string>
+    <string name="dialog_selectuser_namelabel">Nom d\'usuari:</string>
     <string name="dialog_selectuser_namehint">Enter the user name of another player</string>
-    <string name="dialog_selectuser_cmdselect">Select</string>
-    <string name="dialog_transfercity_title">Transfer ownership</string>
+    <string name="dialog_selectuser_cmdselect">Selecciona</string>
+    <string name="dialog_transfercity_title">Transfereix la propietat</string>
     <string name="dialog_transfercity_text">Are you sure that you want to transfer the ownership over your city %1$s to %2$s?\n\nYou cannot undo that.</string>
-    <string name="dialog_transfercity_cmdtransfer">Transfer</string>
-    <string name="dialog_transferregion_title">Transfer ownership</string>
+    <string name="dialog_transfercity_cmdtransfer">Transfereix</string>
+    <string name="dialog_transferregion_title">Transfereix la propietat</string>
     <string name="dialog_transferregion_text">Are you sure that you want to transfer the ownership over your region %1$s to %2$s?\n\nYou cannot undo that.</string>
     <string name="dialog_transferregion_cmdtransfer">Transfereix</string>
     <string name="stage_region_reportsubject">la regió %1$s</string>
@@ -2396,19 +2396,19 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="settings_uianimations">Animacions</string>
     <string name="dialog_configureregion_password">Contrasenya</string>
     <string name="dialog_configureregion_password_desc">Here you can set a new password. Leave it blank to reuse the current one.</string>
-    <string name="dialog_configureregion_enforepassword">Require password</string>
-    <string name="dialog_regionstats_title">Region statistics</string>
-    <string name="ci_energy_produced_short">Produced: %1$,.0fkW</string>
-    <string name="ci_energy_consumed_short">Used: %1$,.0fkW</string>
-    <string name="ci_water_consumed_short">Used: %1$,.0fL/h</string>
-    <string name="ci_water_produced_short">Produced: %1$,.0fL/h</string>
+    <string name="dialog_configureregion_enforepassword">Cal contrasenya</string>
+    <string name="dialog_regionstats_title">Estadístiques de la regió</string>
+    <string name="ci_energy_produced_short">Produïda: %1$,.0f kW</string>
+    <string name="ci_energy_consumed_short">Usada: %1$,.0f kW</string>
+    <string name="ci_water_consumed_short">Usada: %1$,.0f L/h</string>
+    <string name="ci_water_produced_short">Produïda: %1$,.0f L/h</string>
     <string name="dialog_regionstats_general">General</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d ciutats</string>
 
 
     <string name="regionlist_cat_popular">Populars</string>
     <string name="regionlist_cat_new">Noves</string>
-    <string name="regionlist_cat_free">Gratis</string>
+    <string name="regionlist_cat_free">Mode lliure</string>
     <string name="regionlist_cat_protected">Protegides</string>
     <string name="regionlist_cat_usercities">Ciutats pròpies</string>
     <string name="regionlist_cat_userregions">Regions pròpies</string>
@@ -2436,13 +2436,13 @@ By connecting the game to a TheoTown Forum account you can participate in commen
     <string name="settings_category_tools">Eines</string>
     <string name="settings_category_gameplay">Gameplay</string>
     <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
-    <string name="stage_regioncity_visits">Visits: %1$,d</string>
-    <string name="dialog_missingplugins_total">Used plugins</string>
+    <string name="stage_regioncity_visits">Visites: %1$,d</string>
+    <string name="dialog_missingplugins_total">Complements fets servir</string>
     <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
     <string name="dialog_citygifts_title">Regals</string>
     <string name="dialog_citygifts_cmdnew">Envia un regal</string>
-    <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
-    <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
+    <string name="dialog_citygifts_nogifts_receiver">Encara no heu rebut regals. :(</string>
+    <string name="dialog_citygifts_nogifts_other">Sigueu el primer a enviar un regal.</string>
     <string name="dialog_citygifts_typemsg">Un missatge</string>
     <string name="dialog_citygifts_typeunknown">Desconegut</string>
     <string name="dialog_citygifts_private">(privat)</string>
@@ -2483,23 +2483,23 @@ By doing so we can circumvent potential data loss caused by app updates or re-in
     <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
     <string name="store_realtitle">Botiga de complements</string>
     <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
+    <string name="settings_verticaltoolbar">Barra d\'eines vertical</string>
+    <string name="settings_darktoolbar">Barra d\'eines fosca</string>
+    <string name="dialog_tutwelcome_title">Us donem la benvinguda al TheoTown!</string>
     <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
 You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="dialog_tutwelcome_cmdskip">Salta el tutorial</string>
+    <string name="dialog_tutwelcome_start">Comencem!</string>
 
 
     <string name="settings_catplugins">Complements</string>
     <string name="settings_keys">Tecles</string>
     <string name="settings_keys_cmdreset">Restableix</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_keys_text">Assignació actual: %1$s\n
+Per defecte: %2$s\n\n
+Premeu una tecla per a assignar-la a aquesta acció.</string>
+    <string name="settings_toolbarnames">Mostra noms a la barra d\'eines</string>
+    <string name="settings_toolbarprices">Mostra preus a la barra d\'eines</string>
 
 
     <string name="shader_default2">Per defecte</string>
@@ -2694,15 +2694,15 @@ Press a key to assign it to this action.</string>
 
 
     <string name="dialog_migratefb_title">Acció necessària</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
+    <string name="dialog_migratefb_text">Sembla que heu iniciat sessió amb un compte del Facebook. Desgraciadament, aquest tipus d\'accés ja no es suporta.\nInicieu sessió amb el compte del fòrum per a migrar les dades.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Configuració del compte</string>
+    <string name="draft_feature_opera00_title">Teatre de l\'Òpera</string>
     <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
+    <string name="draft_opera00_title">Oasi operístic</string>
     <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="draft_opera_park00_title">Parc de la Simfonia Serena</string>
+    <string name="draft_opera_park00_text">Al costat del Teatre de l\'Òpera, el Parc de la Simfonia Serena és un refugi on la natura balla les melodies de l\'òpera. Relaxeu-vos en els seus espais verds, gaudiu de les actuacions i deixeu que la fusió harmoniosa de cultura i natura rejoveneixin la vostra ànima.</string>
+    <string name="stage_comment_plugin_acquirefirst">Adquiriu primer aquest complement.</string>
 
 
     <string name="draft_feature_dsa00_title">DSA</string>
@@ -2711,17 +2711,17 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_space_category00_title">Base espacial</string>
     <string name="draft_dsadevcat_title">Depuració DSA</string>
     <string name="draft_dsa_zone_title">Zona DSA</string>
-    <string name="draft_dsa_zone_text">Zone to declare DSA territory in the city.</string>
-    <string name="draft_dsaroad_title">Speedroad</string>
-    <string name="draft_dsaroad_text">Faster than normal road designed by DSA.</string>
-    <string name="draft_dsa_ultra_road00_title">DSA MK3.2 road</string>
-    <string name="draft_dsa_ultra_road00_text">Insanely speedy road designed by DSA.</string>
-    <string name="draft_dsahq_title">DSA headquarters</string>
-    <string name="draft_dsahq_text">The headquarters for all DSA operations in the area.</string>
-    <string name="draft_dsahqupHW_title">Establish ESD</string>
-    <string name="draft_dsahqupHW_text">Establishes DSA department for emergency services which increases public safety by dispatching special teams.</string>
-    <string name="draft_dsahqupAR_title">Establish RD</string>
-    <string name="draft_dsahqupAR_text">Establishes DSA department of research which overlooks research centers and bases in the area.</string>
+    <string name="draft_dsa_zone_text">Zona on s\'ha de declarar el territori DSA a la ciutat.</string>
+    <string name="draft_dsaroad_title">Carretera DSA</string>
+    <string name="draft_dsaroad_text">Carretera on es pot circular més de pressa del normal dissenyada pel DSA.</string>
+    <string name="draft_dsa_ultra_road00_title">Carretera DSA MK3.2</string>
+    <string name="draft_dsa_ultra_road00_text">Carretera amb una velocitat màxima permesa increïble dissenyada pel DSA.</string>
+    <string name="draft_dsahq_title">Seu del DSA</string>
+    <string name="draft_dsahq_text">El quarter general de totes les operacions DSA de la zona.</string>
+    <string name="draft_dsahqupHW_title">Estableix DSE</string>
+    <string name="draft_dsahqupHW_text">Estableix el Departament DSA de Serveis d\'Emergències que augmenta la seguretat sanitària amb la creació d\'equips especials.</string>
+    <string name="draft_dsahqupAR_title">Estableix DR</string>
+    <string name="draft_dsahqupAR_text">Estableix el departament de recerca que coordina els diferents centres i bases de recerca de la zona.</string>
     <string name="draft_dsahqupMS_title">Establish RMD</string>
     <string name="draft_dsahqupMS_text">Establishes DSA department of resource management which manages resource gathering in the area.</string>
     <string name="draft_dsa_outpost00_title">DSA Office</string>
@@ -2737,19 +2737,19 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_space_command00_text">Building responsible for all local DSA space operations.</string>
     <string name="draft_dsaresearch_title">Research center</string>
     <string name="draft_dsaresearch_text">The home for all DSA\'s advanced technologies approved by the executive council of DSA.</string>
-    <string name="draft_dsa_research00_title">Advanced supplies</string>
+    <string name="draft_dsa_research00_title">Subministraments avançats</string>
     <string name="draft_dsa_research00_text">Research new experimental advanced supply systems.</string>
     <string name="draft_dsa_research01_title">Containment</string>
     <string name="draft_dsa_research01_text">Research for ways to contain organisms and particles.</string>
     <string name="draft_dsa_research02_title">Advanced rocketry</string>
     <string name="draft_dsa_research02_text">Research new rocket technology to explore and colonise other space bodies in the universe.</string>
-    <string name="draft_dsa_research03_title">Futuristic technologies</string>
+    <string name="draft_dsa_research03_title">Tecnologies futurístiques</string>
     <string name="draft_dsa_research03_text">Research mind and physics bending technologies.</string>
     <string name="draft_dsaclockstore_title">Inconspicuous clock store</string>
     <string name="draft_dsaclockstore_text">A totally inconspicuous place to purchase your clocks.</string>
     <string name="draft_dsa_deco00_title">DSA decoration</string>
     <string name="draft_dsa_deco00_text">A decoration for your DSA base.</string>
-    <string name="draft_dsa_award00_title">A rock</string>
+    <string name="draft_dsa_award00_title">Una roca</string>
     <string name="draft_dsa_award00_text">Now where did this rock come from?</string>
     <string name="draft_dsa_park00_title">Akial square</string>
     <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
@@ -2769,9 +2769,9 @@ Press a key to assign it to this action.</string>
     <string name="draft_ICBMarm_title">Arm „X-treme“</string>
     <string name="draft_ICBMarm_text">Press this to arm this intercontinental ballistic missile.</string>
     <string name="draft_dsa_icbm_req_text">Requires armed ICBM</string>
-    <string name="draft_prison00_title">Prison</string>
-    <string name="draft_prison00_text">A harsh place designed to keep in all evil-doers.</string>
-    <string name="draft_prison_upgrade00_title">Literacy programme</string>
+    <string name="draft_prison00_title">Presó</string>
+    <string name="draft_prison00_text">Un lloc dur pensat per a mantenir tancada la gent que fa coses dolentes.</string>
+    <string name="draft_prison_upgrade00_title">Programa literari</string>
     <string name="draft_prison_upgrade00_text">Teach prisoners the basics of things lowering the chance of them becoming criminals again.</string>
     <string name="draft_dsacommand_requirement">Need: DSA headquarters</string>
     <string name="draft_dsaRD_requirement">Need: Research department</string>
@@ -2807,7 +2807,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsacontainingwalls_text">Indestructible walls designed to hold destructive substances at bay.</string>
     <string name="draft_dsa_tree_destroyer_title">Treecutter 42-069</string>
     <string name="draft_dsa_tree_destroyer_text">An excellent machine used for cutting trees for thrice the cash.</string>
-    <string name="draft_tool_disaster_blackhole_title">Black hole</string>
+    <string name="draft_tool_disaster_blackhole_title">Forat negre</string>
     <string name="draft_tool_disaster_blackhole_text">A special disaster for hackers.</string>
     <string name="draft_tool_disaster_blackhole_cmd">Vacuum it up</string>
     <string name="draft_blackhole_dsa_title">Event horizon</string>
@@ -2895,33 +2895,33 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsacomingsoon_text">COMING SOON</string>
     <string name="draft_dsa_moon_spaceport_title">Port espacial</string>
     <string name="draft_dsa_moon_spaceport_text">Building which is used for easy transportation of goods, materials or people in space.</string>
-    <string name="draft_dsa_moon_sport00_title">Fitness center</string>
-    <string name="draft_dsa_moon_sport00_text">A place for colonists to remain fit and healthy.</string>
-    <string name="draft_dsa_moon_faith00_title">Holy house</string>
+    <string name="draft_dsa_moon_sport00_title">Centre esportiu</string>
+    <string name="draft_dsa_moon_sport00_text">Un lloc on els colons poden entrenar-se i mantenir-se saludables.</string>
+    <string name="draft_dsa_moon_faith00_title">Temple sagrat</string>
     <string name="draft_dsa_moon_faith00_text">Building for colonist faith and religion.</string>
-    <string name="draft_moon_recycle00_title">Recycling station</string>
+    <string name="draft_moon_recycle00_title">Planta de reciclatge</string>
     <string name="draft_moon_recycle00_text">A station where garbage is recycled back into usable objects or materials.</string>
-    <string name="draft_moon_pipe00_title">Water pipes</string>
+    <string name="draft_moon_pipe00_title">Canonades d\'aigua</string>
     <string name="draft_moon_pipe00_text">Pipes used to transfer water to your local base.</string>
     <string name="draft_moon_water00_title">Water station</string>
     <string name="draft_moon_water00_text">Make water out of bodily fluids of colonists or synthesis.</string>
     <string name="draft_moon_energy00_title">Solar panels</string>
-    <string name="draft_moon_energy00_text">Convert solar energy to power to light up your base.</string>
-    <string name="draft_moon_wire00_title">Power lines</string>
-    <string name="draft_moon_wire00_text">Wires used to transfer electricity underground to your base.</string>
+    <string name="draft_moon_energy00_text">Converteix l\'energia solar en energia elèctrica.</string>
+    <string name="draft_moon_wire00_title">Línies elèctriques</string>
+    <string name="draft_moon_wire00_text">Cables que es fan servir per a transferir l\'electricitat per sota del terra.</string>
     <string name="draft_dsa_moon_road00_title">Rover tracks</string>
     <string name="draft_dsa_moon_road00_text">Reinforced ground tracks for rovers and other vehicles.</string>
-    <string name="draft_dsa_moon_farm_title">Aquaponics</string>
-    <string name="draft_dsa_moon_farm_text">A building with artificial ecosystem designed for food production.</string>
-    <string name="draft_dsa_moon_storage_title">Storage facility</string>
+    <string name="draft_dsa_moon_farm_title">Aquapònica</string>
+    <string name="draft_dsa_moon_farm_text">Un edifici amb un ecosistema artificial pensat per a produir menjar.</string>
+    <string name="draft_dsa_moon_storage_title">Magatzem</string>
     <string name="draft_dsa_moon_storage_text">Building where food and other critical supplies are stored.\nContents:\nFood: ${food_storage/10}/${total_food_storage/10}</string>
     <string name="draft_dsa_helium3_upgrade_title">Export helium 3</string>
     <string name="draft_dsa_helium3_upgrade_text">Export helium 3 back to Theonia for use in fusion reactors. You\'d export enough Helium 3 for up to ${helium_amount} power plants.</string>
     <string name="draft_dsa_helium3_upgrade_req_text">Need: Helium 3 mining</string>
-    <string name="draft_dsa_helium3_upgrade_req1_text">Already exported</string>
-    <string name="draft_dsa_dyson_upgrade_title">Dyson sphere</string>
+    <string name="draft_dsa_helium3_upgrade_req1_text">Ja s\'ha exportat.</string>
+    <string name="draft_dsa_dyson_upgrade_title">Esfera de Dyson</string>
     <string name="draft_dsa_dyson_upgrade_text">Construct a megastructure around a star which would capture a large percentage of star\'s power output.\nMicrowave antenna will be required to receive power.</string>
-    <string name="draft_dsa_dyson_upgrade_req1_text">Already constructed</string>
+    <string name="draft_dsa_dyson_upgrade_req1_text">Ja s\'ha construït.</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">Need: ${dyson_progress}/5000 Poccolonum</string>
     <string name="draft_dsa_moon_drillingstation01_text">Building for gathering and refining Helium 3.</string>
     <string name="draft_dsa_moon_drillingstation02_text">Building for gathering and refining Genericum.</string>
@@ -2932,11 +2932,11 @@ Press a key to assign it to this action.</string>
     <string name="draft_tool_pidroid_remote00_cmd">Control it!</string>
     <string name="draft_pidroid00_title">Pidroid</string>
     <string name="draft_pidroid00_text">One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.</string>
-    <string name="draft_picklebparty00_text00_text">Happy Birthday Pickle!</string>
-    <string name="draft_picklebparty00_text01_text">Pickles age like wine</string>
+    <string name="draft_picklebparty00_text00_text">D\'avui a molts anys, Pickle!</string>
+    <string name="draft_picklebparty00_text01_text">En Pickles envelleix com el vi.</string>
     <string name="draft_picklebparty00_text02_text">You\'re never too old for a pickle</string>
     <string name="draft_picklebparty00_text03_text">Congrats, now eat you-flavoured cake</string>
-    <string name="draft_picklebparty00_text04_text">So many candles</string>
+    <string name="draft_picklebparty00_text04_text">Quantes espelmes!</string>
     <string name="draft_picklebparty00_text05_text">Nice</string>
     <string name="draft_picklebparty00_text06_text">Oof</string>
     <string name="draft_picklebparty00_text07_text">Woah</string>
@@ -2946,7 +2946,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_picklebparty00_opentext02_text">Deixeu-me sortir!</string>
     <string name="draft_picklebparty00_opentext03_text">Feu-ho...</string>
     <string name="draft_picklebparty00_opentext04_text">Estic atrapat</string>
-    <string name="draft_ranoutofmoney_notify00">I see you\'ve ran out of money! I\'m sending the last remaining allocated funds for this project. Spend them wisely!</string>
+    <string name="draft_ranoutofmoney_notify00">Sembla que us heu quedat sense diners! Us envio els últims fons que quedaven del projecte. Gasteu-los bé!</string>
     <string name="draft_moon_artifact_upgrade00_title">Investiga l\'artefacte</string>
     <string name="draft_moon_artifact_upgrade00_text">Investigate the artifact and send the collected data back to HQ for a monetary reward.</string>
     <string name="draft_space_tree00_title">Cyber trees</string>
@@ -2989,7 +2989,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_space_storyline_stage_7_01">I assume you are familiar with rocket construction</string>
     <string name="draft_space_storyline_stage_7_02">Could you construct a rocket according to these schematics?</string>
     <string name="draft_space_storyline_stage_7_03">Being the generous pickle that I am, I\'ve gotten all resources for it</string>
-    <string name="draft_space_storyline_stage_7_04">What do ya say?</string>
+    <string name="draft_space_storyline_stage_7_04">Què dius?</string>
     <string name="draft_space_storyline_stage_7_04_notyetbuilt">I see the rocket construction is still underway</string>
     <string name="draft_space_storyline_stage_8_00">I\'m afraid this is the last time we\'re seeing each other.</string>
     <string name="draft_space_storyline_stage_8_01">We are now ready to return to our home galaxy and rebuild it, provided that there\'s something left.</string>
@@ -3014,11 +3014,11 @@ Press a key to assign it to this action.</string>
     <string name="settings_cursorstyle_dark">Fosc</string>
     <string name="settings_cursorstyle_blue">Blau</string>
     <string name="settings_cursorstyle_gold">Daurat</string>
-    <string name="shop_restore">Restore previous purchases</string>
-    <string name="shop_restored_dialog_title">Purchases restored</string>
-    <string name="shop_restored_dialog_text">All of your previous purchases have been restored. You may have to restart the game in order to see an effect.</string>
+    <string name="shop_restore">Restaura compres anteriors</string>
+    <string name="shop_restored_dialog_title">Compres restaurades</string>
+    <string name="shop_restored_dialog_text">S\'han restaurat totes les compres anteriors. Heu de reiniciar el joc perquè s\'apliquin.</string>
     <string name="dialog_seeds_title">Built-in Seeds</string>
-    <string name="settings_keys_cmdunassign">Unassign</string>
+    <string name="settings_keys_cmdunassign">Trau l\'assignació</string>
     <string name="control_apply">Aplica</string>
     <string name="stage_createcity_biomes">Biomes...</string>
     <string name="dialog_biomes_title">Biomes</string>
@@ -3029,20 +3029,20 @@ Press a key to assign it to this action.</string>
     <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
     <string name="draft_biome_coniferous_forest00_title">Coniferous forest</string>
     <string name="draft_biome_mixed_forest00_title">Mixed forest</string>
-    <string name="draft_biome_boreal_forest00_title">Boreal forest</string>
-    <string name="draft_biome_redwood_forest00_title">Redwood forest</string>
+    <string name="draft_biome_boreal_forest00_title">Bosc boreal</string>
+    <string name="draft_biome_redwood_forest00_title">Bosc de sequoies</string>
     <string name="draft_biome_desert00_title">Desert</string>
-    <string name="draft_biome_snow00_title">Snow</string>
-    <string name="draft_biome_rainforest00_title">Rainforest</string>
-    <string name="draft_biome_coast00_title">Coast</string>
-    <string name="draft_biome_grassland00_title">Grassland</string>
-    <string name="draft_biome_steppe00_title">Steppe</string>
-    <string name="draft_biome_flowerygrassland00_title">Flowery grassland</string>
-    <string name="draft_biome_sakura00_title">Sakura</string>
-    <string name="draft_biome_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_asphalt00_title">Asphalt</string>
+    <string name="draft_biome_snow00_title">Neu</string>
+    <string name="draft_biome_rainforest00_title">Selva</string>
+    <string name="draft_biome_coast00_title">Costa</string>
+    <string name="draft_biome_grassland00_title">Herba</string>
+    <string name="draft_biome_steppe00_title">Estepa</string>
+    <string name="draft_biome_flowerygrassland00_title">Herba florida</string>
+    <string name="draft_biome_sakura00_title">Cirerer japonès</string>
+    <string name="draft_biome_cursedland00_title">Terra maleïda</string>
+    <string name="draft_ground_asphalt00_title">Asfalt</string>
     <string name="draft_ground_asphalt00_text">Perfect surface for cars and other vehicles alike.</string>
-    <string name="draft_ground_concrete00_title">Concrete</string>
+    <string name="draft_ground_concrete00_title">Formigó</string>
     <string name="draft_ground_concrete00_text">A healthy dose of concreteosis.</string>
     <string name="draft_ground_sandstone00_title">Sandstone</string>
     <string name="draft_ground_sandstone00_text">Sunny sandstone block surface.</string>
@@ -3050,7 +3050,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_ground_dirt00_text">Extra dirty base soil.</string>
     <string name="draft_ground_wildgrass00_title">Wild grass</string>
     <string name="draft_ground_wildgrass00_text">Sun-dried wild grass. Perfect for vast plains or grasslands.</string>
-    <string name="draft_ground_darkgrass00_title">Dark grass</string>
+    <string name="draft_ground_darkgrass00_title">Herba fosca</string>
     <string name="draft_ground_darkgrass00_text">Shady grass from the deep woods.</string>
     <string name="draft_ground_rockysand00_title">Rocky sand</string>
     <string name="draft_ground_rockysand00_text">Coarse sand mixed with small rocks.</string>
@@ -3058,30 +3058,30 @@ Press a key to assign it to this action.</string>
     <string name="draft_ground_forestgrass00_text">Moist, lush grass. Perfect for wild forests.</string>
     <string name="draft_ground_cursedland00_title">Cursed land</string>
     <string name="draft_ground_cursedland00_text">We were told IT lives here.</string>
-    <string name="draft_tree_linden00_title">Linden</string>
+    <string name="draft_tree_linden00_title">Til·ler</string>
     <string name="draft_tree_linden00_text">A deciduous tree species commonly used for ornamental purposes.</string>
-    <string name="draft_tree_aspen00_title">Aspen</string>
+    <string name="draft_tree_aspen00_title">Trèmol</string>
     <string name="draft_tree_aspen00_text">Tall, orange-leaved trees that mostly thrive in colder climates.</string>
-    <string name="draft_tree_fir00_title">Fir</string>
+    <string name="draft_tree_fir00_title">Avet</string>
     <string name="draft_tree_fir00_text">Decorative evergreen conifers that are often used as Christmas trees.</string>
-    <string name="draft_foliage_bushes00_title">Bushes</string>
+    <string name="draft_foliage_bushes00_title">Arbustos</string>
     <string name="draft_foliage_bushes00_text">Mixed small bush species. Great for parks and forests alike.</string>
-    <string name="draft_ancient_temple00_title">Ancient temple</string>
+    <string name="draft_ancient_temple00_title">Temple antic</string>
     <string name="draft_ancient_temple00_text">The path forward will not reveal itself to the weak. Venture forth with strength.</string>
     <string name="tut_plugins00">You will see, we have plenty of contents. Take your time to explore them all. After that, you may be ready to visit our plugin store to unlock thousands of additional contents.</string>
-    <string name="region_unlock_immediately">Unlock instantly</string>
-    <string name="dialog_unlockcity_im_title">Unlock Instant City</string>
+    <string name="region_unlock_immediately">Desbloca ara mateix</string>
+    <string name="dialog_unlockcity_im_title">Desbloca la ciutat ara mateix</string>
     <string name="dialog_unlockcity_im_text">Ready to dive into the fun? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let\'s build some epic cities together!</string>
-    <string name="draft_dirt_track_00_title">Dirt track</string>
-    <string name="draft_dirt_track_00_text">Compacted dirt road. Cheap, but slow to move on. Great for rural areas.</string>
-    <string name="draft_lookout_tower00_title">Lookout tower</string>
-    <string name="draft_lookout_tower00_text">Look out! A wooden lookout tower that can for example be used to watch out for fires.</string>
-    <string name="draft_boulders00_title">Boulders</string>
-    <string name="draft_boulders00_text">Huge rock formation of assorted shapes.</string>
-    <string name="draft_highway_sign00_title">Highway Sign</string>
-    <string name="draft_highway_sign00_text">Navigate with style using Highway Signs for your city roads.</string>
-    <string name="draft_road05_ramp00_title">Highway ramp (one-way)</string>
-    <string name="draft_road05_ramp00_text">Connect highways with slower roads or create elaborate interections with this one-way road.</string>
+    <string name="draft_dirt_track_00_title">Camí de terra</string>
+    <string name="draft_dirt_track_00_text">Camí de terra compactada. Barat, però no s\'hi pot anar molt de pressa. Bo per a àrees rurals.</string>
+    <string name="draft_lookout_tower00_title">Torre de vigilància</string>
+    <string name="draft_lookout_tower00_text">Mireu! Una torre de fusta que pot servir per a vigilar si hi ha algun incendi.</string>
+    <string name="draft_boulders00_title">Roques</string>
+    <string name="draft_boulders00_text">Formació de roques grans de formes diferents.</string>
+    <string name="draft_highway_sign00_title">Senyal d\'autopista</string>
+    <string name="draft_highway_sign00_text">Als passatgers els pot anar bé si s\'orienten amb aquests senyals d\'autopista.</string>
+    <string name="draft_road05_ramp00_title">Rampa d\'autopista (1 sentit)</string>
+    <string name="draft_road05_ramp00_text">Connecta les autopistes amb carreteres simples o permet fer altres tipus d'interseccions.</string>
     <string name="settings_units">Units</string>
     <string name="settings_units_auto">Auto (%s)</string>
     <string name="settings_units_metric">Mètric (e.g. km)</string>
@@ -3202,43 +3202,43 @@ Al servidor oficial de Discord els jugadors i creadors parlen, mostren les seves
 Podeu escriure els vostres propis complements. És fàcil™.
     </string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+La creació de complements pot intimidar al principi, però és molt fàcil. Per a fer els gràfics, podeu fer servir algun programa d\'edició de gràfics al vostre ordinador (com ara el paint.net) o al mòbil (com ara Pixly). Per a escriure el fitxer json o el "codi", podeu escriure\'l amb l\'ajuda dels fòrums o la pàgina https://pca.svetikas.lt/. Si teniu preguntes, escriviu-les al Discord o als fòrums.
     </string>
     <string name="tip_topic_online_collaboration_title">
 Col·laboreu en una regió amb el mode en línia.
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+Si premeu el botó "En línia" a la vista de regions, podeu col·laborar amb altres amics o membres de la comunitat en la creació d\'una regió preciosa. El joc només permet un jugador per part del mapa, però podeu visitar altres ciutats i inspirar-vos.
     </string>
     <string name="tip_topic_online_upload_title">
 Per a carregar un mapa en mode en línia calen diamants o monedes regionals.
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+Cada dia podeu recollir diamants (al mòbil) i monedes de regió (al PC). El cost de carregar una regió depèn de la mida. Quan carregueu un mapa, l\'autor pot establir una contrasenya i algunes regles. Una vegada creada la regió, no es pot modificar ni afegir contrasenyes.
     </string>
     <string name="tip_topic_diamonds_title">
 Podeu aconseguir diamants si inicieu sessió cada dia.
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+Amb la versió per a mòbil o tauleta, cada dia podeu recollir diamants i, si ho feu cada dia, rebreu més diamants, fins al setè dia consecutiu. El proper dia tornareu a rebre la quantitat mínima de diamants. També podeu veure vídeos cada 30 minuts i aconseguir diamants (apagueu abans els blocadors d\'anuncis).
     </string>
     <string name="tip_topic_supplies_title">
 Alguns edificis industrials proporcionen subministraments de coets espacials.
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+Els edificis que subministren petroli es reparteixen pels diferents nivells d\'indústries. N\'hi ha d\'extracció, d\'emmagatzematge i de processat. Proporcionen subministraments per al coet. Si teniu més edificis a prop del coet, el subministrament serà més ràpid.
     </string>
     <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
+Potser no hi hagin trens o busos a la vista, però se n\'aplica l\'efecte igualment.
     </string>
     <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+Pot parèixer que autobusos i trens no tinguin passatgers. No obstant, sí que se n\'apliquen efectes i l\'ús de les dades es pot actualitzar més endavant. Els autobusos i els trens proporcionen felicitat de transport. Assegureu-vos de cobrir amb aquests servies les àrees RCI.
     </string>
     <string name="tip_topic_vandalism_title">
 La pintura d\'esprai indica vandalisme. Construïu-hi comissaries a prop.
     </string>
     <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+Les pintades apareixen si no hi ha policies a prop. Els edificis residencials, comercials i industrials necessiten vigilància policial per a que no s\'hi produeixin delictes en el futur.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
 Construïu cementiris i crematoris per a les persones que es morin.
@@ -3262,13 +3262,13 @@ To make an airport functional, build all the airport buildings, add lanes, and a
 A YouTube hi podeu trobar tutorials útils.
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+Hi ha jugadors del TheoTown i creadors de contingut que publiquen vídeos a YouTube. N\'hi ha d\'inspiradors o recreatius i n\'hi ha que expliquen trucs i com organitzar les ciutats.
     </string>
     <string name="tip_topic_price_increase_title">
 Els preus augmenten al joc com també passa a la vida real.
     </string>
     <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+Com més edificis i carreteres es construeixin, més alt serà el seu preu. Com més es fa servir un element, més car es tornarà. Això s\'aplica a carreteres, decoracions, zones i tots els tipus d\'edificis.
     </string>
     <string name="tip_topic_creative_gameplay_title">
 Si voleu més llibertat creativa, jugueu en mode lliure/uber.
@@ -3358,25 +3358,25 @@ Les extensions oficials del joc les publica l\'usuari Lobby a la botiga de compl
 No compareu les vostres ciutats amb les d\'altres jugadors. Inspireu-vos-hi!
     </string>
     <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+Cada jugador té el seu estil. En lloc de sentir-vos gelosos de les ciutats dels altres jugadors, mireu què us agrada del que han fet. Per què us agrada? Quan ho tingueu clar, potser voldreu implementar estratègies paregudes a les vostres ciutats poc a poc i veure quins resultats obteniu.
     </string>
     <string name="tip_topic_road_connection_title">
 Feu servir l\'autoconnexió de carreteres mentre construïu les xarxes de carreters
     </string>
     <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+Premeu la carretera que vulgueu i premeu "Uneix carretera" a la part superior dreta per a unir automàticament la carretera que es construeixi. Això sol evitar que les carreteres no funcionin perquè no se les ha connectat degudament.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
 Construïu hospitals per a prevenir les epidèmies.
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+Si hi ha una careta verda als edificis, vol dir que els habitants estan malalts. Per a evitar que continuïn emmalaltint, cal construir hospitals a l\'abast de les zones residencials. Per a mantenir els habitants sans, també convé que l\'aigua subministrada s\'hagi obtingut d\'un entorn sense contaminar.
     </string>
     <string name="tip_topic_education_title">
-Els residents necessiten educació bàsica i superior.
+Els residents necessiten educació primària i secundària.
     </string>
     <string name="tip_topic_education_text">
-Per a millorar la felicitat educacional, cal educació bàsica i superior. Calen les dues per tals que els edificis siguin més rics. Assegureu-vos de cobrir les àrees residencials amb ambdós tipus d\'educació.
+Per a millorar la felicitat educacional, cal educació primària i secundària. Calen les dues per tals que els edificis siguin més rics. Assegureu-vos de cobrir les àrees residencials amb ambdós tipus d\'educació.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
 Per a reduir la latència, desactiveu el zoom suau.
@@ -3416,8 +3416,8 @@ Premeu la carretera que voleu construir. Tot seguit, mentre esteu al menú de co
     <string name="settings_notify_school_overloaded">Col·lapses educatius</string>
     <string name="settings_notify_medic_overloaded">Col·lapses sanitaris</string>
     <string name="settings_notify_destroyed_tile">Caselles destruïdes</string>
-    <string name="settings_notify_need_low_education">Necessitats educatives bàsiques</string>
-    <string name="settings_notify_need_high_education">Necessitats educatives superiors</string>
+    <string name="settings_notify_need_low_education">Necessitats d\'educació primària</string>
+    <string name="settings_notify_need_high_education">Necessitats d\'educació secundària</string>
     <string name="settings_notify_bad_traffic">Trànsit congestionat</string>
     <string name="settings_notify_waste">Gestió de residus</string>
     <string name="settings_notify_body_disposal">Serveis funeraris</string>
