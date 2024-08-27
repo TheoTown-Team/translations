@@ -316,7 +316,7 @@
 <string name="draft_marker_happinessmarker_title">Счастье</string>
 <string name="draft_marker_levelmarker_text">Уровни зданий.</string>
 <string name="draft_marker_levelmarker_title">Уровень</string>
-<string name="draft_marker_powermarker_title">электроснабжение</string>
+<string name="draft_marker_powermarker_title">Электроснабжение</string>
 <string name="draft_marker_protectedmarker_text">Показать здания, которые не могут быть снесены.</string>
 <string name="draft_marker_protectedmarker_title">Несносимые здания</string>
 <string name="draft_marker_ticketmarker_text">Показать билетную систему.</string>
@@ -505,7 +505,7 @@
 <string name="draftselector_titleaward">Награды</string>
 <string name="draftselector_titlecatastrophes">Катастрофы</string>
 <string name="draftselector_titledecoration">Декорации</string>
-<string name="draftselector_titleenergy">Энергия</string>
+<string name="draftselector_titleenergy">Энергоснабжение</string>
 <string name="draftselector_titlefiredepartment">Пожарные</string>
 <string name="draftselector_titlehealth">Здоровье</string>
 <string name="draftselector_titlemilitary">Военные</string>
@@ -539,7 +539,7 @@
 <string name="gamemode_middle">Средний</string>
 <string name="gamemode_nomoney">Нет денег</string>
 <string name="happiness_education">Образование</string>
-<string name="happiness_energy">Энергия</string>
+<string name="happiness_energy">Энергоснабжение</string>
 <string name="happiness_environment">Окружающая среда</string>
 <string name="happiness_firedanger">Опасность пожара</string>
 <string name="happiness_firedepartment">Пожарная безопасность</string>
@@ -1052,11 +1052,11 @@
     <string name="tut_build04">Конечно нет! У нас нет источника энергии. Давай построим несколько солнечных батарей возле шоссе.</string>
     <string name="tut_build05">Теперь нам нужны провода для подключения жилого района к панелям.</string>
     <string name="tut_build06">Строительство панелей занимает некоторое время. Ты можешь либо подождать, либо нажать на него, чтобы ускорить процесс строительства бесплатно.</string>
-    <string name="tut_build07">Хорошо, теперь у нас есть энергия. Но подожди, что это? Люди ещё хотят воды?</string>
+    <string name="tut_build07">Хорошо, теперь у нас есть электричество. Но подожди, что это? Люди ещё хотят воды?</string>
     <string name="tut_build08">Это не сложно. Давай построим водонапорную башню, чтобы получить немного воды.</string>
     <string name="tut_build09">Здесь ты также должен ждать завершения строительства. Вместо того, чтобы ждать, ты можете ускорить его за бриллианты.</string>
     <string name="tut_build10">Для транспортировки воды в здания ты должен использовать трубы. Построй несколько для будущих целей.</string>
-    <string name="tut_build11">Отлично, теперь у жителей есть энергия и вода. Но подожди, чего-то всё ещё не хватает...</string>
+    <string name="tut_build11">Отлично, теперь у жителей города есть электричество и вода. Но подожди, чего-то всё ещё не хватает...</string>
     <string name="tut_build110">Мэр, у нас нет работы и места для шоппинга!</string>
     <string name="tut_build12">Хорошо, тебе также нужны коммерческие и индустриальные зоны. Давай рассмотрим спрос.</string>
     <string name="tut_build13">Здесь ты можешь увидеть спрос на рез (жилые), ком (коммерческие) и инд (индустриальные) здания.</string>
@@ -2182,8 +2182,8 @@
     <string name="dialog_missingplugins_pluginby">•%1$s на %2$s</string>
     <string name="dialog_missingplugins_cmdget">Скачать их</string>
     <string name="dialog_missingplugins_cmdskip">Продолжить без них</string>
-    <string name="statistics_energyproduced">Произведенная энергия</string>
-    <string name="statistics_energyneed">Необходимая энергия</string>
+    <string name="statistics_energyproduced">Произведённая электроэнергия</string>
+    <string name="statistics_energyneed">Необходимое кол-во электричества</string>
     <string name="statistics_waterproduced">Произведенная вода</string>
     <string name="statistics_waterneed">Необходимая вода</string>
     <string name="ci_show_statistics">Показать статистику</string>
@@ -2430,7 +2430,7 @@
     <string name="store_cat_commercial">Коммерция</string>
     <string name="store_cat_industrial">Индустрия</string>
     <string name="store_cat_parks">Парки, Спорт и Управление</string>
-    <string name="store_cat_supply">Потребности (Энергия, Вода, Утилизация отходов)</string>
+    <string name="store_cat_supply">Потребности (Электричество, Вода, Утилизация отходов)</string>
     <string name="store_cat_religion">Религия и Культура</string>
     <string name="store_cat_service">Службы (Полиция, Здравоохранение, Образование,...)</string>
     <string name="store_cat_award">Награды и Особое</string>
@@ -2544,7 +2544,7 @@
 
 
     <string name="featureselector_doubledincometime">Двойной доход за %1$s</string>
-    <string name="draft_marker_powermarker_text">Покрытие энергией. Энергия передаётся по проводам.</string>
+    <string name="draft_marker_powermarker_text">Покрытие электрроэнергией. Электричество передаётся по проводам.</string>
     <string name="draft_marker_waterpipemarker_title">Вода</string>
     <string name="draft_marker_waterpipemarker_text">Покрытие водой. Вода поступает к вашим жителям по трубам.</string>
     <string name="stage_files_title">Файловый менеджер</string>
@@ -2663,7 +2663,7 @@
     <string name="ci_rank_help">Текущий уровень города показывает его уровень развития. Ты можешь получать очки города, привлекая больше жителей или развивая город в целом. Новый уровень разблокирует новые постройки.</string>
     <string name="ci_loan_help">Нет денег? Ты можешь занять их, чтобы продолжить строительство. Но помни, что долг нужно будет вернуть.</string>
     <string name="ci_health_help">Оставаться здоровым в большом городе может быть непросто. Строй больницы для здоровья и счастья ваших жителей.</string>
-    <string name="ci_energy_help">Большинству зданий нужна энергия чтобы функционировать. Убедись, что ты производишь достаточное количество энергии и что всё подключено к проводам.</string>
+    <string name="ci_energy_help">Большинству зданий нужно электроснабжение чтобы функционировать. Убедись, что ты производишь достаточное количество электричества и что всё подключено к проводам.</string>
     <string name="ci_info_help">Здесь ты увидишь немного информации о своём городе.</string>
     <string name="ci_education_help">Обучение необходимо для жителей, чтобы улучшить их жилищные условия, а также, чтобы привлечь работников сферы образования и инвесторов.</string>
     <string name="ci_airport_help">Это твоя башня управления воздушным траффиком для контроля аэропортов. Ты можешь выбрать дорожки с карты, покупать самолёты и назначать самолёты на полосы.</string>
