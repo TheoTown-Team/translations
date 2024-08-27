@@ -19,7 +19,7 @@
 <string name="budget_com1">Коммерция ₮₮ (%1$,d)</string>
 <string name="budget_com2">Коммерция ₮₮₮ (%1$,d)</string>
 <string name="budget_education">Образование</string>
-<string name="budget_energy">Энергия</string>
+<string name="budget_energy">Энергоснабжение</string>
 <string name="budget_firebrigade">Пожарные</string>
 <string name="budget_ind0">Индустрия ₮ (%1$,d)</string>
 <string name="budget_ind1">Индустрия ₮₮ (%1$,d)</string>
@@ -35,7 +35,7 @@
 <string name="budget_res0">Резиденция ₮ (%1$,d)</string>
 <string name="budget_res1">Резиденция ₮₮ (%1$,d)</string>
 <string name="budget_res2">Резиденция ₮₮₮ (%1$,d)</string>
-<string name="budget_road">Дорога</string>
+<string name="budget_road">Дороги</string>
 <string name="budget_sports">Спорт</string>
 <string name="budget_water">Вода</string>
 <string name="buildinginfo_cmdupgrade">Улучшение</string>
@@ -45,7 +45,7 @@
 <string name="buildinginfo_construction">Строительство: %1$.0f%% (%2$,d дней осталось)</string>
 <string name="buildinginfo_habitants">Жители: %1$,d/%2$,d</string>
 <string name="buildinginfo_happiness">Счастье в целом: %1$.0f%%</string>
-<string name="buildinginfo_happiness_comp">Наименьшее счастье: %2$.0f%% (%1$s)</string>
+<string name="buildinginfo_happiness_comp">Наименее довольны: %2$.0f%% (%1$s)</string>
 <string name="buildinginfo_ind0">Индустрия ₮</string>
 <string name="buildinginfo_ind1">Индустрия ₮₮</string>
 <string name="buildinginfo_ind2">Индустрия ₮₮₮</string>
@@ -61,7 +61,7 @@
 <string name="buildinginfo_upgrades">%1$,d/%2$,d Улучшение(я)</string>
 <string name="buildinginfo_waterusage">Использовано: %1$.1f%%</string>
 <string name="buildinginfo_waterwaste">Загрязнено воды: %1$.1f%%</string>
-<string name="buildinginfo_worker">Рабочие: %1$,d/%2$,d</string>
+<string name="buildinginfo_worker">Рабочих: %1$,d/%2$,d</string>
 <string name="busstopinfo_title">Автобусная остановка</string>
 <string name="busstopinfo_usage">"Ожидание: %2$,d/%3$,d
 Использовано: %1$.1f%%"</string>
@@ -83,7 +83,7 @@
 <string name="ci_education_needed">Требуется: %1$,d</string>
 <string name="ci_education_provided">Производится: %1$,d</string>
 <string name="ci_education_reached">Достигнуто: %1$,d</string>
-<string name="ci_education_schools">Школы: %1$,d</string>
+<string name="ci_education_schools">Объектов: %1$,d</string>
 <string name="ci_education_title">Образование</string>
 <string name="ci_energy_all">Все</string>
 <string name="ci_energy_consumed">Использовано: %1$,.0fкВч (%2$,d здания)</string>
@@ -92,20 +92,20 @@
 <string name="ci_energy_ratio">Использовано: %1$.1f%%</string>
 <string name="ci_energy_single">Одиночный</string>
 <string name="ci_energy_text">НЕ В ИСПОЛЬЗОВАНИИ</string>
-<string name="ci_energy_title">Энергия</string>
+<string name="ci_energy_title">Энергоснабжение</string>
 <string name="ci_general_authorname">Автор: %1$s</string>
-<string name="ci_general_cityname">Имя города: %1$s</string>
+<string name="ci_general_cityname">Название города: %1$s</string>
 <string name="ci_general_population">Всего жителей: %1$,d</string>
 <string name="ci_general_population0">Бедные жители (₮): %1$,d</string>
 <string name="ci_general_population1">Обычные жители (₮₮): %1$,d</string>
 <string name="ci_general_population2">Богатые жители (₮₮₮): %1$,d</string>
 <string name="ci_general_seed">Код: %1$s</string>
 <string name="ci_general_text">НЕ В ИСПОЛЬЗОВАНИИ</string>
-<string name="ci_health_buildings">Зданий: %1$,d</string>
+<string name="ci_health_buildings">Объектов: %1$,d</string>
 <string name="ci_health_needed">Требуется: %1$,d</string>
 <string name="ci_health_provided">Произведено: %1$,d</string>
 <string name="ci_health_reached">Достигнуто: %1$,d</string>
-<string name="ci_health_title">Здоровье</string>
+<string name="ci_health_title">Здравоохранение</string>
 <string name="ci_info_title">Вид города</string>
 <string name="ci_loan_donate">Попросить</string>
 <string name="ci_loan_donate_text">Пожалуйста, дайте денег, очень нужно :(</string>
@@ -114,7 +114,7 @@
 <string name="ci_loan_loanlist">Активные займы (в целом %1$s в %2$,d/%3$,d займов):</string>
 <string name="ci_loan_paybackcost">Вернуть деньги: %1$s</string>
 <string name="ci_loan_remaining_runtime">Оставшееся время: %2$,d месяц(ев), %1$,d день(ей)</string>
-<string name="ci_loan_title">Займ</string>
+<string name="ci_loan_title">Заём</string>
 <string name="ci_not_available">Отсутствует информация</string>
 <string name="ci_rank_title">Ранг</string>
 <string name="ci_rating_title">Рейтинг</string>
@@ -136,13 +136,13 @@
 <string name="ci_water_single">Отдельно</string>
 <string name="ci_water_text">НЕ В ИСПОЛЬЗОВАНИИ</string>
 <string name="ci_water_title">Вода</string>
-<string name="ci_water_waste">Загрязнено: %1$.1f%%</string>
+<string name="ci_water_waste">Загрязнение: %1$.1f%%</string>
 <string name="control_back">Назад</string>
 <string name="control_cancel">Отмена</string>
 <string name="control_continue">Продолжить</string>
 <string name="control_ok">Ок</string>
 <string name="createcity_cityauthor">Автор:</string>
-<string name="createcity_cityname">Имя города:</string>
+<string name="createcity_cityname">Название города:</string>
 <string name="createcity_gamemode">Режим игры:</string>
 <string name="createcity_mapsize">Размер:</string>
 <string name="createcity_seed">Код:</string>
@@ -169,8 +169,8 @@
 <string name="dialog_hugesize_text">Карта этого размера может не работать или работать нестабильно на твоём устройстве. Тебе действительно нужна огромная карта?</string>
 <string name="dialog_hugesize_title">Огромная карта</string>
 <string name="dialog_invalidcityname_cmdok">Ок</string>
-<string name="dialog_invalidcityname_text">Пожалуйста, используй другое имя для города. Нельзя оставлять его пустым.</string>
-<string name="dialog_invalidcityname_title">Неверное имя</string>
+<string name="dialog_invalidcityname_text">Пожалуйста, используй другое название для города. Нельзя оставлять его пустым.</string>
+<string name="dialog_invalidcityname_title">Неверное название для города.</string>
 <string name="dialog_leave_cmdcancel">Отмена</string>
 <string name="dialog_leave_cmdleave">Выйти</string>
 <string name="dialog_leave_text">Ты действительно хочешь покинуть TheoTown?</string>
@@ -188,14 +188,14 @@
 <string name="dialog_rename_cmdok">Переименовать</string>
 <string name="dialog_renameauthor_text">Пожалуйста, введи нового автора.</string>
 <string name="dialog_renameauthor_title">Переименовать Автора</string>
-<string name="dialog_renamebuilding_text">Дай новое имя зданию.</string>
+<string name="dialog_renamebuilding_text">Дай новое название этому зданию.</string>
 <string name="dialog_renamebuilding_title">Переименовать здание</string>
-<string name="dialog_renamecity_text">Введи новое имя города здесь.</string>
+<string name="dialog_renamecity_text">Введи новое название для города здесь.</string>
 <string name="dialog_renamecity_title">Переименовать город</string>
 <string name="dialog_screenshot_cmdok">ОК, спасибо</string>
 <string name="dialog_screenshot_error">Невозможно сохранить папку %1$s. Пожалуйста, проверь разрешения приложения.</string>
 <string name="dialog_screenshot_show">Показать</string>
-<string name="dialog_screenshot_text">Скриншот сохранен как %1$s.</string>
+<string name="dialog_screenshot_text">Скриншот сохранён как %1$s.</string>
 <string name="dialog_screenshot_title">Скриншот сделан</string>
 <string name="dialog_tosandbox_cmdconvert">Песочница</string>
 <string name="dialog_tosandbox_text">"Уверен, что хочешь сменить режим города на Песочницу?
@@ -246,7 +246,7 @@
 <string name="draft_bigpark00_title">Большой парк</string>
 <string name="draft_bigschool00_text">Место, где молодежь будет учится, когда закончит среднюю школу.</string>
 <string name="draft_bigschool00_title">Большая школа</string>
-<string name="draft_buoy00_text">Помогает кораблям найти путь.</string>
+<string name="draft_buoy00_text">Помогает кораблям найти путь и избежать опасности.</string>
 <string name="draft_buoy00_title">Буй</string>
 <string name="draft_busdepot00_text">Гараж для автобусов.</string>
 <string name="draft_busdepot00_title">Автобусное депо</string>
@@ -260,8 +260,8 @@
 <string name="draft_church01_text">Обычная церковь.</string>
 <string name="draft_church01_title">Церковь</string>
 <string name="draft_church02_text">Церковь для маленьких городов.</string>
-<string name="draft_church02_title">Маленькая церковь</string>
-<string name="draft_coalplant00_text">Угольная электростанция производит много энергии, но загрязняет окружающую среду.</string>
+<string name="draft_church02_title">Часовня</string>
+<string name="draft_coalplant00_text">Угольная электростанция производит много электроэнергии, но загрязняет окружающую среду.</string>
 <string name="draft_coalplant00_title">Угольная ЭС</string>
 <string name="draft_crater1x1_text">Маленький метеоритный кратер. Ты можешь закопать его.</string>
 <string name="draft_crater1x1_title">Кратер</string>
@@ -310,13 +310,13 @@
 <string name="draft_management00_title">Полиция</string>
 <string name="draft_marina00_text">Развлечение для богатых жителей.</string>
 <string name="draft_marina00_title">Гавань с яхтами</string>
-<string name="draft_marker_densitymarker_text">Плотность заселения зданий.</string>
+<string name="draft_marker_densitymarker_text">Плотность населения.</string>
 <string name="draft_marker_densitymarker_title">Плотность</string>
 <string name="draft_marker_happinessmarker_text">Строительный атрибут.</string>
 <string name="draft_marker_happinessmarker_title">Счастье</string>
 <string name="draft_marker_levelmarker_text">Уровни зданий.</string>
 <string name="draft_marker_levelmarker_title">Уровень</string>
-<string name="draft_marker_powermarker_title">Энергия</string>
+<string name="draft_marker_powermarker_title">электроснабжение</string>
 <string name="draft_marker_protectedmarker_text">Показать здания, которые не могут быть снесены.</string>
 <string name="draft_marker_protectedmarker_title">Несносимые здания</string>
 <string name="draft_marker_ticketmarker_text">Показать билетную систему.</string>
@@ -334,14 +334,14 @@
 <string name="draft_middlepark00_clock_title">Часы</string>
 <string name="draft_middlepark00_lights_text">Павильон, где могут быть организованы вечеринки.</string>
 <string name="draft_middlepark00_lights_title">Павильон</string>
-<string name="draft_middlepark00_text">Жителям понравится.</string>
+<string name="draft_middlepark00_text">Жителям должно понравится.</string>
 <string name="draft_middlepark00_title">Средний парк</string>
 <string name="draft_mltry_baracks00_title">Казарма</string>
 <string name="draft_mltry_depot00_title">Депо</string>
 <string name="draft_mltry_hq00_title">Штаб</string>
 <string name="draft_mltry_road00_title">Дорога для военных</string>
 <string name="draft_mltry_rocketlauncher00_title">Ракетная установка</string>
-<string name="draft_mltry_tankbase00_title">Танковая база</string>
+<string name="draft_mltry_tankbase00_title">Танковый гарнизон</string>
 <string name="draft_mosque00_text">Обычная мечеть.</string>
 <string name="draft_mosque00_title">Мечеть</string>
 <string name="draft_mosque01_text">Мечеть для маленьких городов.</string>
@@ -350,13 +350,13 @@
 <string name="draft_museum00_title">Музей</string>
 <string name="draft_nuclearplant00_text">Более мощная, чем угольная электростанция. Очень дорогая и требует МНОГО воды для охлаждения. Взорвётся при отсутствии воды.</string>
 <string name="draft_nuclearplant00_title">АЭС</string>
-<string name="draft_park00_text">Жителям понравится.</string>
+<string name="draft_park00_text">Жителям должно понравится.</string>
 <string name="draft_park00_title">Маленький цветочный парк</string>
-<string name="draft_park01_text">Жителям понравится.</string>
+<string name="draft_park01_text">Жителям должно понравится.</string>
 <string name="draft_park01_title">Маленький парк</string>
-<string name="draft_park02_text">Жителям понравится.</string>
+<string name="draft_park02_text">Жителям должно понравится.</string>
 <string name="draft_park02_title">Маленький парк с газоном</string>
-<string name="draft_park03_text">Жителям понравится.</string>
+<string name="draft_park03_text">Жителям должно понравится.</string>
 <string name="draft_park03_title">Маленький парк</string>
 <string name="draft_pipe00_text">Трубы перекачивают воду в здания города.</string>
 <string name="draft_pipe00_title">Труба</string>
@@ -390,8 +390,8 @@
 <string name="draft_radio00_sport_title">Спорт FM</string>
 <string name="draft_radio00_text">Твоим жителям понравятся радио-программы.</string>
 <string name="draft_radio00_title">Радиостанция</string>
-<string name="draft_rail00_text">Рельсы для поездов.</string>
-<string name="draft_rail00_title">Путь из рельс</string>
+<string name="draft_rail00_text">Железная дорога для передвижения поездов.</string>
+<string name="draft_rail00_title">Возвышенная железная дорога</string>
 <string name="draft_railwaystation00_text">Станция для поездов.</string>
 <string name="draft_railwaystation00_title">Ж/Д станция</string>
 <string name="draft_rnk_city_big_title">Большой город</string>
@@ -635,7 +635,7 @@
 <string name="notify_requirementbuilding">%1$s теперь доступно!</string>
 <string name="notify_requirementupgrade">Поздравляем, ты открыл улучшение %1$s для здания %2$s!</string>
 <string name="notify_riot_noreason">Здесь бунт!</string>
-<string name="notify_riot_reason">Здесь бунт, потому что людт хотят %1s!</string>
+<string name="notify_riot_reason">Здесь бунт, потому что люди хотят %1s!</string>
 <string name="notify_sport">Мы хотим больше спорта.</string>
 <string name="notify_unhappy">Люди несчастны, потому что хотят %1$s. Помоги им.</string>
 <string name="notify_water_low">У тебя осталось мало воды. Построй новые водокачки.</string>
@@ -691,7 +691,7 @@
 <string name="settings_energysaving">Режим экономии батареи</string>
 <string name="settings_experimental">Экспериментальные действия</string>
 <string name="settings_fancybg">Красивый задний фон</string>
-<string name="settings_leftminimap">Миникарта слева</string>
+<string name="settings_leftminimap">Мини-карта слева</string>
 <string name="settings_lowresmapscreenshot">Низкое качество скриншота карты</string>
 <string name="settings_maxzoomout">Максимальное приближение</string>
 <string name="settings_music">Музыка</string>
@@ -801,7 +801,7 @@
 <string name="tutorial_buildzones">Зоны — это места где жители могут что-то построить. Их три типа.</string>
 <string name="tutorial_congrats">Поздравляем, вы изучили основы TheoTown. Теперь ты можешь создать свой собственный город :)</string>
 <string name="tutorial_industrial_keepaway">Ты должен размещать индустриальную зону дальше от других, потому что она загрязняет и создаёт шум.</string>
-<string name="tutorial_minimap">Ты можешь всегда посмотреть и скрыть миникарту.</string>
+<string name="tutorial_minimap">Ты можешь всегда посмотреть и скрыть мини-карту.</string>
 <string name="tutorial_money_info">Нажми на угол внизу, чтобы получить больше информации о балансе или изменить процент налогов.</string>
 <string name="tutorial_money_task">Твоя задача — заработать деньги от налогов для развития города.</string>
 <string name="tutorial_rci">Нажми сбоку, чтобы увидеть информацию о зонах, которые требуются в городе.</string>
@@ -878,7 +878,7 @@
     <string name="dialog_present_title">Подарок для тебя</string>
     <string name="dialog_present_text">Используй их разумно.</string>
     <string name="dialog_present_cmdok">Спасибо!</string>
-    <string name="settings_saveminimap">Сохранить внешнюю миникарту</string>
+    <string name="settings_saveminimap">Сохранить внешнюю мини-карту</string>
     <string name="ci_budget_doublemoney_title">Удвоить прибыль</string>
     <string name="ci_budget_doublemoney_text">Удваивает твою прибыль на %1$,d дней.</string>
     <string name="ci_budget_getmoney_title">Получить %1$s</string>
@@ -917,7 +917,7 @@
     <string name="task_openrci_text">В TheoTown мы различаем спрос на здания для разных типов зданий и разных уровней. Типы зданий — жилые, коммерческие и индустриальные. Есть три уровня: бедный (₮), средний (₮₮) и богатый (₮₮₮).</string>
     <string name="control_gotit">Понял</string>
     <string name="task_firstcity_title">Новый город</string>
-    <string name="task_firstcity_text">Добро пожаловать в ваш первый город.\n\nПопытайся развитьсы до 300 жителей.</string>
+    <string name="task_firstcity_text">Добро пожаловать в ваш первый город.\n\nПопытайся развиться до 300 жителей.</string>
     <string name="task_reachrank_title">Новый ранг</string>
     <string name="task_reachrank_text">Поздравляем, твой город достиг нового ранга.\n\nКаждый ранг открывает некоторые здания, а ты получаешь награду.</string>
     <string name="menu_achievements">Достижения</string>
@@ -934,7 +934,7 @@
     <string name="settings_autoload">Автозагрузка последнего города</string>
     <string name="dialog_renameregion_title">Переименовать регион</string>
     <string name="dialog_renameregion_text">Введи здесь новое название для региона:</string>
-    <string name="shop_diamonds">%1$s брилиантов на %2$s</string>
+    <string name="shop_diamonds">%1$s бриллиантов на %2$s</string>
     <string name="draft_townhall02_title">Бол. городская ратуша</string>
     <string name="draft_townhall02_text">Большая городская ратуша для большого города. Спасибо за 1 млн загрузок.</string>
     <string name="notify_pollutedwaterpump">Этот водяной насос находится в загрязненной зоне. Лучше помести его в другое место, чтобы вода оставалась чистой.</string>
@@ -945,7 +945,7 @@
     <string name="notify_badtraffic">На этой дороге образуются пробки. Рекомендую построить больше дорог или улучшить существующие.</string>
     <string name="dialog_wb_title">Добро пожаловать</string>
     <string name="dialog_wb_text">%1$s заработал %2$s, пока ты отсутствовал.</string>
-    <string name="notify_fullschool">Эта школа полна. Нужно построить ещё.</string>
+    <string name="notify_fullschool">Эта школа переполнена учениками! Нужно построить ещё.</string>
     <string name="dialog_notenoughmoney_title">Недостаточно денег</string>
     <string name="dialog_notenoughmoney_text">У тебя недостаточно денег, чтобы купить это.\n\nХотите получить недостающие %1$s сразу?</string>
     <string name="notify_fullhospital">В этой больнице не хватает места. Ты должен построить еще одну.</string>
@@ -969,7 +969,7 @@
     <string name="draft_mltry_missilesilo00_title">Ракетный бункер</string>
     <string name="draft_feature_military00_text">Создайте свою собственную военную базу, чтобы защитить город. Включает катастрофу НЛО.</string>
     <string name="dialog_smooth_title">Плавная графика</string>
-    <string name="dialog_smooth_text">Эврика! Мы нашли решение для улучшения игрового разрешения. Хочешь его использовать?\n\nЭто можно измененить в настройках в любое время.</string>
+    <string name="dialog_smooth_text">Эврика! Мы нашли решение для улучшения игрового разрешения. Хочешь его использовать?\n\nЭто можно изменить в настройках в любое время.</string>
     <string name="budget_military">Военные</string>
     <string name="draftselector_monthlyincome">Ежемесячный доход: %s</string>
     <string name="draft_decosmallmountain00_title">Маленькая гора</string>
@@ -1035,7 +1035,7 @@
     <string name="draft_feature_gocart00_text">Как насчет мотоспорта в вашем городе? Карты будут также появляться на обычной дороге.</string>
     <string name="draft_firedepartment02_text">Имеет огромный радиус и много автомобилей. Полезно для предотвращения или тушения пожаров.</string>
     <string name="draft_prmgocart00_title">Трек для картов</string>
-    <string name="draft_prmgocart00_text">Как насчет мото спорта в вашем городе? Карты будут также появляться на обычной дороге.</string>
+    <string name="draft_prmgocart00_text">Как насчет мотоспорта в вашем городе? Карты будут также появляться на обычной дороге.</string>
     <string name="settings_smoothscrolling">Плавная прокрутка</string>
     <string name="settings_buildingtoolold">Старый строительный инструмент</string>
     <string name="settings_roadautojoin">Автоматическое соединение в дорожном инструменте</string>
@@ -1058,14 +1058,14 @@
     <string name="tut_build10">Для транспортировки воды в здания ты должен использовать трубы. Построй несколько для будущих целей.</string>
     <string name="tut_build11">Отлично, теперь у жителей есть энергия и вода. Но подожди, чего-то всё ещё не хватает...</string>
     <string name="tut_build110">Мэр, у нас нет работы и места для шоппинга!</string>
-    <string name="tut_build12">Хорошо, тебе также нужны коммерческие и индустриальныезоны. Давай рассмотрим спрос.</string>
+    <string name="tut_build12">Хорошо, тебе также нужны коммерческие и индустриальные зоны. Давай рассмотрим спрос.</string>
     <string name="tut_build13">Здесь ты можешь увидеть спрос на рез (жилые), ком (коммерческие) и инд (индустриальные) здания.</string>
     <string name="tut_build14">Для каждого типа (рез, ком или инд) существуют три уровня богатства: ₮, ₮₮ и ₮₮₮, которые соответствуют бедным, средним и богатым.</string>
     <string name="tut_build15">Конечно, ты хочешь иметь только богатых жителей, но ты должен начинать постепенно. Как ты можешь видеть, на данный момент жителям нужна ₮ коммерция.</string>
     <string name="tut_build16">Объявим еще несколько коммерческих зон? Я думаю, ты можешь это сделать.</string>
     <string name="tut_build17">Отлично сработано! Согласно графику, сейчас спрос на индустриальную зону. Давай объявим её за пределами жилого района.</string>
     <string name="tut_build18">В среднем жителям нужны такие коммерческие и промышленные зоны, как и жилые.</string>
-    <string name="tut_build19">Возможно, ты заметил, что легко заблудиться в твоём городе. Поэтому я хотел бы показать тебе миникарту</string>
+    <string name="tut_build19">Возможно, ты заметил, что легко заблудиться в твоём городе. Поэтому я хотел бы показать тебе мини-карту</string>
     <string name="tut_build22">Отлично. Давай посмотрим на другие магические штуки.</string>
     <string name="tut_build23">Здесь ты можешь увидеть общую информацию о своем городе. Ты можешь переименовать его, нажав на его текущее название.</string>
     <string name="tut_build24">Другим полезным инструментом является этот.</string>
@@ -1283,7 +1283,7 @@
     <string name="draft_airplane01_title">T380</string>
     <string name="draft_airplane01_text">Двухэтажный самолет дальнего следования от TheoAir. В нем много места.</string>
     <string name="dialog_waitingtime_title">Уменьшить время ожидания</string>
-    <string name="dialog_waitingtime_text">Хотешь сократить время ожидания?\n%1$s осталось.</string>
+    <string name="dialog_waitingtime_text">Хочешь сократить время ожидания?\n%1$s осталось.</string>
 
     <string name="topic_rate">Пожалуйста, помоги нам и оцени TheoTown</string>
     <string name="ci_airport_lane_unassign">Закрыть полосу</string>
@@ -1296,7 +1296,7 @@
     <string name="fb_login_text">Войди, чтобы мы могли синхронизировать твой профиль.</string>
     <string name="fb_login_cancel">Отмена</string>
     <string name="toast_seed_copy">Код генерации скопирован</string>
-    <string name="toast_recordingid_copy">ID записи скопироваг</string>
+    <string name="toast_recordingid_copy">ID записи скопирован</string>
     <string name="draft_ap_road00_title">Транспортная дорога</string>
     <string name="draft_ap_road00_text">Используйте эту дорогу, чтобы соединить терминалы с ВПП.</string>
     <string name="requirement_upgrade">Требуется улучшение %1$s</string>
@@ -1417,7 +1417,7 @@
     <string name="busgame_unlockimmediately_title">Разблокировать сразу</string>
     <string name="busgame_unlockimmediately_text">Ты хочешь сразу разблокировать этот автобус?</string>
     <string name="dialog_dbuilding_title">Построить здесь</string>
-    <string name="dialog_dbuilding_text">Ты хочешб разместить это здание здесь? Мы сразу закончим строительство.</string>
+    <string name="dialog_dbuilding_text">Ты хочешь разместить это здание здесь? Мы сразу закончим строительство.</string>
     <string name="dialog_performance_title">Представление</string>
     <string name="draft_brandenburgertor00_title">Бранденбургские ворота</string>
     <string name="draft_brandenburgertor00_text">Бранденбургские ворота — немецкая достопримечательность, построенная в 18 веке. Они находятся в Берлине.</string>
@@ -1431,7 +1431,7 @@
     <string name="control_disable">Отключить</string>
     <string name="draft_arcdetriomphe00_title">Триумфальная арка</string>
     <string name="draft_arcdetriomphe00_text">Триумфальная арка в Париже в память о тех, кто сражался и погиб во Французской революции.</string>
-    <string name="featureselector_shortbuildtime">Быстрое строительствл за %1$s</string>
+    <string name="featureselector_shortbuildtime">Быстрое строительство за %1$s</string>
     <string name="game_remaining_shortbuildtime">Быстрое строительство за %s</string>
     <string name="shop_open_features">Потратить бриллианты</string>
     <string name="draft_feature_shortbuildingtime00_title">Быстрое строительство</string>
@@ -1531,7 +1531,7 @@
     <string name="draft_bus_road00_title">Автобусная дорога</string>
     <string name="draft_bus_road00_text">Простая дорога, по которой могут ездить только автобусы.</string>
     <string name="draft_bus_oneway_road00_title">Односторонняя автобусная дорога</string>
-    <string name="draft_bus_oneway_road00_text">Односторнняя дорога, по которой могут ездить только автобусы.</string>
+    <string name="draft_bus_oneway_road00_text">Односторонняя дорога, по которой могут ездить только автобусы.</string>
     <string name="task_build_res">Построй %s жилых зон.</string>
     <string name="task_build_com">Построй %s коммерческих зон.</string>
     <string name="task_build_ind">Построй %s индустриальных зон.</string>
@@ -1572,7 +1572,7 @@
     <string name="notify_tutorial_reminder_title">Время начать</string>
     <string name="notify_tutorial_reminder_text">Эй, мэр, ты забыл о своей миссии построить великий город?</string>
     <string name="dialog_insufficientspace_title">Заканчивается пространство</string>
-    <string name="dialog_insufficientspace_text">На твоём устройстве осталось мало свободного места (%,d MB).\n\nГорода невозможно сохраненить из-за нехватки места!</string>
+    <string name="dialog_insufficientspace_text">На твоём устройстве осталось мало свободного места (%,d MB).\n\nГорода невозможно сохранить из-за нехватки места!</string>
     <string name="dialog_insufficientspace_cmdproceed">Продолжить на свой страх и риск</string>
     <string name="draft_sydneyoperahouse00_title">Сиднейский оперный театр</string>
     <string name="draft_sydneyoperahouse00_text">Сиднейский оперный театр — центр многоцелевого исполнительского искусства, расположенный в Сиднее, Австралия. Он был построен в 1973 году и имеет высоту 65 метров.</string>
@@ -1622,7 +1622,7 @@
     <string name="gallery_trends">Тренды</string>
     <string name="gallery_own">Своё</string>
     <string name="dialog_gallerydelete_title">Удалить скриншот</string>
-    <string name="dialog_gallerydelete_text">Ты уверен, что хочешь удалить этот скриншот? Его нельзя будеь вернуть!</string>
+    <string name="dialog_gallerydelete_text">Ты уверен, что хочешь удалить этот скриншот? Его нельзя будет вернуть!</string>
     <string name="dialog_gallerydelete_cmd">Удалить</string>
     <string name="dialog_gallerypolicy_title">Начало</string>
     <string name="dialog_gallerypolicy_text">Привет, мы рады, что ты хочешь внести свой вклад в нашу галерею. Однако, прежде чем начать, ты должен согласиться с нашей политикой, чтобы мы могли загружать твои скриншоты.
@@ -2104,11 +2104,11 @@
     <string name="gamemode_sandbox_title">Песочница</string>
     <string name="gamemode_sandbox_text">Используй этот режим для экспериментов без денег. У жителей все еще есть потребности, которые ты должен удовлетворить.</string>
     <string name="dialog_ubermode_title">Супер Режим</string>
-    <string name="dialog_ubermode_text">Включи этот особый режим, чтобы избавиться от всех проблем в городе:\n- Нет пожаров\n- Нет мусора\n- Нет болезней\n- Нет преступлениё\n- Нет смертей\n- Полное образование\n- 100% известность</string>
+    <string name="dialog_ubermode_text">Включи этот особый режим, чтобы избавиться от всех проблем в городе:\n- Нет пожаров\n- Нет мусора\n- Нет болезней\n- Нет преступлений\n- Нет смертей\n- Полное образование\n- 100% известность</string>
     <string name="topic_pluginsawesome">Плагины потрясающие! Однако мы рекомендуем отключить неиспользуемые.</string>
     <string name="topic_platforms">Знаешь ли ты, что TheoTown доступен для ПК, Android и iOS?</string>
     <string name="topic_pluginspace">Помни, что пространство для плагинов ограничено!</string>
-    <string name="topic_rotate">Знаешь ли ты, что можешб вращать свой город?</string>
+    <string name="topic_rotate">Знаешь ли ты, что можно вращать свой город?</string>
     <string name="topic_pineapple">Ананасы в пицце?</string>
     <string name="topic_f11">Нажми F11, чтобы активировать полноэкранный режим</string>
     <string name="draft_permanent_snow00_title">Снег</string>
@@ -2155,7 +2155,7 @@
     <string name="draft_cemetery01_text">Место, где похоронены останки умерших людей. На этом кладбище много места.</string>
 
 
-    <string name="settings_bigger_minimap">Увеличенная миникарта</string>
+    <string name="settings_bigger_minimap">Увеличенная мини-карта</string>
     <string name="stage_account_title">Аккаунт</string>
     <string name="stage_account_text">Чтобы использовать наши онлайн-сервисы, тебе необходимо подключить аккаунт.</string>
     <string name="stage_account_forum">Форум TheoTown</string>
@@ -2278,7 +2278,7 @@
     <string name="dialog_accountdisclaimer_title">Аккаунт</string>
     <string name="dialog_accountdisclaimer_text">Ты можешь подключить свою игру к одному или нескольким аккаунтам.\n
 \n
-Подключив игру к учетной записи на форуме TheoTown, ты сможешь комментровать.</string>
+Подключив игру к учетной записи на форуме TheoTown, ты сможешь комментировать.</string>
     <string name="ci_rci_help">Спрос описывает потребность в конкретных зданиях. Он делится на жилые, коммерческие и промышленные потребности. Для каждого из них есть три разных уровня благосостояния.</string>
 
 
@@ -2315,7 +2315,7 @@
     <string name="dialog_uploadregion_cmdupload">Загрузить</string>
     <string name="stage_uploadregion_uploading">Загрузка региона</string>
     <string name="dialog_uploadregionpassword_title">Введите пароль</string>
-    <string name="dialog_uploadregionpassword_text">Здесь ты може ввести пароль для доступа к региону. Оставь это поле пустым, чтобы не устанавливать пароль.</string>
+    <string name="dialog_uploadregionpassword_text">Здесь ты можешь ввести пароль для доступа к региону. Оставь это поле пустым, чтобы не устанавливать пароль.</string>
     <string name="dialog_regionsearch_title">Поиск региона</string>
     <string name="dialog_regionsearch_text">Введи ключевое слово ниже:</string>
     <string name="dialog_regionsearch_cmdsearch">Поиск</string>
@@ -2328,7 +2328,7 @@
     <string name="dialog_uploadregionunsuited_text">На данный момент ты можешь загружать только те регионы, которые не являются частью игры, и в которых нет городов (пока).</string>
     <string name="dialog_acquirecityaccount_title">Необходим аккаунт</string>
     <string name="dialog_acquirecityaccount_text">Чтобы приобрести участок в онлайн-регионе, вам необходимо подключить TheoTown к учетной записи.</string>
-    <string name="region_onlinecity_free">Этот участок бесплатный, поэтому ты можетшь приобрести его.</string>
+    <string name="region_onlinecity_free">Этот участок бесплатный, поэтому ты можешь приобрести его.</string>
     <string name="region_onlinecity_acquired">Это твой участок. Ты можете создать город здесь.</string>
     <string name="region_onlinecity_wait">Подожди некоторое время, прежде чем ты приобретёшь другой участок в этом регионе.</string>
 
@@ -2602,7 +2602,7 @@
 
 
     <string name="draft_discord_statue02_title">Discord 20к</string>
-    <string name="draft_discord_statue02_text">Новая статуя, чтобы отпраздновать достижение 20 тыс участников на нашем Discord. К этому юбилею мы устроили охоту за мусором, которую первым завершил наш почётный участник KolaKattz.</string>
+    <string name="draft_discord_statue02_text">Новая статуя, чтобы отпраздновать достижение 20 тыс. участников на нашем Discord. К этому юбилею мы устроили охоту за мусором, которую первым завершил наш почётный участник KolaKattz.</string>
     <string name="settings_drawpedestrians">Пешеходы</string>
     <string name="draft_pedestrian_road00_title">Тротуар</string>
     <string name="draft_pedestrian_road00_text">Простой тротуар для соединения близлежащих зданий.</string>
@@ -2610,7 +2610,7 @@
     <string name="draft_deco_chr_manger00_text">Огромный открытый ящик, из которого кормятся лошади, коровы и другие животные.</string>
     <string name="settings_diagonalroadtool">Строить дорогу по диагонали, если поддерживается</string>
     <string name="settings_smoothzoom">Плавное приближение</string>
-    <string name="settings_smoothzoom_off">Откл</string>
+    <string name="settings_smoothzoom_off">Откл.</string>
     <string name="settings_smoothzoom_nearest">Блочный</string>
     <string name="settings_smoothzoom_linear">Размытый</string>
     <string name="settings_smoothzoom_fast">Быстрый</string>
@@ -2668,14 +2668,14 @@
     <string name="ci_education_help">Обучение необходимо для жителей, чтобы улучшить их жилищные условия, а также, чтобы привлечь работников сферы образования и инвесторов.</string>
     <string name="ci_airport_help">Это твоя башня управления воздушным траффиком для контроля аэропортов. Ты можешь выбрать дорожки с карты, покупать самолёты и назначать самолёты на полосы.</string>
     <string name="ci_water_help">Вода необходима для жизни, и твои жители — не исключение. Будь уверены, что тв производишь достаточное кол-во воды и всё соединено с трубами. Не ставь водонапорные башни рядом с загрязнёнными зонами, иначе ваши жители заболеют.</string>
-    <string name="ci_statistics_help">Эта статистика поможет отслеживать разивитие города. Используй стрелочки с правой стороны, чтобы переключаться между разными графиками. Кнопки +/- приближают график и отдаляют его.</string>
+    <string name="ci_statistics_help">Эта статистика поможет отслеживать развитие города. Используй стрелочки с правой стороны, чтобы переключаться между разными графиками. Кнопки +/- приближают график и отдаляют его.</string>
 
 
     <string name="store_cat_shaders">Шейдеры</string>
     <string name="draft_cat_streetlights00_title">Уличное освещение</string>
     <string name="toolaction_roadautodecorations">Использовать декорации</string>
     <string name="draft_biomeMaker_open00_title">Ландшафтный инструмент</string>
-    <string name="draft_biomeMaker_open00_text">Вы можете легко изменять ландшафт с помозью этого инструмента.</string>
+    <string name="draft_biomeMaker_open00_text">Вы можете легко изменять ландшафт с помощью этого инструмента.</string>
     <string name="biomemaker_types">Типы:</string>
 
 
@@ -2708,7 +2708,7 @@
     <string name="draft_feature_opera00_title">Оперный театр</string>
     <string name="draft_feature_opera00_text">Дай волю магии культуры с нашим набором «Культурное наслаждение»! Почувствуй великолепие оперного театра, в сопровождении спокойного парка и очаровательного фонтана. Повысь атмосферу твоего города и вдохнови своих жителей гармоничной музыкой, природой, и художественным очарованием. Обновись сейчас и позволь городу сиять как культурный шедевр!</string>
     <string name="draft_opera00_title">Оперный оазис</string>
-    <string name="draft_opera00_text">Ступи в усадьбу мелодии, культурного сердцебиения города! Этот великолепный оперный театр добавляет штрих элегантности и утонченности в ваш метрополис. Наблюдай, как оно влияет на твоих жителей, превращает их в изысканных знатоков исскуства. Позволь гармоничной атмосфере течь и поднимать настроение!</string>
+    <string name="draft_opera00_text">Ступи в усадьбу мелодии, культурного сердцебиения города! Этот великолепный оперный театр добавляет штрих элегантности и утонченности в ваш Метрополис. Наблюдай, как оно влияет на твоих жителей, превращает их в изысканных знатоков исскусства. Позволь гармоничной атмосфере течь и поднимать настроение!</string>
     <string name="draft_opera_park00_title">Спокойный симфоничный парк</string>
     <string name="draft_opera_park00_text">Расположенный рядом с оперным театром спокойный симфоничный парк — это очаровательная гавань, где природа танцует под мелодию оперы. Расслабься в этом пышном, зеленом месте, наслаждайся выступлениями, и позволь гармоничному слиянию культуры и природы омолодить твою душу.</string>
     <string name="stage_comment_plugin_acquirefirst">Сначала купите этот плагин</string>
@@ -2716,7 +2716,7 @@
     <string name="draft_feature_dsa00_title">DSA</string>
     <string name="draft_feature_dsa00_text">Эта интеграция добавляет более совершенные системы снабжения, несколько новых служебных автомобилей, новую дорогу, которая быстрее и дешевле, новую катастрофу, флаги DSA, новые здания, множество событий, пространство для исследования, новые методы для заработка денег и многое другое.</string>
     <string name="draft_dsa_category00_title">Агентство</string>
-    <string name="draft_dsa_space_category00_title">Космическия база</string>
+    <string name="draft_dsa_space_category00_title">Космическая база</string>
     <string name="draft_dsadevcat_title">отладка DSA</string>
     <string name="draft_dsa_zone_title">Зона DSA</string>
     <string name="draft_dsa_zone_text">Зона для объявления территории DSA в черте города.</string>
@@ -2769,7 +2769,7 @@
     <string name="draft_ICBMarm_text">Нажмите это, чтобы вооружить эту МБР.</string>
     <string name="draft_dsa_icbm_req_text">Требуется вооруженная МБР</string>
     <string name="draft_prison00_title">Тюрьма</string>
-    <string name="draft_prison00_text">Суровое место, предназначенное для того, чтобы держать в себе всех приступников и злодеев.</string>
+    <string name="draft_prison00_text">Суровое место, предназначенное для того, чтобы держать в себе всех преступников и злодеев.</string>
     <string name="draft_prison_upgrade00_title">Программа распространения грамотности</string>
     <string name="draft_prison_upgrade00_text">Учите заключенных основам вещей, снижая вероятность того, что они снова станут преступниками.</string>
     <string name="draft_dsacommand_requirement">Нужно: штаб-квартира DSA</string>
@@ -2852,7 +2852,7 @@
     <string name="draft_dsa_notify05_text">Всем приготовиться к взлету!</string>
     <string name="draft_dsa_notify06_text">Здравствуйте, мэр. Я начала строить здесь свой маленький домик, как Вы мне позволили.</string>
     <string name="draft_dsa_notify07_text">Это выходит из-под контроля... Время для протокола «Взрывная остановка».</string>
-    <string name="draft_dsa_notify08_text">Квантовые ядра взрывоопасны. Разве Выы не знали?</string>
+    <string name="draft_dsa_notify08_text">Квантовые ядра взрывоопасны. Разве Вы не знали?</string>
     <string name="draft_dsa_notify09_text">Начинаю процедуру посадки.\nОжидайте.</string>
     <string name="draft_dsa_notify10_text">О, Здравствуйте, мистер хакер, Вы не против черной дыры?</string>
     <string name="draft__dsa_ask00_text">Мэр, не стоит ли нам вложить немного денег в аварийное восстановление на случай, если всё пойдет не так?</string>
@@ -2885,7 +2885,7 @@
     <string name="draft_dsa_research00_text">Исследуй новую экспериментальную систему поставок.</string>
     <string name="draft_dsa_award00_title">Камень</string>
     <string name="draft_dsa_award00_text">Откуда же он появился?</string>
-    <string name="draft_dsadrill_text">Используется для сбора ценных ресурсов, которые выгодно продаются, однако будь осторожен, оно может вызвать землятрясение.</string>
+    <string name="draft_dsadrill_text">Используется для сбора ценных ресурсов, которые выгодно продаются, однако будь осторожен, оно может вызвать землетрясение.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_title">Повышение стабильности</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_text">Улучши станцию для сбора ресурсов без вмешательства в окружающую среду.\n\nОдновременно доступно только одно улучшение. Старые улучшения будут уничтожены.</string>
     <string name="draft_dsa_moon_notify03_text">Ой, прости за грубую посадку. Здесь мы должны адаптировать некоторую технику.</string>
@@ -2952,10 +2952,10 @@
     <string name="draft_picklebparty00_opentext03_text">Сделай это...</string>
     <string name="draft_picklebparty00_opentext04_text">Я в ловушке</string>
     <string name="draft_ranoutofmoney_notify00">Я смотрю, ты на мели! Отправляю тебе последние выделенные средства для этого проекта. Трать их с умом!</string>
-    <string name="draft_moon_artifact_upgrade00_title">Ислледовать артефакт</string>
+    <string name="draft_moon_artifact_upgrade00_title">Исследовать артефакт</string>
     <string name="draft_moon_artifact_upgrade00_text">Исследовать артефакт и отправить полученные данные обратно в штаб-квартиру для денежного вознаграждения.</string>
     <string name="draft_space_tree00_title">Кибер-деревья</string>
-    <string name="draft_space_tree00_text">Исскуственные деревья для счастья поселенцев.</string>
+    <string name="draft_space_tree00_text">Искусственные деревья для счастья поселенцев.</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">Ракета Огурцов</string>
     <string name="draft_dsa_moon_pickle_rocket00_text">Огромная ракета созданная, чтобы поместить очень много огурцов внутри.</string>
     <string name="moon_region_unsupported">К сожалению, лунные регионы ещё не поддерживаются. Город скоро будет закрыт!</string>
@@ -2975,7 +2975,7 @@
     <string name="draft_space_storyline_stage_2_02">Уничтожь все добывающие станции, которые портят столь прекрасное место!</string>
     <string name="draft_space_storyline_stage_2_notdone">Некоторые станции всё ещё работают, вернись снова, когда они буду отключены.</string>
     <string name="draft_space_storyline_stage_3_00">Я понимаю, что ты полагаешься на эти руды для ресурсов</string>
-    <string name="draft_space_storyline_stage_3_01">Но ты когда нибудь задумывался об инвестировании в эти странные структуры?</string>
+    <string name="draft_space_storyline_stage_3_01">Но ты когда-нибудь задумывался об инвестировании в эти странные структуры?</string>
     <string name="draft_space_storyline_stage_3_02">Ресурсы ограничены, а знания нет.</string>
     <string name="draft_space_storyline_stage_3_03">Ну что? Попробуешь?</string>
     <string name="draft_space_storyline_stage_3_04">Ну же, попробуй исследовать артефакты!</string>
@@ -3054,7 +3054,7 @@
     <string name="draft_ground_concrete00_title">Бетон</string>
     <string name="draft_ground_concrete00_text">— Серая неплодородная почва, пять букв. — Бетон!.</string>
     <string name="draft_ground_sandstone00_title">Песчаник</string>
-    <string name="draft_ground_sandstone00_text">Солнечная песчанная поверхность.</string>
+    <string name="draft_ground_sandstone00_text">Солнечная песчаная поверхность.</string>
     <string name="draft_ground_dirt00_title">Грязь</string>
     <string name="draft_ground_dirt00_text">Экстра грязевая почва.</string>
     <string name="draft_ground_wildgrass00_title">Высокая трава</string>
@@ -3070,14 +3070,14 @@
     <string name="draft_tree_linden00_title">Липа</string>
     <string name="draft_tree_linden00_text">Лиственные деревья. Обычно используются для декораций.</string>
     <string name="draft_tree_aspen00_title">Осина</string>
-    <string name="draft_tree_aspen00_text">Высокие деревья с рыжими листьями, растущие в холодном клмимате.</string>
+    <string name="draft_tree_aspen00_text">Высокие деревья с рыжими листьями, растущие в холодном климате.</string>
     <string name="draft_tree_fir00_title">Пихта</string>
     <string name="draft_tree_fir00_text">Декоративная вечнозелёная хвоя использующаяся как новогодние деревья.</string>
     <string name="draft_foliage_bushes00_title">Кусты</string>
     <string name="draft_foliage_bushes00_text">Подходят для парков и лесов.</string>
     <string name="draft_ancient_temple00_title">Древний храм</string>
-    <string name="draft_ancient_temple00_text">Путь впёред не откроется слабым. Отправляйся вперёд сильным.</string>
-    <string name="tut_plugins00">Ты увидишь, у нас куча контента. Не торопись, чтобы всё это освоить. После этого, ты можешь быть готов посетить наш магазин плагинов с тысячями дополнений!.</string>
+    <string name="draft_ancient_temple00_text">Путь вперёд не откроется слабым. Отправляйся вперёд сильным.</string>
+    <string name="tut_plugins00">Ты увидишь, у нас куча контента. Не торопись, чтобы всё это освоить. После этого, ты можешь быть готов посетить наш магазин плагинов с тысячами дополнений!.</string>
     <string name="region_unlock_immediately">Разблокировать сразу</string>
     <string name="dialog_unlockcity_im_title">Разблокировать город сразу</string>
     <string name="dialog_unlockcity_im_text">Готов погрузиться в это веселье? Разблокируй эту прекрасную зону и развивай свой город без требований населения.\n\nБольше нет ожидания — давай строить крутые города вместе!</string>
@@ -3118,7 +3118,7 @@
     <string name="draft_dsarocket_deprecated_text">Стартовая площадка обновлена, вам нужно уничтожить эту и построить новую.</string>
     <string name="stage_createcity_terrain">Ландшафт...</string>
     <string name="dialog_terrain_title">Ландшафт</string>
-    <string name="dialog_missingmanifest_title">Отсутсвует файл манифеста у плагина</string>
+    <string name="dialog_missingmanifest_title">Отсутствует файл манифеста у плагина</string>
     <string name="dialog_missingmanifest_text">Следующие плагины не определяют файл манифеста (plugin.manifest). Это может вызвать проблемы с другими плагинами и онлайн режимом. Совместимость не может быть гарантирована в будущем:</string>
     <string name="dialog_missingmanifest_cmdhelp">Что это?</string>
     <string name="createcity_rivers">Реки</string>
@@ -3143,12 +3143,12 @@
     <string name="buildingicon_crimemurder">Кто-то был убит здесь.</string>
     <string name="buildingicon_crimeriot">Люди бунтуют здесь.</string>
     <string name="dialog_scriptpolicy_title">Политика скриптов плагина</string>
-    <string name="dialog_scriptpolicy_help_title">Скрипты плагина могут быть опаснымы</string>
+    <string name="dialog_scriptpolicy_help_title">Скрипты плагина могут быть опасными</string>
     <string name="dialog_scriptpolicy_help_text">ТЫ можешь утверждать выполнение скрипта для внешних плагинов. Только одобренные скрипты с ресурсов или игроков, которым ты доверяешь (например скрипт твоего плагина, если ты над ним работаешь).\n
 \n
 Если ты сомневаешься, не включай выполнение скрипта без проверки кода.\n
 \n
-Плагины, которым нужны скрипты, могут работать не так, как ты ожидаешь. Придеться перезапустить игру, чтобы изменения пришли в силу.</string>
+Плагины, которым нужны скрипты, могут работать не так, как ты ожидаешь. Придётся перезапустить игру, чтобы изменения пришли в силу.</string>
     <string name="settings_openscriptpolicy">Политика скриптов плагина</string>
     <string name="stage_files_itemcount">%d файлов</string>
     <string name="tips_title">Подсказки</string>
@@ -3193,7 +3193,7 @@
 Нужны деньги? Возьми заём.
     </string>
     <string name="tip_topic_more_cash_text">
-Нажми на кнопку доходов и перейди во вкладку с иконкой зеелной купюры. Затем нажми "занять". Количество данных в заём денег зависит от того, что ты имеешь сейчас, можно взять максимум 5 займов.
+Нажми на кнопку доходов и перейди во вкладку с иконкой зелёной купюры. Затем нажми "занять". Количество данных в заём денег зависит от того, что ты имеешь сейчас, можно взять максимум 5 займов.
     </string>
     <string name="tip_topic_loan_repayment_title">
 Каждый месяц платёж за займ списывается автоматически.
@@ -3211,7 +3211,7 @@
 Ты можешь создать свой плагин. Это легко!
     </string>
     <string name="tip_topic_making_plugins_text">
-Это мжет показаться сложным на первый взгляд, но создавать плагины очень просто. Для рисования текстур можно использовать Paint на ПК и Pixly на смартфоне. Для написания JSON («кода») можно обратиться за помощью на форум или использовать https://pca.svetikas.lt/. Если у тебя есть какие-то вопросы, с радостью ответим в Discord или на форуме!
+Это может показаться сложным на первый взгляд, но создавать плагины очень просто. Для рисования текстур можно использовать Paint на ПК и Pixly на смартфоне. Для написания JSON («кода») можно обратиться за помощью на форум или использовать https://pca.svetikas.lt/. Если у тебя есть какие-то вопросы, с радостью ответим в Discord или на форуме!
     </string>
     <string name="tip_topic_online_collaboration_title">
 Работай вместе с другими игроками в онлайн-режиме.
@@ -3229,13 +3229,13 @@
 Ты можешь получать алмазы, просто играя каждый день.
     </string>
     <string name="tip_topic_diamonds_text">
-Ты получишь вознаграждение, если будешь заходить каждый в игру ежедневно (только моб. устройства). Заходя неделю подряд, ты получишь больше наград. Получив финальную награду, они начнутся сначала. Также ты можешь смотреть видео каждые 30 минут для получения бриллиантов - только не забудь выключить адблок, чтобы они показывались!
+Ты получишь вознаграждение, если будешь заходить каждый в игру ежедневно (только моб. устройства). Заходя неделю подряд, ты получишь больше наград. Получив финальную награду, они начнутся сначала. Также ты можешь смотреть видео каждые 30 минут для получения бриллиантов - только не забудь выключить AdBlock (блокировщик реклам), чтобы они показывались!
     </string>
     <string name="tip_topic_supplies_title">
 Некоторые индустриальные здания производят ресурсы для ракет.
     </string>
     <string name="tip_topic_supplies_text">
-Здания, поставляющие нефть, есть среди промышленных зданий любого уровня. Они включают в себя здания, добыающие нефть, склады и производственные здания. Они будут снабжать тебя ракетным топливом. Чем больше заводов с ресурсами для ракеь, тем быстрее она будет заправлена.
+Здания, поставляющие нефть, есть среди промышленных зданий любого уровня. Они включают в себя здания, добывающие нефть, склады и производственные здания. Они будут снабжать тебя ракетным топливом. Чем больше заводов с ресурсами для ракет, тем быстрее она будет заправлена.
     </string>
     <string name="tip_topic_train_bus_usage_title">
 Даже если поезда и автобусы не видны, они всё равно дают эффект.
@@ -3289,13 +3289,13 @@
 Случайные катастрофы можно выключить в настройках.
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Случайные катастрофы можно выключить в настройках или выбрать те, с которыми хочешь играть. Если у тебя есть добывающая станция DSA или военная ракета, риск землятрясений или других катастроф по-прежнему будет. <!-- не стихийные -->
+Случайные катастрофы можно выключить в настройках или выбрать те, с которыми хочешь играть. Если у тебя есть добывающая станция DSA или военная ракета, риск землетрясений или других катастроф по-прежнему будет. <!-- не стихийные -->
     </string>
     <string name="tip_topic_taxes_percentage_title">
 Большая часть доходов — налоги. Но не ставь их выше 9%.
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Особенно на старте, 90% дохода идет с налогов граждан. Хороший процент где-то между 7% и 9%. Если процент налогооблажения больше, есть риск бунтов и отказов от жилищ.
+Особенно на старте, 90% дохода идет с налогов граждан. Хороший процент где-то между 7% и 9%. Если процент налогообложения больше, есть риск бунтов и отказов от жилищ.
     </string>
     <string name="tip_topic_taxes_adjust_title">
 Ты можешь менять процент налогов с помощью кнопок + и -
@@ -3340,10 +3340,10 @@
 Некоторые игровые здания могут поворачиваться, но не все. Особенно, когда дело касается плагинов: автор может не предусмотреть это. Чтобы узнать, есть ли такая функция у определённой постройки, нажми на нее и проверь, есть ли специальные кнопки в правом верхнем углу.
     </string>
     <string name="tip_topic_map_rotation_title">
-Измени ориентацию карты с помощью миникарты.
+Измени ориентацию карты с помощью мини-карты.
     </string>
     <string name="tip_topic_map_rotation_text">
-Миникарта может быть использована для поворота города. Нажми на нее и используй стрелки под ней. Важно заметить, что не все здания будут поворачиваться, т. к. не все имеют необходимые текстуры.
+Мини-карта может быть использована для поворота города. Нажми на нее и используй стрелки под ней. Важно заметить, что не все здания будут поворачиваться, т. к. не все имеют необходимые текстуры.
     </string>
     <string name="tip_topic_demands_title">
 Объявляй зоны, на которые есть спрос.
@@ -3370,7 +3370,7 @@
 У разных игроков разный стиль игры. Вместо того, чтобы им завидовать, попробуй понять, почему тебе это нравится. Когда поймёшь, попробуй постепенно реализовать это в своём городе. 
     </string>
     <string name="tip_topic_road_connection_title">
-Используй автосоединение при строительстве дорог.
+Используй авто соединение при строительстве дорог.
     </string>
     <string name="tip_topic_road_connection_text">
 Нажми на дорогу и включи "соединить дорогу" в правом верхнем углу, чтобы дорога автоматически соединялась с соседними. Это поможет тебе избежать проблемы неиспользуемых из-за отсутствия соединения дорог.
@@ -3424,7 +3424,7 @@
     <string name="settings_notify_polluted_pump">Водокачка в гряз. зоне</string>
     <string name="settings_notify_school_overloaded">Школа переполнена</string>
     <string name="settings_notify_medic_overloaded">Больница переполнена</string>
-    <string name="settings_notify_destroyed_tile">Уничтоженая плитка</string>
+    <string name="settings_notify_destroyed_tile">Уничтоженная плитка</string>
     <string name="settings_notify_need_low_education">Нужно общ. образование</string>
     <string name="settings_notify_need_high_education">Нужно высш. образование</string>
     <string name="settings_notify_bad_traffic">Пробки</string>
