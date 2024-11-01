@@ -14,7 +14,7 @@
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Obyvatelé: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Země:</string>
+    <string name="createcity_seed">Seed:</string>
     <string name="createcity_sizesmall">Malý</string>
     <string name="createcity_sizemiddle">Střední</string>
     <string name="createcity_sizebig">Velký</string>
@@ -110,7 +110,7 @@
     <string name="draft_school01_title">Vysoká škola</string>
     <string name="draft_school01_text">Místo, kde se učí děti po absolvování střední školy.</string>
     <string name="draft_museum00_title">Muzeum</string>
-    <string name="draft_museum00_text">Místo, kde se staří lidé učí.</string>
+    <string name="draft_museum00_text">Místo, kde se učí starší lidé.</string>
     <string name="draft_pipe00_title">Vodovodní potrubí</string>
     <string name="draft_pipe00_text">Vodovodní potrubí slouží k rozvádění vody do budov.</string>
     <string name="draft_waterpump00_title">Vodní pumpa</string>
@@ -131,7 +131,7 @@
     <string name="shader_test">Otestovat</string>
     <string name="settings_shader">Stíny</string>
     <string name="shader_colorful">Plné barvy</string>
-    <string name="shader_gray">Šedá</string>
+    <string name="shader_gray">Šedý</string>
     <string name="shader_fancy">Luxusní</string>
     <string name="settings_category_graphics">Grafika</string>
     <string name="settings_category_audio">Zvuk</string>
@@ -150,18 +150,18 @@
     <string name="draft_bigschool00_title">Střední škola</string>
     <string name="draft_bigschool00_text">Místo, kde se učí děti po absolvování základní školy.</string>
     <string name="draft_treepark00_title">Lesní park</string>
-    <string name="draft_treepark00_text">Malý park se stromy. Přináší zeleň do Vašeho města.</string>
+    <string name="draft_treepark00_text">Malý park se stromy. Přináší zeleň do vašeho města.</string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Finance</string>
     <string name="budget_res0">Domky (%1$,d)</string>
     <string name="budget_res1">Domy (%1$,d)</string>
     <string name="budget_res2">Luxusní domy (%1$,d)</string>
     <string name="budget_com0">Malé obchody (%1$,d)</string>
-    <string name="budget_com1">Obchodní dům (%1$,d)</string>
-    <string name="budget_com2">Obchodní centrum (%1$,d)</string>
+    <string name="budget_com1">Obchodní domy (%1$,d)</string>
+    <string name="budget_com2">Obchodní centra (%1$,d)</string>
     <string name="budget_ind0">Malý průmysl (%1$,d)</string>
-    <string name="budget_ind1">Fabrika (%1$,d)</string>
-    <string name="budget_ind2">Průmyslová zóna (%1$,d)</string>
+    <string name="budget_ind1">Fabriky (%1$,d)</string>
+    <string name="budget_ind2">Průmyslové zóny (%1$,d)</string>
     <string name="budget_park">Parky</string>
     <string name="budget_education">Vzdělání</string>
     <string name="budget_firebrigade">Hasiči</string>
@@ -2838,7 +2838,7 @@ Stisknutím klávesy ji přiřadíte k dané akci.</string>
     <string name="draft_dsarocket_upg1_title">Test rakety</string>
     <string name="draft_dsarocket_upg1_text">Odpalte prázdnou experimentální raketu ke sběru informací a přípravě na další operace a odpaly raket.\nZásoby: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Test se zvířetem</string>
-    <string name="draft_dsarocket_upg2_text">Odpalte do vesmíru raketu s kočkou pojmenovanou Akial ke sběru vtálních informací.\nZásoby: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg2_text">Odpalte do vesmíru raketu s kočkou pojmenovanou Akial ke sběru vitálních informací.\nZásoby: ${_dsareadiness}/2500</string>
     <string name="draft_dsarocket_upg3_title">Navigace</string>
     <string name="draft_dsarocket_upg3_text">Odpalte do vesmíru raketu s jednou osobou na palubě k provedení navigačních testů.\nZásoby: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Satelity</string>
@@ -3208,154 +3208,154 @@ Můžete si vytvořit vlastní pluginy. Je to snadné™
 Tvorba pluginů se může zpočátku zdát složitá, ale ve skutečnosti je poměrně jednoduchá. Textury můžete vytvořit v programech jako paint.net na PC nebo Pixly na telefonech.  Ke "kódování" se můžete řídit tutoriály na fóru nebo se mu kompletně vyhnout díky tomuto webu: https://pca.svetikas.lt/. Pokud máte jakékoliv otázky, můžete se zeptat na Discordu nebo na fóru!
     </string>
     <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
+Spolupracujte díky online režimu na regionu
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+Stisknutím tlačítka "Online regiony" při pohledu na region můžete s přáteli nebo ostatními členy komunity spolupracovat na tvorbě nádherného regionu. Hra neumožňuje na jednom městě pracovat více než jedné osobě, ale cizí města můžete navštěvovat a případně se inspirovat.
     </string>
     <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
+Nahrání mapy do online režimu stojí diamanty nebo regionové mince
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+Diamanty (na telefonech) a regionové mince (PC) jsou udělovány za každodenní přihlašování se ke hře. Cena nahrání regionu záleží na jeho velikosti. Během nahrávání může tvůrce zvlit hesla a napsat pravidla. Po vytvoření nelze heslo přidat nebo odstranit.
     </string>
     <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
+Každodenním přihlašovaním můžete získat diamanty
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+Každodenním přihlašováním se do hry můžete (na mobilní verzi) získat diamanty. Ještě lepší odměny získáte přihlašováním se každý den po celý týden; po obdržení finální odměny se to resetuje a začíná od začátku. Také se můžete každých 30 minut dívat na reklamy, ale musíte mít vypnuté blokátory reklam, aby se ukázaly!
     </string>
     <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
+Zásoby do raket poskytují jisté průmyslové budovy
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+Budovy, které dodávají ropu, jsou rozprostřené přes všechny úrovně průmyslových budov. Patří mezi ně budovy extrahující ropu, skladiště, a zpracovávající budovy. Tyto poskytnou vaší raketě zásoby. Čím více a blíže průmyslové budovy jsou, tím rychlejší zásobování bude.
     </string>
     <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
+Nemusí tu být žádné viditelné využití vlakových či autobusových zastávek, ale stál mají efekt
     </string>
     <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+Autobusy i vlaky mohou ukazovat, že je nepoužívají žádní pasažéři. I tak ale mají na své okolí efekt a data o jejich používání mohou být o něco později aktualizována. Autobusy i vlaky poskytují štěstí z dopravy, a tak je výhodné s jejich službami pokrýt RCI oblasti.
     </string>
     <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
+Ikona spreje označuje vandalismus, postavte policejní stanici
     </string>
     <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+Ikona spreje se ukauje, když jsou budovy mimo oblast působnosti policejních stanic. Obytné, obchodní i průmyslové budovy potřebují mít poblíž policejní stanice, aby se předešlo budoucím zločinům.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
+Ke zbavení se mrtvých těl stavte hřbitovy či krematoria
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
+Pokud se nad jednou či více vašimi budovami ukáže ikona mrtvé osoby, znamená to, že budete muset postavit hřbitov nebo krematorium. Hřbitovy pro začátek stačí, ale jak města rostou, budou muset být čím dál častěji vyprazdňovány, takže časem se může krematorium jevit jako lepší možnost do budoucna.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
+K extra příjmu exportujte do sousedních měst
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+Tohle může být prováděno pouze v regionech, kde existují sousední města. Ve hře je panel exportů a importů. Úpravou hodnot můžete například z blízkých měst dovážet vodu nebo vyvážet odpad. Nefunguje to ale v online režimu nebo pokud je jedno z vašich měst v sandbox či uber režimu.
     </string>
     <string name="tip_topic_airport_title">
-The airport is a good long term investment
+Letiště je dobrou investicí do budoucna
     </string>
     <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+Abyste učinili letiště funkčním, přidejte ranveje a přiřaďte k nim letadla. Letiště se často stane finančně výhodným, pokud je používáno. To znamená, že po počáteční investici do infrastruktury vás čeká významný zdroj příjmu.
     </string>
     <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
+YouTube má pár užitečných tutoriálů
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+Na YouTube je několik zkušených hráčů a tvůrců TheoTown, kteří tam publikují svá videa. Ta jsou různá, od inspiračních timelapse videí po návody, které vám mohou pomoct ve zlepšení se.
     </string>
     <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
+Ceny se ve hře navyšují stejně jako ve skutečném životě
     </string>
     <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+Konstukce budov i silnic navyšuje jejich cenu. Čím více budov a silnic postavíte, tím více se navýší. Platí to pro silnice, dekorace, zóny a všechny typy budov.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+Pro větši svobodu použijte režim sandbox/uber
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+Mnoho zkušených hráčů preferuje hrát v režimech sandbox nebo uber, protože jim to umožňuje se lépe kreativně vyjádřit. V těchto režimech totiž budovy nic nestojí a v případě uberu nemají obyvatelé štěstí ani žádné potřeby. Budovy jsou často pokládány manuálně. Pokud vám to nevyhovuje, v pořádku - každý staví jinak!
     </string>
     <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
+Automatické katastrofy mohou být vypnuty v nastavení
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+Katastrofy mohou být vypnuty v nastavení. Navíc si můžete vybrat, které specificky chcete a které ne. Pokud ale používáte těžební stanice či raketová sila od DSA, vaše město může být it tam ohroženo zemětřeseními i dalšími katastrofami.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
+Většina vašeho příjmu je z daní, ale nenastavujte je nad 9%
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+Obzvláště v raných fázích hry pochází 90 či více procent vašeho příjmu z danění vašich obyvatel. Dobrým daňovým rozmezím je 7% až 9%. Pokud jsou daně příliš vysoké, je tu riziko vzpour a toho, že obyvatelé začnou vaše město opouštět.
     </string>
     <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
+Daně můžete upravit s tlačítky + a -
     </string>
     <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+Klikněte na ikonu smajlíka a poté na panel daní, kde můžete použít + a - k navýšení či snížení daní pro každou úroveň zón. Buďte ale opatrní, ať je nenavýšíte příliš vysoko.
     </string>
     <string name="tip_topic_moon_title">
-Use DSA to go to the moon
+Použijte DSA, abyste se dostali na Měsíc
     </string>
     <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+Odemkněte DSA a vylepšujte její budovy, abyste se dostali na Měsíc. Vaše raketa bude potřebovat zásoby; až bude připravena, můžete ji odpálit. Buď spadne zpět na zem, nebo přistane na měsíci. Pokud bude mise úspěšná, lunární mapu budete moct naleznout v menu jednotlivých měst. Těžbou různých materiálů na měsíci můžete pro mapu, ze které byla raketa odpálena, odemknout nové budovy.
     </string>
     <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
+Opatrně! ICBM zničí celé vaše město!
     </string>
     <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+ICBM není přirozeně se vyskytující katastrofou a může být pouze aktivována přes DSA. Během používání těchto raket buďte opatrní, protože mohou zničit celé vaše město v řádu sekund. Abyste se vyhnuli zklamání, můžete své město zálohovat či duplikovat, pokud si ICBM chcete vyzkoušet.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
+Do hustých zón se vejde více obyvatel, ale jsou dražší
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+Husté zóny jsou obecně dražší než ty normální, ale může v nich žít více lidí. Navíc nabízí vyšší budovy. Jinak zde žádné odlišnosti nejsou, protože oba typy zón vyžadují stejné potřeby.
     </string>
     <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
+Pluginy můžete stahovat i na fóru
     </string>
     <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+Někteři tvůrci pluginů raději nahrávají své pluginy exkluzivně na fóru. To vám umožňuje stahovat pluginy, které nemusí být v jejich obchodě dostupné. Jejich stáhnutí je zdarma; jejich soubory musí být umístěny ve složce hry manuálně. Buďte s nimi a,e opatrní, protože nejsou moderovány.
     </string>
     <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
+Mýtné brány navyšují příjem na úkor štěstí obyvatel
     </string>
     <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+Pokud chcete vybírat od projíždějících vozidel mýto, můžete na silnice umístit mýtné brány, které mohou tak navýšit váš příjem. Véše mýtného může být navýšena kliknutím na bránu. Mýtné brany ale snižují štěstí obyvatel z dopravy.
     </string>
     <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
+Ne všechny budovy mají všechny strany
     </string>
     <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+Některé budovy lze otáčet, ale jiné ne. To stejné platí i u pluginů, jen ve vyšší míře. To se stává, protože se autoři rozhodli nenakreslit textory pro další strany budov. Pokud chcete vidět, které budovy lze otáčet, klikněte na budovu a podívejte se, zda se v pravém horním rohu objeví šipky doprava i doleva. Absence různých stran jedné budovy umožňuje vyšší variaci v zónách.
     </string>
     <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
+Změňte orientaci mapy s minimapou
     </string>
     <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+Minimapa může být použíta jako nástroj k otáčení mapy. Můžete k tomu použít tlačítka šipek pod ní. Mějte na paměti, že ne všechny budovy se budou otáčet, protože některé nemají textury pro jejich ostatní strany.
     </string>
     <string name="tip_topic_demands_title">
-Build zones which are above the demand line
+Budujte zóny, pro které existuje poptávka
     </string>
     <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
+Pokud se v grafu poptávky nachází některé sloupce nad prostřední linií, namená to, že lidé té skupiny chtějí ve vašem městě bydlet či pracovat. Měli byste tak poskytnout zónám služby, které ta skupina potřebuje. Pokud se sloupce nachází pod linií, poptávka je nízká a stavět byste měli pro ostatní skupiny.
     </string>
     <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
+Stisknutím na budovu uvidíte nejnižší štěstí jejích obyvatel
     </string>
     <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+Klknutím na budovu můžete identifikovat, proč jsou jeho obyvatelé nešťastní. Také můžete učrčit jejich průměrné štěstí. Jakmile zjistíte důvod pro nejnižší štěstí, můžete ho zkusit vyřešit. Pokud jsou obyvatelé například nešťastní kvůli nedostatku parků, měli byste poblíž nějaký položit.
     </string>
     <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
+V obchodě s pluginy jsou i oficiální rozšíření
     </string>
     <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
+V obchodě s pluginy zveřeňuje Lobby někdy oficiální rozšíření do hry. Ty jsou obvykle zdarma.
     </string>
     <string name="tip_topic_inspiration_title">
 Don\'t compare with other players\' cities, take inspiration
@@ -3364,67 +3364,67 @@ Don\'t compare with other players\' cities, take inspiration
 Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
     </string>
     <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
+Při stavbě silnic používejte automatické připojování
     </string>
     <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+Klikněte na silnici vaší volby a v pravém horném rohu povolte automatické připojování silnic, abyste se vyhnuli nepřipojeným a tím pádem nefunkčním silnicím.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
+K prevenci epidemií budujte nemocnice
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+Pokud se nad budovou nachází ikona zeleného smajlíka, znamená to, že jeho obyvatelé jsou nemocní. Abyste se tomuto do budoucna vyhnuli, postavte v okolí všech obytných zón nemocnice. Měli byste se také ujistit, že se všechny vaše zdroje vody nachází mimo zněčištěné oblasti.
     </string>
     <string name="tip_topic_education_title">
-Residentials need both high and low education
+Obytné zóny potřebují nízké i vysoké vzdělání
     </string>
     <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
+Ke zlepšení štěstí ze vzdělání musí být obyvatelům vašeho města poskytnuty budovy nízkého i vyšokého vzdělání. Ty jsou potřeba také k tomu, aby lidé ve vašem městě zbohatli.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
+Ke snížení lagů deaktivujte plynulé přibližování
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
+Pokud se vám hra seká, zvažte vypnutí plynulého přibližování. Tato možnost může být nalezena v nastavení a její vypmnutí může na slabých zařízeních zlepšit herní zážitek.
     </string>
     <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
+Měňte šipkami vpravo výšku silnic
     </string>
     <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
+Klikněte na silnici, kterou chcete postavit. Poté můžete šipkami vpravo měnit, na jaké výškové úrovni budete stavět. Pokud chcete vytvořit rampu o úroveň výš nebo níž, musíte již silnici stavět. K automatické konstrukci mostů můžete aktivovat odpovídající možnost. Mějte na paměti, že ne všechny silnice toto podporují.
     </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_title">Stáhnout vše</string>
+    <string name="store_cmd_downloadall_text">Stáhnout / aktivovat všechny chybějící pluginy naráz</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Otevřít</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Oznámení</string>
+    <string name="settings_notify_low_power">Nedostatek energie</string>
+    <string name="settings_notify_low_water">Nedostatek vody</string>
+    <string name="settings_notify_no_power">Žádná energie</string>
+    <string name="settings_notify_no_water">Žádná voda</string>
+    <string name="settings_notify_no_road">Žádný silniční přístup</string>
+    <string name="settings_notify_no_park">Žádný park</string>
+    <string name="settings_notify_no_sport">Žádné sportovní budovy</string>
+    <string name="settings_notify_pollution">Znečištění</string>
+    <string name="settings_notify_noise">Hluk</string>
+    <string name="settings_notify_water_waste">Znečištění vody</string>
+    <string name="settings_notify_unhappy">Nešťastní</string>
+    <string name="settings_notify_unlocked">Odemčené budovy</string>
+    <string name="settings_notify_low_budget">Nízký rozpočet</string>
+    <string name="settings_notify_zone_needed">Potřeba zóna</string>
+    <string name="settings_notify_polluted_pump">Znečištěný zdroj vody</string>
+    <string name="settings_notify_school_overloaded">Škola přetížena</string>
+    <string name="settings_notify_medic_overloaded">Nemocnice přetížena</string>
+    <string name="settings_notify_destroyed_tile">Zničená dlaždice</string>
+    <string name="settings_notify_need_low_education">Potřeba nízké vzdělání</string>
+    <string name="settings_notify_need_high_education">Potřeba vysoké vzdělání</string>
+    <string name="settings_notify_bad_traffic">Vysoký provoz</string>
+    <string name="settings_notify_waste">Odvoz odpadu</string>
+    <string name="settings_notify_body_disposal">Odvoz těl</string>
+    <string name="settings_notify_bad_attribute">Špatná hodnota</string>
     <string name="show_eula">EULA</string>
 
 </resources>
