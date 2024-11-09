@@ -14,7 +14,7 @@
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Obyvatelé: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Země:</string>
+    <string name="createcity_seed">Seed:</string>
     <string name="createcity_sizesmall">Malý</string>
     <string name="createcity_sizemiddle">Střední</string>
     <string name="createcity_sizebig">Velký</string>
@@ -110,7 +110,7 @@
     <string name="draft_school01_title">Vysoká škola</string>
     <string name="draft_school01_text">Místo, kde se učí děti po absolvování střední školy.</string>
     <string name="draft_museum00_title">Muzeum</string>
-    <string name="draft_museum00_text">Místo, kde se staří lidé učí.</string>
+    <string name="draft_museum00_text">Místo, kde se učí starší lidé.</string>
     <string name="draft_pipe00_title">Vodovodní potrubí</string>
     <string name="draft_pipe00_text">Vodovodní potrubí slouží k rozvádění vody do budov.</string>
     <string name="draft_waterpump00_title">Vodní pumpa</string>
@@ -131,7 +131,7 @@
     <string name="shader_test">Otestovat</string>
     <string name="settings_shader">Stíny</string>
     <string name="shader_colorful">Plné barvy</string>
-    <string name="shader_gray">Šedá</string>
+    <string name="shader_gray">Šedý</string>
     <string name="shader_fancy">Luxusní</string>
     <string name="settings_category_graphics">Grafika</string>
     <string name="settings_category_audio">Zvuk</string>
@@ -150,18 +150,18 @@
     <string name="draft_bigschool00_title">Střední škola</string>
     <string name="draft_bigschool00_text">Místo, kde se učí děti po absolvování základní školy.</string>
     <string name="draft_treepark00_title">Lesní park</string>
-    <string name="draft_treepark00_text">Malý park se stromy. Přináší zeleň do Vašeho města.</string>
+    <string name="draft_treepark00_text">Malý park se stromy. Přináší zeleň do vašeho města.</string>
     <string name="menu_premium">Premium</string>
     <string name="ci_budget_title">Finance</string>
     <string name="budget_res0">Domky (%1$,d)</string>
     <string name="budget_res1">Domy (%1$,d)</string>
     <string name="budget_res2">Luxusní domy (%1$,d)</string>
     <string name="budget_com0">Malé obchody (%1$,d)</string>
-    <string name="budget_com1">Obchodní dům (%1$,d)</string>
-    <string name="budget_com2">Obchodní centrum (%1$,d)</string>
+    <string name="budget_com1">Obchodní domy (%1$,d)</string>
+    <string name="budget_com2">Obchodní centra (%1$,d)</string>
     <string name="budget_ind0">Malý průmysl (%1$,d)</string>
-    <string name="budget_ind1">Fabrika (%1$,d)</string>
-    <string name="budget_ind2">Průmyslová zóna (%1$,d)</string>
+    <string name="budget_ind1">Fabriky (%1$,d)</string>
+    <string name="budget_ind2">Průmyslové zóny (%1$,d)</string>
     <string name="budget_park">Parky</string>
     <string name="budget_education">Vzdělání</string>
     <string name="budget_firebrigade">Hasiči</string>
@@ -2224,7 +2224,7 @@ Cons: Žádná výzva</string>
     <string name="toolaction_trafficlights">Použít semafory</string>
     <string name="toolaction_bridge">Most</string>
     <string name="toolaction_constantheight">Stálá výška</string>
-    <string name="toolaction_modifyunder">Below</string>
+    <string name="toolaction_modifyunder">Pod</string>
     <string name="toolaction_levelup">Vyšší</string>
     <string name="toolaction_leveldown">Nižší</string>
     <string name="toolaction_upwards">Zvýšit</string>
@@ -2537,825 +2537,825 @@ Stisknutím klávesy ji přiřadíte k dané akci.</string>
     <string name="dialog_removewithprice_text">Cena za odstranění výběru je %1$s. Chcete pokračovat?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
-    <string name="unit_sizekb">%1$,.1f KB</string>
+    <string name="featureselector_doubledincometime">Zdvojnásobený příjem na %1$s</string>
+    <string name="draft_marker_powermarker_text">Pokrytí elektřinou. Elekřina je přepravována s pomocí drátů.</string>
+    <string name="draft_marker_waterpipemarker_title">Voda</string>
+    <string name="draft_marker_waterpipemarker_text">Pokrytí vodou. Voda je k vašim obyvatelům přepavována s pomocí potrubí.</string>
+    <string name="stage_files_title">Správce souborů</string>
+    <string name="stage_files_importhere">Importovat sem</string>
+    <string name="stage_files_currentdir">Současná složka</string>
+    <string name="stage_files_actions">Akce</string>
+    <string name="stage_files_actionexport">Exportovat</string>
+    <string name="stage_files_actionrename">Přejmenovat</string>
+    <string name="stage_files_actionrename_text">Přejmenovat soubor %1$s:</string>
+    <string name="stage_files_renamecollision_title">Konflikt názvů</string>
+    <string name="stage_files_renamecollision_text">Soubor s názvem %1$s již existuje!</string>
+    <string name="stage_files_actiondelete">Smatat</string>
+    <string name="stage_files_actiondelete_title">Smazat?</string>
+    <string name="stage_files_actiondelete_text">Opravdu chcete smazat %1$s? Tuto akci nelze vrátit zpět!</string>
+    <string name="stage_files_settings">Nastavení</string>
+    <string name="stage_files_settings_showhiddenfiles">Ukázat skryté soubory</string>
+    <string name="stage_files_filesize">Velikost: %1$s</string>
+    <string name="stage_files_helptitle">Nápověda</string>
+    <string name="stage_files_helptext">Vítejte ve správci souborů TheoTown. Zde můžete spravovat a přistupovat ke svým mapám, regionům, pluginů, a podobně.</string>
+    <string name="unit_sizebytes">%1$,d bajtů</string>
+    <string name="unit_sizekb">%1$,.1f kB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="pluginerror_locateplugin">Najít plugin</string>
+    <string name="stage_files_createfolder">Vytvořit složku</string>
+    <string name="stage_files_createfolder_title">Nová složka</string>
+    <string name="stage_files_createfolder_text">Zadejte název pro složku:</string>
+    <string name="stage_files_createfolder_cmdcreate">Vytvořit</string>
+    <string name="stage_files_createfoldercollision_title">Konflikt názvů</string>
+    <string name="stage_files_createfoldercollision_text">Složka s názvem %1$s již existuje!</string>
+    <string name="tool_terrain_smoothwaterheights">Hladká hloubka</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
+    <string name="stage_files_importherefiles">Soubor(y)</string>
+    <string name="stage_files_importherefolders">Složka</string>
+    <string name="draft_mosque10_title">Mešita Hasana II.</string>
+    <string name="draft_mosque10_text">Mešita Hasana II. je mešita v Casablance, největším městě Maroka. Jde o největší fungující mešitu v Africe a zároveň o sedmou největší na světě. Její minaret, měřící 210 metrů, je druhý nejvyšší na světě. Budova byla dokončena roku 1993. Byla navržena Michelem Pinseauem pod vedením krále Hasana II a vybudována řemeslníky ze všech koutů království. Její minaret je 60 pater vysoký a na vrcholu má laser, jehož světlo je směřováno k Mekce. Mešita stojí na výbežku zasahujícím do Atlantského oceánu; věřící se mohou modlit nad jeho hladinou, ale kvůli absenci skleněné podlahy ho neuvidí. Vlastnoručně vyrobené zdi jsou obloženy mramorem a střecha je výsuvná. Na modlitbu může přijít zároveň až 105 000 věřících: 25 000 uvnitř mešity a dalších 80 000 na jejím venkovním areálu.</string>
     <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="dialog_filesrestart_text">Pravděpodobně budete muset restartovat aplikaci, aby vaše změny začaly platit.\n\nChcete ji teď restartovat?</string>
+    <string name="dialog_filesrestart_cmdrestart">Restartovat</string>
+    <string name="dialog_filesrestart_cmdlater">Později</string>
+    <string name="settings_multiroaddecosupport">Podpora pro více ozdob na silnicích</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 
-    <string name="draft_tunnel_management00_title">Road authority</string>
-    <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="draft_tunnel_management00_title_premium">Road authority</string>
-    <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="stage_account_whytoregister">Why to register</string>
-    <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
+    <string name="draft_tunnel_management00_title">Silniční autorita</string>
+    <string name="draft_tunnel_management00_text">Umožňuje budovat tunely bez diamantů, navyšuje příjem z mýtných bran a celkově v tomto městě zlevňuje silnice.</string>
+    <string name="draft_tunnel_management00_title_premium">Silniční autorita</string>
+    <string name="draft_tunnel_management00_text_premium">Navyšuje příjem z mýtných bran a zlevňuje v tomto městě silnice.</string>
+    <string name="stage_account_whytoregister">Proč se registrovat</string>
+    <string name="stage_account_pro_onlinemode">Zúčastněte se v online regionech</string>
+    <string name="stage_account_pro_comment">Pište u pluginů a měst komentáře</string>
+    <string name="stage_account_pro_synchronize">Synchronizace vaší měny a nákupů</string>
+    <string name="stage_account_con_localcities">Lokálně uložená města budou stále uložena pouze lokálně cities will still be stored locally, only</string>
 
 
     <string name="draft_discord_statue02_title">Discord 20k</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
-    <string name="settings_smoothzoom_off">Off</string>
-    <string name="settings_smoothzoom_nearest">Blocky</string>
-    <string name="settings_smoothzoom_linear">Blurry</string>
-    <string name="settings_smoothzoom_fast">Fast</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="draft_discord_statue02_text">Nová socha oslavující milník 20 tisíc členů na našem Discord serveru. Pro tento milník jsme zorganizovali scavenger hunt, jenž dokončil jako první náš skvělý člen KolaKattz</string>
+    <string name="settings_drawpedestrians">Chodci</string>
+    <string name="draft_pedestrian_road00_title">Chodník</string>
+    <string name="draft_pedestrian_road00_text">Jednoduchý chodník ke spojování blízkých budov.</string>
+    <string name="draft_deco_chr_manger00_title">Dřevěné koryto</string>
+    <string name="draft_deco_chr_manger00_text">Nadrozměrný dřevěný box, ze kterého jsou krmeni koně, krávy, a další zvířata.</string>
+    <string name="settings_diagonalroadtool">Stavět silnice diagonálně, pokud podporováno</string>
+    <string name="settings_smoothzoom">Plynulé přiblížení</string>
+    <string name="settings_smoothzoom_off">Vypnuto</string>
+    <string name="settings_smoothzoom_nearest">Kostičkované</string>
+    <string name="settings_smoothzoom_linear">Rozmazané</string>
+    <string name="settings_smoothzoom_fast">Rychlé</string>
+    <string name="settings_regionoriginbackup">Možnost resetovat v nově vygenerovaných regionech města</string>
+    <string name="settings_translateplugins">Překládat pluginy</string>
+    <string name="stage_region_greeter_welcome">Vítejte v</string>
+    <string name="stage_region_greeter_madewith">Hra vytvořena s láskou</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
-    <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="settings_darkbuildtool">Tmavé režim pro menu výstavby</string>
+    <string name="forum_cmdforgot">Zapomněli jste?</string>
+    <string name="store_rating">Hodnocení</string>
+    <string name="store_rating_unrated">NEHODNOCENO</string>
+    <string name="store_rating_verynegative">VELMI ZÁPORNÉ</string>
+    <string name="store_rating_negative">ZÁPORNÉ</string>
+    <string name="store_rating_mixed">SMÍŠENÉ</string>
+    <string name="store_rating_positive">KLADNÉ</string>
+    <string name="store_rating_verypositive">VELMI KLADNÉ</string>
+    <string name="draft_draft_wst_title">Likvidace odpadu</string>
+    <string name="draft_draft_wst_text">Spokojenost s odvozem a likvidací odpadu.</string>
+    <string name="settings_plugin_texture_cache">Ukládat textury pluginů do mezipaměti</string>
+    <string name="draft_tree_spruce00_title">Smrk</string>
+    <string name="draft_tree_spruce00_text">Smrk je jehličnatý vždyzelený strom. Může být nalezen v severních oblastech mírného pásma a v chladných regionech Země. Může být vysoký až 60 metrů.</string>
+    <string name="draft_tree_alder00_title">Olše</string>
+    <string name="draft_tree_alder00_text">Strom, jenž může vyrůst do výšky až 30 metrů a vypadá poněkud obyčejně.</string>
+    <string name="stage_gallery_loadingimages">Načítání obrázků...</string>
+    <string name="ci_neighbor_help">Zde můžete importovat/exportovat elektřinu, vodu, odpad, a těla zemřelých z/do sousedních měst.</string>
+    <string name="ci_budget_help">Zde můžete upravit výši vašich daní a zobrazit vaše měsíční náklady. Bohatší obyvatelé a pracovníci platí více daní. Pokud nastavíte daně příliš vysoko, vaši obyvatelé budou nešťastní a opustí město, což způsobí nízké štěstí z Daní. Doporučujeme nastavit daně do rozmezí mezi 6,5 a 8,0 procenty.</string>
+    <string name="ci_budget_help_nomoney">Zde můžete upravit výši vašich daní a zobrazit vaše měsíční náklady. Bohatší obyvatelé a pracovníci platí více daní. Pokud nastavíte daně příliš vysoko, vaši obyvatelé budou nešťastní a opustí město, což způsobí nízké štěstí z Daní. Doporučujeme nastavit daně do rozmezí mezi 6,5 a 8,0 procenty.</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">Nahrát screenshoty vašich měst do online galerie</string>
+    <string name="comments_locked">Tato sekce komentářů je uzamčena</string>
+    <string name="comments_cmd_lock">Uzamknout</string>
+    <string name="comments_cmd_unlock">Odemknout</string>
+    <string name="store_cat_officialgameextensions">Oficiální rozšíření hry</string>
+    <string name="dialog_screenshot_cmdshare">Sdílet</string>
+    <string name="settings_targetfps">Cílové FPS</string>
+    <string name="settings_targetfps_auto">Automaticky</string>
+    <string name="dialog_nointernetaccess_title">Žádné připojení</string>
+    <string name="dialog_nointernetaccess_text">Jste offline.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Mám to</string>
+    <string name="store_modebestrated">Nejlépe hodncené</string>
+    <string name="dialog_pluginqualityunsure_title">Buďte opatrní</string>
+    <string name="dialog_pluginqualityunsure_text">Plugin, který si chcete stáhnout, nemá zatím příliš mnoho stáhnutí nebo hodnocení. Nemusí tak naplnit vaše očekávání..</string>
+    <string name="dialog_pluginqualityunsure_gotit">Mám toit</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Již nezobrazovat</string>
+    <string name="store_modecertifiedcreators">Schválení tvůrci</string>
+    <string name="ci_rating_help">Zde můžete vidět štěstí vašich obyvatel. Vyšší štěstí do vašeho města přiláká více obyvatel. Klikněte na jakýkoliv řádek k zobrazení odpovídající distribuce ve městě.</string>
+    <string name="ci_rank_help">Současná hodnost města odpovídá úrovni jeho vývoje. K dosáhnutí dalších hodností jsou potřeba městské body, které lze získat navýšením populace nebo vývojem města obecně. Dosažením nové hodnosti odemknete nové budovy.</string>
+    <string name="ci_loan_help">Nemáte již žádné peníze? Zde si můžete vzít půjčku. Pamatujte ale, že časem budete muset půjčku splatit.</string>
+    <string name="ci_health_help">Zůstat zdravým může být ve velkém městě těžké. Abyste své obyvatele udrželi šťastnými a zdravými, budete muset budovat nemocnice.</string>
+    <string name="ci_energy_help">Mnoho budov potebuje ke správné funkci elektřinu. Ujistěte se, že produkujete dostatečné množství energie a že je vše připojeno k elektrické síti.</string>
+    <string name="ci_info_help">Zde jsou nějaké obecné informace o vašem městě.</string>
+    <string name="ci_education_help">Aby si mohli zlepšit životní podmínky, vzdělání je pro vaše obyvatele nutnost. Také s ním můžete do města přilákat vzdělané pracovníky a investor.</string>
+    <string name="ci_airport_help">Tohle je v zásadě kontrolní věž vašich letišť. Můžete kupovat letadla a přiřazovat je k ranvejím.</string>
+    <string name="ci_water_help">Voda je k životu vemi důležitá a vaši obyvatelé nejsou výjimkou. Ujistěte se, že produkujete dostatečné množství vody a že je vše propojené potrubím. Neumisťujte zdroje vody v znečištěných oblastech, nebo vaši obyvatelé onemocní.</string>
+    <string name="ci_statistics_help">Tyto grafy vám mohou pomoct vyhodnotit vývoj města. Použijte šipky napravo k přepínání mezi různými grafy. Zlačítka +/- mohou bít použita k přibližování a oddalování..</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Filtry</string>
+    <string name="draft_cat_streetlights00_title">Pouliční lampy</string>
+    <string name="toolaction_roadautodecorations">Používat ozdoby silnic</string>
+    <string name="draft_biomeMaker_open00_title">Nástroj povrchů</string>
+    <string name="draft_biomeMaker_open00_text">S tímto nástrojem můžete snadno umisťovat různé povrchy.</string>
+    <string name="biomemaker_types">Typy:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">Uložit</string>
+    <string name="control_load">Nahrát</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Uložit předvolbu</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Nahrát předvolbu</string>
+    <string name="draft_biomeMaker_cmdreset">Resetovat předvolbu</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Konfigurace</string>
+    <string name="draft_biomeMaker_ground">Povrchy</string>
+    <string name="draft_biomeMaker_slope">Svahy</string>
+    <string name="draft_biomeMaker_decoration">Dekoace</string>
+    <string name="draft_biomeMaker_atground">Stavět na zemi</string>
+    <string name="draft_biomeMaker_atslope">Stavět na svahu</string>
+    <string name="draft_biomeMaker_useslope">Použít poskytnutý svah</string>
+    <string name="draft_biomeMaker_nogroundtype">Žádný vybraný typ povrchu</string>
+    <string name="draft_biomeMaker_noslopetype">Žádný vybraný typ svahu</string>
+    <string name="draft_biomeMaker_nodecotype">Žádný vybraný typ pro dekorace</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Potvrdit</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Opravdu chcete nahradit %s s tímto setem? Tuto akci nelze vrátit zpět.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Pokračovat</string>
+    <string name="draft_biomeMaker_cmdselect">Vybrat</string>
+    <string name="draft_biomeMaker_toastempty">Toto bylo prázdné</string>
+    <string name="store_recommended_plugin">Doporučené pluginy</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
-    <string name="draft_feature_opera00_title">Opera House</string>
-    <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
-    <string name="draft_opera00_title">Operatic Oasis</string>
-    <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
-    <string name="draft_opera_park00_title">Serene Symphony Park</string>
-    <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="dialog_migratefb_title">Potřebné opatření</string>
+    <string name="dialog_migratefb_text">Zdá se, že jste do hry přihlášeni se svým Facebook účtem. Tento typ přístupu není již podporován.\nPřihlaště se prosím účtem na Fóru Theotown nebo migrujte svá data..</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Nastavení účtu</string>
+    <string name="draft_feature_opera00_title">Operní dům</string>
+    <string name="draft_feature_opera00_text">Vypusťte do města magii kultury s naším balíčkem Cultural Delight Bundle! Zažijte velkolepost Operního domu, doprovázeným poklidným parkem a okouzlující fontánou. Pozvedněte atmosféru svého města a inspirujte své obyvatele s harmonickou směsí hudby, přírody a umělecké přitažlivosta. Upgradujte teď a nechte své město zářit jako kulturní mistrovské dílo!</string>
+    <string name="draft_opera00_title">Opera Melody Manor</string>
+    <string name="draft_opera00_text">Vkročte do Melody Manor, srdce kulturní scény vašeho města! Tento ohromující Operní dům přidává do vaše metropole dotek elegance a  jemnosti. Dívejte se, jak ovlivňuje vaše obyvatelem a proměňuje je ve vytříbené znalce umění. Nechte harmonickou atmosféru proudit a smích stoupat!</string>
+    <string name="draft_opera_park00_title">Park Serene Symphony</string>
+    <string name="draft_opera_park00_text">Umísťený hned vedle Operního domu, Park Serene Symphony je okouzlujícím místem kde přiroda tancuje do melodií opery. Odpočiňte si v jeho svěžích, zelených prostorách, užijte si improvizovaná představení a nechte harmonickou směs kultury a přírody omladit vaši duši.</string>
+    <string name="stage_comment_plugin_acquirefirst">Nejdříve tento plugin získejte</string>
 
 
     <string name="draft_feature_dsa00_title">DSA</string>
-    <string name="draft_feature_dsa00_text">This integration adds better supply systems, few new service cars, a new road which is faster and is cheaper, a new disaster, DSA flags, new buildings, a lot of events, a space dimension to explore, new methods to earn money and much more.</string>
-    <string name="draft_dsa_category00_title">Agency</string>
-    <string name="draft_dsa_space_category00_title">Space Base</string>
+    <string name="draft_feature_dsa00_text">Tato integrace přidává lepší zásobovací systémy, několik nových služebních vozidel, nový rychlejší a levnější typ silnice, nové katastrofy, vlajky DSA, nové budovy, mnoho událostí, vesmírnou dimenzi k prozkoumání, nové způsoby k získání peněz a mnohem více.</string>
+    <string name="draft_dsa_category00_title">Agentura</string>
+    <string name="draft_dsa_space_category00_title">Vesmírná základna</string>
     <string name="draft_dsadevcat_title">DSA Debug</string>
-    <string name="draft_dsa_zone_title">DSA zone</string>
-    <string name="draft_dsa_zone_text">Zone to declare DSA territory in the city.</string>
-    <string name="draft_dsaroad_title">Speedroad</string>
-    <string name="draft_dsaroad_text">Faster than normal road designed by DSA.</string>
-    <string name="draft_dsa_ultra_road00_title">DSA MK3.2 road</string>
-    <string name="draft_dsa_ultra_road00_text">Insanely speedy road designed by DSA.</string>
-    <string name="draft_dsahq_title">DSA headquarters</string>
-    <string name="draft_dsahq_text">The headquarters for all DSA operations in the area.</string>
-    <string name="draft_dsahqupHW_title">Establish ESD</string>
-    <string name="draft_dsahqupHW_text">Establishes DSA department for emergency services which increases public safety by dispatching special teams.</string>
-    <string name="draft_dsahqupAR_title">Establish RD</string>
-    <string name="draft_dsahqupAR_text">Establishes DSA department of research which overlooks research centers and bases in the area.</string>
-    <string name="draft_dsahqupMS_title">Establish RMD</string>
-    <string name="draft_dsahqupMS_text">Establishes DSA department of resource management which manages resource gathering in the area.</string>
-    <string name="draft_dsa_outpost00_title">DSA Office</string>
-    <string name="draft_dsa_outpost00_text">Local DSA office with most qualified representatives.</string>
-    <string name="draft_tool_disaster_super_nuke00_title">„X-treme“ ICBM</string>
-    <string name="draft_tool_disaster_super_nuke00_text">DSA\'s most powerful ICBM capable of destroy anything that comes into contact with it.</string>
-    <string name="draft_tool_disaster_super_nuke00_cmd">Let\'s test it</string>
-    <string name="draft_dsa_icbm_marker_title">ICBM flare</string>
-    <string name="draft_dsa_icbm_marker_text">A flare used to mark the target for „X-treme“ ICBM</string>
-    <string name="draft_dsaicbmarmed_title">Prepared Silo</string>
-    <string name="draft_dsaicbmarmed_text">DSA\'s missile silo prepared to launch „X-treme“ ICBM.</string>
-    <string name="draft_dsa_space_command00_title">Space command</string>
-    <string name="draft_dsa_space_command00_text">Building responsible for all local DSA space operations.</string>
-    <string name="draft_dsaresearch_title">Research center</string>
-    <string name="draft_dsaresearch_text">The home for all DSA\'s advanced technologies approved by the executive council of DSA.</string>
-    <string name="draft_dsa_research00_title">Advanced supplies</string>
-    <string name="draft_dsa_research00_text">Research new experimental advanced supply systems.</string>
-    <string name="draft_dsa_research01_title">Containment</string>
-    <string name="draft_dsa_research01_text">Research for ways to contain organisms and particles.</string>
-    <string name="draft_dsa_research02_title">Advanced rocketry</string>
-    <string name="draft_dsa_research02_text">Research new rocket technology to explore and colonise other space bodies in the universe.</string>
-    <string name="draft_dsa_research03_title">Futuristic technologies</string>
-    <string name="draft_dsa_research03_text">Research mind and physics bending technologies.</string>
-    <string name="draft_dsaclockstore_title">Inconspicuous clock store</string>
-    <string name="draft_dsaclockstore_text">A totally inconspicuous place to purchase your clocks.</string>
-    <string name="draft_dsa_deco00_title">DSA decoration</string>
-    <string name="draft_dsa_deco00_text">A decoration for your DSA base.</string>
-    <string name="draft_dsa_award00_title">A rock</string>
-    <string name="draft_dsa_award00_text">Now where did this rock come from?</string>
-    <string name="draft_dsa_park00_title">Akial square</string>
-    <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
-    <string name="draft_dsadrill_text">Used for gathering valuable resources which are sold for a profit, however be aware of it having ability to cause earthquakes.</string>
-    <string name="draft_dsadrill01_title">Laser upgrade</string>
-    <string name="draft_dsadrill01_text">Upgrade the laser to be stronger and gather resources faster.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.</string>
-    <string name="draft_dsadrill02_title">Efficiency upgrade</string>
-    <string name="draft_dsadrill02_text">Introduce a lot of optimisations to increase the power efficiency of the station.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Stability upgrade</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Upgrade the station to gather resources without interfering with the enviroment.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.</string>
-    <string name="draft_dsahouse00_title">CEO\'s house</string>
-    <string name="draft_dsahouse00_text">The CEO of DSA resides here and ensures DSA to do it\'s job.</string>
-    <string name="draft_dsahouse01_title">JustAnyone\'s mansion</string>
-    <string name="draft_dsahouse01_text">A mansion of DSA\'s leader himself.</string>
-    <string name="draft_dsa_ja_mansion_template00_title">Cheese</string>
-    <string name="draft_dsa_ja_mansion_template00_text">The world class cheese made for CEO of DSA.</string>
-    <string name="draft_ICBMarm_title">Arm „X-treme“</string>
-    <string name="draft_ICBMarm_text">Press this to arm this intercontinental ballistic missile.</string>
-    <string name="draft_dsa_icbm_req_text">Requires armed ICBM</string>
-    <string name="draft_prison00_title">Prison</string>
-    <string name="draft_prison00_text">A harsh place designed to keep in all evil-doers.</string>
-    <string name="draft_prison_upgrade00_title">Literacy programme</string>
-    <string name="draft_prison_upgrade00_text">Teach prisoners the basics of things lowering the chance of them becoming criminals again.</string>
-    <string name="draft_dsacommand_requirement">Need: DSA headquarters</string>
-    <string name="draft_dsaRD_requirement">Need: Research department</string>
-    <string name="draft_dsaRMD_requirement">Need: RMD department</string>
-    <string name="draft_dsaSR_requirement">Need: Advanced supply research</string>
-    <string name="draft_dsaCR_requirement">Need: Containment research</string>
-    <string name="draft_dsaARR_requirement">Need: Advanced rocketry research</string>
-    <string name="draft_dsaFTR_requirement">Need: Futuristic technology research</string>
-    <string name="draft_dsarocketnotready_requirement">Rocket is not fully supplied yet</string>
-    <string name="draft_dsarocketready_requirement">Rocket is ready for launch</string>
-    <string name="draft_dsarockettestundone_requirement">Previous tests are incomplete</string>
-    <string name="draft_dsarockettestdone_requirement">Previous tests are done</string>
-    <string name="draft_dsarocketfinalundone_requirement">Tests are incomplete</string>
-    <string name="draft_dsarocketfinaldone_requirement">Rocket tests are done</string>
-    <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
-    <string name="draft_dsaHELIUM_requirement">Need: Helium 3 found in space</string>
-    <string name="draft_dsaDYSON_requirement">Need: Dyson sphere built in space</string>
-    <string name="draft_dsaLORE10_requirement">Help the giant pickle on the moon</string>
-    <string name="draft_dsapower00_title">Fusion power plant</string>
-    <string name="draft_dsapower00_text">Energy from fusion is proven to be more efficient and cleaner than other energy, but it costs more in return.</string>
-    <string name="draft_dsapower01_title">Microwave antenna</string>
-    <string name="draft_dsapower01_text">Antenna used for transmitting power from Dyson sphere back to Theonia using microwave radio waves.\n\nNote: the outputted power is at very high voltage.</string>
-    <string name="draft_dsawater00_title">Molecular water plant</string>
-    <string name="draft_dsawater00_text">Produces water from synthesis reaction of hydrogen and oxygen.</string>
-    <string name="draft_dsaicbmpad_title">ICBM launch silo</string>
-    <string name="draft_dsaicbmpad_text">A missile launch silo for DSA\'s greatest intercontinental ballistic missiles ever created.</string>
-    <string name="draft_dsa_dsaicbmpad_req2_text">Only one per city</string>
-    <string name="draft_dsacontainmentfacility_title">Containment facility</string>
-    <string name="draft_dsacontainmentfacility_text">A BSL-4 containment facility containing most dangerous substances known to man including the infamous poccolovirus.</string>
-    <string name="draft_dsawalls_title">Pollution walls</string>
-    <string name="draft_dsawalls_text">Offers noise and pollution protection for your citizens.</string>
-    <string name="draft_dsacontainingwalls_title">Containment walls</string>
-    <string name="draft_dsacontainingwalls_text">Indestructible walls designed to hold destructive substances at bay.</string>
+    <string name="draft_dsa_zone_title">DSA zóna</string>
+    <string name="draft_dsa_zone_text">Zóna k deklaraci areálu DSA ve vašem městě.</string>
+    <string name="draft_dsaroad_title">Rychlosilnice</string>
+    <string name="draft_dsaroad_text">Silnice od DSA, rychlejší než normální cesty.</string>
+    <string name="draft_dsa_ultra_road00_title">Silnice DSA MK3.2</string>
+    <string name="draft_dsa_ultra_road00_text">Neuvěřitelně rychlá silnice od DSA.</string>
+    <string name="draft_dsahq_title">Ředitelství DSA</string>
+    <string name="draft_dsahq_text">Ředitelství všech operací DSA v oblasti.</string>
+    <string name="draft_dsahqupHW_title">Zřídit ESD</string>
+    <string name="draft_dsahqupHW_text">Zřídí DSA oddělení pohotovostních služeb, které navýší veřejnou bezpečnost vysíláním speciálních týmů do terénu.</string>
+    <string name="draft_dsahqupAR_title">Zřídit RD</string>
+    <string name="draft_dsahqupAR_text">Zřídí DSA oddělení výzkumu, které je zaměřené na řízení výzkumných center a základen v oblasti.</string>
+    <string name="draft_dsahqupMS_title">Zřídit RMD</string>
+    <string name="draft_dsahqupMS_text">Zřídí DSA oddělení správy zdrojů, které řídí extrakci přirodních zdrojů v oblasti.</string>
+    <string name="draft_dsa_outpost00_title">Kancelář DSA</string>
+    <string name="draft_dsa_outpost00_text">Místní kancelář DSA s nejkvalifikovanějšími zástupci.</string>
+    <string name="draft_tool_disaster_super_nuke00_title">ICBM „X-treme“</string>
+    <string name="draft_tool_disaster_super_nuke00_text">Nejsilnější mezikontinentální balistická střela, kterou DSA vlastní, schopná destrukce čehokoliv, čeho se dotkne.</string>
+    <string name="draft_tool_disaster_super_nuke00_cmd">Pojďme ji otestovat!</string>
+    <string name="draft_dsa_icbm_marker_title">ICBM světlice</string>
+    <string name="draft_dsa_icbm_marker_text">Světlice používaná k označení cíle pro ICBM „X-treme“.</string>
+    <string name="draft_dsaicbmarmed_title">Připravené silo</string>
+    <string name="draft_dsaicbmarmed_text">Raketové silo DSA připravené k vystřelení ICBM „X-treme“.</string>
+    <string name="draft_dsa_space_command00_title">Vesmírné velení</string>
+    <string name="draft_dsa_space_command00_text">Budova zodpovědná za všechny místní aktivity DSA spojené s vesmírem.</string>
+    <string name="draft_dsaresearch_title">Výzkumné centrum</string>
+    <string name="draft_dsaresearch_text">Domov všech pokročilých technologií DSA, schválených výkonnou radou agentury.</string>
+    <string name="draft_dsa_research00_title">Pokročilé zásobování</string>
+    <string name="draft_dsa_research00_text">Vyzkoumejte nové pokročilé zásobovací systémy.</string>
+    <string name="draft_dsa_research01_title">Kontejnment</string>
+    <string name="draft_dsa_research01_text">Vyzkoumejte způsoby, jak zabránit šíření organismů a částic.</string>
+    <string name="draft_dsa_research02_title">Pokročilé rakety</string>
+    <string name="draft_dsa_research02_text">Vyzkoumejte nové technologie pro rakety a kolonizujte ostatní vesmírná tělesa ve vesmíru.</string>
+    <string name="draft_dsa_research03_title">Futuristické technologie</string>
+    <string name="draft_dsa_research03_text">Vyzkoumejte technologie překonávající limity lidského chápání a fyziky.</string>
+    <string name="draft_dsaclockstore_title">Nenápadný obchod s hodinami</string>
+    <string name="draft_dsaclockstore_text">Naprosto normální a nenápadné místo k nákupu nových hodin.</string>
+    <string name="draft_dsa_deco00_title">Dekorace DSA</string>
+    <string name="draft_dsa_deco00_text">Dekorace pro vaši základnu DSA.</string>
+    <string name="draft_dsa_award00_title">Balvan</string>
+    <string name="draft_dsa_award00_text">Odkud tento balvan přišel?</string>
+    <string name="draft_dsa_park00_title">Náměstí Akial</string>
+    <string name="draft_dsa_park00_text">Pocta prvnímu zvířeti, které bylo kdy posláno na oběžnou dráhu Země.</string>
+    <string name="draft_dsadrill_text">Používána ke sběru cenných surovin, které jsou následovně výhodně prodávány. Buďte si vědomi její schopnosti vyvolat zemětřesení.</string>
+    <string name="draft_dsadrill01_title">Vylepšení laseru</string>
+    <string name="draft_dsadrill01_text">Vylepšete laser, aby byl silnější a sbíral suroviny rychleji.\n\nJe povoleno pouze jedno vylepšení. Stará vylepšení budou odstraněna.</string>
+    <string name="draft_dsadrill02_title">Optimalizace</string>
+    <string name="draft_dsadrill02_text">Optimalizujte systémy ke snížení potřebné energie, kterou stanice potřebuje.\n\nJe povoleno pouze jedno vylepšení. Stará vylepšení budou odstraněna.</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_title">Vylepšení stability</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Vylepšete stanici tak, aby bylo odstraněno riziko zemětřesení.\n\nJe povoleno pouze jedno vylepšení. Stará vylepšení budou odstraněna.</string>
+    <string name="draft_dsahouse00_title">Dům ředitele</string>
+    <string name="draft_dsahouse00_text">Zde žije ředitel DSA a ujišťuje se, že agentura dělá svou práci.</string>
+    <string name="draft_dsahouse01_title">Vila JustAnyone</string>
+    <string name="draft_dsahouse01_text">Vila samotného velitele DSA, JustAnyone.</string>
+    <string name="draft_dsa_ja_mansion_template00_title">Sýr</string>
+    <string name="draft_dsa_ja_mansion_template00_text">Sýr světové kvality, vytvořený pro ředitele DSA.</string>
+    <string name="draft_ICBMarm_title">Spoušť „X-treme“</string>
+    <string name="draft_ICBMarm_text">Stiskněte tuto spoušť ke spuštění balistické střely „X-treme“.</string>
+    <string name="draft_dsa_icbm_req_text">Vyžaduje připravenou střelu ICBM</string>
+    <string name="draft_prison00_title">Věznice</string>
+    <string name="draft_prison00_text">Drsné místo určené k zadržení všech darebáků.</string>
+    <string name="draft_prison_upgrade00_title">Program gramotnosti</string>
+    <string name="draft_prison_upgrade00_text">Program určený ke vzdělávání vězňů, který snižuje šanci, že se opět stanou kriminálníky.</string>
+    <string name="draft_dsacommand_requirement">Potřeba: Ředitelství DSA</string>
+    <string name="draft_dsaRD_requirement">Potřeba: Oddělení výzkumu RD</string>
+    <string name="draft_dsaRMD_requirement">Potřeba: Oddělení RMD</string>
+    <string name="draft_dsaSR_requirement">Potřeba: dokončený výzkum Pokročilé zásobování</string>
+    <string name="draft_dsaCR_requirement">Potřeba: dokončený výzkum Kontejnment</string>
+    <string name="draft_dsaARR_requirement">Potřeba: dokončený výzkum Pokročilých raket</string>
+    <string name="draft_dsaFTR_requirement">Potřeba: dokočený výzkum Futuristických technologií</string>
+    <string name="draft_dsarocketnotready_requirement">Raketa není zatím plně zásobena</string>
+    <string name="draft_dsarocketready_requirement">Raketa je připravena k odletu</string>
+    <string name="draft_dsarockettestundone_requirement">Předchozí testy nedokončeny</string>
+    <string name="draft_dsarockettestdone_requirement">Předchozí testy dokončeny</string>
+    <string name="draft_dsarocketfinalundone_requirement">Testy rakety nedokončeny</string>
+    <string name="draft_dsarocketfinaldone_requirement">Testy rakety dokončeny</string>
+    <string name="draft_rocket_akial_requirement">Potřeba: Test se zvířetem</string>
+    <string name="draft_dsaHELIUM_requirement">Potřeba: Nález helia 3 ve vesmíru</string>
+    <string name="draft_dsaDYSON_requirement">Potřeba: Postavena Dysonova sféra</string>
+    <string name="draft_dsaLORE10_requirement">Pomozte Všemohoucí okurce na Měsíci</string>
+    <string name="draft_dsapower00_title">Fúzní elektrárna</string>
+    <string name="draft_dsapower00_text">Jaderná fúze je efektivnější a ekologičtější než jakýkoliv jiný zdroj energie, ale na druhou stranu je drahá.</string>
+    <string name="draft_dsapower01_title">Mikrovlnná anténa</string>
+    <string name="draft_dsapower01_text">Anténa používaná k přenosu energie z Dysonovy sféry zpět do Theonie za použití mikrovlnných rádiových vln.\n\nPoznámka: výstupová energie má velmi vysoké napětí.</string>
+    <string name="draft_dsawater00_title">Molekulární vodárna</string>
+    <string name="draft_dsawater00_text">Produkuje vodu syntézou vodíku a kyslíku.</string>
+    <string name="draft_dsaicbmpad_title">Raketové silo</string>
+    <string name="draft_dsaicbmpad_text">Raketové silo pro největší balistickou mezikontinentální střelu od DSA, jaká byla kdy vyrobena.</string>
+    <string name="draft_dsa_dsaicbmpad_req2_text">Pouze jedno na město</string>
+    <string name="draft_dsacontainmentfacility_title">Kontejnmentové zařízení</string>
+    <string name="draft_dsacontainmentfacility_text">Kontejnmentové zařízení BSL-4, které izoluje ty nejnebezpečnější látky známé člověku, včetně nechvalně proslulého poccolonvirusu.</string>
+    <string name="draft_dsawalls_title">Bariéry proti znečištění</string>
+    <string name="draft_dsawalls_text">Blokují pro vaše obyvatele hluk a znečištění.</string>
+    <string name="draft_dsacontainingwalls_title">Kontejnmentové zdi</string>
+    <string name="draft_dsacontainingwalls_text">Nezničitené zdi určené k ochraně okolí před destruktivními látkami a výbušninami.</string>
     <string name="draft_dsa_tree_destroyer_title">Treecutter 42-069</string>
-    <string name="draft_dsa_tree_destroyer_text">An excellent machine used for cutting trees for thrice the cash.</string>
-    <string name="draft_tool_disaster_blackhole_title">Black hole</string>
-    <string name="draft_tool_disaster_blackhole_text">A special disaster for hackers.</string>
-    <string name="draft_tool_disaster_blackhole_cmd">Vacuum it up</string>
-    <string name="draft_blackhole_dsa_title">Event horizon</string>
-    <string name="draft_blackhole_dsa_text">The boundary at which the gravitational pull of a massive object becomes so great as to make escape impossible.</string>
-    <string name="draft_blackhole_dsa_static_title">Singularity</string>
-    <string name="draft_blackhole_dsa_static_text">A region in spacetime in which tidal gravitational forces become infinite.</string>
+    <string name="draft_dsa_tree_destroyer_text">Excelentní stroj určen pro kácení stromů za účelem profitu.</string>
+    <string name="draft_tool_disaster_blackhole_title">Černá díra</string>
+    <string name="draft_tool_disaster_blackhole_text">Speciální katastrofa pro hackery.</string>
+    <string name="draft_tool_disaster_blackhole_cmd">Vše vysajte</string>
+    <string name="draft_blackhole_dsa_title">Horizont událostí</string>
+    <string name="draft_blackhole_dsa_text">Hranice, za kterou je gravitační síla masivního objektu tak silné, že ani světlo nemůže uniknout.</string>
+    <string name="draft_blackhole_dsa_static_title">Singularita</string>
+    <string name="draft_blackhole_dsa_static_text">Region v časoprostoru, kde se tidální gravitační vlny stávají nekonečnými.</string>
     <string name="draft_tool_disaster_gliu44_title">Geliumium</string>
-    <string name="draft_tool_disaster_gliu44_text">A virus of unknown origin which exhibits insane destructive properties.</string>
-    <string name="draft_tool_disaster_gliu44_cmd">Let it spread</string>
+    <string name="draft_tool_disaster_gliu44_text">Virus neznámého původ vykazující neuvěřitelně destruktivní vlastnosti.</string>
+    <string name="draft_tool_disaster_gliu44_cmd">Nechte ho, ať se šíří</string>
     <string name="draft_gliu44_title">Geliumium</string>
-    <string name="draft_gliu44_text">A virus of unknown origin which exhibits insane destructive properties.</string>
-    <string name="draft_gialodathomyle00_title">Gialodathomyle</string>
-    <string name="draft_gialodathomyle00_text">A mutated strain of geliumium which targets the regular virus.</string>
-    <string name="draft_dsa_moon_drillingstation_template00_title">Mining station</string>
-    <string name="draft_dsa_moon_drillingstation_template00_text">Building for gathering and refining local minerals.</string>
-    <string name="draft_dsa_moon_drillingstation_depleted_title">Depleted mining station</string>
-    <string name="draft_dsa_moon_drillingstation_depleted_text">A depleted mining station which no longer serves any purpose</string>
-    <string name="draft_dsa_moon_zone_title">Living zone</string>
-    <string name="draft_dsa_moon_zone_text">Set a living zone for inhabitants of your colony.</string>
-    <string name="draft_dsa_moon_zone_req1_text">Not enough food in storage</string>
-    <string name="draft_picklebparty00_title">Pickled Cake</string>
-    <string name="draft_picklebparty00_text">A cucumber cake in a pickle jar. Don\'t listen to it if it says something.</string>
-    <string name="draft_dsarocket_title">Launch station</string>
-    <string name="draft_dsarocket_text">The place where DSA launches it\'s rockets from.\nRequires road access to industry for supplies.</string>
-    <string name="draft_dsarocket_upg1_title">Rocket test</string>
-    <string name="draft_dsarocket_upg1_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.\nSupplies: ${_dsareadiness}/1000</string>
-    <string name="draft_dsarocket_upg2_title">Animal carriage</string>
-    <string name="draft_dsarocket_upg2_text">Launch a rocket with cat inside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500</string>
-    <string name="draft_dsarocket_upg3_title">Navigation</string>
-    <string name="draft_dsarocket_upg3_text">Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/5000</string>
-    <string name="draft_dsarocket_upg4_title">Sattelites</string>
-    <string name="draft_dsarocket_upg4_text">Launch a rocket containing few sattelites to space to establish a satellite network.\nSupplies: ${_dsareadiness}/7500</string>
-    <string name="draft_dsarocket_upg5_title">Exploration mission</string>
-    <string name="draft_dsarocket_upg5_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.\nSupplies: ${_dsareadiness}/10000</string>
-    <string name="draft_dsarocket_upg6_title">Construct SDI</string>
-    <string name="draft_dsarocket_upg6_text">Launch series of rockets to space to assemble the space defense initiative.\nSupplies: ${_dsareadiness}/15000</string>
-    <string name="draft_Olsken.LobbysCake_title">Lobby\'s Cake</string>
-    <string name="draft_Olsken.LobbysCake_text">A limited edition cake made specifically for Lobby from the community!\nHappy Birthday to Lobby!</string>
-    <string name="draft_dsa_notify00_text">Hello there! I am the CEO of DSA and I will help you to manage all local DSA operations.</string>
-    <string name="draft_dsa_notify01_text">It appears as if the land started shaking!</string>
-    <string name="draft_dsa_notify02_text">Mayor, due to threat of an earthquake we are withdrawing disaster recovery funds.</string>
-    <string name="draft_dsa_notify03_text">Hey mayor, you can build some drills in your city to extract and sell minerals, but they have a small chance of causing an earthquake.</string>
-    <string name="draft_dsa_notify04_text">Mayor, our systems detected an unknown substance which is destroying everything in it\'s path.</string>
-    <string name="draft_dsa_notify05_text">Everyone, prepare for a lift off!</string>
-    <string name="draft_dsa_notify06_text">Hello mayor. I\'ve started building my little house here as you have allowed me to do so.</string>
-    <string name="draft_dsa_notify07_text">This is getting out of hand...Time for protocol „Explosive Stop“.</string>
-    <string name="draft_dsa_notify08_text">Quantum cores are explosive. Didn\'t you know?</string>
-    <string name="draft_dsa_notify09_text">Initiating landing procedure.\nStand by.</string>
-    <string name="draft_dsa_notify10_text">Oh hello there, Mr. Hacker, you wouldn\'t mind a black hole, would ya?</string>
-    <string name="draft__dsa_ask00_text">Mayor, should we invest some money for disaster recovery in case everything goes wrong?</string>
-    <string name="draft__dsa_ask01_text">The rocket has reached the destination.\nWould you like to view it?</string>
-    <string name="draft__dsa_ask02_text">Morning mayor, can I build a house somewhere in your city where I would reside?</string>
-    <string name="draft_dsa_landing_notify00_text">Initiating landing procedures, hang on tight!</string>
-    <string name="draft_dsa_moon_notify00_text">You can exploit visible ore deposits with drilling stations for some income!</string>
-    <string name="draft_dsa_moon_notify01_text">It seems like colonists are starving. Provide them with enough food!</string>
-    <string name="draft_dsa_moon_notify02_text">The ore deposit got depleted!</string>
-    <string name="draft_dsa_moon_notify03_text">Oof, sorry for the rough landing. We had to adapt some tech to work on here.</string>
-    <string name="draft_dsa_moon_notify04_text">As you also probably saw, I\'ve transfered 10 million theons to build a small outpost.</string>
-    <string name="draft_dsa_moon_notify05_text">Please spend the funds wisely as it\'s your only shot at this.</string>
-    <string name="draft_dsa_moon_notify06_text">As for further funding, you may attempt exploiting those ore deposits.</string>
-    <string name="draft_dsa_moon_notify07_text">Anyways, good luck, mayor! Remember, you can always return here by finding the map in your single cities list.</string>
-    <string name="draft_dsa_bear_lua_notify00_text">A big Happy Birthday from me and the community! I hope you have a wonderful day!</string>
-    <string name="draft_dsa_lua_notify00_text">During this space exploration trip, we detected a big enough body to land on.\nConnecting you to the space command...</string>
-    <string name="draft_dsa_lua_notify01_text">This space exploration trip returns nothing of interest.</string>
-    <string name="draft_dsa_lua_notify02_text">Ah, yeah, oof, the rocket is on collision course with earth...HAVE FUN!</string>
-    <string name="draft_dsa_lua_notify03_text">Congratulations mayor, we have established SDI network above this area. It will protect the city from meteorites and UFO invasions.</string>
-    <string name="draft_dsa_lua_notify04_text">Congratulations! We\'ve constructed the greatest our achievement - the Dyson sphere!</string>
-    <string name="draft_dsa_detect_op00_text">That wasn\'t very cash money of you.</string>
-    <string name="draft_moon_auto_deco00_title">Unknown structure</string>
-    <string name="draft_moon_auto_deco00_text">A strange structure with unknown use.</string>
-    <string name="draft_moon_dsa_rocks00_title">Shiny rocks</string>
-    <string name="draft_moon_dsa_rocks00_text">Might have some precious metals inside.</string>
-    <string name="draft_space_shuttle_ja_title">Lander</string>
-    <string name="draft_space_shuttle_ja_text">A vehicle used for landing on other space bodies.</string>
-    <string name="draft_ja_picklehuge01_title">Lord of pickles</string>
-    <string name="draft_ja_picklehuge01_text">Appears to be the overlord of pickles found in this region.</string>
-    <string name="draft_ja_tinypickle00_title">Pickle</string>
-    <string name="draft_ja_tinypickle00_text">Seems like a form of an intelligent life.</string>
-    <string name="draft_moon_artifact_ja00_title">Alien artifact</string>
-    <string name="draft_moon_artifact_ja00_text">Use or purpose of this object is unsure.</string>
-    <string name="draft_dsa_time_machine00_title">Time machine</string>
-    <string name="draft_dsa_time_machine00_text">CLASSIFIED</string>
-    <string name="draft_dsa_moon_command00_title">Space Command</string>
-    <string name="draft_dsa_moon_command00_text">Building commanding all local and space operations in the vacinity.</string>
-    <string name="draft_dsacomingsoon_text">COMING SOON</string>
-    <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
-    <string name="draft_dsa_moon_spaceport_text">Building which is used for easy transportation of goods, materials or people in space.</string>
-    <string name="draft_dsa_moon_sport00_title">Fitness center</string>
-    <string name="draft_dsa_moon_sport00_text">A place for colonists to remain fit and healthy.</string>
-    <string name="draft_dsa_moon_faith00_title">Holy house</string>
-    <string name="draft_dsa_moon_faith00_text">Building for colonist faith and religion.</string>
-    <string name="draft_moon_recycle00_title">Recycling station</string>
-    <string name="draft_moon_recycle00_text">A station where garbage is recycled back into usable objects or materials.</string>
-    <string name="draft_moon_pipe00_title">Water pipes</string>
-    <string name="draft_moon_pipe00_text">Pipes used to transfer water to your local base.</string>
-    <string name="draft_moon_water00_title">Water station</string>
-    <string name="draft_moon_water00_text">Make water out of bodily fluids of colonists or synthesis.</string>
-    <string name="draft_moon_energy00_title">Solar panels</string>
-    <string name="draft_moon_energy00_text">Convert solar energy to power to light up your base.</string>
-    <string name="draft_moon_wire00_title">Power lines</string>
-    <string name="draft_moon_wire00_text">Wires used to transfer electricity underground to your base.</string>
-    <string name="draft_dsa_moon_road00_title">Rover tracks</string>
-    <string name="draft_dsa_moon_road00_text">Reinforced ground tracks for rovers and other vehicles.</string>
-    <string name="draft_dsa_moon_farm_title">Aquaponics</string>
-    <string name="draft_dsa_moon_farm_text">A building with artificial ecosystem designed for food production.</string>
-    <string name="draft_dsa_moon_storage_title">Storage facility</string>
-    <string name="draft_dsa_moon_storage_text">Building where food and other critical supplies are stored.\nContents:\nFood: ${food_storage/10}/${total_food_storage/10}</string>
-    <string name="draft_dsa_helium3_upgrade_title">Export helium 3</string>
-    <string name="draft_dsa_helium3_upgrade_text">Export helium 3 back to Theonia for use in fusion reactors. You\'d export enough Helium 3 for up to ${helium_amount} power plants.</string>
-    <string name="draft_dsa_helium3_upgrade_req_text">Need: Helium 3 mining</string>
-    <string name="draft_dsa_helium3_upgrade_req1_text">Already exported</string>
-    <string name="draft_dsa_dyson_upgrade_title">Dyson sphere</string>
-    <string name="draft_dsa_dyson_upgrade_text">Construct a megastructure around a star which would capture a large percentage of star\'s power output.\nMicrowave antenna will be required to receive power.</string>
-    <string name="draft_dsa_dyson_upgrade_req1_text">Already constructed</string>
-    <string name="draft_dsa_dyson_upgrade_req2_text">Need: ${dyson_progress}/5000 Poccolonum</string>
-    <string name="draft_dsa_moon_drillingstation01_text">Building for gathering and refining Helium 3.</string>
-    <string name="draft_dsa_moon_drillingstation02_text">Building for gathering and refining Genericum.</string>
-    <string name="draft_dsa_moon_drillingstation03_text">Building for gathering and refining Poccolonum.</string>
-    <string name="draft_pidroid_remote_template00_title">Pidroid remote</string>
-    <string name="draft_pidroid_remote_template00_text">Remote used for controlling the Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_text">Build a remote to control the Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_cmd">Control it!</string>
+    <string name="draft_gliu44_textVirus neznámého původ vykazující neuvěřitelně destruktivní vlastnosti.</string>
+    <string name="draft_gialodathomyle00_title">Gialodathomyl</string>
+    <string name="draft_gialodathomyle00_text">Zmutovaný kmen geliumia, jenž cíleně útočí na původní variantu viru.</string>
+    <string name="draft_dsa_moon_drillingstation_template00_title">Těžebná stanice</string>
+    <string name="draft_dsa_moon_drillingstation_template00_text">Budova určen pro těžbu a rafinaci místních minerálů.</string>
+    <string name="draft_dsa_moon_drillingstation_depleted_title">Vyčerpaná těžebná stanice</string>
+    <string name="draft_dsa_moon_drillingstation_depleted_text">Těžebná stanice, která vše ve svém okolí vytěžila a již neslouží žádnému účelu.</string>
+    <string name="draft_dsa_moon_zone_title">Obytná zóna</string>
+    <string name="draft_dsa_moon_zone_text">Umístěte pro obyvatele vaší kolonie obytnou zónu.</string>
+    <string name="draft_dsa_moon_zone_req1_text">Nedostatek jídla na skladě</string>
+    <string name="draft_picklebparty00_title">Zavařený dort</string>
+    <string name="draft_picklebparty00_text">Okurkový dorz zavařený ve sklenici na okurky. Pokud něco řekne, neposlochejte ho.</string>
+    <string name="draft_dsarocket_title">Odpalovací rampa</string>
+    <string name="draft_dsarocket_text">Místo, odkud DSA vypouští do vesmíru své rakety.\nKvůli zásobování vyžaduje silniční spojení k průmyslovým budovám.</string>
+    <string name="draft_dsarocket_upg1_title">Test rakety</string>
+    <string name="draft_dsarocket_upg1_text">Odpalte prázdnou experimentální raketu ke sběru informací a přípravě na další operace a odpaly raket.\nZásoby: ${_dsareadiness}/1000</string>
+    <string name="draft_dsarocket_upg2_title">Test se zvířetem</string>
+    <string name="draft_dsarocket_upg2_text">Odpalte do vesmíru raketu s kočkou pojmenovanou Akial ke sběru vitálních informací.\nZásoby: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg3_title">Navigace</string>
+    <string name="draft_dsarocket_upg3_text">Odpalte do vesmíru raketu s jednou osobou na palubě k provedení navigačních testů.\nZásoby: ${_dsareadiness}/5000</string>
+    <string name="draft_dsarocket_upg4_title">Satelity</string>
+    <string name="draft_dsarocket_upg4_text">Odpalte do vesmíru raketu nesoucí několik satelitů ke zřízení satelitní sítě.\nZásoby: ${_dsareadiness}/7500</string>
+    <string name="draft_dsarocket_upg5_title">Průzkumná mise</string>
+    <string name="draft_dsarocket_upg5_text">Odpalte do vesmíru raketu s cílem najít vhodné místo pro kolonizaci.\nZásoby: ${_dsareadiness}/10000</string>
+    <string name="draft_dsarocket_upg6_title">Postavit SDI</string>
+    <string name="draft_dsarocket_upg6_text">Odpalte do vesmíru sérii několika raket, aby složily systém vesmírné obranné iniciativy (SDI - Space Defense Initiative).\nZásoby: ${_dsareadiness}/15000</string>
+    <string name="draft_Olsken.LobbysCake_title">Lobbyho dort</string>
+    <string name="draft_Olsken.LobbysCake_text">Dort limitované edice vytvořený komunitou specificky pro Lobbyho!\nVšechno nejlepší k narozeninám, Lobby!</string>
+    <string name="draft_dsa_notify00_text">Zdravím! Jsem ředitelem DSA a pomůžu vám spravovat všechny místní operace mé agentury.</string>
+    <string name="draft_dsa_notify01_text">Vypadá to, že se země začala třást!</string>
+    <string name="draft_dsa_notify02_text">Starosto, kvůli hrozbě zemětřesení stahujeme z fondu na obnovu po katastrofách všechny prostředky.</string>
+    <string name="draft_dsa_notify03_text">Starosto, k navýšení měsíčních příjmů vašeho města můžete vybudovat několik těžebních stanic a prodávat minerály, ale je tu jedna nevýhoda, a to malá šance zemětřesení.</string>
+    <string name="draft_dsa_notify04_text">Starosto, naše systémy zaregistrovaly přítimnost nějaké látky, která ničí vše, co jí je v cestě.</string>
+    <string name="draft_dsa_notify05_text">Všichni se připravte na odpal!</string>
+    <string name="draft_dsa_notify06_text">Zdravím, starosto. Začal jsem tu stavět svůj malý příbytek, jak jste mi předtím povolil.</string>
+    <string name="draft_dsa_notify07_text">Tohle se nám vymyká z rukou...Je načase aktivovat protokol „Explosive Stop“.</string>
+    <string name="draft_dsa_notify08_text">Kvantová jádra jsou výbušná. To jste nevěděl?</string>
+    <string name="draft_dsa_notify09_text">Inicializace přistávací procedury.\nVyčkejte....</string>
+    <string name="draft_dsa_notify10_text">Oh, zdravím, pane Hackere. Určitě by vám nevadila malá černá díra, že ne?</string>
+    <string name="draft__dsa_ask00_text">Starosto, měli bychom zainvestovat nějaké peníze do fondu na obnovu po katastrofách pro případ, že se všechno pokazí?</string>
+    <string name="draft__dsa_ask01_text">Raketa dosáhla své destinace.\nChtěli byste se na ni podívat??</string>
+    <string name="draft__dsa_ask02_text">Dobré ráno, starosto. Mohl bych si někde ve vašem městě postavit dům, ve kterém bych bydlel?</string>
+    <string name="draft_dsa_landing_notify00_text">Inicializace přistávacích procedur, vydržte!</string>
+    <string name="draft_dsa_moon_notify00_text">S pomocí těžebních stanic můžete pro nějaké peníze navíc z viditelných ložisek rud těžit minerály!</string>
+    <string name="draft_dsa_moon_notify01_text">Zdá se, že kolonisté hladoví. Musíte jim poskytnout dostatek jídla!</string>
+    <string name="draft_dsa_moon_notify02_text">Ložisko rudy bylo vyčerpáno!</string>
+    <string name="draft_dsa_moon_notify03_text">Uf, omlouvám se za tvrdé přistání. Museli jsme k práci na tomto místě ještě adaptovat nějaké naše technologie.</string>
+    <string name="draft_dsa_moon_notify04_text">Jak jste si asi také všiml, převedl jsem vám na účet 10 milionů theonů, abyste mohl vybudovat malou kolonii.</string>
+    <string name="draft_dsa_moon_notify05_text">Utraťte je moudře, protože tohle je váš jediný pokus.</string>
+    <string name="draft_dsa_moon_notify06_text">A co se dalších financí týče, můžete se pokusit těžit tyto ložiska minerálů.</string>
+    <string name="draft_dsa_moon_notify07_text">Každopádně, hodně štěstí, starosto! Pamatujte, vždy se sem můžete vrátit naeznutím této mapy v menu vašich jednotlivých měst.</string>
+    <string name="draft_dsa_bear_lua_notify00_text">Všechno nejlepší ode mě a komunity! Doufáme, že budeš mít skvělý den!</string>
+    <string name="draft_dsa_lua_notify00_text">Během této průzkumné mise jsme detekovali dost velké těleso k přistání.\nPřipojuji vás k vesmírnému velení...</string>
+    <string name="draft_dsa_lua_notify01_text">Tato průzkumná mise neobjevila nic zajímavého.</string>
+    <string name="draft_dsa_lua_notify02_text">Ah, ano...ehm, raketa je na kolizním kurzu se zemí...UŽIJTE SI TO!</string>
+    <string name="draft_dsa_lua_notify03_text">Gratuluji starosto, nad touto oblastí se podařilo sestrojit systém SDI, který bude město bránit před meteority a invazemi UFO.</string>
+    <string name="draft_dsa_lua_notify04_text">Gratuluji! Vybudovali jsme naše největší dílo - Dysonovu sféru!</string>
+    <string name="draft_dsa_detect_op00_text">To od vás nebylo z finanční stránky věcí příliš moudré.</string>
+    <string name="draft_moon_auto_deco00_title">Neznámá struktura</string>
+    <string name="draft_moon_auto_deco00_text">Zvláštní struktura s neznámým využitím.</string>
+    <string name="draft_moon_dsa_rocks00_title">Lesklé balvany</string>
+    <string name="draft_moon_dsa_rocks00_text">Možná mají v sobě nějaké vzácné kovy.</string>
+    <string name="draft_space_shuttle_ja_title">Přistávací modul</string>
+    <string name="draft_space_shuttle_ja_text">Vozidlo používané k přistávání na ostatních vesmírných tělesech..</string>
+    <string name="draft_ja_picklehuge01_title">Všemocná okurka</string>
+    <string name="draft_ja_picklehuge01_text">Zdá se, že jde o vládce okurek v tomto regionu.</string>
+    <string name="draft_ja_tinypickle00_title">Okurka</string>
+    <string name="draft_ja_tinypickle00_text">Jde pravděpodobně o inteligentní formu života.</string>
+    <string name="draft_moon_artifact_ja00_title">Mimozemský artefakt</string>
+    <string name="draft_moon_artifact_ja00_text">Účel tohoto objektu je nejistý.</string>
+    <string name="draft_dsa_time_machine00_title">Stroj času</string>
+    <string name="draft_dsa_time_machine00_text">KLASIFIKOVÁNO</string>
+    <string name="draft_dsa_moon_command00_title">Vesmírné velení</string>
+    <string name="draft_dsa_moon_command00_text">Budova řídící všechny místní a vesmírné operace v okolí.</string>
+    <string name="draft_dsacomingsoon_text">JIŽ BRZY</string>
+    <string name="draft_dsa_moon_spaceport_title">Kosmodrom</string>
+    <string name="draft_dsa_moon_spaceport_text">Budova používaná ke snadné přepravě zásob, materiálů a lidí z a do vesmíru.</string>
+    <string name="draft_dsa_moon_sport00_title">Fitness centrum</string>
+    <string name="draft_dsa_moon_sport00_text">Místo, kde si kolonisté mohou udržet dobnrou fyzickou kondici a zůstat tak zdraví.</string>
+    <string name="draft_dsa_moon_faith00_title">Svatý dům</string>
+    <string name="draft_dsa_moon_faith00_text">Budova pro nábožensky založené kolonisty.</string>
+    <string name="draft_moon_recycle00_title">Recyklační stanice</string>
+    <string name="draft_moon_recycle00_text">Stanice, kde je odpad recyklován spět do použitelných objektů či materiálů.</string>
+    <string name="draft_moon_pipe00_title">Potrubí</string>
+    <string name="draft_moon_pipe00_text">Potrubí používané k přepravě vody ve vaší základně.</string>
+    <string name="draft_moon_water00_title">Vodní stanice</string>
+    <string name="draft_moon_water00_text">Vytváří vodu syntézou nebo recyklací z tělesných tekutin kolonistů.</string>
+    <string name="draft_moon_energy00_title">Solární panely</string>
+    <string name="draft_moon_energy00_text">Převádí solární energii na elektřinu, kterou můžete využít pro pohánění vaší základny.</string>
+    <string name="draft_moon_wire00_title">Elektrické dráty</string>
+    <string name="draft_moon_wire00_text">Dráty používané k podzemnímu přenosu energie ve vaší základně.</string>
+    <string name="draft_dsa_moon_road00_title">Cesta pro rovery</string>
+    <string name="draft_dsa_moon_road00_text">Zpevněná cesta pro rovery i ostatní vozidla.</string>
+    <string name="draft_dsa_moon_farm_title">Hydroponická stanice</string>
+    <string name="draft_dsa_moon_farm_text">Budova s umělým ekosystémem určeným pro produkci jídla.</string>
+    <string name="draft_dsa_moon_storage_title">Skladiště</string>
+    <string name="draft_dsa_moon_storage_text">Budova, kde je skladováno jídlo i další kriticky důležité zásoby.\nObsah:\nJídlo: ${food_storage/10}/${total_food_storage/10}</string>
+    <string name="draft_dsa_helium3_upgrade_title">Exportovat helium 3</string>
+    <string name="draft_dsa_helium3_upgrade_text">Exportujte zpět do Theonie helium 3, používané ve fúzních reaktorech. Máte dost helia na provoz až ${helium_amount} elektráren.</string>
+    <string name="draft_dsa_helium3_upgrade_req_text">Potřeba: Těžba helia 3</string>
+    <string name="draft_dsa_helium3_upgrade_req1_text">Již exportováno</string>
+    <string name="draft_dsa_dyson_upgrade_title">Dysonova sféra</string>
+    <string name="draft_dsa_dyson_upgrade_text">Vybudujte kolem hvězdy megastrukturu, která by zachytila vysoké procento její energie.\nK zisku energie bude potřeba ještě mikrovlnná anténa.</string>
+    <string name="draft_dsa_dyson_upgrade_req1_text">Již postaveno</string>
+    <string name="draft_dsa_dyson_upgrade_req2_text">Potřeba: ${dyson_progress}/5000 Poccolonum</string>
+    <string name="draft_dsa_moon_drillingstation01_text">Budova pro těžbu a rafinaci helia 3.</string>
+    <string name="draft_dsa_moon_drillingstation02_text">Budova pro těžbu a rafinaci Generica.</string>
+    <string name="draft_dsa_moon_drillingstation03_text">Budova pro těžbu a rafinaci Poccolonuma.</string>
+    <string name="draft_pidroid_remote_template00_title">Dálkové ovládání Pidroid</string>
+    <string name="draft_pidroid_remote_template00_text">Ovládání používané na kontorlu Pidroida.</string>
+    <string name="draft_tool_pidroid_remote00_text">Postavte dálkové ovládání na kontrolu Pidroida.</string>
+    <string name="draft_tool_pidroid_remote00_cmd">Ovládejte ho!</string>
     <string name="draft_pidroid00_title">Pidroid</string>
-    <string name="draft_pidroid00_text">One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.</string>
-    <string name="draft_picklebparty00_text00_text">Happy Birthday Pickle!</string>
-    <string name="draft_picklebparty00_text01_text">Pickles age like wine</string>
-    <string name="draft_picklebparty00_text02_text">You\'re never too old for a pickle</string>
-    <string name="draft_picklebparty00_text03_text">Congrats, now eat you-flavoured cake</string>
-    <string name="draft_picklebparty00_text04_text">So many candles</string>
-    <string name="draft_picklebparty00_text05_text">Nice</string>
-    <string name="draft_picklebparty00_text06_text">Oof</string>
+    <string name="draft_pidroid00_text">Jeden z nejvíce inteligentních a pokročilých robotů, co byli kdy vyrobeni. Je poháněn jaderou energií.\n\nPOZNÁMKA: kvůli bezpečnostním obavám byla z tohoto modelu odstraněna umělá inteligence.</string>
+    <string name="draft_picklebparty00_text00_text">Všechno nejlepší, okurko!</string>
+    <string name="draft_picklebparty00_text01_text">Okurky stárnou jako dobré víno</string>
+    <string name="draft_picklebparty00_text02_text">Pro okurnu nejste nikdy moc staří</string>
+    <string name="draft_picklebparty00_text03_text">Gratuluji, teď sněz dort s příchutí tebe!</string>
+    <string name="draft_picklebparty00_text04_text">Tolik svíček</string>
+    <string name="draft_picklebparty00_text05_text">Skvělé</string>
+    <string name="draft_picklebparty00_text06_text">Uf</string>
     <string name="draft_picklebparty00_text07_text">Woah</string>
-    <string name="draft_picklebparty00_text08_text">Not knowing what I could do</string>
-    <string name="draft_picklebparty00_opentext00_text">Open me...</string>
-    <string name="draft_picklebparty00_opentext01_text">Please</string>
-    <string name="draft_picklebparty00_opentext02_text">Get me out of here</string>
-    <string name="draft_picklebparty00_opentext03_text">Do it...</string>
-    <string name="draft_picklebparty00_opentext04_text">I\'m trapped</string>
-    <string name="draft_ranoutofmoney_notify00">I see you\'ve ran out of money! I\'m sending the last remaining allocated funds for this project. Spend them wisely!</string>
-    <string name="draft_moon_artifact_upgrade00_title">Investigate the artifact</string>
-    <string name="draft_moon_artifact_upgrade00_text">Investigate the artifact and send the collected data back to HQ for a monetary reward.</string>
-    <string name="draft_space_tree00_title">Cyber trees</string>
-    <string name="draft_space_tree00_text">Some fake trees to keep the colonists happy.</string>
-    <string name="draft_dsa_moon_pickle_rocket00_title">Pickle rocket</string>
-    <string name="draft_dsa_moon_pickle_rocket00_text">A huge rocket specifically designed to fit a lot pickles inside it.</string>
-    <string name="moon_region_unsupported">Unfortunately, moon regions are not yet supported. The city will now close!</string>
-    <string name="draft_space_storyline_cancel00">I\'m sorry, I am unable to tell you anything of interest!</string>
-    <string name="draft_space_storyline_busy00">I\'m sorry, but I have nothing for you at this time.</string>
-    <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
-    <string name="draft_space_storyline_intro01">Please do not be afraid! We came here with peace.</string>
-    <string name="draft_space_storyline_intro02">Well, crash landed would be more fitting.</string>
-    <string name="draft_space_storyline_intro03">We trust you won\'t hurt us. Do we trust you right?</string>
-    <string name="draft_space_storyline_intro_refused00">Very well. You may do whatever you want to us, however we won\'t tell you anything.</string>
-    <string name="draft_space_storyline_intro_affirmed00">That\'s great. Allow me to introduce myself.</string>
-    <string name="draft_space_storyline_intro_affirmed01">I am GenericGiantPickleLeader#01 - leader of the Cucumber galaxy.</string>
-    <string name="draft_space_storyline_intro_affirmed02">All we need is a little help. In return you may have all our knowledge.</string>
-    <string name="draft_space_storyline_intro_affirmed03">I\'ll tell you the exact details later, I need to rest now.</string>
-    <string name="draft_space_storyline_stage_2_00">You came back? Good, we thought you ran away!</string>
-    <string name="draft_space_storyline_stage_2_01">We want to see if you have the willpower and what it takes for the task.</string>
-    <string name="draft_space_storyline_stage_2_02">Destroy all the mining stations which are destroying this fine place!</string>
-    <string name="draft_space_storyline_stage_2_notdone">I can still see some mining stations running, come back again when they are all offline.</string>
-    <string name="draft_space_storyline_stage_3_00">I understand that you rely on those ores for resources...</string>
-    <string name="draft_space_storyline_stage_3_01">But have you ever thought of investing in those strange structures, instead?</string>
-    <string name="draft_space_storyline_stage_3_02">Resources are limited, knowledge isn\'t.</string>
-    <string name="draft_space_storyline_stage_3_03">How about you give that a try, eh?</string>
-    <string name="draft_space_storyline_stage_3_04">Come on, give researching artifacts a try!</string>
-    <string name="draft_space_storyline_stage_4_00">Nice, nice</string>
-    <string name="draft_space_storyline_stage_4_01">We\'ve come to realisation that I need some things...</string>
-    <string name="draft_space_storyline_stage_4_02">Namely, Poccolonum, a very nice resources that we will use later.</string>
-    <string name="draft_space_storyline_stage_4_03">Just build a mining station on top of some of the green ore.</string>
-    <string name="draft_space_storyline_stage_4_04">We\'ll take the ore for our project ourselves.</string>
-    <string name="draft_space_storyline_stage_4_05">Don\'t be shy now, build a Poccolonum mine!</string>
-    <string name="draft_space_storyline_stage_5_00">I am once again asking for your financial support</string>
-    <string name="draft_space_storyline_stage_5_01">I need all of that thing you call theons.</string>
-    <string name="draft_space_storyline_stage_5_02">Can you give me all your theons?</string>
-    <string name="draft_space_storyline_stage_5_02_refused">Too bad, hope you can change your mind later.</string>
-    <string name="draft_space_storyline_stage_5_03">Trust me, I\'ll put it to good use.</string>
-    <string name="draft_space_storyline_stage_7_00">I have one last favour, mayor</string>
-    <string name="draft_space_storyline_stage_7_01">I assume you are familiar with rocket construction</string>
-    <string name="draft_space_storyline_stage_7_02">Could you construct a rocket according to these schematics?</string>
-    <string name="draft_space_storyline_stage_7_03">Being the generous pickle that I am, I\'ve gotten all resources for it</string>
-    <string name="draft_space_storyline_stage_7_04">What do ya say?</string>
-    <string name="draft_space_storyline_stage_7_04_notyetbuilt">I see the rocket construction is still underway</string>
-    <string name="draft_space_storyline_stage_8_00">I\'m afraid this is the last time we\'re seeing each other.</string>
-    <string name="draft_space_storyline_stage_8_01">We are now ready to return to our home galaxy and rebuild it, provided that there\'s something left.</string>
-    <string name="draft_space_storyline_stage_8_02">We will now hustle our way to the rocket.</string>
-    <string name="draft_space_storyline_stage_8_cutscene">Pickles board the plane</string>
-    <string name="draft_space_storyline_ending_00">Guess this is it. Thank you very much for helping us.</string>
-    <string name="draft_space_storyline_ending_01">In return, we would like to give you this storage medium.</string>
-    <string name="draft_space_storyline_ending_02">It contains all of our recorded knowledge.</string>
-    <string name="draft_space_storyline_ending_03">Once you\'re ready, initiate the launch.</string>
-    <string name="draft_space_storyline_ending_04">Farewell, friends!</string>
-    <string name="draft_space_storyline_ending_cutscene">The rocket takes off</string>
-    <string name="draft_space_storyline_stage_4_06">Oh, you don\'t have any available? Let me do a magic trick...</string>
-    <string name="draft_tollbooth00_passedbycars">Passed by cars: </string>
-    <string name="draft_tollbooth00_chargedmoney">Charged money: </string>
-    <string name="draft_tollbooth00_setup">Here you can setup the amount to charge.</string>
+    <string name="draft_picklebparty00_text08_text">Nevěděl jsem, co můžu dokázat</string>
+    <string name="draft_picklebparty00_opentext00_text">Otevři mě...</string>
+    <string name="draft_picklebparty00_opentext01_text">Prosím</string>
+    <string name="draft_picklebparty00_opentext02_text">Dostaň mě odsud</string>
+    <string name="draft_picklebparty00_opentext03_text">Udělej to...</string>
+    <string name="draft_picklebparty00_opentext04_text">Jsem uvězněn</string>
+    <string name="draft_ranoutofmoney_notify00">Zdá se, že vám došly všechny finanční prostředky! Posílám poslední peníze přidělené tomuto projektu. Utraťte je moudře!</string>
+    <string name="draft_moon_artifact_upgrade00_title">Vyšetřit artefakt</string>
+    <string name="draft_moon_artifact_upgrade00_text">Vyšetřete tento artefakt a nasbíraná data pošlete zpět do ředitelství pro finanční odměnu.</string>
+    <string name="draft_space_tree00_title">Kyber stromy</string>
+    <string name="draft_space_tree00_text">Nějaké falešné stromy k udržení kolonistů šťastnými.</string>
+    <string name="draft_dsa_moon_pickle_rocket00_title">Raketa pro okurky</string>
+    <string name="draft_dsa_moon_pickle_rocket00_text">Obrovská raketa specificky navrhnutá pro přepravu velkého množství okurek.</string>
+    <string name="moon_region_unsupported">Měsíční regiony nejsou bohužel zatím podporovány. Město se teď zavře!</string>
+    <string name="draft_space_storyline_cancel00">Je mi líto, ale bohužel vám nemůžu říct nic zajímavého!</string>
+    <string name="draft_space_storyline_busy00">Je mi líto, ale teď pro vás nic nemám!</string>
+    <string name="draft_space_storyline_intro00">A̸̯̐̈h̶̞̺̓́,̵̰͚̓̂ ̸̛̯̬̀z̷͕̼̽d̴̢͓̈́̓r̶̬̰͋́â̴̪̾v̵̼̊́í̴͎̈́m̴̹̱̓!</string>
+    <string name="draft_space_storyline_intro01">Nemějte strach, prosím! Přišli jsme sem v míru.</string>
+    <string name="draft_space_storyline_intro02">...nebo se sem spíše zřítili.</string>
+    <string name="draft_space_storyline_intro03">Věříme, že nám neublížíte. Věříme správně?</string>
+    <string name="draft_space_storyline_intro_refused00">Tak dobře. Můžete nám provést, co budete chtít, ale nic vám neřekneme.</string>
+    <string name="draft_space_storyline_intro_affirmed00">Skvěle. Dovolte m, abych se vám představil.</string>
+    <string name="draft_space_storyline_intro_affirmed01">Jsem GenericGiantPickleLeader#01 - vůdce Okurkové galaxie.</string>
+    <string name="draft_space_storyline_intro_affirmed02">Vše, co potřebujeme, je jen malá výpomoc. Na oplátku vám dáme všechny naše znalosti.</string>
+    <string name="draft_space_storyline_intro_affirmed03">Řeknu vám specifika později, musím si teď odpočinout.</string>
+    <string name="draft_space_storyline_stage_2_00">Vy jste přišel zpět? Skvělé, myslel jsem, že jste vzal nohy na ramena!</string>
+    <string name="draft_space_storyline_stage_2_01">Chtěli bychom vědět, zda máte pro tento úkol dostatečně silnou vůli.</string>
+    <string name="draft_space_storyline_stage_2_02">Zničte všechny těžební stanice, které ničí toto pěné místo!</string>
+    <string name="draft_space_storyline_stage_2_notdone">Pořád vidím některé funkční stanice. Vraťte se, až budou všechny offline.</string>
+    <string name="draft_space_storyline_stage_3_00">Rozumím, že jste na těchnto rudách závislí...</string>
+    <string name="draft_space_storyline_stage_3_01">Ale přemýšlel jste někdy o tom, že byste místo toho investovali do těch zvláštních struktur kolem?</string>
+    <string name="draft_space_storyline_stage_3_02">Zdroje jsou omezené, ale znalosti a moudrost nejsou.</string>
+    <string name="draft_space_storyline_stage_3_03">Co kdyby jste se o to pokusili?</string>
+    <string name="draft_space_storyline_stage_3_04">No tak, dejte zkoumání artefaktů alespoň šanci!</string>
+    <string name="draft_space_storyline_stage_4_00">Skvělé, opavdu skvělé...</string>
+    <string name="draft_space_storyline_stage_4_01">Zjistili jsme, že potřebujeme jednu jistou věc...</string>
+    <string name="draft_space_storyline_stage_4_02">Specificky Poccolonum, velmi užitečný materiál, kteřý později využijeme.</string>
+    <string name="draft_space_storyline_stage_4_03">Jen postavte těžební stanici na nějaké zeleném ložisku.</string>
+    <string name="draft_space_storyline_stage_4_04">Vytěžené Poccolonum si pak sami vezmeme pro naše účely.</string>
+    <string name="draft_space_storyline_stage_4_05">Nestyďte se, postavte důl na Poccolonum!</string>
+    <string name="draft_space_storyline_stage_5_00">Znovu žádám o vaši finanční podporu.</string>
+    <string name="draft_space_storyline_stage_5_01">Potřebuji všechny ty vaše věci, kterým říkáte 'theony'.</string>
+    <string name="draft_space_storyline_stage_5_02">Můžete mi dát všechny vaše theony?</string>
+    <string name="draft_space_storyline_stage_5_02_refused">Škoda, snad si to rozmyslíte...</string>
+    <string name="draft_space_storyline_stage_5_03">Věřte mi, použiju je moudře..</string>
+    <string name="draft_space_storyline_stage_7_00">Mám poslední žádost, starosto.</string>
+    <string name="draft_space_storyline_stage_7_01">Předpokládám, že máte s konstrukcí raket nějaké zkušenosti...</string>
+    <string name="draft_space_storyline_stage_7_02">Mohl byste prosím postavit podle těchto plánků raketu?</string>
+    <string name="draft_space_storyline_stage_7_03">Sehnal jsem pro ni už všechny potřebné materiály.</string>
+    <string name="draft_space_storyline_stage_7_04">Co na to říkáte?</string>
+    <string name="draft_space_storyline_stage_7_04_notyetbuilt">Vidím, že se raketa zatím ještě staví.</string>
+    <string name="draft_space_storyline_stage_8_00">Obavám se, že tohle je naposled, co se vidíme.</string>
+    <string name="draft_space_storyline_stage_8_01">Jsme teď připraveni vrátit se do naší domovské galaxie a znovu ji obnovit, pokud z ní ještě něco zbylo.</string>
+    <string name="draft_space_storyline_stage_8_02">Teď nastoupíme do rakety.</string>
+    <string name="draft_space_storyline_stage_8_cutscene">Okurky nastoupily do rakety...</string>
+    <string name="draft_space_storyline_ending_00">Hádám, že to je vše. Opravdu vám děkuji za všechnu tu pomoc, kterou jste poskytl.</string>
+    <string name="draft_space_storyline_ending_01">Na oplátku bychom by vám chtěli dát toto úložné médium.</string>
+    <string name="draft_space_storyline_ending_02">Obsahuje všechny naše znalosti, které jsme v průběhu historie nashromáždili.</string>
+    <string name="draft_space_storyline_ending_03">Až budete připraven, zahajte start.</string>
+    <string name="draft_space_storyline_ending_04">Sbohem, přátelé!</string>
+    <string name="draft_space_storyline_ending_cutscene">Raketa se odlepila od země...</string>
+    <string name="draft_space_storyline_stage_4_06">Že žádná nejsou k dispozici? Nechte mě udělat jeden magický trik...</string>
+    <string name="draft_tollbooth00_passedbycars">Projetých aut: </string>
+    <string name="draft_tollbooth00_chargedmoney">Zisk z mýtného: </string>
+    <string name="draft_tollbooth00_setup">Zde můžete nastavit výši mýtného.</string>
     <string name="draft_cat_monorail00_title">Monorail</string>
-    <string name="draft_tool_car_follower00_novehicle">No drivable vehicle available.</string>
-    <string name="forum_cmddelete">Delete account</string>
-    <string name="settings_modifymouse">Modify cursor</string>
-    <string name="settings_cursorstyle">Cursor style</string>
-    <string name="settings_cursorstyle_default">Default</string>
-    <string name="settings_cursorstyle_dark">Dark</string>
-    <string name="settings_cursorstyle_blue">Blue</string>
-    <string name="settings_cursorstyle_gold">Gold</string>
-    <string name="shop_restore">Restore previous purchases</string>
-    <string name="shop_restored_dialog_title">Purchases restored</string>
-    <string name="shop_restored_dialog_text">All of your previous purchases have been restored. You may have to restart the game in order to see an effect.</string>
-    <string name="dialog_seeds_title">Built-in Seeds</string>
-    <string name="settings_keys_cmdunassign">Unassign</string>
-    <string name="control_apply">Apply</string>
-    <string name="stage_createcity_biomes">Biomes...</string>
-    <string name="dialog_biomes_title">Biomes</string>
-    <string name="dialog_biomes_cmdselectall">All</string>
-    <string name="dialog_biomes_cmdunselectall">None</string>
-    <string name="settings_ground_blending">Ground blending</string>
-    <string name="draft_biome_aspen_forest00_title">Aspen forest</string>
-    <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
-    <string name="draft_biome_coniferous_forest00_title">Coniferous forest</string>
-    <string name="draft_biome_mixed_forest00_title">Mixed forest</string>
-    <string name="draft_biome_boreal_forest00_title">Boreal forest</string>
-    <string name="draft_biome_redwood_forest00_title">Redwood forest</string>
-    <string name="draft_biome_desert00_title">Desert</string>
-    <string name="draft_biome_snow00_title">Snow</string>
-    <string name="draft_biome_rainforest00_title">Rainforest</string>
-    <string name="draft_biome_coast00_title">Coast</string>
-    <string name="draft_biome_grassland00_title">Grassland</string>
-    <string name="draft_biome_steppe00_title">Steppe</string>
-    <string name="draft_biome_flowerygrassland00_title">Flowery grassland</string>
-    <string name="draft_biome_sakura00_title">Sakura</string>
-    <string name="draft_biome_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_asphalt00_title">Asphalt</string>
-    <string name="draft_ground_asphalt00_text">Perfect surface for cars and other vehicles alike.</string>
-    <string name="draft_ground_concrete00_title">Concrete</string>
-    <string name="draft_ground_concrete00_text">A healthy dose of concreteosis.</string>
-    <string name="draft_ground_sandstone00_title">Sandstone</string>
-    <string name="draft_ground_sandstone00_text">Sunny sandstone block surface.</string>
-    <string name="draft_ground_dirt00_title">Dirt</string>
-    <string name="draft_ground_dirt00_text">Extra dirty base soil.</string>
-    <string name="draft_ground_wildgrass00_title">Wild grass</string>
-    <string name="draft_ground_wildgrass00_text">Sun-dried wild grass. Perfect for vast plains or grasslands.</string>
-    <string name="draft_ground_darkgrass00_title">Dark grass</string>
-    <string name="draft_ground_darkgrass00_text">Shady grass from the deep woods.</string>
-    <string name="draft_ground_rockysand00_title">Rocky sand</string>
-    <string name="draft_ground_rockysand00_text">Coarse sand mixed with small rocks.</string>
-    <string name="draft_ground_forestgrass00_title">Forest grass</string>
-    <string name="draft_ground_forestgrass00_text">Moist, lush grass. Perfect for wild forests.</string>
-    <string name="draft_ground_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_cursedland00_text">We were told IT lives here.</string>
-    <string name="draft_tree_linden00_title">Linden</string>
-    <string name="draft_tree_linden00_text">A deciduous tree species commonly used for ornamental purposes.</string>
-    <string name="draft_tree_aspen00_title">Aspen</string>
-    <string name="draft_tree_aspen00_text">Tall, orange-leaved trees that mostly thrive in colder climates.</string>
-    <string name="draft_tree_fir00_title">Fir</string>
-    <string name="draft_tree_fir00_text">Decorative evergreen conifers that are often used as Christmas trees.</string>
-    <string name="draft_foliage_bushes00_title">Bushes</string>
-    <string name="draft_foliage_bushes00_text">Mixed small bush species. Great for parks and forests alike.</string>
-    <string name="draft_ancient_temple00_title">Ancient temple</string>
-    <string name="draft_ancient_temple00_text">The path forward will not reveal itself to the weak. Venture forth with strength.</string>
-    <string name="tut_plugins00">You will see, we have plenty of contents. Take your time to explore them all. After that, you may be ready to visit our plugin store to unlock thousands of additional contents.</string>
-    <string name="region_unlock_immediately">Unlock instantly</string>
-    <string name="dialog_unlockcity_im_title">Unlock Instant City</string>
-    <string name="dialog_unlockcity_im_text">Ready to dive into the fun? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let\'s build some epic cities together!</string>
-    <string name="draft_dirt_track_00_title">Dirt track</string>
-    <string name="draft_dirt_track_00_text">Compacted dirt road. Cheap, but slow to move on. Great for rural areas.</string>
-    <string name="draft_lookout_tower00_title">Lookout tower</string>
-    <string name="draft_lookout_tower00_text">Look out! A wooden lookout tower that can for example be used to watch out for fires.</string>
-    <string name="draft_boulders00_title">Boulders</string>
-    <string name="draft_boulders00_text">Huge rock formation of assorted shapes.</string>
-    <string name="draft_highway_sign00_title">Highway Sign</string>
-    <string name="draft_highway_sign00_text">Navigate with style using Highway Signs for your city roads.</string>
-    <string name="draft_road05_ramp00_title">Highway ramp (one-way)</string>
-    <string name="draft_road05_ramp00_text">Connect highways with slower roads or create elaborate interections with this one-way road.</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Metric (e.g. km)</string>
-    <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Tall wooden fence</string>
-    <string name="draft_fence_tallwooden00_text">To keep the intruders away.</string>
-    <string name="draft_fence_chainlink00_title">Chainlink fence</string>
-    <string name="draft_fence_chainlink00_text">Tall fence made of metal mesh.</string>
-    <string name="draft_fence_metalrailing00_title">Metal railing</string>
-    <string name="draft_fence_metalrailing00_text">A short, black railing to protect pedestrians.</string>
-    <string name="draft_fence_guardrail00_title">Guardrail</string>
-    <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
+    <string name="draft_tool_car_follower00_novehicle">Žádná dostupná říditelná vozidla.</string>
+    <string name="forum_cmddelete">Odstranit účet</string>
+    <string name="settings_modifymouse">Upravit kurzor</string>
+    <string name="settings_cursorstyle">Styl kurzoru</string>
+    <string name="settings_cursorstyle_default">Výchozí</string>
+    <string name="settings_cursorstyle_dark">Tmavý</string>
+    <string name="settings_cursorstyle_blue">Modrý</string>
+    <string name="settings_cursorstyle_gold">Zlatý</string>
+    <string name="shop_restore">Obnovit předchozí nákupy</string>
+    <string name="shop_restored_dialog_title">Nákupy obnoveny</string>
+    <string name="shop_restored_dialog_text">Všechny vaše předchozí nákupy byly obnoveny. K uplatnění změn budete muset pravděpodobně aplikaci restartovat.</string>
+    <string name="dialog_seeds_title">Vestavěné seedy</string>
+    <string name="settings_keys_cmdunassign">Zrušit přiřazení</string>
+    <string name="control_apply">Hotovo</string>
+    <string name="stage_createcity_biomes">Biomy...</string>
+    <string name="dialog_biomes_title">Biomy</string>
+    <string name="dialog_biomes_cmdselectall">Všechny</string>
+    <string name="dialog_biomes_cmdunselectall">Žádný</string>
+    <string name="settings_ground_blending">Přechody mezi typy povrchů</string>
+    <string name="draft_biome_aspen_forest00_title">Topolový les</string>
+    <string name="draft_biome_deciduous_forest00_title">Listnatý les</string>
+    <string name="draft_biome_coniferous_forest00_title">Jehličnatý les</string>
+    <string name="draft_biome_mixed_forest00_title">Smíšený les</string>
+    <string name="draft_biome_boreal_forest00_title">Subpolární les</string>
+    <string name="draft_biome_redwood_forest00_title">Sekvojový les</string>
+    <string name="draft_biome_desert00_title">Poušť</string>
+    <string name="draft_biome_snow00_title">Sníh</string>
+    <string name="draft_biome_rainforest00_title">Deštný prales</string>
+    <string name="draft_biome_coast00_title">Pobřeží</string>
+    <string name="draft_biome_grassland00_title">Pláň</string>
+    <string name="draft_biome_steppe00_title">Step</string>
+    <string name="draft_biome_flowerygrassland00_title">Pláň s květinami</string>
+    <string name="draft_biome_sakura00_title">Sakurový les</string>
+    <string name="draft_biome_cursedland00_title">Prokletá zem</string>
+    <string name="draft_ground_asphalt00_title">Asfalt</string>
+    <string name="draft_ground_asphalt00_text">Perfektní povrch pro autoa a ostatní vozidla.</string>
+    <string name="draft_ground_concrete00_title">Beton</string>
+    <string name="draft_ground_concrete00_text">Ah, zdravá dávka konkretizace...</string>
+    <string name="draft_ground_sandstone00_title">Pískovec</string>
+    <string name="draft_ground_sandstone00_text">Slunný pískovcový povrch.</string>
+    <string name="draft_ground_dirt00_title">Hlína</string>
+    <string name="draft_ground_dirt00_text">Půda pokrytá extra hlínou.</string>
+    <string name="draft_ground_wildgrass00_title">Divoké traviny</string>
+    <string name="draft_ground_wildgrass00_text">Suchem vysušené divoké traviny. Perfektní pro rozlehlé pláně či pastviny.</string>
+    <string name="draft_ground_darkgrass00_title">Tmavá tráva</string>
+    <string name="draft_ground_darkgrass00_text">Tmavá tráva z hlubokých lesů.</string>
+    <string name="draft_ground_rockysand00_title">Hrubý písek</string>
+    <string name="draft_ground_rockysand00_text">Písek smíchaný s malými kamínky.</string>
+    <string name="draft_ground_forestgrass00_title">Lesní tráva</string>
+    <string name="draft_ground_forestgrass00_text">Vlhká a svěží tráva. Perfektní pro divoké lesy.</string>
+    <string name="draft_ground_cursedland00_title">Prokletá země</string>
+    <string name="draft_ground_cursedland00_text">Bylo nám řečeno, že tu prý žije To.</string>
+    <string name="draft_tree_linden00_title">Lípa</string>
+    <string name="draft_tree_linden00_text">Listnatý strom často používaný pro dekorativní účely.</string>
+    <string name="draft_tree_aspen00_title">Topol</string>
+    <string name="draft_tree_aspen00_text">Vysoký strom, jenž nejvíce prosperuje v chadnějších klimatických podmínkách.</string>
+    <string name="draft_tree_fir00_title">Jedle</string>
+    <string name="draft_tree_fir00_text">Dekorativní vždyzelené stromy, které jsou často používané jako vánoční stromky.</string>
+    <string name="draft_foliage_bushes00_title">Keře</string>
+    <string name="draft_foliage_bushes00_text">Směs různých druhů malých keřů. Skvělé jak pro parky, tak pro lesy.</string>
+    <string name="draft_ancient_temple00_title">Starobylý chrám</string>
+    <string name="draft_ancient_temple00_text">Cesta vpřed se slabým sama neodhalí. Pokračujte dál se sílou.</string>
+    <string name="tut_plugins00">Jak vidíte, máme mnoho obsahu. Dejte si na čas, abyste ho všechen prozkoumali. Poté budete možná připraveni navštívit náš obchod s pluginy.</string>
+    <string name="region_unlock_immediately">Odemknout okamžitě</string>
+    <string name="dialog_unlockcity_im_title">Okamžitě odemknout nové město</string>
+    <string name="dialog_unlockcity_im_text">Připraveni pro nějakou tu zábavu? Odeknět teď tuto úžasnou oblast a začněte zde stavět nové město bez nutnosti čekání ma splnění těch požadavků na počet obyvatel.\n\nUž nečekejte, ale rovnou hrajte!</string>
+    <string name="draft_dirt_track_00_title">Venkovní cesta</string>
+    <string name="draft_dirt_track_00_text">Cesta skládající se hlavně ze stlačené hlíny. Levná, ale doprava je na ní pomalá. Skvělá pro venkov.</string>
+    <string name="draft_lookout_tower00_title">Rozhledna</string>
+    <string name="draft_lookout_tower00_text">Pozor! Dřevěná rozhledna, která může být například použita na monitorování lesních požárů..</string>
+    <string name="draft_boulders00_title">Balvany</string>
+    <string name="draft_boulders00_text">Obrovské kamenné formace mnoha tvarů.</string>
+    <string name="draft_highway_sign00_title">Dálniční značka</string>
+    <string name="draft_highway_sign00_text">Navigujte se městem se stylem, který dálniční značky vaším silnicím poskytnou!</string>
+    <string name="draft_road05_ramp00_title">Dálniční rampa (jednosměrná)</string>
+    <string name="draft_road05_ramp00_text">Připojujte k dálnicím pomalejší silnice nebo vytvářejte promyšlené křižovatky.</string>
+    <string name="settings_units">Jednotky</string>
+    <string name="settings_units_auto">Automatické (%s)</string>
+    <string name="settings_units_metric">Metrické (např. km)</string>
+    <string name="settings_units_imperial">Imperální (např. mi)</string>
+    <string name="draft_fence_tallwooden00_title">Vysoký dřevěný plot</string>
+    <string name="draft_fence_tallwooden00_text">K tomu, abyste udrželi od sebe možné narušitele.</string>
+    <string name="draft_fence_chainlink00_title">Plot z pletiva</string>
+    <string name="draft_fence_chainlink00_text">Vysoký plot skládající se z kovového pletiva.</string>
+    <string name="draft_fence_metalrailing00_title">Kovové zábradlí</string>
+    <string name="draft_fence_metalrailing00_text">Nízké, černé zábradlí k ochraně chodců.</string>
+    <string name="draft_fence_guardrail00_title">Svodidlo</string>
+    <string name="draft_fence_guardrail00_text">Udržte se s těmito bariérami v bezpečí.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="draft_dsarocket_launchbutton">Odpálit</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Již odpáleno</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Odpal momentálně probíhá</string>
+    <string name="draft_dsarocket_requirement_supplies">Zásoby: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Náklady: %s</string>
+    <string name="draft_dsarocket_test_text">Odpalte prázdnou experimentální raketu ke sběru informací a přípravě na další operace a odpaly raket..</string>
+    <string name="draft_dsarocket_animal_text">Odpalte do vesmíru raketu s kočkou pojmenovanou Akial ke sběru vitálních informací.</string>
+    <string name="draft_dsarocket_navigation_text">Odpalte do vesmíru raketu s jednou osobou na palubě k provedení navigačních testů.</string>
+    <string name="draft_dsarocket_exploration_text">Odpalte do vesmíru raketu s cílem najít vhodné místo pro kolonizaci.</string>
+    <string name="draft_dsarocket_sdi_text">Odpalte do vesmíru sérii několika raket, aby složily systém vesmírné obranné iniciativy (SDI - Space Defense Initiative)..</string>
+    <string name="draft_dsarocket_deprecated_text">Odpalovací plošina byla aktualizována, budete muset tuhle zničit a nahradit ji novou.</string>
+    <string name="stage_createcity_terrain">Terém...</string>
+    <string name="dialog_terrain_title">Terén</string>
+    <string name="dialog_missingmanifest_title">Chybějící manifestové soubory pluginů</string>
+    <string name="dialog_missingmanifest_text">Následující soubory nedefinují manifestový soubor (plugin.manifest). To může způsobit potíže s ostatními pluginem a olnine režimem. Kompatibilita nemůže být do budoucna garantována:</string>
+    <string name="dialog_missingmanifest_cmdhelp">Co to je?</string>
+    <string name="createcity_rivers">Řeky</string>
+    <string name="createcity_roughness">Komcovitost terénu</string>
+    <string name="createcity_roughness_flat">Plochý</string>
+    <string name="createcity_roughness_less">Méně</string>
+    <string name="createcity_roughness_default">Výchozí</string>
+    <string name="createcity_roughness_more">Více</string>
+    <string name="createcity_roughness_extreme">Extrémní</string>
+    <string name="buildingicon_illness">Obyvatelé této budovy jsou nemocní. Měli byste sem poslat lékaře.</string>
+    <string name="buildingicon_noroad">Tato budova není připojena k vhodné silnici.</string>
+    <string name="buildingicon_noenergy">Tato budova nemá dostatek energie.</string>
+    <string name="buildingicon_nowater">Tato budova nemá dostatek vody.</string>
+    <string name="buildingicon_overloaded">Tato budova je přetížena. Poskytněte obyvatelům vyšší kapacitu.</string>
+    <string name="buildingicon_unhappy">Lidé jsou v této budově nešťastní.</string>
+    <string name="buildingicon_waste">V této budově je neodvezený odpad.</string>
+    <string name="buildingicon_wasteoverloaded">Tato skládka je plná.</string>
+    <string name="buildingicon_deadbodies">V této budově jsou neodvezená těla.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Tento hřbitov je plný.</string>
+    <string name="buildingicon_crimegraffiti">Někdo sem ilegálně nasprejoval graffiti.</string>
+    <string name="buildingicon_crimeburglary">Někdo se sem vloupal.</string>
+    <string name="buildingicon_crimemurder">Někdo tu byl zavražděn.</string>
+    <string name="buildingicon_crimeriot">Lidé se tu bouří.</string>
+    <string name="dialog_scriptpolicy_title">Pravidla skriptů pluginů</string>
+    <string name="dialog_scriptpolicy_help_title">Skripty pluginů mohou být nebezpečné</string>
+    <string name="dialog_scriptpolicy_help_text">VY máte kontrolu nad schvalováním vykonávání skriptů poskytnutých externími pluginy. Na whitelist přidávejte pouze pluginy ze zdrojů, kterým věříte (např. vy, pokud na nějakém pluginu pracujete)\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+Pokud jste na pochybách, NEPOVOLUJTE vykonávání skriptu bez toho, abyste se na něj sami podívali.\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+Pluginy, které vyžadují povolené vykonávání skriptů, nemusí fungovat správně, pokud to nemají povolené. Aby změny vzešly v platnost, možná budete muset restartovat aplikaci.</string>
+    <string name="settings_openscriptpolicy">Pravidla skriptů pluginů</string>
+    <string name="stage_files_itemcount">%d položek</string>
+    <string name="tips_title">Tipy</string>
+    <string name="tips_cmd_random">Další</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
+Kultura je poskytována některými památkami, odměnami a pluginy!
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+Většina památek až po Eiffelovu věž produkuje kulturní vliv na své okolí, stejně jako odměny s nějakou kulturní významností ve skutečném světě. Přes obchod s pluginy a fórum mohou být stáhnuty pluginy s dalšími kulturními budovami.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
+Pokud budovy hoří příliš často, umístěte poblíž požární útvar!
     </string>
     <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+Pokud ve vašich budovách propukají požáry příliš často, většinou to znamená, že jsou mimo oblast působnosti vašich požárních útvarů. Požáry mohou vypuknout obytných, obchodních i průmyslových zónách, a tak byste měli v těchto oblastech zajistit dostatečné pokrytí požárními službami.
     </string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
+Držte obytné budovy od znečištění dál
     </string>
     <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+Obyvatelé vašeho města nemají znečištění příliš rádi. Pokud si na něj stěžují, zkuste najít jeho zdroj. Zdroje znečištění i hluku můžete zobrazit aktivací relevantního překrytí; znečišťující budovy budou mít kolem sebe červené kruhy. K vyřešení problému přesuňte znečišťujícíc budovy někam jinam nebo je zničte.
     </string>
     <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
+Stormy snižují znečištění
     </string>
     <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+Obyvatelé obytných budov nemají znečištění v oblibě. Pokud nechcete nikam přesouvat budovy (což je případem obzvláště v dobře naplánovaných městech). můžete vysázet stromy. Stromy totiž znečištění i hluk redukují, a čím víc jich je, tím větší je jejich efekt. Jsou také ekonomičtější, protože jejich výsadba je levná. Množství stromů, které je nutné umístit závisí na síle znečištění.
     </string>
     <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
+Ke snížení provozu používejte křižovatky i jednosměrné silnice
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+Často se stává, že na dálnicích či průmyslových zónách vládne příliš vysoký provoz. K vyřešení tohoto problému je třeba navržení správné silniční sítě. Jednosměrné silnice a křižovatky mohou v tomto ohledu pomoct. Ve hře i obchodu s pluginy se nachází decentní mnžství představěných křižovatek, případně se můžete inspirovat těmi skutečnými a vytvořit si vlastní.
     </string>
     <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
+Ke snížení provozu se můžete podívat do nastavení
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+K úpravě úrovně provozu si nejdřív budete muset zapnout debuggovací režim, jenž by se měl také nacházet v nastavení. Poté vám bude zpřístupněna možnost snížit nebo navýšit úroveň dopravy ve vašich městech. Ideální procento by mělo záviset na vašich preferencích a dopravní situace ve vašich městech.
     </string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
+K více penězům si vezměte půjčku
     </string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Klikněte na ikonu přijmu a poté na ikonu se zelenými penězi. Poté stiskněte tlačítko "získat". Množství peněz, které získáte, je závislé na hodnosti vašeho města. V jeden okamžik jich můžete mít až pět.
     </string>
     <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
+Půjčky jsou automaticky spláceny každý měsíc
     </string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+Peníze na splácení půjček jsou vám každý měsíc automaticky strhávány z účtu. Nemusí být spláceny manuálně, i když tak můžete na druhou stranu snížit vaše měsíční výdaje. Délku splácení půjčky si můžete zobrazit v menu půjček.
     </string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server!
+Je tu oficiální Discord server!
     </string>
     <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+Náš oficální Discord server je místo, kde hráči i tvůrci mohou ukázat své výtvory a navzájem se spřátelit. Odkaz na něj může být nalezen v nastavení.
     </string>
     <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
+Můžete si vytvořit vlastní pluginy. Je to snadné™
     </string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+Tvorba pluginů se může zpočátku zdát složitá, ale ve skutečnosti je poměrně jednoduchá. Textury můžete vytvořit v programech jako paint.net na PC nebo Pixly na telefonech.  Ke "kódování" se můžete řídit tutoriály na fóru nebo se mu kompletně vyhnout díky tomuto webu: https://pca.svetikas.lt/. Pokud máte jakékoliv otázky, můžete se zeptat na Discordu nebo na fóru!
     </string>
     <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
+Spolupracujte díky online režimu na regionu
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+Stisknutím tlačítka "Online regiony" při pohledu na region můžete s přáteli nebo ostatními členy komunity spolupracovat na tvorbě nádherného regionu. Hra neumožňuje na jednom městě pracovat více než jedné osobě, ale cizí města můžete navštěvovat a případně se inspirovat.
     </string>
     <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
+Nahrání mapy do online režimu stojí diamanty nebo regionové mince
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+Diamanty (na telefonech) a regionové mince (PC) jsou udělovány za každodenní přihlašování se ke hře. Cena nahrání regionu záleží na jeho velikosti. Během nahrávání může tvůrce zvlit hesla a napsat pravidla. Po vytvoření nelze heslo přidat nebo odstranit.
     </string>
     <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
+Každodenním přihlašovaním můžete získat diamanty
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+Každodenním přihlašováním se do hry můžete (na mobilní verzi) získat diamanty. Ještě lepší odměny získáte přihlašováním se každý den po celý týden; po obdržení finální odměny se to resetuje a začíná od začátku. Také se můžete každých 30 minut dívat na reklamy, ale musíte mít vypnuté blokátory reklam, aby se ukázaly!
     </string>
     <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
+Zásoby do raket poskytují jisté průmyslové budovy
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+Budovy, které dodávají ropu, jsou rozprostřené přes všechny úrovně průmyslových budov. Patří mezi ně budovy extrahující ropu, skladiště, a zpracovávající budovy. Tyto poskytnou vaší raketě zásoby. Čím více a blíže průmyslové budovy jsou, tím rychlejší zásobování bude.
     </string>
     <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
+Nemusí tu být žádné viditelné využití vlakových či autobusových zastávek, ale stál mají efekt
     </string>
     <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+Autobusy i vlaky mohou ukazovat, že je nepoužívají žádní pasažéři. I tak ale mají na své okolí efekt a data o jejich používání mohou být o něco později aktualizována. Autobusy i vlaky poskytují štěstí z dopravy, a tak je výhodné s jejich službami pokrýt RCI oblasti.
     </string>
     <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
+Ikona spreje označuje vandalismus, postavte policejní stanici
     </string>
     <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+Ikona spreje se ukauje, když jsou budovy mimo oblast působnosti policejních stanic. Obytné, obchodní i průmyslové budovy potřebují mít poblíž policejní stanice, aby se předešlo budoucím zločinům.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
+Ke zbavení se mrtvých těl stavte hřbitovy či krematoria
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
+Pokud se nad jednou či více vašimi budovami ukáže ikona mrtvé osoby, znamená to, že budete muset postavit hřbitov nebo krematorium. Hřbitovy pro začátek stačí, ale jak města rostou, budou muset být čím dál častěji vyprazdňovány, takže časem se může krematorium jevit jako lepší možnost do budoucna.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
+K extra příjmu exportujte do sousedních měst
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+Tohle může být prováděno pouze v regionech, kde existují sousední města. Ve hře je panel exportů a importů. Úpravou hodnot můžete například z blízkých měst dovážet vodu nebo vyvážet odpad. Nefunguje to ale v online režimu nebo pokud je jedno z vašich měst v sandbox či uber režimu.
     </string>
     <string name="tip_topic_airport_title">
-The airport is a good long term investment
+Letiště je dobrou investicí do budoucna
     </string>
     <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+Abyste učinili letiště funkčním, přidejte ranveje a přiřaďte k nim letadla. Letiště se často stane finančně výhodným, pokud je používáno. To znamená, že po počáteční investici do infrastruktury vás čeká významný zdroj příjmu.
     </string>
     <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
+YouTube má pár užitečných tutoriálů
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+Na YouTube je několik zkušených hráčů a tvůrců TheoTown, kteří tam publikují svá videa. Ta jsou různá, od inspiračních timelapse videí po návody, které vám mohou pomoct ve zlepšení se.
     </string>
     <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
+Ceny se ve hře navyšují stejně jako ve skutečném životě
     </string>
     <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+Konstukce budov i silnic navyšuje jejich cenu. Čím více budov a silnic postavíte, tím více se navýší. Platí to pro silnice, dekorace, zóny a všechny typy budov.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+Pro větši svobodu použijte režim sandbox/uber
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+Mnoho zkušených hráčů preferuje hrát v režimech sandbox nebo uber, protože jim to umožňuje se lépe kreativně vyjádřit. V těchto režimech totiž budovy nic nestojí a v případě uberu nemají obyvatelé štěstí ani žádné potřeby. Budovy jsou často pokládány manuálně. Pokud vám to nevyhovuje, v pořádku - každý staví jinak!
     </string>
     <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
+Automatické katastrofy mohou být vypnuty v nastavení
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+Katastrofy mohou být vypnuty v nastavení. Navíc si můžete vybrat, které specificky chcete a které ne. Pokud ale používáte těžební stanice či raketová sila od DSA, vaše město může být it tam ohroženo zemětřeseními i dalšími katastrofami.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
+Většina vašeho příjmu je z daní, ale nenastavujte je nad 9%
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+Obzvláště v raných fázích hry pochází 90 či více procent vašeho příjmu z danění vašich obyvatel. Dobrým daňovým rozmezím je 7% až 9%. Pokud jsou daně příliš vysoké, je tu riziko vzpour a toho, že obyvatelé začnou vaše město opouštět.
     </string>
     <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
+Daně můžete upravit s tlačítky + a -
     </string>
     <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+Klikněte na ikonu smajlíka a poté na panel daní, kde můžete použít + a - k navýšení či snížení daní pro každou úroveň zón. Buďte ale opatrní, ať je nenavýšíte příliš vysoko.
     </string>
     <string name="tip_topic_moon_title">
-Use DSA to go to the moon
+Použijte DSA, abyste se dostali na Měsíc
     </string>
     <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+Odemkněte DSA a vylepšujte její budovy, abyste se dostali na Měsíc. Vaše raketa bude potřebovat zásoby; až bude připravena, můžete ji odpálit. Buď spadne zpět na zem, nebo přistane na měsíci. Pokud bude mise úspěšná, lunární mapu budete moct naleznout v menu jednotlivých měst. Těžbou různých materiálů na měsíci můžete pro mapu, ze které byla raketa odpálena, odemknout nové budovy.
     </string>
     <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
+Opatrně! ICBM zničí celé vaše město!
     </string>
     <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+ICBM není přirozeně se vyskytující katastrofou a může být pouze aktivována přes DSA. Během používání těchto raket buďte opatrní, protože mohou zničit celé vaše město v řádu sekund. Abyste se vyhnuli zklamání, můžete své město zálohovat či duplikovat, pokud si ICBM chcete vyzkoušet.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
+Do hustých zón se vejde více obyvatel, ale jsou dražší
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+Husté zóny jsou obecně dražší než ty normální, ale může v nich žít více lidí. Navíc nabízí vyšší budovy. Jinak zde žádné odlišnosti nejsou, protože oba typy zón vyžadují stejné potřeby.
     </string>
     <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
+Pluginy můžete stahovat i na fóru
     </string>
     <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+Někteři tvůrci pluginů raději nahrávají své pluginy exkluzivně na fóru. To vám umožňuje stahovat pluginy, které nemusí být v jejich obchodě dostupné. Jejich stáhnutí je zdarma; jejich soubory musí být umístěny ve složce hry manuálně. Buďte s nimi a,e opatrní, protože nejsou moderovány.
     </string>
     <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
+Mýtné brány navyšují příjem na úkor štěstí obyvatel
     </string>
     <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+Pokud chcete vybírat od projíždějících vozidel mýto, můžete na silnice umístit mýtné brány, které mohou tak navýšit váš příjem. Véše mýtného může být navýšena kliknutím na bránu. Mýtné brany ale snižují štěstí obyvatel z dopravy.
     </string>
     <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
+Ne všechny budovy mají všechny strany
     </string>
     <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+Některé budovy lze otáčet, ale jiné ne. To stejné platí i u pluginů, jen ve vyšší míře. To se stává, protože se autoři rozhodli nenakreslit textory pro další strany budov. Pokud chcete vidět, které budovy lze otáčet, klikněte na budovu a podívejte se, zda se v pravém horním rohu objeví šipky doprava i doleva. Absence různých stran jedné budovy umožňuje vyšší variaci v zónách.
     </string>
     <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
+Změňte orientaci mapy s minimapou
     </string>
     <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+Minimapa může být použíta jako nástroj k otáčení mapy. Můžete k tomu použít tlačítka šipek pod ní. Mějte na paměti, že ne všechny budovy se budou otáčet, protože některé nemají textury pro jejich ostatní strany.
     </string>
     <string name="tip_topic_demands_title">
-Build zones which are above the demand line
+Budujte zóny, pro které existuje poptávka
     </string>
     <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
+Pokud se v grafu poptávky nachází některé sloupce nad prostřední linií, namená to, že lidé té skupiny chtějí ve vašem městě bydlet či pracovat. Měli byste tak poskytnout zónám služby, které ta skupina potřebuje. Pokud se sloupce nachází pod linií, poptávka je nízká a stavět byste měli pro ostatní skupiny.
     </string>
     <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
+Stisknutím na budovu uvidíte nejnižší štěstí jejích obyvatel
     </string>
     <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+Klknutím na budovu můžete identifikovat, proč jsou jeho obyvatelé nešťastní. Také můžete učrčit jejich průměrné štěstí. Jakmile zjistíte důvod pro nejnižší štěstí, můžete ho zkusit vyřešit. Pokud jsou obyvatelé například nešťastní kvůli nedostatku parků, měli byste poblíž nějaký položit.
     </string>
     <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
+V obchodě s pluginy jsou i oficiální rozšíření
     </string>
     <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
+V obchodě s pluginy zveřeňuje Lobby někdy oficiální rozšíření do hry. Ty jsou obvykle zdarma.
     </string>
     <string name="tip_topic_inspiration_title">
 Don\'t compare with other players\' cities, take inspiration
@@ -3364,67 +3364,67 @@ Don\'t compare with other players\' cities, take inspiration
 Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
     </string>
     <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
+Při stavbě silnic používejte automatické připojování
     </string>
     <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+Klikněte na silnici vaší volby a v pravém horném rohu povolte automatické připojování silnic, abyste se vyhnuli nepřipojeným a tím pádem nefunkčním silnicím.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
+K prevenci epidemií budujte nemocnice
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+Pokud se nad budovou nachází ikona zeleného smajlíka, znamená to, že jeho obyvatelé jsou nemocní. Abyste se tomuto do budoucna vyhnuli, postavte v okolí všech obytných zón nemocnice. Měli byste se také ujistit, že se všechny vaše zdroje vody nachází mimo zněčištěné oblasti.
     </string>
     <string name="tip_topic_education_title">
-Residentials need both high and low education
+Obytné zóny potřebují nízké i vysoké vzdělání
     </string>
     <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
+Ke zlepšení štěstí ze vzdělání musí být obyvatelům vašeho města poskytnuty budovy nízkého i vyšokého vzdělání. Ty jsou potřeba také k tomu, aby lidé ve vašem městě zbohatli.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
+Ke snížení lagů deaktivujte plynulé přibližování
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
+Pokud se vám hra seká, zvažte vypnutí plynulého přibližování. Tato možnost může být nalezena v nastavení a její vypmnutí může na slabých zařízeních zlepšit herní zážitek.
     </string>
     <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
+Měňte šipkami vpravo výšku silnic
     </string>
     <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
+Klikněte na silnici, kterou chcete postavit. Poté můžete šipkami vpravo měnit, na jaké výškové úrovni budete stavět. Pokud chcete vytvořit rampu o úroveň výš nebo níž, musíte již silnici stavět. K automatické konstrukci mostů můžete aktivovat odpovídající možnost. Mějte na paměti, že ne všechny silnice toto podporují.
     </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_title">Stáhnout vše</string>
+    <string name="store_cmd_downloadall_text">Stáhnout / aktivovat všechny chybějící pluginy naráz</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Otevřít</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Oznámení</string>
+    <string name="settings_notify_low_power">Nedostatek energie</string>
+    <string name="settings_notify_low_water">Nedostatek vody</string>
+    <string name="settings_notify_no_power">Žádná energie</string>
+    <string name="settings_notify_no_water">Žádná voda</string>
+    <string name="settings_notify_no_road">Žádný silniční přístup</string>
+    <string name="settings_notify_no_park">Žádný park</string>
+    <string name="settings_notify_no_sport">Žádné sportovní budovy</string>
+    <string name="settings_notify_pollution">Znečištění</string>
+    <string name="settings_notify_noise">Hluk</string>
+    <string name="settings_notify_water_waste">Znečištění vody</string>
+    <string name="settings_notify_unhappy">Nešťastní</string>
+    <string name="settings_notify_unlocked">Odemčené budovy</string>
+    <string name="settings_notify_low_budget">Nízký rozpočet</string>
+    <string name="settings_notify_zone_needed">Potřeba zóna</string>
+    <string name="settings_notify_polluted_pump">Znečištěný zdroj vody</string>
+    <string name="settings_notify_school_overloaded">Škola přetížena</string>
+    <string name="settings_notify_medic_overloaded">Nemocnice přetížena</string>
+    <string name="settings_notify_destroyed_tile">Zničená dlaždice</string>
+    <string name="settings_notify_need_low_education">Potřeba nízké vzdělání</string>
+    <string name="settings_notify_need_high_education">Potřeba vysoké vzdělání</string>
+    <string name="settings_notify_bad_traffic">Vysoký provoz</string>
+    <string name="settings_notify_waste">Odvoz odpadu</string>
+    <string name="settings_notify_body_disposal">Odvoz těl</string>
+    <string name="settings_notify_bad_attribute">Špatná hodnota</string>
     <string name="show_eula">EULA</string>
 
 </resources>
