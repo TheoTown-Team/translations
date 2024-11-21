@@ -372,7 +372,7 @@
     <string name="happiness_transportation">Trasporti</string>
     <string name="happiness_water">Acqua</string>
     <string name="happiness_zone">Zone</string>
-    <string name="buildinginfo_happiness_comp">Minor felicità: %2$.0f%% (%1$s)</string>
+    <string name="buildinginfo_happiness_comp">Felicità minima: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">Religione</string>
     <string name="draft_church01_title">Chiesa</string>
     <string name="draft_church01_text">Una chiesa.</string>
@@ -753,11 +753,11 @@
     <string name="draft_road04_text">Un bel viale alberato.</string>
     <string name="draft_marker_watermarker_title">Acqua</string>
     <string name="draft_road05_text">La strada perfetta per collegare aree lontane.</string>
-    <string name="notify_demonstration">C\'è una manifestazione nella nostra città a causa di %1s! Fate qualcosa o succederà qualcosa di brutto!</string>
+    <string name="notify_demonstration">C\'è una manifestazione nella nostra città a causa di %1s! Fa\' qualcosa o potrebbe finire male!</string>
     <string name="draft_road05_title">Autostrada</string>
     <string name="draft_road04_title">Viale</string>
     <string name="happiness_general">Felicità Generale</string>
-    <string name="notify_unhappy">Le persone qui sono tristi perchè %1$s. Dovresti provare ad aumentare la felicità</string>
+    <string name="notify_unhappy">Le persone qui sono tristi per questo motivo: %1$s. Dovresti provare ad aumentare la felicità</string>
     <string name="draft_decoroad00_title">Vicoli</string>
     <string name="draft_rnk_city_big_title">Grande città</string>
     <string name="draft_rnk_city_medium_title">Città</string>
@@ -787,7 +787,7 @@
     <string name="ca_bodydisposal_text">Smaltimento funebre: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Smaltimento dei rifiuti: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Decorazione</string>
-    <string name="draftselector_titlewastedisposal">Smaltimento dei rifiuti</string>
+    <string name="draftselector_titlewastedisposal">Rifiuti</string>
     <string name="ci_rank_title">Ranghi</string>
     <string name="draft_cemetery00_title">Cimitero</string>
     <string name="draft_crematory00_title">Crematorio</string>
@@ -858,7 +858,7 @@
     <string name="statistics_rails">Binari</string>
     <string name="statistics_cars">Macchine</string>
     <string name="control_auto">Auto</string>
-    <string name="control_on">Su</string>
+    <string name="control_on">On</string>
     <string name="control_off">Off</string>
     <string name="draft_school03_title">Scuola superiore grande</string>
     <string name="draft_school03_text">Una scuola superiore più grande per più studenti.</string>
@@ -935,10 +935,10 @@
     <string name="draft_townhall02_text">Un grande municipio per una grande città. è un ringraziamento per 1M di download.</string>
     <string name="notify_pollutedwaterpump">Questa pompa dell\'acqua si trova in una zona inquinata, meglio se la mettiamo da qualche altra parte per mantenere l\'acqua pulita.</string>
     <string name="notify_destroyedtiles">Meglio occuparsi di questa spazzatura prima che qualcuno la noti.</string>
-    <string name="notify_loweducationneeded">Penso che sia il \momento di dare ai nostri bambimbi un\' istruzione. Costruisci una scuola elementare.</string>
+    <string name="notify_loweducationneeded">Penso che sia il momento di dare un\'istruzione ai nostri bambini. Costruisci una scuola elementare.</string>
     <string name="notify_higheducationneeded">Cerchiamo di avere qualche genio, costruiamo una scuola superiore.</string>
     <string name="dialog_ffwd1_text">Ti fa velocizzare il gioco per %1$s.</string>
-    <string name="notify_badtraffic">C\'è troppo traffico su questa strada. Suggerisco di costruirne un altra.</string>
+    <string name="notify_badtraffic">C\'è troppo traffico su questa strada. Suggerirei di costruirne un\'altra.</string>
     <string name="dialog_wb_title">Bentornato</string>
     <string name="dialog_wb_text">%1$s hai guadagnato %2$s mentre non c\'eri.</string>
     <string name="notify_fullschool">Questa scuola è piena. Costruiamone di più, per favore.</string>
@@ -982,7 +982,7 @@
     <string name="draft_feature_mountain00_text">Aumenta il fascino della città con il pacchetto Majestic Peaks! Introduce una montagna che si innalza alta, attirando l\'attenzione dei turisti tra le lande pianegianti. Vivi la bellezza della natura. Immergiti nello scenario maestoso di questa perla ambientale e sblocca nuove possibilità per la città. Effettua ora l\'upgrade e fatti incantare da queste montagne!</string>
     <string name="dialog_connect_title">Connettiti con il vicino</string>
     <string name="dialog_connect_text">Volete stabilire un collegamento con l\'esterno?</string>
-    <string name="menu_hideui">Nascondere l\'interfaccia utente</string>
+    <string name="menu_hideui">Nascondi interfaccia utente</string>
     <string name="ci_neighbor_title">Commerciale di quartiere</string>
     <string name="ci_neighbor_notavailable">Al momento non disponibile</string>
     <string name="ci_neighbor_import">Importazione</string>
@@ -1436,7 +1436,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="settings_saveforscreenshot">Salva screenshot</string>
     <string name="draft_eiffeltower00_title">Tour Eiffel</string>
     <string name="draft_eiffeltower00_text">La Tour Eiffel di Parigi è il monumento più importante della Francia. La torre è alta 324 m. Terminata nel 1889.</string>
-    <string name="dialog_wb_text02">Vuoi riscuotere quanto (0#) guadagnato durante la tua assenza?\n\n%2$s</string>
+    <string name="dialog_wb_text02">Vuoi riscuotere quanto ha guadagnato %1$s durante la tua assenza?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Prendi</string>
     <string name="dialog_wb_cmdforfeit">Lascia</string>
     <string name="dialog_diamondtool_title">Finisci costruzione</string>
@@ -1665,9 +1665,9 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="notify_waste_needer00">La spazzatura non viene raccolta per questo edificio.</string>
     <string name="notify_waste_producer00">Questa discarica è piena, dovresti svuotarla!</string>
     <string name="draft_landfill00_text">Un sacco di spazio per raccogliere tutti i rifiuti. Può essere rimosso solo se vuoto.</string>
-    <string name="waste_clear">SCORRI sulla spazzatura per ripulirla.</string>
-    <string name="waste_cmdclear">Pulisci ora</string>
-    <string name="dialog_wasteclear_title">Pulisci ora</string>
+    <string name="waste_clear">STROFINA la spazzatura per ripulirla.</string>
+    <string name="waste_cmdclear">Svuota ora</string>
+    <string name="dialog_wasteclear_title">Svuota ora</string>
     <string name="dialog_wasteclear_text">Possiamo sgomberare la discarica al posto tuo.</string>
     <string name="draft_wasteincinerator00_text">Un modo veloce e sporco per sbarazzarsi di tutti i rifiuti.</string>
     <string name="budget_waste_disposal">Smaltimento dei rifiuti</string>
@@ -1723,7 +1723,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_fence01_title">Recinto bianco</string>
     <string name="draft_fence01_text">È una recinzione, ma è anche bianca.</string>
     <string name="draft_jungletree00_title">Giungla</string>
-    <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
+    <string name="draft_jungletree00_text">\"In the jungle, the mighty jungle, the lion sleeps tonight.\"</string>
 
     <string name="draft_igloo00_title">Igloo</string>
     <string name="draft_igloo00_text">Sorprendentemente, non fa così freddo in un igloo.</string>
@@ -1821,7 +1821,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_discord_statue00_text">Statua di Discord.</string>
     <string name="notify_discord_statue00_title">Grazie!</string>
     <string name="notify_discord_statue00_text">Grazie per i %d membri sul nostro server Discord. Vuoi visitarlo ora?</string>
-    <string name="draftselector_titlebodydisposal">Funerale</string>
+    <string name="draftselector_titlebodydisposal">Funebre</string>
     <string name="draft_roaddeco_protester00_title">Falsi rivoltosi</string>
     <string name="draft_roaddeco_protester00_text">Paga alcune persone per fingere delle proteste.</string>
     <string name="draft_roaddeco_riot00_title">Finta rivolta</string>
@@ -1958,7 +1958,7 @@ Contro: Meno sfide</string>
     <string name="draft_rails00oneway00_title">Ferrovia a senso unico</string>
     <string name="draft_rails00oneway00_text">Utilizzato per guidare i treni. Funziona come una strada a senso unico.</string>
     <string name="specialoffer_cmdbuy">Acquista per %s</string>
-    <string name="influence_body_disposal_title">Funerale</string>
+    <string name="influence_body_disposal_title">Servizio funebre</string>
     <string name="influence_body_disposal_text">Riposa in pace.</string>
     <string name="influence_traffic_title">Traffico</string>
     <string name="influence_traffic_text">Gli abitanti non amano l\'inquinamento e il rumore prodotto dal traffico.</string>
@@ -2200,9 +2200,9 @@ Contro: Meno sfide</string>
     <string name="settings_uisize">Dimensione interfaccia utente</string>
     <string name="settings_uisize_normal">Normale</string>
     <string name="settings_uisize_big">Grande</string>
-    <string name="settings_uisize_bigger">Più grande</string>
-    <string name="settings_uisize_small">Piccolo</string>
-    <string name="settings_uisize_smaller">Più piccolo</string>
+    <string name="settings_uisize_bigger">Grandissima</string>
+    <string name="settings_uisize_small">Piccola</string>
+    <string name="settings_uisize_smaller">Piccolissima</string>
     <string name="createcity_desert">Deserto</string>
     <string name="createcity_snow">Neve</string>
     <string name="weather_sunny">Sole</string>
@@ -2316,7 +2316,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="settings_nightmode_day">Giorno</string>
     <string name="settings_nightmode_night">Notte</string>
     <string name="settings_nightmode_auto">Auto</string>
-    <string name="settings_nightmode_real">In tempo reale</string>
+    <string name="settings_nightmode_real">Tempo reale</string>
     <string name="settings_rushhour">Ora di punta</string>
     <string name="stage_onlineregion_information">Informazioni sulla regione</string>
     <string name="dialog_configureregion_rules_desc">Qui puoi stabilire delle regole che i giocatori di questa regione devono seguire:</string>
@@ -2961,7 +2961,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="settings_cursorstyle_gold">Oro</string>
     <string name="shop_restore">Ripristina acquisti.</string>
     <string name="shop_restored_dialog_title">Acquisti rirpistinati.</string>
-    <string name="shop_restored_dialog_text">Tutti i tuoi acquisti passati sono stati rirpistinati. Il gioco deve essere riavviato per applicare i cambiamenti.</string>
+    <string name="shop_restored_dialog_text">Tutti i tuoi acquisti passati sono stati ripristinati. Il gioco deve essere riavviato per applicare i cambiamenti.</string>
     <string name="dialog_seeds_title">Seed predefiniti</string>
     <string name="settings_keys_cmdunassign">Rimuovi</string>
     <string name="control_apply">Applica</string>
@@ -2969,7 +2969,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="dialog_biomes_title">Biomi</string>
     <string name="dialog_biomes_cmdselectall">Tutti</string>
     <string name="dialog_biomes_cmdunselectall">Nessuno</string>
-    <string name="settings_ground_blending">Ground blending</string>
+    <string name="settings_ground_blending">Sfocatura terreno</string>
     <string name="draft_biome_aspen_forest00_title">Foresta di pioppi</string>
     <string name="draft_biome_deciduous_forest00_title">Foresta di caducifoglie</string>
     <string name="draft_biome_coniferous_forest00_title">Foresta di conifere</string>
@@ -3362,7 +3362,7 @@ Tocca la strada da costruire. Poi, dal menu Costruzione, tocca una casella e sel
     <string name="settings_notify_medic_overloaded">Clinica piena</string>
     <string name="settings_notify_destroyed_tile">Casella distrutta</string>
     <string name="settings_notify_need_low_education">Istruzione bassa richiesta</string>
-    <string name="settings_notify_need_high_education">Istruziona alta richiesta</string>
+    <string name="settings_notify_need_high_education">Istruzione alta richiesta</string>
     <string name="settings_notify_bad_traffic">Troppo traffico</string>
     <string name="settings_notify_waste">Raccolta rifiuti</string>
     <string name="settings_notify_body_disposal">Smaltimento corpi</string>
