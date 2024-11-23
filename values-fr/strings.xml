@@ -1876,7 +1876,7 @@ Si tu donnes accès à TheoTown à du stockage externe, les villes seront sauveg
     <string name="gamemode_free_text">Vous n\'avez pas envie de gérer les finances ? Dans ce mode de jeu il n\'y a pas ni besoin d\'argent, ni d\'exigences citoyennes !</string>
     <string name="dialog_free_title">Mode jeu libre</string>
     <string name="dialog_free_text">Vous avez choisi le mode de jeu libre.\n
-Avantages : Argent infini, citoyens toujours contents, demande en infrastructures réglable\n
+Avantages : Argent infini, pas de contraintes, demande en infrastructures réglables\n
 Inconvénients : Moins de défis</string>
     <string name="draft_medic03_title">Hôpital moderne</string>
     <string name="draft_medic03_text">Un hôpital moderne pour s\'occuper de plus de patients dans un espace réduit.</string>
@@ -1908,7 +1908,7 @@ Inconvénients : Moins de défis</string>
     <string name="draft_marker_hackedmarkermarker_title">CETTE VERSION A ETE PIRATÉE !</string>
 
 
-    <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
+    <string name="settings_dedicatedplugintexture">Plus d'espace pour les textures des plugins (nécessite un redémarrage ; peut être instable)</string>
     <string name="draft_haunted_house00_title">Maison hantée</string>
     <string name="draft_haunted_house00_text"> Cette maison a l\'air hantée avec un esprit occulte. Il doit vivre ici.</string>
     <string name="notify_illness">Il y a une épidémie ! Il faut agir vite ! Envoyez le docteur !</string>
@@ -1927,7 +1927,7 @@ Inconvénients : Moins de défis</string>
     <string name="draft_sf_cityhall00_title">Hôtel de ville</string>
     <string name="draft_sf_cityhall00_text">Un hôtel de ville inspiré de celui de San Francisco.</string>
     <string name="draft_sf_fineartspalace00_title">Palais des Beaux-Arts</string>
-    <string name="draft_sf_fineartspalace00_text">The Palace of Fine Arts of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition.</string>
+    <string name="draft_sf_fineartspalace00_text">Le Palais des Beaux-Arts de San Francisco, est une structure monumentale construite à l'origine pour l'exposition universelle de 1915.</string>
     <string name="shader_invert">Inversé</string>
 
 
@@ -1961,7 +1961,7 @@ Inconvénients : Moins de défis</string>
     <string name="draft_feature_freefastspeed00_title">Vitesse rapide illimitée</string>
     <string name="draft_feature_freetunnels00_title">Tunnels illimités</string>
     <string name="dialog_storedelete_title">Désinstallation</string>
-    <string name="dialog_storedelete_text">Etes-vous sûrs de vouloir supprimer ce plugin ?</string>
+    <string name="dialog_storedelete_text">Êtes-vous sûrs de vouloir supprimer ce plugin ?</string>
     <string name="dialog_storedelete_cmddelete">Désinstallation</string>
     <string name="store_modefeatured">En vedette :</string>
     <string name="store_modecategory">Catégorie</string>
@@ -2099,7 +2099,7 @@ Inconvénients : Moins de défis</string>
     <string name="gamemode_sandbox_text">Utilisez ce mode pour des expériences sans argent. Vos habitants ont encore des besoins que vous devez satisfaire.</string>
     <string name="dialog_ubermode_title">Mode Uber</string>
     <string name="dialog_ubermode_text">Activez ce mode spécial pour vous débarrasser de tous les tracas de la ville :\n-pas d\'incendie\n-pas de déchets\n-pas de maladies\n-pas de crimes\n-pas de décès\n-une éducation complète\n-100% popularité</string>
-    <string name="topic_pluginsawesome">Les plugins sont géniaux ! Cependant, nous recommandons de désactiver les plugins non utilisés.</string>
+    <string name="topic_pluginsawesome">Les plugins sont géniaux ! Cependant, pensez à désactiver les plugins non utilisés.</string>
     <string name="topic_platforms">Saviez-vous que TheoTown est disponible pour PC, Android et iOS ?</string>
     <string name="topic_pluginspace">L\'espace des plugins est limité, gardez cela à l\'esprit</string>
     <string name="topic_rotate">Saviez-vous que vous pouvez faire tourner votre ville ?</string>
@@ -2334,7 +2334,7 @@ En connectant le jeu à un compte du Forum TheoTown, vous pouvez participer dans
     <string name="dialog_outdated_title">Version obsolète</string>
     <string name="dialog_outdated_text">Vous utilisez une version obsolète qui n\'est plus compatible avec cette fonctionnalité.\n\nVeuillez mettre à jour votre jeu.</string>
     <string name="settings_weather_lightning">Eclairage</string>
-    <string name="settings_item_edit">Edit</string>
+    <string name="settings_item_edit">Editer</string>
     <string name="dialog_configureregion_title">Configurer la région</string>
     <string name="dialog_configureregion_previewrules">Aperçu</string>
     <string name="dialog_regionrules_general">Règles générales</string>
@@ -2355,7 +2355,7 @@ En connectant le jeu à un compte du Forum TheoTown, vous pouvez participer dans
     <string name="draft_concrete01_title">Béton décapé</string>
     <string name="createregion_regionname">Nom de la région :</string>
     <string name="dialog_regionrules_allowsandbox">Le bac à sable est autorisé.</string>
-    <string name="dialog_regionrules_notallowsandbox">Sandbox n\'est pas disponible ici.</string>
+    <string name="dialog_regionrules_notallowsandbox">Le bac à sable n\'est pas disponible ici.</string>
     <string name="dialog_configureregion_rules">Règles</string>
     <string name="dialog_configureregion_infos">Info</string>
     <string name="dialog_configureregion_allowplugins">Autoriser les plugins</string>
@@ -2467,7 +2467,7 @@ En connectant le jeu à un compte du Forum TheoTown, vous pouvez participer dans
     <string name="dialog_deletegift_cmd">Supprimer</string>
 
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
+    <string name="dialog_insufficientspace2_text">Si vous pensez qu'il s'agit d'un problème de signalement, assurez-vous que l'application ai accès au stockage externe.</string>
     <string name="dialog_uploadregiontoobig_title">Télécharger la région</string>
     <string name="dialog_uploadregiontoobig_text">Cette région est trop grosse pour être téléchargée :/</string>
     <string name="channel_onlinemode_title">Mode en ligne</string>
@@ -2508,168 +2508,168 @@ Appuyez sur cette touche pour la lier à cette action.</string>
     <string name="shader_default2">Par défaut</string>
 
 
-    <string name="dialog_regionnopermission_title">No access</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
-    <string name="ranger_cmdselecttrees">Select trees</string>
-    <string name="draft_treeplantertool00_title">Tree Planter</string>
+    <string name="dialog_regionnopermission_title">Pas d'accès</string>
+    <string name="dialog_regionnopermission_text">L'application n'a pas accès au stockage externe pour stocker la région en toute sécurité. Veuillez autoriser l'accès au stockage externe afin de générer des régions.</string>
+    <string name="ranger_cmdselecttrees">Sélectionner des arbres</string>
+    <string name="draft_treeplantertool00_title">Planteur d'arbres</string>
     <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
     <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species :</string>
-    <string name="treeplanter_density">Density :</string>
-    <string name="treeplanter_roughness">Roughness :</string>
-    <string name="treeplanter_brushsize">Brush size :</string>
-    <string name="treeplanter_outofcash">Out of cash</string>
+    <string name="treeplanter_species">Espèces :</string>
+    <string name="treeplanter_density">Densité :</string>
+    <string name="treeplanter_roughness">Rugosité :</string>
+    <string name="treeplanter_brushsize">Taille du pinceau :</string>
+    <string name="treeplanter_outofcash">Pas assez d'argent !</string>
     <string name="control_about">Environ</string>
-    <string name="about_framework">Framework</string>
+    <string name="about_framework">Cadre</string>
     <string name="control_undo">Annuler</string>
     <string name="control_redo">Refaire</string>
-    <string name="toolaction_zoneroad">Add roads</string>
-    <string name="settings_fullscreen_resolution">Fullscreen resolution</string>
-    <string name="settings_tool_history">Undo functionality</string>
-    <string name="topic_birthday_ja">Happy birthday JustAnyone !</string>
+    <string name="toolaction_zoneroad">Ajouter des routes</string>
+    <string name="settings_fullscreen_resolution">Résolution plein écran</string>
+    <string name="settings_tool_history">Fonctionnalité Annuler</string>
+    <string name="topic_birthday_ja">Joyeux anniversaire JustAnyone !</string>
 
 
     <string name="ci_neighbor_se">SE</string>
     <string name="ci_neighbor_ne">NE</string>
     <string name="ci_neighbor_nw">NW</string>
     <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed ?</string>
+    <string name="dialog_removewithprice_title">Coût de supression</string>
+    <string name="dialog_removewithprice_text">Le prix pour supprimer la selection est de %1$s. Voulez vous continuer ?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
+    <string name="featureselector_doubledincometime">Revenus doublés pendant %1$s</string>
+    <string name="draft_marker_powermarker_text">Accès à l'énergie. L'énergie est transportée par des fils.</string>
     <string name="draft_marker_waterpipemarker_title">Eau</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
+    <string name="draft_marker_waterpipemarker_text">Accès à l'eau. L'eau est acheminée à l'aide de canalisations.</string>
+    <string name="stage_files_title">Gestionnaire de fichiers</string>
+    <string name="stage_files_importhere">Importer ici</string>
+    <string name="stage_files_currentdir">Dossier actuel</string>
     <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s :</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist !</string>
+    <string name="stage_files_actionexport">Exporter</string>
+    <string name="stage_files_actionrename">Renomer</string>
+    <string name="stage_files_actionrename_text">Renomer le fichier %1$s :</string>
+    <string name="stage_files_renamecollision_title">Collision de nom</string>
+    <string name="stage_files_renamecollision_text">Le fichier %1$s exist déjà !</string>
     <string name="stage_files_actiondelete">Supprimer</string>
     <string name="stage_files_actiondelete_title">Supprimer ?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s ? This cannot be undone !</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size : %1$s</string>
+    <string name="stage_files_actiondelete_text">Êtes vous sûr de supprimer ceci %1$s ? Machine arrière impossible !</string>
+    <string name="stage_files_settings">P0aramêtres</string>
+    <string name="stage_files_settings_showhiddenfiles">Afficher les fichiers cachés</string>
+    <string name="stage_files_filesize">Taille : %1$s</string>
     <string name="stage_files_helptitle">Aide</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
+    <string name="stage_files_helptext">Bienvenue dans le gestionnaire de fichiers de TheoTown. Ici, vous pouvez accéder et gérer vos cartes, régions, plugins, etc.</string>
     <string name="unit_sizebytes">%1$,d bytes</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder :</string>
+    <string name="pluginerror_locateplugin">Localiser un plugin</string>
+    <string name="stage_files_createfolder">Créer un dossier</string>
+    <string name="stage_files_createfolder_title">Nouveau dossier</string>
+    <string name="stage_files_createfolder_text">Entrez le nom du nouveau dossier :</string>
     <string name="stage_files_createfolder_cmdcreate">Créer</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist !</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="stage_files_createfoldercollision_title">Fichier existant</string>
+    <string name="stage_files_createfoldercollision_text">Le fichier %1$s existe déjà !</string>
+    <string name="tool_terrain_smoothwaterheights">Addouciceur de profondeur</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
+    <string name="stage_files_importherefiles">Fichier(s)</string>
     <string name="stage_files_importherefolders">Dossier</string>
     <string name="draft_mosque10_title">Hassan II Mosque</string>
-    <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer : 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now ?</string>
+    <string name="draft_mosque10_text">La mosquée Hassan II est une mosquée située à Casablanca, au Maroc. C'est la plus grande mosquée en activité en Afrique et la 7ème plus grande au monde. Son minaret est le deuxième plus haut du monde avec 210 mètres. Achevée en 1993, elle a été conçue par Michel Pinseau sous la direction du roi Hassan II et construite par des artisans marocains venus de tout le royaume. La mosquée se dresse sur un promontoire donnant sur l'océan Atlantique ; les fidèles peuvent prier au-dessus de la mer, mais il n'y a pas de plancher de verre donnant sur l'océan. Les murs sont en marbre travaillé à la main et le toit est rétractable. Un maximum de 105 000 fidèles peuvent se rassembler pour la prière : 25 000 à l'intérieur de la salle de la mosquée et 80 000 sur le terrain extérieur.</string>
+    <string name="dialog_filesrestart_title">Redémarrer</string>
+    <string name="dialog_filesrestart_text">Vous devez redémarrer le jeu pour que les modifications soient prises en compte. Voulez-vous redémarrer le jeu maintenant ?</string>
     <string name="dialog_filesrestart_cmdrestart">Redémarrer</string>
     <string name="dialog_filesrestart_cmdlater">Plus tard</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
+    <string name="settings_multiroaddecosupport">Prise en charge de décorations de routes multiples</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
 
-    <string name="draft_tunnel_management00_title">Road authority</string>
-    <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="draft_tunnel_management00_title_premium">Road authority</string>
-    <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="stage_account_whytoregister">Why to register</string>
-    <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
+    <string name="draft_tunnel_management00_title">Autorité routière</string>
+    <string name="draft_tunnel_management00_text">Les tunnels sont gratuits, les postes de péage générent plus de revenus et les routes sont moins chères dans l'ensemble dans cette ville.</string>
+    <string name="draft_tunnel_management00_title_premium">Autorité routière</string>
+    <string name="draft_tunnel_management00_text_premium">Les postes de péage génèrent plus de revenus et les routes sont moins chères dans l'ensemble de cette ville.</string>
+    <string name="stage_account_whytoregister">Pourquoi s'inscrire ?</string>
+    <string name="stage_account_pro_onlinemode">Profiter du mode en ligne</string>
+    <string name="stage_account_pro_comment">Laisser des commentaires dur les villes et plugins</string>
+    <string name="stage_account_pro_synchronize">Synchroniser votre monnaie et vos achats</string>
+    <string name="stage_account_con_localcities">Les villes locales seront toujours stockées localement</string>
 
 
     <string name="draft_discord_statue02_title">Discord 20k</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
+    <string name="draft_discord_statue02_text">Une nouvelle statue pour célébrer l'anniversaire de nos 20 000 membres sur le Discord. Pour cet anniversaire, nous avons organisé une chasse au trésor complétée en premier par notre glorieux membre KolaKattz.</string>
+    <string name="settings_drawpedestrians">Piétons</string>
+    <string name="draft_pedestrian_road00_title">Chaussée</string>
+    <string name="draft_pedestrian_road00_text">Un simple trottoir pour piétons qui relie les bâtiments proches.</string>
+    <string name="draft_deco_chr_manger00_title">Mangeoire en bois</string>
+    <string name="draft_deco_chr_manger00_text">Une boîte ouverte surdimensionnée dans laquelle les chevaux, les vaches et d'autres animaux se nourrissent.</string>
+    <string name="settings_diagonalroadtool">Construire la route en diagonale si possible</string>
+    <string name="settings_smoothzoom">Zoom addouci</string>
     <string name="settings_smoothzoom_off">De</string>
     <string name="settings_smoothzoom_nearest">Blocky</string>
     <string name="settings_smoothzoom_linear">Floue</string>
     <string name="settings_smoothzoom_fast">Rapide</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="settings_regionoriginbackup">Possibilité de réinitialiser les villes dans les régions nouvellement générées</string>
+    <string name="settings_translateplugins">Traduire les plugins</string>
+    <string name="stage_region_greeter_welcome">Bienvenue à</string>
+    <string name="stage_region_greeter_madewith">Un jeu conçu avec</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot ?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
+    <string name="settings_darkbuildtool">Outil de construction sombre</string>
+    <string name="forum_cmdforgot">Oublié ?</string>
+    <string name="store_rating">Notation</string>
+    <string name="store_rating_unrated">NOT NOTÉ</string>
+    <string name="store_rating_verynegative">TRÉS NÉGATIF</string>
+    <string name="store_rating_negative">NÉGATIF</string>
     <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="store_rating_positive">POSITIF</string>
+    <string name="store_rating_verypositive">TRÉS POSITIF</string>
+    <string name="draft_draft_wst_title">Satisfaction gestion des déchets</string>
+    <string name="draft_draft_wst_text">Satisfaction concernant la gestion des déchets</string>
+    <string name="settings_plugin_texture_cache">Cache de texture des plugin</string>
+    <string name="draft_tree_spruce00_title">Épicéa</string>
+    <string name="draft_tree_spruce00_text">L'épicéa est un conifère à feuilles persistantes. On le trouve dans les régions tempérées et boréales du nord de la Terre. Il peut atteindre une hauteur de 60 mètres !</string>
+    <string name="draft_tree_alder00_title">Aulne</string>
+    <string name="draft_tree_alder00_text">Un arbre à l'air assez commun pouvant atteindre jusqu'à 30 mètres.</string>
+    <string name="stage_gallery_loadingimages">Chargement des images...</string>
+    <string name="ci_neighbor_help">Ici, vous pouvez importer/exporter de l'énergie, de l'eau, des déchets et des cadavres depuis/vers les villes voisines.</string>
+    <string name="ci_budget_help">Vous pouvez y consulter et ajuster vos impôts ainsi que vos dépenses mensuelles. Les habitants et les travailleurs les plus riches paient plus d'impôts. Si les taxes sont trop élevés, vos habitants seront mécontents et quitteront votre ville, ce qui se traduira par un faible bonheur fiscal, nous vous recommandons donc de les régler entre 6,5 et 8,0.</string>
+    <string name="ci_budget_help_nomoney">Vous pouvez y consulter et ajuster vos impôts ainsi que vos dépenses mensuelles. Les habitants et les travailleurs les plus riches paient plus d'impôts. Si les taxes sont trop élevés, vos habitants seront mécontents et quitteront votre ville, ce qui se traduira par un faible bonheur fiscal, nous vous recommandons donc de les régler entre 6,5 et 8,0.</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
+    <string name="stage_account_pro_gallery">Envoyer des captures d'écran de vos villes dans la galerie en ligne</string>
+    <string name="comments_locked">Cette section de commentaires est verrouillée</string>
+    <string name="comments_cmd_lock">Vérrouiller</string>
+    <string name="comments_cmd_unlock">Déveirrouiller</string>
+    <string name="store_cat_officialgameextensions">Extensions officielles du jeu</string>
+    <string name="dialog_screenshot_cmdshare">Partager</string>
+    <string name="settings_targetfps">FPS cible</string>
     <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left ? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="dialog_nointernetaccess_title">Pas de connexion</string>
+    <string name="dialog_nointernetaccess_text">Vous êtes hors ligne.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Continuer</string>
+    <string name="store_modebestrated">Mieux noté</string>
+    <string name="dialog_pluginqualityunsure_title">Soyez prudent</string>
+    <string name="dialog_pluginqualityunsure_text">Le plugin que vous êtes sur le point de télécharger n'a pas encore reçu beaucoup de téléchargements ou d'évaluations. Il se peut donc qu'il ne réponde pas exactement à vos attentes.</string>
+    <string name="dialog_pluginqualityunsure_gotit">Continuer</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Ne plus signaler</string>
+    <string name="store_modecertifiedcreators">Créateurs certifiés</string>
+    <string name="ci_rating_help">Ici, vous pouvez voir le bonheur de vos habitants. Plus il y a de bonheur, plus il y a de gens qui viennent vivre dans votre ville. Tapez sur une ligne pour voir la répartition correspondante dans la ville.</string>
+    <string name="ci_rank_help">Le rang actuel d'une ville indique son niveau de développement. Vous pouvez gagner des points de ville pour atteindre le niveau suivant en augmentant le nombre d'habitants ou en développant la ville en général. Le fait de débloquer un rang peut vous permettre de débloquer de nouveaux bâtiments.</string>
+    <string name="ci_loan_help">Vous n'avez plus d'argent ? Vous pouvez contracter un prêt pour continuer à construire. Cependant, n'oubliez pas que vous devrez rembourser le prêt au fil du temps.</string>
+    <string name="ci_health_help">Rester en bonne santé dans une grande ville peut s'avérer difficile. Construisez des installations médicales pour que vos habitants n'aient plus à s'en préoccuper.</string>
+    <string name="ci_energy_help">De nombreux bâtiments ont besoin d'électricité pour fonctionner. Veillez à produire des quantités suffisantes d'énergie, mais aussi à ce que tout soit connecté au réseau.</string>
+    <string name="ci_info_help">Vous trouverez ici des informations générales sur votre ville.</string>
+    <string name="ci_education_help">L'éducation est essentielle pour permettre aux habitants d'améliorer leurs conditions de vie, mais aussi pour attirer des travailleurs et des investisseurs qualifiés.</string>
+    <string name="ci_airport_help">Il s'agit ici du contrôle de vos aéroports. Vous pouvez choisir des pistes sur la carte, acheter des avions et les affecter à celles-ci.</string>
+    <string name="ci_water_help">L'eau est essentielle à la vie et vos habitants ne font pas exception. Veillez à fournir des quantités d'eau suffisantes et à ce que tout soit relié à des tuyaux. Ne placez pas les pompes à eau dans des zones polluées ou vos habitants tomberont malades.</string>
+    <string name="ci_statistics_help">Ces graphiques peuvent vous aider à suivre le développement de la ville. Utilisez les flèches sur le côté droit pour passer d'un graphique à l'autre. Les boutons +/- permettent d'effectuer des zooms avant et arrière.</string>
 
 
     <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
+    <string name="draft_cat_streetlights00_title">Éclairage public</string>
+    <string name="toolaction_roadautodecorations">Utiliser les décorations</string>
+    <string name="draft_biomeMaker_open00_title">Édition du sol</string>
+    <string name="draft_biomeMaker_open00_text">Vous pouvez éditer le sol facilement en utilisant cet outil.</string>
     <string name="biomemaker_types">Types :</string>
 
 
