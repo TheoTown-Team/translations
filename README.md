@@ -5,7 +5,7 @@ Here *anybody* can help to localize TheoTown to other languages.
 ## For translators ##
 
 ### How translation works ###
-Each `values.xml` file contains lines of the form:<br/>
+Every `values.xml` (`strings.xml`) file contains lines of the form:<br/>
 `<tagname>"My translation"</tagname>`<br/>
 You have just to translate the part in between (here "My Translation"). Special characters like `\n` might be used to indicate a new line. When your translation is done, **make sure to create a 'pull request'** so it can be merged to main branch. If you forget to do that step your translation won't be added to the main branch.
 
@@ -46,11 +46,11 @@ For more two letter language codes see [ISO 639-1](http://www.loc.gov/standards/
 Certain characters cannot be written directly within the xml file. You will have to replace them according to the following table:
 Character | Escaped form
 --|--------------------------
-" | \&quot;
-' | \&apos;
-< | \&lt;
-\> | \&gt;
-& | \&amp;
+" | `&quot;`
+' | `&apos;` or `\'`
+< | `&lt;`
+\> | `&gt;`
+& | `&amp;`
 
 In Json based translations you will only have to replace " by \\"
 
