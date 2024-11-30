@@ -3388,4 +3388,43 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="settings_notify_bad_attribute">Bad value</string>
     <string name="show_eula">EULA</string>
 
+
+    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
+    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
+    <string name="dialog_loginforreport_title">Login Required to Report</string>
+    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
+    <string name="settings_debug_hotkeys">Debug hotkeys</string>
+    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
+    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
+    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="settings_cursorstyle_citylights">CityLights</string>
+    <string name="settings_cursorstyle_aurora">Aurora</string>
+    <string name="settings_cursorstyle_steampunk">Steampunk</string>
+    <string name="settings_cursorstyle_cyberpunk">Cyberpunk</string>
+    <string name="stats_level00">₮</string>
+    <string name="stats_level01">₮₮</string>
+    <string name="stats_level02">₮₮₮</string>
+    <string name="stage_files_actioncopy">Copy to clipboard</string>
+    <string name="stage_files_actionopen">Open</string>
+    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
+    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
+    <string name="comments_language">Language: %s</string>
+    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
+    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
+    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
+    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
+    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
+    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
+    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
+    <string name="loadcity_scenario">Scenario: %s</string>
+    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+
 </resources>
