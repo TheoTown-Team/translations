@@ -3048,54 +3048,54 @@ By doing so we can circumvent potential data loss caused by app updates or re-in
     <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="draft_dsarocket_launchbutton">發射</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">已經發射</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">發射正在進行中</string>
+    <string name="draft_dsarocket_requirement_supplies">補給: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">價格: %s</string>
+    <string name="draft_dsarocket_test_text">向太空發射空的實驗火箭，以收集資訊併為其他發射和行動做準備。</string>
+    <string name="draft_dsarocket_animal_text">向太空發射一枚搭著一隻叫Akial的貓的的火箭，以收集重要資訊。</string>
+    <string name="draft_dsarocket_navigation_text">向太空發射載人火箭進行導航測試。</string>
+    <string name="draft_dsarocket_exploration_text">發射火箭進行探索任務，以找到一個適合殖民的地方。</string>
+    <string name="draft_dsarocket_sdi_text">向太空發射一系列火箭，以組裝太空防禦計劃。</string>
+    <string name="draft_dsarocket_deprecated_text">發射臺已更新，您需要銷燬這個並構建新的。</string>
+    <string name="stage_createcity_terrain">地形...</string>
+    <string name="dialog_terrain_title">地形</string>
+    <string name="dialog_missingmanifest_title">缺少清單清單檔案</string>
+    <string name="dialog_missingmanifest_text">以下插件缺少插件清單檔案(plugin.manifest)。這可能會導致一些插件和線上模式出現問題。可能無法保證未來的相容性:</string>
+    <string name="dialog_missingmanifest_cmdhelp">那是什麼？</string>
+    <string name="createcity_rivers">河流</string>
+    <string name="createcity_roughness">粗糙度</string>
+    <string name="createcity_roughness_flat">平坦</string>
+    <string name="createcity_roughness_less">起伏</string>
+    <string name="createcity_roughness_default">正常</string>
+    <string name="createcity_roughness_more">崎嶇</string>
+    <string name="createcity_roughness_extreme">亂石嶙峋</string>
+    <string name="buildingicon_illness">這棟樓裡的人都生病了。你應該派輛救護車來。</string>
+    <string name="buildingicon_noroad">這座建築沒有與一條合適的道路相連。</string>
+    <string name="buildingicon_noenergy">這棟樓停電了。</string>
+    <string name="buildingicon_nowater">這棟樓停水了。</string>
+    <string name="buildingicon_overloaded">這座建築超載了，看來你需要提供更多的容量喔。</string>
+    <string name="buildingicon_unhappy">這裡的人看起來很不開心，看來你需要提高他們的滿意度喔。</string>
+    <string name="buildingicon_waste">這棟樓裡有未收集的垃圾。</string>
+    <string name="buildingicon_wasteoverloaded">這個垃圾填埋場已經滿了。</string>
+    <string name="buildingicon_deadbodies">這棟樓裡有未處理的屍體，這個很恐怖的說！快來拉走！</string>
+    <string name="buildingicon_deadbodiesoverloaded">這個墓地已經滿了。</string>
+    <string name="buildingicon_crimegraffiti">有人在這裡非法塗鴉喔，叫警察來抓走壞人吧。</string>
+    <string name="buildingicon_crimeburglary">誰？！有人闖入這裡！</string>
+    <string name="buildingicon_crimemurder">啊啊啊！有人在這裡被殺了。</string>
+    <string name="buildingicon_crimeriot">這裡正在發生一場暴亂！</string>
+    <string name="dialog_scriptpolicy_title">插件Lua腳本設置</string>
+    <string name="dialog_scriptpolicy_help_title">插件的Lua腳本可能存在風險</string>
+    <string name="dialog_scriptpolicy_help_text">您有權設置外部插件的指令碼執行與否。請僅將來自您信任的來源的指令碼列入白名單（例如，如果您正在開發插件）。\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+如有疑問，在沒有自己檢查程式碼的情況下，請勿啟用指令碼執行。\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+如果禁用，需要執行指令碼才能工作的插件可能無法正常工作。同時，您必須重新啟動遊戲才能產生效果。</string>
+    <string name="settings_openscriptpolicy">插件Lua腳本設置</string>
+    <string name="stage_files_itemcount">%d項內容</string>
+    <string name="tips_title">提示</string>
+    <string name="tips_cmd_random">另一個</string>
     <string name="tip_topic_culture_title">
 Culture is provided by some landmarks, awards and plugins!
     </string>
@@ -3413,6 +3413,6 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左鍵單擊它以開啟和關閉它。 製造交通堵塞的好方法。</string>
     <string name="draft_gol_dead_text_onmouseinput">開始一個康威生命遊戲。單擊現有的方格以切換其狀態。默認狀態為死。</string>
     <string name="loadcity_scenario">方案: %s</string>
-    <string name="trainstationinfo_total">轉賬總額: %1$,d</string>
+    <string name="trainstationinfo_total">轉賬總額: %1$,d</string> <!-- May needs corrections -->
 
 </resources>
