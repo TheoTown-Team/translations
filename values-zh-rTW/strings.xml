@@ -2133,13 +2133,13 @@
     <string name="dialog_commentdelete_title">刪除評論</string>
     <string name="dialog_commentdelete_text">確定要刪除 %1$s 的評論嗎?</string>
     <string name="dialog_commentdelete_cmd">刪除</string>
-    <string name="stage_comment_login">使用 TheoTown 帳戶登錄以發表評論</string>
+    <string name="stage_comment_login">使用 TheoTown 帳戶登入以發表評論</string>
     <string name="dialog_report_title">檢舉</string>
     <string name="dialog_report_text">請選中檢舉理由檢舉 %1$s:</string>
     <string name="dialog_report_appendix">您可以發送其他資訊给 report@theotown.com 以檢舉</string>
     <string name="dialog_reported_title">瞭解</string>
-    <string name="dialog_reported_text">Thank you for your report. We will review it and take action accordingly.\nYou may send us additional information to report@theotown.com if needed.</string>
-    <string name="dialog_report_cmd">Report</string>
+    <string name="dialog_reported_text">感謝您的檢舉。 我們將對其進行審查並採取相應的行動。\n如果需要，您可以將更多資訊傳送至report@theotown.com</string>
+    <string name="dialog_report_cmd">檢舉/報告</string>
     <string name="stage_comment_reportsubject">the comment by %1$s</string>
     <string name="stage_store_reportsubject">the plugin "%1$s"</string>
     <string name="stage_comment_noperm">You are not allowed to comment on that plugin.</string>
@@ -2499,13 +2499,13 @@ Press a key to assign it to this action.</string>
     <string name="stage_files_actionrename_text">Rename file %1$s:</string>
     <string name="stage_files_renamecollision_title">Naming collision</string>
     <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
+    <string name="stage_files_actiondelete">刪除</string>
+    <string name="stage_files_actiondelete_title">刪除？</string>
     <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
+    <string name="stage_files_settings">設定</string>
+    <string name="stage_files_settings_showhiddenfiles">顯示隱藏的資料夾</string>
+    <string name="stage_files_filesize">大小: %1$s</string>
+    <string name="stage_files_helptitle">幫助</string>
     <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
     <string name="unit_sizebytes">%1$,d bytes</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
@@ -2513,9 +2513,9 @@ Press a key to assign it to this action.</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
     <string name="pluginerror_locateplugin">Locate plugin</string>
     <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
+    <string name="stage_files_createfolder_title">創建資料夾</string>
+    <string name="stage_files_createfolder_text">鍵入資料夾名：</string>
+    <string name="stage_files_createfolder_cmdcreate">創建</string>
     <string name="stage_files_createfoldercollision_title">File exists</string>
     <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
     <string name="tool_terrain_smoothwaterheights">平滑深度</string>
@@ -2566,7 +2566,7 @@ Press a key to assign it to this action.</string>
     <string name="settings_darkbuildtool">暗色建造頁面</string>
     <string name="forum_cmdforgot">忘記了?</string>
     <string name="store_rating">評價</string>
-    <string name="store_rating_unrated">NOT RATED</string>
+    <string name="store_rating_unrated">沒有評分</string>
     <string name="store_rating_verynegative">VERY NEGATIVE</string>
     <string name="store_rating_negative">NEGATIVE</string>
     <string name="store_rating_mixed">MIXED</string>
@@ -2666,7 +2666,7 @@ Press a key to assign it to this action.</string>
     <string name="draft_dsa_zone_text">Zone to declare DSA territory in the city.</string>
     <string name="draft_dsaroad_title">Speedroad</string>
     <string name="draft_dsaroad_text">Faster than normal road designed by DSA.</string>
-    <string name="draft_dsa_ultra_road00_title">DSA MK3.2 road</string>
+    <string name="draft_dsa_ultra_road00_title">DSA MK3.2路</string>
     <string name="draft_dsa_ultra_road00_text">Insanely speedy road designed by DSA.</string>
     <string name="draft_dsahq_title">DSA headquarters</string>
     <string name="draft_dsahq_text">The headquarters for all DSA operations in the area.</string>
@@ -2971,11 +2971,11 @@ Press a key to assign it to this action.</string>
     <string name="shop_restored_dialog_text">All of your previous purchases have been restored. You may have to restart the game in order to see an effect.</string>
     <string name="dialog_seeds_title">Built-in Seeds</string>
     <string name="settings_keys_cmdunassign">Unassign</string>
-    <string name="control_apply">Apply</string>
+    <string name="control_apply">應用</string>
     <string name="stage_createcity_biomes">Biomes...</string>
     <string name="dialog_biomes_title">Biomes</string>
-    <string name="dialog_biomes_cmdselectall">All</string>
-    <string name="dialog_biomes_cmdunselectall">None</string>
+    <string name="dialog_biomes_cmdselectall">全選</string>
+    <string name="dialog_biomes_cmdunselectall">全不選</string>
     <string name="settings_ground_blending">Ground blending</string>
     <string name="draft_biome_aspen_forest00_title">Aspen forest</string>
     <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
@@ -3342,11 +3342,11 @@ Elevate roads using the arrow options on the right
     <string name="tip_topic_building_bridges_text">
 Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
     </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_title">全部下載</string>
+    <string name="store_cmd_downloadall_text">下載 / activate all missing plugins at once</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">訪問</string>
 
 
     <string name="settings_category_notifications">Notifications</string>
@@ -3377,14 +3377,14 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
+    <string name="dialog_uploadregionpolicy_title">非活躍地區政策</string>
+    <string name="dialog_uploadregionpolicy_text">請注意，閒置超過一年的區域可能會被自動刪除。 這項措施對於為新地區騰出空間並確保活躍玩家獲得最佳體驗是必要的。 在因不活動而刪除之前，我們會提前通知您。</string>
+    <string name="dialog_loginforreport_title">需要登入才能檢舉</string>
+    <string name="dialog_loginforreport_text">為了確保我們檢舉系統的完整性，只有登入的使用者才能提交報告。 請登入以繼續您的檢舉。</string>
     <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="specialoffer_alreadyunlocked">你已經解鎖了這個物品。</string>
+    <string name="settings_highlight_hovered_building">突出顯示懸停的建築</string>
+    <string name="settings_cursorscaling">遊標尺寸</string>
     <string name="settings_cursorstyle_citylights">CityLights</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
@@ -3392,27 +3392,27 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+    <string name="stage_files_actioncopy">複製到剪貼簿</string>
+    <string name="stage_files_actionopen">打開</string>
+    <string name="stage_files_imageresolution">影象解析度: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">TheoTown版本過低</string>
+    <string name="loadcity_outdatedscenario_dialog_text">此內容需要最低 %s 或更高的TheoTown版本，但您正在使用 %s。\n\n請檢查更新以使用本內容。</string>
+    <string name="comments_language">語言: %s</string>
+    <string name="comments_cmdtranslate">翻譯 （翻譯可能不準確）</string>
+    <string name="waste_clear_onmouseinput">單擊並拖動垃圾以清除它。</string>
+    <string name="cemetery_clear_onmouseinput">單擊並拖動以騰出一些空間。</string>
+    <string name="tutorial_buildroad_b_onmouseinput">沿著有標記的方格鋪路。 要建造它，請單擊以設定起點，再次單擊以設定終點。</string>
+    <string name="tutorial_rci_onmouseinput">單擊此按鈕以檢視每個區域型別的詳細需求資訊。</string>
+    <string name="tutorial_money_info_onmouseinput">單擊右下角以獲取有關您資金的更多資訊或更改稅收。</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">點選計劃道路的起點和終點。 看看一座橋是如何自動在河上建造的。</string>
+    <string name="tool_airplanelane_title_onmouseinput">點選一條自由的車道</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">只是一份禮物。 試著點點她。</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">想再次建造一條特定的道路或建築嗎？ 使用此工具並單擊它。 並非所有結構都支持。</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">您想將您的螢幕截圖上傳到我們的畫廊嗎？\n\n透過點選 \"現在上傳\", 即代表您同意接受我們的政策。</string>
+    <string name="notify_waste_producer00_onmouseinput">這個垃圾填埋場已經滿了！ 點選它來清除它！</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左鍵單擊它以開啟和關閉它。 製造交通堵塞的好方法。</string>
+    <string name="draft_gol_dead_text_onmouseinput">開始一個康威生命遊戲。單擊現有的方格以切換其狀態。默認狀態為死。</string>
+    <string name="loadcity_scenario">方案: %s</string>
+    <string name="trainstationinfo_total">轉賬總額: %1$,d</string>
 
 </resources>
