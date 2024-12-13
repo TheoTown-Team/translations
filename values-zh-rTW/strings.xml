@@ -908,7 +908,7 @@
     <string name="task_openworld_title">地區</string>
     <string name="task_openworld_text">你的城市只是一個小的部分。你可以在這裡看到你所有的城市。</string>
     <string name="task_openrci_title">建築物需求</string>
-    <string name="task_openrci_text">在TheoTown中，建築物被劃分為了不同的類別以及級別。種類包含有居民建築物，商業建築物以及工業建築物。級別分別有貧困 (₮)，中產 (₮₮)以及富裕 (₮₮₮)。</string>
+    <string name="task_openrci_text">在TheoTown中，建築物被劃分為了不同的型別以及級別。種類包含有居民建築物，商業建築物以及工業建築物。級別分別有貧困 (₮)，中產 (₮₮)以及富裕 (₮₮₮)。</string>
     <string name="control_gotit">明白</string>
     <string name="task_firstcity_title">新城市</string>
     <string name="task_firstcity_text">歡迎來到你的第一個城市。\n\n請試著獲取300個居民。</string>
@@ -1055,7 +1055,7 @@
     <string name="tut_build110">市長，我們還沒有可以買東西的地方!</string>
     <string name="tut_build12">是啊，我們還需要商業區和工業區。讓我們先了解一下具體需求。</string>
     <string name="tut_build13">在這裏你可以看到居民建築物，商業建築物以及工業建築物的需求。</string>
-    <string name="tut_build14">其中，每個類別有三個富裕等級:₮（貧困）， ₮₮（中產）和₮₮₮（富裕）。</string>
+    <string name="tut_build14">其中，每個型別有三個富裕等級:₮（貧困）， ₮₮（中產）和₮₮₮（富裕）。</string>
     <string name="tut_build15">我們當然也想只要富裕居民，但是我們要慢慢來。就像你看到的，我們現在需要一些₮商業建築物。</string>
     <string name="tut_build16">建一個商業區？我相信你能做到的。</string>
     <string name="tut_build17">做得好！現在來看，工業區的需求也不低。現在就建一個吧！</string>
@@ -1920,7 +1920,7 @@
     <string name="dialog_storedelete_text">你確定要卸載這個插件嗎？\n\n本操作雖然不可逆，但是在應用數據消失之前（如換手機導致賬戶數據丟失），你還能再次下載</string>
     <string name="dialog_storedelete_cmddelete">卸掉它</string>
     <string name="store_modefeatured">精選</string>
-    <string name="store_modecategory">類別</string>
+    <string name="store_modecategory">型別</string>
     <string name="store_shorttitle">模組庫</string>
     <string name="gamemenu_catcity">城市</string>
     <string name="gamemenu_catcontent">內容</string>
@@ -2044,10 +2044,10 @@
     <string name="dialog_notenoughmoneyp_title">資金不足</string>
     <string name="dialog_notenoughmoneyp_text">然而以我們的資金還無法購買這個。</string>
     <string name="game_region">區域 %1$d/%2$d</string>
-    <string name="gamemode_sandbox_title">沙箱模式</string>
+    <string name="gamemode_sandbox_title">沙盒模式</string>
     <string name="gamemode_sandbox_text">如果使用這個模式的話，將不再有金錢上的需求。不過，市民的需求你還是要滿足的。</string>
-    <string name="dialog_ubermode_title">Uber模式</string>
-    <string name="dialog_ubermode_text">開啟這個特殊的模式來免除所有的麻煩！\n-這里將不再有火災、垃圾、疾病、犯罪、死亡，居民們也會有100%的教育水平并且会对你的政策100%的满意的！\n译者注：此模式原名叫 Uber Mode，暂时先这么翻译吧。</string>
+    <string name="dialog_ubermode_title">伊甸園模式</string>
+    <string name="dialog_ubermode_text">開啟這個特殊的模式來免除所有的麻煩！\n-這里將不再有火災、垃圾、疾病、犯罪、死亡，居民們也會有100%的教育水平并且会对你的政策100%的满意的！</string>
     <string name="topic_pluginsawesome">插件真的很不錯——不過你用不到的還是禁用一下吧。</string>
     <string name="topic_platforms">現在 TheoTown 在 Android、iOS 以及 Steam 都可游玩啦！</string>
     <string name="topic_pluginspace">插件可用的空間是有限的，請多多留意。</string>
@@ -2619,7 +2619,7 @@
     <string name="toolaction_roadautodecorations">啟用道路裝飾</string>
     <string name="draft_biomeMaker_open00_title">地面漆塗工具</string>
     <string name="draft_biomeMaker_open00_text">使用此地面漆塗專用工具，你可以在西奧小鎮遊戲內在地圖上輕鬆且不用多費精力地進行精緻而或多樣化的地面之漆塗。</string>
-    <string name="biomemaker_types">類別:</string>
+    <string name="biomemaker_types">型別:</string>
 
 
     <string name="control_save">儲存</string>
@@ -2634,9 +2634,9 @@
     <string name="draft_biomeMaker_atground">覆蓋於平面上</string>
     <string name="draft_biomeMaker_atslope">覆蓋於斜坡上</string>
     <string name="draft_biomeMaker_useslope">使用地形已有之斜坡貼圖</string>
-    <string name="draft_biomeMaker_nogroundtype">你並未選擇平面地形類別</string>
-    <string name="draft_biomeMaker_noslopetype">你並未選擇斜坡地形類別</string>
-    <string name="draft_biomeMaker_nodecotype">你並未選擇裝飾地形類別</string>
+    <string name="draft_biomeMaker_nogroundtype">你並未選擇平面地形型別</string>
+    <string name="draft_biomeMaker_noslopetype">你並未選擇斜坡地形型別</string>
+    <string name="draft_biomeMaker_nodecotype">你並未選擇裝飾地形型別</string>
     <string name="draft_biomeMaker_dialogreplace_title">確認操作內容</string>
     <string name="draft_biomeMaker_dialogreplace_text">你確定要用這套來替換%s嗎？該操作不容許你採用撤銷操作以對該操作進行撤銷操作。</string>
     <string name="draft_biomeMaker_dialogreplace_cmdProceed">繼續</string>
@@ -3135,118 +3135,118 @@
 要在設定中調整交通流量，需要先開啟DEBUG模式，開啟DEBUG模式後，調整交通流量的選項將會出現在「遊戲」選項卡中。
     </string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
+在沒錢的時候，貸款是一個不錯的選擇
     </string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+按收入圖標，然後切換到帶有綠色現金圖標的選項卡。然後按“借款”。貸款金額取決於餘額，一次最多可以借5筆貸款。
     </string>
     <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
+貸款每月會自動償還
     </string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+每月遊戲會自動從您的餘額中扣除需要還的貸款。它們不需要手動支付，不過你可以這樣做來減少每月的還費用。可以透過進入貸款選項卡來檢視期限。
     </string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server!
+歡迎加入我們的Discord伺服器
     </string>
     <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+歡迎來我們的Discord伺服器同玩家們分享和交流，你可以在設定頁面找到連結。
     </string>
     <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
+您可以製作自己的插件。這十分簡單™
     </string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+聽到製作插件，你可能認為這十分複雜，但其實製作插件很容易。製作插件需要繪製紋理以及編寫一段簡單的程式碼。要製作紋理，您可以在PC上使用paint.net，在手機上使用Pixly等。要編寫JSON程式碼，您可以在論壇的幫助下編寫自己的程式碼，或使用https://pca.svetikas.lt/。如果您有任何問題，您可以在Discord或論壇上訊問！關於更多教程，您可以訪問論壇https://forum.theotown.com/
     </string>
     <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
+在線上模式與朋友們共建夢想之城
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+透過按區域視圖中的線上按鈕，您可以遊玩我們的線上模式，與朋友們共同建設建立一個美麗的區域。雖然遊戲不允許多個玩家在同一地圖上玩，但您可以訪問其他城市並獲得靈感。
     </string>
     <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
+將地圖上傳到線上模式需要鑽石或地區幣
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+上傳區域至線上模式需要花費鑽石（移動設備上）或者地區幣（PC），它們可以通過每日登入取得。上傳區域的成本因大小而異。在上傳地圖時，建立者可以選擇設定密碼和一些規則。密碼一旦確立，就無法新增或刪除。
     </string>
     <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
+您可以透過每天登入獲得鑽石
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+每天登入將獲得鑽石獎勵。透過一週內每天登入，您將獲得更多獎勵。一旦你獲得最終獎勵，它就會重置並重新開始。此外，您可以每30分鐘觀看一次廣告影片來獲得的鑽石。
     </string>
     <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
+火箭供應品可以一些工業建築提供
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+供應石油的建築分佈在不同級別的行業。這些包括石油開採建築、儲存建築和加工建築。這些將為您的火箭提供供應品。在火箭附近擁有更多的建築將有助於更快地供應它。
     </string>
     <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
+有時火車或公共汽車可能看起來沒有出現，但它們仍然有影響
     </string>
     <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+公共汽車和火車可能會顯示目前沒有乘客。然而，它們已經產生了影響，訊息將來可能會更新。公共汽車和火車提供了交通的滿意度。因此，請務必用它們覆蓋住宅，商業和工業區。
     </string>
     <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
+噴漆圖標代表犯罪行為，建造一個警察局
     </string>
     <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+當建築物沒有受到警察局的保護時，有些壞人就會來那裡噴漆，這時建築物的頭頂上會出現噴漆圖標。住宅、商業和工業建築需要警察局，因此請確保您的城市治安良好，也就是建設足夠的警察局，以避免可能的犯罪。
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
+建造墓地和火葬場來處理死者
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
+如果一個或多個建築物上方出現一個死者圖標，則表示您需要建造墓地或火葬場。墓地剛開始時很好，但隨著城市的發展，它們必須越來越頻繁地被清理掉。因此，火葬場可能是一個更好的長期解決方案。
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
+建立鄰里商業以獲取更多收入
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+鄰里商業，顧名思義，可以讓您的所在城市與周邊城市進行商業往來，您既可以向周邊的城市輸送電力、提供供水、垃圾處理和葬禮服務，也可以從周邊城市獲得它們。不過，這在線上模式、沙盒以及伊甸園模式中不起作用。
     </string>
     <string name="tip_topic_airport_title">
-The airport is a good long term investment
+機場是一項很好的長期投資
     </string>
     <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+建造所有機場建築，增加跑道，並將飛機分配到跑道上以讓機場運作起來。機場在使用時往往會變得有利可圖。這意味著一旦支付了初始成本，就可以獲得可觀的利潤。
     </string>
     <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
+YouTube上有很多實用的教程
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+有些經驗豐富的TheoTown玩家和創作者們在YouTube上發布影片。你可以在上面找到實用的遊戲教程，炫酷的延時攝影，等等。
     </string>
     <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
+遊戲中的物價也會上漲，就像現實生活中一樣
     </string>
     <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+隨著建築物建造次數的增多，她們的價格也會上漲，建得越多，花的越多。所有東西都是這樣。
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+在沙盒/伊甸園模式模式下釋放靈感
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+許多經驗豐富的玩家更喜歡在沙盒或伊甸園模式上玩，以獲得更多的創作自由。這允許他們在不受資金限制的情況下建造，在伊甸園模式下，你不必擔心幸福或需求。 你可以手動放置建築物，這可以讓你依據自己的想法來創造令人驚歎的作品。如果這聽起來不像你，不要擔心，每個人都有不同的構造！
     </string>
     <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
+您可以在遊戲設定中關閉自動災難
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+災難可以在設定中關閉，您可以選擇想要玩的災難（如果有的話）。 不過DSA的導彈以及採礦站仍有可能引發災害。
     </string>
     <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
+你的大部分收入來自稅收，但不要將其設定在9%以上
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+特別是在早期，90%或更多的收入來自對居民徵稅。建議要徵收的稅款在7%到9%之間，如果稅收高於這個，就會有暴亂和人們放棄房屋和城市的風險。
     </string>
     <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
+您可以使用+和-按鈕調整稅收
     </string>
     <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+按笑臉圖標，然後切換到稅收選項卡，然後使用+和-按鈕切換每個建築型別和收入組的稅收。 不過，要小心不要把稅收定得太高。
     </string>
     <string name="tip_topic_moon_title">
 Use DSA to go to the moon
@@ -3404,7 +3404,7 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="waste_clear_onmouseinput">單擊並拖動垃圾以清除它。</string>
     <string name="cemetery_clear_onmouseinput">單擊並拖動以騰出一些空間。</string>
     <string name="tutorial_buildroad_b_onmouseinput">沿著有標記的方格鋪路。 要建造它，請單擊以設定起點，再次單擊以設定終點。</string>
-    <string name="tutorial_rci_onmouseinput">單擊此按鈕以檢視每個區域類別的詳細需求資訊。</string>
+    <string name="tutorial_rci_onmouseinput">單擊此按鈕以檢視每個區域型別的詳細需求資訊。</string>
     <string name="tutorial_money_info_onmouseinput">單擊右下角以獲取有關你資金的更多資訊或更改稅收。</string>
     <string name="tutorial_buildbridge_b_onmouseinput">點選計劃道路的起點和終點。 看看一座橋是如何自動在河上建造的。</string>
     <string name="tool_airplanelane_title_onmouseinput">點選一條自由的車道</string> <!-- May needs correction -->
