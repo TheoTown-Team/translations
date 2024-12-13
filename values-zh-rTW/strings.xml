@@ -332,7 +332,7 @@
     <string name="notify_religion">可以為我們建造一些宗教性建築嗎?</string>
     <string name="notify_park">多點綠化會更美的。</string>
     <string name="notify_sport">我們希望能夠有做體育運動的地方。</string>
-    <string name="buildinginfo_happiness">總滿意度: %1$.0f%%</string>
+    <string name="buildinginfo_happiness">總幸福度: %1$.0f%%</string>
     <string name="notify_noenergy">有的建築物處於斷電狀態!</string>
     <string name="notify_nowater">有的建築物沒有水!</string>
     <string name="draft_footballstadion00_roof_title">頂棚</string>
@@ -371,7 +371,7 @@
     <string name="happiness_transportation">交通</string>
     <string name="happiness_water">供水</string>
     <string name="happiness_zone">區域</string>
-    <string name="buildinginfo_happiness_comp">最低滿意度: %2$.0f%% (%1$s)</string>
+    <string name="buildinginfo_happiness_comp">最低幸福度: %2$.0f%% (%1$s)</string>
     <string name="draftselector_titlereligion">宗教</string>
     <string name="draft_church01_title">教堂</string>
     <string name="draft_church01_text">一座教堂</string>
@@ -578,8 +578,8 @@
     <string name="happiness_education">教育</string>
     <string name="draft_marker_densitymarker_title">建築密度</string>
     <string name="draft_marker_densitymarker_text">建築物的密度。</string>
-    <string name="draft_marker_happinessmarker_title">滿意度</string>
-    <string name="draft_marker_happinessmarker_text">居民對各個建築的滿意度。</string>
+    <string name="draft_marker_happinessmarker_title">幸福度</string>
+    <string name="draft_marker_happinessmarker_text">居民對各個建築的幸福度。</string>
     <string name="draft_marker_levelmarker_title">建築等級</string>
     <string name="draft_marker_levelmarker_text">建築物等級</string>
     <string name="draft_marker_protectedmarker_title">受保護建築物</string>
@@ -731,7 +731,7 @@
     <string name="roadinfo_title">道路</string>
     <string name="roadinfo_trafficlights_on">開啟信號燈</string>
     <string name="roadinfo_trafficlights_off">關閉信燈</string>
-    <string name="notify_crime">這裡會發生犯罪。你需要建立更多的警察局，或者提高居民的滿意度。</string>
+    <string name="notify_crime">這裡會發生犯罪。你需要建立更多的警察局，或者提高居民的幸福度。</string>
     <string name="tutorial_buildbridge_a">為了使交通更加流暢，我們需要強化主街。請為此選擇城市公路。</string>
     <string name="tutorial_buildbridge_b">點擊準備規劃道路的起始點和終點。位於水上的路線會自動建立起橋。</string>
     <string name="tutorial_buildbridge_c">好，樹木就到此為止了。</string>
@@ -754,8 +754,8 @@
     <string name="draft_road05_title">高速公路</string>
     <string name="draft_road04_text">一條美麗的林蔭大道。</string>
     <string name="draft_road05_text">連接兩個相隔較遠地區的完美方法。</string>
-    <string name="notify_unhappy">這裡的人們對%1$s不太滿意。你要試著提高他們的滿意度。</string>
-    <string name="happiness_general">綜合滿意度</string>
+    <string name="notify_unhappy">這裡的人們對%1$s不太滿意。你要試著提高他們的幸福度。</string>
+    <string name="happiness_general">綜合幸福度</string>
     <string name="draft_rnk_isolateddwelling_title">孤立住宅</string>
     <string name="draft_rnk_hamlet_title">哈姆雷特</string>
     <string name="draft_rnk_village_small_title">小村莊</string>
@@ -877,7 +877,7 @@
     <string name="ci_budget_doublemoney_text">使你在%1$,d天的收入加倍。</string>
     <string name="ci_budget_getmoney_title">得到%1$s</string>
     <string name="ci_budget_getmoney_text">用%1$s來換點什麼吧。</string>
-    <string name="notify_badattribute">要想讓%2$s搬到你的城市，我們需要把滿意度提高%1$s。</string>
+    <string name="notify_badattribute">要想讓%2$s搬到你的城市，我們需要把幸福度提高%1$s。</string>
     <string name="game_remaining_doubleincome">%1$,d天雙倍收入</string>
     <string name="dialog_diamondshop_title">商店</string>
     <string name="features_notenough">不夠%1$s</string>
@@ -1064,7 +1064,7 @@
     <string name="tut_build22">有趣的工具不止這一個哦。</string>
     <string name="tut_build23">在這裏，你可以看到一些關於你的城市的綜合信息。如果你想要給你的城市換一個新的名字的話，那就直接點擊他現在的名字。</string>
     <string name="tut_build24">這是另一個好用的工具。</string>
-    <string name="tut_build25">它會告訴你居民具體的滿意度。</string>
+    <string name="tut_build25">它會告訴你居民具體的幸福度。</string>
     <string name="tut_build26">你想要操控時間嗎？試試加快遊戲的速度吧。。</string>
     <string name="tut_build27">現在暫停遊戲。</string>
     <string name="tut_build28">現在返回正常遊戲速度模式。。。</string>
@@ -1469,30 +1469,30 @@
     <string name="draft_draft_fth_text">市民對信仰的指數</string>
     <string name="draft_draft_hlth_title">健康</string>
     <string name="draft_draft_hlth_text">市民基本的衛生的指標</string>
-    <string name="draft_draft_hedu_title">市民對教育的滿意度</string>
-    <string name="draft_draft_hedu_text">市民針對教育設施可覆蓋的范圍的滿意度</string>
-    <string name="draft_draft_hlvl_title">市民對階級的滿意度</string>
-    <string name="draft_draft_hlvl_text">市民針對鄰近的建筑物的滿意度</string>
-    <string name="draft_draft_htx_title">市民對稅務的滿意度</string>
-    <string name="draft_draft_htx_text">市民針對繳稅率的滿意度</string>
-    <string name="draft_draft_htr_title">市民對公交服務的滿意度</string>
-    <string name="draft_draft_htr_text">市民對公交服務可覆蓋范圍的滿意度</string>
-    <string name="draft_draft_hzn_title">市民對區域的滿意度</string>
-    <string name="draft_draft_hzn_text">市民針對區域的分配的滿意度</string>
-    <string name="draft_draft_hspl_title">市民對水電供應的滿意度</string>
-    <string name="draft_draft_hspl_text">市民對水電供應的可覆蓋范圍的滿意度</string>
-    <string name="draft_draft_hft_title">市民對可休閑的設施的滿意度</string>
-    <string name="draft_draft_hft_text">市民對公園等其他休閑設施的滿意度</string>
-    <string name="draft_draft_henv_title">市民對環境的滿意度</string>
-    <string name="draft_draft_henv_text">市民對環境優等的滿意度</string>
-    <string name="draft_draft_hpd_title">市民對警察的滿意度</string>
-    <string name="draft_draft_hpd_text">市民對治安的滿意度</string>
-    <string name="draft_draft_hfd_title">市民對消防的滿意度</string>
-    <string name="draft_draft_hfd_text">市民對安全的滿意度</string>
-    <string name="draft_draft_hpk_title">市民對公園的滿意度</string>
+    <string name="draft_draft_hedu_title">市民對教育的幸福度</string>
+    <string name="draft_draft_hedu_text">市民針對教育設施可覆蓋的范圍的幸福度</string>
+    <string name="draft_draft_hlvl_title">市民對階級的幸福度</string>
+    <string name="draft_draft_hlvl_text">市民針對鄰近的建筑物的幸福度</string>
+    <string name="draft_draft_htx_title">市民對稅務的幸福度</string>
+    <string name="draft_draft_htx_text">市民針對繳稅率的幸福度</string>
+    <string name="draft_draft_htr_title">市民對公交服務的幸福度</string>
+    <string name="draft_draft_htr_text">市民對公交服務可覆蓋范圍的幸福度</string>
+    <string name="draft_draft_hzn_title">市民對區域的幸福度</string>
+    <string name="draft_draft_hzn_text">市民針對區域的分配的幸福度</string>
+    <string name="draft_draft_hspl_title">市民對水電供應的幸福度</string>
+    <string name="draft_draft_hspl_text">市民對水電供應的可覆蓋范圍的幸福度</string>
+    <string name="draft_draft_hft_title">市民對可休閑的設施的幸福度</string>
+    <string name="draft_draft_hft_text">市民對公園等其他休閑設施的幸福度</string>
+    <string name="draft_draft_henv_title">市民對環境的幸福度</string>
+    <string name="draft_draft_henv_text">市民對環境優等的幸福度</string>
+    <string name="draft_draft_hpd_title">市民對警察的幸福度</string>
+    <string name="draft_draft_hpd_text">市民對治安的幸福度</string>
+    <string name="draft_draft_hfd_title">市民對消防的幸福度</string>
+    <string name="draft_draft_hfd_text">市民對安全的幸福度</string>
+    <string name="draft_draft_hpk_title">市民對公園的幸福度</string>
     <string name="draft_draft_hpk_text">市民對打發時間的指標</string>
-    <string name="draft_draft_hsp_title">市民對運動的滿意度</string>
-    <string name="draft_draft_hsp_text">市民對運動設施的可覆蓋范圍的滿意度</string>
+    <string name="draft_draft_hsp_title">市民對運動的幸福度</string>
+    <string name="draft_draft_hsp_text">市民對運動設施的可覆蓋范圍的幸福度</string>
     <string name="draft_draft_hgen_title">總體幸福度</string>
     <string name="draft_draft_hgen_text">市民針對自己是否感到辛福</string>
     <string name="influence_passenger_bus_title">公交系統</string>
@@ -2581,8 +2581,8 @@
     <string name="draft_tree_alder00_text">一種可以長到100英呎的樹，看起來很普遍。</string>
     <string name="stage_gallery_loadingimages">載入圖像中⋯</string>
     <string name="ci_neighbor_help">你可以在這裏與相鄰的城市共用垃圾處理和葬禮服務資源及相互進出口能源與水資源。</string>
-    <string name="ci_budget_help">你可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的滿意度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
-    <string name="ci_budget_help_nomoney">你可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的滿意度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
+    <string name="ci_budget_help">你可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的幸福度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
+    <string name="ci_budget_help_nomoney">你可以在這裡預覽和調整城市的稅務和每月支出，\n更富裕的居民可以繳納更多的稅款，但稅率過高將導致居民對城市的幸福度降低，甚至搬離城市，\n所以建議將稅率設定為6.5至8.0之間。</string>
 
 
     <string name="stage_account_pro_gallery">上載你的螢幕截圖到畫廊</string>
@@ -3078,7 +3078,7 @@
     <string name="buildingicon_noenergy">這棟樓停電了。</string>
     <string name="buildingicon_nowater">這棟樓停水了。</string>
     <string name="buildingicon_overloaded">這座建築超載了，看來你需要提供更多的容量喔。</string>
-    <string name="buildingicon_unhappy">這裡的人看起來很不開心，看來你需要提高他們的滿意度喔。</string>
+    <string name="buildingicon_unhappy">這裡的人看起來很不開心，看來你需要提高他們的幸福度喔。</string>
     <string name="buildingicon_waste">這棟樓裡有未收集的垃圾。</string>
     <string name="buildingicon_wasteoverloaded">這個垃圾填埋場已經滿了。</string>
     <string name="buildingicon_deadbodies">這棟樓裡有未處理的屍體，這個很恐怖的說！快來拉走！</string>
@@ -3186,7 +3186,7 @@
 有時火車或公共汽車可能看起來沒有出現，但它們仍然有影響
     </string>
     <string name="tip_topic_train_bus_usage_text">
-公共汽車和火車可能會顯示目前沒有乘客。然而，它們已經產生了影響，訊息將來可能會更新。公共汽車和火車提供了交通的滿意度。因此，請務必用它們覆蓋住宅，商業和工業區。
+公共汽車和火車可能會顯示目前沒有乘客。然而，它們已經產生了影響，訊息將來可能會更新。公共汽車和火車提供了交通的幸福度。因此，請務必用它們覆蓋住宅，商業和工業區。
     </string>
     <string name="tip_topic_vandalism_title">
 噴漆圖標代表犯罪行為，建造一個警察局
@@ -3276,7 +3276,7 @@ YouTube上有很多實用的教程
 收費站可以提供額外的收入，但居民們可不喜歡
     </string>
     <string name="tip_topic_toll_happiness_text">
-收費站可以設定通行費用，你可以透過這個轉一些錢，然而，這會降低居民的滿意度。
+收費站可以設定通行費用，你可以透過這個轉一些錢，然而，這會降低居民的幸福度。
     </string>
     <string name="tip_topic_building_rotation_title">
 並不是所有建築都可以旋轉
@@ -3297,10 +3297,10 @@ YouTube上有很多實用的教程
 當需求高於需求線時，這表明相應需求的人或企業想要搬到你的城市。所以你應該為他們提供相應的設施。當需求低於需求線時，它表示要建造其他區域和基礎設施，如公園和警局。
     </string>
     <string name="tip_topic_happiness_title">
-按壓建築物以查看最低的滿意度
+按壓建築物以查看最低的幸福度
     </string>
     <string name="tip_topic_happiness_text">
-壓在建築物上有助於確定為什麼哪裡的居民和附近的居民不開心。這也會影響的平均滿意度。在確定了造成低滿意度的原因之後，你就可以採取行動來解決這個問題。 例如，如果一棟建築因缺乏公園而不滿意，你應該在建築物附近建一個公園，以增加公園的滿意度。
+壓在建築物上有助於確定為什麼哪裡的居民和附近的居民不開心。這也會影響的平均幸福度。在確定了造成低幸福度的原因之後，你就可以採取行動來解決這個問題。 例如，如果一棟建築因缺乏公園而不滿意，你應該在建築物附近建一個公園，以增加公園的幸福度。
     </string>
     <string name="tip_topic_game_extentions_title">
 插件商店中有官方遊戲擴展包
@@ -3331,6 +3331,7 @@ YouTube上有很多實用的教程
     </string>
     <string name="tip_topic_education_text">
 為了讓您的居民更富有以及提高教育幸福度，同時提供高等教育和小學教育是很有必要的。
+    </string>
     <string name="tip_topic_disable_smooth_zoom_title">
 禁用平滑縮放以減少卡頓
     </string>
@@ -3361,7 +3362,7 @@ YouTube上有很多實用的教程
     <string name="settings_notify_pollution">污染問題</string>
     <string name="settings_notify_noise">噪音問題</string>
     <string name="settings_notify_water_waste">水資源浪費</string>
-    <string name="settings_notify_unhappy">低滿意度</string>
+    <string name="settings_notify_unhappy">低幸福度</string>
     <string name="settings_notify_unlocked">建築解鎖</string>
     <string name="settings_notify_low_budget">低預算</string>
     <string name="settings_notify_zone_needed">需要區域</string>
