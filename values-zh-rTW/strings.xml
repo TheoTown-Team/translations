@@ -1112,7 +1112,7 @@
     <string name="draft_weather_machine00_fog00_text">一個巨型制霧器。可以產生足夠的霧，以使整個城市籠罩在濃霧之中。</string>
     <string name="dialog_cancelupgrade">取消升級</string>
     <string name="draft_feature_ranger00_title">林務所</string>
-    <string name="draft_feature_ranger00_text">如果環境汙染太嚴重，樹木必須被重新種植。林務所會自動種植新的樹木。</string>
+    <string name="draft_feature_ranger00_text">如果環境污染太嚴重，樹木必須被重新種植。林務所會自動種植新的樹木。</string>
     <string name="draft_ranger00_title">林務所</string>
     <string name="draft_ranger00_text">如果環境污染太嚴重，樹木必須被重新種植。林務所會自動種植新的樹木。</string>
 
@@ -2376,7 +2376,7 @@
     <string name="store_cat_supply">供給（電力，供水，垃圾處理）</string>
     <string name="store_cat_religion">宗教與文化</string>
     <string name="store_cat_service">服務（警察，健康，教育⋯）</string>
-    <string name="store_cat_award">獎勵和特殊</string>
+    <string name="store_cat_award">禮物和特殊</string>
     <string name="store_cat_decoration">裝飾</string>
     <string name="store_cat_tool">工具</string>
     <string name="store_cat_overlay">天氣與覆蓋</string>
@@ -3099,40 +3099,40 @@
     <string name="tips_title">提示</string>
     <string name="tips_cmd_random">另一個</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
+文化可以由一些地標、獎項和插件提供！
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+從埃菲爾鐵塔到較小的地標和一些具有文化意義的禮物建築都會產生文化影響，更多提供文化的插件可以透過插件商店和論壇下載。
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
+建築物經常著火的話，就趕緊在附近建一個消防站！
     </string>
     <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+如果建築物經常著火，這表明您的消防站影響範圍沒有覆蓋它。住宅、商業和工業建築需要消防站，因此注意用消防站的影響覆蓋整個地圖。 這將有助於避免將來發生火災。
     </string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
+讓住宅遠離污染
     </string>
     <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+居民們不喜歡污染。如果他們抱怨污染過多，就調查污染的來源。產生影響的建築可以透過按小眼睛中的視圖工具查看，污染還可以透過尋找周圍有紅色圓圈的建築來發現。 遷移造成污染的建築物或拆除它，並換上更環保的選擇。
     </string>
     <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
+種樹可以減少污染
     </string>
     <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+居民們不喜歡污染。為了節省移動建築物的麻煩，特別是在規劃良好的城市中，你可以選擇種樹。樹木可以阻止污染。種植更多的樹木有利於減少污染。 這通常也是更具成本效益的方法，因為樹木相當便宜。要放置的樹木數量取決於樹木的污染程度和影響強度。
     </string>
     <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
+使用單行路和十字路口來優化交通 
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+通常，高速公路和工業區等地方可能會因交通擁堵而變得擁擠。這需要一個合適的道路網路來優化它。單行路和十字路口可以對此有所幫助。 遊戲和插件中都有預建的立交橋。你也可以以現實生活中的立交橋為參考自己製作。這將允許更好的交通流量，減少您所在城市的交通流量。
     </string>
     <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
+您可以在設定中調整交通流量以減少堵車
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+要在設定中調整交通流量，需要先開啟DEBUG模式，開啟DEBUG模式後，調整交通流量的選項將會出現在「遊戲」選項卡中。
     </string>
     <string name="tip_topic_more_cash_title">
 To get more cash, take a loan
@@ -3383,7 +3383,7 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="dialog_uploadregionpolicy_text">請注意，閒置超過一年的區域可能會被自動刪除。 這項措施對於為新地區騰出空間並確保活躍玩家獲得最佳體驗是必要的。 在因不活動而刪除之前，我們會提前通知你。</string>
     <string name="dialog_loginforreport_title">需要登入才能檢舉</string>
     <string name="dialog_loginforreport_text">為了確保我們檢舉系統的完整性，只有登入的使用者才能提交報告。 請登入以繼續你的檢舉。</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
+    <string name="settings_debug_hotkeys">DEBUG熱鍵</string>
     <string name="specialoffer_alreadyunlocked">你已經解鎖了這個物品。</string>
     <string name="settings_highlight_hovered_building">突出顯示懸停的建築</string>
     <string name="settings_cursorscaling">遊標尺寸</string>
