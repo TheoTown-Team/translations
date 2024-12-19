@@ -1189,7 +1189,7 @@
     <string name="draft_rnk_supercluster_small_title">小型超星係團</string>
     <string name="draft_rnk_supercluster_medium_title">超星係團</string>
     <string name="draft_rnk_supercluster_big_title">大超星係團</string>
-    <string name="draft_rnk_supercluster_large_title">虛無的極致</string>
+    <string name="draft_rnk_supercluster_large_title">極致虛無</string>
 
     <string name="ci_airport_title">機場</string>
     <string name="draft_wire01_title">高壓電線</string>
@@ -1259,7 +1259,7 @@
     <string name="dialog_renamelane_title">重命名跑道</string>
     <string name="dialog_renamelane_text">為你嘅跑道輸入新名稱：</string>
     <string name="dialog_redeemcode_title">兌換優惠劵</string>
-    <string name="dialog_redeemcode_text">喺呢度輸入優惠卷號碼，兌換優惠券：</string>
+    <string name="dialog_redeemcode_text">喺呢度輸入優惠劵號碼，兌換優惠券：</string>
     <string name="dialog_redeemcode_cmdredeem">兌換</string>
     <string name="dialog_redeemsuccess_title">兌換成功</string>
     <string name="dialog_redeemsuccess_text">恭喜，你獲得了%1$s 個鑽石 :)</string>
@@ -3049,7 +3049,7 @@
     <string name="stage_createcity_terrain">地形鋪設…</string>
     <string name="dialog_terrain_title">地形</string>
     <string name="dialog_missingmanifest_title">「插件清單檔案缺失」</string>
-    <string name="dialog_missingmanifest_text">以下插件因冇插件清單檔案(plugin.manifest). 可能無法用於在線模式,會喺遊戲上造成不穩定： </string>
+    <string name="dialog_missingmanifest_text">以下插件因冇插件清單檔案(plugin.manifest)可能無法用於在線模式,可能會給遊戲帶來不穩定因素： </string>
     <string name="dialog_missingmanifest_cmdhelp">這是什麼？</string>
     <string name="createcity_rivers">河流</string>
     <string name="createcity_roughness">粗糙度</string>
@@ -3074,7 +3074,7 @@
     <string name="buildingicon_crimeriot">呢度發生一場暴亂!</string>
     <string name="dialog_scriptpolicy_title">「插件指令碼程式安全策略」</string>
     <string name="dialog_scriptpolicy_help_title">部分插件嘅指令碼程式有安全風險</string>
-    <string name="dialog_scriptpolicy_help_text">用戶可以 開啓/關閉 相關插件嘅指令碼程式只可通過信任源(例如你製作了插件需要在遊戲中測試)開啓對應嘅指令碼程式。\n
+    <string name="dialog_scriptpolicy_help_text">用戶可以 開啓/關閉 相關插件嘅指令碼程式，只可通過信任源開啓對應嘅指令碼程式。\n(例如你製作了插件需要在遊戲中測試)\n
 \n
 插件未經檢查前，不要啓用對應嘅指令碼程式。\n
 \n
@@ -3375,18 +3375,18 @@ DSA機構：月球，我哋嚟咗！
     <string name="comments_cmdtranslate">翻譯（翻譯可能不準確）</string>
     <string name="waste_clear_onmouseinput">點擊並拖動垃圾堆以清除佢。</string>
     <string name="cemetery_clear_onmouseinput">點擊並拖動以釋放一些空間。</string>
-    <string name="tutorial_buildroad_b_onmouseinput">沿著標記的區塊放置道路。</string>
-    <string name="tutorial_rci_onmouseinput">請先點擊道路開頭設定起點，再點擊您所要放置嘅區塊，即可完成鋪設。</string>
+    <string name="tutorial_buildroad_b_onmouseinput">沿著標記的區塊放置道路。請先點擊道路開頭設定起點，再點擊所要放置嘅區塊，即可完成鋪設。</string>
+    <string name="tutorial_rci_onmouseinput">點擊此處以檢視每個區域詳小需求資訊。</string>
     <string name="tutorial_money_info_onmouseinput">點擊右下角以獲取更多關於城市資金資訊或更改稅率。</string>
     <string name="tutorial_buildbridge_b_onmouseinput">點擊計劃道路嘅起點和終點。查睇點樣喺河流上自動建造一座橋梁。</string>
     <string name="tool_airplanelane_title_onmouseinput">點擊其中一條空閒跑道</string>
     <string name="draft_deco_chr_present00_text_onmouseinput">僅僅是一份禮物。點擊一下試試？</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">想要再次建造特定道路或建築物嗎？使用此工具並點擊它（部份道路不可用）</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">想要再次建造特定道路或建築物嗎？使用此工具並點擊佢（部份道路不可用）</string>
     <string name="dialog_gallerypolicy_text_onmouseinput">想將屏幕截圖上傳到遊戲畫廊？\n\n藉由點擊 \"上傳截圖\", 上傳前請先確認私隱政策。</string>
-    <string name="notify_waste_producer00_onmouseinput">呢個垃圾填埋場已滿！點擊它進行清理！</string>
+    <string name="notify_waste_producer00_onmouseinput">呢個垃圾填埋場已滿！點擊佢進行清理！</string>
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左鍵點擊「啟用」或「停用」，以減緩交通擁塞</string>
     <string name="draft_gol_dead_text_onmouseinput">創建一個康威生命遊戲場域。 點擊現有方塊以切換其狀態。 每個細胞有兩種狀態 - 存活或死亡。</string>
     <string name="loadcity_scenario">場景: %s</string>
-    <string name="trainstationinfo_total">總轉移量: %1$,d</string>
+    <string name="trainstationinfo_total">運輸總周轉量: %1$,d</string>
 
 </resources>
