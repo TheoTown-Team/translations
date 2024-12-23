@@ -2440,9 +2440,8 @@
     <string name="dialog_tutwelcome_title">歡迎來到TheoTown</string>
     <string name="dialog_tutwelcome_text">我們現在將從教程開始，教你如何建設城市的基礎知識。\n\n
 如果你已經知道如何玩，你可以跳過教程。你可以隨時在遊戲選單中跳過教程。</string>
-    <string name="dialog_tutwelcome_cmdskip">跳過教材</string>
+    <string name="dialog_tutwelcome_cmdskip">跳過教程</string>
     <string name="dialog_tutwelcome_start">Let\'s go</string>
-
 
     <string name="settings_catplugins">插件</string>
     <string name="settings_keys">鍵（Keys）</string> <!-- May needs correction -->
@@ -2452,9 +2451,7 @@
 按一個鍵將其分配給此操作。</string>
     <string name="settings_toolbarnames">在工具欄中顯示名稱</string>
     <string name="settings_toolbarprices">在工具欄中顯示價格</string>
-
-
-    <string name="shader_default2">默認</string>
+    <string name="shader_default2">經典</string>
 
 
     <string name="dialog_regionnopermission_title">無法訪問</string>
@@ -3345,7 +3342,7 @@ YouTube上有很多實用的教程
 想要建設高架路的話，你可以透過點擊建設頁面右側的箭頭按鈕實現。先點擊一個方格，然後點擊「抬高」按鈕，這樣你的道路就會上升一層（如果道路支持建橋的話），同樣的，在下坡的時候，點擊「下降」按鈕即可。
     </string>
     <string name="store_cmd_downloadall_title">全部下載</string>
-    <string name="store_cmd_downloadall_text">下載 / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_text">下載/啟用全部丟失插件</string>
 
 
     <string name="tips_cmd_visitwebsite">訪問</string>
@@ -3415,6 +3412,6 @@ YouTube上有很多實用的教程
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左鍵單擊它以開啟和關閉它。 製造交通堵塞的好方法。</string>
     <string name="draft_gol_dead_text_onmouseinput">開始一個康威生命遊戲。單擊現有的方格以切換其狀態。默認狀態為死。</string>
     <string name="loadcity_scenario">方案：%s</string>
-    <string name="trainstationinfo_total">轉賬總額：%1$,d</string> <!-- May needs corrections -->
+    <string name="trainstationinfo_total">已運輸旅客：%1$,d</string>
 
 </resources>
