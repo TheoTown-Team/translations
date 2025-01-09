@@ -3043,7 +3043,6 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsarocket_exploration_text">Lance um foguete para a missão de exploração para encontrar um local adequado para colonização.</string>
     <string name="draft_dsarocket_sdi_text">Lance uma série de foguetes ao espaço para montar a iniciativa de defesa espacial.</string>
     <string name="draft_dsarocket_deprecated_text">A plataforma de lançamento foi atualizada, você precisará destruir esta e construir a nova.</string>
-
     <string name="stage_createcity_terrain">Terreno...</string>
     <string name="dialog_terrain_title">Terreno</string>
     <string name="dialog_missingmanifest_title">Arquivos de Manifesto de Plugin Ausentes</string>
@@ -3052,296 +3051,144 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="createcity_rivers">Rios</string>
     <string name="createcity_roughness">Rugosidade</string>
     <string name="createcity_roughness_flat">Plano</string>
-    <string name="createcity_roughness_less">Menos</string>
+    <string name="createcity_roughness_less">Menor</string>
     <string name="createcity_roughness_default">Padrão</string>
-    <string name="createcity_roughness_more">Mais</string>
+    <string name="createcity_roughness_more">Maior</string>
     <string name="createcity_roughness_extreme">Extremo</string>
-
-    <string name="buildingicon_illness">As pessoas neste edifício estão doentes. Você deve enviar um médico.</string>
-    <string name="buildingicon_noroad">Este edifício não está conectado a uma estrada adequada.</string>
-    <string name="buildingicon_noenergy">Este edifício não recebe energia suficiente.</string>
-    <string name="buildingicon_nowater">Este edifício não recebe água suficiente.</string>
-    <string name="buildingicon_overloaded">Este edifício está sobrecarregado. Forneça mais capacidades.</string>
-    <string name="buildingicon_unhappy">As pessoas neste edifício estão infelizes.</string>
-    <string name="buildingicon_waste">Há lixo não coletado neste edifício.</string>
+    <string name="buildingicon_illness">As pessoas neste prédio estão doentes. Você deve enviar um médico.</string>
+    <string name="buildingicon_noroad">Este prédio não está conectado a uma estrada adequada.</string>
+    <string name="buildingicon_noenergy">Este prédio não recebe energia suficiente.</string>
+    <string name="buildingicon_nowater">Este prédio não recebe água suficiente.</string>
+    <string name="buildingicon_overloaded">Este prédio está sobrecarregado. Forneça mais capacidade.</string>
+    <string name="buildingicon_unhappy">As pessoas neste prédio estão infelizes.</string>
+    <string name="buildingicon_waste">Há lixo não coletado neste prédio.</string>
     <string name="buildingicon_wasteoverloaded">Este aterro está cheio.</string>
-    <string name="buildingicon_deadbodies">Há cadáveres não coletados neste edifício.</string>
+    <string name="buildingicon_deadbodies">Há cadáveres não coletados neste prédio.</string>
     <string name="buildingicon_deadbodiesoverloaded">Este cemitério está cheio.</string>
-    <string name="buildingicon_crimegraffiti">Alguém colocou pichações ilegais aqui.</string>
-    <string name="buildingicon_crimeburglary">Alguém invadiu aqui.</string>
+    <string name="buildingicon_crimegraffiti">Alguém fez grafite ilegal aqui.</string>
+    <string name="buildingicon_crimeburglary">Alguém arrombou este local.</string>
     <string name="buildingicon_crimemurder">Alguém foi assassinado aqui.</string>
-    <string name="buildingicon_crimeriot">As pessoas aqui estão se rebelando.</string>
-
-    <string name="dialog_scriptpolicy_title">Políticas de Script de Plugin</string>
-    <string name="dialog_scriptpolicy_help_title">Scripts de plugin podem ser arriscados</string>
-    <string name="dialog_scriptpolicy_help_text">Scripts são pedaços de código que definem comportamentos e funcionalidades em plugins. Eles podem controlar a mecânica do jogo, adicionar novos recursos ou automatizar ações dentro do jogo. No entanto, os scripts também podem causar bugs ou até mesmo travar o jogo.\n
+    <string name="buildingicon_crimeriot">As pessoas aqui estão se revoltando.</string>
+    <string name="dialog_scriptpolicy_title">Políticas de Scripts de Plugin</string>
+    <string name="dialog_scriptpolicy_help_title">Scripts de Plugin podem ser arriscados</string>
+    <string name="dialog_scriptpolicy_help_text">VOCÊ tem o poder de aprovar a execução de scripts para plugins externos. Apenas autorize scripts de fontes em que você confia (por exemplo, você mesmo, caso esteja trabalhando em um plugin).\n
 \n
-Os scripts são impedidos de acessar seus arquivos pessoais, modificar as configurações do sistema ou executar código fora do jogo.\n
+Em caso de dúvida, NÃO habilite a execução de scripts sem inspecionar o código você mesmo.\n
 \n
-VOCÊ tem o poder de aprovar a execução de script para plugins externos. Apenas scripts de fontes confiáveis (por exemplo, você mesmo, se estiver trabalhando em um plugin) devem ser permitidos.\n
-\n
-Em caso de dúvida, NÃO habilite a execução do script sem inspecionar o código você mesmo.\n
-\n
-Plugins que requerem a execução do script para funcionar podem não funcionar como esperado se desabilitados. Você deve reiniciar o jogo para que as alterações tenham efeito.</string>
-    <string name="settings_openscriptpolicy">Políticas de Script de Plugin</string>
+Plugins que precisam da execução de scripts para funcionar podem não operar corretamente se essa opção estiver desativada. Você precisa reiniciar o jogo para que as alterações tenham efeito.</string>
+    <string name="settings_openscriptpolicy">Políticas de Scripts de Plugin</string>
     <string name="stage_files_itemcount">%d item(ns)</string>
-
     <string name="tips_title">Dicas</string>
-    <string name="tips_cmd_random">Outra</string>
+    <string name="tips_cmd_random">Outra dica</string>
     <string name="tip_topic_culture_title">
-A cultura é fornecida por alguns marcos, prêmios e plugins!
-    </string>
+A cultura é fornecida por alguns marcos, prêmios e plugins!</string>
     <string name="tip_topic_culture_text">
-A maioria dos marcos menores até a torre Eiffel produzem uma influência cultural, bem como prêmios com significado cultural no mundo real. Mais plugins que fornecem cultura podem ser baixados através da loja de plugins e do fórum.
-    </string>
+A maioria dos marcos menores até a Torre Eiffel produz influência cultural, assim como prêmios com significado cultural no mundo real. Mais plugins que fornecem cultura podem ser baixados através da loja de plugins e do fórum.</string>
     <string name="tip_topic_fire_too_frequent_title">
-Se os edifícios pegam fogo com muita frequência, coloque um corpo de bombeiros por perto!
-    </string>
+Se os prédios pegam fogo com muita frequência, coloque um corpo de bombeiros por perto!</string>
     <string name="tip_topic_fire_too_frequent_text">
-Se os edifícios pegam fogo com muita frequência, é um bom indicador de que o alcance de influência do seu corpo de bombeiros não o cobre. Edifícios residenciais, comerciais e industriais requerem um corpo de bombeiros, portanto, tome cuidado para cobrir todo o mapa com influências de corpo de bombeiros. Isso ajudará a evitar incêndios no futuro.
-    </string>
+Se os prédios pegam fogo com muita frequência, isso indica que a influência do corpo de bombeiros não os cobre. Prédios residenciais, comerciais e industriais precisam de uma cobertura do corpo de bombeiros, então cuide para cobrir todo o mapa com essa influência. Isso ajudará a evitar incêndios no futuro.</string>
     <string name="tip_topic_pollution_distance_title">
-Mantenha os residenciais longe da poluição
-    </string>
+Mantenha as áreas residenciais longe da poluição</string>
     <string name="tip_topic_pollution_distance_text">
-Os residentes não gostam de poluição. Se eles estão reclamando de muita poluição, investigue a origem dela. O edifício que produz a influência pode ser localizado pressionando a ferramenta olho e depois a poluição ou procurando edifícios com círculos vermelhos ao redor deles. Mova o edifício causador de poluição ou demoli-lo em favor de uma opção mais ecologicamente correta.
-    </string>
+Os moradores não gostam de poluição. Se estiverem reclamando de muita poluição, investigue a fonte. O prédio que gera poluição pode ser identificado ao usar a ferramenta de visão e selecionar a poluição ou procurando edifícios com círculos vermelhos ao redor deles. Mova o prédio causador da poluição ou demola-o em favor de uma opção mais ecológica.</string>
     <string name="tip_topic_pollution_trees_title">
-Você pode reduzir a poluição cercando-a com árvores
-    </string>
+Você pode reduzir a poluição cercando-a com árvores</string>
     <string name="tip_topic_pollution_trees_text">
-Edifícios residenciais não gostam de poluição. Para evitar o incômodo de mover edifícios, especialmente em cidades bem planejadas, você pode usar árvores. As árvores impedem a poluição. Colocar mais árvores reduzirá mais a poluição. Muitas vezes também é o método mais econômico, pois as árvores são bem baratas. O número de árvores a serem colocadas depende da quantidade de poluição e da força de influência das árvores.
-    </string>
+Os edifícios residenciais não gostam de poluição. Para evitar o trabalho de mover edifícios, especialmente em cidades bem planejadas, você pode usar árvores. Árvores combatem a poluição. Colocar mais árvores reduzirá ainda mais a poluição. Essa também costuma ser a opção mais econômica, já que as árvores são bem baratas. A quantidade de árvores a ser plantada depende do nível de poluição e da força de influência das árvores.</string>
     <string name="tip_topic_traffic_networking_title">
-Use estradas de sentido único e cruzamentos para reduzir o tráfego
-    </string>
+Use ruas de mão única e interseções para reduzir o trânsito</string>
     <string name="tip_topic_traffic_networking_text">
-Muitas vezes, locais como rodovias e áreas industriais podem ficar congestionados com o tráfego. Uma rede rodoviária adequada é necessária para consertar isso. Estradas de sentido único e cruzamentos podem ajudar com isso. Existem cruzamentos pré-construídos no jogo e como plugins. Você também pode fazer o seu próprio usando intercâmbios da vida real como exemplo. Isso permitiria um melhor fluxo de tráfego, reduzindo-o em sua cidade.
-    </string>
+Frequentemente, lugares como rodovias e áreas industriais podem ficar congestionados com trânsito. É necessária uma rede viária adequada para resolver isso. Ruas de mão única e interseções podem ajudar. Existem interseções pré-construídas no jogo e em plugins. Você também pode criar suas próprias usando intercâmbios da vida real como exemplo. Isso permitirá um melhor fluxo de tráfego, reduzindo o congestionamento na sua cidade.</string>
     <string name="tip_topic_traffic_volume_title">
-Você pode ajustar o volume de tráfego nas configurações para reduzir o tráfego
-    </string>
+Você pode ajustar o volume de tráfego nas configurações para reduzi-lo</string>
     <string name="tip_topic_traffic_volume_text">
-Para ajustar o volume de tráfego nas configurações, ative o modo de depuração primeiro, ele também deve estar lá. Depois que a depuração for ativada, a opção de diminuir ou aumentar o tráfego será oferecida a você. Qual porcentagem você escolhe depende de quanto tráfego você tem e quanto desafio é desejado.
-    </string>
+Para ajustar o volume de tráfego nas configurações, ative primeiro o modo de depuração, que também deve estar lá. Uma vez ativado o modo de depuração, será oferecida a opção de diminuir ou aumentar o tráfego. A porcentagem escolhida depende de quanto tráfego há e de quão desafiador você deseja que seja.</string>
     <string name="tip_topic_more_cash_title">
-Para obter mais dinheiro, faça um empréstimo
-    </string>
+Para conseguir mais dinheiro, faça um empréstimo.</string>
     <string name="tip_topic_more_cash_text">
-Pressione o ícone de renda e, em seguida, mude para a guia com o ícone de dinheiro verde. Em seguida, pressione "aumentar". A quantidade de dinheiro oferecida no empréstimo depende do imóvel e até 5 empréstimos podem ser feitos ao mesmo tempo.
-    </string>
+Pressione o ícone de receita e mude para a aba com o ícone verde de dinheiro. Depois, pressione "aumentar". A quantia de dinheiro oferecida no empréstimo depende dos bens, e até 5 empréstimos podem ser feitos simultaneamente.</string>
     <string name="tip_topic_loan_repayment_title">
-Os empréstimos são pagos automaticamente a cada mês
-    </string>
+Os empréstimos são pagos automaticamente todo mês</string>
     <string name="tip_topic_loan_repayment_text">
-Os pagamentos do empréstimo são deduzidos automaticamente do seu mês automaticamente pelo jogo a cada mês. Eles não precisam ser pagos manualmente, embora você possa reduzir as despesas mensais fazendo isso. O período de retorno pode ser visualizado entrando na guia de empréstimos.
-    </string>
+Os pagamentos dos empréstimos são automaticamente deduzidos de sua receita mensal pelo jogo. Eles não precisam ser pagos manualmente, embora você possa reduzir as despesas mensais ao fazer isso. O período de pagamento pode ser visualizado acessando a aba de empréstimos.</string>
     <string name="tip_topic_discord_title">
-Existe um servidor oficial do Discord!
-    </string>
-    <string name="tip_topic_discord_text">
-O servidor oficial do Discord é um lugar onde jogadores e criadores se encontram, exibem suas criações e fazem amigos. O link pode ser encontrado no jogo, nas configurações.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-Você pode fazer seus próprios plugins. É fácil™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-Pode parecer um pouco intimidante no início, mas fazer plugins é fácil. Para fazer texturas, você pode usar algo como paint.net no PC e Pixly no celular. Para fazer o json ou "código", você pode escrever o seu próprio com a ajuda dos fóruns ou usar https://pca.svetikas.lt/. Se você tiver alguma dúvida, podemos respondê-la no Discord ou nos fóruns!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Colabore em uma região usando o modo online
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-Ao pressionar o botão online na visualização da região, você pode colaborar com amigos ou outros membros para criar uma bela região. O jogo não permite que mais de um jogador trabalhe no mesmo mapa, mas você pode visitar outras cidades e se inspirar.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Carregar um mapa para o modo online custa diamantes ou moedas da região
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamantes (celular) e moedas regionais (PC) são concedidos por login diário. O custo de upload de uma região varia dependendo do tamanho. Ao carregar um mapa, o criador pode optar por definir uma senha e algumas regras. Depois de criado, a senha não pode ser adicionada ou removida.
-    </string>
-    <string name="tip_topic_diamonds_title">
-Você pode obter diamantes fazendo login diariamente
-    </string>
-    <string name="tip_topic_diamonds_text">
-O login diário (celular) é recompensado com diamantes. Ao fazer login todos os dias durante a semana, você obtém mais recompensas. Depois de obter a recompensa final, ela é reiniciada e começa novamente. Você pode assistir a vídeos adicionais para obter diamantes a cada 30 minutos - mas lembre-se de desligar qualquer bloqueio de anúncios para que eles sejam exibidos!
-    </string>
-    <string name="tip_topic_supplies_title">
-Os suprimentos de foguetes são fornecidos por certos edifícios industriais
-    </string>
-    <string name="tip_topic_supplies_text">
-Os edifícios que fornecem petróleo estão espalhados pelos diferentes níveis das indústrias. Isso inclui edifícios de extração de petróleo, edifícios de armazenamento e edifícios de processamento. Eles fornecerão suprimentos ao seu foguete. Ter mais edifícios próximos ao foguete ajudará a abastecê-lo mais rapidamente.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-Pode não haver uso visível de trem ou ônibus, mas eles ainda têm um efeito
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Ônibus e trens podem mostrar que não há passageiros no momento. No entanto, eles já têm um efeito e os dados de uso podem ser atualizados no futuro. Ônibus e trens proporcionam felicidade no transporte. Portanto, certifique-se de cobrir as áreas RCI com eles.
-    </string>
-    <string name="tip_topic_vandalism_title">
-O ícone de tinta spray indica vandalismo, construa uma delegacia de polícia
-    </string>
-    <string name="tip_topic_vandalism_text">
-O ícone de tinta spray aparece quando os edifícios não são fornecidos com influência policial. Edifícios residenciais, comerciais e industriais requerem influência policial, portanto, certifique-se de fornecê-los a esses edifícios para evitar crimes futuros.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Construa cemitérios e crematórios para tratar pessoas mortas
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-Se um ícone de pessoa morta aparecer acima de um ou mais edifícios, isso indica que você precisa construir cemitérios ou crematórios. Os cemitérios são bons ao iniciar, mas à medida que a cidade cresce, eles terão que ser esvaziados cada vez com mais frequência. Portanto, um crematório pode ser uma solução melhor a longo prazo.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-Para obter uma renda extra, configure o comércio de bairro
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-Isso só pode ser feito em regiões onde você tem cidades vizinhas desbloqueadas. Existe uma guia comercial de bairro. Ao ajustar os valores, você pode importar ou exportar de cidades vizinhas. Isso não funciona no modo online nem se uma ou mais das cidades que você está tentando configurar estiver no modo sandbox ou uber.
-    </string>
-    <string name="tip_topic_airport_title">
-O aeroporto é um bom investimento de longo prazo
-    </string>
-    <string name="tip_topic_airport_text">
-Para tornar um aeroporto funcional, construa todos os edifícios do aeroporto, adicione pistas e atribua aviões às pistas. O aeroporto geralmente se torna lucrativo quando em uso. Isso significa que, uma vez que o custo inicial é coberto, uma boa quantia de lucro pode ser obtida.
-    </string>
-    <string name="tip_topic_youtube_title">
-O YouTube tem alguns tutoriais úteis
-    </string>
-    <string name="tip_topic_youtube_text">
-Existem alguns jogadores e criadores experientes do TheoTown que publicam vídeos no YouTube. Eles variam de vídeos inspiradores de jogabilidade em time-lapse a vídeos que podem ajudá-lo a aprimorar sua experiência de jogo.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Os preços aumentam no jogo, assim como na vida real
-    </string>
-    <string name="tip_topic_price_increase_text">
-Colocar mais edifícios e estradas aumenta seu preço. Quanto mais for usado, maior será o preço. Isso vale para estradas, decorações, zonas e todos os tipos de edifícios.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-Para mais liberdade criativa, jogue no modo caixa de areia ou uber
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-Muitos jogadores experientes preferem jogar no modo sandbox ou uber para expressar mais de sua liberdade criativa. Isso lhes permite construir sem a limitação de fundos e, no caso do modo uber, sem ter que se preocupar com felicidade ou necessidades. Frequentemente, os edifícios são colocados manualmente para criar obras incríveis. Não se preocupe se isso não soa como você, cada um constrói de forma diferente!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-Você pode desativar desastres automáticos nas configurações do jogo
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Os desastres podem ser desativados nas configurações e você pode escolher com quais desastres, se houver, deseja jogar. Se as estações de mineração da DSA ou silos de mísseis militares estiverem sendo usados, a cidade ainda pode estar em risco de terremotos ou outros desastres.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-A maior parte de sua renda vem de impostos, mas não defina acima de 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especialmente no início do jogo, 90% ou mais da renda está sendo obtida com a taxação dos residentes. Uma boa quantia de imposto a ser cobrada é entre 7% e 9%. Se a tributação for superior a isso, há risco de motins e pessoas abandonando as casas e a cidade.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-Você pode alternar os impostos usando os botões + e -
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Pressione o ícone sorridente e, em seguida, navegue até a guia de impostos e use o botão + e - para alternar a tributação para cada tipo de edifício e grupo de renda. No entanto, tome cuidado para não definir a tributação muito alta.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA para ir para a lua
-    </string>
-    <string name="tip_topic_moon_text">
-Desbloqueie DSA e atualize os edifícios para ir para a lua. O foguete precisará de suprimentos e, uma vez totalmente abastecido, terá a chance de ir para a lua ou cair. Se o lançamento para a lua for bem-sucedido, o mapa da lua pode ser localizado em cidades individuais para revisitas. Ao minerar certos minérios no espaço, você pode desbloquear certos edifícios para o mapa que foi usado para ir para a lua.
-    </string>
-    <string name="tip_topic_icbm_title">
-Cuidado! O ICBM explodirá toda a sua cidade
-    </string>
-    <string name="tip_topic_icbm_text">
-O ICBM não é um desastre natural e só pode ser acionado por meio de DSA. Tenha cuidado ao usar o ICBM, pois ele explodirá toda a cidade, não importa o quão grande seja, em pedaços em segundos. Você pode fazer backup ou duplicar a cidade para evitar arrependimentos depois de testar o ICBM nela.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Zonas densas acomodam mais pessoas, mas são mais caras para colocar
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-As zonas densas são geralmente mais caras para colocar do que as zonas normais, mas podem abrigar mais pessoas. Por sua vez, eles também costumam ser mais altos do que as zonas normais. Fora essas diferenças, não há muito mais, pois eles têm as mesmas necessidades que as zonas normais.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-Você pode baixar plugins através dos fóruns
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Alguns criadores de plugins optam por publicar exclusivamente alguns plugins nos fóruns. Isso permite que você baixe plug-ins que a loja de plug-ins pode não ter. Eles são gratuitos para download e devem ser colocados na pasta de plug-ins do seu dispositivo manualmente. Tenha cuidado, pois esses plugins não são moderados.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Os pedágios geram renda adicional, mas deixam os residentes infelizes
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Os pedágios podem ser colocados para cobrar uma multa aos veículos que circulam nas estradas, o que ajuda a arrecadar receitas. O valor cobrado pode ser ajustado pressionando o pedágio. Isso, no entanto, reduz a felicidade no transporte e deixa as pessoas infelizes.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Nem todos os edifícios têm quadros de rotação
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Alguns edifícios baunilha têm quadros de rotação, mas nem todos. Especialmente quando se trata de plugins, pode não haver quadros de rotação. Isso ocorre porque o autor não os fez. Para ver quais edifícios têm quadros de rotação, pressione um edifício e veja se eles têm os botões próximo e anterior no canto superior direito. Não ter quadros de rotação deixa mais espaço para edifícios mais variados.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Altere a orientação do mapa usando o minimapa
-    </string>
-    <string name="tip_topic_map_rotation_text">
-O minimapa pode ser usado como uma ferramenta para girar o mapa. Pressione o minimapa e use as setas para girar o mapa para a esquerda ou direita. É importante notar que, embora o mapa gire, nem todos os edifícios girarão se os quadros de rotação não forem fornecidos.
-    </string>
-    <string name="tip_topic_demands_title">
-Construa zonas que estejam acima da linha de demanda
-    </string>
-    <string name="tip_topic_demands_text">
-Quando a demanda está acima da linha de demanda, isso indica que pessoas ou empresas da respectiva demanda desejam se mudar para sua cidade. Portanto, você deve fornecer a eles as instalações para fazê-lo. Quando a demanda está abaixo da linha de demanda, isso indica a construção de outras zonas e instalações de apoio, como parques e polícia.
-    </string>
-    <string name="tip_topic_happiness_title">
-Pressione um edifício para ver sua menor felicidade
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressionar um edifício ajuda a identificar por que a casa e as casas próximas estão infelizes. Também dá uma felicidade média para a casa. Depois que o motivo da menor felicidade for identificado, você pode agir para corrigi-lo. Por exemplo, se um edifício está infeliz por falta de parques, você deve colocar um próximo ao edifício para aumentar a felicidade.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-Existem extensões de jogo oficiais na loja de plugins
-    </string>
-    <string name="tip_topic_game_extentions_text">
-As extensões oficiais do jogo são publicadas na loja de plugins pelo usuário Lobby. Geralmente são gratuitos, pois são extensões oficiais do jogo.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Não compare com as cidades de outros jogadores, inspire-se
-    </string>
-    <string name="tip_topic_inspiration_text">
-Jogadores diferentes têm estilos diferentes. Em vez de ficar com ciúmes das cidades de outros jogadores, tente identificar exatamente o que o atrai para isso. Por que você gosta tanto disso exatamente? Depois de descobrir isso, tente implementá-lo em suas cidades aos poucos e observe a cidade crescer.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use estradas de conexão automática ao construir redes rodoviárias
-    </string>
-    <string name="tip_topic_road_connection_text">
-Pressione a estrada de sua escolha e, em seguida, pressione "juntar estrada" no canto superior direito para juntar automaticamente a estrada que está sendo construída. Isso ajudará a evitar que as estradas não funcionem devido a não estarem conectadas corretamente.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Coloque hospitais para evitar epidemias
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-Se houver um rosto verde acima dos edifícios, isso indica que os residenciais estão doentes. Para evitar isso no futuro, construa hospitais no alcance de todas as zonas. Para manter seus residentes saudáveis, você também deve garantir que seus suprimentos de água estejam localizados em áreas limpas.
-    </string>
-    <string name="tip_topic_education_title">
-Os residenciais precisam de educação alta e baixa
-    </string>
-    <string name="tip_topic_education_text">
-Para melhorar a felicidade educacional, tanto a educação alta quanto a baixa devem ser fornecidas. Elas são necessárias para que os edifícios se tornem mais ricos. Portanto, certifique-se de cobrir as áreas residenciais com ambas as influências.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-Para reduzir o atraso, desative o zoom suave
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-Se você acha que o jogo está lento, considere desligar as opções de zoom suave. Essa opção pode ser encontrada nas configurações do jogo. Isso pode ajudar a melhorar a experiência de jogo.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Eleve as estradas usando as opções de seta à direita
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Pressione a estrada a ser construída. Em seguida, enquanto estiver no menu de construção, pressione um ladrilho e construa para cima para construir uma inclinação ascendente. Pressione uma estrada elevada e construa para baixo para construir uma inclinação descendente. Ao mesmo tempo, pressione ponte para construir automaticamente uma ponte. No entanto, nem todas as estradas suportam a construção de estradas elevadas.
-    </string>
+Há um servidor oficial no Discord!</string>
+    <string name="tip_topic_discord_text">O servidor oficial do Discord é um lugar onde jogadores e criadores se encontram, exibem suas criações e fazem amizades. O link pode ser encontrado dentro do jogo nas configurações.</string>
+    <string name="tip_topic_making_plugins_title">Você pode criar seus próprios plugins. É fácil™</string>
+    <string name="tip_topic_making_plugins_text">Pode parecer um pouco intimidador no começo, mas criar plugins é fácil. Para criar texturas, você pode usar algo como o paint.net no PC e o Pixly no celular. Para fazer o json ou "código", você pode escrever o seu próprio com a ajuda dos fóruns ou usar https://pca.svetikas.lt/. Se tiver dúvidas, podemos respondê-las no Discord ou nos fóruns!</string>
+    <string name="tip_topic_online_collaboration_title">Colabore em uma região usando o modo online</string>
+    <string name="tip_topic_online_collaboration_text">Ao pressionar o botão online na visualização da região, você pode colaborar com amigos ou outros membros para criar uma região bonita. O jogo não permite que mais de um jogador trabalhe no mesmo mapa, mas você pode visitar outras cidades e se inspirar.</string>
+    <string name="tip_topic_online_upload_title">Carregar um mapa para o modo online exige diamantes ou moedas da região</string>
+    <string name="tip_topic_online_upload_text">Diamantes (celular) e moedas da região (PC) são concedidos ao fazer login diariamente. O custo de carregar uma região varia dependendo do tamanho. Ao carregar um mapa, o criador pode escolher definir uma senha e algumas regras. Depois de criada, a senha não pode ser adicionada ou removida.</string>
+    <string name="tip_topic_diamonds_title">Você pode ganhar diamantes ao fazer login diariamente</string>
+    <string name="tip_topic_diamonds_text">Fazer login todo dia (celular) recompensa com diamantes. Ao fazer login todos os dias durante a semana, você ganha mais recompensas. Quando você recebe a recompensa final, o ciclo é reiniciado. Além disso, você pode assistir a vídeos para ganhar diamantes a cada 30 minutos – mas lembre-se de desativar qualquer bloqueador de anúncios para que eles apareçam!</string>
+    <string name="tip_topic_supplies_title">Os suprimentos de foguetes são fornecidos por certos edifícios industriais</string>
+    <string name="tip_topic_supplies_text">Os edifícios que fornecem óleo estão espalhados pelos diferentes níveis de indústrias. Isso inclui edifícios de extração de óleo, armazéns e edifícios de processamento. Estes fornecerão suprimentos para seu foguete. Ter mais edifícios próximos ao foguete ajudará a abastecê-lo mais rapidamente.</string>
+    <string name="tip_topic_train_bus_usage_title">Pode não haver uso visível de trens ou ônibus, mas eles ainda têm um efeito</string>
+    <string name="tip_topic_train_bus_usage_text">Ônibus e trens podem mostrar que não há passageiros no momento. No entanto, eles já têm um efeito e os dados de uso podem ser atualizados no futuro. Ônibus e trens fornecem felicidade de transporte. Portanto, certifique-se de cobrir as áreas RCI com eles.</string>
+    <string name="tip_topic_vandalism_title">O ícone de spray indica vandalismo, construa uma delegacia de polícia</string>
+    <string name="tip_topic_vandalism_text">O ícone de spray aparece quando os edifícios não possuem influência policial. Edifícios residenciais, comerciais e industriais exigem influência policial, então certifique-se de fornecer isso para evitar crimes futuros.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">Construa cemitérios e crematórios para tratar pessoas falecidas</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Se um ícone de pessoa falecida aparecer acima de um ou mais edifícios, isso indica que você precisa construir cemitérios ou crematórios. Cemitérios são bons no começo, mas à medida que a cidade cresce, eles terão que ser limpos cada vez mais frequentemente. Portanto, um crematório pode ser uma solução melhor a longo prazo.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">Para ganhar uma renda extra, crie comércio de bairro</string>
+    <string name="tip_topic_neighbourhood_commercial_text">Isso só pode ser feito em regiões onde você tem cidades próximas desbloqueadas. Há uma aba de comércio de bairro. Ajustando os valores, você pode importar ou exportar de cidades próximas. Isso não funciona no modo online nem se uma ou mais das cidades que você está tentando configurar estiverem no modo sandbox ou uber.</string>
+    <string name="tip_topic_airport_title">O aeroporto é um bom investimento a longo prazo</string>
+    <string name="tip_topic_airport_text">Para tornar o aeroporto funcional, construa todos os edifícios do aeroporto, adicione pistas e atribua aviões às pistas. O aeroporto frequentemente se torna lucrativo quando é utilizado. Isso significa que, uma vez coberto o custo inicial, um bom lucro pode ser obtido.</string>
+    <string name="tip_topic_youtube_title">O YouTube tem tutoriais úteis</string>
+    <string name="tip_topic_youtube_text">Existem alguns jogadores e criadores experientes de TheoTown que publicam vídeos no YouTube. Eles variam de vídeos inspiradores de gameplay em time-lapse a vídeos que podem ajudá-lo a melhorar sua experiência de jogo.</string>
+    <string name="tip_topic_price_increase_title">Os preços aumentam no jogo assim como na vida real</string>
+    <string name="tip_topic_price_increase_text">Colocar mais edifícios e estradas aumenta o preço deles. Quanto mais usados, maior será o preço. Isso é válido para estradas, decorações, zonas e todos os tipos de edifícios.</string>
+    <string name="tip_topic_creative_gameplay_title">Para mais liberdade criativa, jogue no modo sandbox/uber</string>
+    <string name="tip_topic_creative_gameplay_text">Muitos jogadores experientes preferem jogar no modo sandbox ou uber para expressar mais sua liberdade criativa. Isso permite construir sem a limitação de fundos e, no caso do modo uber, sem se preocupar com felicidade ou necessidades. Frequentemente, os edifícios são colocados manualmente para criar obras incríveis. Não se preocupe se isso não soa como você, cada um constrói de forma diferente!</string>
+    <string name="tip_topic_toggle_disasters_title">Você pode desligar desastres automáticos nas configurações do jogo</string>
+    <string name="tip_topic_toggle_disasters_text">Os desastres podem ser desligados nas configurações e você pode escolher quais desastres, se houver, quer jogar. Se as estações de mineração do DSA ou silos militares estiverem sendo usadas, a cidade ainda pode estar em risco de terremotos ou outros desastres.</string>
+    <string name="tip_topic_taxes_percentage_title">A maior parte da sua receita vem de impostos, mas não coloque acima de 9%</string>
+    <string name="tip_topic_taxes_percentage_text">Especialmente no início do jogo, 90% ou mais da receita vem dos impostos sobre os residentes. Um bom valor de imposto a ser cobrado fica entre 7% e 9%. Se a tributação for maior do que isso, há risco de motins e de pessoas abandonando as casas e a cidade.</string>
+    <string name="tip_topic_taxes_adjust_title">Você pode ajustar os impostos usando os botões + e -</string>
+    <string name="tip_topic_taxes_adjust_text">Pressione o ícone do sorriso e depois navegue até a aba de impostos, então use os botões + e - para ajustar a tributação para cada tipo de edifício e grupo de receita. Tenha cuidado para não definir a tributação muito alta.</string>
+    <string name="tip_topic_moon_title">Use o DSA para ir à lua</string>
+    <string name="tip_topic_moon_text">Desbloqueie o DSA e atualize os edifícios para ir à lua. O foguete precisará de suprimentos e, uma vez totalmente abastecido, terá a chance de ir à lua ou cair. Se o lançamento à lua for bem-sucedido, o mapa da lua pode ser localizado em cidades individuais para revisitas. Ao minerar certos minérios no espaço, você pode desbloquear certos edifícios para o mapa usado para ir à lua.</string>
+    <string name="tip_topic_icbm_title">Cuidado! O ICBM destruirá toda a sua cidade</string>
+    <string name="tip_topic_icbm_text">O ICBM não é um desastre natural e só pode ser acionado através do DSA. Tenha cuidado ao usar o ICBM, ele destruirá toda a cidade, não importa o tamanho, transformando-a em destroços em segundos. Você pode fazer backup ou duplicar a cidade para evitar arrependimentos depois de testar o ICBM nela.</string>
+    <string name="tip_topic_normalzone_densezone_title">Zonas densas abrigam mais pessoas, mas são mais caras para colocar</string>
+    <string name="tip_topic_normalzone_densezone_text">Zonas densas geralmente são mais caras para colocar do que zonas normais, mas podem abrigar mais pessoas. Em troca, elas costumam ser mais altas do que zonas normais também. Tirando essas diferenças, não há muito mais, pois têm as mesmas necessidades das zonas normais.</string>
+    <string name="tip_topic_forum_plugins_title">Você pode baixar plugins através dos fóruns</string>
+    <string name="tip_topic_forum_plugins_text">Alguns criadores de plugins optam por publicar exclusivamente alguns plugins nos fóruns. Isso permite que você baixe plugins que a loja de plugins pode não ter. Eles são gratuitos para baixar e devem ser colocados manualmente na pasta de plugins do seu dispositivo. Tenha cuidado, pois esses plugins não são moderados.</string>
+    <string name="tip_topic_toll_happiness_title">Os pedágios dão receita extra, mas deixam os residentes infelizes</string>
+    <string name="tip_topic_toll_happiness_text">Pedágios podem ser colocados para cobrar uma taxa dos veículos que circulam nas estradas, ajudando a gerar receita. O valor cobrado pode ser ajustado ao pressionar o pedágio. No entanto, isso reduz a felicidade do transporte e deixa as pessoas infelizes.</string>
+    <string name="tip_topic_building_rotation_title">Nem todos os edifícios têm quadro de rotação</string>
+    <string name="tip_topic_building_rotation_text">Alguns edifícios padrões possuem quadro de rotação, mas nem todos. Especialmente em plugins, pode não haver quadros de rotação. Isso ocorre porque o autor não os fez. Para ver quais edifícios têm quadro de rotação, pressione em um edifício e veja se há botões de próximo e anterior no canto superior direito. Não ter quadros de rotação deixa mais espaço para edifícios variados.</string>
+    <string name="tip_topic_map_rotation_title">Mude a orientação do mapa usando o mini mapa</string>
+    <string name="tip_topic_map_rotation_text">O mini mapa pode ser usado como uma ferramenta para rotacionar o mapa. Pressione o mini mapa e use as setas para rotacionar o mapa para a esquerda ou para a direita. É importante notar que, enquanto o mapa é rotacionado, nem todos os edifícios irão rotacionar, caso não tenham quadro de rotação.</string>
+    <string name="tip_topic_demands_title">Construa zonas acima da linha de demanda</string>
+    <string name="tip_topic_demands_text">Quando a demanda está acima da linha de demanda, isso indica que pessoas ou empresas da demanda respectiva querem se mudar para sua cidade. Então, você deve fornecer as facilidades para isso. Quando a demanda está abaixo da linha de demanda, indica que você deve construir outras zonas e instalações de apoio, como parques e polícia.</string>
+    <string name="tip_topic_happiness_title">Pressione em um edifício para ver sua felicidade mais baixa</string>
+    <string name="tip_topic_happiness_text">Pressionar em um edifício ajuda a identificar por que a casa e as casas ao redor estão infelizes. Também é mostrado um valor médio de felicidade para a casa. Depois de identificar a razão da felicidade baixa, você pode agir para resolvê-la. Por exemplo, se um edifício está infeliz devido à falta de parques, você deve colocar um parque perto do edifício para aumentar a felicidade.</string>
+    <string name="tip_topic_game_extentions_title">Há extensões oficiais do jogo na loja de plugins</string>
+    <string name="tip_topic_game_extentions_text">Extensões oficiais do jogo são publicadas na loja de plugins pelo usuário Lobby. Normalmente, essas extensões são gratuitas, pois são oficiais do jogo.</string>
+    <string name="tip_topic_inspiration_title">Não compare com as cidades de outros jogadores, se inspire nelas</string>
+    <string name="tip_topic_inspiration_text">Jogadores diferentes têm estilos diferentes. Em vez de ficar com inveja das cidades dos outros, tente identificar exatamente o que chama sua atenção nelas. Por que você gosta tanto delas? Assim que descobrir isso, tente implementar aos poucos em suas cidades e veja elas crescerem.</string>
+    <string name="tip_topic_road_connection_title">Use a conexão automática de estradas ao construir redes de estradas</string>
+    <string name="tip_topic_road_connection_text">Pressione a estrada de sua escolha e depois pressione "conectar estrada" no canto superior direito para conectar automaticamente a estrada que está sendo construída. Isso ajuda a evitar que as estradas não funcionem devido à falta de conexão correta.</string>
+    <string name="tip_topic_epidemic_prevention_title">Construa hospitais para evitar epidemias</string>
+    <string name="tip_topic_epidemic_prevention_text">Se houver um ícone de rosto verde acima dos edifícios, isso indica que os residentes estão doentes. Para evitar isso no futuro, construa hospitais na área de todas as zonas. Para manter seus residentes saudáveis, você também deve garantir que os abastecimentos de água estejam localizados em áreas limpas.</string>
+    <string name="tip_topic_education_title">Os residentes precisam tanto de educação básica quanto avançada</string>
+    <string name="tip_topic_education_text">Para melhorar a felicidade educacional, é preciso fornecer tanto educação básica quanto avançada. Essas são necessárias para que os edifícios se tornem mais ricos. Então, tenha certeza de cobrir as áreas residenciais com ambas as influências.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">Para reduzir o lag, desative o zoom suave</string>
+    <string name="tip_topic_disable_smooth_zoom_text">Se você achar que o jogo está lento, considere desativar as opções de zoom suave. Esta opção pode ser encontrada nas configurações do jogo. Isso pode ajudar a melhorar a experiência de jogo.</string>
+    <string name="tip_topic_building_bridges_title">Eleve estradas usando as opções de setas à direita</string>
+    <string name="tip_topic_building_bridges_text">Pressione a estrada a ser construída. Em seguida, enquanto estiver no menu de construção, pressione um tile e depois construa para cima para construir uma subida. Pressione uma estrada elevada e construa para baixo para construir uma descida. Ao mesmo tempo, pressione ponte para construir automaticamente uma ponte. No entanto, nem todas as estradas suportam a construção de estradas elevadas.</string>
+    <string name="store_cmd_downloadall_title">Baixar tudo</string>
+    <string name="store_cmd_downloadall_text">Baixar / ativar todos os plugins ausentes de uma vez</string>
 
-    <string name="store_cmd_downloadall_title">Baixar todos</string>
-    <string name="store_cmd_downloadall_text">Baixe / ative todos os plugins ausentes de uma vez</string>
     <string name="tips_cmd_visitwebsite">Abrir</string>
 
+
     <string name="settings_category_notifications">Notificações</string>
-    <string name="settings_notify_low_power">Pouca energia</string>
-    <string name="settings_notify_low_water">Pouca água</string>
+    <string name="settings_notify_low_power">Baixa energia</string>
+    <string name="settings_notify_low_water">Água baixa</string>
+
     <string name="settings_notify_no_power">Sem energia</string>
     <string name="settings_notify_no_water">Sem água</string>
     <string name="settings_notify_no_road">Sem estrada</string>
@@ -3350,22 +3197,26 @@ Pressione a estrada a ser construída. Em seguida, enquanto estiver no menu de c
     <string name="settings_notify_pollution">Poluição</string>
     <string name="settings_notify_noise">Ruído</string>
     <string name="settings_notify_water_waste">Desperdício de água</string>
-    <string name="settings_notify_unhappy">Infeliz</string>
+    <string name="settings_notify_unhappy">Descontentes</string>
+
     <string name="settings_notify_unlocked">Edifício desbloqueado</string>
     <string name="settings_notify_low_budget">Orçamento baixo</string>
     <string name="settings_notify_zone_needed">Zona necessária</string>
     <string name="settings_notify_polluted_pump">Bomba poluída</string>
     <string name="settings_notify_school_overloaded">Escola sobrecarregada</string>
     <string name="settings_notify_medic_overloaded">Médico sobrecarregado</string>
-    <string name="settings_notify_destroyed_tile">Ladrilho destruído</string>
-    <string name="settings_notify_need_low_education">Precisa de baixa educação</string>
-    <string name="settings_notify_need_high_education">Precisa de alta educação</string>
-    <string name="settings_notify_bad_traffic">Tráfego ruim</string>
+    <string name="settings_notify_destroyed_tile">Bloco destruído</string>
+    <string name="settings_notify_need_low_education">Necessita de educação baixa</string>
+    <string name="settings_notify_need_high_education">Necessita de educação alta</string>
+    <string name="settings_notify_bad_traffic">Trânsito ruim</string>
     <string name="settings_notify_waste">Coleta de lixo</string>
-    <string name="settings_notify_body_disposal">Eliminação de corpos</string>
+    <string name="settings_notify_body_disposal">Descarte de corpos</string>
     <string name="settings_notify_bad_attribute">Valor ruim</string>
+    <string name="show_eula">EULA</string>
+
 
     <string name="show_eula">EULA</string>
+
 
     <string name="dialog_uploadregionpolicy_title">Política de região inativa</string>
     <string name="dialog_uploadregionpolicy_text">Observe que as regiões que permanecem inativas por mais de um ano podem estar sujeitas a exclusão automática. Essa medida é necessária para liberar espaço para novas regiões e garantir uma experiência otimizada para jogadores ativos. Antes de qualquer exclusão devido à inatividade, iremos notificá-lo com antecedência.</string>
@@ -3404,17 +3255,5 @@ Pressione a estrada a ser construída. Em seguida, enquanto estiver no menu de c
     <string name="draft_gol_dead_text_onmouseinput">Crie um campo de jogo da vida. Clique nos ladrilhos existentes para alternar seu estado. O estado padrão é morto.</string>
     <string name="loadcity_scenario">Cenário: %s</string>
     <string name="trainstationinfo_total">Total transferido: %1$,d</string>
-
-
-    <string name="draft_pmono_tracks00_title">Trilhos de monotrilho</string>
-    <string name="draft_pmono_tracks00_text">Texto do monotrilho</string>
-    <string name="draft_pmono_roaddeco_roof00_title">Cobertura da estação de monotrilho</string>
-    <string name="draft_pmono_roaddeco_roof00_text">Cobertura da estação de monotrilho.</string>
-    <string name="draft_pmono_station00_title">Estação de monotrilho</string>
-    <string name="draft_pmono_station00_text">Estação de monotrilho.</string>
-    <string name="draft_pmono_station_prebuilt00_title">Estação de monotrilho</string>
-    <string name="draft_pmono_station_prebuilt00_text">Estação de monotrilho.</string>
-    <string name="draft_pmono_station_prebuilt01_title">Grande estação de monotrilho</string>
-    <string name="draft_pmono_station_prebuilt01_text">Grande estação de monotrilho.</string>
 
 </resources>
