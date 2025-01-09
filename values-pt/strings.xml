@@ -100,8 +100,8 @@
     <string name="draft_bigpark00_title">Parque grande</string>
     <string name="draft_bigpark00_text">Nossos habitantes vão adorar este parque.</string>
     <string name="draft_park03_text">Nossos habitantes vão amar.</string>
-    <string name="draft_medic00_title">Saúde</string>
-    <string name="draft_medic00_text">Aqui os nossos habitantes podem marcar alguma consulta.</string>
+    <string name="draft_medic00_title">Médico</string>
+    <string name="draft_medic00_text">Aqui os habitantes podem consultar um médico.</string>
     <string name="draft_medic01_title">Hospital</string>
     <string name="draft_medic01_text">Nossos habitantes sentem-se menos preocupados perto de um hospital.</string>
     <string name="draft_school00_title">Escola primária</string>
@@ -2352,15 +2352,15 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="ci_water_produced_short">Produzido: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">Geral</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d cidades</string>
-    <string name="regionlist_cat_popular">Popular</string>
-    <string name="regionlist_cat_new">Novo</string>
-    <string name="regionlist_cat_free">Livre</string>
-    <string name="regionlist_cat_protected">Protegido</string>
+    <string name="regionlist_cat_popular">Populares</string>
+    <string name="regionlist_cat_new">Novas</string>
+    <string name="regionlist_cat_free">Gratuitas</string>
+    <string name="regionlist_cat_protected">Protegidas</string>
     <string name="regionlist_cat_usercities">Cidades próprias</string>
     <string name="regionlist_cat_userregions">Regiões próprias</string>
     <string name="store_cat_other">De outros</string>
     <string name="store_cat_road">Estrada</string>
-    <string name="store_cat_terrain">Terra</string>
+    <string name="store_cat_terrain">Terreno</string>
     <string name="store_cat_trees">Árvores</string>
     <string name="store_cat_transport">Transporte</string>
     <string name="store_cat_residential">Residencial</string>
@@ -2447,7 +2447,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
 
     <string name="shader_default2">Padrão</string>
 
-    <string name="dialog_regionnopermission_title">Sem pressa</string>
+    <string name="dialog_regionnopermission_title">Sem acesso</string>
     <string name="dialog_regionnopermission_text">O aplicativo não tem acesso a armazenamento externo para armazenar a região de forma segura. Conceda acesso ao armazenamento externo para gerar regiões.</string>
     <string name="ranger_cmdselecttrees">Selecione as árvores</string>
     <string name="draft_treeplantertool00_title">Semeador de árvores</string>
@@ -2462,7 +2462,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
 
     <string name="about_framework">Estrutura</string>
     <string name="control_undo">Desfazer</string>
-    <string name="control_redo">Fazer</string>
+    <string name="control_redo">Refazer</string>
     <string name="toolaction_zoneroad">Adicionar estradas</string>
     <string name="settings_fullscreen_resolution">Resolução de tela cheia</string>
     <string name="settings_tool_history">Funcionalidade de desfazer</string>
@@ -2511,7 +2511,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="stage_files_importherefiles">Arquivo(s)</string>
     <string name="stage_files_importherefolders">Pasta</string>
     <string name="draft_mosque10_title">Mesquita Hassan II</string>
-    <string name="draft_mosque10_text">A mesquita Hassan II é uma mesquita em Casablanca, Marrocos. É a maior mesquita em funcionamento na África e a sétima do mundo. Seu minarete é o segundo mais alto do mundo, com 210 metros de altura. Foi concluída em 1993 e foi projetada por Michel Pinseau sob a direção do rei Hassan II, e construída por artesãos marroquinos de todo o reino. O minarete tem 60 andares de altura e é coberto por um laser cuja luz é direcionada para Meca. A mesquita está em um promontório com vista para o Oceano Atlântico; Os fiéis podem orar sobre o mar, mas não há piso de vidro de frente para o mar. As paredes são feitas de mármore artesanal e o telhado é retrátil. Um máximo de 105.000 fiéis pode se reunir para orar: 25.000 dentro da sala da mesquita e outros 80.000 no terreno externo.</string>
+    <string name="draft_mosque10_text">A Mesquita Hassan II é uma mesquita em Casablanca, Marrocos. É a maior mesquita em funcionamento na África e a sétima do mundo. Seu minarete é o segundo mais alto do mundo, com 210 metros de altura. Foi concluída em 1993 e foi projetada por Michel Pinseau sob a direção do rei Hassan II, e construída por artesãos marroquinos de todo o reino. O minarete tem 60 andares de altura e é coberto por um laser cuja luz é direcionada para Meca. A mesquita está em um promontório com vista para o Oceano Atlântico; Os fiéis podem orar sobre o mar, mas não há piso de vidro de frente para o mar. As paredes são feitas de mármore artesanal e o telhado é retrátil. Um máximo de 105.000 fiéis pode se reunir para orar: 25.000 dentro da sala da mesquita e outros 80.000 no terreno externo.</string>
     <string name="dialog_filesrestart_title">Reiniciar</string>
     <string name="dialog_filesrestart_text">Você pode ter que reiniciar o jogo para que as mudanças entrem em vigor.\n\nVocê quer reiniciar o jogo agora?</string>
     <string name="dialog_filesrestart_cmdrestart">Reiniciar</string>
@@ -2520,7 +2520,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
     <string name="draft_tunnel_management00_title">Autoridade rodoviária</string>
-    <string name="draft_tunnel_management00_text">Faz túneis sem diamantes, permite que os pedágios gerem mais renda e torne as estradas mais baratas em geral nesta cidade.</string>
+    <string name="draft_tunnel_management00_text">Faz túneis sem diamantes, permite que os pedágios gerem mais renda e torna as estradas mais baratas em geral nesta cidade.</string>
     <string name="draft_tunnel_management00_title_premium">Autoridade rodoviária</string>
     <string name="draft_tunnel_management00_text_premium">Permite que os pedágios gerem mais renda e tornem as estradas mais baratas em geral nesta cidade.</string>
     <string name="stage_account_whytoregister">Por que se registrar?</string>
@@ -2583,7 +2583,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Entendi</string>
     <string name="store_modebestrated">Melhor avaliado</string>
     <string name="dialog_pluginqualityunsure_title">Tenha cuidado</string>
-    <string name="dialog_pluginqualityunsure_text">O plugin que você está prestes a baixar ainda não recebeu muitos downloads ou classificações. Portanto, ele pode não corresponder exatamente às suas expectativas..</string>
+    <string name="dialog_pluginqualityunsure_text">O plugin que você está prestes a baixar ainda não recebeu muitos downloads ou avaliações. Portanto, ele pode não corresponder exatamente às suas expectativas.</string>
     <string name="dialog_pluginqualityunsure_gotit">Entendi</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">Não mostrar novamente</string>
     <string name="store_modecertifiedcreators">Criadores certificados</string>
@@ -2643,11 +2643,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_feature_dsa00_text">Essa integração adiciona melhores sistemas de abastecimento, alguns carros de serviço novos, uma nova estrada que é mais rápida e mais barata, um novo desastre, sinalizadores de DSA, novos edifícios, muitos eventos, uma dimensão espacial para explorar, novos métodos para ganhar dinheiro e muito mais.</string>
     <string name="draft_dsa_category00_title">Agência</string>
     <string name="draft_dsa_space_category00_title">Base espacial</string>
-    <string name="draft_dsadevcat_title">DSA Debug</string>
+    <string name="draft_dsadevcat_title">Depuração da DSA</string>
     <string name="draft_dsa_zone_title">Zona DSA</string>
     <string name="draft_dsa_zone_text">Zona para declarar o território da DSA na cidade.</string>
-    <string name="draft_dsaroad_title">Estrada rápida</string>
-    <string name="draft_dsaroad_text">Mais rápida do que a estrada normal projetada pela DSA.</string>
+    <string name="draft_dsaroad_title">Via expressa</string>
+    <string name="draft_dsaroad_text">Mais rápida do que a estrada normal, projetada pela DSA.</string>
     <string name="draft_dsa_ultra_road00_title">Estrada DSA MK3.2</string>
     <string name="draft_dsa_ultra_road00_text">Estrada incrivelmente rápida projetada pela DSA.</string>
     <string name="draft_dsahq_title">Sede da DSA</string>
@@ -2655,7 +2655,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsahqupHW_title">Estabelecer DSE</string>
     <string name="draft_dsahqupHW_text">Estabelece o Departamento de Serviços de Emergência da DSA, que aumenta a segurança pública com o envio de equipes especiais.</string>
     <string name="draft_dsahqupAR_title">Estabelecer DP</string>
-    <string name="draft_dsahqupAR_text">Estabelece o Departamento de Pesquisa da DSA que supervisiona os centros de pesquisa e bases na área.</string>
+    <string name="draft_dsahqupAR_text">Estabelece o Departamento de Pesquisa da DSA que supervisiona centros e bases de pesquisa na área.</string>
     <string name="draft_dsahqupMS_title">Estabelecer DAR</string>
     <string name="draft_dsahqupMS_text">Estabelece o Departamento de Administração de Recursos da DSA, que gerencia a coleta de recursos na área.</string>
     <string name="draft_dsa_outpost00_title">Escritório DSA</string>
@@ -2672,14 +2672,14 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsaresearch_title">Centro de Pesquisa</string>
     <string name="draft_dsaresearch_text">O lar de todas as tecnologias avançadas da DSA aprovadas pelo conselho executivo da DSA.</string>
     <string name="draft_dsa_research00_title">Suprimentos avançados</string>
-    <string name="draft_dsa_research00_text">Pesquisa novos sistemas experimentais de abastecimento avançado.</string>
+    <string name="draft_dsa_research00_text">Pesquisa novos sistemas experimentais de suprimentos avançados.</string>
     <string name="draft_dsa_research01_title">Contenção</string>
-    <string name="draft_dsa_research01_text">Pesquisa maneiras de conter organismos e partículas.</string>
+    <string name="draft_dsa_research01_text">Pesquisa formas de conter organismos e partículas.</string>
     <string name="draft_dsa_research02_title">Foguetes avançados</string>
     <string name="draft_dsa_research02_text">Pesquisa uma nova tecnologia de foguetes para explorar e colonizar outros corpos espaciais no universo.</string>
-    <string name="draft_dsa_research03_title">Tecnologias futuristas</string>
-    <string name="draft_dsa_research03_text">Pesquisa tecnologias que dobram a mente e a física.</string>
-    <string name="draft_dsaclockstore_title">Loja de relógios discreta</string>
+    <string name="draft_dsa_research03_title">Tecnologias futurísticas</string>
+    <string name="draft_dsa_research03_text">Pesquisa tecnologias que desafiam a mente e a física.</string>
+    <string name="draft_dsaclockstore_title">Loja discreta de relógios</string>
     <string name="draft_dsaclockstore_text">Um lugar totalmente discreto para comprar seus relógios.</string>
     <string name="draft_dsa_deco00_title">Decoração DSA</string>
     <string name="draft_dsa_deco00_text">Uma decoração para sua base da DSA.</string>
@@ -2696,10 +2696,10 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_text">Atualiza a estação para reunir recursos sem interferir no meio ambiente.\n\nSomente uma atualização é permitida ao mesmo tempo. As atualizações antigas serão removidas.</string>
     <string name="draft_dsahouse00_title">Casa do CEO</string>
     <string name="draft_dsahouse00_text">O CEO da DSA reside aqui e garante que a DSA faça seu trabalho.</string>
-    <string name="draft_dsahouse01_title">Mansão de JustAnyone</string>
-    <string name="draft_dsahouse01_text">Uma mansão do próprio líder do DSA.</string>
+    <string name="draft_dsahouse01_title">Mansão do JustAnyone</string>
+    <string name="draft_dsahouse01_text">Uma mansão do próprio líder da DSA.</string>
     <string name="draft_dsa_ja_mansion_template00_title">Queijo</string>
-    <string name="draft_dsa_ja_mansion_template00_text">O queijo de classe mundial feito pelo CEO da DSA.</string>
+    <string name="draft_dsa_ja_mansion_template00_text">O queijo de classe mundial feito para o CEO da DSA.</string>
     <string name="draft_ICBMarm_title">Armar „X-treme“</string>
     <string name="draft_ICBMarm_text">Pressione para armar este míssil balístico intercontinental.</string>
     <string name="draft_dsa_icbm_req_text">Requer o ICBM armado</string>
@@ -2713,14 +2713,14 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsaSR_requirement">Requer: Pesquisa de Suprimentos avançados</string>
     <string name="draft_dsaCR_requirement">Requer: Pesquisa de Contenção</string>
     <string name="draft_dsaARR_requirement">Requer: Pesquisa de Foguetes avançados</string>
-    <string name="draft_dsaFTR_requirement">Requer: Pesquisa de Tecnologias futuristas</string>
-    <string name="draft_dsarocketnotready_requirement">O foguete ainda não está totalmente fornecido</string>
+    <string name="draft_dsaFTR_requirement">Requer: Pesquisa de Tecnologia futurística</string>
+    <string name="draft_dsarocketnotready_requirement">O foguete ainda não está totalmente abastecido</string>
     <string name="draft_dsarocketready_requirement">O foguete está pronto para o lançamento</string>
     <string name="draft_dsarockettestundone_requirement">Os testes anteriores estão incompletos</string>
-    <string name="draft_dsarockettestdone_requirement">Os testes anteriores estão feitos</string>
+    <string name="draft_dsarockettestdone_requirement">Os testes anteriores estão concluídos</string>
     <string name="draft_dsarocketfinalundone_requirement">Os testes estão incompletos</string>
-    <string name="draft_dsarocketfinaldone_requirement">Os testes de foguetes estão feitos</string>
-    <string name="draft_rocket_akial_requirement">Requer: Teste de transporte animal</string>
+    <string name="draft_dsarocketfinaldone_requirement">Os testes do foguete estão concluídos</string>
+    <string name="draft_rocket_akial_requirement">Requer: Teste de transporte de animais</string>
     <string name="draft_dsaHELIUM_requirement">Requer: Hélio 3 encontrado no espaço</string>
     <string name="draft_dsaDYSON_requirement">Requer: Esfera de Dyson construída no espaço</string>
     <string name="draft_dsaLORE10_requirement">Ajude o picles gigante na lua</string>
@@ -2762,8 +2762,8 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_moon_zone_title">Zona habitável</string>
     <string name="draft_dsa_moon_zone_text">Defina uma zona habitável para os habitantes de sua colônia.</string>
     <string name="draft_dsa_moon_zone_req1_text">Não há comida suficiente no armazenamento</string>
-    <string name="draft_picklebparty00_title">Bolo em conserva</string>
-    <string name="draft_picklebparty00_text">Um bolo de pepino em uma jarra de picles. Não dê ouvidos se disser algo.</string>
+    <string name="draft_picklebparty00_title">Bolo de picles</string>
+    <string name="draft_picklebparty00_text">Um bolo de pepino em um pote de picles. Não dê ouvidos se disser algo.</string>
     <string name="draft_dsarocket_title">Estação de lançamento</string>
     <string name="draft_dsarocket_text">O local de onde a DSA lança seus foguetes.\nRequer acesso rodoviário à indústria para suprimentos.</string>
     <string name="draft_dsarocket_upg1_title">Teste de foguete</string>
@@ -2812,11 +2812,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_detect_op00_text">Não foi muito dinheiro, mas tudo bem.</string>
     <string name="draft_moon_auto_deco00_title">Estrutura desconhecida</string>
     <string name="draft_moon_auto_deco00_text">Uma estrutura estranha com uso desconhecido.</string>
-    <string name="draft_moon_dsa_rocks00_title">Pedras brilhantes</string>
+    <string name="draft_moon_dsa_rocks00_title">Rochas brilhantes</string>
     <string name="draft_moon_dsa_rocks00_text">Pode ter alguns metais preciosos dentro.</string>
-    <string name="draft_space_shuttle_ja_title">Lander</string>
+    <string name="draft_space_shuttle_ja_title">Pousador</string>
     <string name="draft_space_shuttle_ja_text">Um veículo usado para pousar em outros corpos espaciais.</string>
-    <string name="draft_ja_picklehuge01_title">Senhor dos Picles</string>
+    <string name="draft_ja_picklehuge01_title">Senhor dos picles</string>
     <string name="draft_ja_picklehuge01_text">Parece ser o senhor supremo dos picles encontrados nesta região.</string>
     <string name="draft_ja_tinypickle00_title">Picles</string>
     <string name="draft_ja_tinypickle00_text">Parece uma forma de vida inteligente.</string>
@@ -2825,12 +2825,12 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_time_machine00_title">Máquina do tempo</string>
     <string name="draft_dsa_time_machine00_text">CONFIDENCIAL</string>
     <string name="draft_dsa_moon_command00_title">Comando espacial</string>
-    <string name="draft_dsa_moon_command00_text">Edifício ao comandando de todas as operações locais e espaciais nas proximidades.</string>
+    <string name="draft_dsa_moon_command00_text">Edifício que comanda todas as operações locais e espaciais nas proximidades.</string>
     <string name="draft_dsacomingsoon_text">EM BREVE</string>
     <string name="draft_dsa_moon_spaceport_title">Espaçoporto</string>
     <string name="draft_dsa_moon_spaceport_text">Edifício utilizado para facilitar o transporte de mercadorias, materiais ou pessoas no espaço.</string>
     <string name="draft_dsa_moon_sport00_title">Academia</string>
-    <string name="draft_dsa_moon_sport00_text">Um lugar para os colonos permanecerem em forma e saudáveis.</string>
+    <string name="draft_dsa_moon_sport00_text">Um lugar para os colonos se manterem em forma e saudáveis.</string>
     <string name="draft_dsa_moon_faith00_title">Casa santa</string>
     <string name="draft_dsa_moon_faith00_text">Edifício para a fé e religião do colono.</string>
     <string name="draft_moon_recycle00_title">Estação de reciclagem</string>
@@ -2838,7 +2838,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_moon_pipe00_title">Encanamento</string>
     <string name="draft_moon_pipe00_text">Canos usados para transferir água para sua base local.</string>
     <string name="draft_moon_water00_title">Estação de água</string>
-    <string name="draft_moon_water00_text">Faz água de fluidos corporais de colonos ou síntese.</string>
+    <string name="draft_moon_water00_text">Faz água a partir fluidos corporais de colonos ou síntese.</string>
     <string name="draft_moon_energy00_title">Painéis solares</string>
     <string name="draft_moon_energy00_text">Converte energia solar em energia para iluminar sua base.</string>
     <string name="draft_moon_wire00_title">Linhas elétricas</string>
@@ -2854,19 +2854,20 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_helium3_upgrade_req_text">Requer: Mineração de hélio 3</string>
     <string name="draft_dsa_helium3_upgrade_req1_text">Já exportado</string>
     <string name="draft_dsa_dyson_upgrade_title">Esfera de Dyson</string>
-    <string name="draft_dsa_dyson_upgrade_text">Constrói uma megaestrutura em torno de uma estrela a qual captura uma grande porcentagem da produção de energia da estrela.\nA Antena de Micro-ondas será necessária para receber energia.</string>
+    <string name="draft_dsa_dyson_upgrade_text">Construa uma megaestrutura em torno de uma estrela a qual captura uma grande porcentagem da produção de energia da estrela.\nA Antena de Micro-ondas será necessária para receber energia.</string>
     <string name="draft_dsa_dyson_upgrade_req1_text">Já construído</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">Requer: ${dyson_progress}/5000 Poccolonum</string>
-    <string name="draft_dsa_moon_drillingstation01_text">Construindo para coletar e refinar Hélio 3.</string>
-    <string name="draft_dsa_moon_drillingstation02_text">Construindo para coletar e refinar Genericum.</string>
-    <string name="draft_dsa_moon_drillingstation03_text">Construindo para coletar e refinar Poccolonum.</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">Requer: Ajude os Picles na Lua</string>
+    <string name="draft_dsa_moon_drillingstation01_text">Edifício para coleta e refino de Hélio 3.</string>
+    <string name="draft_dsa_moon_drillingstation02_text">Edifício para coleta e refino de Genericum.</string>
+    <string name="draft_dsa_moon_drillingstation03_text">Edifício para coleta e refino de Poccolonum.</string>
     <string name="draft_pidroid_remote_template00_title">Controle remoto de Pidroid</string>
     <string name="draft_pidroid_remote_template00_text">Controle remoto usado para controlar o Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_text">Constrói um controle remoto para controlar o Pidroid.</string>
+    <string name="draft_tool_pidroid_remote00_text">Construa um controle remoto para controlar o Pidroid.</string>
     <string name="draft_tool_pidroid_remote00_cmd">Controle-o!</string>
     <string name="draft_pidroid00_title">Pidroid</string>
     <string name="draft_pidroid00_text">Um dos robôs mais inteligentes e avançados já feitos que funciona com energia nuclear.\n\nNOTA: Devido a questões de segurança, a IA foi removida deste modelo.</string>
-    <string name="draft_picklebparty00_text00_text">Picles, feliz aniversário!</string>
+    <string name="draft_picklebparty00_text00_text">Feliz aniversário, Picles!</string>
     <string name="draft_picklebparty00_text01_text">Os picles envelhecem como vinho</string>
     <string name="draft_picklebparty00_text02_text">Você nunca está velho para um picles</string>
     <string name="draft_picklebparty00_text03_text">Parabéns, agora coma seu bolo com sabor</string>
@@ -2935,18 +2936,18 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_space_storyline_ending_03">Quando estiver pronto, inicie o lançamento.</string>
     <string name="draft_space_storyline_ending_04">Adeus, amigos!</string>
     <string name="draft_space_storyline_ending_cutscene">O foguete decola</string>
-
     <string name="draft_space_storyline_stage_4_06">Oh, você não tem nada disponível? Deixe-me fazer um truque de mágica...</string>
-    <string name="draft_tollbooth00_passedbycars">Ultrapassado por carros: </string>
+
+    <string name="draft_tollbooth00_passedbycars">Carros que passaram: </string>
     <string name="draft_tollbooth00_chargedmoney">Dinheiro cobrado: </string>
     <string name="draft_tollbooth00_setup">Aqui você pode definir o valor do pedágio.</string>
     <string name="draft_cat_monorail00_title">Monotrilho</string>
     <string name="draft_tool_car_follower00_novehicle">Não há carros que possa dirigir disponíveis.</string>
-    <string name="forum_cmddelete">Conta deletada</string>
-    <string name="settings_modifymouse">Modifique o cursor</string>
+    <string name="forum_cmddelete">Excluir conta</string>
+    <string name="settings_modifymouse">Modificar cursor</string>
     <string name="settings_cursorstyle">Estilo do cursor</string>
     <string name="settings_cursorstyle_default">Padrão</string>
-    <string name="settings_cursorstyle_dark">Preto</string>
+    <string name="settings_cursorstyle_dark">Escuro</string>
     <string name="settings_cursorstyle_blue">Azul</string>
     <string name="settings_cursorstyle_gold">Dourado</string>
     <string name="shop_restore">Restaurar compras anteriores</string>
@@ -2959,11 +2960,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_biomes_title">Biomas</string>
     <string name="dialog_biomes_cmdselectall">Todos</string>
     <string name="dialog_biomes_cmdunselectall">Nenhum</string>
-    <string name="settings_ground_blending">Misturador de solo</string>
+    <string name="settings_ground_blending">Mistura de solo</string>
     <string name="draft_biome_aspen_forest00_title">Floresta de álamos</string>
     <string name="draft_biome_deciduous_forest00_title">Floresta decídua</string>
     <string name="draft_biome_coniferous_forest00_title">Floresta de coníferas</string>
-    <string name="draft_biome_mixed_forest00_title">Floresta misturada</string>
+    <string name="draft_biome_mixed_forest00_title">Floresta mista</string>
     <string name="draft_biome_boreal_forest00_title">Floresta boreal</string>
     <string name="draft_biome_redwood_forest00_title">Floresta de sequoias</string>
     <string name="draft_biome_desert00_title">Deserto</string>
@@ -2974,27 +2975,27 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_biome_steppe00_title">Estepe</string>
     <string name="draft_biome_flowerygrassland00_title">Pradaria florida</string>
     <string name="draft_biome_sakura00_title">Cerejeiras</string>
-    <string name="draft_biome_cursedland00_title">Terra arrasada</string>
+    <string name="draft_biome_cursedland00_title">Terra amaldiçoada</string>
     <string name="draft_ground_asphalt00_title">Asfalto</string>
     <string name="draft_ground_asphalt00_text">Superfície perfeita para carros e outros veículos iguas.</string>
     <string name="draft_ground_concrete00_title">Concreto</string>
     <string name="draft_ground_concrete00_text">Uma saudável dose de concretude.</string>
     <string name="draft_ground_sandstone00_title">Arenito</string>
-    <string name="draft_ground_sandstone00_text">Um arenito ensolarado bloqueia a superfice.</string>
+    <string name="draft_ground_sandstone00_text">Superfície de bloco de arenito ensolarado.</string>
     <string name="draft_ground_dirt00_title">Terra</string>
-    <string name="draft_ground_dirt00_text">Terra extra na base do solo.</string>
-    <string name="draft_ground_wildgrass00_title">Grama alta</string>
-    <string name="draft_ground_wildgrass00_text">O sol secou a grama alta. Perfeito para vastas planícies ou pradarias.</string>
-    <string name="draft_ground_darkgrass00_title">Grama preta</string>
-    <string name="draft_ground_darkgrass00_text">Grama escura dos bosques profundos.</string>
-    <string name="draft_ground_rockysand00_title">Areia pedregosa</string>
-    <string name="draft_ground_rockysand00_text">Areia grosseira misturada com pequenas pedras.</string>
+    <string name="draft_ground_dirt00_text">Solo base extra sujo.</string>
+    <string name="draft_ground_wildgrass00_title">Grama selvagem</string>
+    <string name="draft_ground_wildgrass00_text">Grama selvagem seca ao sol. Perfeito para vastas planícies ou pastagens.</string>
+    <string name="draft_ground_darkgrass00_title">Grama escura</string>
+    <string name="draft_ground_darkgrass00_text">Grama sombreada das profundezas da floresta.</string>
+    <string name="draft_ground_rockysand00_title">Areia rochosa</string>
+    <string name="draft_ground_rockysand00_text">Areia grossa misturada com pequenas rochas.</string>
     <string name="draft_ground_forestgrass00_title">Grama da floresta</string>
-    <string name="draft_ground_forestgrass00_text">Grama húmida e verdejante. Perfeira para florestas densas.</string>
-    <string name="draft_ground_cursedland00_title">Solo infertil</string>
-    <string name="draft_ground_cursedland00_text">Nós estamos dizendo, aquilo vive aqui.</string>
-    <string name="draft_tree_linden00_title">Tilia</string>
-    <string name="draft_tree_linden00_text">Uma espécie de árvore decídua, comumente usada para ornamentos.</string>
+    <string name="draft_ground_forestgrass00_text">Grama úmida e exuberante. Perfeita para florestas selvagens.</string>
+    <string name="draft_ground_cursedland00_title">Terra amaldiçoada</string>
+    <string name="draft_ground_cursedland00_text">Disseram-nos que 'A Coisa' vive aqui.</string>
+    <string name="draft_tree_linden00_title">Tília</string>
+    <string name="draft_tree_linden00_text">Uma espécie de árvore decídua comumente usada para fins ornamentais.</string>
     <string name="draft_tree_aspen00_title">Álamo</string>
     <string name="draft_tree_aspen00_text">Árvore alta de folhas laranja que em maioria habita climas frios.</string>
     <string name="draft_tree_fir00_title">Abedo</string>
@@ -3011,7 +3012,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dirt_track_00_text">Compactada estrada de terra. Barata, mas lenta para se mover nela. Boa para áreas rurais.</string>
     <string name="draft_lookout_tower00_title">Torre de observação</string>
     <string name="draft_lookout_tower00_text"> Obeserve! Uma torre de observação de madeira que por exemplo, pode ser usda para encontrar focos de incêndio.</string>
-    <string name="draft_boulders00_title">Seixos</string>
+    <string name="draft_boulders00_title">Pedregulhos</string>
     <string name="draft_boulders00_text">Grande formação rochosa de formato arredondado.</string>
     <string name="draft_highway_sign00_title">Sinal de estrada</string>
     <string name="draft_highway_sign00_text">Dirija com estilo usando sinais de estrada nas ruas da sua cidade.</string>
@@ -3019,16 +3020,16 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_road05_ramp00_text">Conecte estradas com ruas rebaixadas ou crie e elabore interjeições com essa estrada de mão única.</string>
     <string name="settings_units">Unidades</string>
     <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Métrico (e.g. km)</string>
-    <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Alta cerca de madeira</string>
-    <string name="draft_fence_tallwooden00_text">Para manter intrusos longe.</string>
-    <string name="draft_fence_chainlink00_title">Cerca de arame</string>
-    <string name="draft_fence_chainlink00_text">Alta cerca feita de malhas de metal.</string>
-    <string name="draft_fence_metalrailing00_title">Guarda-corpo de metal</string>
-    <string name="draft_fence_metalrailing00_text">Um curto, escuro guarda-corpo para proteger os pedestres.</string>
-    <string name="draft_fence_guardrail00_title">Trilho de guia</string>
-    <string name="draft_fence_guardrail00_text">Mantém você mesmo seguro com estas barreiras metálicas de trânsito.</string>
+    <string name="settings_units_metric">Métrica (ex: km)</string>
+    <string name="settings_units_imperial">Imperial (ex: mi)</string>
+    <string name="draft_fence_tallwooden00_title">Cerca de madeira alta</string>
+    <string name="draft_fence_tallwooden00_text">Para manter os intrusos afastados.</string>
+    <string name="draft_fence_chainlink00_title">Cerca de tela metálica</string>
+    <string name="draft_fence_chainlink00_text">Cerca alta feita de malha de metal.</string>
+    <string name="draft_fence_metalrailing00_title">Grade de metal</string>
+    <string name="draft_fence_metalrailing00_text">Uma grade preta curta para proteger os pedestres.</string>
+    <string name="draft_fence_guardrail00_title">Guardrail</string>
+    <string name="draft_fence_guardrail00_text">Mantenha-se seguro com essas barreiras de tráfego metálicas.</string>
 
 
     <string name="draft_dsarocket_launchbutton">Lançar</string>
@@ -3039,13 +3040,13 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsarocket_test_text">Lance um foguete experimental para o espaço para obter informações e preparar para outros lançamentos e operações.</string>
     <string name="draft_dsarocket_animal_text">Lance um foguete com um animal dentro chamado Akial para o espaço para obter informações vitais.</string>
     <string name="draft_dsarocket_navigation_text">Lance um foguete com um homem no espaço para conduzir testes de navegação.</string>
-    <string name="draft_dsarocket_exploration_text">Lance um foguete para um missão exploratória para encontrar um local adequado para colonização.</string>
-    <string name="draft_dsarocket_sdi_text">Lançar uma série de foguetes ao espaço para montar a iniciativa de defesa espacial.</string>
+    <string name="draft_dsarocket_exploration_text">Lance um foguete para a missão de exploração para encontrar um local adequado para colonização.</string>
+    <string name="draft_dsarocket_sdi_text">Lance uma série de foguetes ao espaço para montar a iniciativa de defesa espacial.</string>
     <string name="draft_dsarocket_deprecated_text">A plataforma de lançamento foi atualizada, você precisará destruir esta e construir a nova.</string>
     <string name="stage_createcity_terrain">Terreno...</string>
     <string name="dialog_terrain_title">Terreno</string>
     <string name="dialog_missingmanifest_title">Arquivos de Manifesto de Plugin Ausentes</string>
-    <string name="dialog_missingmanifest_text">Os seguintes plugins não definem um arquivo de manifesto do plugin (plugin.manifest). Isso pode causar problemas com outros plugins e no modo online. A compatibilidade futura não pode ser garantida:</string>
+    <string name="dialog_missingmanifest_text">Os seguintes plugins não definem um arquivo de manifesto de plugin (plugin.manifest). Isso pode causar problemas com outros plugins e modo online. A compatibilidade futura não pode ser garantida:</string>
     <string name="dialog_missingmanifest_cmdhelp">O que é isso?</string>
     <string name="createcity_rivers">Rios</string>
     <string name="createcity_roughness">Rugosidade</string>
@@ -3187,6 +3188,7 @@ Há um servidor oficial no Discord!</string>
     <string name="settings_category_notifications">Notificações</string>
     <string name="settings_notify_low_power">Baixa energia</string>
     <string name="settings_notify_low_water">Água baixa</string>
+
     <string name="settings_notify_no_power">Sem energia</string>
     <string name="settings_notify_no_water">Sem água</string>
     <string name="settings_notify_no_road">Sem estrada</string>
@@ -3196,6 +3198,7 @@ Há um servidor oficial no Discord!</string>
     <string name="settings_notify_noise">Ruído</string>
     <string name="settings_notify_water_waste">Desperdício de água</string>
     <string name="settings_notify_unhappy">Descontentes</string>
+
     <string name="settings_notify_unlocked">Edifício desbloqueado</string>
     <string name="settings_notify_low_budget">Orçamento baixo</string>
     <string name="settings_notify_zone_needed">Zona necessária</string>
@@ -3212,13 +3215,16 @@ Há um servidor oficial no Discord!</string>
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Política de Região Inativa</string>
-    <string name="dialog_uploadregionpolicy_text">Observe que as regiões que permanecem inativas por mais de um ano podem ser sujeitas à exclusão automática. Essa medida é necessária para liberar espaço para novas regiões e garantir uma experiência otimizada para jogadores ativos. Antes de qualquer exclusão por inatividade, notificaremos você com antecedência.</string>
-    <string name="dialog_loginforreport_title">Login Necessário para Reportar</string>
-    <string name="dialog_loginforreport_text">Para garantir a integridade do nosso sistema de relatórios, apenas usuários logados podem enviar relatórios. Por favor, faça login para continuar com seu relatório.</string>
+    <string name="show_eula">EULA</string>
+
+
+    <string name="dialog_uploadregionpolicy_title">Política de região inativa</string>
+    <string name="dialog_uploadregionpolicy_text">Observe que as regiões que permanecem inativas por mais de um ano podem estar sujeitas a exclusão automática. Essa medida é necessária para liberar espaço para novas regiões e garantir uma experiência otimizada para jogadores ativos. Antes de qualquer exclusão devido à inatividade, iremos notificá-lo com antecedência.</string>
+    <string name="dialog_loginforreport_title">Login necessário para relatar</string>
+    <string name="dialog_loginforreport_text">Para garantir a integridade do nosso sistema de relatórios, apenas usuários logados podem enviar relatórios. Faça login para continuar com seu relatório.</string>
     <string name="settings_debug_hotkeys">Teclas de atalho de depuração</string>
     <string name="specialoffer_alreadyunlocked">Você já desbloqueou este item.</string>
-    <string name="settings_highlight_hovered_building">Destacar edifício</string>
+    <string name="settings_highlight_hovered_building">Destacar edifício focalizado</string>
     <string name="settings_cursorscaling">Tamanho do cursor</string>
     <string name="settings_cursorstyle_citylights">Luzes da Cidade</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
@@ -3231,23 +3237,23 @@ Há um servidor oficial no Discord!</string>
     <string name="stage_files_actionopen">Abrir</string>
     <string name="stage_files_imageresolution">Resolução: %dx%d</string>
     <string name="loadcity_outdatedscenario_dialog_title">Versão desatualizada</string>
-    <string name="loadcity_outdatedscenario_dialog_text">Este cenário requer a versão %s ou superior, mas você está usando %s.\n\nVerifique atualizações para jogar este cenário.</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Este cenário requer a versão %s ou superior, mas você está usando %s.\n\nVerifique se há atualizações para jogar este cenário.</string>
     <string name="comments_language">Idioma: %s</string>
-    <string name="comments_cmdtranslate">Traduzir (a tradução pode estar imprecisa)</string>
+    <string name="comments_cmdtranslate">Traduzir (a tradução pode ser imprecisa)</string>
     <string name="waste_clear_onmouseinput">Clique e arraste no lixo para limpá-lo.</string>
     <string name="cemetery_clear_onmouseinput">Clique e arraste para liberar algum espaço.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Coloque a estrada ao longo dos blocos marcados. Para construí-la, clique para definir o ponto de início, clique novamente para definir o ponto final.</string>
-    <string name="tutorial_rci_onmouseinput">Clique neste botão para ver informações detalhadas sobre a demanda de cada tipo de zona.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Coloque a estrada ao longo dos ladrilhos marcados. Para construí-la, clique para definir um ponto inicial, clique novamente para definir o ponto final.</string>
+    <string name="tutorial_rci_onmouseinput">Clique neste botão para ver informações detalhadas de demanda para cada tipo de zona.</string>
     <string name="tutorial_money_info_onmouseinput">Clique no canto inferior direito para obter mais informações sobre seu dinheiro ou para alterar os impostos.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Clique no ponto de início e no ponto final da estrada planejada. Veja como uma ponte será construída automaticamente sobre o rio.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Clique no ponto inicial e final da estrada planejada. Veja como uma ponte será construída automaticamente sobre o rio.</string>
     <string name="tool_airplanelane_title_onmouseinput">Clique em uma pista livre</string>
     <string name="draft_deco_chr_present00_text_onmouseinput">Apenas um presente. Tente clicar nele.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Quer construir uma estrada ou edifício específico novamente? Use esta ferramenta e clique nele. Não é suportado por todas as estruturas.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Você deseja enviar sua captura de tela para nossa galeria?\n\nAo clicar em "Enviar agora", você concorda em aceitar nossa política.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Quer construir uma estrada ou edifício específico novamente? Use esta ferramenta e clique nele. Não é compatível com todas as estruturas.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Você quer carregar sua captura de tela para nossa galeria?\n\nAo clicar em \"Carregar agora\", você concorda que aceita nossa política.</string>
     <string name="notify_waste_producer00_onmouseinput">Este aterro está cheio! Clique nele para limpá-lo!</string>
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Clique com o botão esquerdo para abrir e fechar. Uma ótima maneira de criar engarrafamentos.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Crie um campo do jogo da vida. Clique nos blocos existentes para alterar seu estado. O estado padrão é morto.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Crie um campo de jogo da vida. Clique nos ladrilhos existentes para alternar seu estado. O estado padrão é morto.</string>
     <string name="loadcity_scenario">Cenário: %s</string>
-    <string name="trainstationinfo_total">Total transferido: %1$,d</string>   
-    
+    <string name="trainstationinfo_total">Total transferido: %1$,d</string>
+
 </resources>
