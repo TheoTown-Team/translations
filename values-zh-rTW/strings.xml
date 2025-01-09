@@ -477,7 +477,7 @@
     <string name="disaster_flooding_cmdtext">下雨吧</string>
     <string name="buildinginfo_influences">影響力</string>
     <string name="ci_loan_title">貸款</string>
-    <string name="ci_loan_donate">乞討</string> <!-- May needs correction -->
+    <string name="ci_loan_donate">乞討</string>
     <string name="ci_loan_get">收下</string>
     <string name="ci_loan_donate_text">請給我一點點錢吧，我很需要它 :(</string>
     <string name="draft_crater4x4_title">隕石坑</string>
@@ -746,7 +746,7 @@
     <string name="control_continue">繼續</string>
     <string name="settings_winter">冬天</string>
     <string name="notify_riot_reason">這裡因為%1$s而引發了一起暴亂！</string>
-    <string name="notify_riot_noreason">T這裡無緣無故發生了一起暴亂！</string>
+    <string name="notify_riot_noreason">這裡無緣無故發生了一起暴亂！</string>
     <string name="notify_demonstration">這裡因為%1s發生了一起遊行！試著做點什麼來平息它。</string>
     <string name="draft_marker_powermarker_title">能源</string>
     <string name="draft_marker_watermarker_title">水</string>
@@ -799,7 +799,7 @@
     <string name="draft_firedepartment02_title">主消防站</string>
     <string name="draft_cemetery00_title">墓地</string>
     <string name="draft_crematory00_title">火葬場</string>
-    <string name="rank_newrank">恭喜，你的城市%1$s獲獲得了一個新排名：</string>
+    <string name="rank_newrank">恭喜，你的城市%1$s獲得了一個新排名：</string>
     <string name="rank_reward">你得到%1$s作為獎勵.</string>
     <string name="rank_available">現在可用：</string>
     <string name="rank_title">最新城市排名</string>
@@ -832,18 +832,18 @@
     <string name="disaster_ufo_text">一個UFO襲擊了你的城市！</string>
     <string name="disaster_ufo_cmdtext">設定目標</string>
     <string name="topic_theons">我們喲了新的貨幣：Theons ₮</string>
-    <string name="topic_wip">建設中。請不要穿越。</string>
+    <string name="topic_wip">建設中，請不要穿越。</string>
     <string name="topic_belong">你的城市是屬於我們的 &gt;:D</string>
     <string name="topic_love">你所需要的就是愛。</string>
     <string name="topic_build">我要在我的城市裡建設高樓大廈和花園</string>
     <string name="topic_news">好消息！</string>
     <string name="topic_welcome">歡迎回來 :)</string>
     <string name="topic_spoon">這裡沒有勺子</string>
-    <string name="topic_relax">風情所，這隻是一個遊戲。</string>
+    <string name="topic_relax">放輕鬆，這隻是一個遊戲。</string>
     <string name="topic_cats">貓咪們好可愛哦</string>
     <string name="topic_force">力量與你同在</string>
     <string name="topic_plugins">我們現在有plugins了</string>
-    <string name="topic_page">來www.theotown.com訪問我們</string>
+    <string name="topic_page">訪問我們的網站www.theotown.com！</string>
     <string name="topic_habitants">你可以達到1,000,000</string>
     <string name="ci_statistics_title">統計</string>
     <string name="statistics_inh_all">居民</string>
@@ -996,14 +996,14 @@
     <string name="roadinfo_bridgetype">橋梁種類</string>
     <string name="draft_feature_buildings01_text">大型居民建築物，商業建築物和工業建築物以增添城市的多元化。可以大大提高居民的生活標準。</string>
     <string name="dialog_diamondshop_recommended">推薦</string>
-    <string name="dialog_presentdaily_title">每日獎勵。</string>
+    <string name="dialog_presentdaily_title">每日獎勵</string>
     <string name="dialog_presentdaily_text">明天會有更多的</string>
     <string name="dialog_presentdaily_day">第%1$,d天</string>
     <string name="rank_needed_xp">還需要至少%1$,d城市點數</string>
 
     <string name="settings_shortmoney">縮寫金錢數目</string>
     <string name="dialog_newsign_title">新建標簽</string>
-    <string name="dialog_newsign_text">為這個地區鍵入一個名詞。</string>
+    <string name="dialog_newsign_text">為這個地區鍵入一個名稱。</string>
     <string name="dialog_editsign_title">編輯標簽</string>
     <string name="dialog_editsign_text">鍵入一個新內容給你的標簽或者刪掉所有內容。</string>
     <string name="dialog_editsign_delete">刪除</string>
@@ -2380,7 +2380,7 @@
     <string name="store_cat_decoration">裝飾</string>
     <string name="store_cat_tool">工具</string>
     <string name="store_cat_overlay">天氣與覆蓋</string>
-    <string name="store_cat_pack">包</string>
+    <string name="store_cat_pack">整合包</string>
     <string name="store_cat_roaddecoration">道路裝飾</string>
     <string name="store_cat_military">軍事</string>
     <string name="dialog_confirmsendgift_title">送禮物</string>
@@ -2440,9 +2440,8 @@
     <string name="dialog_tutwelcome_title">歡迎來到TheoTown</string>
     <string name="dialog_tutwelcome_text">我們現在將從教程開始，教你如何建設城市的基礎知識。\n\n
 如果你已經知道如何玩，你可以跳過教程。你可以隨時在遊戲選單中跳過教程。</string>
-    <string name="dialog_tutwelcome_cmdskip">跳過教材</string>
+    <string name="dialog_tutwelcome_cmdskip">跳過教程</string>
     <string name="dialog_tutwelcome_start">Let\'s go</string>
-
 
     <string name="settings_catplugins">插件</string>
     <string name="settings_keys">鍵（Keys）</string> <!-- May needs correction -->
@@ -2452,9 +2451,7 @@
 按一個鍵將其分配給此操作。</string>
     <string name="settings_toolbarnames">在工具欄中顯示名稱</string>
     <string name="settings_toolbarprices">在工具欄中顯示價格</string>
-
-
-    <string name="shader_default2">默認</string>
+    <string name="shader_default2">經典</string>
 
 
     <string name="dialog_regionnopermission_title">無法訪問</string>
@@ -2469,7 +2466,7 @@
     <string name="treeplanter_brushsize">刷子尺寸：</string>
     <string name="treeplanter_outofcash">沒錢了</string>
     <string name="control_about">關於</string>
-    <string name="about_framework">Framework</string> <!-- To be translated -->
+    <string name="about_framework">構架</string> <!-- May needs correction (Framework) -->
     <string name="control_undo">撤銷</string>
     <string name="control_redo">重做</string>
     <string name="toolaction_zoneroad">自動建造道路</string>
@@ -2527,10 +2524,10 @@
     <string name="draft_mosque10_text">哈桑二世清真寺是摩洛哥卡薩布蘭卡的一座清真寺。\n 它是非洲最大的清真寺，也是世界第七大清真寺。 \n它的宣禮塔是世界第二高的宣禮塔，高 689 英呎。 \n它於 1993 年竣工，由蜜雪兒·平索在國王哈桑二世的指導下設計，由來自摩洛哥各地的工匠建造。 \n尖塔高 60 層，頂部有鐳射，光線射向麥加。 \n清真寺矗立在海角上，俯瞰大西洋; 信徒可以在海上祈禱，但沒有可以望向大海的玻璃地板。 牆壁是手工製作的大理石，屋頂是可伸縮的。 \n這裡最多可以聚集十萬五千名信徒一起祈禱：兩萬五千人在清真寺大廳內，另外八萬人在清真寺外地面。</string>
     <string name="dialog_filesrestart_title">重新啟動</string>
     <string name="dialog_filesrestart_text">你需要重啟來使更改生效。\n\n現在就重新啟動嗎?</string>
-    <string name="dialog_filesrestart_cmdrestart">是的</string>
+    <string name="dialog_filesrestart_cmdrestart">重新啟動</string>
     <string name="dialog_filesrestart_cmdlater">稍等</string>
     <string name="settings_multiroaddecosupport">道路裝飾疊加</string>
-    <string name="loadcity_uberindicator">(uber)</string>
+    <string name="loadcity_uberindicator">(伊甸園)</string>
 
 
     <string name="draft_tunnel_management00_title">路政管理局</string>
@@ -2598,7 +2595,7 @@
     <string name="dialog_nointernetaccess_cmdgotit">瞭解</string>
     <string name="store_modebestrated">最佳好評</string>
     <string name="dialog_pluginqualityunsure_title">請注意</string>
-    <string name="dialog_pluginqualityunsure_text">你將要下載的插件尚未獲得一定的下載量與評論。所以可能和你的預期不符！</string>
+    <string name="dialog_pluginqualityunsure_text">你將要下載的插件尚未獲得一定的下載量與評論。內容所以可能和你的預期不符。</string>
     <string name="dialog_pluginqualityunsure_gotit">瞭解</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">不再展示</string>
     <string name="store_modecertifiedcreators">認證創作者</string>
@@ -2645,16 +2642,16 @@
     <string name="store_recommended_plugin">被推薦插件</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string> <!-- To be translated -->
+    <string name="dialog_migratefb_title">需要操作</string>
     <string name="dialog_migratefb_text">您似乎是使用Facebook帳戶登入的。不幸的是，這已被棄用，不再支持。\n請使用論壇帳戶登入以遷移您的資料。</string>
     <string name="dialog_migratefb_cmdaccountsettings">帳戶設定</string>
     <string name="draft_feature_opera00_title">歌劇院</string>
     <string name="draft_feature_opera00_text">用我們的文化和喜悅擴展包釋放文化的魔力！體驗歌劇院的宏偉，伴隨著寧靜的公園和迷人的噴泉。 用音樂、自然和藝術魅力的和諧融合來提升你的城市氛圍，激勵你的公民。立即升級，讓您的城市像文化傑作一樣閃耀吧！</string>
-    <string name="draft_opera00_title">旋律莊園</string>
-    <string name="draft_opera00_text">走進旋律莊園，你城市的文化心臟！ 座令人驚歎的歌劇院為您的大都市增添了一絲優雅和精緻。她影響著你的公民，把他們變成精緻的藝術鑑賞家。讓和諧的氛圍流動，笑聲高漲吧！</string>
+    <string name="draft_opera00_title">歌劇院</string>
+    <string name="draft_opera00_text">走進歌劇院，你城市的文化心臟！這座令人驚歎的歌劇院為您的大都市增添了一絲優雅和精緻。它影響著你的居民，把他們變成精緻的藝術鑑賞家。建造歌劇院，讓和諧的氛圍流動，笑聲高漲吧！</string>
     <string name="draft_opera_park00_title">交響樂公園</string>
     <string name="draft_opera_park00_text">交響樂公園坐落在歌劇院旁邊，是一個迷人的避風港，大家在這裡隨著歌劇的旋律跳舞。在鬱鬱蔥蔥的綠地中放鬆，享受表演，讓文化和自然和諧融合，幫助你恢復活力吧！</string>
-    <string name="stage_comment_plugin_acquirefirst">請先獲取此插件</string>
+    <string name="stage_comment_plugin_acquirefirst">請先獲取此插件以發布評論 </string>
 
 
     <string name="draft_feature_dsa00_title">DSA</string>
@@ -2761,18 +2758,18 @@
     <string name="draft_dsa_tree_destroyer_text">一臺用三折現金砍樹的優秀機器.</string>
     <string name="draft_tool_disaster_blackhole_title">黑洞</string>
     <string name="draft_tool_disaster_blackhole_text">給作弊者的特殊禮物。</string>
-    <string name="draft_tool_disaster_blackhole_cmd">Vacuum it up</string> <!-- To be translated -->
+    <string name="draft_tool_disaster_blackhole_cmd">吸起它</string>
     <string name="draft_blackhole_dsa_title">事件視界</string>
     <string name="draft_blackhole_dsa_text">這個巨大物體的引力十分的大，以至於任何東西都無法逃脫。</string>
     <string name="draft_blackhole_dsa_static_title">奇點</string>
     <string name="draft_blackhole_dsa_static_text">因引力而變得無限的時空區域。</string>
-    <string name="draft_tool_disaster_gliu44_title">膠鋨病毒</string>
+    <string name="draft_tool_disaster_gliu44_title">奇美拉病毒</string>
     <string name="draft_tool_disaster_gliu44_text">一種來源不明的病毒，表現出瘋狂的破壞性。</string>
     <string name="draft_tool_disaster_gliu44_cmd">開始傳播吧！</string>
-    <string name="draft_gliu44_title">膠鋨病毒</string>
+    <string name="draft_gliu44_title">奇美拉病毒</string>
     <string name="draft_gliu44_text">一種來源不明的病毒，表現出瘋狂的破壞性。</string>
-    <string name="draft_gialodathomyle00_title">吉亞羅達泰姆</string>
-    <string name="draft_gialodathomyle00_text">一種針對常規病毒的膠鋨病毒毒株變異體</string>
+    <string name="draft_gialodathomyle00_title">基亞羅達泰姆</string>
+    <string name="draft_gialodathomyle00_text">一種針對常規病毒的奇美拉病毒毒株變異體</string>
     <string name="draft_dsa_moon_drillingstation_template00_title">採礦站</string>
     <string name="draft_dsa_moon_drillingstation_template00_text">用於收集和提煉當地礦物的地方。</string>
     <string name="draft_dsa_moon_drillingstation_depleted_title">枯竭的採礦站</string>
@@ -2818,7 +2815,7 @@
     <string name="draft_dsa_moon_notify01_text">居民們似乎正在捱餓。 給他們提供足夠的食物！</string>
     <string name="draft_dsa_moon_notify02_text">礦床枯竭了！</string>
     <string name="draft_dsa_moon_notify03_text">Oh，很抱歉，這真是一個艱難的著陸。我們需要改良一些技術才能在這裡工作。</string>
-    <string name="draft_dsa_moon_notify04_text">你可能也看到了，我已經轉移了1000萬theons來建造一個小前哨。</string>
+    <string name="draft_dsa_moon_notify04_text">你可能也看到了，我已經轉移了1000萬Theons來建造一個前哨站。</string>
     <string name="draft_dsa_moon_notify05_text">請明智地使用資金，因為這是你唯一的機會。</string>
     <string name="draft_dsa_moon_notify06_text">至於進一步的資金，您可以嘗試開採這些礦石礦床。</string>
     <string name="draft_dsa_moon_notify07_text">不管怎樣，祝你好運，市長！請記住，您可以隨時透過在單個城市列表中找到地圖來返回這裡。</string>
@@ -2906,7 +2903,7 @@
     <string name="draft_space_tree00_text">一些假樹，但居民們也會對它感到開心。</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">泡菜火箭</string>
     <string name="draft_dsa_moon_pickle_rocket00_text">一個巨大的火箭，專門設計用於在裡面裝很多泡菜。</string>
-    <string name="moon_region_unsupported">不幸的是，月球區域尚未得到支援。 這座城市現在要關門了！</string> <!-- May needs correction (unfortunately, moon regions are not yet supported. The city will now close!)-->
+    <string name="moon_region_unsupported">不幸的是，月球區域沒有足夠的補給，這座城市現在要關閉了！</string>
     <string name="draft_space_storyline_cancel00">對不起，我沒法告訴你什麼有趣的事情！</string>
     <string name="draft_space_storyline_busy00">對不起，但我現在什麼都沒的得給你。</string>
     <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
@@ -2934,8 +2931,8 @@
     <string name="draft_space_storyline_stage_4_04">我們將自己為我們的工程取下這些礦石。</string>
     <string name="draft_space_storyline_stage_4_05">別猶豫，建造一個波洛克礦井！</string>
     <string name="draft_space_storyline_stage_5_00">我再次請求您的財政支援</string>
-    <string name="draft_space_storyline_stage_5_01">我需要所有你稱之為theons的東西。</string>
-    <string name="draft_space_storyline_stage_5_02">你能把你所有的theons給我嗎？</string>
+    <string name="draft_space_storyline_stage_5_01">我需要所有你稱之為Theons（也就是錢）的東西。</string>
+    <string name="draft_space_storyline_stage_5_02">你能把你所有的Theons給我嗎？</string>
     <string name="draft_space_storyline_stage_5_02_refused">這太糟糕了，希望你以後能改變主意。</string>
     <string name="draft_space_storyline_stage_5_03">相信我，我會好好利用它。</string>
     <string name="draft_space_storyline_stage_7_00">市長，我還有最後一個忙</string>
@@ -3063,9 +3060,9 @@
     <string name="draft_dsarocket_deprecated_text">發射臺已更新，您需要銷燬這個並構建新的。</string>
     <string name="stage_createcity_terrain">地形⋯</string>
     <string name="dialog_terrain_title">地形</string>
-    <string name="dialog_missingmanifest_title">缺少清單清單檔案</string>
+    <string name="dialog_missingmanifest_title">缺少插件清單檔案</string>
     <string name="dialog_missingmanifest_text">以下插件缺少插件清單檔案(plugin.manifest)。這可能會導致一些插件和線上模式出現問題。可能無法保證未來的相容性：</string>
-    <string name="dialog_missingmanifest_cmdhelp">那是什麼？</string>
+    <string name="dialog_missingmanifest_cmdhelp">這是什麼？</string>
     <string name="createcity_rivers">河流</string>
     <string name="createcity_roughness">粗糙度</string>
     <string name="createcity_roughness_flat">平坦</string>
@@ -3073,11 +3070,11 @@
     <string name="createcity_roughness_default">正常</string>
     <string name="createcity_roughness_more">崎嶇</string>
     <string name="createcity_roughness_extreme">亂石嶙峋</string>
-    <string name="buildingicon_illness">這棟樓裡的人都生病了。你應該派輛救護車來。</string>
+    <string name="buildingicon_illness">這棟樓裡的人生病了。你應該派輛救護車來。</string>
     <string name="buildingicon_noroad">這座建築沒有與一條合適的道路相連。</string>
     <string name="buildingicon_noenergy">這棟樓停電了。</string>
     <string name="buildingicon_nowater">這棟樓停水了。</string>
-    <string name="buildingicon_overloaded">這座建築超載了，看來你需要提供更多的容量喔。</string>
+    <string name="buildingicon_overloaded">這座建築正在超負荷運行。</string>
     <string name="buildingicon_unhappy">這裡的人看起來很不開心，看來你需要提高他們的幸福度喔。</string>
     <string name="buildingicon_waste">這棟樓裡有未收集的垃圾。</string>
     <string name="buildingicon_wasteoverloaded">這個垃圾填埋場已經滿了。</string>
@@ -3345,7 +3342,7 @@ YouTube上有很多實用的教程
 想要建設高架路的話，你可以透過點擊建設頁面右側的箭頭按鈕實現。先點擊一個方格，然後點擊「抬高」按鈕，這樣你的道路就會上升一層（如果道路支持建橋的話），同樣的，在下坡的時候，點擊「下降」按鈕即可。
     </string>
     <string name="store_cmd_downloadall_title">全部下載</string>
-    <string name="store_cmd_downloadall_text">下載 / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_text">下載/啟用全部丟失插件</string>
 
 
     <string name="tips_cmd_visitwebsite">訪問</string>
@@ -3415,6 +3412,6 @@ YouTube上有很多實用的教程
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左鍵單擊它以開啟和關閉它。 製造交通堵塞的好方法。</string>
     <string name="draft_gol_dead_text_onmouseinput">開始一個康威生命遊戲。單擊現有的方格以切換其狀態。默認狀態為死。</string>
     <string name="loadcity_scenario">方案：%s</string>
-    <string name="trainstationinfo_total">轉賬總額：%1$,d</string> <!-- May needs corrections -->
+    <string name="trainstationinfo_total">已運輸旅客：%1$,d</string>
 
 </resources>
