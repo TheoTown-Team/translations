@@ -78,11 +78,11 @@
     <string name="draft_church00_title">Església</string>
     <string name="draft_church00_text">Les viles petites necessiten una església.</string>
     <string name="draft_townhall00_title">Ajuntament</string>
-    <string name="draft_townhall00_text">Les ciutats necessiten un ajuntament. Als seus habitants els agradarà.</string>
+    <string name="draft_townhall00_text">Les ciutats necessiten un ajuntament. Als habitants els agradarà.</string>
     <string name="draft_wire00_title">Cablejat</string>
     <string name="draft_wire00_text">Els cables elèctrics es fan servir per a transportar energia de les centrals elèctriques a la ciutat.</string>
     <string name="draft_windturbine00_title">Aerogenerador</string>
-    <string name="draft_windturbine00_text">Els generadors eòlics transformen l\'energia del vent en energia elèctrica. No contamina l\'entorn, però genera soroll.</string>
+    <string name="draft_windturbine00_text">Els generadors eòlics transformen l\'energia del vent en energia elèctrica. No contaminen l\'entorn, però genera soroll.</string>
     <string name="draft_coalplant00_title">Central tèrmica</string>
     <string name="draft_coalplant00_text">Les centrals tèrmiques generen electricitat cremant carbó. Contamina l\'entorn i la gent no hi vol viure a prop.</string>
     <string name="draft_solarpanels00_title">Plaques fotovoltaiques</string>
@@ -136,7 +136,7 @@
     <string name="settings_category_other">Altres opcions</string>
     <string name="draft_management00_title">Comissaria</string>
     <string name="draft_management00_text">Per a millorar la seguretat.</string>
-    <string name="draft_firedepartment00_title">Dept. de bombers</string>
+    <string name="draft_firedepartment00_title">Parc de bombers</string>
     <string name="draft_firedepartment00_text">Prevén i apaga incendis. Té dos camions i un radi adequat.</string>
     <string name="draft_statue00_title">Estàtua</string>
     <string name="draft_statue00_text">Una estàtua de l\'alcalde.</string>
@@ -177,9 +177,9 @@
     <string name="ci_water_title">Aigua</string>
     <string name="ci_energy_title">Energia</string>
     <string name="ci_info_title">Resum de l\'estat de la ciutat</string>
-    <string name="ci_water_text">NO EN ÚS</string>
-    <string name="ci_energy_text">NO EN ÚS</string>
-    <string name="ci_general_text">NO EN ÚS</string>
+    <string name="ci_water_text">SENSE FER SERVIR</string>
+    <string name="ci_energy_text">SENSE FER SERVIR</string>
+    <string name="ci_general_text">SENSE FER SERVIR</string>
     <string name="topic_reddit">Hola, Reddit :)</string>
     <string name="topic_animals">No s\'ha ferit cap animal durant el desenvolupament del joc.</string>
     <string name="topic_users">Es cerquen 100.000 jugadors...</string>
@@ -199,7 +199,7 @@
     <string name="settings_ultrafastspeed">Velocitat ultraràpida</string>
     <string name="draftselector_power">Potència: %1$,dkW</string>
     <string name="draftselector_water">Aigua: %1$,dL/h</string>
-    <string name="notify_welcome">Hola, us donem la benvinguda a %1$s.</string>
+    <string name="notify_welcome">Hola! us donem la benvinguda a %1$s.</string>
     <string name="notify_citysize">Enhorabona! La ciutat supera els %1$,d habitants!</string>
     <string name="game_placedprice">%1$s</string>
     <string name="draft_waterfountain01_title">Font d\'aigua</string>
@@ -228,7 +228,7 @@
     <string name="draft_police00_title">Departament de policia</string>
     <string name="draft_police00_text">Per a millorar la seguretat.</string>
     <string name="settings_showinfluencepreview">Mostra la vista prèvia d\'influència</string>
-    <string name="draftselector_titletransport">Transport</string>
+    <string name="draftselector_titletransport">Transports</string>
     <string name="draftselector_titlezone">Zones</string>
     <string name="draft_zoneresidential_title">Residencial</string>
     <string name="draft_zoneresidential_text">Zona per a què els habitants hi construeixin cases per a viure-hi.</string>
@@ -237,7 +237,7 @@
     <string name="draft_zoneindustrial_title">Industrial</string>
     <string name="draft_zoneindustrial_text">Zona per a què s\'hi construeixin indústries.</string>
     <string name="draft_road00_title">Camí de terra</string>
-    <string name="draft_road00_text">Un simple camí de terra</string>
+    <string name="draft_road00_text">Un camí de terra senzill.</string>
     <string name="draft_road01_title">Carrer</string>
     <string name="draft_road01_text">Els cotxes hi poden circular de pressa.</string>
     <string name="draftselector_titleterrain">Terreny</string>
@@ -340,10 +340,10 @@
     <string name="draft_footballstadion00_fanshop_title">Botiga de fans</string>
     <string name="draft_footballstadion00_fanshop_text">Aquí es venen samarretes i altres accessoris.</string>
     <string name="notify_requirementbuilding">Heu desblocat %1$s.</string>
-    <string name="notify_requirementupgrade">Enhorabona, heu desblocat la millora %1$s per a construir %2$s!</string>
+    <string name="notify_requirementupgrade">Enhorabona! Heu desblocat la millora %1$s per a construir %2$s!</string>
     <string name="draftselector_titlesports">Esports</string>
     <string name="draftselector_titlealert">Emergències</string>
-    <string name="notify_fire">Foc! Envieu-hi els bombers per a apagar el foc. Penseu si calen més departaments de bombers.</string>
+    <string name="notify_fire">Foc! Envieu-hi els bombers per a apagar el foc. Penseu si calen més parcs de bombers.</string>
     <string name="notify_pollution">Hi ha massa contaminació!</string>
     <string name="draft_radio00_title">Emissora de ràdio</string>
     <string name="draft_radio00_text">Als habitants els agradarà escoltar programes de ràdio.</string>
@@ -403,126 +403,126 @@
 \nNomés es permet un programa de ràdio en emissió. Els programes antics s\'eliminaran.</string>
     <string name="draft_lighthouse00_title">Far</string>
     <string name="draft_lighthouse00_text">No hi ha vaixells llunyans, però hi ha un far .... estrany.</string>
-    <string name="draft_road02_title">Autopista</string>
-    <string name="draft_road02_text">Connexió ràpida entre dues ubicacions.</string>
+    <string name="draft_road02_title">Autopistes</string>
+    <string name="draft_road02_text">Connexions ràpides entre dues ubicacions.</string>
     <string name="budget_road">Carreteres</string>
     <string name="topic_birthday_phoenix">D\'avui a molts anys, Phoenix!</string>
     <string name="topic_birthday_lucasking">Per molts anys, Lucas!</string>
     <string name="tutorial_title">Tutorial</string>
-    <string name="tutorial_welcome">Benvingut al tutorial!</string>
-    <string name="tutorial_minimap">Sempre pots mostrar i amagar el minimapa.</string>
-    <string name="tutorial_buildroad_a">Partim construint cap camí. Selecciona el tipus de carretera més senzill.</string>
-    <string name="tutorial_buildroad_b">Col·loca la carretera per les rajoles marcades. Per crear-lo toca per establir un punt d\'inici, toca\'l de nou per establir el punt final.</string>
-    <string name="tutorial_buildroad_c">Bona feina! Ara tanca l\'eina de carretera.</string>
-    <string name="tutorial_buildenergy_a">Intenta construir alguns panells solars.</string>
-    <string name="tutorial_buildenergy_b">Col·loca-la en les rajoles marcades.</string>
-    <string name="tutorial_buildenergy_c">Bona feina!</string>
-    <string name="tutorial_buildwire_a">Pots utilitzar cables per transportar energia.</string>
-    <string name="tutorial_buildwire_b">Col·loca\'l al llarg dels quadres marcats.</string>
-    <string name="tutorial_buildwire_c">Bona feina!</string>
-    <string name="tutorial_buildwater_a">Intenta construir una torre d\'aigua per proporcionar-la .</string>
-    <string name="tutorial_buildwater_b">Col·loca-la a la rajola marcada.</string>
-    <string name="tutorial_buildwater_c">Bona feina!</string>
-    <string name="tutorial_buildpipe_a">Heu de construir canonades per a transportar l\'aigua.</string>
-    <string name="tutorial_buildpipe_b">Col·loqueu les canonades al llarg dels quadres marcats.</string>
-    <string name="tutorial_buildpipe_c">Bona feina. Ara pots començar a declarar les teves zones.</string>
-    <string name="tutorial_buildzones">Les zones descriuen qui pot construir on. N\'hi ha tres tipus.</string>
-    <string name="tutorial_buildresidential_a">Declara una zona de residents. Així els habitants hi poden construir les seves cases.</string>
-    <string name="tutorial_buildresidential_b">Col·loca la zona en les rajoles marcades.</string>
-    <string name="tutorial_buildresidential_c">Bona feina.</string>
-    <string name="tutorial_buildcommercial_a">Ara declara una zona de comerços</string>
-    <string name="tutorial_buildcommercial_b">Col·loca la zona en les rajoles marcades.</string>
-    <string name="tutorial_buildcommercial_c">Bona feina</string>
-    <string name="tutorial_buildindustrial_a">Per últim, declara zones d\'indústries. És aquí on es construiran les fàbriques.</string>
-    <string name="tutorial_buildindustrial_b">Col·loqueu la zona en les rajoles marcades.</string>
-    <string name="tutorial_buildindustrial_c">Bona feina. Ara s\'hi construiran edificis.</string>
-    <string name="tutorial_industrial_keepaway">Has de mantenir les zones d\'indústries fora de les altres perquè produeixen contaminació i soroll.</string>
-    <string name="tutorial_rci">Toca aquest botó per veure informació detallada de la demanda de cada tipus de zona.</string>
-    <string name="tutorial_speed_fast">Pots canviar la velocitat de simulació per reduir el temps d\'espera.</string>
-    <string name="tutorial_speed_normal">Ara torna a posar la velocitat en normal.</string>
-    <string name="tutorial_money_task">La teva tasca és guanyar diners amb impostos per fer una gran ciutat.</string>
-    <string name="tutorial_money_info">Toca a la part inferior dreta de la pantalla per obtenir més informació sobre els teus diners o per canviar els impostos.</string>
-    <string name="tutorial_congrats">Enhorabona, has après els conceptes bàsics de TheoTown. Ara pots començar la teva pròpia ciutat :)</string>
+    <string name="tutorial_welcome">Us donem la benvinguda al tutorial!</string>
+    <string name="tutorial_minimap">Sempre podeu mostrar i amagar el minimapa.</string>
+    <string name="tutorial_buildroad_a">Començareu construint un camí. Seleccioneu el tipus de carretera més senzill.</string>
+    <string name="tutorial_buildroad_b">Col·loqueu la carretera per les caselles marcades. Per a fer-ho, toqueu el punt d\'inici i, després, el punt final.</string>
+    <string name="tutorial_buildroad_c">Ben fet! Ara, tanqueu el menú de carreteres.</string>
+    <string name="tutorial_buildenergy_a">Construïu uns quants panells solars.</string>
+    <string name="tutorial_buildenergy_b">Col·loqueu-los a les caselles marcades.</string>
+    <string name="tutorial_buildenergy_c">Ben fet!</string>
+    <string name="tutorial_buildwire_a">Podeu fer servir cables elèctrics per a transportar energia.</string>
+    <string name="tutorial_buildwire_b">Col·loqueu-los a les caselles senyalades.</string>
+    <string name="tutorial_buildwire_c">Ben fet!</string>
+    <string name="tutorial_buildwater_a">Construïu una torre d\'aigua per a abastir d\'aigua als futurs habitants.</string>
+    <string name="tutorial_buildwater_b">Col·loqueu-la a la casella marcada.</string>
+    <string name="tutorial_buildwater_c">Ben fet!</string>
+    <string name="tutorial_buildpipe_a">Només amb la torre d\'aigua no n\'hi ha prou. Heu de construir canonades per a transportar l\'aigua.</string>
+    <string name="tutorial_buildpipe_b">Col·loqueu les canonades al llarg de les caselles marcades.</string>
+    <string name="tutorial_buildpipe_c">Ben fet. Ara, podeu designar on els ciutadans poden construir edificis.</string>
+    <string name="tutorial_buildzones">Les zones descriuen qui pot construir i on. N\'hi ha de tres tipus: residencials, comercials i industrials.</string>
+    <string name="tutorial_buildresidential_a">Declareu una zona residencial. Així, els habitants hi podran construir les seves cases.</string>
+    <string name="tutorial_buildresidential_b">Situeu la zona a les caselles marcades.</string>
+    <string name="tutorial_buildresidential_c">Ben fet.</string>
+    <string name="tutorial_buildcommercial_a">Ara, declareu una zona comercial.</string>
+    <string name="tutorial_buildcommercial_b">Situeu la zona a les caselles marcades.</string>
+    <string name="tutorial_buildcommercial_c">Ben fet!</string>
+    <string name="tutorial_buildindustrial_a">Per últim, declareu zones industrials. És on s\'hi construiran les fàbriques.</string>
+    <string name="tutorial_buildindustrial_b">Situeu la zona a les caselles marcades.</string>
+    <string name="tutorial_buildindustrial_c">Ben fet. Ara s\'hi construiran edificis.</string>
+    <string name="tutorial_industrial_keepaway">Heu de posar les zones industrials una mica apartades de les altres perquè produeixen contaminació i soroll.</string>
+    <string name="tutorial_rci">Toqueu aquest botó per a veure informació detallada de la demanda de cada tipus de zona.</string>
+    <string name="tutorial_speed_fast">Podeu canviar la velocitat de simulació per a reduir el temps d\'espera.</string>
+    <string name="tutorial_speed_normal">Ara, torneu a escollir la velocitat normal.</string>
+    <string name="tutorial_money_task">La vostra tasca és guanyar diners amb impostos per a fer créixer la ciutat.</string>
+    <string name="tutorial_money_info">Toqueu a la part inferior dreta de la pantalla per a obtenir més informació sobre l\'estat financer o per a modificar la recaptació d\'impostos.</string>
+    <string name="tutorial_congrats">Enhorabona! Heu après els conceptes bàsics del TheoTown. Ja podeu començar la vostra pròpia ciutat :)</string>
     <string name="draft_road03_title">Carretera unidireccional</string>
-    <string name="draft_road03_text">Els cotxes només poden conduir en una direcció en aquest tipus de carretera. Aquesta carretera s\'utilitza per controlar el trànsit.</string>
+    <string name="draft_road03_text">Els cotxes només poden conduir en una direcció per aquest tipus de carretera. Aquesta carretera s\'utilitza per a controlar el trànsit.</string>
     <string name="budget_sports">Esports</string>
     <string name="budget_religion">Religió</string>
     <string name="population_unit">%1$,d</string>
     <string name="draftselector_titlecatastrophes">Desastres</string>
-    <string name="settings_category_disasters">Desastres</string>
+    <string name="settings_category_disasters">Desastres automàtics</string>
     <string name="settings_disaster_fire">Foc</string>
     <string name="settings_disaster_meteorite">Meteorits</string>
     <string name="settings_disaster_earthquake">Terratrèmols</string>
     <string name="settings_disaster_illness">Malalties</string>
     <string name="settings_disaster_flooding">Inundacions</string>
     <string name="settings_disaster_godzilla">Godzilla</string>
-    <string name="settings_disaster_auto">Desastres automàtics</string>
-    <string name="notify_firenodp">Hi ha un incendi a la teva ciutat! Construeix departaments de bombers per extingir el foc.</string>
+    <string name="settings_disaster_auto">Catàstrofes automàtiques</string>
+    <string name="notify_firenodp">Hi ha un incendi a la ciutat! Construïu parcs de bombers per a apagar el foc.</string>
     <string name="draft_destroyedtile_title">Ferralla</string>
-    <string name="draft_destroyedtile_text">Hi ha un edifici destruït, has de suprimir-la.</string>
+    <string name="draft_destroyedtile_text">Hi ha un edifici destruït. Heu de traure\'n les restes.</string>
     <string name="disaster_fire_title">Foc</string>
-    <string name="disaster_fire_text">Hi crema tot!</string>
+    <string name="disaster_fire_text">Es crema tot!</string>
     <string name="disaster_fire_cmdtext">Crema!</string>
     <string name="disaster_meteorite_title">Meteorit</string>
     <string name="disaster_meteorite_text">Deixa que un meteorit caigui des del cel.</string>
-    <string name="disaster_meteorite_cmdtext">Vola petit nadó</string>
+    <string name="disaster_meteorite_cmdtext">Vola, petit nadó</string>
     <string name="disaster_earthquake_title">Terratrèmol</string>
     <string name="disaster_earthquake_text">Fa que la terra es sacsegi.</string>
-    <string name="disaster_earthquake_cmdtext">Sacsejar!</string>
+    <string name="disaster_earthquake_cmdtext">Sacseja!</string>
     <string name="disaster_illness_title">Malaltia</string>
     <string name="disaster_illness_text">La gent es posa malalta...</string>
     <string name="disaster_illness_cmdtext">Virus</string>
     <string name="disaster_flooding_title">Inundació</string>
-    <string name="disaster_flooding_text">Massa, massa aigua</string>
-    <string name="disaster_flooding_cmdtext">Deixa ploure</string>
+    <string name="disaster_flooding_text">Massa, massa aigua...</string>
+    <string name="disaster_flooding_cmdtext">Deixa que plogui...</string>
     <string name="buildinginfo_influences">Influències</string>
-    <string name="ci_loan_title">Préstec</string>
-    <string name="ci_loan_donate">Pidolar</string>
-    <string name="ci_loan_get">Augmentar</string>
-    <string name="ci_loan_donate_text">Si us plau, dóna\'m un cèntim, ho necessito tant :(</string>
+    <string name="ci_loan_title">Préstecs</string>
+    <string name="ci_loan_donate">Pidola</string>
+    <string name="ci_loan_get">Augmenta</string>
+    <string name="ci_loan_donate_text">Si us plau, doneu-me un cèntim... Em fa tanta falta :(</string>
     <string name="draft_crater4x4_title">Cràter de meteorit</string>
-    <string name="draft_crater4x4_text">Hi ha un gran cràter de meteorit, ho has de suprimir.</string>
+    <string name="draft_crater4x4_text">Hi ha un gran cràter de meteorit. L\'heu de traure.</string>
     <string name="draft_crater1x1_title">Cràter de meteorit</string>
-    <string name="draft_crater1x1_text">Hi ha un cràter de meteorit petit, ho has de suprimir.</string>
+    <string name="draft_crater1x1_text">Hi ha un petit cràter de meteorit. L\'heu de traure.</string>
     <string name="settings_disaster_nuke">Bombes nuclears</string>
     <string name="disaster_nuke_title">Bomba nuclear</string>
     <string name="disaster_nuke_text">Sembla inofensiva.</string>
-    <string name="disaster_nuke_cmdtext">Intenta-ho</string>
+    <string name="disaster_nuke_cmdtext">Prova-la...</string>
     <string name="budget_loans">Préstecs</string>
-    <string name="ci_loan_loanlist">Préstecs actius (Total %1$s de %2$,d/%3$,d préstecs):</string>
+    <string name="ci_loan_loanlist">Préstecs actius (total %1$s de %2$,d/%3$,d préstecs):</string>
     <string name="ci_loan_remaining_runtime">Temps restant: %2$,d mes(os), %1$,d dia(es)</string>
     <string name="ci_loan_paybackcost">Suma a reemborsar: %1$s</string>
     <string name="ci_loan_estate">Estat: %1$s</string>
-    <string name="topic_support_ads">Ens pots donar suport tocant anuncis :)</string>
+    <string name="topic_support_ads">Ens podeu donar suport tocant anuncis :)</string>
     <string name="settings_disaster_tornado">Tornados</string>
     <string name="disaster_tornado_title">Tornado</string>
-    <string name="disaster_tornado_text">Els tornados són un gran perill per a la teva ciutat.</string>
-    <string name="disaster_tornado_cmdtext">Vent del lloc</string>
+    <string name="disaster_tornado_text">Els tornados són un perill per a la ciutat.</string>
+    <string name="disaster_tornado_cmdtext">Provoca un tornado</string>
     <string name="buildinginfo_untouchable">Intocable</string>
-    <string name="draft_zoneresidential_lvl2_title">Zona de residents densa</string>
-    <string name="draft_zoneresidential_lvl2_text">Una zona de residents amb una major densitat.</string>
-    <string name="draft_zonecommercial_lvl2_title">Zona de comerços densa</string>
-    <string name="draft_zonecommercial_lvl2_text">Zona de comerços amb una major densitat.</string>
-    <string name="draft_zoneindustrial_lvl2_title">Zona d\'indústries densa</string>
-    <string name="draft_zoneindustrial_lvl2_text">Zona d\'indústries amb una major densitat.</string>
+    <string name="draft_zoneresidential_lvl2_title">Zona residencial densa</string>
+    <string name="draft_zoneresidential_lvl2_text">Una zona residencial amb una densitat elevada.</string>
+    <string name="draft_zonecommercial_lvl2_title">Zona comercial densa</string>
+    <string name="draft_zonecommercial_lvl2_text">Zona de comerços amb una densitat elevada.</string>
+    <string name="draft_zoneindustrial_lvl2_title">Zona industrial densa</string>
+    <string name="draft_zoneindustrial_lvl2_text">Zona industrial amb una densitat elevada.</string>
     <string name="draft_zonefarm_title">Zona de granges</string>
     <string name="draft_zonefarm_text">Una zona barata per a edificis agrícoles. La mida mínima de les zones de granges és de 4x4.</string>
     <string name="requirement_peoplecount_all">Cal: Una població de %1$,d</string>
-    <string name="requirement_peoplecount_poor">Cal: Una població classe baixa de %1$,d</string>
+    <string name="requirement_peoplecount_poor">Cal: Una població de classe baixa de %1$,d</string>
     <string name="requirement_peoplecount_middle">Cal: Una població de classe mitjana de %1$,d</string>
     <string name="requirement_peoplecount_rich">Cal: Una població de classe alta de %1$,d</string>
     <string name="requirement_building">Cal: %1$s</string>
     <string name="draftselector_onlyone">Només es pot construir una vegada</string>
     <string name="draftselector_onlyn">Només es pot construir %1$,d vegades</string>
     <string name="draft_church02_title">Església petita</string>
-    <string name="draft_church02_text">Una església per viles petites.</string>
+    <string name="draft_church02_text">Una església que proporciona religió i fe als habitants.</string>
     <string name="draft_mosque01_title">Mesquita petita</string>
-    <string name="draft_mosque01_text">Una mesquita per viles petites.</string>
+    <string name="draft_mosque01_text">Una església que proporciona religió i fe als habitants.</string>
     <string name="settings_sound_ui">So de la interfície</string>
     <string name="settings_sound_game">So del joc</string>
-    <string name="settings_preserveedges">Conservar les vores</string>
-    <string name="settings_fancybg">Fons avançat</string>
-    <string name="ci_not_available">No hi ha dades per mostrar.</string>
+    <string name="settings_preserveedges">Conserva les vores</string>
+    <string name="settings_fancybg">Fons adornat</string>
+    <string name="ci_not_available">No hi ha dades a mostrar.</string>
     <string name="ci_education_title">Educació</string>
     <string name="ci_health_title">Salut</string>
     <string name="ci_education_schools">Escoles/Instituts: %1$,d</string>
@@ -546,30 +546,30 @@
     <string name="influence_sport_title">Esport</string>
     <string name="influence_religion_title">Religió</string>
     <string name="influence_culture_title">Cultura</string>
-    <string name="influence_culture_text">Valor cultural de la teva ciutat.</string>
+    <string name="influence_culture_text">La cultura millora la qualitat de vida dels habitants.</string>
     <string name="influence_education_low_text">Aquestes escoles proporcionen educació primària.</string>
     <string name="influence_education_high_text">Aquests instituts proporcionen educació secundària.</string>
-    <string name="influence_firedep_text">La influència dels departaments de bombers redueix la probabilitat d\'incendis.</string>
-    <string name="influence_health_text">Els metges ajuden a mantenir sans als teus habitants.</string>
+    <string name="influence_firedep_text">La influència dels parcs de bombers redueix la probabilitat d\'incendis.</string>
+    <string name="influence_health_text">Els metges ajuden a mantenir sans als habitants.</string>
     <string name="influence_noise_text">Ningú vol viure en una zona sorollosa.</string>
-    <string name="influence_park_text">Fa que els teus habitants estiguin contents i permetin una major densitat de l\'edifici.</string>
+    <string name="influence_park_text">Fa que els habitants estiguin contents i construeixin edificis de major densitat.</string>
     <string name="influence_police_text">Evita accions criminals.</string>
     <string name="influence_pollution_text">Ningú vol viure en una zona contaminada.</string>
-    <string name="influence_religion_text">La religió augmenta la felicitat dels teus habitants.</string>
-    <string name="influence_sport_text">Manté als teus habitants sans.</string>
+    <string name="influence_religion_text">La religió augmenta la felicitat dels habitants.</string>
+    <string name="influence_sport_text">Manté sans als habitants.</string>
     <string name="draftselector_cmdShow">Mostra</string>
     <string name="ca_education_low_text">Educació primària: %1$,d/%2$,d estudiants</string>
     <string name="ca_education_high_text">Educació secundària: %1$,d/%2$,d estudiants</string>
     <string name="ca_health_text">Atenció sanitària: %1$,d/%2$,d pacients</string>
     <string name="gamemode_nomoney">Sense diners</string>
     <string name="draft_zoneharbor_title">Zona de ports</string>
-    <string name="draft_zoneharbor_text">Zona d\'indústries per al passeig marítim de la teva ciutat.</string>
+    <string name="draft_zoneharbor_text">Zona d\'indústries per a la zona costera de la ciutat.</string>
     <string name="settings_auto_road_for_zones">Construeix camins a l\'eina de zona</string>
     <string name="settings_relaxed_line_tool">Eina de línia fàcil</string>
-    <string name="topic_fstapril">Feliç primer d\'abril</string>
-    <string name="draftselector_residential">Residents</string>
-    <string name="draftselector_commercial">Comerços</string>
-    <string name="draftselector_industrial">Indústries</string>
+    <string name="topic_fstapril">Feliç 1 d\'abril</string>
+    <string name="draftselector_residential">Residencial</string>
+    <string name="draftselector_commercial">Comercial</string>
+    <string name="draftselector_industrial">Industrial</string>
     <string name="draftselector_building_level">Nivell: %1$,d</string>
     <string name="draftselector_building_zone">Zona: %1$s</string>
     <string name="draftselector_building_habitants">Habitants: %1$,d</string>
@@ -586,28 +586,28 @@
     <string name="draft_marker_protectedmarker_text">Mostra els edificis que no es poden eliminar.</string>
     <string name="draft_marker_trafficmarker_title">Trànsit</string>
     <string name="draft_marker_trafficmarker_text">Mostra el trànsit de les vies de comunicació.</string>
-    <string name="draft_mayorvilla00_title">Habitatge de l\'alcalde</string>
+    <string name="draft_mayorvilla00_title">Residència de l\'alcalde</string>
     <string name="draft_mayorvilla00_text">Un bonic habitatge per a l\'alcalde.</string>
     <string name="happiness_health">Salut</string>
     <string name="happiness_firedanger">Perill d\'incendi</string>
     <string name="dialog_screenshot_show">Mostra</string>
     <string name="draft_townhall01_title">Ajuntament</string>
-    <string name="draft_townhall01_text">Un ajuntament que s\'adapta a la teva ciutat.</string>
-    <string name="loadcity_errordialog_cmdrecover">Recuperar</string>
+    <string name="draft_townhall01_text">Un ajuntament adequat per a la vostra ciutat.</string>
+    <string name="loadcity_errordialog_cmdrecover">Recupera</string>
     <string name="draft_plaza00_title">Plaça del poble</string>
-    <string name="draft_plaza00_text">Una plaça del poble per al teva ajuntament.</string>
+    <string name="draft_plaza00_text">Una plaça de poble per al vostre ajuntament.</string>
     <string name="topic_birthday_theotown">Per molts anys, TheoTown! :D</string>
-    <string name="menu_cmddonate">Donar</string>
+    <string name="menu_cmddonate">Dóna</string>
     <string name="draft_waterpump01_title">Bomba d\'aigua petita</string>
     <string name="draft_waterpump01_text">S\'ha de construir a prop de l\'aigua.</string>
     <string name="draft_filterplant00_title">Planta de filtració</string>
-    <string name="draft_filterplant00_text">Neteja l\'aigua.</string>
-    <string name="topic_fun">Diverteix-te! :)</string>
+    <string name="draft_filterplant00_text">Neteja l\'aigua per a reaprofitar-la.</string>
+    <string name="topic_fun">Divertiu-vos! :)</string>
     <string name="topic_android">Només per a Android</string>
-    <string name="topic_tryharder">Esforça\'r més</string>
+    <string name="topic_tryharder">Esforceu-vos més</string>
     <string name="topic_nature">Salvem la natura</string>
-    <string name="topic_time">Pren-te un temps</string>
-    <string name="topic_big">Fa grans coses</string>
+    <string name="topic_time">Preneu-vos un temps</string>
+    <string name="topic_big">Feu alguna cosa important</string>
     <string name="buildinginfo_waterwaste">Aigües residuals: %1$.1f%%</string>
     <string name="ci_water_waste">Residus: %1$.1f%%</string>
     <string name="shader_fancy2">Molt detallat</string>
@@ -617,20 +617,20 @@
     <string name="draft_marina00_title">Marina</string>
     <string name="draft_marina00_text">Entreteniment per als habitants de classe alta.</string>
     <string name="loadcity_version">Versió %1$,d</string>
-    <string name="loadcity_memdialog_title">No hi ha accés a la memòria externa</string>
-    <string name="loadcity_memdialog_text">Les ciutats es desaran a l\'emmagatzematge intern. No tindràs accés a ells.</string>
-    <string name="loadcity_memdialog_cmdremind">Recorda\'m</string>
+    <string name="loadcity_memdialog_title">No es pot accedir a la memòria externa</string>
+    <string name="loadcity_memdialog_text">Les ciutats es desaran a l\'emmagatzematge intern. No hi podreu accedir.</string>
+    <string name="loadcity_memdialog_cmdremind">Recorda\'m-ho</string>
     <string name="loadcity_memdialog_cmdok">No importa</string>
     <string name="about_translation">Traducció</string>
-    <string name="draft_decocom00_title">Zona de comerços</string>
-    <string name="draft_decores00_title">Zona de residents</string>
-    <string name="draft_decoind00_title">Zona d\'indústries</string>
+    <string name="draft_decocom00_title">Zona comercial</string>
+    <string name="draft_decores00_title">Zona residencial</string>
+    <string name="draft_decoind00_title">Zona industrial</string>
     <string name="settings_shaderconfig">Colors</string>
     <string name="settings_shadertype_normal">Normal</string>
     <string name="settings_shadertype_fancy">Detallat</string>
     <string name="settings_shadertype_xfancy">Molt detallat</string>
-    <string name="draft_buoy00_title">Boia</string>
-    <string name="draft_buoy00_text">Les boies ajuden als vaixells a hi trobar el camí.</string>
+    <string name="draft_buoy00_title">Boies</string>
+    <string name="draft_buoy00_text">Les boies ajuden als vaixells a trobar el seu camí.</string>
     <string name="ci_general_seed">Llavor: %1$s</string>
     <string name="draft_decores00_text">.</string>
     <string name="draft_decocom00_text">.</string>
@@ -663,7 +663,7 @@
     <string name="draft_marker_ticketmarker_title">Bitllet</string>
     <string name="draft_marker_ticketmarker_text">Mostra la satisfacció dels bitllets.</string>
     <string name="trainstationinfo_usage">Esperant: %2$,d/%3$,d\nÚs: %1$.1f%%</string>
-    <string name="draft_firedepartment01_title">Departament de bombers petit</string>
+    <string name="draft_firedepartment01_title">Parc de bombers petit</string>
     <string name="draft_firedepartment01_text">Evita i extingeix incendis. Té un radi petit i només un cotxe.</string>
     <string name="draft_police01_title">Departament de policies petit</string>
     <string name="draft_police01_text">Per una mica de seguretat.</string>
@@ -682,7 +682,7 @@
     <string name="draft_police02_title">Departament del S.W.A.T.</string>
     <string name="draft_police02_text">Aquesta estació de policia donarà lloc al silenci i l\'ordre a la teva ciutat.</string>
     <string name="settings_blur">Desenfoc</string>
-    <string name="happiness_supply">Subministrament</string>
+    <string name="happiness_supply">Subministraments</string>
     <string name="happiness_environment">Ambient</string>
     <string name="happiness_freetime">Temps lliure</string>
     <string name="notify_noroad">Alguns edificis no tenen connexió per carretera. Has de solucionar-ho.</string>
@@ -796,7 +796,7 @@
     <string name="draft_mltry_rocketlauncher00_title">Llançacoets</string>
     <string name="draft_landfill00_title">Abocador</string>
     <string name="draft_wasteincinerator00_title">Incineradora d\'escombraries</string>
-    <string name="draft_firedepartment02_title">Estació de bombers principal</string>
+    <string name="draft_firedepartment02_title">Parc central de bombers</string>
     <string name="draft_cemetery00_title">Cementiri</string>
     <string name="draft_crematory00_title">Crematori</string>
     <string name="rank_newrank">Enhorabona! La vostra ciutat %1$s ha arribat a un nivell nou:</string>
@@ -805,7 +805,7 @@
     <string name="rank_title">Nivell de ciutat nou</string>
     <string name="ci_rank_title">Nivells</string>
     <string name="draft_firedepartment02_heli00_title">Heliport</string>
-    <string name="draft_firedepartment02_heli00_text">Els helicòpters poden aterrar i començar aquí.\n\nAugmenta el rang del departament de bombers.</string>
+    <string name="draft_firedepartment02_heli00_text">Els helicòpters poden aterrar i començar aquí.\n\nAugmenta el rang del parc de bombers.</string>
     <string name="settings_reset_title">Restableix la configuració</string>
     <string name="settings_reset_text">Es perdrà tota la configuració. Estàs segur?</string>
     <string name="settings_leftsidetraffic">Trànsit a l\'esquerra</string>
@@ -836,11 +836,11 @@
     <string name="topic_belong">Totes les teves ciutats pertanyen a nosaltres &gt;:D</string>
     <string name="topic_love">Tot el que necessites és amor</string>
     <string name="topic_build">Construiré la meva pròpia ciutat amb gratacels i parcs</string>
-    <string name="topic_news">Bones notícies a tothom!</string>
+    <string name="topic_news">Bones notícies per a tothom!</string>
     <string name="topic_welcome">Benvingut de nou :)</string>
     <string name="topic_spoon">No hi ha culleres</string>
-    <string name="topic_relax">Relaxa\'t, només és un joc</string>
-    <string name="topic_cats">Els gats són tan dooolços</string>
+    <string name="topic_relax">Relaxeu-vos... només és un joc</string>
+    <string name="topic_cats">Els gats són tan dooolcets</string>
     <string name="topic_force">Que la força estigui de la teva part</string>
     <string name="topic_plugins">Ara tenim complements</string>
     <string name="topic_page">Visiteu-nos a www.theotown.com</string>
@@ -886,7 +886,7 @@
     <string name="draft_feature_buildings00_text">Alguns edificis petits residencials, comercials i industrials per a més varietat a la teva ciutat. Inclou gràfics per a l\'hivern.</string>
     <string name="dialog_redeempromo_title">Aquí hi ha alguns diamants</string>
     <string name="dialog_redeempromo_text">Sembla que aquests diamants són teus ara.</string>
-    <string name="dialog_present_cmdad">Doblar-ho</string>
+    <string name="dialog_present_cmdad">Dobla\'ls</string>
     <string name="dialog_connectroad_title">Connectar amb la ciutat veïna</string>
     <string name="dialog_connectroad_text">Vols connectar aquest camí amb la ciutat veïna?</string>
     <string name="settings_autosave">Desades automàtiques</string>
@@ -929,7 +929,7 @@
     <string name="dialog_renameregion_title">Canvia el nom de la regió</string>
     <string name="dialog_renameregion_text">Escriviu el nom nou de la regió:</string>
     <string name="shop_diamonds">%1$s diamants per %2$s</string>
-    <string name="draft_townhall02_title">Gran ajuntament</string>
+    <string name="draft_townhall02_title">Ajuntament gran</string>
     <string name="draft_townhall02_text">Un gran ajuntament per a una gran ciutat. Gràcies per 1 M de descàrregues.</string>
     <string name="notify_pollutedwaterpump">Aquesta bomba d\'aigua es troba en una zona contaminada. És millor situar la bomba en un altre lloc per mantenir l\'aigua neta.</string>
     <string name="notify_destroyedtiles">Desfem-nos d\'aquestes escombraries abans que algú ho noti.</string>
@@ -1023,8 +1023,8 @@
     <string name="setting_showtrafficmarker">Mostrar el trànsit a l\'eina de carretera</string>
     <string name="menu_console">Consola</string>
     <string name="topic_crispr">CRISPR pot canviar la teva vida</string>
-    <string name="draft_feature_firestation00_title">Departament de bombers principal</string>
-    <string name="draft_feature_firestation00_text">Una estació de bombers amb gran ràdio, molts cotxes i una actualització amb un heliport i un helicòpter.</string>
+    <string name="draft_feature_firestation00_title">Parc central de bombers</string>
+    <string name="draft_feature_firestation00_text">Un parc de bombers amb gran ràdio, molts cotxes i una actualització amb un heliport i un helicòpter.</string>
     <string name="draft_feature_gocart00_title">Pista de carreres</string>
     <string name="draft_feature_gocart00_text">Què passa amb alguns esports motors a la teva ciutat? També generarà karts en una carretera normal.</string>
     <string name="draft_firedepartment02_text">Té un radi enorme i molts cotxes. Útil per prevenir o extingir incendis.</string>
@@ -1129,8 +1129,8 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_feature_letters00_title">Lletres de decoració</string>
     <string name="draft_feature_letters00_text">Unlock the Decorative Letter Set and add a touch of personality to your cityscape! Place these versatile letters anywhere you desire for delightful decorative purposes. Spell out city names, create custom signage, or simply add a whimsical touch to your urban landscape. Upgrade now and let your creativity take center stage!</string>
 
-    <string name="tool_eye_dropper">Seleccionar edifici</string>
-    <string name="settings_language">Llengua</string>
+    <string name="tool_eye_dropper">Selecciona edificis</string>
+    <string name="settings_language">Idioma</string>
     <string name="settings_language_hint">És possible que calgui reiniciar el joc per carregar la nova llengua seleccionada correctament</string>
     <string name="settings_language_default">Per defecte (%s)</string>
 
@@ -1273,13 +1273,13 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_ap_gate00_text">Les portes són necessàries per als passatgers entrants/sortints.</string>
     <string name="draft_ap_field00_title">Pista</string>
     <string name="draft_ap_field00_text">Una pista on els avions poden començar i aterrar. La longitud mínima és de 12.</string>
-    <string name="settings_usezoneradius">Utilitzar el radi de zona</string>
+    <string name="settings_usezoneradius">Utilitza el radi de zona</string>
     <string name="draft_airplane01_title">T380</string>
     <string name="draft_airplane01_text">Un avió de dos pisos i gran abast de TheoAir. Té molt espai.</string>
-    <string name="dialog_waitingtime_title">Reduir el temps d\'espera</string>
+    <string name="dialog_waitingtime_title">Redueix el temps d\'espera</string>
     <string name="dialog_waitingtime_text">Vols reduir una mica el temps d\'espera?\n%1$s restants.</string>
 
-    <string name="topic_rate">Ajuda\'ns i valora TheoTown</string>
+    <string name="topic_rate">Ajudeu-nos i valoreu el TheoTown</string>
     <string name="ci_airport_lane_unassign">Descart</string>
     <string name="tool_airplanelane_title">Toca en un carril lliure</string>
     <string name="draft_feature_starter_pack00_title">Paquet d\'inici</string>
@@ -1297,7 +1297,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="requirement_upgrade_invert">No es pot combinar amb %1$s</string>
     <string name="draft_deco_chr_present00_title">Regal</string>
     <string name="draft_deco_chr_present00_text">Només un regal. Intenta tocar-ho.</string>
-    <string name="settings_touch_rotate">Girar al tacte</string>
+    <string name="settings_touch_rotate">Gira al tacte</string>
     <string name="disaster_green_slime_title">Slime verd</string>
     <string name="disaster_green_slime_text">L\'slime s\'expandeix fins consumir tot el que es pot veure</string>
     <string name="disaster_green_slime_cmdtext">Slime!</string>
@@ -1366,7 +1366,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_syl_spawner09_title">Salze</string>
     <string name="draft_syl_spawner09_text">Un gran salze.</string>
     <string name="draft_deco_chr_present_helipad00_title">Genial!</string>
-    <string name="draft_deco_chr_present_helipad00_text">El primer helicòpter vostre.</string>
+    <string name="draft_deco_chr_present_helipad00_text">El vostre primer helicòpter.</string>
     <string name="draft_ufo_crater00_title">Cosa estranya</string>
     <string name="draft_ufo_crater00_text">Sembla que hi ha alguna cosa que estigui enganxada al terra. Millor eliminar-ho.</string>
     <string name="draft_destroyedtileradioactive00_title">Ferralla</string>
@@ -1432,8 +1432,8 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="dialog_shortbuildtime_text">Mira un breu vídeo per augmentar el temps de construcció %s.</string>
 
 
-    <string name="settings_saveonappswitch">Desar a l\'interruptor de l\'aplicació</string>
-    <string name="settings_saveforscreenshot">Desar per captura de pantalla</string>
+    <string name="settings_saveonappswitch">Desa al switch</string>
+    <string name="settings_saveforscreenshot">Desa per a la captura de pantalla</string>
     <string name="draft_eiffeltower00_title">Torre Eiffel</string>
     <string name="draft_eiffeltower00_text">La Torre Eiffel de París és la fita més destacada de França. La torre té 324 metres d\'alçada i es va acabar el 1889.</string>
     <string name="dialog_wb_text02">Vols prendre els %1$s guanyats mentre no hi eres?\n\n%2$s</string>
@@ -1447,9 +1447,9 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="tool_removetunnel_text">Traurem alguns túnels.</string>
 
 
-    <string name="dialog_halftunnelprice_title">Túnel un 50% més barat</string>
+    <string name="dialog_halftunnelprice_title">Túnel un 50 % més barat</string>
     <string name="dialog_halftunnelprice_text">Vols estalviar diamants? Això redueix el preu del túnel en un 50%% per %s.</string>
-    <string name="game_remaining_halftunnelprice">Túnel un 50% més barat per %s</string>
+    <string name="game_remaining_halftunnelprice">Túnel un 50 % més barat per %s</string>
     <string name="shop_diamonds_sole">%s diamants</string>
     <string name="dialog_diamondshop_bestvalue">Millor valor</string>
     <string name="draft_draft_edl_title">Educació primària</string>
@@ -1466,7 +1466,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_draft_plt_text">Indicador de contaminació.</string>
     <string name="draft_draft_prk_title">Disponibilitat de parcs</string>
     <string name="draft_draft_prk_text">Indicador de la disponibilitat dels parcs.</string>
-    <string name="draft_draft_sp_title">Disponibilitat Esports</string>
+    <string name="draft_draft_sp_title">Disponibilitat d\'esports</string>
     <string name="draft_draft_sp_text">Indicador de la disponibilitat dels parcs.</string>
     <string name="draft_draft_fth_title">Fe</string>
     <string name="draft_draft_fth_text">Indicador de la fe dels habitants.</string>
@@ -1490,8 +1490,8 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_draft_henv_text">Felicitat per l\'entorn.</string>
     <string name="draft_draft_hpd_title">Felicitat per la seguretat</string>
     <string name="draft_draft_hpd_text">Felicitat per departaments de policia.</string>
-    <string name="draft_draft_hfd_title">Felicitat per departaments de bombers</string>
-    <string name="draft_draft_hfd_text">Felicitat per els departaments de bombers.</string>
+    <string name="draft_draft_hfd_title">Felicitat pels parcs de bombers</string>
+    <string name="draft_draft_hfd_text">Felicitat pels parcs de bombers.</string>
     <string name="draft_draft_hpk_title">Felicitat per parcs</string>
     <string name="draft_draft_hpk_text">Felicitat pels parcs.</string>
     <string name="draft_draft_hsp_title">Felicitat per esports</string>
@@ -1540,7 +1540,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="dialog_adreward_title">Anuncis premiats</string>
     <string name="dialog_adreward_text">Vols obtenir diamants gratuïts veient un anunci?</string>
     <string name="dialog_adreward_cmdwatch">Obtenir-los ara</string>
-    <string name="draftselector_titlelandmark">Fites</string>
+    <string name="draftselector_titlelandmark">Monuments</string>
     <string name="draft_bigben00_title">El Big Ben</string>
     <string name="draft_bigben00_text">El Big Ben és un campanar de Londres de 96 m d\'alçada i construït el 1.859.</string>
     <string name="draft_angelofindependence00_title">L\'Àngel de la Independència</string>
@@ -1551,8 +1551,8 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_decorustywatertower00_text">Una torre d\'aigua antiga i rovellada. No fa absolutament res.</string>
     <string name="draft_underground_wire00_title">Cables Subterranis</string>
     <string name="draft_underground_wire00_text">Els cables subterranis funcionen com a cables normals, però es col·loquen sota terra perquè ningú no els vegi.</string>
-    <string name="draft_feature_freedombuildings00_title">Fites I</string>
-    <string name="draft_feature_freedombuildings00_text">Conté els següents edificis per a ús permanent:</string>
+    <string name="draft_feature_freedombuildings00_title">Monuments I</string>
+    <string name="draft_feature_freedombuildings00_text">Conté els següents edificis d\'ús permanent:</string>
 
 
     <string name="tool_removeuwire_title">Cables Subterranis</string>
@@ -1572,14 +1572,14 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_onerafflesplace00_text">El The One Raffles Place és un gratacel de la ciutat de Singapur que va ser construït el 1986 i té una alçada de 280 metres.</string>
     <string name="draft_willistower00_title">Torre Willis</string>
     <string name="draft_willistower00_text">La Torre Willis (també coneguda com la Torre Sears) és un gratacel localitzat a Chicago, Estats Units. La torre va ser construïda el 1973 i té 442 metres d\'alçada.</string>
-    <string name="draft_feature_landmarks01_title">Fites II</string>
-    <string name="draft_feature_landmarks01_text">Conté els següents edificis per a ús permanent:</string>
+    <string name="draft_feature_landmarks01_title">Monuments II</string>
+    <string name="draft_feature_landmarks01_text">Conté els següents edificis d\'ús permanent:</string>
 
 
     <string name="draft_cat_supply00_title">Subministrament</string>
     <string name="draft_cat_road00_title">Carretera</string>
-    <string name="draft_cat_bus00_title">Autobús</string>
-    <string name="draft_cat_train00_title">Tren</string>
+    <string name="draft_cat_bus00_title">Autobusos</string>
+    <string name="draft_cat_train00_title">Trens</string>
     <string name="draft_cat_recent00_title">Recent</string>
     <string name="draft_cat_service00_title">Serveis</string>
     <string name="draft_tool_eyedropper00_title">Comptagotes</string>
@@ -1587,7 +1587,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_cat_level00_title">Nivell ₮</string>
     <string name="draft_cat_level01_title">Nivell ₮₮</string>
     <string name="draft_cat_level02_title">Nivell ₮₮₮</string>
-    <string name="draft_tool_movebuilding00_title">Moure edifici</string>
+    <string name="draft_tool_movebuilding00_title">Moure edificis</string>
     <string name="draft_tool_movebuilding00_text">Seleccioneu un edifici per a moure\'l a un altre lloc. No tots els edificis es poden moure.</string>
     <string name="tool_movebuilding_cmd">Seleccionar un edifici</string>
 
@@ -1629,7 +1629,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_burjalarab00_text">El Burj Al Arab és un hotel de luxe situat a Dubai, Emirats Àrabs Units. Es va completar el 1999 i té una alçada de 321 metres.</string>
     <string name="draft_hearsttower00_title">Torre Hearst</string>
     <string name="draft_hearsttower00_text">La Torre Hearst és un edifici d\'oficines a la ciutat de Nova York que va ser construït el 2006. Té una alçada de 182 metres.</string>
-    <string name="draft_feature_landmarks02_title">Fites III</string>
+    <string name="draft_feature_landmarks02_title">Monuments III</string>
 
 
     <string name="draft_recyclingyard00_title">Centre de compres</string>
@@ -1660,7 +1660,7 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="draft_orientalpearltower00_text">La Torre de la Perla Oriental és una torre de televisió a Xangai. La construcció es va completar el 1994. L\'alçada de la torre és de 470 metres.</string>
     <string name="draft_swfc_tower00_title">Torre SWFC</string>
     <string name="draft_swfc_tower00_text">La Shanghai World Financial Center es un gratacel localitzat a Xangai i la seva construcció va finalitzar l\'any 2008. La açada de la torre és de 494 metres.</string>
-    <string name="draft_feature_landmarks03_title">Fites IV</string>
+    <string name="draft_feature_landmarks03_title">Monuments IV</string>
     <string name="draft_feature_landmarks03_text">Edificis de Xangai</string>
     <string name="draft_cat_asphalt00_title">Asfalt</string>
     <string name="draft_asphalt00_title">Asfalt gris</string>
@@ -1761,11 +1761,11 @@ Si proporciones accés a TheoTown a l\'emmagatzematge extern, desarà ciutats al
     <string name="privacy_policy">Política de privadesa</string>
     <string name="dialog_privacy_title">Política de privadesa</string>
     <string name="dialog_privacy_text">Hola, estem actualitzant la nostra Política de Privadesa. Preneu-vos el temps per revisar-ho.</string>
-    <string name="dialog_privacy_cmdopen">Obre Política</string>
+    <string name="dialog_privacy_cmdopen">Obre la política de privadesa</string>
     <string name="dialog_privacy_cmdlater">Entès</string>
     <string name="settings_drawzones">Dibuixa zones</string>
     <string name="draft_metrostation00_title">Estació de metro</string>
-    <string name="draft_metrostation00_text">Una estació per accedir al metro.</string>
+    <string name="draft_metrostation00_text">Una estació per a accedir al metro.</string>
     <string name="draft_metroline00_title">Túnel de metro</string>
     <string name="draft_metroline00_text">Un túnel de metro. No ho podràs veure encara que si hi sigui.</string>
     <string name="feature_coming_soon">Pròximament</string>
@@ -1878,17 +1878,17 @@ Cons: Menys reptes</string>
     <string name="draft_medic03_title">Hospital modern</string>
     <string name="draft_medic03_text">Un hospital modern que pot atendre més pacients en un espai més reduït.</string>
     <string name="draft_gol_dead_title">Joc de la vida</string>
-    <string name="draft_gol_dead_text">Crea un camp de joc de la vida. Toca les rajoles construïdes per a canviar el seu estat. L\'estat predeterminat és mort.</string>
+    <string name="draft_gol_dead_text">Crea un camp de joc de la vida. Toca les caselles construïdes per a canviar-ne estat. L\'estat predeterminat és mort.</string>
 
 
     <string name="draft_coittower00_title">Coit Memorial Tower</string>
-    <string name="draft_coittower00_text">La Coit Memorial Tower fou construïda en 1933 i estava dedicat als bombers voluntaris que havien mort en els cinc incendis principals de San Francisco.</string>
+    <string name="draft_coittower00_text">La Coit Memorial Tower fou construïda el 1933 i estava dedicat als bombers voluntaris que havien mort en els cinc incendis principals de San Francisco.</string>
     <string name="draft_bankofamerica00_title">Bank of America Center</string>
     <string name="draft_bankofamerica00_text">El Bank of America Center, és un gratacel de 52 pisos 779 peus (237 m) a San Francisco, Califòrnia.</string>
     <string name="draft_transamerica00_title">Piràmide de Transamerica</string>
     <string name="draft_transamerica00_text">La piràmide Transamerica és un gratacel de 260 metres a San Francisco que es va completar el 1972 i és la llar d\'empreses de serveis financers.</string>
     <string name="draft_feature_landmarks05_text">Obté alguns edificis famosos de San Francisco, CA.</string>
-    <string name="dialog_cemeteryclear_title">Netejar ara</string>
+    <string name="dialog_cemeteryclear_title">Neteja ara</string>
     <string name="dialog_cemeteryclear_text">Crec que podem reutilitzar part d\'aquest espai aquí.</string>
     <string name="cemetery_cmdclear">Neteja ara</string>
     <string name="cemetery_clear">Llisca per lliurar una miqueta d\'espai.</string>
@@ -1900,10 +1900,9 @@ Cons: Menys reptes</string>
     <string name="draft_halloween_pumpkin00_text">Halloween s\'apropa! Tots estimen les carabasses, oi?</string>
     <string name="draft_halloween_tree00_title">Arbre mort</string>
     <string name="draft_halloween_tree00_text">Un arbre mort fantasmal que habitualment apareix a les històries de fantasmes.</string>
-    <string name="draft_feature_landmarks04_title">Fites V</string>
-    <string name="draft_feature_landmarks05_title">Fites VI</string>
+    <string name="draft_feature_landmarks04_title">Monuments V</string>
+    <string name="draft_feature_landmarks05_title">Monuments VI</string>
     <string name="draft_marker_hackedmarkermarker_title">AQUESTA VERSIÓ HA ESTAT PIRATEJADA!</string>
-
 
     <string name="settings_dedicatedplugintexture">More plugin texture space (needs a restart; may be unstable)</string>
     <string name="draft_haunted_house00_title">Casa encantada</string>
@@ -1918,7 +1917,7 @@ Cons: Menys reptes</string>
     <string name="draft_tree00_autumn00_text">Les fulles que es tornen grogues poden ser molt boniques.</string>
     <string name="settings_handintoolbar">Mostra la mà a la barra d\'eines</string>
     <string name="draft_bushman00_title">Estàtua d\'un home del bosc</string>
-    <string name="draft_bushman00_text">«Mama, que és allò?»\n\«No el miris. Si no, et perseguirà fins i tot en somnis.»</string>
+    <string name="draft_bushman00_text">«Mama, que és allò?»\n\«No ho miris. Si no, et perseguirà, fins i tot en somnis.»</string>
     <string name="draft_police03_title">Dept. de policia modern</string>
     <string name="draft_police03_text">Destineu-hi una mica de diners i podreu resoldre el problemes que tingueu amb la delinqüència.</string>
     <string name="draft_sf_cityhall00_title">Ajuntament</string>
@@ -2705,26 +2704,26 @@ Premeu una tecla per a assignar-la a aquesta acció.</string>
     <string name="stage_comment_plugin_acquirefirst">Adquiriu primer aquest complement.</string>
 
 
-    <string name="draft_feature_dsa00_title">DSA</string>
+    <string name="draft_feature_dsa00_title">ADE</string>
     <string name="draft_feature_dsa00_text">This integration adds better supply systems, few new service cars, a new road which is faster and is cheaper, a new disaster, DSA flags, new buildings, a lot of events, a space dimension to explore, new methods to earn money and much more.</string>
-    <string name="draft_dsa_category00_title">Agència</string>
+    <string name="draft_dsa_category00_title">Agència espacial</string>
     <string name="draft_dsa_space_category00_title">Base espacial</string>
-    <string name="draft_dsadevcat_title">Depuració DSA</string>
-    <string name="draft_dsa_zone_title">Zona DSA</string>
-    <string name="draft_dsa_zone_text">Zona on s\'ha de declarar el territori DSA a la ciutat.</string>
-    <string name="draft_dsaroad_title">Carretera DSA</string>
-    <string name="draft_dsaroad_text">Carretera on es pot circular més de pressa del normal dissenyada pel DSA.</string>
-    <string name="draft_dsa_ultra_road00_title">Carretera DSA MK3.2</string>
-    <string name="draft_dsa_ultra_road00_text">Carretera amb una velocitat màxima permesa increïble dissenyada pel DSA.</string>
-    <string name="draft_dsahq_title">Seu del DSA</string>
-    <string name="draft_dsahq_text">El quarter general de totes les operacions DSA de la zona.</string>
+    <string name="draft_dsadevcat_title">Depuració ADE</string>
+    <string name="draft_dsa_zone_title">Zona ADE</string>
+    <string name="draft_dsa_zone_text">Zona on s\'ha de declarar el territori ADE a la ciutat.</string>
+    <string name="draft_dsaroad_title">Carretera ADE</string>
+    <string name="draft_dsaroad_text">Carretera on es pot circular més de pressa del normal dissenyada per l\'ADE.</string>
+    <string name="draft_dsa_ultra_road00_title">Carretera ADE MK3.2</string>
+    <string name="draft_dsa_ultra_road00_text">Carretera amb una velocitat màxima permesa increïble dissenyada per l\'ADE.</string>
+    <string name="draft_dsahq_title">Seu de l\'ADE</string>
+    <string name="draft_dsahq_text">El quarter general de totes les operacions ADE de la zona.</string>
     <string name="draft_dsahqupHW_title">Estableix DSE</string>
-    <string name="draft_dsahqupHW_text">Estableix el Departament DSA de Serveis d\'Emergències que augmenta la seguretat sanitària amb la creació d\'equips especials.</string>
+    <string name="draft_dsahqupHW_text">Estableix el Departament de Serveis d\'Emergències de l\'ADE que augmenta la seguretat sanitària amb la creació d\'equips especials.</string>
     <string name="draft_dsahqupAR_title">Estableix DR</string>
     <string name="draft_dsahqupAR_text">Estableix el departament de recerca que coordina els diferents centres i bases de recerca de la zona.</string>
     <string name="draft_dsahqupMS_title">Establish RMD</string>
     <string name="draft_dsahqupMS_text">Establishes DSA department of resource management which manages resource gathering in the area.</string>
-    <string name="draft_dsa_outpost00_title">DSA Office</string>
+    <string name="draft_dsa_outpost00_title">Oficina ADE</string>
     <string name="draft_dsa_outpost00_text">Local DSA office with most qualified representatives.</string>
     <string name="draft_tool_disaster_super_nuke00_title">„X-treme“ ICBM</string>
     <string name="draft_tool_disaster_super_nuke00_text">DSA\'s most powerful ICBM capable of destroy anything that comes into contact with it.</string>
@@ -2747,7 +2746,7 @@ Premeu una tecla per a assignar-la a aquesta acció.</string>
     <string name="draft_dsa_research03_text">Research mind and physics bending technologies.</string>
     <string name="draft_dsaclockstore_title">Inconspicuous clock store</string>
     <string name="draft_dsaclockstore_text">A totally inconspicuous place to purchase your clocks.</string>
-    <string name="draft_dsa_deco00_title">DSA decoration</string>
+    <string name="draft_dsa_deco00_title">Decoració ADE</string>
     <string name="draft_dsa_deco00_text">A decoration for your DSA base.</string>
     <string name="draft_dsa_award00_title">Una roca</string>
     <string name="draft_dsa_award00_text">Now where did this rock come from?</string>
@@ -2992,13 +2991,13 @@ Premeu una tecla per a assignar-la a aquesta acció.</string>
     <string name="draft_space_storyline_stage_7_04">Què dieu?</string>
     <string name="draft_space_storyline_stage_7_04_notyetbuilt">I see the rocket construction is still underway</string>
     <string name="draft_space_storyline_stage_8_00">I\'m afraid this is the last time we\'re seeing each other.</string>
-    <string name="draft_space_storyline_stage_8_01">We are now ready to return to our home galaxy and rebuild it, provided that there\'s something left.</string>
-    <string name="draft_space_storyline_stage_8_02">We will now hustle our way to the rocket.</string>
+    <string name="draft_space_storyline_stage_8_01">Ara ja podem tornar a la nostra galàxia i tornar-la a construir, si és que encara queda alguna cosa.</string>
+    <string name="draft_space_storyline_stage_8_02">Pujarem tots al coet.</string>
     <string name="draft_space_storyline_stage_8_cutscene">Els cogombrets pugen a bord de la nau.</string>
-    <string name="draft_space_storyline_ending_00">Guess this is it. Thank you very much for helping us.</string>
-    <string name="draft_space_storyline_ending_01">In return, we would like to give you this storage medium.</string>
-    <string name="draft_space_storyline_ending_02">It contains all of our recorded knowledge.</string>
-    <string name="draft_space_storyline_ending_03">Once you\'re ready, initiate the launch.</string>
+    <string name="draft_space_storyline_ending_00">Ja estem tots preparats. Moltes gràcies per ajudar-nos.</string>
+    <string name="draft_space_storyline_ending_01">A canvi, us volem donar auqest dipòsit d\'emmagatzematge mitjà.</string>
+    <string name="draft_space_storyline_ending_02">Conté tots els nostres coneixements.</string>
+    <string name="draft_space_storyline_ending_03">Quan ho tingueu tot llest, inicieu el llançament.</string>
     <string name="draft_space_storyline_ending_04">A reveure, amics!</string>
     <string name="draft_space_storyline_ending_cutscene">El coet despega!</string>
     <string name="draft_space_storyline_stage_4_06">Ah! No en teniu cap de disponible? Deixeu-me fer un truc de màgia...</string>
@@ -3151,7 +3150,7 @@ Alguns monuments, premis i complements proporcionen cultura
 La majoria de monuments, siguin petits o la Torre Eiffel, produeixen influència cultural. Els premis que al món real suposen avenços o fets importants també en produeixen. També es poden descarregar complements que proporcionen cultura a través de la botiga de complements i els fòrums.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-Si hi ha incendis massa sovint, poseu a prop una brigada de bombers.
+Si hi ha incendis massa sovint, poseu un parc de bombers a prop.
     </string>
     <string name="tip_topic_fire_too_frequent_text">
 Si els edificis s\'incendien massa sovint, probablement estan fora de l\'abast dels bombers. Els edificis residencials, comercials i industrials necessiten tenir a prop el parc de bombers, de manera que cal cobrir el mapa amb la seva influència. Això hauria d\'evitar incendis futurs.
@@ -3274,61 +3273,61 @@ Com més edificis i carreteres es construeixin, més alt serà el seu preu. Com 
 Si voleu més llibertat creativa, jugueu en mode lliure/uber.
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+Molts jugadors veterans prefereixen jugar en mode lliure o uber per a expressar la seva creativitat. Aquests modes permeten construir sense límits econòmics i, en el cas del mode uber, sense haver-se de preocupar per la felicitat o els subministraments. Sovint els edificis es situen manualment per a crear imatges increïbles. No us preocupeu si no us sentiu identificats, cadascú construeix com vol!
     </string>
     <string name="tip_topic_toggle_disasters_title">
 Podeu desactivar els desastres automàtics a les opcions de la partida.
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+Els desastres es poden desactivar des de la configuració i podeu escollir amb quins desastres voleu jugar. Si es fan servir les estacions mineres de l\'ADE o els silos de míssils militars, la ciutat pot estar en perill de terratrèmols o altres desastres.
     </string>
     <string name="tip_topic_taxes_percentage_title">
 Gran part dels ingressos s\'obté dels impostos, però no és recomanable pujar-los per sobre del 9 %.
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+Especialment a l\'inici de la partida, el 90 % o més dels ingressos es fan amb els impostos dels residents. Gran part dels impostos es situen entre el 7 % i el 9 %. Si el nivell d\'impostos és més alt, potser hi ha revoltes o la gent abandonarà les cases de la ciutat.
     </string>
     <string name="tip_topic_taxes_adjust_title">
 Podeu augmentar o reduir els impostos amb els botons + i ‒.
     </string>
     <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+Premeu la icona amb la careta que somriu i moveu-vos a la pestanya d\'impostos. Feu servir els botons + i ‒ per a commutar els impostos per a cada tipus i nivell d\'edifici. Aneu amb compte de no pujar-los massa.
     </string>
     <string name="tip_topic_moon_title">
-Feu servir el DSA per a arribar a la Lluna.
+Feu servir l\'ADE per a visitar la Lluna.
     </string>
     <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+Desbloqueu l\'Agència de Defensa Espacial i milloreu els edificis per a viatjar a la Lluna. El coet necessitarà subministraments i, una vegada carregat, potser arribarà a la Lluna o s\'hi estavellarà. Si teniu èxit, el mapa de la Lluna estarà disponible des de les ciutats per a visitar-la. Si s\'extrauen minerals a l\'espai, podreu desblocar edificis al mapa des d\'on s\'ha arribat a la Lluna.
     </string>
     <string name="tip_topic_icbm_title">
 Aneu amb compte! Els MBIC poden destrossar ciutats senceres!
     </string>
     <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+L\'ICBM no és un desastre que ocorri de manera natural i només es pot desactivar a través de l\'ADE. Aneu amb compte quan feu servir l\'ICBM: destruirà tota la ciutat, sense importar la seva mida, en qüestió de segons. Podeu fer una còpia de seguretat o duplicar la ciutat per a evitar penedir-vos-en després de provar-lo.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
 A les zones denses hi pot viure més gent, però també són més cares de construir.
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+Les zones denses normalment són més cares de construir que les normals, però hi pot viure més gent. També s\'hi poden construir edificis més alts. A banda d\'aquestes diferències, no hi ha molt més a dir, ja que tenen les mateixes necessitats que les zones normals.
     </string>
     <string name="tip_topic_forum_plugins_title">
 Podeu descarregar complements a través dels fòrums.
     </string>
     <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+Alguns creadors de complements escullen publicar-los només als fòrums. Això us permet descarregar complements que no estan a la tenda de complements. Són gratuïts i s\'han de posar a la carpeta de complements del vostre dispositiu manualment. Aneu amb compte, ja que aquests complements no estan revisats.
     </string>
     <string name="tip_topic_toll_happiness_title">
 Els peatges permeten obtenir ingressos addicionals, però als habitants no els fan gràcia.
     </string>
     <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+Les cabines de peatges es poden construir per a fer pagar als vehicles per fer servir les carreteres i aconseguir ingressos. La quantitat que es recapta es pot ajustar al peatge. Redueix una mica la felicitat de mobilitat i fa que la gent estigui una mica descontenta.
     </string>
     <string name="tip_topic_building_rotation_title">
 No tots els edificis disposen d\'imatges rotades.
     </string>
     <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+Alguns edificis del joc original tenen imatges de rotació, però no pas tots. Especialment amb els complements, potser no hi ha totes les imatges per a les diferents rotacions. Això és perquè el seu autor no les va incloure. Per a veure quins edificis tenen imatges de rotacions, premeu un edifici i mireu si tenen botons de següent i anterior a la cantonada superior dreta. Si no hi ha imatges rotades, hi ha més memòria disponible per a altres tipus d'edificis.
     </string>
     <string name="tip_topic_map_rotation_title">
 Canvieu l\'orientació del mapa amb el minimapa.
