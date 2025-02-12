@@ -1049,16 +1049,16 @@
     <string name="tut_build04">Ma certo. Non abbiamo ancora una fonte di energia. Costruiamo dei panelli solari vicino l\'autostrada.</string>
     <string name="tut_build05">Ora abbiamo bisogno di cavi per collegare la zona residenziale ai pannelli.</string>
     <string name="tut_build06">La costruzione dei pannelli solari richiede tempo. Può aspettare o toccarli per accelerare i tempi gratuitamente.</string>
-    <string name="tut_build07">Ok, ora abbiamo l\'energia. Ma aspetti, serve anche dell\'acqua?</string>
-    <string name="tut_build08">Nulla di complicato. Costruiamo una torre idrica.</string>
+    <string name="tut_build07">Bene, ora abbiamo l\'energia. Ma un attimo, serve anche l\'acqua?</string>
+    <string name="tut_build08">Nessun problema. Costruiamo una torre idrica.</string>
     <string name="tut_build09">Anche qui dobbiamo aspettare che l\'edificio sia completo. Invece di aspettare, potremmo comprarlo con i diamanti.</string>
-    <string name="tut_build10">Per trasportare l\'acqua negli edifici usiamo i tubi. Costruiscine alcuni per il futuro.</string>
+    <string name="tut_build10">Per trasportare l\'acqua verso gli edifici usiamo i tubi. Costruiscine alcuni per il futuro.</string>
     <string name="tut_build11">Ottimo, ora abbiamo abitanti con energia e acqua. Ma un attimo, manca ancora qualcosa...</string>
     <string name="tut_build110">Sindaco, non abbiamo né posti di lavoro, né negozi per fare acquisti!</string>
     <string name="tut_build12">Ok, abbiamo bisogno di zone commerciali e industriali. Diamo uno sguardo alla panoramica della domanda.</string>
-    <string name="tut_build13">Qui può vedere la domanda di edifici res (residenziali), com (commerciali) e ind (industriali).</string>
-    <string name="tut_build14">Per ogni tipo (res, com o ind)) ci sono tre livelli di ricchezza: ₮, ₮₮ and ₮₮₮ che corrispondono a povero, benestante e ricco.</string>
-    <string name="tut_build15">Ovviamente vorremmo avere solo abitanti ricchi, ma facciamo un passo per volta. Come può vedere, abbiamo bisogno di ₮ commerciali per ora.</string>
+    <string name="tut_build13">Qui può vedere la domanda di edifici res. (residenziali), com. (commerciali) e ind. (industriali).</string>
+    <string name="tut_build14">Per ogni tipo (res, com o ind) ci sono tre livelli di ricchezza: ₮, ₮₮ e ₮₮₮ che corrispondono a povero, medio/benestante e ricco.</string>
+    <string name="tut_build15">Ovviamente vorremmo avere solo abitanti ricchi, ma facciamo un passo per volta. Come può vedere, ora abbiamo bisogno di commerciali ₮.</string>
     <string name="tut_build16">Collochiamo delle zone commerciali.</string>
     <string name="tut_build17">Ben fatto! Secondo il grafico della domanda, c\'è bisogno di zone industriali. Collochiamole lontano da quelle residenziali.</string>
     <string name="tut_build18">In media, sono necessarie tante zone commerciali e industriali quante sono quelle residenziali.</string>
@@ -1073,7 +1073,7 @@
     <string name="tut_build29">Mi dispiace interromperla, ma ci sono anche cose non magiche. I soldi, per esempio.</string>
     <string name="tut_build30">Ora le darò una breve panoramica sui nostri soldi. Possiamo guadagnare soldi con le tasse, quindi è nel nostro interesse ottenere più abitanti.</string>
     <string name="tut_build31">In alcuni casi potremmo dover chiedere un prestito... speriamo che questo non accada.</string>
-    <string name="tut_build32">Abbiamo abbastanza soldi, per adesso... Concenctriamoci sulla costruzione. Mettiamo dei parchi, alle persone piacciono.</string>
+    <string name="tut_build32">Abbiamo abbastanza denaro, per adesso... Ma concenctriamoci sulla costruzione. Mettiamo dei parchi, i cittadini li amano.</string>
     <string name="tut_build33">Ops, sono più del previsto. Rimuoviamone uno.</string>
     <string name="tut_build34">Ottimo lavoro, finora. Ora voglio presentarle l\'indicatore del rango. Mostra il rango attuale della sua città.</string>
     <string name="tut_build35">Otteniamo più abitanti e risolviamo catastrofi per raggiungere il rango successivo. In questo modo è possibile sbloccare più edifici.</string>
@@ -1436,7 +1436,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="settings_saveforscreenshot">Salva screenshot</string>
     <string name="draft_eiffeltower00_title">Tour Eiffel</string>
     <string name="draft_eiffeltower00_text">La Tour Eiffel di Parigi è il monumento più importante della Francia. La torre è alta 324 m. Terminata nel 1889.</string>
-    <string name="dialog_wb_text02">Vuoi riscuotere quanto ha guadagnato %1$s durante la tua assenza?\n\n%2$s</string>
+    <string name="dialog_wb_text02">Vuoi riscuotere quanto guadagnato da %1$s durante la tua assenza?\n\n%2$s</string>
     <string name="dialog_wb_cmdtake">Prendi</string>
     <string name="dialog_wb_cmdforfeit">Lascia</string>
     <string name="dialog_diamondtool_title">Finisci costruzione</string>
@@ -1591,7 +1591,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_cat_residential00_title">Edifici residenziali</string>
     <string name="draft_cat_commercial00_title">Edifici commerciali</string>
     <string name="draft_cat_industrial00_title">Edifici industriali</string>
-    <string name="offerstage_saving">Risparmi %d%%</string>
+    <string name="offerstage_saving">Risparmi il %d%%</string>
     <string name="draft_pickle00_title">Cetriolo onnipotente</string>
     <string name="draft_pickle00_text">.</string>
 
@@ -2433,7 +2433,7 @@ Così facendo possiamo impedire un\'eventuale perdita di dati causata da aggiorn
     <string name="settings_darktoolbar">Barra degli strumenti scura</string>
     <string name="dialog_tutwelcome_title">Benvenuto a TheoTown</string>
     <string name="dialog_tutwelcome_text">Ora inizieremo con il tutorial per aiutarti a capire le basi per costruire la tua città.\n\n
-Puoi saltare il tutorial se sai come giocare. Puoi farlo quando vuoi dal menu principale.</string>
+Puoi saltare il tutorial se sai già come giocare. Puoi sempre avviarlo quando vuoi dal menu principale.</string>
     <string name="dialog_tutwelcome_cmdskip">Salta tutorial</string>
     <string name="dialog_tutwelcome_start">Iniziamo</string>
 
@@ -2552,8 +2552,8 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="settings_smoothzoom_fast">Veloce</string>
     <string name="settings_regionoriginbackup">Opzione per reimpostare le città in una nuova regione</string>
     <string name="settings_translateplugins">Traduci plugin</string>
-    <string name="stage_region_greeter_welcome">Benvenuto </string>
-    <string name="stage_region_greeter_madewith">Un gioco fatto con</string>
+    <string name="stage_region_greeter_welcome">Benvenuti su </string>
+    <string name="stage_region_greeter_madewith">Un gioco fatto con il </string>
 
 
     <string name="settings_darkbuildtool">Strumento Costruisci oscurato</string>
@@ -3006,14 +3006,14 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="draft_tree_linden00_title">Tiglio</string>
     <string name="draft_tree_linden00_text">Un albero caducifoglie usato perlopiù come ornamento.</string>
     <string name="draft_tree_aspen00_title">Pioppo</string>
-    <string name="draft_tree_aspen00_text">Alberi alti con foglie arancioni, cresce in climi freddi.</string>
+    <string name="draft_tree_aspen00_text">Albero alto con foglie arancioni, cresce in climi freddi.</string>
     <string name="draft_tree_fir00_title">Abete</string>
-    <string name="draft_tree_fir00_text">Delel conifere sempreverdi spesso usate come albero di Natale.</string>
+    <string name="draft_tree_fir00_text">Delle conifere sempreverdi spesso usate come albero di Natale.</string>
     <string name="draft_foliage_bushes00_title">Cespugli</string>
     <string name="draft_foliage_bushes00_text">Cespugli di diverso tipo. Ottimi per parchi e foreste.</string>
     <string name="draft_ancient_temple00_title">Tempio antico</string>
     <string name="draft_ancient_temple00_text">La strada non si mostrerà ai più deboli. Avanza con vigore.</string>
-    <string name="tut_plugins00">Vedrai, abbiamo molti contenuti. Prenditi tempo per esplorare. Dopodiché, sarai pronto per visitare lo store dei plugin per sbloccare migliaia di contenuti aggiuntivi.</string>
+    <string name="tut_plugins00">Abbiamo molti contenuti. Si prenda tempo per esplorare. Dopodiché, sarà pronto per visitare lo store dei plugin per sbloccare migliaia di contenuti aggiuntivi.</string>
     <string name="region_unlock_immediately">Sblocca subito</string>
     <string name="dialog_unlockcity_im_title">Sblocca città subito</string>
     <string name="dialog_unlockcity_im_text">Pronto a tuffarti nel divertimento? Sblocca questa fantastica zona e crea la tua nuova avventura in città senza dover aspettare dei requisiti.\n\nBasta attese, costruiamo città epiche!</string>
@@ -3165,7 +3165,7 @@ Diamanti (mobile) e monete regionali (PC) vengono dati per l\'accesso giornalier
 Ricevi diamanti accedendo quotidianamente
     </string>
     <string name="tip_topic_diamonds_text">
-LAccedere giornalmente (mobile) fa guadagnare diamanti. Accedendo ogni giorno della settimana ottieni più ricompense. Una volta raggiunto il limite di giorni, si rcomincia da capo. Puoi anche guardare video ogni 30 minuti per diamanti extra, ma ricorda di disattivare eventuali blocchi pubblicitari!
+Accedere giornalmente (mobile) farà guadagnare diamanti. Accedendo ogni giorno della settimana ottieni più ricompense. Una volta raggiunto il limite di giorni, il ciclo ricomincia. Puoi anche guardare video ogni 30 minuti per diamanti extra, ma ricorda di disattivare eventuali blocchi pubblicitari!
     </string>
     <string name="tip_topic_supplies_title">
 Le scorte per i razzi si ottengono tramite edifici industriali specifici
