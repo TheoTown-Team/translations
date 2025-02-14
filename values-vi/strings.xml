@@ -2546,7 +2546,7 @@ Press a key to assign it to this action.</string>
     <string name="stage_files_createfolder_cmdcreate">Tạo</string>
     <string name="stage_files_createfoldercollision_title">Tệp đã tồn tại</string>
     <string name="stage_files_createfoldercollision_text">Tệp %1$s đã tồn tại!</string>
-    <string name="tool_terrain_smoothwaterheights">Độ sâu min</string>
+    <string name="tool_terrain_smoothwaterheights">Độ sâu</string>
 
 
     <string name="stage_files_importherefiles">Tệp</string>
@@ -3122,286 +3122,286 @@ If in doubt, DO NOT enable script execution without inspecting the code yourself
 Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
     <string name="settings_openscriptpolicy">Plugin Script Policies</string>
     <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+    <string name="tips_title">Mẹo</string>
+    <string name="tips_cmd_random">Thêm cái nữa</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
+Văn hóa được cung cấp bởi một số địa danh, giải thưởng và plugin!
     </string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
+Hầu hết các địa danh nhỏ cho đến tháp Eiffel đều tạo ra ảnh hưởng văn hóa cũng như các giải thưởng có ý nghĩa văn hóa trong thế giới thực. Có thể tải xuống nhiều plugin để nâng cao văn hóa thông qua cửa hàng plugin và diễn đàn.
     </string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
+Nếu các tòa nhà thường xuyên xảy ra hỏa hoạn, hãy đặt một trạm cứu hỏa gần đó!
     </string>
     <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
+Nếu các tòa nhà thường xuyên cháy, thì đó là dấu hiệu cho thấy phạm vi ảnh hưởng của trạm cứu hỏa của bạn chưa bao phủ được nó. Các tòa nhà dân cư, thương mại và công nghiệp cần có trạm cứu hỏa, vì vậy hãy cẩn thận bao phủ toàn bộ bản đồ bằng phạm vi ảnh hưởng của các trạm cứu hỏa. Điều này sẽ giúp tránh các vụ hỏa hoạn trong tương lai.
     </string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
+Giữ khu dân cư tránh xa khu vực ô nhiễm
     </string>
     <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+Cư dân không thích ô nhiễm. Nếu họ phàn nàn về tình trạng ô nhiễm quá nhiều, hãy điều tra nguồn gốc của nó. Các công trình tạo ra ảnh hưởng có thể được phát hiện bằng cách nhấn vào công cụ mắt và sau đó là "Ô nhiễm" hoặc bằng cách tìm kiếm các công trình có vòng tròn màu đỏ xung quanh. Di chuyển công trình gây ô nhiễm hoặc phá hủy nó để ủng hộ một lựa chọn thân thiện với môi trường hơn.
     </string>
     <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
+Giảm thiểu ô nhiễm bằng cách trồng cây xung quanh
     </string>
     <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
+Các tòa nhà dân cư không thích ô nhiễm. Để tiết kiệm công sức di chuyển các tòa nhà, đặc biệt là ở những thành phố được quy hoạch tốt, bạn có thể sử dụng cây xanh. Cây xanh ngăn chặn ô nhiễm. Trồng nhiều cây xanh hơn sẽ làm giảm ô nhiễm nhiều hơn. Đây cũng thường là phương pháp tiết kiệm chi phí hơn vì cây xanh khá rẻ. Số lượng cây xanh cần trồng phụ thuộc vào lượng ô nhiễm và sức ảnh hưởng của cây xanh.
     </string>
     <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
+Dùng đường một chiều và nút giao để giảm thiểu ùn tắc giao thông
     </string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
+Thông thường, những nơi như đường cao tốc và khu công nghiệp có thể bị tắc nghẽn giao thông. Cần có mạng lưới đường bộ phù hợp để khắc phục tình trạng này. Đường một chiều và nút giao có thể giúp giải quyết vấn đề này. Có những nút giao được xây dựng sẵn trong cả trò chơi và dưới dạng plugin. Bạn cũng có thể tự tạo bằng cách sử dụng các nút giao thông ngoài đời thực làm ví dụ. Điều này sẽ cho phép lưu thông giao thông tốt hơn, giảm lưu lượng giao thông trong thành phố của bạn.
     </string>
     <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
+Bạn có thể điều chỉnh lưu lượng giao thông trong cài đặt để giảm lưu lượng giao thông
     </string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
+Để điều chỉnh lưu lượng giao thông trong cài đặt, trước tiên hãy bật chế độ gỡ lỗi, chế độ này cũng sẽ có ở đó. Sau khi gỡ lỗi được bật, tùy chọn giảm hoặc tăng lưu lượng giao thông sẽ được cung cấp cho bạn. Tỷ lệ phần trăm bạn chọn phụ thuộc vào lượng truy cập bạn có và mức độ thử thách mong muốn.
     </string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
+Vay tiền nếu bạn cần tiền
     </string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+Nhấn vào biểu tượng thu nhập rồi chuyển sang tab có biểu tượng tiền mặt màu xanh lá cây. Sau đó nhấn "raise". Số tiền được cung cấp cho khoản vay phụ thuộc vào bất động sản và có thể thực hiện tối đa 5 khoản vay cùng một lúc.
     </string>
     <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
+Các khoản vay được trả tự động hàng tháng
     </string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
+Các khoản thanh toán cho vay được tự động khấu trừ từ tháng của bạn theo trò chơi mỗi tháng. Bạn không cần phải thanh toán thủ công, mặc dù bạn có thể giảm chi phí hàng tháng bằng cách làm như vậy. Có thể xem thời hạn hoàn trả bằng cách vào tab cho vay.
     </string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server!
+Máy chủ Discord chính thức!
     </string>
     <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
+Máy chủ Discord chính thức là nơi người chơi và người sáng tạo tụ tập, khoe sáng tạo của mình và kết bạn. Liên kết có thể được tìm thấy trong trò chơi trong phần cài đặt.
     </string>
     <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
+Rất dễ để tạo cho một plugin cho riêng mình
     </string>
     <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
+Thoạt đầu có vẻ hơi đáng sợ nhưng việc tạo plugin rất dễ. Để tạo texture, bạn có thể sử dụng paint.net trên PC và Pixly trên thiết bị di động. Để tạo json hoặc "code", bạn có thể tự viết với sự trợ giúp của diễn đàn hoặc sử dụng https://pca.svetikas.lt/. Nếu bạn có bất kỳ câu hỏi nào, chúng tôi có thể trả lời trên Discord hoặc diễn đàn!
     </string>
     <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
+Hợp tác trên một khu vực bằng chế độ trực tuyến
     </string>
     <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+Bằng cách nhấn nút trực tuyến trong chế độ xem vùng, bạn có thể hợp tác với bạn bè hoặc các thành viên khác để tạo ra một vùng đẹp. Trò chơi không cho phép nhiều hơn một người chơi làm việc trên cùng một bản đồ nhưng bạn có thể đến thăm các thành phố khác và lấy cảm hứng.
     </string>
     <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
+Tải bản đồ lên chế độ trực tuyến cần có kim cương hoặc tiền xu region
     </string>
     <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
+Kim cương (điện thoại) và xu region (PC) được thưởng khi đăng nhập hàng ngày. Chi phí tải lên một khu vực thay đổi tùy theo kích thước. Trong khi tải lên bản đồ, người tạo có thể chọn đặt mật khẩu và một số quy tắc. Sau khi tạo, không thể thêm hoặc xóa mật khẩu.
     </string>
     <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
+Nhận kim cương bằng cách đăng nhập hằng ngày
     </string>
     <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
+Đăng nhập hàng ngày (điện thoại) sẽ được thưởng kim cương. Khi đăng nhập hàng ngày trong tuần, bạn sẽ nhận được nhiều phần thưởng hơn. Khi bạn nhận được phần thưởng cuối cùng, nó sẽ được đặt lại và bắt đầu lại. Bạn cũng có thể xem video để kiếm kim cương sau mỗi 30 phút - nhưng hãy nhớ tắt bất kỳ khối quảng cáo nào để chúng hiển thị!
     </string>
     <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
+Vật tư tên lửa được cung cấp bởi một số tòa nhà công nghiệp
     </string>
     <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
+Các tòa nhà cung cấp dầu nằm rải rác ở nhiều cấp độ khác nhau của ngành công nghiệp. Bao gồm các tòa nhà khai thác dầu, tòa nhà lưu trữ và tòa nhà chế biến. Những tòa nhà này sẽ cung cấp vật tư cho tên lửa của bạn. Có nhiều tòa nhà gần tên lửa hơn sẽ giúp cung cấp nhanh hơn.
     </string>
     <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
+Có thể không thấy tàu hỏa hay xe buýt được sử dụng, nhưng chúng vẫn có tác dụng
     </string>
     <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
+Xe buýt và tàu hỏa có thể cho thấy hiện tại không có hành khách. Tuy nhiên, chúng đã có hiệu lực và dữ liệu sử dụng có thể được cập nhật trong tương lai. Xe buýt và tàu hỏa thực sự mang lại sự hài lòng khi di chuyển. Vì vậy, hãy đảm bảo bao phủ các khu vực RCI bằng chúng.
     </string>
     <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
+Biểu tượng sơn phun cho biết hành vi phá hoại, hãy xây dựng một đồn cảnh sát
     </string>
     <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
+Biểu tượng sơn phun xuất hiện khi các tòa nhà không được cảnh sát giám sát. Các tòa nhà dân cư, thương mại và công nghiệp cần có sự giám sát của cảnh sát, vì vậy hãy đảm bảo cung cấp cho các tòa nhà này để tránh tội phạm trong tương lai.
     </string>
     <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
+Xây dựng nghĩa trang và lò hỏa táng để xử lý người chết
     </string>
     <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
+Nếu biểu tượng người chết xuất hiện phía trên một hoặc nhiều tòa nhà, điều đó cho biết bạn cần xây dựng nghĩa trang hoặc lò hỏa táng. Nghĩa trang là tốt khi mới bắt đầu, nhưng khi thành phố phát triển, chúng sẽ phải được dọn sạch ngày càng thường xuyên hơn. Vì vậy, lò hỏa táng có thể là giải pháp lâu dài tốt hơn.
     </string>
     <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
+Để kiếm thêm thu nhập, hãy thiết lập khu thương mại lân cận
     </string>
     <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
+Điều này chỉ có thể thực hiện được ở những khu vực mà bạn đã mở khóa các thành phố lân cận. Có một tab thương mại lân cận. Bằng cách điều chỉnh các giá trị, bạn có thể nhập hoặc xuất từ các thành phố lân cận. Điều này không hoạt động ở chế độ trực tuyến hoặc nếu một hoặc nhiều thành phố bạn đang cố gắng thiết lập ở chế độ sandbox hoặc uber.
     </string>
     <string name="tip_topic_airport_title">
-The airport is a good long term investment
+Sân bay là một khoản đầu tư dài hạn tốt
     </string>
     <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
+Để làm cho một sân bay hoạt động, hãy xây dựng tất cả các tòa nhà của sân bay, thêm làn đường và chỉ định máy bay cho các làn đường. Sân bay thường trở nên có lãi khi được sử dụng. Điều này có nghĩa là sau khi chi phí ban đầu được trang trải, có thể tạo ra một khoản lợi nhuận lớn.
     </string>
     <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
+Có một số video hường dẫn hữu ích trên YouTube
     </string>
     <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
+Có một số người chơi và người sáng tạo TheoTown giàu kinh nghiệm đăng video lên YouTube. Những video này bao gồm từ video tua nhanh thời gian chơi game đầy cảm hứng đến video có thể giúp bạn nâng cao trải nghiệm chơi game của mình.
     </string>
     <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
+Giá cả tăng trong trò chơi cũng giống như ngoài đời thực
     </string>
     <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
+Đặt nhiều tòa nhà và đường hơn sẽ làm tăng giá của chúng. Càng sử dụng nhiều, giá sẽ càng cao. Điều này áp dụng cho đường, đồ trang trí, khu vực và tất cả các loại tòa nhà.
     </string>
     <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
+Tự do thỏa sức sáng tạo cùng chế độ sandbox/uber
     </string>
     <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
+Nhiều người chơi có kinh nghiệm thích chơi ở chế độ sandbox hoặc uber để thể hiện nhiều hơn sự tự do sáng tạo của họ. Điều này cho phép họ xây dựng mà không bị giới hạn về tiền bạc và trong trường hợp chế độ uber, không phải lo lắng về hạnh phúc hay nhu cầu. Các tòa nhà thường được đặt thủ công để tạo ra những tác phẩm tuyệt vời. Đừng lo lắng nếu điều này không giống bạn, mọi người xây dựng theo cách khác nhau!
     </string>
     <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
+Tắt thảm họa tự động trong cài đặt
     </string>
     <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
+Bạn có thể tắt thảm họa trong phần cài đặt và bạn có thể chọn thảm họa nào, nếu có, mà bạn muốn chơi. Nếu các trạm khai thác từ DSA hoặc silo tên lửa quân sự đang được sử dụng, thành phố vẫn có thể có nguy cơ xảy ra động đất hoặc các thảm họa khác.
     </string>
     <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
+Nguồn thu nhập chính là từ thuế, nhưng không nên đặt trên 9%
     </string>
     <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
+Đặc biệt là giai đoạn đầu trò chơi, 90% hoặc hơn thu nhập được tạo ra từ việc đánh thuế cư dân. Một lượng thuế tốt để thu là từ 7% đến 9%. Nếu mức thuế cao hơn mức đó, sẽ có nguy cơ xảy ra bạo loạn và mọi người bỏ nhà và thành phố.
     </string>
     <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
+Điều chỉnh mức thuế
     </string>
     <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+Nhấn vào biểu tượng mặt cười rồi điều hướng đến tab thuế, sau đó sử dụng nút + và - để chuyển đổi thuế cho từng loại tòa nhà và nhóm thu nhập. Tuy nhiên, hãy cẩn thận không đặt thuế quá cao.
     </string>
     <string name="tip_topic_moon_title">
-Use DSA to go to the moon
+DSA giúp bạn gặp chị Hằng
     </string>
     <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
+Mở khóa DSA và nâng cấp các tòa nhà để lên mặt trăng. Tên lửa sẽ cần vật tư và khi được cung cấp đầy đủ, có khả năng lên mặt trăng hoặc rơi. Nếu phóng lên mặt trăng thành công, bản đồ mặt trăng có thể được định vị dưới các thành phố riêng lẻ để xem lại. Bằng cách khai thác một số loại quặng nhất định trong không gian, bạn có thể mở khóa một số tòa nhà cho bản đồ được sử dụng để lên mặt trăng.
     </string>
     <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
+Cẩn thận! ICBM có thể san phẳng cả một thành phố
     </string>
     <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
+ICBM không phải là thảm họa tự nhiên và chỉ có thể được kích nổ thông qua DSA. Tuy nhiên, hãy cẩn thận khi sử dụng ICBM, nó sẽ thổi bay toàn bộ thành phố, bất kể thành phố lớn đến mức nào thành những mảnh vụn trong vòng vài giây. Bạn có thể sao lưu hoặc sao chép thành phố để tránh hối tiếc sau khi thử nghiệm ICBM trên đó.
     </string>
     <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
+Càng đông, càng đắt
     </string>
     <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
+Các khu vực đông đúc thường đắt hơn các khu vực bình thường nhưng có thể chứa nhiều người hơn. Đổi lại, chúng thường cao hơn các khu vực bình thường. Ngoài những điểm khác biệt đó, không có nhiều điểm khác vì chúng có cùng nhu cầu như các khu vực bình thường.
     </string>
     <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
+Tải plugin thông qua diễn đàn
     </string>
     <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
+Một số người tạo plugin chọn xuất bản độc quyền một số plugin trên diễn đàn. Điều này cho phép bạn tải xuống các plugin mà cửa hàng plugin có thể không có. Chúng được tải xuống miễn phí và phải được đặt thủ công vào thư mục plugin trên thiết bị của bạn. Hãy cẩn thận vì các plugin này không được kiểm duyệt.
     </string>
     <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
+Trạm thu phí tuy tạo thêm nguồn thu nhập nhưng cư dân không thích điều này
     </string>
     <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
+Có thể đặt trạm thu phí để tính tiền phạt đối với các phương tiện lưu thông trên đường, giúp thu tiền. Số tiền tính phí có thể được điều chỉnh bằng cách nhấn vào trạm thu phí. Tuy nhiên, điều này làm giảm sự hài lòng khi tham gia giao thông và khiến mọi người không vui.
     </string>
     <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
+Không phải mọi công trình đều có khung xoay
     </string>
     <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+Một số công trình cơ bản có khung xoay nhưng không phải tất cả. Đặc biệt khi nói đến plugin, có thể không có khung xoay. Điều này là do tác giả không tạo ra chúng. Để xem tòa nhà nào có khung xoay, hãy nhấn vào tòa nhà và xem chúng có nút tiếp theo và nút trước đó ở góc trên bên phải không. Không có khung xoay sẽ tạo ra nhiều không gian hơn cho các tòa nhà đa dạng hơn.
     </string>
     <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
+Thay đổi góc nhìn thành phố bằng minimap
     </string>
     <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+Minimap có thể được sử dụng như một công cụ để xoay bản đồ. Nhấn vào map và sử dụng các mũi tên để xoay bản đồ sang trái hoặc phải. Điều quan trọng cần lưu ý là trong khi bản đồ xoay, không phải tất cả các tòa nhà đều sẽ xoay nếu không có khung xoay.
     </string>
     <string name="tip_topic_demands_title">
-Build zones which are above the demand line
+Xây dựng các khu vực nằm trên đường nhu cầu
     </string>
     <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
+Khi nhu cầu cao hơn đường cầu, điều đó cho thấy những người hoặc doanh nghiệp có nhu cầu tương ứng muốn chuyển đến thành phố của bạn. Vì vậy, bạn nên cung cấp cho họ các cơ sở để làm như vậy. Khi nhu cầu thấp hơn đường cầu, điều đó cho thấy cần xây dựng các khu vực khác và các cơ sở hỗ trợ như công viên và cảnh sát.
     </string>
     <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
+Nhấn vào tòa nhà để xem mức độ hành phúc thấp nhất của nó
     </string>
     <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+Nhấn vào một tòa nhà giúp xác định lý do tại sao ngôi nhà và những ngôi nhà gần đó không hạnh phúc. Nó cũng đưa ra mức độ hạnh phúc trung bình cho ngôi nhà. Khi lý do khiến ngôi nhà có mức độ hạnh phúc thấp nhất được xác định, bạn có thể hành động để khắc phục. Ví dụ, nếu một tòa nhà không hạnh phúc vì thiếu công viên, bạn nên đặt một công viên gần tòa nhà để tăng mức độ hạnh phúc.
     </string>
     <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
+Plugin chính thức trong cưa hàng
     </string>
     <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
+Plugin mở rộng chính thức được người dùng Lobby phát hành trên cửa hàng plugin. Chúng thường miễn phí vì là plugin chính thức.
     </string>
     <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
+Đừng so sánh. Hãy lấy nó làm nguồn cảm hứng
     </string>
     <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
+Mỗi người chơi có phong cách khác nhau. Thay vì ghen tị với thành phố của những người chơi khác, hãy thử xác định chính xác điều gì thu hút bạn đến đó. Tại sao bạn lại thích nó đến vậy? Khi bạn đã tìm ra điều đó, hãy thử triển khai nó trong thành phố của mình từng chút một và xem thành phố phát triển.
     </string>
     <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
+Tự động nối khi xây đường
     </string>
     <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+Nhấn vào đường đã chọn rồi nhấn "nối đường" ở góc trên bên phải để tự động nối vào đường đang được xây dựng. Điều này sẽ giúp tránh tình trạng đường không hoạt động do không được kết nối đúng cách.
     </string>
     <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
+Bệnh viện ngăn ngừa dịch bệnh
     </string>
     <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
+Nếu có biểu tượng mặt xanh phía trên các tòa nhà, điều đó cho biết khu dân cư đang bị bệnh. Để tránh điều này trong tương lai, hãy xây dựng bệnh viện trong phạm vi của tất cả các khu vực. Để giữ cho cư dân của bạn khỏe mạnh, bạn cũng nên đảm bảo rằng nguồn cung cấp nước của bạn nằm ở những khu vực sạch sẽ.
     </string>
     <string name="tip_topic_education_title">
-Residentials need both high and low education
+Nâng cao tri thức cho người dân
     </string>
     <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
+Để cải thiện hạnh phúc giáo dục, cả cấp học cao và thấp đều phải được cung cấp. Những điều này là cần thiết để các tòa nhà trở nên giàu có hơn. Vì vậy, hãy đảm bảo bao phủ các khu dân cư bằng cả hai ảnh hưởng.
     </string>
     <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
+Để giảm lag, hãy tắt chế độ thu phóng mượt mà
     </string>
     <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
+Nếu bạn cảm thấy trò chơi bị lag, hãy cân nhắc tắt tùy chọn thu phóng mượt mà. Bạn có thể tìm thấy tùy chọn này trong cài đặt trò chơi. Điều này có thể giúp cải thiện trải nghiệm chơi trò chơi.
     </string>
     <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
+Nâng cao đường bằng cách sử dụng các tùy chọn mũi tên bên phải
     </string>
     <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
+Nhấn vào đường cần xây dựng. Sau đó, trong khi ở menu xây dựng, nhấn một ô và sau đó nhấn "Hướng lên" để tạo một con dốc hướng lên. Nhấn vào một con đường trên cao và nút "Hướng xuống" để xây dựng một con dốc hướng xuống. Đồng thời, nhấn "Cầu" để tự động xây dựng một cây cầu. Tuy nhiên, không phải tất cả các con đường đều có thể nâng lên hay hạ xuống.
     </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="store_cmd_downloadall_title">Tải hết tất cả</string>
+    <string name="store_cmd_downloadall_text">Tải xuống / kích hoạt tất cả plugin bị thiếu cùng một lúc</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Mở</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Thông báo</string>
+    <string name="settings_notify_low_power">Sắp hết điện</string>
+    <string name="settings_notify_low_water">Sắp hết nước</string>
+    <string name="settings_notify_no_power">Hết điện</string>
+    <string name="settings_notify_no_water">Hết nước</string>
+    <string name="settings_notify_no_road">Không có đường</string>
+    <string name="settings_notify_no_park">Không có công viên</string>
+    <string name="settings_notify_no_sport">Không có môn thể thao</string>
+    <string name="settings_notify_pollution">Ô nhiễm</string>
+    <string name="settings_notify_noise">Tiếng ồn</string>
+    <string name="settings_notify_water_waste">Nước thải</string>
+    <string name="settings_notify_unhappy">Không hài lòng</string>
+    <string name="settings_notify_unlocked">Mở khóa công trình</string>
+    <string name="settings_notify_low_budget">Ngân sách thấp</string>
+    <string name="settings_notify_zone_needed">Thiếu khu vực</string>
+    <string name="settings_notify_polluted_pump">Ô nhiễm máy bơm</string>
+    <string name="settings_notify_school_overloaded">Trường học quá tải</string>
+    <string name="settings_notify_medic_overloaded">Bệnh viện quá tải</string>
+    <string name="settings_notify_destroyed_tile">Xóa ô</string>
+    <string name="settings_notify_need_low_education">Cần cấp học thấp</string>
+    <string name="settings_notify_need_high_education">Cần cấp học cao</string>
+    <string name="settings_notify_bad_traffic">Giao thông xấu</string>
+    <string name="settings_notify_waste">Thu gom rác</string>
+    <string name="settings_notify_body_disposal">Tang lễ</string>
+    <string name="settings_notify_bad_attribute">Giá trị xấu</string>
     <string name="show_eula">EULA</string>
 
 
