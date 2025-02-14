@@ -3405,4 +3405,41 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="loadcity_scenario">Scenario: %s</string>
     <string name="trainstationinfo_total">Total transferred: %1$,d</string>
 
+    <string name="notify_fullschool_onmouseinput">This school is full. Click on it and improve performance, or build more of them.</string>
+    <string name="ci_rating_help_onmouseinput">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Click on a row to see the corresponding distribution in the city.</string>
+    <string name="draft_ICBMarm_text_onmouseinput">Click this to arm this intercontinental ballistic missile.</string>
+    <string name="tip_topic_pollution_distance_text_onmouseinput">
+Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by clicking on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
+    </string>
+    <string name="tip_topic_more_cash_text_onmouseinput">
+Click the income icon and then switch to the tab with the green cash icon. Then click "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
+    </string>
+    <string name="tip_topic_online_collaboration_text_onmouseinput">
+By clicking the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
+    </string>
+    <string name="tip_topic_taxes_adjust_text_onmouseinput">
+Click the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
+    </string>
+    <string name="tip_topic_toll_happiness_text_onmouseinput">
+Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by clicking on the toll. This does however reduce transport happiness and makes people unhappy.
+    </string>
+    <string name="tip_topic_building_rotation_text_onmouseinput">
+Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, click on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
+    </string>
+    <string name="tip_topic_map_rotation_text_onmouseinput">
+The mini map can be used as a tool to rotate the map. Click the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
+    </string>
+    <string name="tip_topic_happiness_title_onmouseinput">
+Click on a building to see their lowest happiness
+    </string>
+    <string name="tip_topic_happiness_text_onmouseinput">
+Clicking on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
+    </string>
+    <string name="tip_topic_road_connection_text_onmouseinput">
+Click the road of choice and then click "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
+    </string>
+    <string name="tip_topic_building_bridges_text_onmouseinput">
+Click the road to be built. Then while in the build menu, click a tile and then build up to build an upward slope. Click an elevated road and build down to build a downward slope. At the same time, click bridge to automatically build a bridge. However, not all roads support building elevated roads.
+    </string>
+
 </resources>
