@@ -782,7 +782,7 @@
     <string name="about_community">E il resto della nostra comunità</string>
     <string name="dialog_tosandbox_cmdconvert">Modalità sviluppatore</string>
     <string name="dialog_tosandbox_title">Modalità sviluppatore</string>
-    <string name="dialog_tosandbox_text">Convertire la città nella modalità sviluppatore?\n\nNon puoi tornare indietro!</string>
+    <string name="dialog_tosandbox_text">Convertire la città in modalità sviluppatore?\n\nNon potrai tornare indietro!</string>
     <string name="requirement_rank">Rango: %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Smaltimento funebre: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Smaltimento dei rifiuti: %1$,d/%2$,d</string>
@@ -808,11 +808,11 @@
     <string name="draft_mltry_hq00_title">Quartier Generale</string>
     <string name="draft_mltry_baracks00_title">Caserme</string>
     <string name="draft_firedepartment02_heli00_text">Gli elicotteri possono atterrare e decollare qui.\n\nAumenta il raggio d\'azione dei vigili del fuoco.</string>
-    <string name="settings_reset_text">Tutte le impostazioni andranno perse. Sei sicuro?</string>
+    <string name="settings_reset_text">Tutte le impostazioni andranno perse. Confermi?</string>
     <string name="settings_reset_title">Ripristina impostazioni</string>
     <string name="settings_leftsidetraffic">Traffico a sinistra</string>
     <string name="draft_feature_noads00_text">Rimuove la pubblicità in fondo allo schermo.</string>
-    <string name="features_alreadybought">Già comprato</string>
+    <string name="features_alreadybought">Possiedi già</string>
     <string name="draft_feature_noads00_title">Rimuovi la pubblicità</string>
     <string name="features_title">Prodotti sperimentali</string>
     <string name="features_getit">Prendi %s</string>
@@ -863,8 +863,8 @@
     <string name="draft_school03_title">Scuola superiore grande</string>
     <string name="draft_school03_text">Una scuola superiore più grande per più studenti.</string>
     <string name="gamemode_easy_desc">In questa modalità di gioco inizi con molti più soldi ed è anche più facile.</string>
-    <string name="gamemode_middle_desc">Modalità di gioco di base. Inizi con una buona quantità di soldi e non dovrebbe essere difficile costruire la città dei tuoi sogni</string>
-    <string name="gamemode_hard_desc">Sei un professionista su TheoTown? Allora questa è la modalità di gioco giusta per te. Inizi con pochi soldi ed è più difficile.</string>
+    <string name="gamemode_middle_desc">Modalità di gioco di base. Inizi con una buona quantità di soldi e non dovrebbe essere difficile costruire la città dei tuoi sogni.</string>
+    <string name="gamemode_hard_desc">Sei un professionista su TheoTown? Allora questa è la modalità giusta per te. Inizi con pochi soldi ed è più difficile.</string>
     <string name="dialog_ffwd_title">Vai avanti velocemente</string>
     <string name="dialog_ffwd_text">Un gameplay più veloce per %1$,d giorni.</string>
     <string name="dialog_ffwd_cmdplayad">Video pubblicitario</string>
@@ -885,7 +885,7 @@
     <string name="features_notenough">Non abbastanza %1$s</string>
     <string name="dialog_getrank_text">Puoi sbloccare questo rango immediatamente, se vuoi.</string>
     <string name="features_buy">Ottienilo adesso</string>
-    <string name="draft_feature_buildings00_text">Migliora la tua avventura nel costruire città col pacchetto Variety! Questo pacchetto introduce un assortimento di edifici residenziali, commerciali e industriali piccoli, dando più vita alla città. Inoltre, immergiti nel fascino delle stagioni con i contenuti invernali esclusivi che trasformeranno la tua città in una meraviglia invernale. Espandi la creatività e rendi ogni stagione piacevole per i tuoi cittadini. Effettua ora l\'upgrade e vivi la frenesia della costruzione!</string>
+    <string name="draft_feature_buildings00_text">Migliora la tua avventura nel costruire città con il pacchetto Variety! Questo pacchetto introduce un assortimento di edifici residenziali, commerciali e industriali piccoli, dando più vita alla città. Inoltre, puoi immergerti nel fascino delle stagioni con i contenuti invernali esclusivi che trasformeranno la tua città in una meraviglia invernale. Espandi la creatività e rendi ogni stagione piacevole per i tuoi cittadini. Effettua ora l\'upgrade e vivi la frenesia della costruzione!</string>
     <string name="dialog_redeempromo_title">Ecco dei diamanti</string>
     <string name="dialog_redeempromo_text">Sembra che questi diamanti siano tuoi adesso.</string>
     <string name="dialog_present_cmdad">Raddopia</string>
@@ -903,7 +903,7 @@
     <string name="draft_devroad00_title">Strada asfaltata</string>
     <string name="draft_devroad00_text">Strada asfaltata costruita e pagata dallo stato.</string>
     <string name="dialog_resetcity_title">Ripristina la città</string>
-    <string name="dialog_resetcity_text">Vuoi ripristinare questa città al suo stato originale?\n\nNon puoi tornare indietro.</string>
+    <string name="dialog_resetcity_text">Vuoi ripristinare questa città al suo stato originale?\n\nNon potrai recuperarla.</string>
     <string name="dialog_resetcity_cmdreset">Ripristina</string>
     <string name="draft_devroad01_title">Strada nazionale a senzo unico</string>
     <string name="draft_devroad01_text">Strada a senso unico costruita e pagata dallo stato.</string>
@@ -1012,24 +1012,24 @@
     <string name="draft_sign_tool_title">Etichetta</string>
     <string name="draft_sign_tool_text">Con questo strumento è possibile creare, modificare e rimuovere le etichette.</string>
     <string name="draft_feature_deco00_title">Decorazioni della piazza</string>
-    <string name="draft_feature_deco00_text">Migliora le zone commerciali col pacchetto Commercial Charm! Anima la città con una vasta selezione di decorazioni nei distretti commerciali, trasforma le strade in un vibrante spazio pieno di clienti e stupiscili. Effettua l\'upgrade e crea un\'area commerciale piena si stile e fascino!</string>
+    <string name="draft_feature_deco00_text">Migliora le zone commerciali con il pacchetto Commercial Charm! Anima la città con una vasta selezione di decorazioni nei distretti commerciali, trasforma le strade in un vibrante spazio pieno di clienti e stupiscili. Effettua l\'upgrade e crea un\'area commerciale piena si stile e fascino!</string>
     <string name="draft_feature_slowspeed00_title">Velocità lenta</string>
-    <string name="draft_feature_slowspeed00_text">Sblocca il pacchetto Control Mastery per un grande cambaimento. Attiva la modalità lenta e tieni il controllo delle situazioni critiche. Calcola le tue mosse e naviga facilmente per la città. Effettua l\'upgrade e padroneggia l\'arte della precisione!</string>
+    <string name="draft_feature_slowspeed00_text">Sblocca il pacchetto Control Mastery per un grande cambiamento. Attiva la modalità lenta e tieni il controllo delle situazioni critiche. Calcola le tue mosse e naviga facilmente per la città. Effettua l\'upgrade e padroneggia l\'arte della precisione!</string>
     <string name="buildinginfo_patrol">Pattuglia</string>
     <string name="draft_beach_gnd00_title">Sabbia</string>
     <string name="draft_beach_gnd00_text">Solo un po\' di sabbia. Usata anche per le spiagge.</string>
     <string name="draft_searocks00_title">Rocce marine</string>
     <string name="draft_searocks00_text">Alcune rocce nell\'acqua.</string>
-    <string name="createcity_decos">With decorations</string>
+    <string name="createcity_decos">Con decorazioni</string>
     <string name="tutorial_cmdskip">Salta il tutorial</string>
     <string name="dialog_skipbuildtime_ad">Salta %1$,d giorni</string>
     <string name="setting_showtrafficmarker">Mostra il traffico in strumento stradale</string>
     <string name="menu_console">Console</string>
     <string name="topic_crispr">CRISPR può cambiare la tua vita</string>
     <string name="draft_feature_firestation00_title">Stazione principale dei Vigili del Fuoco</string>
-    <string name="draft_feature_firestation00_text">Migliora la sicurezza cittadina con il bundle Inferno Response! Una caserma dei vigili del fuoco con un raggio enorme, molte auto e un eliporto per un elicottero. Salva vite come mai prima d\'ora. Esegui l\'upgrade ora e diventa l\'eroe di cui tutti hanno bisogno!</string>
+    <string name="draft_feature_firestation00_text">Migliora la sicurezza cittadina con il bundle Inferno Response! Una caserma dei vigili del fuoco con un raggio enorme, molte volanti e un eliporto per l\'elicottero. Salva vite come mai prima d\'ora. Esegui l\'upgrade ora e diventa l\'eroe di cui tutti hanno bisogno!</string>
     <string name="draft_feature_gocart00_title">Pista di go-cart</string>
-    <string name="draft_feature_gocart00_text">Aumenta la frenesia in città con il nostro pacchetto di Go-cart Grand Prix! Vivi l\'emozione degli sport a motore sfrecciando su una pista di go-cart. Ma non è tutto, i go-cart avranno accesso anche alle strade comuni. Preparati a gareggiare, driftare e dominare le stradecome mai prima d\'ora. Esegui subito l\'upgrade e dai il via a questa follia!</string>
+    <string name="draft_feature_gocart00_text">Aumenta la frenesia in città con il nostro pacchetto di Go-cart Grand Prix! Vivi l\'emozione degli sport a motore sfrecciando su una pista di go-cart. Ma non è tutto, i go-cart avranno accesso anche alle strade comuni. Preparati a gareggiare, driftare e dominare le strade come mai prima d\'ora. Esegui subito l\'upgrade e dai il via a questa follia!</string>
     <string name="draft_firedepartment02_text">Ha un raggio enorme e molte auto. Utile per prevenire o spegnere gli incendi.</string>
     <string name="draft_prmgocart00_title">Pista di go-cart</string>
     <string name="draft_prmgocart00_text">Ti va un po\' di sport su ruote in città? Arriveranno anche sulle strade cittadine.</string>
@@ -1084,13 +1084,13 @@
     <string name="tut_end00">Se sei alla ricerca di un\'ottima community, la trovi su www.theotown.com</string>
     <string name="tut_end01">E ora, buon divertimento! :)</string>
 
-    <string name="featureselector_time">%1$s di velocità super veloce</string>
+    <string name="featureselector_time">%1$s di supervelocità</string>
     <string name="draft_feature_time00_title">Mago del tempo</string>
     <string name="draft_feature_time00_text">Preparati a mettere la carica con il pacchetto Turbo Boost! Ottieni la supervelocità e guarda la tua città crescere come un fulmine. Accelera i tuoi progressi, completa sfide e raggiungi obiettivi a tempo record. Effettua l\'upgrade e accogli il potere della velocità tra tue mani!</string>
     <string name="draft_feature_time01_title">Stregone del tempo</string>
     <string name="draft_feature_time01_text">Porta le tue costruzioni su un altro livello con il pacchetto Speedster Boost! Ottieni ancora più tempo per usare la supervelocità. Effettua l\'upgrade e vivi un\'esperienza ancora più fulminea!</string>
     <string name="draft_feature_time02_title">PADRONE del tempo</string>
-    <string name="draft_feature_time02_text">Padroneggia il potere del Padrone del Tempo! Diventa il padrone con una velocità impareggiabile e resistenza. Sblocca le abilità superveloci e domina la città. Effettua l\'upgrade e accogli in te il destino del padrone del tempo!</string>
+    <string name="draft_feature_time02_text">Usa il potere del Padrone del Tempo! Diventa il padrone con velocità e resistenza impareggiabili. Sblocca le abilità superveloci e domina la città. Effettua l\'upgrade e accogli in te il destino del padrone del tempo!</string>
 
     <string name="draft_feature_weather_machine00_title">Macchina meteorologica</string>
     <string name="draft_feature_weather_machine00_text">Tira fuori il potere del meteo con il kit top secret Weather Control! Manipola il cielo e controlla gli elementi naturali. Crea tempeste, giornate di sole, giornate innevate, tutto con un tocco. Effettua l\'upgrade e padroneggia la manipolazione del clima!</string>
@@ -1130,7 +1130,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_decoletters00_title">Lettere</string>
     <string name="draft_decoletters00_text">Solo alcune lettere per dare un tocco personale a %1$s.</string>
     <string name="draft_feature_letters00_title">Decorazione lettere</string>
-    <string name="draft_feature_letters00_text">Sblocca il set Decorative Letter e aggiungi un tocco personale alla città! Le lettere possono essere aggiunte dovunque per decorare come si vuole. Scrivi il nome della città, oppure divertiti nel modo che preferisci con frasi particolri. Effettua l\'upgrade e metti la creatività al centro della scena!</string>
+    <string name="draft_feature_letters00_text">Sblocca il set Decorative Letter e aggiungi un tocco personale alla città! Le lettere possono essere aggiunte dovunque per decorare come si vuole. Scrivi il nome della città, oppure divertiti nel modo che preferisci con frasi particolari. Effettua l\'upgrade e metti la creatività al centro della scena!</string>
 
     <string name="tool_eye_dropper">Seleziona un edificio</string>
     <string name="settings_language">Lingua</string>
@@ -1605,7 +1605,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="gallery_trends">Tendenze</string>
     <string name="gallery_own">Tue</string>
     <string name="dialog_gallerydelete_title">Cancella Screenshot</string>
-    <string name="dialog_gallerydelete_text">Sei sicuro di voler cancellare questo screenshot? Questo non può essere annullato!</string>
+    <string name="dialog_gallerydelete_text">Vuoi davvero cancellare questo screenshot? Non potrai recuperarlo!</string>
     <string name="dialog_gallerydelete_cmd">Cancellare</string>
     <string name="dialog_gallerypolicy_title">Caricare llo screenshot?</string>
     <string name="dialog_gallerypolicy_text">Vuoi caricare il tuo screenshot sulla nostra galleria?\n\nSeleziona \"Carica\" solo se accetti la nostra policy per il caricamento delle schermate.</string>
@@ -1636,7 +1636,7 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="draft_notify_easteregg_found00_text">Congratulazioni, hai trovato l\'uovo di Pasqua :)</string>
 
     <string name="dialog_removediamondbuildings_title">Rimuovere gli edifici con diamanti</string>
-    <string name="dialog_removediamondbuildings_text">Hai selezionato %d edifici con prezzo di diamante per la rimozione. Sei sicuro di volerli rimuovere? C\'è uno strumento per spostare gli edifici se vuoi solo spostarli.</string>
+    <string name="dialog_removediamondbuildings_text">Hai selezionato %d edifici con prezzo in diamanti per la rimozione. Vuoi rimuoverli davvero? Se desideri semplicemente spostarli, esiste uno strumento apposito.</string>
     <string name="settings_renderpollution">Rendering inquinamento</string>
 
     <string name="settings_cloudshadow">Ombre delle nuvole</string>
@@ -1664,10 +1664,10 @@ Se si fornisce a TheoTown l\'accesso alla memoria esterna, TheoTown salverà le 
     <string name="ca_wastedisposal_text2">Trasporto rifiuti: %1$,d/%2$,d L/d</string>
     <string name="notify_waste_needer00">La spazzatura non viene raccolta per questo edificio.</string>
     <string name="notify_waste_producer00">Questa discarica è piena, dovresti svuotarla!</string>
-    <string name="draft_landfill00_text">Un sacco di spazio per raccogliere tutti i rifiuti. Può essere rimosso solo se vuoto.</string>
+    <string name="draft_landfill00_text">Un sacco di spazio per raccogliere tutti i rifiuti. Può essere rimossa solo se vuota.</string>
     <string name="waste_clear">STROFINA manualmente sulla spazzatura per rimuoverla.</string>
-    <string name="waste_cmdclear">Svuota ora</string>
-    <string name="dialog_wasteclear_title">Svuota ora</string>
+    <string name="waste_cmdclear">Svuota</string>
+    <string name="dialog_wasteclear_title">Svuota</string>
     <string name="dialog_wasteclear_text">Possiamo sgomberare la discarica al posto tuo.</string>
     <string name="draft_wasteincinerator00_text">Un modo veloce e sporco per sbarazzarsi di tutti i rifiuti.</string>
     <string name="budget_waste_disposal">Smaltimento dei rifiuti</string>
@@ -1919,7 +1919,7 @@ Contro: Meno sfide</string>
     <string name="draft_feature_freefastspeed00_title">Velocità rapida illimitata</string>
     <string name="draft_feature_freetunnels00_title">Tunnel illimitati</string>
     <string name="dialog_storedelete_title">Disinstalla</string>
-    <string name="dialog_storedelete_text">Sei sicuro di voler rimuovere quel plugin? Non potrai cambiare idea</string>
+    <string name="dialog_storedelete_text">Vuoi davvero rimuovere il plugin? Non potrai cambiare idea</string>
     <string name="dialog_storedelete_cmddelete">Disinstalla</string>
     <string name="store_modefeatured">In primo piano</string>
     <string name="store_modecategory">Categorie</string>
@@ -2132,7 +2132,7 @@ Contro: Meno sfide</string>
     <string name="statistics_waterneed">Acqua necessaria</string>
     <string name="ci_show_statistics">Mostra le statistiche</string>
     <string name="dialog_commentdelete_title">Cancella commento</string>
-    <string name="dialog_commentdelete_text">Ehi, sei sicuro di voler cancellare quel commento di %1$s?</string>
+    <string name="dialog_commentdelete_text">Ehi, vuoi davvero cancellare il commento di %1$s?</string>
     <string name="dialog_commentdelete_cmd">Cancella</string>
     <string name="stage_comment_login">Accedi con l\'account TheoTown per commentare</string>
     <string name="dialog_report_title">Segnala</string>
@@ -2240,10 +2240,10 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="createregion_layout2x2">2x2</string>
     <string name="createregion_layoutcircle">Cerchio</string>
     <string name="dialog_deleteregion_title">Cancella regione</string>
-    <string name="dialog_deleteregion_text">Sei sicuro di voler cancellare questa regione? Non potrai recuperarla.</string>
+    <string name="dialog_deleteregion_text">Vuoi davvero cancellare questa regione? Non potrai recuperarla.</string>
     <string name="dialog_deleteregion_cmd">Cancella</string>
     <string name="dialog_resetregion_title">Reimposta regione</string>
-    <string name="dialog_resetregion_text">Sei sicuro di voler reimpostare questa regione? Non potrai recuperarla.</string>
+    <string name="dialog_resetregion_text">Vuoi davvero reimpostare questa regione? Non potrai recuperarla.</string>
     <string name="dialog_resetregion_cmd">Reimposta</string>
     <string name="dialog_regionpassword_title">Inserisci la password della regione</string>
     <string name="dialog_regionpassword_text">Password:</string>
@@ -2298,7 +2298,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="draft_concrete00_text">Un po\' di cemento a scopo decorativo.</string>
     <string name="draft_concrete00_title">Cemento</string>
     <string name="draft_concrete01_title">Cemento sverniciato</string>
-    <string name="createregion_regionname">Nome della regione:</string>
+    <string name="createregion_regionname">Nome regione:</string>
     <string name="dialog_regionrules_allowsandbox">Sandbox disponibile.</string>
     <string name="dialog_regionrules_notallowsandbox">Sandbox non disponibile.</string>
     <string name="dialog_configureregion_rules">Regole</string>
@@ -2328,7 +2328,7 @@ Collegando il gioco a un account di TheoTown Forum è possibile partecipare alla
     <string name="dialog_selectuser_namehint">Inserisci il nome utente di un altro giocatore</string>
     <string name="dialog_selectuser_cmdselect">Seleziona</string>
     <string name="dialog_transfercity_title">Trasferisci proprietà</string>
-    <string name="dialog_transfercity_text">Sei sicuro di voler trasferire la proprietà della tua città %1$s a %2$s?\n\nNon potrai recuperarla.</string>
+    <string name="dialog_transfercity_text">Vuoi davvero trasferire le proprietà di %1$s a %2$s?\n\nNon potrai recuperarle.</string>
     <string name="dialog_transfercity_cmdtransfer">Trasferisci</string>
     <string name="dialog_transferregion_title">Trasferisci di proprietà</string>
     <string name="dialog_transferregion_text">Siete sicuri di voler trasferire la proprietà nella vostra regione %1$s a %2$s?\n\nNon potete annullarlo.</string>
@@ -2597,7 +2597,8 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="store_modecertifiedcreators">Creator Certificati</string>
     <string name="ci_rating_help">Qui puoi vedere la felicità degli abitanti. La felicità alta attira più abitanti. Tocca una fila per vedere la corrispondente distribuzione in città.</string>
     <string name="ci_rank_help">Il rango di una città indica il suo livello di sviluppo. Ottenendo punti città potrai aumentare il livello del rango, attirando così più abitanti o facendo sviluppare la città. L\'aumento del rango sblocca anche delle strutture.</string>
-    <string name="ci_loan_help">Non hai più denaro? Puoi richiedere un prestito per continuare a costruire. Ma ricorda che dovrai restituire questo prestito col tempo.</string>
+    <string name="ci_loan_help">Non hai più denaro? Puoi richiedere un prestito per continuare a costruire. Ma ricorda che dovrai restituire questo prestito co
+        l tempo.</string>
     <string name="ci_health_help">La salute in una città può essere un problema. Costruisci strutture mediche per tenere gli abitanti sani e felici.</string>
     <string name="ci_energy_help">Molti edifici necessitano di energia per essere agibili. Assicurati di produrre abbastanza energia e che tutti siano connessi alla rete.</string>
     <string name="ci_info_help">Qui puoi vedere le infromazioni generali della tua città.</string>
@@ -2642,7 +2643,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="dialog_migratefb_text">Sembri essere collegato a un account Facebook. Purtroppo questo tipo di accesso non è più supportato.\nSi prega di effettuare l\'accesso con un account del forum.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Impostazioni account</string>
     <string name="draft_feature_opera00_title">Teatro dell\'Opera</string>
-    <string name="draft_feature_opera00_text">Respira la magia della cultura col bundle Cultural Delight! Vivi la grandiosità del Teatro dell\'Opera, affianzato da un parco e una fontana incantevole. Migliora l\'atmosfera e attira i cittadini con un fascino musicale, artistico e naturale. Effettua l\'upgrade e fai risplendere la tua città come un capolavoro!</string>
+    <string name="draft_feature_opera00_text">Respira la magia della cultura col bundle Cultural Delight! Vivi la grandiosità del Teatro dell\'Opera, affiancato da un parco e una fontana incantevole. Migliora l\'atmosfera e attira i cittadini con fascino musicale, artistico e naturale. Effettua l\'upgrade e fai risplendere la tua città come un capolavoro!</string>
     <string name="draft_opera00_title">Oasi Operistica</string>
     <string name="draft_opera00_text">Entra nel Melody Manor, il centro culturale della tua città! Questo magnifico Teatro dell\'Opera aggiunge un tocco di eleganza alla tua metropoli. Osserva come influenza i cittadini, trasformandoli in colti esprerti d\'arte. Fa\' crescere l\'armonia e le risate!</string>
     <string name="draft_opera_park00_title">Parco Serene Symphony</string>
@@ -3062,7 +3063,7 @@ Seleziona un comando da assegnare all\'azione.</string>
     <string name="createcity_roughness_flat">Piana</string>
     <string name="createcity_roughness_less">Bassa</string>
     <string name="createcity_roughness_default">Predefinita</string>
-    <string name="createcity_roughness_more">ALta</string>
+    <string name="createcity_roughness_more">Alta</string>
     <string name="createcity_roughness_extreme">Estrema</string>
     <string name="buildingicon_illness">Le persone di questo edificio sono malate. Manda un medico.</string>
     <string name="buildingicon_noroad">Questo edifico non è collegato a una strada agibile.</string>
