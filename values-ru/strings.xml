@@ -439,7 +439,7 @@
 <string name="draft_terrainland_text">Размести землю на карте.</string>
 <string name="draft_terrainland_title">Земля</string>
 <string name="draft_terrainwater_text">Размести воду на карте.</string>
-<string name="draft_terrainwater_title">Водоснабжение</string>
+<string name="draft_terrainwater_title">Вода</string>
 <string name="draft_townhall00_text">Большим городам нужна городская ратуша. Жителям понравится.</string>
 <string name="draft_townhall00_title">Городская ратуша</string>
 <string name="draft_townhall01_text">Ратуша может быть построена в твоем городе.</string>
@@ -3432,5 +3432,44 @@
     <string name="settings_notify_body_disposal">Трупы</string>
     <string name="settings_notify_bad_attribute">Неверный атрибут</string>
     <string name="show_eula">EULA</string>
+
+
+    <string name="dialog_uploadregionpolicy_title">Политика бездействующих регионов</string>
+    <string name="dialog_uploadregionpolicy_text">Заметьте, что регион который бездействовал год будет удалён. Это необходимо чтобы очищать место для новых регионов и обеспечить оптимальный опыт для активных игроков. Перед любым удалением из-за бездействия, мы уведомим вас.</string>
+    <string name="dialog_loginforreport_title">Для жалобы необходимо войти</string>
+    <string name="dialog_loginforreport_text">Чтобы убедиться в честности системы жалоб, только зарегестрированные пользователи могут пожаловаться. Пожалуйста, войдите чтобы продолжить.</string>
+    <string name="settings_debug_hotkeys">Горячие клавиши для отладки</string>
+    <string name="specialoffer_alreadyunlocked">Вы уже разблокировали этот предмет.</string>
+    <string name="settings_highlight_hovered_building">Здание, выделенное подсветкой</string>
+    <string name="settings_cursorscaling">Размер курсора</string>
+    <string name="settings_cursorstyle_citylights">Городские огни</string>
+    <string name="settings_cursorstyle_aurora">Аврора</string>
+    <string name="settings_cursorstyle_steampunk">Стимпанк</string>
+    <string name="settings_cursorstyle_cyberpunk">Киберпанк</string>
+    <string name="stats_level00">₮</string>
+    <string name="stats_level01">₮₮</string>
+    <string name="stats_level02">₮₮₮</string>
+    <string name="stage_files_actioncopy">Копировать в буфер обмена</string>
+    <string name="stage_files_actionopen">Открыть</string>
+    <string name="stage_files_imageresolution">Разрешение: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">Устаревшая версия</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Для этого сценария нужна версия %s или выше, ты используешь %s.\n\nПожалуйста, обновите игру.</string>
+    <string name="comments_language">Язык: %s</string>
+    <string name="comments_cmdtranslate">Перевести (перевод может быть неточным)</string>
+    <string name="waste_clear_onmouseinput">Нажми на мусор и перетащи чтобы очистить его.</string>
+    <string name="cemetery_clear_onmouseinput">Нажми и перетащи чтобы очистить пространство .</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Проложи дорогу вдоль обозначенных клеток. Чтобы построить её, нажми на начальную клетку, нажми снова чтобы поставить конечную точку.</string>
+    <string name="tutorial_rci_onmouseinput">Нажми на эту кнопку чтобы увидеть подробную информацию о спросе для любой зоны.</string>
+    <string name="tutorial_money_info_onmouseinput">Нажми в нижний правый угол чтобы получить больше информации о деньгах или для изменения налогов.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Нажми на начальную и на конечную клетку запланированной дороги. Посмотри как мост будет автоматически построен над рекой.</string>
+    <string name="tool_airplanelane_title_onmouseinput">Нажми на свободную полосу</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">Просто подарок. Попробуй нажать на него.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Хочешь построить определенную дорогу или здание снова? Используй этот инструмент и нажми на него. Не все структуры поддерживаются.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Ты хочешь выложить скриншот в нашу галерею?\n\nНажимая на \"Выложить сейчас\", ты соглашаешься, что принимаешь нашу политику.</string>
+    <string name="notify_waste_producer00_onmouseinput">Эта свалка заполнена! Нажми на неё чтобы очистить!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Нажми на него чтобы открыть или закрыть. Хороший способ создать пробки.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Создай поле игры в жизнь. Нажми на существующую клетку чтобы переключить состояние. По умолчанию клетка мертва.</string>
+    <string name="loadcity_scenario">Сценарий: %s</string>
+    <string name="trainstationinfo_total">Всего переведено: %1$,d</string>
 
 </resources>
