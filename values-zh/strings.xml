@@ -3312,7 +3312,7 @@
 小心！洲际弹道导弹可能会摧毁整个城市
     </string>
     <string name="tip_topic_icbm_text">
-“洲际弹道导弹”（ICBM）不是自然灾害，且只能通过 DSA 触发。使用 ICBM 时要小心，它会在几秒钟内将整个城市炸成碎片，无论城市的大小。可以备份或复制城市，以避免在测试 ICBM 后感到后悔。
+“洲际弹道导弹”（ICBM）并非自然灾害，只能通过 DSA 触发。使用 ICBM 时要小心，无论城市的大小，都会在几秒钟之内把城市炸成碎片。你可以备份或复制城市，以避免在测试 ICBM 后感到后悔。
     </string>
     <string name="tip_topic_normalzone_densezone_title">
 高密度区域容量更大，但放置成本更高
@@ -3324,19 +3324,19 @@
 可以通过论坛下载插件
     </string>
     <string name="tip_topic_forum_plugins_text">
-一些插件作者会在论坛上独家发布一些插件——这些插件不会发布在插件商店中。这些插件可以免费下载，并且必须手动放置在设备的插件文件夹中。请注意，这些插件没有经过审核。
+部分插件作者选择在论坛独家发布插件（此类插件不会上架官方商店）。玩家可免费获取这些插件，但需手动安装到设备插件目录。需要注意，非官方渠道发布的插件没有经过审核。
     </string>
     <string name="tip_topic_toll_happiness_title">
-收费站会提供额外收入，但会让居民不开心
+收费站虽能增加额外收入，却可能引发居民不满，需谨慎权衡利弊。
     </string>
     <string name="tip_topic_toll_happiness_text">
-收费站会对车辆收费，从而提升收入。收费金额可以通过按下收费站来调整。不过，收费站会降低交通幸福感，并让人们不开心。
+收费站通过征收通行费增加额外收入，你可以随时点击设施调整收费标准。但需注意，持续收费可能降低交通满意度，引发居民不满。
     </string>
     <string name="tip_topic_building_rotation_title">
-并非所有建筑都有旋转图像
+不是所有建筑都有旋转贴图
     </string>
     <string name="tip_topic_building_rotation_text">
-一些原版建筑确实有旋转图像，但并非所有建筑都有。很多插件建筑可能因为作者没有绘制而没有旋转图像。要查看哪些建筑有旋转图像，请按下建筑并查看右上角是否有“上一个”和“上一个”按钮。不过，没有旋转图像也意味着可以为更多样的建筑节省空间。
+一些原版建筑确实有旋转贴图，但也不是所有的都有。很多插件可能会因为作者没有绘制而没有旋转贴图。要知道哪些建筑有旋转图像，请按下建筑并查看右上角是否有“上一个”和“上一个”按钮。不过，没有旋转图像也意味着可以为更多样的建筑节省空间。
     </string>
     <string name="tip_topic_map_rotation_title">
 使用小地图更改地图方向
@@ -3363,10 +3363,10 @@
 官方游戏扩展内容由用户 Lobby 在插件商店发布。因为它们是官方游戏扩展内容，所以这些内容通常是免费的。
     </string>
     <string name="tip_topic_inspiration_title">
-与其盲目比较，不如取其精华，去其糟粕
+与其盲目比较，不如去其糟粕，取其精华。
     </string>
     <string name="tip_topic_inspiration_text">
-不同的玩家有不同的风格。与其嫉妒其他玩家的城市，不如试着找出究竟是什么吸引了你。“我为什么这么喜欢它？”——一旦弄清楚了这一点，请试着一点一点地在你的城市中实现它，看着城市一点一点成长。
+每个玩家有独到的风格。与其和其他玩家的城市攀比，不如深究它触动你的原因。不妨自问“这份喜爱源自何处？”找到答案后，试着一点一点地将那些亮点融于自己的城市之中，见证城市一点一点地成长。
     </string>
     <string name="tip_topic_road_connection_title">
 在构建道路网络时使用“自动连接道路”功能
@@ -3406,8 +3406,8 @@
 
 
     <string name="settings_category_notifications">通知</string>
-    <string name="settings_notify_low_power">电力不足</string>
-    <string name="settings_notify_low_water">水资源不足</string>
+    <string name="settings_notify_low_power">电力紧缺</string>
+    <string name="settings_notify_low_water">水资源紧缺</string>
     <string name="settings_notify_no_power">无电力</string>
     <string name="settings_notify_no_water">无水资源</string>
     <string name="settings_notify_no_road">无道路</string>
@@ -3416,18 +3416,18 @@
     <string name="settings_notify_pollution">污染</string>
     <string name="settings_notify_noise">噪音</string>
     <string name="settings_notify_water_waste">水资源浪费</string>
-    <string name="settings_notify_unhappy">不开心</string>
+    <string name="settings_notify_unhappy">不满意</string>
     <string name="settings_notify_unlocked">解锁建筑</string>
     <string name="settings_notify_low_budget">预算不足</string>
     <string name="settings_notify_zone_needed">需要区域</string>
     <string name="settings_notify_polluted_pump">被污染的水泵</string>
-    <string name="settings_notify_school_overloaded">学校超载</string>
-    <string name="settings_notify_medic_overloaded">医疗超载</string>
+    <string name="settings_notify_school_overloaded">教育资源紧张</string>
+    <string name="settings_notify_medic_overloaded">医疗资源紧张</string>
     <string name="settings_notify_destroyed_tile">被破坏的地块</string>
     <string name="settings_notify_need_low_education">需要低等教育</string>
     <string name="settings_notify_need_high_education">需要高等教育</string>
     <string name="settings_notify_bad_traffic">交通拥堵</string>
-    <string name="settings_notify_waste">垃圾收集</string>
+    <string name="settings_notify_waste">垃圾处理</string>
     <string name="settings_notify_body_disposal">尸体处理</string>
     <string name="settings_notify_bad_attribute">不良属性</string>
     <string name="show_eula">最终用户许可协议（EULA）</string>
@@ -3454,18 +3454,18 @@
     <string name="loadcity_outdatedscenario_dialog_title">版本过旧</string>
     <string name="loadcity_outdatedscenario_dialog_text">此场景需要版本 %s 或更高版本，目前的版本为 %s。\n\n请检查更新以游玩此场景。</string>
     <string name="comments_language">语言：%s</string>
-    <string name="comments_cmdtranslate">翻译（翻译可能不准确）</string>
-    <string name="waste_clear_onmouseinput">点击并拖动垃圾以清理。</string>
+    <string name="comments_cmdtranslate">翻译（可能不准确）</string>
+    <string name="waste_clear_onmouseinput">点击并拖动垃圾来清理。</string>
     <string name="cemetery_clear_onmouseinput">点击并拖动以腾出一些空间。</string>
     <string name="tutorial_buildroad_b_onmouseinput">沿着标记的格子放置道路。请点击设置起点，再次点击设置终点，以建设道路</string>
     <string name="tutorial_rci_onmouseinput">点击此按钮以查看每种区域类型的详细需求信息。</string>
     <string name="tutorial_money_info_onmouseinput">点击右下角以获取有关资金的更多信息或更改税率。</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">点击计划道路的起点和终点。看看如何在河上自动建造桥梁。</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">点击计划道路的起点和终点，看看如何在河上自动建造桥梁。</string>
     <string name="tool_airplanelane_title_onmouseinput">点击一个空闲的车道</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">只是一个礼物。试着点击它。</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">想再次建造特定的道路或建筑吗？点击并使用此工具。并非所有建筑都支持。</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">只是一个礼物，试着点击它。</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">想再次建造特定的道路或建筑吗？点击并使用此工具，并非所有建筑都支持。</string>
     <string name="dialog_gallerypolicy_text_onmouseinput">想将截图上传到我们的画廊吗？\n\n点击“立即上传”即表示您同意我们的政策。</string>
-    <string name="notify_waste_producer00_onmouseinput">这个垃圾填埋场已满！点击以清理！</string>
+    <string name="notify_waste_producer00_onmouseinput">这个垃圾填埋场满了，点击就可以清理！</string>
     <string name="draft_roaddeco_barrier_open00_text_onmouseinput">左键点击以打开和关闭——制造交通堵塞的好方法。</string>
     <string name="draft_gol_dead_text_onmouseinput">创建一个生命游戏场。点击现有的格子以切换它们的状态。默认状态是死亡。</string>
     <string name="loadcity_scenario">场景：%s</string>
