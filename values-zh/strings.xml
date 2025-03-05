@@ -3137,10 +3137,10 @@
     <string name="buildingicon_wasteoverloaded">这个垃圾填埋场已满。</string>
     <string name="buildingicon_deadbodies">这栋建筑里有未经处理的遗体。</string>
     <string name="buildingicon_deadbodiesoverloaded">这个墓地已满。</string>
-    <string name="buildingicon_crimegraffiti">有人在这里非法涂鸦。</string>
+    <string name="buildingicon_crimegraffiti">有人在这里破坏市容。</string>
     <string name="buildingicon_crimeburglary">这里发生了一起入室抢劫案。</string>
     <string name="buildingicon_crimemurder">这里发生了一起谋杀案。</string>
-    <string name="buildingicon_crimeriot">这里发生了暴乱。</string>
+    <string name="buildingicon_crimeriot">这里发生了一起暴乱。</string>
     <string name="dialog_scriptpolicy_title">插件脚本策略</string>
     <string name="dialog_scriptpolicy_help_title">插件脚本可能存在风险</string>
     <string name="dialog_scriptpolicy_help_text">只有你有权批准执行外部插件脚本。请仅将来自于可信来源的脚本列入白名单中（例如你自己，如果你正在开发插件）。\n
@@ -3279,7 +3279,7 @@
 道路、装饰、区域、建筑的建造数量越多，所需花费也就越高。
     </string>
     <string name="tip_topic_creative_gameplay_title">
-使用沙盒或乌托邦模式来让你无拘无束地创造
+使用沙盒/乌托邦模式来无拘无束地创造
     </string>
     <string name="tip_topic_creative_gameplay_text">
 对于许多经验丰富的资深玩家而言，可以自由创作的沙盒模式和乌托邦模式往往是他们的首选。这两种模式均不受资金限制，因而你可以随心所欲地自由建设。尤其在乌托邦模式下，无需担心市民的满意度或需求问题。他们通常会手动精心排布每一处建筑，直到达成最完美的效果。当然，如果这听起来与你不一样也无需在意，毕竟每个人都有独特的游戏风格！
@@ -3303,7 +3303,7 @@
 首先点击笑脸图标，再切换到税收选项界面，通过使用 + 和 - 按钮调整每种建筑类型和收入阶层的税率。但要注意，不要将税率设定得太高。
     </string>
     <string name="tip_topic_moon_title">
-使用 DSA 登月
+让 DSA 带你登月
     </string>
     <string name="tip_topic_moon_text">
 解锁 DSA 并升级建筑即可前往月球。火箭需要补给以发射，完全补给时有概率坠毁。成功发射到月球后，可以在“单独城市”中找到月球地图。在太空中开采某些矿石可以解锁用于前往月球地图上的某些建筑。
@@ -3327,7 +3327,7 @@
 部分插件作者选择在论坛独家发布插件（此类插件不会上架官方商店）。玩家可免费获取这些插件，但需手动安装到设备插件目录。需要注意，非官方渠道发布的插件没有经过审核。
     </string>
     <string name="tip_topic_toll_happiness_title">
-收费站虽能增加额外收入，却可能引发居民不满，需谨慎权衡利弊。
+收费站虽能增加额外收入，却可能引发居民不满，需谨慎权衡利弊
     </string>
     <string name="tip_topic_toll_happiness_text">
 收费站通过征收通行费增加额外收入，你可以随时点击设施调整收费标准。但需注意，持续收费可能降低交通满意度，引发居民不满。
@@ -3339,19 +3339,19 @@
 原生建筑中部分配置了旋转贴图支持，但非全部适用。多数插件会因作者未制作旋转贴图而缺失该功能。如需知道哪些建筑有旋转图像，请点击建筑并查看右上角是否有“上一个”和“上一个”按钮。不过，没有旋转图像也意味着可以为多样化的建筑节省空间。
     </string>
     <string name="tip_topic_map_rotation_title">
-通过小地图可旋转地图
+通过小地图旋转地图
     </string>
     <string name="tip_topic_map_rotation_text">
 通过小地图可旋转地图，点击小地图后使用方向键调整视角方位。需注意，地图旋转时若建筑物未配置旋转贴图，其朝向将保持固定不变。
     </string>
     <string name="tip_topic_demands_title">
-建造需求线以上的区域
+建造需求基准线以上的区域
     </string>
     <string name="tip_topic_demands_text">
 需求突破需求基准线时，意味着该类型的居民或企业希望搬到您的城市，需及时提供设施。当需求低于需求基准线时，则需要优先建造其他区域设施，或提供其他配套服务，如公园和公安设施。
     </string>
     <string name="tip_topic_happiness_title">
-点击建筑查看以其最低幸福感
+点击建筑查看最低幸福感
     </string>
     <string name="tip_topic_happiness_text">
 点击建筑查看信息面板可以确定建筑及周边建筑不满意的根源，还可以查看建筑平均满意度。确定了满意度低原因后可以采取措施解决问题，例如当建筑因为缺乏公园而不满意，需在建筑附近放置公园以提升满意度。
@@ -3407,9 +3407,9 @@
 
     <string name="settings_category_notifications">通知</string>
     <string name="settings_notify_low_power">电力紧缺</string>
-    <string name="settings_notify_low_water">水资源紧缺</string>
+    <string name="settings_notify_low_water">供水紧缺</string>
     <string name="settings_notify_no_power">无电力</string>
-    <string name="settings_notify_no_water">无水资源</string>
+    <string name="settings_notify_no_water">无供水</string>
     <string name="settings_notify_no_road">无道路</string>
     <string name="settings_notify_no_park">无公园</string>
     <string name="settings_notify_no_sport">无体育设施</string>
