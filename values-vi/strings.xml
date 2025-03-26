@@ -14,7 +14,7 @@
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Dân số: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Hạt số ngẫu nhiên: </string>
+    <string name="createcity_seed">Hạt ngẫu nhiên: </string>
     <string name="createcity_sizesmall">Nhỏ</string>
     <string name="createcity_sizemiddle">Trung bình</string>
     <string name="createcity_sizebig">Lớn</string>
@@ -107,7 +107,7 @@
     <string name="draft_medic01_text">Nơi mà bệnh nhân Coi như là nhà.</string>
     <string name="draft_school00_title">Trường Tiểu học</string>
     <string name="draft_school00_text">Nơi em nhỏ được dạy dỗ.</string>
-    <string name="draft_school01_title">Trường Tiểu học lớn</string>
+    <string name="draft_school01_title">Trường Trung học Phổ thông</string>
     <string name="draft_school01_text">Nơi học sinh được dạy dỗ</string>
     <string name="draft_museum00_title">Bảo tàng</string>
     <string name="draft_museum00_text">Nơi mọi người học hỏi và tìm hiểu về lịch sử.</string>
@@ -148,7 +148,7 @@
     <string name="topic_cake">Cái bánh là lời dụ dỗ!</string>
     <string name="topic_panic">Đừng hoảng sợ!</string>
     <string name="draft_bigschool00_title">Trường Trung học Cơ sở</string>
-    <string name="draft_bigschool00_text">Nơi mà những học sinh ở độ tuổi vị thành niên học.</string>
+    <string name="draft_bigschool00_text">Nơi mà những học sinh ở độ tuổi vị thành niên được dạy học.</string>
     <string name="draft_treepark00_title">Công viên Cây xanh.</string>
     <string name="draft_treepark00_text">Người dân sẽ thích nó.</string>
     <string name="menu_premium">Cao cấp</string>
@@ -184,7 +184,7 @@
     <string name="ci_general_text">KHÔNG SỬ DỤNG</string>
     <string name="topic_reddit">Hi Reddit :)</string>
     <string name="topic_animals">Không có loài vật nào bị hãm hại trong sản xuất!</string>
-    <string name="topic_users">Bản dịch Tiếng Việt được hoàn thiện bởi Bevise, The Leaf, Anhkatori2k, Linhnhianni, Lnquy065 và Babiabeo.</string>
+    <string name="topic_users">Bản dịch Tiếng Việt được hoàn thiện bởi Bevise, The Leaf, Anhkatori2k, Linhnhianni, Lnquy065, Babiabeo và VoKhoi.</string>
     <string name="topic_free">Game miễn phí bạn ơi! Nếu bạn cần thêm kim cương thì tham gia minigame trong group TheoTown Việt Nam nhé</string>
     <string name="topic_about">Bạn có thể sẽ thử bấm vào góc phải đó.</string>
     <string name="topic_letsplay">Cùng chơi nào ;)</string>
@@ -550,18 +550,18 @@
     <string name="influence_culture_title">Văn hóa</string>
     <string name="influence_culture_text">Giá trị văn hóa của thành phố bạn. </string>
     <string name="influence_education_low_text">Các trường cung cấp bậc Tiểu học.</string>
-    <string name="influence_education_high_text">Học sinh lớn hơn được cung cấp bởi trường Trung học.</string>
+    <string name="influence_education_high_text">Giáo dục bậc cao được cung cấp bởi các trường Trung học và Đại học.</string>
     <string name="influence_firedep_text">Phạm vi ảnh hưởng của các trạm cứu hỏa đến thành phố của bạn.</string>
     <string name="influence_health_text">Bệnh viện giúp cho người dân được khỏe.</string>
     <string name="influence_noise_text">Không ai muốn sống trong một nơi ồn ào.</string>
     <string name="influence_park_text">Giúp cho người dân của bạn vui và xây dựng được các tòa nhà có giá trị cao.</string>
-    <string name="influence_police_text">Tránh được hoạt động của tội phạm.</string>
+    <string name="influence_police_text">Phòng tránh được hoạt động của tội phạm.</string>
     <string name="influence_pollution_text">Không ai muốn sống trong một nơi ô nhiễm.</string>
     <string name="influence_religion_text">Khu vực được hưởng lợi từ tôn giáo.</string>
     <string name="influence_sport_text">Người dân của bạn sẽ khỏe manhh bởi việc chơi thể thao.</string>
     <string name="draftselector_cmdShow">Xem</string>
-    <string name="ca_education_low_text">Giáo dục Tiểu học và THCS: %1$,d/%2$,d học sinh</string>
-    <string name="ca_education_high_text">Giáo dục THPT và Đại học: %1$,d/%2$,d học sinh</string>
+    <string name="ca_education_low_text">Giáo dục Tiểu học: %1$,d/%2$,d học sinh</string>
+    <string name="ca_education_high_text">Giáo dục Trung học và Đại học: %1$,d/%2$,d học sinh</string>
     <string name="ca_health_text">Y tế: %1$,d/%2$,d bệnh nhân</string>
     <string name="gamemode_nomoney">Không cần tiền</string>
     <string name="draft_zoneharbor_title">Cảng</string>
@@ -731,8 +731,8 @@
     <string name="app_name_premium">TheoTown Premium</string>
     <string name="busstopinfo_title">Trạm dừng xe buýt</string>
     <string name="roadinfo_title">Đường</string>
-    <string name="roadinfo_trafficlights_on">Đèn giao thông bật</string>
-    <string name="roadinfo_trafficlights_off">Đèn giao thông tắt</string>
+    <string name="roadinfo_trafficlights_on">Bật đèn giao thông</string>
+    <string name="roadinfo_trafficlights_off">Tắt đèn giao thông</string>
     <string name="notify_crime">Chúng ta có một số tội phạm ở đây.</string>
     <string name="tutorial_buildbridge_a">Có lẽ chúng ta nên nâng cấp giao thông bằng con đường chính. Chọn đường nhựa.</string>
     <string name="tutorial_buildbridge_b">Tạo đường.</string>
@@ -860,8 +860,8 @@
     <string name="control_auto">Tự động</string>
     <string name="control_on">Bật</string>
     <string name="control_off">Tắt</string>
-    <string name="draft_school03_title">Trường Trung học Phổ thông</string>
-    <string name="draft_school03_text">Cấp bậc cao hơn.</string>
+    <string name="draft_school03_title">Trường THPT lớn</string>
+    <string name="draft_school03_text">Trường lớn hơn với nhiều học sinh hơn.</string>
     <string name="gamemode_easy_desc">Bắt đầu một thị trấn với nhiều tiền.</string>
     <string name="gamemode_middle_desc">Chế độ chơi mặc định của TheoTown. Bạn sẽ bắt đầu với một số tiền đủ để cho bạn xây dựng thành phố mơ ước của mình.</string>
     <string name="gamemode_hard_desc">Bạn có phải là một người chơi giỏi TheoTown? Vậy đây là chế độ cho bạn.</string>
@@ -936,7 +936,7 @@
     <string name="notify_pollutedwaterpump">Chiếc máy bơm nước này đang ở trong khu vực bị ô nhiễm. Chúng ta tốt hơn nên để nó ở một nơi khác để giữ nước sạch</string>
     <string name="notify_destroyedtiles">Chúng ta tốt nhất nên xử lý chúng này trước khi ai đó nhìn thấy nó</string>
     <string name="notify_loweducationneeded">Đến lúc xây dựng trường cho trẻ nhỏ.</string>
-    <string name="notify_higheducationneeded">Hãy tạo ra vài nhân tài bằng cách xây trường THCS.</string>
+    <string name="notify_higheducationneeded">Hãy tạo ra vài nhân tài bằng cách xây trường Trung học.</string>
     <string name="dialog_ffwd1_text">Cho phép bạn dùng chế độ chơi nhanh cho %1$s.</string>
     <string name="notify_badtraffic">Có quá nhiều lượng phương tiện trên con đường này. Tôi đề nghị xây thêm đường.</string>
     <string name="dialog_wb_title">Chào mừng quay lại!</string>
@@ -1621,8 +1621,8 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_hearsttower00_text">Hearst Tower là một cơ quan tại New York hoàn thành vào năm 2006. Nó cao 182m.</string>
     <string name="draft_feature_landmarks02_title">Gói địa danh III</string>
 
-    <string name="draft_recyclingyard00_title">Trung tâm mua lại</string>
-    <string name="draft_recyclingyard00_text">Tại sao phải đốt rác hoặc đưa nó vào bãi rác nếu nó có thể được tái chế trong trung tâm mua lại?</string>
+    <string name="draft_recyclingyard00_title">Trung tâm tái chế</string>
+    <string name="draft_recyclingyard00_text">Tại sao phải đốt rác hoặc đưa nó vào bãi rác nếu nó có thể được tái chế trong trung tâm này?</string>
     <string name="draft_notify_pickle_spawned00_text">Một con dưa muối hoang dã đang ở trong %s. Chúng ta phải làm gì giờ?</string>
     <string name="draft_rugbyfield00_title">Sân bóng bầu dục</string>
     <string name="draft_rugbyfield00_text">Cho các fan hâm mộ bóng bầu dục.</string>
@@ -2309,19 +2309,19 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
 
     <string name="dialog_savingissue_title">Lỗi khi lưu</string>
     <string name="dialog_savingissue_text">Rất tiếc rằng bang của bạn đã có lỗi. Hãy thử lại.</string>
-    <string name="dialog_onlineinfo_title">Chế độ online</string>
-    <string name="dialog_onlineinfo_text">Chào mừng đến với chế độ online</string>
+    <string name="dialog_onlineinfo_title">Chế độ trực tuyến</string>
+    <string name="dialog_onlineinfo_text">Chào mừng đến với chế độ trực tuyến</string>
     <string name="dialog_outdated_title">Phiên bản lỗi thời</string>
     <string name="dialog_outdated_text">Bạn đang sử dụng phiên bản lỗi thời. Hãy cập nhật trò chơi của bạn.</string>
     <string name="settings_weather_lightning">Tia chớp</string>
     <string name="settings_item_edit">Chỉnh sửa</string>
     <string name="dialog_configureregion_title">Cấu hình của bang</string>
     <string name="dialog_configureregion_previewrules">Xem trước</string>
-    <string name="dialog_regionrules_general">Luật chung</string>
-    <string name="dialog_regionrules_allowplugins">Được phép có plugin</string>
+    <string name="dialog_regionrules_general">Quy tắc chung</string>
+    <string name="dialog_regionrules_allowplugins">Được phép dùng plugin</string>
     <string name="dialog_regionrules_notallowplugins">Bạn không thể sử dụng plugins ở đây</string>
-    <string name="dialog_regionrules_norules">Không có luật đặt biệt nào cho bang này</string>
-    <string name="stage_onlineregion_rules">Luật</string>
+    <string name="dialog_regionrules_norules">Không có quy tắc đặt biệt nào cho bang này</string>
+    <string name="stage_onlineregion_rules">Quy tắc</string>
     <string name="control_report">Báo cáo</string>
     <string name="stage_regioncity_reportsubject">Thành phố %1$s</string>
     <string name="stage_regioncity_owner">Thị trưởng: %1$s</string>
@@ -2336,7 +2336,7 @@ Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, b�
     <string name="createregion_regionname">Tên bang: </string>
     <string name="dialog_regionrules_allowsandbox">Chế độ sandbox được sử dụng</string>
     <string name="dialog_regionrules_notallowsandbox">Chế độ sandbox không được sử dụng ở đây.</string>
-    <string name="dialog_configureregion_rules">Luật</string>
+    <string name="dialog_configureregion_rules">Quy tắc</string>
     <string name="dialog_configureregion_infos">Thông tin</string>
     <string name="dialog_configureregion_allowplugins">Cho phép plugin</string>
     <string name="dialog_configureregion_allowsandbox">Cho phép chế độ sandbox</string>
@@ -2621,14 +2621,14 @@ Nhấn một phím để gán nó cho hành động này.</string>
     <string name="dialog_screenshot_cmdshare">Chia sẻ</string>
     <string name="settings_targetfps">FPS mục tiêu</string>
     <string name="settings_targetfps_auto">Tự động</string>
-    <string name="dialog_nointernetaccess_title">Không có kết nối</string>
+    <string name="dialog_nointernetaccess_title">Không có kết nối internet</string>
     <string name="dialog_nointernetaccess_text">Bạn đang ngoại tuyến.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Hiểu rồi</string>
     <string name="store_modebestrated">Được đánh giá cao</string>
     <string name="dialog_pluginqualityunsure_title">Hãy cẩn thận</string>
     <string name="dialog_pluginqualityunsure_text">Plugin bạn sắp tải xuống chưa nhận được nhiều lượt tải xuống hoặc xếp hạng. Do đó, nó có thể không đáp ứng được kỳ vọng của bạn.</string>
     <string name="dialog_pluginqualityunsure_gotit">Hiểu rồi</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Không hiện lại</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Không hiển thị lại</string>
     <string name="store_modecertifiedcreators">Nhà sáng tạo được chứng nhận</string>
     <string name="ci_rating_help">Tại đây bạn có thể thấy mức độ hạnh phúc của cư dân. Càng hạnh phúc thì càng thu hút nhiều người đến sống trong thành phố của bạn. Chạm vào một hàng để xem sự phân bố tương ứng trong thành phố.</string>
     <string name="ci_rank_help">Thứ hạng hiện tại của một thành phố cho biết mức độ phát triển của thành phố đó. Bạn có thể kiếm được điểm thành phố để đạt đến cấp độ tiếp theo bằng cách có thêm cư dân hoặc chỉ phát triển thành phố nói chung. Mở khóa thứ hạng có thể mở khóa các tòa nhà mới cho bạn.</string>
@@ -2673,7 +2673,7 @@ Nhấn một phím để gán nó cho hành động này.</string>
     <string name="store_recommended_plugin">Plugin được đề xuất</string>
 
 
-    <string name="dialog_migratefb_title">Hành động cần thiết</string>
+    <string name="dialog_migratefb_title">Cần hành động</string>
     <string name="dialog_migratefb_text">Có vẻ như bạn đã đăng nhập bằng tài khoản Facebook. Thật không may, loại quyền truy cập này đã không còn được hỗ trợ nữa.\nVui lòng đăng nhập bằng tài khoản diễn đàn để di chuyển dữ liệu của bạn.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Cài đặt tài khoản</string>
     <string name="draft_feature_opera00_title">Nhà hát Opera</string>
