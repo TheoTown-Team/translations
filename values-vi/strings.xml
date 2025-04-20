@@ -32,7 +32,7 @@
     <string name="dialog_nocities_text">Không tìm thấy thành phố nào.</string>
     <string name="dialog_nocities_cmdback">Hủy</string>
     <string name="dialog_nocities_cmdnewcity">Thành phố mới</string>
-    <string name="settings_drawcars">Hiện xe cộ trên đường</string>
+    <string name="settings_drawcars">Hiện phương tiện trên đường</string>
     <string name="settings_drawsmoke">Tạo khói</string>
     <string name="settings_transparencybuildmode">Trong suốt trong chế độ xây dựng</string>
     <string name="settings_buildgrid">Tạo lưới trong xây dựng</string>
@@ -274,9 +274,9 @@
     <string name="ci_energy_consumed">Đã sử dụng: %1$,.0fkW (%2$,d công trình)</string>
     <string name="ci_energy_ratio">Sử dụng: %1$.1f%%</string>
     <string name="ci_energy_all">Dùng chung</string>
-    <string name="ci_energy_single">Dùng đơn</string>
+    <string name="ci_energy_single">Dùng riêng</string>
     <string name="ci_water_all">Dùng chung</string>
-    <string name="ci_water_single">Dùng đơn</string>
+    <string name="ci_water_single">Dùng riêng</string>
     <string name="ci_water_networks">%1$,d mạng lưới</string>
     <string name="ci_water_consumed">Đã sử dụng: %1$,.0fL/h (%2$,d công trình)</string>
     <string name="ci_water_produced">Sản xuất: %1$,.0fL/h (%2$,d công trình)</string>
@@ -999,7 +999,7 @@
     <string name="draft_feature_buildings01_text">Giải phóng tiềm năng của thành phố bạn với Gói mở rộng MegaCity của chúng tôi! Chúng tôi xin giới thiệu các tòa nhà dân cư, thương mại và công nghiệp lớn sẽ biến đổi đường chân trời của bạn và thổi luồng sinh khí mới vào đô thị của bạn. Nâng cao mức sống của cư dân khi họ phát triển trong những ngôi nhà rộng rãi, tận hưởng các khu thương mại sầm uất và hưởng lợi từ các cơ sở công nghiệp tiên tiến. Trải nghiệm một thành phố tráng lệ và thịnh vượng hơn bao giờ hết. Nâng cấp ngay bây giờ và chứng kiến thành phố của bạn vươn lên tầm cao mới của sự vĩ đại.</string>
     <string name="dialog_diamondshop_recommended">Khuyến nghị</string>
     <string name="dialog_presentdaily_title">Phần quà mỗi ngày</string>
-    <string name="dialog_presentdaily_text">Bạn sẽ lại nhận được nó vào ngày mai.</string>
+    <string name="dialog_presentdaily_text">Bạn sẽ lại nhận được tiếp vào ngày mai.</string>
     <string name="dialog_presentdaily_day">Ngày %1$,d</string>
     <string name="rank_needed_xp">Cần %1$,d điểm cho thành phố của bạn</string>
     <string name="settings_shortmoney">Khoảng tiền viết tắt</string>
@@ -1010,31 +1010,31 @@
     <string name="dialog_editsign_delete">Xóa</string>
     <string name="draft_sign_tool_title">Bảng</string>
     <string name="draft_sign_tool_text">Tạo, chỉnh sửa, xóa bảng với dụng cụ này.</string>
-    <string name="draft_feature_deco00_title">Chi tiết cho quảng trường</string>
-    <string name="draft_feature_deco00_text">Một số chi tiết cho khu thương mại của bạn.</string>
+    <string name="draft_feature_deco00_title">Trang trí Quảng trường</string>
+    <string name="draft_feature_deco00_text">Hãy nâng cấp khu vực thương mại của bạn với Gói Commercial Charm! Tô điểm cho cảnh quan thành phố của bạn với một bộ sưu tập trang trí thú vị, mang đến sự tinh tế và cuốn hút cho khu vực kinh doanh nhộn nhịp. Biến đổi những con phố của bạn thành một không gian sôi động và mời gọi, thu hút khách hàng và khiến họ phải trầm trồ. Nâng cấp ngay và tạo ra một khu vực thương mại nổi bật với phong cách và sự quyến rũ!</string>
     <string name="draft_feature_slowspeed00_title">Tốc độ chậm</string>
-    <string name="draft_feature_slowspeed00_text">Một chế độ chậm giúp bạn điều khiển cho các trường hợp dễ dàng.</string>
+    <string name="draft_feature_slowspeed00_text">Mở khóa Gói Control Mastery để có lợi thế thay đổi cuộc chơi. Kích hoạt chế độ tốc độ chậm hơn và có được sự kiểm soát vô song trong những tình huống quan trọng. Hãy nắm quyền, thực hiện những bước đi tính toán, và di chuyển trong thành phố một cách dễ dàng. Nâng cấp ngay và tận dụng sức mạnh của sự chính xác!</string>
     <string name="buildinginfo_patrol">Tuần tra</string>
     <string name="draft_beach_gnd00_title">Cát</string>
     <string name="draft_beach_gnd00_text">Chỉ là cát</string>
     <string name="draft_searocks00_title">Đá biển</string>
     <string name="draft_searocks00_text">Đá biển trên nước</string>
-    <string name="createcity_decos">Với các chi tiết</string>
-    <string name="tutorial_cmdskip">Bỏ qua Hướng Dẫn</string>
+    <string name="createcity_decos">Trang trí</string>
+    <string name="tutorial_cmdskip">Bỏ qua Hướng dẫn</string>
     <string name="dialog_skipbuildtime_ad">Bỏ qua %1$,d ngày</string>
     <string name="setting_showtrafficmarker">Xem mật độ phương tiện trong công cụ xây đường</string>
     <string name="menu_console">Bàn điều khiển</string>
     <string name="topic_crispr">CRISPR có thể thay đổi cuộc sống của bạn</string>
     <string name="draft_feature_firestation00_title">Trạm cứu hỏa lớn</string>
-    <string name="draft_feature_firestation00_text">Một trụ sở với nhiều xe cứu hỏa, trực thăng.</string>
+    <string name="draft_feature_firestation00_text">Nâng cấp khả năng phòng cháy cho thành phố của bạn với Gói Phản Ứng Cháy Lớn! Sở hữu ngay một trạm cứu hỏa có bán kính hoạt động rộng, được trang bị đầy đủ đội xe cứu hộ chuyên dụng. Nâng cấp thêm bãi đáp trực thăng để triển khai lực lượng ứng cứu từ trên không một cách nhanh chóng. Hãy chuẩn bị để dập tắt mọi đám cháy và cứu lấy sinh mạng cư dân như chưa từng có trước đây. Nâng cấp ngay để trở thành người hùng mà thành phố của bạn đang cần khi hỏa hoạn xảy ra!</string>
     <string name="draft_feature_gocart00_title">Đường đua</string>
-    <string name="draft_feature_gocart00_text">Nó sẽ tạo ra những chiếc xe đua trên đường.</string>
+    <string name="draft_feature_gocart00_text">Hãy tăng cường sự phấn khích trong thành phố của bạn với Gói Gocart Grand Prix! Trải nghiệm cảm giác mạnh của môn thể thao mô-tô khi bạn thỏa sức chạy đua trên đường đua go-cart đầy kịch tính. Nhưng chưa hết - chuẩn bị sẵn sàng cho những khoảnh khắc vui nhộn và đầy adrenaline khi những chiếc go-cart tiến lên các con đường bình thường của bạn. Hãy sẵn sàng để đua, trượt và thống trị các con phố như chưa bao giờ có! Nâng cấp ngay và để cuộc đua mô-tô bắt đầu!</string>
     <string name="draft_firedepartment02_text">Có bán kính lớn và nhiều xe. Hữu ích để ngăn ngừa hoặc dập tắt đám cháy.</string>
     <string name="draft_prmgocart00_title">Đường đua</string>
     <string name="draft_prmgocart00_text">Sẽ tạo ra những chiếc xe đua trên đường.</string>
     <string name="settings_smoothscrolling">Di chuyển mượt mà</string>
     <string name="settings_buildingtoolold">Công cụ xây dựng cũ</string>
-    <string name="settings_roadautojoin">Tự động gắn liền đường</string>
+    <string name="settings_roadautojoin">Tự động nối đường</string>
 
     <string name="tut_start00">Thật là một nơi tuyệt đẹp đúng không?</string>
     <string name="tut_start01">Được rồi, chúng ta hãy xây một thành phố lớn nào.</string>
@@ -1536,7 +1536,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
 
     <string name="dialog_adreward_title">Xem quảng cáo có thưởng</string>
     <string name="dialog_adreward_text">Bạn có muốn nhận thưởng cho mỗi lần xem quảng cáo?</string>
-    <string name="dialog_adreward_cmdwatch">Nhận nó ngay</string>
+    <string name="dialog_adreward_cmdwatch">Nhận ngay</string>
     <string name="draftselector_titlelandmark">Địa danh</string>
     <string name="draft_bigben00_title">Big Ben</string>
     <string name="draft_bigben00_text">Big Ben là một tháp chuông ở London cao 96m và được xây dựng vào năm 1859.</string>
@@ -1987,7 +1987,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="influence_body_disposal_title">Nghĩa trang</string>
     <string name="influence_body_disposal_text">Yên nghỉ nhé</string>
     <string name="influence_traffic_title">Giao thông (Ảnh hưởng)</string>
-    <string name="influence_traffic_text">Người dân không thích tiếng ồn và khói bụi từ xe cộ trên đường</string>
+    <string name="influence_traffic_text">Người dân không thích tiếng ồn và khói bụi từ phương tiện trên đường</string>
     <string name="ci_neighbor_wastedisposal">Dịch vụ vệ sinh môi trường</string>
     <string name="ci_neighbor_bodydisposal">Dịch vụ tang lễ</string>
     <string name="wastedisposal_transport">%1$,dL/d</string>
@@ -1995,10 +1995,10 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_cat_elevatedtrain00_title">Đường tàu trên cao</string>
     <string name="draft_cat_metro00_title">Metro</string>
     <string name="draft_cat_tree00_title">Cây</string>
-    <string name="draft_railroof00_title">Nóc</string>
-    <string name="draft_railroof00_text">Nóc.</string>
+    <string name="draft_railroof00_title">Mái</string>
+    <string name="draft_railroof00_text">Mái nhà ga xe lửa có thể được đặt trên đường ray trong nhà ga xe lửa.</string>
     <string name="draft_trainplatform00_title">Sân ga 1</string>
-    <string name="draft_trainplatform00_text">Sân ga.</string>
+    <string name="draft_trainplatform00_text">Một sân ga của nhà ga xe lửa.</string>
     <string name="draft_trainplatform01_title">Sân ga 2</string>
     <string name="draft_trainplatform02_title">Sân ga 3</string>
     <string name="draft_trainplatform03_title">Sân ga 4</string>
@@ -2007,7 +2007,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_trainplatform06_title">Sân ga 7</string>
     <string name="draft_trainplatform07_title">Sân ga 8</string>
     <string name="draft_trainstation00_title">Sân ga địa phương</string>
-    <string name="draft_trainstation00_text">Chỉ có tàu địa phương bắt đầu và dừng tại đây (spawn)</string>
+    <string name="draft_trainstation00_text">Chỉ có tàu địa phương khởi hành và kết thúc tại đây.</string>
     <string name="draft_trainstation01_title">Sân ga đường dài</string>
     <string name="draft_trainstation01_text">Dành cho tàu chạy đường dài</string>
     <string name="draft_train_freight_station00_title">Sân ga hàng 1</string>
@@ -2037,13 +2037,13 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_trainstation_prebuilt11_text">Để chất nhiều hàng hóa hơn</string>
 
 
-    <string name="channel_city_title">Tin Mới</string>
-    <string name="channel_city_text">Tin mới về thành phố của bạn.</string>
+    <string name="channel_city_title">Tin tức</string>
+    <string name="channel_city_text">Tin tức về thành phố của bạn.</string>
     <string name="settings_fullscreen">Chế độ toàn màn hình</string>
     <string name="control_help">Hỗ trợ</string>
     <string name="settings_scrolledges">Cuộn cạnh</string>
     <string name="dialog_rate_cmdlater">Để sau</string>
-    <string name="region_individualcities">Chơi thành phố đơn</string>
+    <string name="region_individualcities">Thành phố riêng lẻ</string>
     <string name="draft_redwood_tree00_title">Cây gỗ đỏ</string>
     <string name="draft_redwood_tree00_text">Cây gỗ đỏ từ California, Hoa Kỳ.</string>
     <string name="buildinginfo_daysbuilt">Đã xây tư %1$,d ngày trước</string>
@@ -2053,13 +2053,13 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="draft_tool_terrain_lower00_title">Hạ xuống</string>
     <string name="draft_tool_terrain_lower00_text">Hạ thấp địa hình xuống.</string>
     <string name="draft_tool_terrain_platform00_title">Bằng phẳng hóa</string>
-    <string name="draft_tool_terrain_platform00_text">San phẳng địa hình đến cùng một độ cao.</string>
+    <string name="draft_tool_terrain_platform00_text">San bằng địa hình đến cùng một độ cao.</string>
     <string name="draft_cat_hills00_title">Đồi</string>
     <string name="draft_feature_starter_pack01_title">Gói cho người mới chơi II</string>
     <string name="draft_budget_roadtoll00_title">Phí cầu đường</string>
     <string name="draft_tollbooth00_title">Trạm thu phí</string>
     <string name="draft_tollbooth00_text">Bạn có thể thu tiền từ nó nhưng người dân của bạn ghét nó.</string>
-    <string name="notification02_title">Cần làm</string>
+    <string name="notification02_title">Yêu cầu hành động</string>
     <string name="notification02_text">Ai đó phải tiếp tục phát triển %1$s!</string>
     <string name="notification03_title">Không bao giờ quên %1$s!</string>
     <string name="notification03_text">Quay lại đi ngài thị trưởng!</string>
@@ -2094,9 +2094,9 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
 
     <string name="shop_invitefriends">Nhận %d kim cương nhận cho mỗi người bạn mời chơi TheoTown</string>
     <string name="shop_invitetitle">Mời bạn bè</string>
-    <string name="shop_invitationtext">Này xem game này đi: \n%s</string>
-    <string name="gamemenu_gameid">id game: %s</string>
-    <string name="gamemenu_gameidcopied">sao chép id game</string>
+    <string name="shop_invitationtext">Này xem trò chơi này đi: \n%s</string>
+    <string name="gamemenu_gameid">ID trò chơi: %s</string>
+    <string name="gamemenu_gameidcopied">sao chép ID trò chơi</string>
     <string name="draft_cat_intersections00_title">Nút giao</string>
     <string name="draft_intersection00_title">Cầu vượt</string>
     <string name="draft_intersection00_text">Kết nối giữa đường bộ và cao tốc</string>
@@ -2167,7 +2167,7 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="stage_comment_login">Đăng nhập để bình luận</string>
     <string name="dialog_report_title">Báo cáo</string>
     <string name="dialog_report_text">Chọn lý do để báo cáo %1$s:</string>
-    <string name="dialog_report_appendix">Bạn có thể gửi thông tin khác để báo cáo@theotown.com</string>
+    <string name="dialog_report_appendix">Bạn có thể gửi thông tin khác tới report@theotown.com</string>
     <string name="dialog_reported_title">Xong</string>
     <string name="dialog_reported_text">Cảm ơn bạn vì đã báo cáo</string>
     <string name="dialog_report_cmd">Báo cáo</string>
@@ -2193,17 +2193,17 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="ci_rci_res">Dân cư</string>
     <string name="ci_rci_com">Thương mại</string>
     <string name="ci_rci_ind">Công nghiệp</string>
-    <string name="settings_supportdrawingintwomodetools">Hộ trợ chế độ 2 kéo hai chế độ</string>
+    <string name="settings_supportdrawingintwomodetools">Hỗ trợ thao tác kéo trong công cụ hai chế độ</string>
     <string name="settings_category_controls">Điều khiển</string>
     <string name="draft_cat_rci_parts00_title">Xây dựng thủ công</string>
 
 
-    <string name="settings_verticaltoolbuttons">Thực hiện di chuyển cho các công cụ theo chiều dọc</string>
+    <string name="settings_verticaltoolbuttons">Thao tác công cụ theo chiều dọc</string>
     <string name="toolaction_build">Xây</string>
     <string name="toolaction_joinroad">Nối đường</string>
-    <string name="toolaction_trafficlights">Sử dụng đèn giao thông </string>
+    <string name="toolaction_trafficlights">Sử dụng đèn giao thông</string>
     <string name="toolaction_bridge">Cầu</string>
-    <string name="toolaction_constantheight">Độ cao mặc định</string>
+    <string name="toolaction_constantheight">Độ cao không đổi</string>
     <string name="toolaction_modifyunder">Dưới</string>
     <string name="toolaction_levelup">Cao hơn</string>
     <string name="toolaction_leveldown">Thấp hơn</string>
@@ -2241,19 +2241,19 @@ Nếu bạn cho phép TheoTown truy cập vào bộ nhớ ngoài, nó sẽ lưu 
     <string name="weather_rainy">Mưa</string>
     <string name="weather_lighting">Bão sét</string>
     <string name="weather_auto">Dịch bệnh</string>
-    <string name="store_local_plugins">Gói mở rộng trong máy</string>
-    <string name="dialog_missingplugins_localpluginby">•%1$s bởi %2$s (Gói mở rộng trong máy)</string>
+    <string name="store_local_plugins">Plugin trong máy</string>
+    <string name="dialog_missingplugins_localpluginby">•%1$s bởi %2$s (Plugin trong máy)</string>
 
 
     <string name="dialog_storedisclaimer_title">Còn nữa...</string>
-    <string name="dialog_storedisclaimer_text">Chào mừng đến cửa hàng gói mở rộng! Ở đây, bạn có thể tìm thấy rất nhiều gói mở rộng cho TheoTown từ rất nhiều người chơi khác trên toàn thế giới.\n
+    <string name="dialog_storedisclaimer_text">Chào mừng đến cửa hàng plugin! Ở đây, bạn có thể tìm thấy rất nhiều plugin cho TheoTown từ rất nhiều người chơi khác trên toàn thế giới.\n
 \n
-Tôi khuyên bạn rằng nên đọc trước mô tả cẩn thận để biết rõ gói mở rộng đó sẽ làm gì trong TheoTown.</string>
+Tôi khuyên bạn rằng nên đọc phần mô tả cẩn thận để biết rõ plugin đó sẽ làm gì trước khi tải xuống.</string>
     <string name="dialog_accountdisclaimer_title">Tài khoản</string>
-    <string name="dialog_accountdisclaimer_text">Bạn có thể kết nối với trò chơi một hoặc nhiều tài khoản.\n
+    <string name="dialog_accountdisclaimer_text">Bạn có thể kết nối trò chơi với một hoặc nhiều tài khoản.\n
 \n
-Bởi việc kết nối trò chơi với tài khoản diễn đàn TheoTown, bạn được quyền bày tỏa ý kiến trong phần bình luận.</string>
-    <string name="ci_rci_help">Phần yêu cầu cho bạn thấy ba thể loại là dân cư, thương mại và công nghiệp. Mỗi phần sẽ có những cấp bậc giàu có khác nhau.</string>
+Việc kết nối trò chơi với tài khoản diễn đàn TheoTown cho phép bạn bày tỏ ý kiến trong phần bình luận.</string>
+    <string name="ci_rci_help">Phần nhu cầu phản ánh sự cần thiết của một số công trình nhất định. Có ba thể loại là: dân cư, thương mại và công nghiệp. Mỗi phần sẽ có những cấp bậc giàu có khác nhau.</string>
 
 
     <string name="draft_destroyed_tree00_title">Cây bị đốt</string>
@@ -2848,7 +2848,7 @@ Nhấn một phím để gán nó cho hành động này.</string>
     <string name="draft_dsa_moon_notify04_text">Như bạn có thể thấy, tôi đã chuyển 10 triệu theons để xây dựng một tiền đồn nhỏ.</string>
     <string name="draft_dsa_moon_notify05_text">Hãy chi tiêu số tiền này một cách khôn ngoan vì đây là cơ hội duy nhất của bạn.</string>
     <string name="draft_dsa_moon_notify06_text">Để có thêm nguồn thu nhập, bạn có thể thử khai thác các mỏ quặng đó.</string>
-    <string name="draft_dsa_moon_notify07_text">Dù sao thì, chúc may mắn, thị trưởng! Hãy nhớ rằng, bạn luôn có thể quay lại đây bằng cách tìm bản đồ trong danh sách thành phố đơn của bạn.</string>
+    <string name="draft_dsa_moon_notify07_text">Dù sao thì, chúc may mắn, thị trưởng! Hãy nhớ rằng, bạn luôn có thể quay lại đây bằng cách tìm bản đồ trong danh sách thành phố riêng lẻ của bạn.</string>
     <string name="draft_dsa_bear_lua_notify00_text">Một lời chúc sinh nhật to lớn từ tôi và cộng đồng! Tôi hy vọng bạn có một ngày tuyệt vời!</string>
     <string name="draft_dsa_lua_notify00_text">Trong chuyến thám hiểm không gian này, chúng tôi đã phát hiện ra một vật thể đủ lớn để hạ cánh.\nKết nối bạn với chỉ huy không gian...</string>
     <string name="draft_dsa_lua_notify01_text">Chuyến thám hiểm không gian này không mang lại điều gì thú vị.</string>
