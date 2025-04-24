@@ -1,4 +1,4 @@
-<resources>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">الإعدادات</string>
     <string name="loadcity_title">تحميل المدينة</string>
@@ -835,7 +835,7 @@
     <string name="disaster_ufo_cmdtext">تحديد الهدف</string>
     <string name="topic_theons">لدينا عملة جديدة: الثيون ₮</string>
     <string name="topic_wip">عمل قيد التنفيذ. لا تعبر الخط.</string>
-    <string name="topic_belong">مدنك أصبحت ملكًا لنا >:D</string>
+    <string name="topic_belong">مدنك أصبحت ملكًا لنا &gt;:D</string>
     <string name="topic_spoon">لا يوجد ملعقة</string>
     <string name="topic_love">كل ما تحتاجه هو الحب</string>
     <string name="topic_build">سأبني مدينتي مع ناطحات السحاب والحدائق</string>
@@ -1093,21 +1093,21 @@
     <string name="draft_feature_time02_text">يمكنك السيطرة على قوة رب الزمن! كن السيد المطلق لكل الأوقات بفضل السرعة غير المسبوقة والتحمل المذهل وفتح القدرات الفائقة السرعة وسيطر على مدينتك كما لم يحدث من قبل. يمكنك القيام بالترقية الآن واحتضن قدرك كحاكم الزمن!</string>
     <string name="draft_feature_weather_machine00_title">آلة الطقس</string>
     <string name="draft_feature_weather_machine00_text">يمكنك إطلاق العنان لقوة التحكم في الطقس مع مجموعة التحكم في الطقس السرية! بالإضافة لاستخدام أحدث التقنيات للتحكم في السماء والعناصر كصناعة العواصف، استدعاء الشمس، وجلب الثلج إلى مدينتك بلمسة زر. يمكنك القيام بالترقية الآن والتحكم في الطقس!</string>
-    
+
     <string name="draft_weather_machine00_title">آلة الطقس</string>
     <string name="draft_weather_machine00_text">تستخدم بعض التكنولوجيا السرية للغاية! يمكنك استخدامها للتحكم في الطقس.</string>
-    
+
     <string name="draft_mltry_fence01_title">سياج عسكري</string>
     <string name="draft_mltry_fence01_text">سياج عسكري لأغراض الزينة.</string>
-    
+
     <string name="store_title">TheoTown</string>
     <string name="store_shortdesc">يمكنك القيام ببناء مدينتك الخاصة في لعبة محاكاة المدينة هذه.</string>
     <string name="store_longdesc">يمكنك بناء مدينتك الخاصة في TheoTown ومشاهدة نمو مدينتك الخاصة. بالإضافة لإعلان حدود للمباني السكنية أو التجارية أو الصناعية وبناء الطرق لربطها. لنجعل مدينتك أكثر جاذبية من خلال بناء الحدائق والمدارس والعديد من المرافق الأخرى.
 
-إن لم يكن هناك مانع، يمكنك تزويد TheoTown بالوصول إلى وحدة التخزين الخارجية، فسيتم حفظ المدن في الدليل TheoTown/maps على جهازك حتى يمكنك الوصول إليها.</string>    
-    
+إن لم يكن هناك مانع، يمكنك تزويد TheoTown بالوصول إلى وحدة التخزين الخارجية، فسيتم حفظ المدن في الدليل TheoTown/maps على جهازك حتى يمكنك الوصول إليها.</string>
+
     <string name="settings_sound_weather">الطقس</string>
-    
+
     <string name="settings_energysavingplus">التوفير الفائق للطاقة </string>
     <string name="topic_designed">مصمم بواسطة البشر</string>
     <string name="draft_weather_machine00_fog00_title">آلة الضباب</string>
@@ -2579,7 +2579,7 @@ Press a key to assign it to this action.</string>
     <string name="settings_targetfps">Target FPS</string>
     <string name="settings_targetfps_auto">Auto</string>
     <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You are offline.</string>
+    <string name="dialog_nointernetaccess_text">You seem to be offline. Please check your internet connection and look out for updates.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
     <string name="store_modebestrated">Best rated</string>
     <string name="dialog_pluginqualityunsure_title">Be careful</string>
@@ -3403,5 +3403,37 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
     <string name="loadcity_scenario">Scenario: %s</string>
     <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+
+
+    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
+    <string name="dialog_configureregion_tags">Tags</string>
+    <string name="dialog_regionrules_tagscat">Tags</string>
+    <string name="dialog_regionrules_notags">- No tags applied -</string>
+    <string name="regionlist_cat_tags">Tags</string>
+    <string name="settings_highrescitypreview">Render high res city preview</string>
+    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
+    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
+    <string name="settings_road_snow_overlay">Road snow overlay</string>
+    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
+    <string name="dialog_scenarios_cmdopen">Scenarios</string>
+    <string name="dialog_scenarios_title">Scenarios</string>
+    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
+    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
+    <string name="dialog_scenarios_cmdreset">Reset</string>
+    <string name="dialog_scenarios_cmdremove">Remove</string>
+    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="dialog_scenarios_cmdinfo">Info</string>
+    <string name="dialog_scenarios_cmdplay">Play</string>
+    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_reset_title">Reset</string>
+    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
+    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
+    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
+    <string name="region_download_city">Download City</string>
+    <string name="region_download_region">Download Region</string>
+    <string name="toolaction_removelast">Remove last</string>
+    <string name="ci_transportation_title">Transportation</string>
+    <string name="settings_legacy_bus_system">Use legacy bus system</string>
+    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
 
 </resources>

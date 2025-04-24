@@ -1180,7 +1180,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
     <string name="draft_rnk_galaxy_small_title">Kleine Galaxie</string>
     <string name="draft_rnk_galaxy_medium_title">Galaxie</string>
     <string name="draft_rnk_galaxy_big_title">Große Galaxie</string>
-    <string name="draft_rnk_galaxy_large_title">Riesige Galaxy</string>
+    <string name="draft_rnk_galaxy_large_title">Riesige Galaxie</string>
     <string name="draft_rnk_galaxy_cluster_small_title">Kleiner Galaxienhaufen</string>
     <string name="draft_rnk_galaxy_cluster_medium_title">Galaxienhaufen</string>
     <string name="draft_rnk_galaxy_cluster_big_title">Großer Galaxienhaufen</string>
@@ -2639,7 +2639,7 @@ Drücke eine Taste um sie dieser Aktion zuzuordnen.</string>
     <string name="settings_targetfps">FPS Limit</string>
     <string name="settings_targetfps_auto">Automatisch</string>
     <string name="dialog_nointernetaccess_title">Keine Verbindung</string>
-    <string name="dialog_nointernetaccess_text">Du bist offline.</string>
+    <string name="dialog_nointernetaccess_text">Du bist offline. Stelle sicher, dass du mit dem Internet verbunden bist. Halte zudem Ausschau nach Updates.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Verstanden</string>
     <string name="store_modebestrated">Bestbewertet</string>
     <string name="dialog_pluginqualityunsure_title">Sei vorsichtig</string>
@@ -3293,5 +3293,37 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="draft_gol_dead_text_onmouseinput">Erstelle ein Game-of-Life-Feld. Klicke auf bestehende Felder, um ihren Zustand zu ändern. Der Standardzustand ist tot.</string>
     <string name="loadcity_scenario">Szenario: %s</string>
     <string name="trainstationinfo_total">Nutzung insgesamt: %1$,d</string>
+
+
+    <string name="draft_dsa_dyson_upgrade_req3_text">Benötigt: Hilf Gurken auf dem Mond</string>
+    <string name="dialog_configureregion_tags">Tags</string>
+    <string name="dialog_regionrules_tagscat">Tags</string>
+    <string name="dialog_regionrules_notags">- Keine Tags angewandt -</string>
+    <string name="regionlist_cat_tags">Tags</string>
+    <string name="settings_highrescitypreview">Verwende hochauflösende Stadtvorschau</string>
+    <string name="draft_native_snow_plow_depot00_title">Schneepflugdepot</string>
+    <string name="draft_native_snow_plow_depot00_text">Eine spezielle Einrichtung, die deine Straßen im Winter frei hält. Schickt Schneepflüge los, die Eis und Schnee von der Fahrbahn entfernen, um den ungehinderten Verkehftsfluss zu gewährleisten.</string>
+    <string name="settings_road_snow_overlay">Straßenschneebedeckung</string>
+    <string name="settings_ground_snow_overlay">Bodenscheebedeckung</string>
+    <string name="dialog_scenarios_cmdopen">Szenarios</string>
+    <string name="dialog_scenarios_title">Szenarios</string>
+    <string name="dialog_scenarios_generalinfo_title">Was sind Szenarios?</string>
+    <string name="dialog_scenarios_generalinfo_text">TheoTown Szenarios sind vorgebaute Städte zum Bespielen. Du spielst die Stadt unter Einschränkungen, wie beispeilsweise beschränkte Resources oder Plugineinschränkungen. Sobald das Szenario endent kannst du deine Stadt hochladen, um dich mit anderen zu messen.</string>
+    <string name="dialog_scenarios_cmdreset">Zurücksetzen</string>
+    <string name="dialog_scenarios_cmdremove">Löschen</string>
+    <string name="dialog_scenarios_cmdmove">Verschieben</string>
+    <string name="dialog_scenarios_cmdinfo">Info</string>
+    <string name="dialog_scenarios_cmdplay">Spielen</string>
+    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_reset_title">Zurücksetzen</string>
+    <string name="dialog_scenarios_reset_text">Bist du dir sicher, dass du deinen Fortschritt in diesem Szenario zurücksetzen möchtest? Du kannst die Stadt entweder zu deinen Individualstädten verschieben um sie weiter zu bespielen, oder aber ganz löschen.</string>
+    <string name="dialog_scenarios_empty">Es sind momentan keine Szenarios verfügbar.</string>
+    <string name="dialog_scenarios_notplayedyet">Noch nicht gespielt</string>
+    <string name="region_download_city">Stadt herunterladen City</string>
+    <string name="region_download_region">Region herunterladen</string>
+    <string name="toolaction_removelast">Letzte entfernen</string>
+    <string name="ci_transportation_title">Transport</string>
+    <string name="settings_legacy_bus_system">Verwendet altes Bussystem</string>
+    <string name="draft_tool_car_follower00_despawn">Fahrzeug verschwunden</string>
 
 </resources>
