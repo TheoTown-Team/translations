@@ -100,8 +100,8 @@
     <string name="draft_bigpark00_title">Parque grande</string>
     <string name="draft_bigpark00_text">Nossos habitantes vão adorar este parque.</string>
     <string name="draft_park03_text">Nossos habitantes vão amar.</string>
-    <string name="draft_medic00_title">Saúde</string>
-    <string name="draft_medic00_text">Aqui os nossos habitantes podem marcar alguma consulta.</string>
+    <string name="draft_medic00_title">Médico</string>
+    <string name="draft_medic00_text">Aqui os habitantes podem consultar um médico.</string>
     <string name="draft_medic01_title">Hospital</string>
     <string name="draft_medic01_text">Nossos habitantes sentem-se menos preocupados perto de um hospital.</string>
     <string name="draft_school00_title">Escola primária</string>
@@ -2352,15 +2352,15 @@ Ao conectar o jogo a uma conta do fórum do TheoTown, você pode participar das 
     <string name="ci_water_produced_short">Produzido: %1$,.0fL/h</string>
     <string name="dialog_regionstats_general">Geral</string>
     <string name="dialog_regionstats_cities">%1$d / %2$d cidades</string>
-    <string name="regionlist_cat_popular">Popular</string>
-    <string name="regionlist_cat_new">Novo</string>
-    <string name="regionlist_cat_free">Livre</string>
-    <string name="regionlist_cat_protected">Protegido</string>
+    <string name="regionlist_cat_popular">Populares</string>
+    <string name="regionlist_cat_new">Novas</string>
+    <string name="regionlist_cat_free">Gratuitas</string>
+    <string name="regionlist_cat_protected">Protegidas</string>
     <string name="regionlist_cat_usercities">Cidades próprias</string>
     <string name="regionlist_cat_userregions">Regiões próprias</string>
     <string name="store_cat_other">De outros</string>
     <string name="store_cat_road">Estrada</string>
-    <string name="store_cat_terrain">Terra</string>
+    <string name="store_cat_terrain">Terreno</string>
     <string name="store_cat_trees">Árvores</string>
     <string name="store_cat_transport">Transporte</string>
     <string name="store_cat_residential">Residencial</string>
@@ -2447,7 +2447,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
 
     <string name="shader_default2">Padrão</string>
 
-    <string name="dialog_regionnopermission_title">Sem pressa</string>
+    <string name="dialog_regionnopermission_title">Sem acesso</string>
     <string name="dialog_regionnopermission_text">O aplicativo não tem acesso a armazenamento externo para armazenar a região de forma segura. Conceda acesso ao armazenamento externo para gerar regiões.</string>
     <string name="ranger_cmdselecttrees">Selecione as árvores</string>
     <string name="draft_treeplantertool00_title">Semeador de árvores</string>
@@ -2462,7 +2462,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
 
     <string name="about_framework">Estrutura</string>
     <string name="control_undo">Desfazer</string>
-    <string name="control_redo">Fazer</string>
+    <string name="control_redo">Refazer</string>
     <string name="toolaction_zoneroad">Adicionar estradas</string>
     <string name="settings_fullscreen_resolution">Resolução de tela cheia</string>
     <string name="settings_tool_history">Funcionalidade de desfazer</string>
@@ -2511,7 +2511,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="stage_files_importherefiles">Arquivo(s)</string>
     <string name="stage_files_importherefolders">Pasta</string>
     <string name="draft_mosque10_title">Mesquita Hassan II</string>
-    <string name="draft_mosque10_text">A mesquita Hassan II é uma mesquita em Casablanca, Marrocos. É a maior mesquita em funcionamento na África e a sétima do mundo. Seu minarete é o segundo mais alto do mundo, com 210 metros de altura. Foi concluída em 1993 e foi projetada por Michel Pinseau sob a direção do rei Hassan II, e construída por artesãos marroquinos de todo o reino. O minarete tem 60 andares de altura e é coberto por um laser cuja luz é direcionada para Meca. A mesquita está em um promontório com vista para o Oceano Atlântico; Os fiéis podem orar sobre o mar, mas não há piso de vidro de frente para o mar. As paredes são feitas de mármore artesanal e o telhado é retrátil. Um máximo de 105.000 fiéis pode se reunir para orar: 25.000 dentro da sala da mesquita e outros 80.000 no terreno externo.</string>
+    <string name="draft_mosque10_text">A Mesquita Hassan II é uma mesquita em Casablanca, Marrocos. É a maior mesquita em funcionamento na África e a sétima do mundo. Seu minarete é o segundo mais alto do mundo, com 210 metros de altura. Foi concluída em 1993 e foi projetada por Michel Pinseau sob a direção do rei Hassan II, e construída por artesãos marroquinos de todo o reino. O minarete tem 60 andares de altura e é coberto por um laser cuja luz é direcionada para Meca. A mesquita está em um promontório com vista para o Oceano Atlântico; Os fiéis podem orar sobre o mar, mas não há piso de vidro de frente para o mar. As paredes são feitas de mármore artesanal e o telhado é retrátil. Um máximo de 105.000 fiéis pode se reunir para orar: 25.000 dentro da sala da mesquita e outros 80.000 no terreno externo.</string>
     <string name="dialog_filesrestart_title">Reiniciar</string>
     <string name="dialog_filesrestart_text">Você pode ter que reiniciar o jogo para que as mudanças entrem em vigor.\n\nVocê quer reiniciar o jogo agora?</string>
     <string name="dialog_filesrestart_cmdrestart">Reiniciar</string>
@@ -2520,7 +2520,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="loadcity_uberindicator">(uber)</string>
 
     <string name="draft_tunnel_management00_title">Autoridade rodoviária</string>
-    <string name="draft_tunnel_management00_text">Faz túneis sem diamantes, permite que os pedágios gerem mais renda e torne as estradas mais baratas em geral nesta cidade.</string>
+    <string name="draft_tunnel_management00_text">Faz túneis sem diamantes, permite que os pedágios gerem mais renda e torna as estradas mais baratas em geral nesta cidade.</string>
     <string name="draft_tunnel_management00_title_premium">Autoridade rodoviária</string>
     <string name="draft_tunnel_management00_text_premium">Permite que os pedágios gerem mais renda e tornem as estradas mais baratas em geral nesta cidade.</string>
     <string name="stage_account_whytoregister">Por que se registrar?</string>
@@ -2583,7 +2583,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_nointernetaccess_cmdgotit">Entendi</string>
     <string name="store_modebestrated">Melhor avaliado</string>
     <string name="dialog_pluginqualityunsure_title">Tenha cuidado</string>
-    <string name="dialog_pluginqualityunsure_text">O plugin que você está prestes a baixar ainda não recebeu muitos downloads ou classificações. Portanto, ele pode não corresponder exatamente às suas expectativas..</string>
+    <string name="dialog_pluginqualityunsure_text">O plugin que você está prestes a baixar ainda não recebeu muitos downloads ou avaliações. Portanto, ele pode não corresponder exatamente às suas expectativas.</string>
     <string name="dialog_pluginqualityunsure_gotit">Entendi</string>
     <string name="dialog_pluginqualityunsure_dontshowagain">Não mostrar novamente</string>
     <string name="store_modecertifiedcreators">Criadores certificados</string>
@@ -2643,11 +2643,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_feature_dsa00_text">Essa integração adiciona melhores sistemas de abastecimento, alguns carros de serviço novos, uma nova estrada que é mais rápida e mais barata, um novo desastre, sinalizadores de DSA, novos edifícios, muitos eventos, uma dimensão espacial para explorar, novos métodos para ganhar dinheiro e muito mais.</string>
     <string name="draft_dsa_category00_title">Agência</string>
     <string name="draft_dsa_space_category00_title">Base espacial</string>
-    <string name="draft_dsadevcat_title">DSA Debug</string>
+    <string name="draft_dsadevcat_title">Depuração da DSA</string>
     <string name="draft_dsa_zone_title">Zona DSA</string>
     <string name="draft_dsa_zone_text">Zona para declarar o território da DSA na cidade.</string>
-    <string name="draft_dsaroad_title">Estrada rápida</string>
-    <string name="draft_dsaroad_text">Mais rápida do que a estrada normal projetada pela DSA.</string>
+    <string name="draft_dsaroad_title">Via expressa</string>
+    <string name="draft_dsaroad_text">Mais rápida do que a estrada normal, projetada pela DSA.</string>
     <string name="draft_dsa_ultra_road00_title">Estrada DSA MK3.2</string>
     <string name="draft_dsa_ultra_road00_text">Estrada incrivelmente rápida projetada pela DSA.</string>
     <string name="draft_dsahq_title">Sede da DSA</string>
@@ -2655,7 +2655,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsahqupHW_title">Estabelecer DSE</string>
     <string name="draft_dsahqupHW_text">Estabelece o Departamento de Serviços de Emergência da DSA, que aumenta a segurança pública com o envio de equipes especiais.</string>
     <string name="draft_dsahqupAR_title">Estabelecer DP</string>
-    <string name="draft_dsahqupAR_text">Estabelece o Departamento de Pesquisa da DSA que supervisiona os centros de pesquisa e bases na área.</string>
+    <string name="draft_dsahqupAR_text">Estabelece o Departamento de Pesquisa da DSA que supervisiona centros e bases de pesquisa na área.</string>
     <string name="draft_dsahqupMS_title">Estabelecer DAR</string>
     <string name="draft_dsahqupMS_text">Estabelece o Departamento de Administração de Recursos da DSA, que gerencia a coleta de recursos na área.</string>
     <string name="draft_dsa_outpost00_title">Escritório DSA</string>
@@ -2672,14 +2672,14 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsaresearch_title">Centro de Pesquisa</string>
     <string name="draft_dsaresearch_text">O lar de todas as tecnologias avançadas da DSA aprovadas pelo conselho executivo da DSA.</string>
     <string name="draft_dsa_research00_title">Suprimentos avançados</string>
-    <string name="draft_dsa_research00_text">Pesquisa novos sistemas experimentais de abastecimento avançado.</string>
+    <string name="draft_dsa_research00_text">Pesquisa novos sistemas experimentais de suprimentos avançados.</string>
     <string name="draft_dsa_research01_title">Contenção</string>
-    <string name="draft_dsa_research01_text">Pesquisa maneiras de conter organismos e partículas.</string>
+    <string name="draft_dsa_research01_text">Pesquisa formas de conter organismos e partículas.</string>
     <string name="draft_dsa_research02_title">Foguetes avançados</string>
     <string name="draft_dsa_research02_text">Pesquisa uma nova tecnologia de foguetes para explorar e colonizar outros corpos espaciais no universo.</string>
-    <string name="draft_dsa_research03_title">Tecnologias futuristas</string>
-    <string name="draft_dsa_research03_text">Pesquisa tecnologias que dobram a mente e a física.</string>
-    <string name="draft_dsaclockstore_title">Loja de relógios discreta</string>
+    <string name="draft_dsa_research03_title">Tecnologias futurísticas</string>
+    <string name="draft_dsa_research03_text">Pesquisa tecnologias que desafiam a mente e a física.</string>
+    <string name="draft_dsaclockstore_title">Loja discreta de relógios</string>
     <string name="draft_dsaclockstore_text">Um lugar totalmente discreto para comprar seus relógios.</string>
     <string name="draft_dsa_deco00_title">Decoração DSA</string>
     <string name="draft_dsa_deco00_text">Uma decoração para sua base da DSA.</string>
@@ -2696,10 +2696,10 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_text">Atualiza a estação para reunir recursos sem interferir no meio ambiente.\n\nSomente uma atualização é permitida ao mesmo tempo. As atualizações antigas serão removidas.</string>
     <string name="draft_dsahouse00_title">Casa do CEO</string>
     <string name="draft_dsahouse00_text">O CEO da DSA reside aqui e garante que a DSA faça seu trabalho.</string>
-    <string name="draft_dsahouse01_title">Mansão de JustAnyone</string>
-    <string name="draft_dsahouse01_text">Uma mansão do próprio líder do DSA.</string>
+    <string name="draft_dsahouse01_title">Mansão do JustAnyone</string>
+    <string name="draft_dsahouse01_text">Uma mansão do próprio líder da DSA.</string>
     <string name="draft_dsa_ja_mansion_template00_title">Queijo</string>
-    <string name="draft_dsa_ja_mansion_template00_text">O queijo de classe mundial feito pelo CEO da DSA.</string>
+    <string name="draft_dsa_ja_mansion_template00_text">O queijo de classe mundial feito para o CEO da DSA.</string>
     <string name="draft_ICBMarm_title">Armar „X-treme“</string>
     <string name="draft_ICBMarm_text">Pressione para armar este míssil balístico intercontinental.</string>
     <string name="draft_dsa_icbm_req_text">Requer o ICBM armado</string>
@@ -2713,14 +2713,14 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsaSR_requirement">Requer: Pesquisa de Suprimentos avançados</string>
     <string name="draft_dsaCR_requirement">Requer: Pesquisa de Contenção</string>
     <string name="draft_dsaARR_requirement">Requer: Pesquisa de Foguetes avançados</string>
-    <string name="draft_dsaFTR_requirement">Requer: Pesquisa de Tecnologias futuristas</string>
-    <string name="draft_dsarocketnotready_requirement">O foguete ainda não está totalmente fornecido</string>
+    <string name="draft_dsaFTR_requirement">Requer: Pesquisa de Tecnologia futurística</string>
+    <string name="draft_dsarocketnotready_requirement">O foguete ainda não está totalmente abastecido</string>
     <string name="draft_dsarocketready_requirement">O foguete está pronto para o lançamento</string>
     <string name="draft_dsarockettestundone_requirement">Os testes anteriores estão incompletos</string>
-    <string name="draft_dsarockettestdone_requirement">Os testes anteriores estão feitos</string>
+    <string name="draft_dsarockettestdone_requirement">Os testes anteriores estão concluídos</string>
     <string name="draft_dsarocketfinalundone_requirement">Os testes estão incompletos</string>
-    <string name="draft_dsarocketfinaldone_requirement">Os testes de foguetes estão feitos</string>
-    <string name="draft_rocket_akial_requirement">Requer: Teste de transporte animal</string>
+    <string name="draft_dsarocketfinaldone_requirement">Os testes do foguete estão concluídos</string>
+    <string name="draft_rocket_akial_requirement">Requer: Teste de transporte de animais</string>
     <string name="draft_dsaHELIUM_requirement">Requer: Hélio 3 encontrado no espaço</string>
     <string name="draft_dsaDYSON_requirement">Requer: Esfera de Dyson construída no espaço</string>
     <string name="draft_dsaLORE10_requirement">Ajude o picles gigante na lua</string>
@@ -2762,8 +2762,8 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_moon_zone_title">Zona habitável</string>
     <string name="draft_dsa_moon_zone_text">Defina uma zona habitável para os habitantes de sua colônia.</string>
     <string name="draft_dsa_moon_zone_req1_text">Não há comida suficiente no armazenamento</string>
-    <string name="draft_picklebparty00_title">Bolo em conserva</string>
-    <string name="draft_picklebparty00_text">Um bolo de pepino em uma jarra de picles. Não dê ouvidos se disser algo.</string>
+    <string name="draft_picklebparty00_title">Bolo de picles</string>
+    <string name="draft_picklebparty00_text">Um bolo de pepino em um pote de picles. Não dê ouvidos se disser algo.</string>
     <string name="draft_dsarocket_title">Estação de lançamento</string>
     <string name="draft_dsarocket_text">O local de onde a DSA lança seus foguetes.\nRequer acesso rodoviário à indústria para suprimentos.</string>
     <string name="draft_dsarocket_upg1_title">Teste de foguete</string>
@@ -2812,11 +2812,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_detect_op00_text">Não foi muito dinheiro, mas tudo bem.</string>
     <string name="draft_moon_auto_deco00_title">Estrutura desconhecida</string>
     <string name="draft_moon_auto_deco00_text">Uma estrutura estranha com uso desconhecido.</string>
-    <string name="draft_moon_dsa_rocks00_title">Pedras brilhantes</string>
+    <string name="draft_moon_dsa_rocks00_title">Rochas brilhantes</string>
     <string name="draft_moon_dsa_rocks00_text">Pode ter alguns metais preciosos dentro.</string>
-    <string name="draft_space_shuttle_ja_title">Lander</string>
+    <string name="draft_space_shuttle_ja_title">Pousador</string>
     <string name="draft_space_shuttle_ja_text">Um veículo usado para pousar em outros corpos espaciais.</string>
-    <string name="draft_ja_picklehuge01_title">Senhor dos Picles</string>
+    <string name="draft_ja_picklehuge01_title">Senhor dos picles</string>
     <string name="draft_ja_picklehuge01_text">Parece ser o senhor supremo dos picles encontrados nesta região.</string>
     <string name="draft_ja_tinypickle00_title">Picles</string>
     <string name="draft_ja_tinypickle00_text">Parece uma forma de vida inteligente.</string>
@@ -2825,12 +2825,12 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_time_machine00_title">Máquina do tempo</string>
     <string name="draft_dsa_time_machine00_text">CONFIDENCIAL</string>
     <string name="draft_dsa_moon_command00_title">Comando espacial</string>
-    <string name="draft_dsa_moon_command00_text">Edifício ao comandando de todas as operações locais e espaciais nas proximidades.</string>
+    <string name="draft_dsa_moon_command00_text">Edifício que comanda todas as operações locais e espaciais nas proximidades.</string>
     <string name="draft_dsacomingsoon_text">EM BREVE</string>
     <string name="draft_dsa_moon_spaceport_title">Espaçoporto</string>
     <string name="draft_dsa_moon_spaceport_text">Edifício utilizado para facilitar o transporte de mercadorias, materiais ou pessoas no espaço.</string>
     <string name="draft_dsa_moon_sport00_title">Academia</string>
-    <string name="draft_dsa_moon_sport00_text">Um lugar para os colonos permanecerem em forma e saudáveis.</string>
+    <string name="draft_dsa_moon_sport00_text">Um lugar para os colonos se manterem em forma e saudáveis.</string>
     <string name="draft_dsa_moon_faith00_title">Casa santa</string>
     <string name="draft_dsa_moon_faith00_text">Edifício para a fé e religião do colono.</string>
     <string name="draft_moon_recycle00_title">Estação de reciclagem</string>
@@ -2838,7 +2838,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_moon_pipe00_title">Encanamento</string>
     <string name="draft_moon_pipe00_text">Canos usados para transferir água para sua base local.</string>
     <string name="draft_moon_water00_title">Estação de água</string>
-    <string name="draft_moon_water00_text">Faz água de fluidos corporais de colonos ou síntese.</string>
+    <string name="draft_moon_water00_text">Faz água a partir fluidos corporais de colonos ou síntese.</string>
     <string name="draft_moon_energy00_title">Painéis solares</string>
     <string name="draft_moon_energy00_text">Converte energia solar em energia para iluminar sua base.</string>
     <string name="draft_moon_wire00_title">Linhas elétricas</string>
@@ -2854,19 +2854,20 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsa_helium3_upgrade_req_text">Requer: Mineração de hélio 3</string>
     <string name="draft_dsa_helium3_upgrade_req1_text">Já exportado</string>
     <string name="draft_dsa_dyson_upgrade_title">Esfera de Dyson</string>
-    <string name="draft_dsa_dyson_upgrade_text">Constrói uma megaestrutura em torno de uma estrela a qual captura uma grande porcentagem da produção de energia da estrela.\nA Antena de Micro-ondas será necessária para receber energia.</string>
+    <string name="draft_dsa_dyson_upgrade_text">Construa uma megaestrutura em torno de uma estrela a qual captura uma grande porcentagem da produção de energia da estrela.\nA Antena de Micro-ondas será necessária para receber energia.</string>
     <string name="draft_dsa_dyson_upgrade_req1_text">Já construído</string>
     <string name="draft_dsa_dyson_upgrade_req2_text">Requer: ${dyson_progress}/5000 Poccolonum</string>
-    <string name="draft_dsa_moon_drillingstation01_text">Construindo para coletar e refinar Hélio 3.</string>
-    <string name="draft_dsa_moon_drillingstation02_text">Construindo para coletar e refinar Genericum.</string>
-    <string name="draft_dsa_moon_drillingstation03_text">Construindo para coletar e refinar Poccolonum.</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">Requer: Ajude os Picles na Lua</string>
+    <string name="draft_dsa_moon_drillingstation01_text">Edifício para coleta e refino de Hélio 3.</string>
+    <string name="draft_dsa_moon_drillingstation02_text">Edifício para coleta e refino de Genericum.</string>
+    <string name="draft_dsa_moon_drillingstation03_text">Edifício para coleta e refino de Poccolonum.</string>
     <string name="draft_pidroid_remote_template00_title">Controle remoto de Pidroid</string>
     <string name="draft_pidroid_remote_template00_text">Controle remoto usado para controlar o Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_text">Constrói um controle remoto para controlar o Pidroid.</string>
+    <string name="draft_tool_pidroid_remote00_text">Construa um controle remoto para controlar o Pidroid.</string>
     <string name="draft_tool_pidroid_remote00_cmd">Controle-o!</string>
     <string name="draft_pidroid00_title">Pidroid</string>
     <string name="draft_pidroid00_text">Um dos robôs mais inteligentes e avançados já feitos que funciona com energia nuclear.\n\nNOTA: Devido a questões de segurança, a IA foi removida deste modelo.</string>
-    <string name="draft_picklebparty00_text00_text">Picles, feliz aniversário!</string>
+    <string name="draft_picklebparty00_text00_text">Feliz aniversário, Picles!</string>
     <string name="draft_picklebparty00_text01_text">Os picles envelhecem como vinho</string>
     <string name="draft_picklebparty00_text02_text">Você nunca está velho para um picles</string>
     <string name="draft_picklebparty00_text03_text">Parabéns, agora coma seu bolo com sabor</string>
@@ -2935,18 +2936,18 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_space_storyline_ending_03">Quando estiver pronto, inicie o lançamento.</string>
     <string name="draft_space_storyline_ending_04">Adeus, amigos!</string>
     <string name="draft_space_storyline_ending_cutscene">O foguete decola</string>
-
     <string name="draft_space_storyline_stage_4_06">Oh, você não tem nada disponível? Deixe-me fazer um truque de mágica...</string>
-    <string name="draft_tollbooth00_passedbycars">Ultrapassado por carros: </string>
+
+    <string name="draft_tollbooth00_passedbycars">Carros que passaram: </string>
     <string name="draft_tollbooth00_chargedmoney">Dinheiro cobrado: </string>
     <string name="draft_tollbooth00_setup">Aqui você pode definir o valor do pedágio.</string>
     <string name="draft_cat_monorail00_title">Monotrilho</string>
     <string name="draft_tool_car_follower00_novehicle">Não há carros que possa dirigir disponíveis.</string>
-    <string name="forum_cmddelete">Conta deletada</string>
-    <string name="settings_modifymouse">Modifique o cursor</string>
+    <string name="forum_cmddelete">Excluir conta</string>
+    <string name="settings_modifymouse">Modificar cursor</string>
     <string name="settings_cursorstyle">Estilo do cursor</string>
     <string name="settings_cursorstyle_default">Padrão</string>
-    <string name="settings_cursorstyle_dark">Preto</string>
+    <string name="settings_cursorstyle_dark">Escuro</string>
     <string name="settings_cursorstyle_blue">Azul</string>
     <string name="settings_cursorstyle_gold">Dourado</string>
     <string name="shop_restore">Restaurar compras anteriores</string>
@@ -2959,11 +2960,11 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="dialog_biomes_title">Biomas</string>
     <string name="dialog_biomes_cmdselectall">Todos</string>
     <string name="dialog_biomes_cmdunselectall">Nenhum</string>
-    <string name="settings_ground_blending">Misturador de solo</string>
+    <string name="settings_ground_blending">Mistura de solo</string>
     <string name="draft_biome_aspen_forest00_title">Floresta de álamos</string>
     <string name="draft_biome_deciduous_forest00_title">Floresta decídua</string>
     <string name="draft_biome_coniferous_forest00_title">Floresta de coníferas</string>
-    <string name="draft_biome_mixed_forest00_title">Floresta misturada</string>
+    <string name="draft_biome_mixed_forest00_title">Floresta mista</string>
     <string name="draft_biome_boreal_forest00_title">Floresta boreal</string>
     <string name="draft_biome_redwood_forest00_title">Floresta de sequoias</string>
     <string name="draft_biome_desert00_title">Deserto</string>
@@ -2974,27 +2975,27 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_biome_steppe00_title">Estepe</string>
     <string name="draft_biome_flowerygrassland00_title">Pradaria florida</string>
     <string name="draft_biome_sakura00_title">Cerejeiras</string>
-    <string name="draft_biome_cursedland00_title">Terra arrasada</string>
+    <string name="draft_biome_cursedland00_title">Terra amaldiçoada</string>
     <string name="draft_ground_asphalt00_title">Asfalto</string>
     <string name="draft_ground_asphalt00_text">Superfície perfeita para carros e outros veículos iguas.</string>
     <string name="draft_ground_concrete00_title">Concreto</string>
     <string name="draft_ground_concrete00_text">Uma saudável dose de concretude.</string>
     <string name="draft_ground_sandstone00_title">Arenito</string>
-    <string name="draft_ground_sandstone00_text">Um arenito ensolarado bloqueia a superfice.</string>
+    <string name="draft_ground_sandstone00_text">Superfície de bloco de arenito ensolarado.</string>
     <string name="draft_ground_dirt00_title">Terra</string>
-    <string name="draft_ground_dirt00_text">Terra extra na base do solo.</string>
-    <string name="draft_ground_wildgrass00_title">Grama alta</string>
-    <string name="draft_ground_wildgrass00_text">O sol secou a grama alta. Perfeito para vastas planícies ou pradarias.</string>
-    <string name="draft_ground_darkgrass00_title">Grama preta</string>
-    <string name="draft_ground_darkgrass00_text">Grama escura dos bosques profundos.</string>
-    <string name="draft_ground_rockysand00_title">Areia pedregosa</string>
-    <string name="draft_ground_rockysand00_text">Areia grosseira misturada com pequenas pedras.</string>
+    <string name="draft_ground_dirt00_text">Solo base extra sujo.</string>
+    <string name="draft_ground_wildgrass00_title">Grama selvagem</string>
+    <string name="draft_ground_wildgrass00_text">Grama selvagem seca ao sol. Perfeito para vastas planícies ou pastagens.</string>
+    <string name="draft_ground_darkgrass00_title">Grama escura</string>
+    <string name="draft_ground_darkgrass00_text">Grama sombreada das profundezas da floresta.</string>
+    <string name="draft_ground_rockysand00_title">Areia rochosa</string>
+    <string name="draft_ground_rockysand00_text">Areia grossa misturada com pequenas rochas.</string>
     <string name="draft_ground_forestgrass00_title">Grama da floresta</string>
-    <string name="draft_ground_forestgrass00_text">Grama húmida e verdejante. Perfeira para florestas densas.</string>
-    <string name="draft_ground_cursedland00_title">Solo infertil</string>
-    <string name="draft_ground_cursedland00_text">Nós estamos dizendo, aquilo vive aqui.</string>
-    <string name="draft_tree_linden00_title">Tilia</string>
-    <string name="draft_tree_linden00_text">Uma espécie de árvore decídua, comumente usada para ornamentos.</string>
+    <string name="draft_ground_forestgrass00_text">Grama úmida e exuberante. Perfeita para florestas selvagens.</string>
+    <string name="draft_ground_cursedland00_title">Terra amaldiçoada</string>
+    <string name="draft_ground_cursedland00_text">Disseram-nos que \'A Coisa\' vive aqui.</string>
+    <string name="draft_tree_linden00_title">Tília</string>
+    <string name="draft_tree_linden00_text">Uma espécie de árvore decídua comumente usada para fins ornamentais.</string>
     <string name="draft_tree_aspen00_title">Álamo</string>
     <string name="draft_tree_aspen00_text">Árvore alta de folhas laranja que em maioria habita climas frios.</string>
     <string name="draft_tree_fir00_title">Abedo</string>
@@ -3011,7 +3012,7 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dirt_track_00_text">Compactada estrada de terra. Barata, mas lenta para se mover nela. Boa para áreas rurais.</string>
     <string name="draft_lookout_tower00_title">Torre de observação</string>
     <string name="draft_lookout_tower00_text"> Obeserve! Uma torre de observação de madeira que por exemplo, pode ser usda para encontrar focos de incêndio.</string>
-    <string name="draft_boulders00_title">Seixos</string>
+    <string name="draft_boulders00_title">Pedregulhos</string>
     <string name="draft_boulders00_text">Grande formação rochosa de formato arredondado.</string>
     <string name="draft_highway_sign00_title">Sinal de estrada</string>
     <string name="draft_highway_sign00_text">Dirija com estilo usando sinais de estrada nas ruas da sua cidade.</string>
@@ -3019,16 +3020,16 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_road05_ramp00_text">Conecte estradas com ruas rebaixadas ou crie e elabore interjeições com essa estrada de mão única.</string>
     <string name="settings_units">Unidades</string>
     <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Métrico (e.g. km)</string>
-    <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Alta cerca de madeira</string>
-    <string name="draft_fence_tallwooden00_text">Para manter intrusos longe.</string>
-    <string name="draft_fence_chainlink00_title">Cerca de arame</string>
-    <string name="draft_fence_chainlink00_text">Alta cerca feita de malhas de metal.</string>
-    <string name="draft_fence_metalrailing00_title">Guarda-corpo de metal</string>
-    <string name="draft_fence_metalrailing00_text">Um curto, escuro guarda-corpo para proteger os pedestres.</string>
-    <string name="draft_fence_guardrail00_title">Trilho de guia</string>
-    <string name="draft_fence_guardrail00_text">Mantém você mesmo seguro com estas barreiras metálicas de trânsito.</string>
+    <string name="settings_units_metric">Métrica (ex: km)</string>
+    <string name="settings_units_imperial">Imperial (ex: mi)</string>
+    <string name="draft_fence_tallwooden00_title">Cerca de madeira alta</string>
+    <string name="draft_fence_tallwooden00_text">Para manter os intrusos afastados.</string>
+    <string name="draft_fence_chainlink00_title">Cerca de tela metálica</string>
+    <string name="draft_fence_chainlink00_text">Cerca alta feita de malha de metal.</string>
+    <string name="draft_fence_metalrailing00_title">Grade de metal</string>
+    <string name="draft_fence_metalrailing00_text">Uma grade preta curta para proteger os pedestres.</string>
+    <string name="draft_fence_guardrail00_title">Guardrail</string>
+    <string name="draft_fence_guardrail00_text">Mantenha-se seguro com essas barreiras de tráfego metálicas.</string>
 
 
     <string name="draft_dsarocket_launchbutton">Lançar</string>
@@ -3039,363 +3040,248 @@ Pressione uma tecla para atribuí-la a esta ação.</string>
     <string name="draft_dsarocket_test_text">Lance um foguete experimental para o espaço para obter informações e preparar para outros lançamentos e operações.</string>
     <string name="draft_dsarocket_animal_text">Lance um foguete com um animal dentro chamado Akial para o espaço para obter informações vitais.</string>
     <string name="draft_dsarocket_navigation_text">Lance um foguete com um homem no espaço para conduzir testes de navegação.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
-    <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
+    <string name="draft_dsarocket_exploration_text">Lance um foguete para a missão de exploração para encontrar um local adequado para colonização.</string>
+    <string name="draft_dsarocket_sdi_text">Lance uma série de foguetes ao espaço para montar a iniciativa de defesa espacial.</string>
+    <string name="draft_dsarocket_deprecated_text">A plataforma de lançamento foi atualizada, você precisará destruir esta e construir a nova.</string>
+    <string name="stage_createcity_terrain">Terreno...</string>
+    <string name="dialog_terrain_title">Terreno</string>
+    <string name="dialog_missingmanifest_title">Arquivos de Manifesto de Plugin Ausentes</string>
+    <string name="dialog_missingmanifest_text">Os seguintes plugins não definem um arquivo de manifesto de plugin (plugin.manifest). Isso pode causar problemas com outros plugins e modo online. A compatibilidade futura não pode ser garantida:</string>
+    <string name="dialog_missingmanifest_cmdhelp">O que é isso?</string>
+    <string name="createcity_rivers">Rios</string>
+    <string name="createcity_roughness">Rugosidade</string>
+    <string name="createcity_roughness_flat">Plano</string>
+    <string name="createcity_roughness_less">Menor</string>
+    <string name="createcity_roughness_default">Padrão</string>
+    <string name="createcity_roughness_more">Maior</string>
+    <string name="createcity_roughness_extreme">Extremo</string>
+    <string name="buildingicon_illness">As pessoas neste prédio estão doentes. Você deve enviar um médico.</string>
+    <string name="buildingicon_noroad">Este prédio não está conectado a uma estrada adequada.</string>
+    <string name="buildingicon_noenergy">Este prédio não recebe energia suficiente.</string>
+    <string name="buildingicon_nowater">Este prédio não recebe água suficiente.</string>
+    <string name="buildingicon_overloaded">Este prédio está sobrecarregado. Forneça mais capacidade.</string>
+    <string name="buildingicon_unhappy">As pessoas neste prédio estão infelizes.</string>
+    <string name="buildingicon_waste">Há lixo não coletado neste prédio.</string>
+    <string name="buildingicon_wasteoverloaded">Este aterro está cheio.</string>
+    <string name="buildingicon_deadbodies">Há cadáveres não coletados neste prédio.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Este cemitério está cheio.</string>
+    <string name="buildingicon_crimegraffiti">Alguém fez grafite ilegal aqui.</string>
+    <string name="buildingicon_crimeburglary">Alguém arrombou este local.</string>
+    <string name="buildingicon_crimemurder">Alguém foi assassinado aqui.</string>
+    <string name="buildingicon_crimeriot">As pessoas aqui estão se revoltando.</string>
+    <string name="dialog_scriptpolicy_title">Políticas de Scripts de Plugin</string>
+    <string name="dialog_scriptpolicy_help_title">Scripts de Plugin podem ser arriscados</string>
+    <string name="dialog_scriptpolicy_help_text">VOCÊ tem o poder de aprovar a execução de scripts para plugins externos. Apenas autorize scripts de fontes em que você confia (por exemplo, você mesmo, caso esteja trabalhando em um plugin).\n
 \n
-If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
+Em caso de dúvida, NÃO habilite a execução de scripts sem inspecionar o código você mesmo.\n
 \n
-Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
+Plugins que precisam da execução de scripts para funcionar podem não operar corretamente se essa opção estiver desativada. Você precisa reiniciar o jogo para que as alterações tenham efeito.</string>
+    <string name="settings_openscriptpolicy">Políticas de Scripts de Plugin</string>
+    <string name="stage_files_itemcount">%d item(ns)</string>
+    <string name="tips_title">Dicas</string>
+    <string name="tips_cmd_random">Outra dica</string>
     <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
-    </string>
+A cultura é fornecida por alguns marcos, prêmios e plugins!</string>
     <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
-    </string>
+A maioria dos marcos menores até a Torre Eiffel produz influência cultural, assim como prêmios com significado cultural no mundo real. Mais plugins que fornecem cultura podem ser baixados através da loja de plugins e do fórum.</string>
     <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
-    </string>
+Se os prédios pegam fogo com muita frequência, coloque um corpo de bombeiros por perto!</string>
     <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
-    </string>
+Se os prédios pegam fogo com muita frequência, isso indica que a influência do corpo de bombeiros não os cobre. Prédios residenciais, comerciais e industriais precisam de uma cobertura do corpo de bombeiros, então cuide para cobrir todo o mapa com essa influência. Isso ajudará a evitar incêndios no futuro.</string>
     <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
-    </string>
+Mantenha as áreas residenciais longe da poluição</string>
     <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
-    </string>
+Os moradores não gostam de poluição. Se estiverem reclamando de muita poluição, investigue a fonte. O prédio que gera poluição pode ser identificado ao usar a ferramenta de visão e selecionar a poluição ou procurando edifícios com círculos vermelhos ao redor deles. Mova o prédio causador da poluição ou demola-o em favor de uma opção mais ecológica.</string>
     <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
-    </string>
+Você pode reduzir a poluição cercando-a com árvores</string>
     <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
-    </string>
+Os edifícios residenciais não gostam de poluição. Para evitar o trabalho de mover edifícios, especialmente em cidades bem planejadas, você pode usar árvores. Árvores combatem a poluição. Colocar mais árvores reduzirá ainda mais a poluição. Essa também costuma ser a opção mais econômica, já que as árvores são bem baratas. A quantidade de árvores a ser plantada depende do nível de poluição e da força de influência das árvores.</string>
     <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
-    </string>
+Use ruas de mão única e interseções para reduzir o trânsito</string>
     <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
-    </string>
+Frequentemente, lugares como rodovias e áreas industriais podem ficar congestionados com trânsito. É necessária uma rede viária adequada para resolver isso. Ruas de mão única e interseções podem ajudar. Existem interseções pré-construídas no jogo e em plugins. Você também pode criar suas próprias usando intercâmbios da vida real como exemplo. Isso permitirá um melhor fluxo de tráfego, reduzindo o congestionamento na sua cidade.</string>
     <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
-    </string>
+Você pode ajustar o volume de tráfego nas configurações para reduzi-lo</string>
     <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
+Para ajustar o volume de tráfego nas configurações, ative primeiro o modo de depuração, que também deve estar lá. Uma vez ativado o modo de depuração, será oferecida a opção de diminuir ou aumentar o tráfego. A porcentagem escolhida depende de quanto tráfego há e de quão desafiador você deseja que seja.</string>
     <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
-    </string>
+Para conseguir mais dinheiro, faça um empréstimo.</string>
     <string name="tip_topic_more_cash_text">
-Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
-    </string>
+Pressione o ícone de receita e mude para a aba com o ícone verde de dinheiro. Depois, pressione "aumentar". A quantia de dinheiro oferecida no empréstimo depende dos bens, e até 5 empréstimos podem ser feitos simultaneamente.</string>
     <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
-    </string>
+Os empréstimos são pagos automaticamente todo mês</string>
     <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
-    </string>
+Os pagamentos dos empréstimos são automaticamente deduzidos de sua receita mensal pelo jogo. Eles não precisam ser pagos manualmente, embora você possa reduzir as despesas mensais ao fazer isso. O período de pagamento pode ser visualizado acessando a aba de empréstimos.</string>
     <string name="tip_topic_discord_title">
-There\'s an official discord server!
-    </string>
-    <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
-    </string>
-    <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
-    </string>
-    <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
-    </string>
-    <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
-    </string>
-    <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
-    </string>
-    <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
-    </string>
-    <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
-    </string>
-    <string name="tip_topic_airport_title">
-The airport is a good long term investment
-    </string>
-    <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
-    </string>
-    <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
-    </string>
-    <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
-    </string>
-    <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA to go to the moon
-    </string>
-    <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
-    </string>
-    <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
-    </string>
-    <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
-    </string>
-    <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
-    </string>
-    <string name="tip_topic_demands_title">
-Build zones which are above the demand line
-    </string>
-    <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
-    </string>
-    <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
-    </string>
-    <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
-    </string>
-    <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
-    </string>
-    <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
-    </string>
-    <string name="tip_topic_education_title">
-Residentials need both high and low education
-    </string>
-    <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
-    </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+Há um servidor oficial no Discord!</string>
+    <string name="tip_topic_discord_text">O servidor oficial do Discord é um lugar onde jogadores e criadores se encontram, exibem suas criações e fazem amizades. O link pode ser encontrado dentro do jogo nas configurações.</string>
+    <string name="tip_topic_making_plugins_title">Você pode criar seus próprios plugins. É fácil™</string>
+    <string name="tip_topic_making_plugins_text">Pode parecer um pouco intimidador no começo, mas criar plugins é fácil. Para criar texturas, você pode usar algo como o paint.net no PC e o Pixly no celular. Para fazer o json ou "código", você pode escrever o seu próprio com a ajuda dos fóruns ou usar https://pca.svetikas.lt/. Se tiver dúvidas, podemos respondê-las no Discord ou nos fóruns!</string>
+    <string name="tip_topic_online_collaboration_title">Colabore em uma região usando o modo online</string>
+    <string name="tip_topic_online_collaboration_text">Ao pressionar o botão online na visualização da região, você pode colaborar com amigos ou outros membros para criar uma região bonita. O jogo não permite que mais de um jogador trabalhe no mesmo mapa, mas você pode visitar outras cidades e se inspirar.</string>
+    <string name="tip_topic_online_upload_title">Carregar um mapa para o modo online exige diamantes ou moedas da região</string>
+    <string name="tip_topic_online_upload_text">Diamantes (celular) e moedas da região (PC) são concedidos ao fazer login diariamente. O custo de carregar uma região varia dependendo do tamanho. Ao carregar um mapa, o criador pode escolher definir uma senha e algumas regras. Depois de criada, a senha não pode ser adicionada ou removida.</string>
+    <string name="tip_topic_diamonds_title">Você pode ganhar diamantes ao fazer login diariamente</string>
+    <string name="tip_topic_diamonds_text">Fazer login todo dia (celular) recompensa com diamantes. Ao fazer login todos os dias durante a semana, você ganha mais recompensas. Quando você recebe a recompensa final, o ciclo é reiniciado. Além disso, você pode assistir a vídeos para ganhar diamantes a cada 30 minutos – mas lembre-se de desativar qualquer bloqueador de anúncios para que eles apareçam!</string>
+    <string name="tip_topic_supplies_title">Os suprimentos de foguetes são fornecidos por certos edifícios industriais</string>
+    <string name="tip_topic_supplies_text">Os edifícios que fornecem óleo estão espalhados pelos diferentes níveis de indústrias. Isso inclui edifícios de extração de óleo, armazéns e edifícios de processamento. Estes fornecerão suprimentos para seu foguete. Ter mais edifícios próximos ao foguete ajudará a abastecê-lo mais rapidamente.</string>
+    <string name="tip_topic_train_bus_usage_title">Pode não haver uso visível de trens ou ônibus, mas eles ainda têm um efeito</string>
+    <string name="tip_topic_train_bus_usage_text">Ônibus e trens podem mostrar que não há passageiros no momento. No entanto, eles já têm um efeito e os dados de uso podem ser atualizados no futuro. Ônibus e trens fornecem felicidade de transporte. Portanto, certifique-se de cobrir as áreas RCI com eles.</string>
+    <string name="tip_topic_vandalism_title">O ícone de spray indica vandalismo, construa uma delegacia de polícia</string>
+    <string name="tip_topic_vandalism_text">O ícone de spray aparece quando os edifícios não possuem influência policial. Edifícios residenciais, comerciais e industriais exigem influência policial, então certifique-se de fornecer isso para evitar crimes futuros.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">Construa cemitérios e crematórios para tratar pessoas falecidas</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Se um ícone de pessoa falecida aparecer acima de um ou mais edifícios, isso indica que você precisa construir cemitérios ou crematórios. Cemitérios são bons no começo, mas à medida que a cidade cresce, eles terão que ser limpos cada vez mais frequentemente. Portanto, um crematório pode ser uma solução melhor a longo prazo.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">Para ganhar uma renda extra, crie comércio de bairro</string>
+    <string name="tip_topic_neighbourhood_commercial_text">Isso só pode ser feito em regiões onde você tem cidades próximas desbloqueadas. Há uma aba de comércio de bairro. Ajustando os valores, você pode importar ou exportar de cidades próximas. Isso não funciona no modo online nem se uma ou mais das cidades que você está tentando configurar estiverem no modo sandbox ou uber.</string>
+    <string name="tip_topic_airport_title">O aeroporto é um bom investimento a longo prazo</string>
+    <string name="tip_topic_airport_text">Para tornar o aeroporto funcional, construa todos os edifícios do aeroporto, adicione pistas e atribua aviões às pistas. O aeroporto frequentemente se torna lucrativo quando é utilizado. Isso significa que, uma vez coberto o custo inicial, um bom lucro pode ser obtido.</string>
+    <string name="tip_topic_youtube_title">O YouTube tem tutoriais úteis</string>
+    <string name="tip_topic_youtube_text">Existem alguns jogadores e criadores experientes de TheoTown que publicam vídeos no YouTube. Eles variam de vídeos inspiradores de gameplay em time-lapse a vídeos que podem ajudá-lo a melhorar sua experiência de jogo.</string>
+    <string name="tip_topic_price_increase_title">Os preços aumentam no jogo assim como na vida real</string>
+    <string name="tip_topic_price_increase_text">Colocar mais edifícios e estradas aumenta o preço deles. Quanto mais usados, maior será o preço. Isso é válido para estradas, decorações, zonas e todos os tipos de edifícios.</string>
+    <string name="tip_topic_creative_gameplay_title">Para mais liberdade criativa, jogue no modo sandbox/uber</string>
+    <string name="tip_topic_creative_gameplay_text">Muitos jogadores experientes preferem jogar no modo sandbox ou uber para expressar mais sua liberdade criativa. Isso permite construir sem a limitação de fundos e, no caso do modo uber, sem se preocupar com felicidade ou necessidades. Frequentemente, os edifícios são colocados manualmente para criar obras incríveis. Não se preocupe se isso não soa como você, cada um constrói de forma diferente!</string>
+    <string name="tip_topic_toggle_disasters_title">Você pode desligar desastres automáticos nas configurações do jogo</string>
+    <string name="tip_topic_toggle_disasters_text">Os desastres podem ser desligados nas configurações e você pode escolher quais desastres, se houver, quer jogar. Se as estações de mineração do DSA ou silos militares estiverem sendo usadas, a cidade ainda pode estar em risco de terremotos ou outros desastres.</string>
+    <string name="tip_topic_taxes_percentage_title">A maior parte da sua receita vem de impostos, mas não coloque acima de 9%</string>
+    <string name="tip_topic_taxes_percentage_text">Especialmente no início do jogo, 90% ou mais da receita vem dos impostos sobre os residentes. Um bom valor de imposto a ser cobrado fica entre 7% e 9%. Se a tributação for maior do que isso, há risco de motins e de pessoas abandonando as casas e a cidade.</string>
+    <string name="tip_topic_taxes_adjust_title">Você pode ajustar os impostos usando os botões + e -</string>
+    <string name="tip_topic_taxes_adjust_text">Pressione o ícone do sorriso e depois navegue até a aba de impostos, então use os botões + e - para ajustar a tributação para cada tipo de edifício e grupo de receita. Tenha cuidado para não definir a tributação muito alta.</string>
+    <string name="tip_topic_moon_title">Use o DSA para ir à lua</string>
+    <string name="tip_topic_moon_text">Desbloqueie o DSA e atualize os edifícios para ir à lua. O foguete precisará de suprimentos e, uma vez totalmente abastecido, terá a chance de ir à lua ou cair. Se o lançamento à lua for bem-sucedido, o mapa da lua pode ser localizado em cidades individuais para revisitas. Ao minerar certos minérios no espaço, você pode desbloquear certos edifícios para o mapa usado para ir à lua.</string>
+    <string name="tip_topic_icbm_title">Cuidado! O ICBM destruirá toda a sua cidade</string>
+    <string name="tip_topic_icbm_text">O ICBM não é um desastre natural e só pode ser acionado através do DSA. Tenha cuidado ao usar o ICBM, ele destruirá toda a cidade, não importa o tamanho, transformando-a em destroços em segundos. Você pode fazer backup ou duplicar a cidade para evitar arrependimentos depois de testar o ICBM nela.</string>
+    <string name="tip_topic_normalzone_densezone_title">Zonas densas abrigam mais pessoas, mas são mais caras para colocar</string>
+    <string name="tip_topic_normalzone_densezone_text">Zonas densas geralmente são mais caras para colocar do que zonas normais, mas podem abrigar mais pessoas. Em troca, elas costumam ser mais altas do que zonas normais também. Tirando essas diferenças, não há muito mais, pois têm as mesmas necessidades das zonas normais.</string>
+    <string name="tip_topic_forum_plugins_title">Você pode baixar plugins através dos fóruns</string>
+    <string name="tip_topic_forum_plugins_text">Alguns criadores de plugins optam por publicar exclusivamente alguns plugins nos fóruns. Isso permite que você baixe plugins que a loja de plugins pode não ter. Eles são gratuitos para baixar e devem ser colocados manualmente na pasta de plugins do seu dispositivo. Tenha cuidado, pois esses plugins não são moderados.</string>
+    <string name="tip_topic_toll_happiness_title">Os pedágios dão receita extra, mas deixam os residentes infelizes</string>
+    <string name="tip_topic_toll_happiness_text">Pedágios podem ser colocados para cobrar uma taxa dos veículos que circulam nas estradas, ajudando a gerar receita. O valor cobrado pode ser ajustado ao pressionar o pedágio. No entanto, isso reduz a felicidade do transporte e deixa as pessoas infelizes.</string>
+    <string name="tip_topic_building_rotation_title">Nem todos os edifícios têm quadro de rotação</string>
+    <string name="tip_topic_building_rotation_text">Alguns edifícios padrões possuem quadro de rotação, mas nem todos. Especialmente em plugins, pode não haver quadros de rotação. Isso ocorre porque o autor não os fez. Para ver quais edifícios têm quadro de rotação, pressione em um edifício e veja se há botões de próximo e anterior no canto superior direito. Não ter quadros de rotação deixa mais espaço para edifícios variados.</string>
+    <string name="tip_topic_map_rotation_title">Mude a orientação do mapa usando o mini mapa</string>
+    <string name="tip_topic_map_rotation_text">O mini mapa pode ser usado como uma ferramenta para rotacionar o mapa. Pressione o mini mapa e use as setas para rotacionar o mapa para a esquerda ou para a direita. É importante notar que, enquanto o mapa é rotacionado, nem todos os edifícios irão rotacionar, caso não tenham quadro de rotação.</string>
+    <string name="tip_topic_demands_title">Construa zonas acima da linha de demanda</string>
+    <string name="tip_topic_demands_text">Quando a demanda está acima da linha de demanda, isso indica que pessoas ou empresas da demanda respectiva querem se mudar para sua cidade. Então, você deve fornecer as facilidades para isso. Quando a demanda está abaixo da linha de demanda, indica que você deve construir outras zonas e instalações de apoio, como parques e polícia.</string>
+    <string name="tip_topic_happiness_title">Pressione em um edifício para ver sua felicidade mais baixa</string>
+    <string name="tip_topic_happiness_text">Pressionar em um edifício ajuda a identificar por que a casa e as casas ao redor estão infelizes. Também é mostrado um valor médio de felicidade para a casa. Depois de identificar a razão da felicidade baixa, você pode agir para resolvê-la. Por exemplo, se um edifício está infeliz devido à falta de parques, você deve colocar um parque perto do edifício para aumentar a felicidade.</string>
+    <string name="tip_topic_game_extentions_title">Há extensões oficiais do jogo na loja de plugins</string>
+    <string name="tip_topic_game_extentions_text">Extensões oficiais do jogo são publicadas na loja de plugins pelo usuário Lobby. Normalmente, essas extensões são gratuitas, pois são oficiais do jogo.</string>
+    <string name="tip_topic_inspiration_title">Não compare com as cidades de outros jogadores, se inspire nelas</string>
+    <string name="tip_topic_inspiration_text">Jogadores diferentes têm estilos diferentes. Em vez de ficar com inveja das cidades dos outros, tente identificar exatamente o que chama sua atenção nelas. Por que você gosta tanto delas? Assim que descobrir isso, tente implementar aos poucos em suas cidades e veja elas crescerem.</string>
+    <string name="tip_topic_road_connection_title">Use a conexão automática de estradas ao construir redes de estradas</string>
+    <string name="tip_topic_road_connection_text">Pressione a estrada de sua escolha e depois pressione "conectar estrada" no canto superior direito para conectar automaticamente a estrada que está sendo construída. Isso ajuda a evitar que as estradas não funcionem devido à falta de conexão correta.</string>
+    <string name="tip_topic_epidemic_prevention_title">Construa hospitais para evitar epidemias</string>
+    <string name="tip_topic_epidemic_prevention_text">Se houver um ícone de rosto verde acima dos edifícios, isso indica que os residentes estão doentes. Para evitar isso no futuro, construa hospitais na área de todas as zonas. Para manter seus residentes saudáveis, você também deve garantir que os abastecimentos de água estejam localizados em áreas limpas.</string>
+    <string name="tip_topic_education_title">Os residentes precisam tanto de educação básica quanto avançada</string>
+    <string name="tip_topic_education_text">Para melhorar a felicidade educacional, é preciso fornecer tanto educação básica quanto avançada. Essas são necessárias para que os edifícios se tornem mais ricos. Então, tenha certeza de cobrir as áreas residenciais com ambas as influências.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">Para reduzir o lag, desative o zoom suave</string>
+    <string name="tip_topic_disable_smooth_zoom_text">Se você achar que o jogo está lento, considere desativar as opções de zoom suave. Esta opção pode ser encontrada nas configurações do jogo. Isso pode ajudar a melhorar a experiência de jogo.</string>
+    <string name="tip_topic_building_bridges_title">Eleve estradas usando as opções de setas à direita</string>
+    <string name="tip_topic_building_bridges_text">Pressione a estrada a ser construída. Em seguida, enquanto estiver no menu de construção, pressione um tile e depois construa para cima para construir uma subida. Pressione uma estrada elevada e construa para baixo para construir uma descida. Ao mesmo tempo, pressione ponte para construir automaticamente uma ponte. No entanto, nem todas as estradas suportam a construção de estradas elevadas.</string>
+    <string name="store_cmd_downloadall_title">Baixar tudo</string>
+    <string name="store_cmd_downloadall_text">Baixar / ativar todos os plugins ausentes de uma vez</string>
+
+    <string name="tips_cmd_visitwebsite">Abrir</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="settings_category_notifications">Notificações</string>
+    <string name="settings_notify_low_power">Baixa energia</string>
+    <string name="settings_notify_low_water">Água baixa</string>
 
+    <string name="settings_notify_no_power">Sem energia</string>
+    <string name="settings_notify_no_water">Sem água</string>
+    <string name="settings_notify_no_road">Sem estrada</string>
+    <string name="settings_notify_no_park">Sem parque</string>
+    <string name="settings_notify_no_sport">Sem esporte</string>
+    <string name="settings_notify_pollution">Poluição</string>
+    <string name="settings_notify_noise">Ruído</string>
+    <string name="settings_notify_water_waste">Desperdício de água</string>
+    <string name="settings_notify_unhappy">Descontentes</string>
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_notify_unlocked">Edifício desbloqueado</string>
+    <string name="settings_notify_low_budget">Orçamento baixo</string>
+    <string name="settings_notify_zone_needed">Zona necessária</string>
+    <string name="settings_notify_polluted_pump">Bomba poluída</string>
+    <string name="settings_notify_school_overloaded">Escola sobrecarregada</string>
+    <string name="settings_notify_medic_overloaded">Médico sobrecarregado</string>
+    <string name="settings_notify_destroyed_tile">Bloco destruído</string>
+    <string name="settings_notify_need_low_education">Necessita de educação baixa</string>
+    <string name="settings_notify_need_high_education">Necessita de educação alta</string>
+    <string name="settings_notify_bad_traffic">Trânsito ruim</string>
+    <string name="settings_notify_waste">Coleta de lixo</string>
+    <string name="settings_notify_body_disposal">Descarte de corpos</string>
+    <string name="settings_notify_bad_attribute">Valor ruim</string>
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
-    <string name="settings_cursorstyle_citylights">CityLights</string>
+    <string name="dialog_uploadregionpolicy_title">Política de região inativa</string>
+    <string name="dialog_uploadregionpolicy_text">Observe que as regiões que permanecem inativas por mais de um ano podem estar sujeitas a exclusão automática. Essa medida é necessária para liberar espaço para novas regiões e garantir uma experiência otimizada para jogadores ativos. Antes de qualquer exclusão devido à inatividade, iremos notificá-lo com antecedência.</string>
+    <string name="dialog_loginforreport_title">Login necessário para relatar</string>
+    <string name="dialog_loginforreport_text">Para garantir a integridade do nosso sistema de relatórios, apenas usuários logados podem enviar relatórios. Faça login para continuar com seu relatório.</string>
+    <string name="settings_debug_hotkeys">Teclas de atalho de depuração</string>
+    <string name="specialoffer_alreadyunlocked">Você já desbloqueou este item.</string>
+    <string name="settings_highlight_hovered_building">Destacar edifício focalizado</string>
+    <string name="settings_cursorscaling">Tamanho do cursor</string>
+    <string name="settings_cursorstyle_citylights">Luzes da Cidade</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
     <string name="settings_cursorstyle_cyberpunk">Cyberpunk</string>
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+    <string name="stage_files_actioncopy">Copiar para a área de transferência</string>
+    <string name="stage_files_actionopen">Abrir</string>
+    <string name="stage_files_imageresolution">Resolução: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">Versão desatualizada</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Este cenário requer a versão %s ou superior, mas você está usando %s.\n\nVerifique se há atualizações para jogar este cenário.</string>
+    <string name="comments_language">Idioma: %s</string>
+    <string name="comments_cmdtranslate">Traduzir (a tradução pode ser imprecisa)</string>
+    <string name="waste_clear_onmouseinput">Clique e arraste no lixo para limpá-lo.</string>
+    <string name="cemetery_clear_onmouseinput">Clique e arraste para liberar algum espaço.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Coloque a estrada ao longo dos ladrilhos marcados. Para construí-la, clique para definir um ponto inicial, clique novamente para definir o ponto final.</string>
+    <string name="tutorial_rci_onmouseinput">Clique neste botão para ver informações detalhadas de demanda para cada tipo de zona.</string>
+    <string name="tutorial_money_info_onmouseinput">Clique no canto inferior direito para obter mais informações sobre seu dinheiro ou para alterar os impostos.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Clique no ponto inicial e final da estrada planejada. Veja como uma ponte será construída automaticamente sobre o rio.</string>
+    <string name="tool_airplanelane_title_onmouseinput">Clique em uma pista livre</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">Apenas um presente. Tente clicar nele.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Quer construir uma estrada ou edifício específico novamente? Use esta ferramenta e clique nele. Não é compatível com todas as estruturas.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Você quer carregar sua captura de tela para nossa galeria?\n\nAo clicar em \"Carregar agora\", você concorda que aceita nossa política.</string>
+    <string name="notify_waste_producer00_onmouseinput">Este aterro está cheio! Clique nele para limpá-lo!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Clique com o botão esquerdo para abrir e fechar. Uma ótima maneira de criar engarrafamentos.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Crie um campo de jogo da vida. Clique nos ladrilhos existentes para alternar seu estado. O estado padrão é morto.</string>
+    <string name="loadcity_scenario">Cenário: %s</string>
+    <string name="trainstationinfo_total">Total transferido: %1$,d</string>
+
+
+    <string name="dialog_configureregion_tags">Tags</string>
+    <string name="dialog_regionrules_tagscat">Tags</string>
+    <string name="dialog_regionrules_notags">- No tags applied -</string>
+    <string name="regionlist_cat_tags">Tags</string>
+    <string name="settings_highrescitypreview">Render high res city preview</string>
+    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
+    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
+    <string name="settings_road_snow_overlay">Road snow overlay</string>
+    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
+    <string name="dialog_scenarios_cmdopen">Scenarios</string>
+    <string name="dialog_scenarios_title">Scenarios</string>
+    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
+    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
+    <string name="dialog_scenarios_cmdreset">Reset</string>
+    <string name="dialog_scenarios_cmdremove">Remove</string>
+    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="dialog_scenarios_cmdinfo">Info</string>
+    <string name="dialog_scenarios_cmdplay">Play</string>
+    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_reset_title">Reset</string>
+    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
+    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
+    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
+    <string name="region_download_city">Download City</string>
+    <string name="region_download_region">Download Region</string>
+    <string name="toolaction_removelast">Remove last</string>
+    <string name="ci_transportation_title">Transportation</string>
+    <string name="settings_legacy_bus_system">Use legacy bus system</string>
+    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
 
 </resources>

@@ -23,12 +23,14 @@ Each directory in this repository contains a `strings.xml` file for a specific l
 Here is a list of currently supported languages:
 - `values`: English (*default language*) ← **Always up to date**<br/>
 - `values-af`: Afrikaans
+- `values-ar`: Arabic
 - `values-b+fil`: Filipino
 - `values-ca`: Catalan
 - `values-cs`: Czech
 - `values-de`: German ← **Always up to date**
 - `values-es`: Spanish
 - `values-eu`: Basque
+- `values-fa`: Farsi
 - `values-fr`: French
 - `values-hu`: Hungary
 - `values-in`: Indonesian
