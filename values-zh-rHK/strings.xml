@@ -1385,7 +1385,7 @@
     <string name="settings_download_static_files">下載靜態文件</string>
     <string name="pluginerror_visitforum">去論壇報告</string>
     <string name="dialog_gameplay_title">在西奧直播Theotown</string>
-    <string name="dialog_gameplay_text">通過啟用遊戲上傳，您允許我們將您嘅遊戲畫面(且不包括其他任何界面，如文本框，懸浮窗等)上傳到我們嘅服務器。 有關詳細信息，請參閱免責聲明。</string>
+    <string name="dialog_gameplay_text">通過啟用遊戲上傳，允許我們將您嘅遊戲畫面(且不包括其他任何界面，如文本框，懸浮窗等)上傳到我們嘅服務器。 有關詳細信息，請參閱免責聲明。</string>
     <string name="control_enable">允許</string>
     <string name="dialog_gameplay_disclaimer">查看免責聲明</string>
     <string name="busgame_newbus">購買 %d號車</string>
@@ -2253,7 +2253,7 @@
     <string name="dialog_uploadregionaccount_title">需要帳戶</string>
     <string name="dialog_uploadregionaccount_text">你需要一個賬號嚟連接西奧小鎮才能上傳區域。</string>
     <string name="dialog_uploadregion_title">上傳區域</string>
-    <string name="dialog_uploadregion_text">會將呢個區域複製到在線公共區域。\n\nO一旦區域被上傳，你可以在線上佔領其中嘅地塊。 如果冇密碼，其他玩家都能加入。</string>
+    <string name="dialog_uploadregion_text">會將呢個區域複製到在線公共區域。\n\n一旦區域被上傳，你可以在線上佔領其中嘅地塊。 如果冇密碼，其他玩家都能加入。</string>
     <string name="dialog_uploadregion_cmdpassword">密碼 ...</string>
     <string name="dialog_uploadregion_cmdupload">上傳</string>
     <string name="stage_uploadregion_uploading">上傳區域</string>
@@ -2632,7 +2632,7 @@
 
 
     <string name="dialog_migratefb_title">需要採攞行動</string>
-    <string name="dialog_migratefb_text">你似乎正在使用 Facebook 帳戶登入。這種登入方式目前已被棄用，不會再被支援。 /n請使用論壇帳戶登錄TheoTown以遷移你游戲中嘅數據。</string>
+    <string name="dialog_migratefb_text">你似乎正在使用 Facebook 帳戶登入。這種登入方式目前已被棄用，不會再被支援。 \n請使用論壇帳戶登錄TheoTown以遷移你游戲中嘅數據。</string>
     <string name="dialog_migratefb_cmdaccountsettings">帳戶</string>
     <string name="draft_feature_opera00_title">歌劇院</string>
     <string name="draft_feature_opera00_text">釋放文化嘅魔力！體驗歌劇院嘅宏偉，伴隨着寧靜嘅公園和迷人嘅噴泉。通過音樂、自然和藝術魅力嘅和諧融合，提升城市氛圍，激勵市民。立就算用，讓你嘅城市成為文化傑作！</string>
@@ -3086,7 +3086,7 @@
     <string name="tip_topic_culture_title">
 遊戲中的文化影響力可由部分地標建築、獎勵和插件提供！    </string>
     <string name="tip_topic_culture_text">
-多数数规模较小嘅地标，包埃菲尔铁塔，喺现实世界中都有一定嘅文化影响力。通過插件庫和論壇，你可以下載更多提供文化影響力嘅插件。
+多数数规模较小嘅地標，包埃菲尔铁塔，喺现实世界中都有一定嘅文化影响力。通過插件庫和論壇，你可以下載更多提供文化影響力嘅插件。
     </string>
     <string name="tip_topic_fire_too_frequent_title">
 如果一個建築物經常起火，這就需要喺佢嘅附近放置消防局！    </string>
@@ -3390,35 +3390,35 @@ DSA機構：月球，我哋嚟咗！
     <string name="trainstationinfo_total">運輸總周轉量: %1$,d</string>
 
 
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
-    <string name="dialog_configureregion_tags">Tags</string>
-    <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
-    <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
-    <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
-    <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
-    <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">需要:  </string>
+    <string name="dialog_configureregion_tags">主題分類</string>
+    <string name="dialog_regionrules_tagscat">主題分類</string>
+    <string name="dialog_regionrules_notags">-沒有主題分類-</string>
+    <string name="regionlist_cat_tags">主題分類</string>
+    <string name="settings_highrescitypreview">生成高解像度城市預覽圖</string>
+    <string name="draft_native_snow_plow_depot00_title">鏟雪車廠</string>
+    <string name="draft_native_snow_plow_depot00_text">車廠內配備有鏟雪車，這種車輛的用途是清除道路上的冰雪</string>
+    <string name="settings_road_snow_overlay">道路積雪覆蓋層突出顯示</string>
+    <string name="settings_ground_snow_overlay">地面積雪覆蓋層突出顯示</string>
+    <string name="dialog_scenarios_cmdopen">特定場景</string>
+    <string name="dialog_scenarios_title">特定場景</string>
+    <string name="dialog_scenarios_generalinfo_title">呢個係咩? </string>
+    <string name="dialog_scenarios_generalinfo_text">係具有特殊條件嘅預製地圖。\n你可以在某些特定場景下建造城市，例如資金有限或使用指定的插件規則。\n当場景結束時，您可以上傳你的城市，與其他玩家進行一場友好嘅競賽。</string>
+    <string name="dialog_scenarios_cmdreset">重置</string>
+    <string name="dialog_scenarios_cmdremove">刪除</string>
+    <string name="dialog_scenarios_cmdmove">移動</string>
+    <string name="dialog_scenarios_cmdinfo">信息</string>
+    <string name="dialog_scenarios_cmdplay">遊玩</string>
+    <string name="dialog_scenarios_cmdstart">開始</string>
+    <string name="dialog_scenarios_reset_title">重置</string>
+    <string name="dialog_scenarios_reset_text">你確定要重置你的進度嗎？ 你可以將其移動到其他城市以繼續遊玩，也可以將其完全刪除。</string>
+    <string name="dialog_scenarios_empty">目前沒有可用的場景。</string>
+    <string name="dialog_scenarios_notplayedyet">尚未啟動</string>
+    <string name="region_download_city">下載城市</string>
+    <string name="region_download_region">下載區域</string>
+    <string name="toolaction_removelast">刪除最末端</string>
+    <string name="ci_transportation_title">運輸</string>
+    <string name="settings_legacy_bus_system">使用傳統巴士系統</string>
+    <string name="draft_tool_car_follower00_despawn">車輛消失</string>
 
 </resources>
