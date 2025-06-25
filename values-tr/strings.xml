@@ -345,7 +345,7 @@
     <string name="notify_requirementupgrade">Tebrikler,%2$s binası için %1$s yükseltmesinin kilidini açtınız!</string>
     <string name="draftselector_titlesports">Sporlar</string>
     <string name="draftselector_titlealert">Aciller</string>
-    <string name="notify_fire">Yangın! Yangını söndürmesi için itfaiyeyi gönderin. Daha fazla itfaiye binası inşa etmeyi gözönünde bulundurun.</string>
+    <string name="notify_fire">Yangın! Yangını söndürmesi için itfaiyeyi gönderin. Daha fazla itfaiye binası inşa etmeyi göz önünde bulundurun.</string>
     <string name="notify_pollution">Çok fazla kirlilik!</string>
     <string name="draft_radio00_title">Radyo İstasyonu</string>
     <string name="draft_radio00_text">Şehirdeki insanlar radyo programını sevecekler..</string>
@@ -400,7 +400,7 @@
 \n
 \nAynı anda sadece bir radyo programına izin verilir. Eski radyo programı yayınlanmaz.</string>
     <string name="draft_radio00_faith_title">Faith Talk</string>
-    <string name="draft_radio00_faith_text">İnanç ve dünyadaki varoluş sebeimizle ilgili sohbetleri yayınlar. Temel olarak şehir içindeki geniş uzaklıklara etki edebilen bir ibathane gibidir.
+    <string name="draft_radio00_faith_text">İnanç ve dünyadaki varoluş sebebimizle ilgili sohbetleri yayınlar. Temel olarak şehir içindeki geniş uzaklıklara etki edebilen bir ibadethane gibidir.
 \n
 \nAynı anda sadece bir radyo programına izin verilir. Eski radyo programı yayınlanmaz.</string>
     <string name="draft_lighthouse00_title">Deniz Feneri</string>
@@ -446,7 +446,7 @@
     <string name="tutorial_money_info">Kazancınız hakkında bilgi almak ya da vergi oranlarını değiştirmek için sağ alt köşeye dokunun.</string>
     <string name="tutorial_congrats">Tebrikler, TheoTown\'ın temellerini öğrendiniz. Şimdi kendi şehrinize başlayabilirsiniz :)</string>
     <string name="draft_road03_title">Tek Yön Yol</string>
-    <string name="draft_road03_text">Bu yol tipinde araçlar sadece tek önde ilerler. Trafiği kontrol etmek için kullanın.</string>
+    <string name="draft_road03_text">Bu yol tipinde araçlar sadece tek yönde ilerler. Trafiği kontrol etmek için kullanın.</string>
     <string name="budget_sports">Sporlar</string>
     <string name="budget_religion">Din</string>
     <string name="population_unit">%1$,d</string>
@@ -461,7 +461,7 @@
     <string name="settings_disaster_auto">Otomatik afetler</string>
     <string name="notify_firenodp">Kasabanızda yangın var! Yangını söndirmek için itfaiye binası inşa edin.</string>
     <string name="draft_destroyedtile_title">Harabe</string>
-    <string name="draft_destroyedtile_text">Yılıkmış bir yapı. Bunu kaldırmalısınız.</string>
+    <string name="draft_destroyedtile_text">Yıkılmış bir yapı. Bunu kaldırmalısınız.</string>
     <string name="disaster_fire_title">Yangın</string>
     <string name="disaster_fire_text">Herşeyi yakıp kül et!</string>
     <string name="disaster_fire_cmdtext">Yak!</string>
@@ -708,8 +708,8 @@
     <string name="dialog_renameauthor_title">Oluşturanı yeniden adlandır</string>
     <string name="dialog_renameauthor_text">Yeni oluşturanı girin.</string>
     <string name="ci_general_authorname">Oluşturan: %1$s</string>
-    <string name="loadcity_author">   %1$s</string>
-    <string name="game_cityauthor">   %1$s</string>
+    <string name="loadcity_author">%1$s tarafından</string>
+    <string name="game_cityauthor">%1$s tarafından</string>
     <string name="control_ok">Tamam</string>
     <string name="control_cancel">İptal</string>
     <string name="createcity_settings">Daha fazla...</string>
@@ -820,9 +820,9 @@
     <string name="requirement_feature">Bir kısmı %s</string>
     <string name="draft_feature_military00_title">Askeri Üs</string>
     <string name="draft_feature_airport00_title">Havaalanı</string>
-    <string name="draft_feature_buildings00_title">Paketler yükleniyor 1</string>
-    <string name="draft_feature_buildings01_title">Paketler yükleniyor 2</string>
-    <string name="draft_feature_buildings02_title">Paketler yükleniyor 3</string>
+    <string name="draft_feature_buildings00_title">Bina Paketi 1</string>
+    <string name="draft_feature_buildings01_title">Bina Paketi 2</string>
+    <string name="draft_feature_buildings02_title">Bina Paketi 3</string>
     <string name="draft_feature_services00_title">Servis paketi</string>
     <string name="draft_feature_tourism00_title">Turizm paketi</string>
     <string name="draft_feature_premium00_title">Premium</string>
@@ -949,10 +949,10 @@
     <string name="dialog_rate_text">Öyleyse bizi oylamaya ne dersin? Bir saniyeni alır.</string>
     <string name="dialog_rate_cmdok">Beğeniyorum</string>
     <string name="dialog_rate_cmdcancel">Beğenmiyorum</string>
-    <string name="dialog_feedback_title">Geribildirim\'de bulun</string>
+    <string name="dialog_feedback_title">Geri bildirim\'de bulun</string>
     <string name="dialog_feedback_text">Oyunu nasıl geliştirebileceğimize dair bir önerin var mı? Anlat lütfen.</string>
-    <string name="dialog_feedback_cmdok">Geribildirimde bulunacağım</string>
-    <string name="dialog_feedback_cmdcancel">Geribildirimde bulunmayacağım</string>
+    <string name="dialog_feedback_cmdok">Geri bildirimde bulunacağım</string>
+    <string name="dialog_feedback_cmdcancel">Geri bildirimde bulunmayacağım</string>
     <string name="dialog_buildnow_title">Şimdi tamamla</string>
     <string name="dialog_buildnow_text"> %1$,d gün geçmek ister misin?</string>
     <string name="draft_launch_rocket_title">Roket fırlat</string>
@@ -1159,10 +1159,10 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="draft_rnk_planet_medium_title">Gezegen</string>
     <string name="draft_rnk_planet_big_title">Büyük gezegen</string>
     <string name="draft_rnk_planet_large_title">Çok büyük gezegen</string>
-    <string name="draft_rnk_solar_system_small_title">Küçük solar sistemi</string>
-    <string name="draft_rnk_solar_system_medium_title">Solar sistemi</string>
-    <string name="draft_rnk_solar_system_big_title">Büyük Solar Sistemi</string>
-    <string name="draft_rnk_solar_system_large_title">Çok büyük Solar Sistemi</string>
+    <string name="draft_rnk_solar_system_small_title">Küçük yıldız sistemi</string>
+    <string name="draft_rnk_solar_system_medium_title">Yıldız sistemi</string>
+    <string name="draft_rnk_solar_system_big_title">Büyük yıldız Sistemi</string>
+    <string name="draft_rnk_solar_system_large_title">Çok büyük yıldız Sistemi</string>
     <string name="draft_rnk_universe_small_title">Küçük evren</string>
     <string name="draft_rnk_universe_medium_title">Evren</string>
     <string name="draft_rnk_universe_big_title">Büyük Evren</string>
@@ -1624,7 +1624,7 @@ Eğer TheoTown\'un depolama aracına erişmesine izin verirsen, TheoTown oraya �
     <string name="settings_pushnotifications">Push bildirimleri</string>
     <string name="draft_leaningtowerofpisa00_title">Yana yatan Pisa Kulesi</string>
     <string name="draft_leaningtowerofpisa00_text">Yana yatan Pisa Kulesi, İtalya\'da bulunan Pisa şehrinde yer alır. 1372\'de inşa edilip, 56 metre uzunluğundadır.</string>
-    <string name="draft_burjalarab00_title">Burc el-Arab</string>
+    <string name="draft_burjalarab00_title">Burj el-Arab</string>
     <string name="draft_burjalarab00_text">Dubai, Birleşmiş Arap Emirlikleri\'nde bulunan Burj Al Arab, lüks bir hoteldir. 1999\'da inşa edilip yüksekliği 320 metreyi aşmaktadır.</string>
     <string name="draft_hearsttower00_title">Hearst Kulesi</string>
     <string name="draft_hearsttower00_text">New York\'da bulunan ve ofis binası olan Hearst Kulesi 2006\'da inşa edilmiştir. Yüksekliği 180 metreyi aşmaktadır.</string>
@@ -2253,7 +2253,7 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="createregion_layout2x2">2x2</string>
     <string name="createregion_layoutcircle">Dairesel</string>
     <string name="dialog_deleteregion_title">Eyaleti sil</string>
-    <string name="dialog_deleteregion_text">Eyaleti silceğinden emin misin? Geri alamazsın.</string>
+    <string name="dialog_deleteregion_text">Eyaleti sileceğinden emin misin? Geri alamazsın.</string>
     <string name="dialog_deleteregion_cmd">Sil</string>
     <string name="dialog_resetregion_title">Eyaleti sıfırla</string>
     <string name="dialog_resetregion_text">Eyaleti sıfırlayacağından emin misin? Geri alamazsın.</string>
@@ -2275,12 +2275,12 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_regionsearch_text">Anahtar kelimeyi girin:</string>
     <string name="dialog_regionsearch_cmdsearch">Ara</string>
     <string name="dialog_regioncoininfo_title">Eyalet Parası?</string>
-    <string name="dialog_regioncoininfo_text">Parasal sıkıntılar için Eyalet Parasını icat ettik. Eyalet parasını sadece oyuna girerek günlük kazanacaksın.\n\nThis currency allows us to offer you our online services for free.</string>
+    <string name="dialog_regioncoininfo_text">Parasal sıkıntılar için Eyalet Parasını icat ettik. Eyalet parasını sadece oyuna girerek günlük kazanacaksın.\n\nBu para birimi, size online servisimizi ücretsiz bir şekilde sunmamıza izin verir.</string>
     <string name="settings_sdcardplugins">Eyaleti SD card\'tan paylaş (TheoTown/plugins)</string>
     <string name="dialog_uploadregionconfirm_title">Şimdi yükle?</string>
     <string name="dialog_uploadregionconfirm_text">İşleme başlamadan önce internete bağlı olduğundan emin ol.</string>
     <string name="dialog_uploadregionunsuited_title">Eyalet Paylaş</string>
-    <string name="dialog_uploadregionunsuited_text">As of right now you can only upload regions that are not part of the game nor have any cities in them (yet).</string>
+    <string name="dialog_uploadregionunsuited_text">Şu anlık oyunun parçası olmayan ya da içinde şehir bulunmayan bölgeleri dışarıya yükleyebilirsin.</string>
     <string name="dialog_acquirecityaccount_title">Hesap gerekli</string>
     <string name="dialog_acquirecityaccount_text">Bir çevrimiçi bölgede bir arsa edinmek için TheoTown\'u bir TheoTown hesabıyla bağlamanız gerekmektedir.</string>
     <string name="region_onlinecity_free">Bu bölge bedava bu yüzden bu bölgeyi alabilirsiniz</string>
@@ -2293,15 +2293,15 @@ Oyunu bir TheoTown Forum hesabına bağlayarak yorum bölümlerine katılabilirs
     <string name="dialog_onlineinfo_title">Çevrimiçi mod</string>
     <string name="dialog_onlineinfo_text">Çevrimiçi moda hoş geldin! Burada arkadaşların ile oynayıp çok güzel işler başarabilirsiniz! Hatta mevcut bir Eyaletini paylaşıpta oynayabilirsin.\n\n"Bu çok havalı!" - Discord Adminimiz.</string>
     <string name="dialog_outdated_title">Eski Sürüm</string>
-    <string name="dialog_outdated_text">Geçmiş bir versiyon kullanıyorsun.\n\nLütfen oyunu güncelle.</string>
+    <string name="dialog_outdated_text">Geçmiş bir sürüm kullanıyorsun.\n\nLütfen oyunu güncelle.</string>
     <string name="settings_weather_lightning">Yıldırımlar</string>
     <string name="settings_item_edit">Düzenle</string>
     <string name="dialog_configureregion_title">Eyaleti Onayla</string>
     <string name="dialog_configureregion_previewrules">Ön izleme</string>
     <string name="dialog_regionrules_general">Ana Kurallar</string>
-    <string name="dialog_regionrules_allowplugins">Pluginler kullanılabilir..</string>
-    <string name="dialog_regionrules_notallowplugins">Burda plugin kullanamazsın.</string>
-    <string name="dialog_regionrules_norules">Burada hiçbir kural yok.</string>
+    <string name="dialog_regionrules_allowplugins">Eklentiler kullanılabilir..</string>
+    <string name="dialog_regionrules_notallowplugins">Burada eklentiler kullanamazsın.</string>
+    <string name="dialog_regionrules_norules">Burada hiçbir kural yok (ya da sahip kural koymayı unutmuş).</string>
     <string name="stage_onlineregion_rules">Kurallar</string>
     <string name="control_report">Bildir</string>
     <string name="stage_regioncity_reportsubject">Şehir %1$s</string>
@@ -2562,7 +2562,7 @@ Bu eyleme atamak için bir tuşa basın.</string>
     <string name="draft_deco_chr_manger00_title">Tahta yemlik</string>
     <string name="draft_deco_chr_manger00_text">At, inek ve diğer hayvanların beslendiği büyük boyda açık bir kutu.</string>
     <string name="settings_diagonalroadtool">Destekleniyorsa çapraz olarak yol oluşturabilirsiniz</string>
-    <string name="settings_smoothzoom">Düzgün zum</string>
+    <string name="settings_smoothzoom">Yumuşak Yakınlaştırma</string>
     <string name="settings_smoothzoom_off">Kapalı</string>
     <string name="settings_smoothzoom_nearest">Bloklu</string>
     <string name="settings_smoothzoom_linear">Bulanık</string>
@@ -3262,35 +3262,35 @@ Plugins that require script execution to work may not function as expected if di
     <string name="trainstationinfo_total">Toplam transfer: %1$,d</string>
 
 
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
-    <string name="dialog_configureregion_tags">Tags</string>
-    <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
-    <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">Gereksinim : Ay &apos ın üzerinde yaşayan turşulara yardım</string>
+    <string name="dialog_configureregion_tags">Etiketler</string>
+    <string name="dialog_regionrules_tagscat">Etiketler</string>
+    <string name="dialog_regionrules_notags">- Kullanılan etiketler yok -</string>
+    <string name="regionlist_cat_tags">Etiketler</string>
+    <string name="settings_highrescitypreview">Yüksek Çözünürlüklü şehir önizlemesi göster</string>
+    <string name="draft_native_snow_plow_depot00_title">Kar Temizleme Aracı deposu</string>
+    <string name="draft_native_snow_plow_depot00_text">Kış içinde yolları temiz tutmayı amaçlayan bir tesis. Hızlıca kar ve buz delebilen araçlar kullanarak.</string>
+    <string name="settings_road_snow_overlay">Kar tabakası (Yol)</string>
+    <string name="settings_ground_snow_overlay">Kar tabakası (Yer)</string>
+    <string name="dialog_scenarios_cmdopen">Senaryolar</string>
+    <string name="dialog_scenarios_title">Senaryolar</string>
+    <string name="dialog_scenarios_generalinfo_title">Senaryolar nedir?</string>
+    <string name="dialog_scenarios_generalinfo_text">Senaryolar, özel kuralları olan önceden yapılmış haritalardır. Şehrini, eklenti kuralları ya da limitli bütçe gibi kısıtlamalar altında inşaa edersin. Senaryo bittiğinde, şehrini dışarı yükleyerek diğerleri ile rahat ve sakin bir mücadeleye katılabilirsin.</string>
     <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="dialog_scenarios_cmdremove">Sil</string>
+    <string name="dialog_scenarios_cmdmove">Hareket Ettir</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
-    <string name="dialog_scenarios_cmdstart">Start</string>
+    <string name="dialog_scenarios_cmdplay">Oynat</string>
+    <string name="dialog_scenarios_cmdstart">Başlat</string>
     <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
+    <string name="dialog_scenarios_reset_text">İlerlemeni sıfırlamak istediğine emin misin? Oynamaya devam etmek için başka şehirlere aktarabilir ya da hepten silebilirsin.</string>
+    <string name="dialog_scenarios_empty">Şu anlık oynanılabilen başka bir senaryo kalmadı.</string>
+    <string name="dialog_scenarios_notplayedyet">Daha oynanılmadı</string>
+    <string name="region_download_city">Şehri indir</string>
+    <string name="region_download_region">Bölgeyi indir</string>
+    <string name="toolaction_removelast">En son eylemi kaldır</string>
+    <string name="ci_transportation_title">Ulaşım</string>
+    <string name="settings_legacy_bus_system">Eski otobüs sistemi kullan</string>
+    <string name="draft_tool_car_follower00_despawn">Takip edilen araç kayboldu.</string>
 
 </resources>
