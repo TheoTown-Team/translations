@@ -28,7 +28,7 @@
     <string name="settings_resolutionbigbig">Sangat besar</string>
     <string name="settings_resolution">Resolusi</string>
     <string name="dialog_nocities_title">Kota tidak ditemukan</string>
-    <string name="dialog_nocities_text">Tidak ada satupun kota yang ditemukan.</string>
+    <string name="dialog_nocities_text">Tidak ada satu pun kota yang ditemukan.</string>
     <string name="dialog_nocities_cmdback">Kembali</string>
     <string name="dialog_nocities_cmdnewcity">Kota Baru</string>
     <string name="settings_drawcars">Tampilkan mobil</string>
@@ -72,7 +72,7 @@
     <string name="dialog_invalidcityname_text">Harap memakai nama lain untuk kotamu. Nama tidak boleh kosong.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Peta sangat besar</string>
-    <string name="dialog_hugesize_text">Ukuran ini experimental dan mungkin tidak bekerja pada perangkat Anda. Apakah anda yakin membutuhkan peta yang besar?</string>
+    <string name="dialog_hugesize_text">Ukuran ini eksperimental dan mungkin tidak bekerja pada perangkat Anda. Apakah anda yakin membutuhkan peta yang besar?</string>
     <string name="dialog_hugesize_cmdyes">Ya</string>
     <string name="dialog_hugesize_cmdno">Tidak</string>
     <string name="draft_church00_title">Gereja</string>
@@ -84,7 +84,7 @@
     <string name="draft_windturbine00_title">PLTB</string>
     <string name="draft_windturbine00_text">Turbin angin membuat kebisingan, namun tidak menimbulkan polusi.</string>
     <string name="draft_coalplant00_title">PLTU</string>
-    <string name="draft_coalplant00_text">PLTU menghasilkan banyak tenaga, banyak juga polusinya.</string>
+    <string name="draft_coalplant00_text">PLTU menghasilkan banyak tenaga serta menimbulkan banyak polusi.</string>
     <string name="draft_solarpanels00_title">PLTS</string>
     <string name="draft_solarpanels00_text">PLTS itu bagus untuk lingkungan, namun berdaya kecil.</string>
     <string name="draft_park00_title">Taman bunga kecil</string>
@@ -106,7 +106,7 @@
     <string name="draft_school00_title">Sekolah dasar</string>
     <string name="draft_school00_text">Di sini anak-anak belajar pengetahuan dasar.</string>
     <string name="draft_school01_title">Sekolah menengah</string>
-    <string name="draft_school01_text">Sekolah untuk remaja di mana mereka belajar pengetahuan yang lebih tinggi.</string>
+    <string name="draft_school01_text">Sekolah untuk remaja di mana mereka belajar pengetahuan tingkat lanjut.</string>
     <string name="draft_museum00_title">Museum</string>
     <string name="draft_museum00_text">Artefak-artefak disimpan di sini.</string>
     <string name="draft_pipe00_title">Pipa</string>
@@ -254,13 +254,13 @@
     <string name="settings_orientationportrait">Portrait</string>
     <string name="settings_orientationauto">Otomatis</string>
     <string name="draft_busdepot00_title">Terminal bus</string>
-    <string name="draft_busdepot00_text">Bus akan muncul dari sini,pastikan kalau bus nya sudah diberi rute!</string>
+    <string name="draft_busdepot00_text">Bus akan muncul dari sini. Pastikan bahwa busnya sudah diberi rute!</string>
     <string name="settings_debugmode">Mode debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Hapus</string>
     <string name="draftselector_titleview">Lihat</string>
     <string name="toolremove_default_title">Hapus</string>
-    <string name="toolremove_default_text">Anda bisa menghapus apapun dengan alat ini. Kecuali beberapa benda,anda bisa menghapusnya menggunakan alat hapus yang ditentukan.</string>
+    <string name="toolremove_default_text">Anda bisa menghapus apa pun dengan alat ini. Kecuali beberapa benda,anda bisa menghapusnya menggunakan alat hapus yang ditentukan.</string>
     <string name="toolremove_pipe_text">Alat ini bisa digunakan untuk menghilangkan pipa air.</string>
     <string name="toolremove_pipe_title">Hapus pipa</string>
     <string name="draftselector_cmdremove">Hapus</string>
@@ -308,7 +308,7 @@
     <string name="draft_footballstadion00_text">Lapangan sepak bola anti mainstream :).</string>
     <string name="buildinginfo_cmdupgrade">Tingkatkan</string>
     <string name="draft_footballstadion00_lights_title">Lampu</string>
-    <string name="draft_footballstadion00_lights_text">Gelap? Pasang lampu dong!.</string>
+    <string name="draft_footballstadion00_lights_text">Gelap? Pasang lampu dong!</string>
     <string name="buildinginfo_upgraded">Telah ditingkatkan</string>
     <string name="buildinginfo_upgradenotavail">Tidak tersedia</string>
     <string name="buildinginfo_upgrade">Tingkatkan</string>
@@ -320,21 +320,21 @@
     <string name="draft_middlepark00_title">Taman sedang</string>
     <string name="draft_middlepark00_text">Para penduduk akan menyukainya.</string>
     <string name="draft_basketball00_title">Lapangan bola basket</string>
-    <string name="draft_basketball00_text">Lapangan basket untuk anak millenial.</string>
+    <string name="draft_basketball00_text">Lapangan basket untuk anak milenial.</string>
     <string name="draft_tennis00_title">Lapangan tenis</string>
     <string name="draft_tennis00_text">Anak-anak bisa bermain tenis di sini.</string>
     <string name="draft_middlepark00_lights_title">Paviliun</string>
     <string name="draft_middlepark00_lights_text">Hujan? Berteduhlah di paviliun.</string>
     <string name="draft_middlepark00_clock_title">Jam</string>
     <string name="draft_middlepark00_clock_text">Jam akan memberitahukan bahwa emakmu sudah menunggumu di rumah.</string>
-    <string name="notify_power_low">Kita hampir kehabisan listrik. Bangun lebih banyak pembangkit listrik!.</string>
-    <string name="notify_water_low">Kita hampir kehabisan air bersih. Bangun lebih banyak PAM!.</string>
+    <string name="notify_power_low">Kita hampir kehabisan listrik. Bangun lebih banyak pembangkit listrik!</string>
+    <string name="notify_water_low">Kita hampir kehabisan air bersih. Bangun lebih banyak Stasiun Pompa Air!</string>
     <string name="notify_religion">Kita bukan ateis, jadi tolong bangun rumah ibadah!</string>
     <string name="notify_park">Kami mau lebih banyak taman.</string>
     <string name="notify_sport">Kami butuh olahraga! Bangun lapangan olahraga sekarang.</string>
     <string name="buildinginfo_happiness">Kebahagiaan: %1$.0f%%</string>
-    <string name="notify_noenergy">Ada bangunan yang tidak punya listrik!</string>
-    <string name="notify_nowater">Ada bangunan yang tidak punya air!</string>
+    <string name="notify_noenergy">Ada bangunan yang tidak memiliki listrik!</string>
+    <string name="notify_nowater">Ada bangunan yang tidak memiliki air!</string>
     <string name="draft_footballstadion00_roof_title">Atap</string>
     <string name="draft_footballstadion00_roof_text">Dengan atap, para pemain bisa bermain di segala cuaca!</string>
     <string name="draft_footballstadion00_fanshop_title">Toko Fans</string>
@@ -343,7 +343,7 @@
     <string name="notify_requirementupgrade">Selamat, kamu bisa membangun %1$s untuk bangunan %2$s!</string>
     <string name="draftselector_titlesports">Olahraga</string>
     <string name="draftselector_titlealert">Darurat</string>
-    <string name="notify_fire">Kebakaran! Kirimkan truk pemadam kebakaran untuk memadamkan api. Pertimbangkan untuk membangun lebih banyak departemen pemadam kebakaran.</string>
+    <string name="notify_fire">Kebakaran! Kirimkan truk pemadam kebakaran untuk memadamkan api. Pertimbangkan untuk membangun lebih banyak pemadam kebakaran.</string>
     <string name="notify_pollution">Terlalu banyak polusi! Mohon jauhkan kami dari zona industri!</string>
     <string name="draft_radio00_title">Stasiun radio</string>
     <string name="draft_radio00_text">Penduduk kamu akan senang ketika mendengar program radio.</string>
@@ -386,31 +386,31 @@
     <string name="topic_np">P=NP?</string>
     <string name="topic_42">69</string>
     <string name="draft_radio00_news_title">RRI</string>
-    <string name="draft_radio00_news_text">Mengirim berita terbaru tentang kota. Meningkatkan pengetahuan.
+    <string name="draft_radio00_news_text">Menyiarkan berita terbaru tentang kota. Meningkatkan pengetahuan.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_sport_title">Sport FM</string>
-    <string name="draft_radio00_sport_text">Mengirimkan laporan olahraga dan siaran langsung acara olahraga yang menarik. Bertindak seperti lapangan olahraga dengan jarak yang sangat jauh.
+    <string name="draft_radio00_sport_text">Menyiarkan laporan olahraga dan siaran langsung acara olahraga yang menarik. Bertindak seperti lapangan olahraga dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_fun_title">Dangdut FM</string>
-    <string name="draft_radio00_fun_text">Sering mengirimkan musik dan program hiburan ringan. Pendengarnya merasa lebih baik. Jadi, bertindak seperti taman dengan jarak yang sangat jauh.
+    <string name="draft_radio00_fun_text">Sering menyiarkan musik dan program hiburan ringan. Pendengarnya merasa lebih baik. Jadi, bertindak seperti taman dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_radio00_faith_title">Podcast Religi</string>
-    <string name="draft_radio00_faith_text">Mengirimkan percakapan tentang masalah iman dan keberadaan kita di bumi. Pada dasarnya bekerja sebagai rumah ibadah dengan jarak jauh di kota.
+    <string name="draft_radio00_faith_text">Menyiarkan percakapan tentang masalah iman dan keberadaan kita di bumi. Pada dasarnya bekerja sebagai rumah ibadah dengan jarak jauh di kota.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
     <string name="draft_lighthouse00_title">Mercusuar</string>
-    <string name="draft_lighthouse00_text">Tidak ada kapal yang jauh, tapi ada mercusuar .... aneh.</string>
+    <string name="draft_lighthouse00_text">Tidak ada kapal yang jauh, tapi ada mercusuar ... aneh.</string>
     <string name="draft_road02_title">Jalan raya</string>
-    <string name="draft_road02_text">Jalan aspal,namun memiliki batas kecepatan yang lebih tinggi.</string>
+    <string name="draft_road02_text">Jalan aspal, namun memiliki batas kecepatan yang lebih tinggi.</string>
     <string name="budget_road">Jalan</string>
     <string name="topic_birthday_phoenix">Selamat ulang tahun phoenix!</string>
     <string name="topic_birthday_lucasking">Selamat ulang tahun Lucas!</string>
     <string name="tutorial_title">Tutorial</string>
     <string name="tutorial_welcome">Selamat datang di tutorial!</string>
-    <string name="tutorial_minimap">Kamu bisa menunjukkan dan menyembunyikan peta mini kapan saja dengan mengetuknya.</string>
+    <string name="tutorial_minimap">Kamu bisa menampilkan dan menyembunyikan peta mini kapan saja dengan mengetuknya.</string>
     <string name="tutorial_buildroad_a">Kita mulai dengan membangun jalan. Pilih tipe jalan yang paling sederhana.</string>
     <string name="tutorial_buildroad_b">Tempatkan jalan di sepanjang kotak yang ditandai. Untuk membangunnya tekan untuk menetapkan titik awal, tekan lagi untuk mengatur titik akhir.</string>
     <string name="tutorial_buildroad_c">Kerja bagus! Sekarang tutup alatnya.</string>
@@ -436,11 +436,11 @@
     <string name="tutorial_buildindustrial_a">Satu lagi, zona industri. Di situlah pabrik-pabrik akan dibangun.</string>
     <string name="tutorial_buildindustrial_b">Tempatkan zona pada kotak yang ditandai.</string>
     <string name="tutorial_buildindustrial_c">Kerja Bagus. Sekarang bangunan akan segera dibangun.</string>
-    <string name="tutorial_industrial_keepaway">Kamu harus menjaga kawasan industri dari area perumahan karena akan menyebabkan penyakit paru-paru atau keracunan.</string>
-    <string name="tutorial_rci">Ketuk tombol ini untuk melihat informasi permintaan rinci untuk setiap jenis zona.</string>
-    <string name="tutorial_speed_fast">Kamu bisa mengubah kecepatan waktu untuk mempersingkat waktu tunggu.</string>
+    <string name="tutorial_industrial_keepaway">Kamu harus menjauhkan kawasan industri dari area perumahan karena akan menyebabkan penyakit pernapasan atau keracunan.</string>
+    <string name="tutorial_rci">Ketuk tombol ini untuk melihat rincian permintaan untuk setiap jenis zona.</string>
+    <string name="tutorial_speed_fast">Kamu bisa mengubah kecepatan waktu untuk mengurangi waktu tunggu.</string>
     <string name="tutorial_speed_normal">Atur saja kembali ke kecepatan normal.</string>
-    <string name="tutorial_money_task">Tugas kamu adalah untuk mendapatkan uang dari pajak untuk memperbesar kotamu.</string>
+    <string name="tutorial_money_task">Tugasmu adalah untuk mendapatkan uang dari pajak untuk memperbesar kotamu.</string>
     <string name="tutorial_money_info">Ketuk di sudut kanan bawah untuk mendapatkan lebih banyak informasi tentang uang kamu atau untuk mengubah nilai pajak.</string>
     <string name="tutorial_congrats">Selamat, kamu sudah selesai mempelajari dasar-dasar cara bermain TheoTown. Sekarang kamu bisa mulai membangun kotamu sendiri :)</string>
     <string name="draft_road03_title">Jalan searah</string>
@@ -972,7 +972,7 @@
     <string name="draft_mltry_road00_text">Jalan yang didedikasikan untuk kendaraan militer dan kendaraan darurat. Kamu tidak boleh membangun jenis jalan lainnya di area militer.</string>
     <string name="draft_mltry_hq00_text">Markas besar adalah bangunan paling penting di pangkalan militer.</string>
     <string name="draft_mltry_baracks00_text">Tentara tinggal di sini.</string>
-    <string name="draft_mltry_depot00_text">Depot untuk persediaan militer apapun.</string>
+    <string name="draft_mltry_depot00_text">Depot untuk persediaan militer apa pun.</string>
     <string name="draft_mltry_tankbase00_text">Depot untuk kendaraan militer berat.</string>
     <string name="draft_mltry_rocketlauncher00_text">Bisa dipakai untuk menembak UFO. Tidak bisa dipakai untuk menembak bangunan sipil atau kendaraan.</string>
     <string name="draft_mltry_missilesilo00_text">Pemerintah ingin melakukan beberapa tes roket di kotamu. Karena ini dapat menyebabkan bencana, kamu mendapatkan kompensasi untuk risikonya.</string>
@@ -1545,7 +1545,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_statueofliberty00_title">Patung Liberty</string>
     <string name="draft_statueofliberty00_text">Patung Liberty adalah sebuah hadiah dari Prancis untuk Amerika Serikat. Patung ini diresmikan pada 1886 dan tingginya 93 meter.</string>
     <string name="draft_decorustywatertower00_title">Menara air berkarat</string>
-    <string name="draft_decorustywatertower00_text">Menara air tua dan berkarat. Tidak digunakan untuk apapun.</string>
+    <string name="draft_decorustywatertower00_text">Menara air tua dan berkarat. Tidak digunakan untuk apa pun.</string>
     <string name="draft_underground_wire00_title">Kabel bawah tanah</string>
     <string name="draft_underground_wire00_text">Bekerja seperti kabel biasa, tetapi ditempatkan di bawah tanah supaya tidak ada yang harus melihatnya.</string>
     <string name="draft_feature_freedombuildings00_title">Landmark I</string>
@@ -1841,10 +1841,10 @@ Kon: Kurang tantangan</string>
     <string name="draft_medic03_title">Rumah sakit modern</string>
     <string name="draft_medic03_text">Rumah sakit modern yang bisa merawat lebih banyak pasien dengan ruang yang lebih kecil.</string>
     <string name="draft_gol_dead_title">Permainan kehidupan</string>
-    <string name="draft_gol_dead_text">Ciptakan bidang permainan kehidupan. Sentuh tile yang telah dibangun untuk mengganti kondisi mereka. Kondisi default adalah mati.</string>
+    <string name="draft_gol_dead_text">Ciptakan bidang permainan kehidupan. Sentuh ubin yang telah dibangun untuk mengganti kondisi mereka. Kondisi default adalah mati.</string>
 
     <string name="draft_coittower00_title">Menara Memorial Coit</string>
-    <string name="draft_coittower00_text">Menara Memorial Coit dibangun pada 1933 dan didedikasikan untuk para sukarelawan pemadam kebakaran yang gugur dalam lima kebakaran besar di San Fransisco.</string>
+    <string name="draft_coittower00_text">Menara Memorial Coit dibangun pada 1933 dan didedikasikan untuk para sukarelawan pemadam kebakaran yang gugur dalam lima kebakaran besar di San Francisco.</string>
     <string name="draft_bankofamerica00_title">Pusat Bank Amerika</string>
     <string name="draft_bankofamerica00_text">Pusat Bank Amerika merupakan sebuah gedung pencakar langit setinggi 52 lantai (237 m) di San Francisco, California.</string>
     <string name="draft_transamerica00_title">Piramida Transamerika</string>
@@ -1866,7 +1866,7 @@ Kon: Kurang tantangan</string>
     <string name="draft_feature_landmarks05_title">Landmark VI</string>
     <string name="draft_marker_hackedmarkermarker_title">VERSI INI TELAH DIHACK!</string>
 
-    <string name="settings_dedicatedplugintexture">Lebih banyak ruang tekstur plugin (perlu restart; mungkin tidak stabil)</string>
+    <string name="settings_dedicatedplugintexture">Lebih banyak ruang tekstur plugin (memerlukan mulai ulang; mungkin tidak stabil)</string>
     <string name="draft_haunted_house00_title">Rumah hantu</string>
     <string name="draft_haunted_house00_text">Rumah mewah tua yang kelihatannya berbahaya. IT mungkin hidup di sini.</string>
     <string name="notify_illness">Ada wabah epidemi, kita harus mengambil tindakan sekarang juga. Kirim dokter!</string>
@@ -1880,7 +1880,7 @@ Kon: Kurang tantangan</string>
     <string name="draft_bushman00_title">Patung Orang Semak</string>
     <string name="draft_bushman00_text">\"Ma, apa itu?\"\n\"Jangan melihatnya, dia akan menghantui mimpimu kalau kamu melihatnya.\"</string>
     <string name="draft_police03_title">Dep. polisi modern</string>
-    <string name="draft_police03_text">Berikan fulus, maka kamu akan menyelesaikan masalah kriminal apapun.</string>
+    <string name="draft_police03_text">Berikan fulus, maka kamu akan menyelesaikan masalah kriminal apa pun.</string>
     <string name="draft_sf_cityhall00_title">Balai kota</string>
     <string name="draft_sf_cityhall00_text">Balai kota terinspirasi dari balai kota di San Francisco.</string>
     <string name="draft_sf_fineartspalace00_title">Istana Seni Rupa</string>
@@ -2900,12 +2900,12 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="draft_dsa_moon_pickle_rocket00_text">Roket besar yang didesain khusus untuk menampung banyak acar di dalamnya.</string>
     <string name="moon_region_unsupported">Sayangnya, wilayah di bulan belum didukung aplikasi. Kota ini akan tutup!</string>
     <string name="draft_space_storyline_cancel00">Maaf, aku tidak bisa memberitahukanmu!</string>
-    <string name="draft_space_storyline_busy00">Maaf, tapi aku belum punya apapun untukmu saat ini.</string>
+    <string name="draft_space_storyline_busy00">Maaf, tapi aku belum punya apa pun untukmu saat ini.</string>
     <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
     <string name="draft_space_storyline_intro01">Jangan takut! Kami datang dengan damai.</string>
     <string name="draft_space_storyline_intro02">Pendaratan darurat lebih pas.</string>
     <string name="draft_space_storyline_intro03">Kami percaya kamu tidak akan menyakiti kami. Kami bisa percaya kamu, kan?</string>
-    <string name="draft_space_storyline_intro_refused00">Baik. Kalian bisa melakukan apapun kepada kami, tetapi kami tidak akan memberi tahu kalian tentang apapun.</string>
+    <string name="draft_space_storyline_intro_refused00">Baik. Kalian bisa melakukan apa pun kepada kami, tetapi kami tidak akan memberi tahu kalian tentang apa pun.</string>
     <string name="draft_space_storyline_intro_affirmed00">Bagus. Perkenalkan diri saya.</string>
     <string name="draft_space_storyline_intro_affirmed01">Saya PemimpinAcarRaksasaAsli#01 - penguasa galaksi Timun.</string>
     <string name="draft_space_storyline_intro_affirmed02">Kami hanya membutuhkan sedikit pertolongan. Sebaliknya, kalian bisa memperoleh semua ilmu kami.</string>
