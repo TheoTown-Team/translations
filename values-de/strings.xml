@@ -1450,7 +1450,7 @@ Mit Zugriff auf den externen Speicher werden Städte im Ordner TheoTown/maps auf
 
 
     <string name="dialog_halftunnelprice_title">Halber Tunnelpreis</string>
-    <string name="dialog_halftunnelprice_text">Lust Diamanten zu sparen? Dieser Boost reduziert die Kosten pro Tunnelstück um 50%% für %s.</string>
+    <string name="dialog_halftunnelprice_text">Lust Diamanten zu sparen? Dieser Boost reduziert die Kosten pro Tunnelstück um 50 für %s.</string>
     <string name="game_remaining_halftunnelprice">Halber Tunnelpreis %s</string>
     <string name="shop_diamonds_sole">%s Diamanten</string>
     <string name="dialog_diamondshop_bestvalue">Bester Wert</string>
@@ -3322,8 +3322,206 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="region_download_city">Stadt herunterladen City</string>
     <string name="region_download_region">Region herunterladen</string>
     <string name="toolaction_removelast">Letzte entfernen</string>
-    <string name="ci_transportation_title">Transport</string>
+    <string name="ci_transportation_title">Verkehrssysteme</string>
     <string name="settings_legacy_bus_system">Verwendet altes Bussystem</string>
     <string name="draft_tool_car_follower00_despawn">Fahrzeug verschwunden</string>
+
+
+    <string name="settings_extra_d">Extra D</string>
+    <string name="settings_extra_d_gen">%s D</string>
+    <string name="settings_extra_d_max">3D-irgendwie</string>
+    <string name="settings_stretching">Streckung</string>
+    <string name="settings_stretching_narrow2">Quadratisch</string>
+    <string name="settings_stretching_narrow1">Schlank</string>
+    <string name="settings_stretching_narrow0">Kompakt</string>
+    <string name="settings_stretching_wide0">Gestreckt</string>
+    <string name="settings_stretching_wide1">Dick</string>
+    <string name="settings_stretching_wide2">B R E I T</string>
+    <string name="settings_notransformsupport_hint">Die Transformation wird von der aktuellen Einstellung %1$s-&gt;%2$s nicht unterstützt</string>
+    <string name="ci_airport_launchedairplanes">Gestartete Flugzeuge: %s</string>
+    <string name="ci_airport_totalpassengers">Gesamtpassagiere: %s</string>
+
+    <string name="ts_routes">Routen</string>
+    <string name="ts_stations">Stationen</string>
+    <string name="ts_vehicles">Fahrzeuge</string>
+    <string name="ts_cityview">Stadtansicht</string>
+    <string name="ts_routemap">Netzplan</string>
+    <string name="ts_dialog_buy_vehicle_title">Fahrzeug kaufen</string>
+    <string name="ts_dialog_select_vehicle_title">Fahrzeug auswählen</string>
+    <string name="ts_missing_reqs">Fehlende Voraussetzungen</string>
+    <string name="ts_warn_no_routes">Keine Routen</string>
+    <string name="ts_warn_hard_to_reach">Schwer erreichbar, füge mehr Routen hinzu</string>
+    <string name="ts_route_name_prefix">S</string>
+    <string name="ts_route_copy_suffix">\'</string>
+    <string name="ts_route_invalid">Ungültige Route</string>
+    <string name="ts_route_no_vehicle">Kein Fahrzeug zugewiesen</string>
+    <string name="ts_route_path_broken">Die Strecke ist unterbrochen</string>
+    <string name="ts_route_usage">Nutzung:</string>
+    <string name="ts_route_set_vehicle">Fahrzeug zuweisen</string>
+    <string name="ts_route_edit">Route</string>
+    <string name="ts_route_more">Mehr</string>
+    <string name="ts_route_duplicate">Duplizieren</string>
+    <string name="ts_route_rename">Umbenennen</string>
+    <string name="ts_dialog_route_rename_title">Routenname</string>
+    <string name="ts_route_delete">Löschen</string>
+    <string name="ts_station_routes_for">Routen für </string>
+    <string name="ts_station_routes">Routen:</string>
+    <string name="ts_station_waiting">Wartend:</string>
+    <string name="ts_station_usage">Nutzung:</string>
+    <string name="ts_station_locate">Zeigen</string>
+    <string name="ts_station_rename">Umbenennen</string>
+    <string name="ts_station_recolor">Farbe ändern</string>
+    <string name="ts_dialog_station_rename_title">Stationsname</string>
+    <string name="ts_station_routes_clear">Löschen</string>
+    <string name="ts_add_route">Route hinzufügen</string>
+    <string name="ts_station_show_routes">Routen</string>
+    <string name="ts_vehicle_capacity">Kapazität:</string>
+    <string name="ts_vehicle_speed">Geschwindigkeit:</string>
+    <string name="ts_vehicle_price">Preis:</string>
+    <string name="ts_vehicle_transferred">Gesamt transportiert:</string>
+    <string name="ts_vehicle_on_board">An Bord:</string>
+    <string name="ts_vehicle_assigned_to">Zugewiesen an </string>
+    <string name="ts_vehicle_not_assigned">Keiner Route zugewiesen</string>
+    <string name="ts_vehicle_locate">Lokalisieren</string>
+    <string name="ts_vehicle_delete">Löschen</string>
+    <string name="ts_dialog_sell_vehicle_title">Verkaufen?</string>
+    <string name="ts_dialog_sell_vehicle_text">Möchtest Du „%s“ verkaufen?\nWert: %s</string>
+    <string name="ts_dialog_sell_vehicle_cmd_sell">Verkaufen</string>
+    <string name="ts_vehicle_count">%d/%d Fahrzeuge</string>
+    <string name="ts_vehicle_count_depot_limit">%s (begrenzt durch Depots)</string>
+    <string name="ts_vehicle_count_station_limit">%s (begrenzt durch Stationen)</string>
+    <string name="ts_buy_vehicle">Fahrzeug kaufen</string>
+    <string name="ts_build_depot">Depot bauen</string>
+    <string name="ts_vehicle_assign">Zuweisen</string>
+    <string name="ts_vehicle_unassign">Zuweisung aufheben</string>
+    <string name="ts_buy_vehicle_buy_more">Kaufe zuerst ein Fahrzeug, um es zuzuweisen</string>
+    <string name="ts_buy_vehicle_title">Fahrzeuge</string>
+    <string name="ts_buy_vehicle_cmdbuy">Kaufen</string>
+    <string name="ts_cityinfo_routes">Routen:</string>
+    <string name="ts_cityinfo_stations">Stationen:</string>
+    <string name="ts_routes_title">Routen</string>
+    <string name="ts_stations_title">Stationen</string>
+    <string name="ts_vehicles_title">Fahrzeuge</string>
+    <string name="ts_mode_one_shot">Einfach</string>
+    <string name="ts_mode_loop">Schleife</string>
+    <string name="ts_mode_ping_pong">Hin &amp; zurück</string>
+
+    <string name="draft_bus00_title">TB-20</string>
+    <string name="draft_bus02_title">TB-35</string>
+    <string name="draft_bus04_title">TB-80</string>
+    <string name="draft_bus06_title">TB-140A</string>
+    <string name="draft_bus08_title">TB-200B</string>
+    <string name="draft_ts_native_bus00_title">Busse</string>
+
+    <string name="draft_elevated_train_train00_title">Haupt</string>
+    <string name="draft_elevated_train_train01_title">Neben</string>
+    <string name="draft_ts_native_elevatedtrain00_title">Hochbahn</string>
+
+    <string name="draft_train_freighter_coal00_title">Kohlezug</string>
+    <string name="draft_train_freighter_wood00_title">Holzzug</string>
+    <string name="draft_train_freighter_car00_title">Autotransportzug</string>
+    <string name="draft_train_freighter_petrol00_title">Ölzug</string>
+    <string name="draft_train_freighter_container00_title">Containerzug</string>
+    <string name="draft_ts_native_freighttrain00_title">Güterzüge</string>
+
+    <string name="draft_ts_metro_train00_title">Metro-Einheit 69</string>
+    <string name="draft_ts_native_metro00_title">Metro</string>
+
+    <string name="draft_train_odeg00_title">ODEG</string>
+    <string name="draft_train_neb00_title">NEB</string>
+    <string name="draft_train_br64600_title">BR64600</string>
+    <string name="draft_train_ice00_title">ICE</string>
+    <string name="draft_train_regio00_title">Regio</string>
+    <string name="draft_train_ic00_title">IC</string>
+    <string name="draft_ts_native_passengertrain00_title">Personenzüge</string>
+
+    <string name="ts_no_routes">Erstelle eine Route, um zu beginnen</string>
+    <string name="ts_no_routes_station">Dieser Station sind keine Routen zugewiesen</string>
+    <string name="ts_no_stations">Baue Stationen und verbinde sie mit Routen</string>
+    <string name="ts_no_vehicles">Kaufe ein Fahrzeug, um den Betrieb zu starten</string>
+
+    <string name="control_copy">Kopieren</string>
+    <string name="control_paste">Einfügen</string>
+    <string name="dialog_colorpicker_title">Farbe auswählen</string>
+
+    <string name="ts_location_west">%s West</string>
+    <string name="ts_location_south">%s Süd</string>
+    <string name="ts_location_north">%s Nord</string>
+    <string name="ts_location_east">%s Ost</string>
+    <string name="ts_location_center">%s Zentrum</string>
+    <string name="ts_location_inner">%s Innen</string>
+    <string name="ts_location_outer">%s Außen</string>
+    <string name="ts_location_edge">%s Rand</string>
+
+    <!-- Ortsnamen -->
+    <string name="ts_names_residential_maplestreet">Ahornstraße</string>
+    <string name="ts_names_residential_elmwooddrive">Ulmenweg</string>
+    <string name="ts_names_residential_oaklane">Eichenweg</string>
+    <string name="ts_names_residential_villagegreen">Dorfanger</string>
+
+    <string name="ts_names_commercial_marketsquare">Marktplatz</string>
+    <string name="ts_names_commercial_mainstreetmall">Einkaufszentrum</string>
+    <string name="ts_names_commercial_commerceplaza">Handelsplatz</string>
+    <string name="ts_names_commercial_downtowncenter">Stadtzentrum</string>
+    <string name="ts_names_commercial_shoppingdistrict">Einkaufsviertel</string>
+
+    <string name="ts_names_industrial_industrialpark">Industriepark</string>
+    <string name="ts_names_industrial_factorygate">Fabrikstor</string>
+    <string name="ts_names_industrial_warehouserow">Lagerhausreihe</string>
+    <string name="ts_names_industrial_freightyard">Güterbahnhof</string>
+    <string name="ts_names_industrial_commercedrive">Handelsstraße</string>
+
+    <string name="ts_names_harbor_harbourfront">Hafenfront</string>
+    <string name="ts_names_harbor_waterfrontpier">Uferpier</string>
+    <string name="ts_names_harbor_riversidedocks">Docks</string>
+    <string name="ts_names_harbor_seawallstop">Kaimauer</string>
+
+    <string name="ts_names_farm_farmroad">Feldweg</string>
+    <string name="ts_names_farm_countryside">Land</string>
+    <string name="ts_names_farm_fieldsstop">Feld-Haltestelle</string>
+    <string name="ts_names_farm_orchard">Obstgarten</string>
+    <string name="ts_names_farm_pastures">Weiden</string>
+    <string name="ts_names_farm_ruralgate">Landtor</string>
+
+    <string name="ts_names_park_centralpark">Zentralpark</string>
+    <string name="ts_names_park_meadowpark">Wiesenpark</string>
+    <string name="ts_names_park_woodlandgardens">Waldgärten</string>
+
+    <string name="ts_names_airport_airportterminal">Flughafenterminal</string>
+    <string name="ts_names_airport_terminalshuttle">Terminal-Shuttle</string>
+    <string name="ts_names_airport_aviationway">Luftfahrtstraße</string>
+    <string name="ts_names_airport_flyerstop">Flieger-Haltestelle</string>
+    <string name="ts_names_airport_airportgate">Flughafen</string>
+
+    <string name="ts_names_military_basegate">Stützpunkt</string>
+    <string name="ts_names_military_fortmain">Fort Haupt</string>
+    <string name="ts_names_military_barracksstop">Kaserne-Haltestelle</string>
+    <string name="ts_names_military_arsenalroad">Arsenalstraße</string>
+    <string name="ts_names_military_garrisondepot">Garnisonsdepot</string>
+
+    <string name="ts_names_water_riverside">Flussufer</string>
+    <string name="ts_names_water_riverbank">Uferböschung</string>
+    <string name="ts_names_water_lakeside">Seeufer</string>
+    <string name="ts_names_water_seaside">Meeresküste</string>
+    <string name="ts_names_water_beachfront">Strandpromenade</string>
+
+    <!-- Monorail -->
+    <string name="draft_pmono_tracks00_title">Monorail-Gleise</string>
+    <string name="draft_pmono_tracks00_text">Erhöhte Gleise für den Monorail-Betrieb.</string>
+
+    <string name="draft_pmono_roaddeco_roof00_title">Monorail-Stationsdach</string>
+    <string name="draft_pmono_roaddeco_roof00_text">Dachelement zum Abdecken von Monorail-Stationen.</string>
+
+    <string name="draft_pmono_station00_title">Monorail-Station</string>
+    <string name="draft_pmono_station00_text">Eine modulare Station für lokalen Monorail-Verkehr.</string>
+
+    <string name="draft_pmono_station_prebuilt00_title">Monorail-Station</string>
+    <string name="draft_pmono_station_prebuilt00_text">Eine vorgefertigte Monorail-Station für lokalen Verkehr.</string>
+
+    <string name="draft_pmono_station_prebuilt01_title">Große Monorail-Station</string>
+    <string name="draft_pmono_station_prebuilt01_text">Eine größere, vorgefertigte Monorail-Station mit erweiterter Kapazität.</string>
+
+    <string name="draft_pmono_train00_title">Monorail 2000</string>
+    <string name="draft_ts_native_monorail00_title">Monorail</string>
 
 </resources>
