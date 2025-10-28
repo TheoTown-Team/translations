@@ -32,7 +32,7 @@ Here is a list of currently supported languages:
 - `values-eu`: Basque
 - `values-fa`: Farsi
 - `values-fr`: French
-- `values-hu`: Hungary
+- `values-hu`: Hungarian
 - `values-in`: Indonesian
 - `values-it`: Italian
 - `values-ja`: Japanese
