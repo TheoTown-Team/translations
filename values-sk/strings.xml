@@ -49,7 +49,7 @@
     <string name="draftselector_titlepublics">Verejné</string>
     <string name="draftselector_titleenergy">Elektrina</string>
     <string name="draftselector_titlewater">Voda</string>
-    <string name="draftselector_titleschool">Vzdelanie</string>
+    <string name="draftselector_titleschool">Vzdelávanie</string>
     <string name="draftselector_titlehealth">Zdravotníctvo</string>
     <string name="draftselector_titlepolice">Polícia</string>
     <string name="draftselector_titlefiredepartment">Hasiči</string>
@@ -58,7 +58,7 @@
     <string name="draftselector_monthlyprice">Mesačné výdaje: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Vymazať</string>
-    <string name="loadcity_deletedialog_text">Naozaj chcete vymazať? Tento krok sa nedá vrátiť.</string>
+    <string name="loadcity_deletedialog_text">Naozaj chcete vymazať mesto? Tento krok sa nedá vrátiť.</string>
     <string name="loadcity_deletedialog_title">Vymazať mesto</string>
     <string name="loadcity_deletedialog_cmdcancel">Zrušiť</string>
     <string name="loadcity_deletedialog_cmddelete">Vymazať</string>
@@ -85,9 +85,9 @@
     <string name="draft_windturbine00_title">Veterná turbína</string>
     <string name="draft_windturbine00_text">Veterná turbína vyrába elektrinu z vetra. Neznečisťuje ovzdušie, no je hlučná.</string>
     <string name="draft_coalplant00_title">Uhoľná elektráreň</string>
-    <string name="draft_coalplant00_text">Uhoľná elektráreň vyrába elektrinu z uhlie. Ľudia neradi bývajú vedľa nej, pretože znečisťuje ovzdušie.</string>
+    <string name="draft_coalplant00_text">Uhoľná elektráreň vyrába elektrinu z uhlia. Ľudia neradi bývajú vedľa nej, pretože znečisťuje ovzdušie.</string>
     <string name="draft_solarpanels00_title">Solárne panely</string>
-    <string name="draft_solarpanels00_text">Solárne panely vyrábajú elektrinu zo Slnka.</string>
+    <string name="draft_solarpanels00_text">Solárne panely vyrábajú elektrinu zo slnka.</string>
     <string name="draft_park00_title">Malý kvetinový park</string>
     <string name="draft_park00_text">Obyvatelia ho majú radi.</string>
     <string name="draft_park01_title">Malý park</string>
@@ -105,11 +105,11 @@
     <string name="draft_medic01_title">Nemocnica</string>
     <string name="draft_medic01_text">Obyvatelia sa cítia bezpečnejšie v blízkosti nemocnice.</string>
     <string name="draft_school00_title">Základná škola</string>
-    <string name="draft_school00_text">Miesto, kde sa učia malé deti.</string>
-    <string name="draft_school01_title">Vysoká škola</string>
-    <string name="draft_school01_text">Miesto, kde sa učia študenti po absolvovaní strednej školy.</string>
+    <string name="draft_school00_text">Miesto, kde sa učia mladší žiaci. Školstvo umožní príchod bohatším obyvateľom do mesta.</string>
+    <string name="draft_school01_title">Stredná škola</string>
+    <string name="draft_school01_text">Miesto, kde sa učia študenti po absolvovaní základnej školy. Školstvo umožní príchod bohatším obyvateľom do mesta.</string>
     <string name="draft_museum00_title">Múzeum</string>
-    <string name="draft_museum00_text">V múzeu sa učia starší ľudia.</string>
+    <string name="draft_museum00_text">Miesto na spoznávanie umenia, vedy a kultúry. Poskytuje základné aj vyššie vzdelanie.</string>
     <string name="draft_pipe00_title">Potrubie</string>
     <string name="draft_pipe00_text">Potrubie rozvádza vodu po meste.</string>
     <string name="draft_waterpump00_title">Vodná pumpa.</string>
@@ -118,10 +118,10 @@
     <string name="draft_watertower00_text">Dodáva budovám vodu.</string>
     <string name="settings_areazonetool">Použite nástroj pre tvorbu zóny</string>
     <string name="createcity_gamemode">Herný mód:</string>
-    <string name="gamemode_easy">Ľahký</string>
-    <string name="gamemode_middle">Stredný</string>
-    <string name="gamemode_hard">Ťažký</string>
-    <string name="game_infinitemoney">Voľný</string>
+    <string name="gamemode_easy">Ľahké</string>
+    <string name="gamemode_middle">Stredné</string>
+    <string name="gamemode_hard">Ťažké</string>
+    <string name="game_infinitemoney">Voľné</string>
     <string name="about_title">Výrobca</string>
     <string name="about_cmdback">Späť</string>
     <string name="settings_music">Hudba</string>
@@ -131,11 +131,11 @@
     <string name="settings_shader">Shader</string>
     <string name="shader_colorful">Pestrofarebné</string>
     <string name="shader_gray">Šedé</string>
-    <string name="shader_fancy">Pekný</string>
+    <string name="shader_fancy">Pekné</string>
     <string name="settings_category_graphics">Grafika</string>
     <string name="settings_category_audio">Zvuk</string>
     <string name="settings_category_other">Ostatné</string>
-    <string name="draft_management00_title">Policajné oddelenie</string>
+    <string name="draft_management00_title">Policajná stanica</string>
     <string name="draft_management00_text">Zabezpečuje lepšiu ochranu.</string>
     <string name="draft_firedepartment00_title">Hasičská stanica</string>
     <string name="draft_firedepartment00_text">Poskytuje prevenciu a hasí požiar. Má dve vozidlá a slušný dosah.</string>
@@ -144,12 +144,10 @@
     <string name="draft_gillender00_title">Budova Gillender</string>
     <string name="draft_gillender00_text">Budova Gillender z New Yorku. Ďakujeme za 250 000 stiahnutí :D</string>
     <string name="topic_thanks">Ďakujeme za úžasnú podporu!</string>
-    <string name="topic_cake">Torta je falošná!</string>
+    <string name="topic_cake">The cake is a lie!</string>
     <string name="topic_panic">Nepanikárte!!!</string>
-    <string name="draft_bigschool00_title">Stredná škola</string>
-    <string name="draft_bigschool00_text">Učia sa tu žiaci po absolvovaní základnej školy.
-\n
-\n(pozn.: V našej hra funguje rovnako ako základná škola)</string>
+    <string name="draft_bigschool00_title">Veľká základná škola</string>
+    <string name="draft_bigschool00_text">Učia sa tu malé deti, akurát sa ich sem zmestí viac. Vďaka školstvu budú do mesta prichádzať bohatší obyvatelia.</string>
     <string name="draft_treepark00_title">Stromový park</string>
     <string name="draft_treepark00_text">Malý park so stromami. Obyvateľom sa páči.</string>
     <string name="menu_premium">Prémium</string>
@@ -164,7 +162,7 @@
     <string name="budget_ind1">Priemyselné ₮₮ (%1$,d)</string>
     <string name="budget_ind2">Priemyselné ₮₮₮ (%1$,d)</string>
     <string name="budget_park">Parky</string>
-    <string name="budget_education">Vzdelanie</string>
+    <string name="budget_education">Vzdelávanie</string>
     <string name="budget_firebrigade">Hasiči</string>
     <string name="budget_police">Polícia</string>
     <string name="budget_award">Ocenenia</string>
@@ -270,15 +268,15 @@
     <string name="draftselector_cmdview">Zobraziť</string>
     <string name="busstopinfo_usage">Čakajúci: %2$,d/%3$,d\nVyužitie: %1$.1f%%</string>
     <string name="ci_rating_title">Hodnotenie</string>
-    <string name="ci_energy_networks">%1$,d Sieť(í)</string>
+    <string name="ci_energy_networks">Počet sietí: %1$,d</string>
     <string name="ci_energy_produced">Produkované: %1$,.0fkW (%2$,d budovy)</string>
     <string name="ci_energy_consumed">Spotrebované: %1$,.0fkW (%2$,d budovy)</string>
     <string name="ci_energy_ratio">Využitie: %1$.1f%%</string>
-    <string name="ci_energy_all">Celkovo</string>
+    <string name="ci_energy_all">Spolu</string>
     <string name="ci_energy_single">Jednotlivo</string>
-    <string name="ci_water_all">Celkovo</string>
+    <string name="ci_water_all">Spolu</string>
     <string name="ci_water_single">Jednotlivo</string>
-    <string name="ci_water_networks">%1$,d Sieť (í)</string>
+    <string name="ci_water_networks">Počet sietí: %1$,d</string>
     <string name="ci_water_consumed">Spotrebované: %1$,.0fL/h (%2$,d budovy)</string>
     <string name="ci_water_produced">Produkované: %1$,.0fL/h (%2$,d budovy)</string>
     <string name="ci_water_ratio">Využitie: %1$.1f%%</string>
@@ -502,13 +500,13 @@
     <string name="disaster_tornado_title">Tornádo</string>
     <string name="disaster_tornado_text">Tornádo je pre mesto veľmi nebezpečné.</string>
     <string name="disaster_tornado_cmdtext">Rozvíriť vzduch!</string>
-    <string name="buildinginfo_untouchable">Nedotnkuteľný</string>
+    <string name="buildinginfo_untouchable">Nedotknuteľný</string>
     <string name="draft_zoneresidential_lvl2_title">Hustá obytná</string>
-    <string name="draft_zoneresidential_lvl2_text">Obytná zóna s vyššou hustotou.</string>
+    <string name="draft_zoneresidential_lvl2_text">Obytná zóna s vyššou hustotou. Husté zóny dokážu pojať viac ľudí do rovnakého priestoru, hlavne vďaka vyšším budovám.</string>
     <string name="draft_zonecommercial_lvl2_title">Hustá komerčná</string>
-    <string name="draft_zonecommercial_lvl2_text">Komerčná zóna s vyššou hustotou.</string>
+    <string name="draft_zonecommercial_lvl2_text">Komerčná zóna s vyššou hustotou. Husté zóny dokážu pojať viac ľudí do rovnakého priestoru, hlavne vďaka vyšším budovám.</string>
     <string name="draft_zoneindustrial_lvl2_title">Hustá priemyselná</string>
-    <string name="draft_zoneindustrial_lvl2_text">Priemyselná zóna s vyššou hustotou.</string>
+    <string name="draft_zoneindustrial_lvl2_text">Priemyselná zóna s vyššou hustotou. Husté zóny dokážu pojať viac ľudí do rovnakého priestoru, hlavne vďaka vyšším budovám.</string>
     <string name="draft_zonefarm_title">Farma</string>
     <string name="draft_zonefarm_text">Lacná zóna pre farmu. Minimálna veľkosť je 4x4.</string>
     <string name="requirement_peoplecount_all">Potrebuje: Populáciu %1$,d</string>
@@ -551,8 +549,8 @@
     <string name="influence_religion_title">Náboženstvo</string>
     <string name="influence_culture_title">Kultúra</string>
     <string name="influence_culture_text">Hodnota kultúry v meste.</string>
-    <string name="influence_education_low_text">Školy zabezpečia základné vzdelanie.</string>
-    <string name="influence_education_high_text">Vyššie vzdelanie je zabezpečené vysokými školami.</string>
+    <string name="influence_education_low_text">Základné školy zabezpečia základné vzdelanie.</string>
+    <string name="influence_education_high_text">Vyššie vzdelanie je zabezpečené strednými školami.</string>
     <string name="influence_firedep_text">Vplyv hasičských staníc znižuje riziko vzniku požiaru.</string>
     <string name="influence_health_text">Doktori udržujú ľudí zdravých.</string>
     <string name="influence_noise_text">Nikto nechce bývať v hlučnom prostredí.</string>
@@ -614,11 +612,11 @@
     <string name="topic_big">Spravte veľkú vec</string>
     <string name="buildinginfo_waterwaste">Strata: %1$.1f%%</string>
     <string name="ci_water_waste">Strata: %1$.1f%%</string>
-    <string name="shader_fancy2">Extrapekný</string>
+    <string name="shader_fancy2">Extrapekné</string>
     <string name="draft_sewerpipe00_title">Výpust kanalizácie</string>
     <string name="draft_sewerpipe00_text">Znižuje znečistenie vody vypúšťaním kanalizácie do prírody. Má zlý vplyv.</string>
     <string name="settings_lowresmapscreenshot">Nižšie rozlíšenie pre screenshot</string>
-    <string name="draft_marina00_title">Jachtový klub</string>
+    <string name="draft_marina00_title">Jachtingový klub</string>
     <string name="draft_marina00_text">Zábava pre bohatých obyvateľov.</string>
     <string name="loadcity_version">Verzia %1$,d</string>
     <string name="loadcity_memdialog_title">Žiadny prístuk k externej pamäti</string>
@@ -658,8 +656,8 @@
     <string name="draft_rail00_text">Nadzemná železnica.</string>
     <string name="draft_railwaystation00_title">Stanica nadzemky</string>
     <string name="draft_railwaystation00_text">Železnica je dobrá pre zníženie premávky na cestách. Vybudujte stanice na rôznych miestach a prepojte ich koľajnicami.</string>
-    <string name="draft_school02_title">Málotriedka</string>
-    <string name="draft_school02_text">Malá základná škola, ktorá pokryje pár domov.</string>
+    <string name="draft_school02_title">Malá základná škola</string>
+    <string name="draft_school02_text">Učia sa tu mladší žiaci. Táto škole je ale taká malinká, že sa hodí tak akurát do malej dediny. Vďaka školstvu budú do mesta prichádzať bohatší obyvatelia.</string>
     <string name="toolremove_zone_title">Odstrániť zónu</string>
     <string name="toolremove_zone_text">Použite tento nástroj, aby ste odstránili vyhradené zóny.</string>
     <string name="budget_rail">Koľajnice</string>
@@ -862,8 +860,8 @@
     <string name="control_auto">Automaticky</string>
     <string name="control_on">Zapnúť</string>
     <string name="control_off">Vypnúť</string>
-    <string name="draft_school03_title">Veľká vysoká škola</string>
-    <string name="draft_school03_text">Väčšia vysoká škola pre viac študentov.</string>
+    <string name="draft_school03_title">Veľká stredná škola</string>
+    <string name="draft_school03_text">Väčšia stredná škola pre viac študentov. Vďaka školstvu budú do mesta prichádzať bohatší obyvatelia.</string>
         <string name="gamemode_easy_desc">V tomto hernom režime začnete s väčším obnosom peňazí a všetko ide jednoduchšie.</string>
     <string name="gamemode_middle_desc">Základný režim hry. Začínate s dobrým množstvom peňazí a nemal by byť problém vybudovať mesto podľa vašich snov.</string>
     <string name="gamemode_hard_desc">Ste v TheoTown profík? Potom je tento režim pre vás ten pravý. Začínate s malým obnosom peňazí a hra je celkovo náročnejšia.</string>
@@ -940,9 +938,9 @@
     <string name="notify_loweducationneeded">Doprajte deťom vzdelanie. Postavte základnú školu.</string>
     <string name="notify_higheducationneeded">Získajme géniov vybudovaním vysokej školy.</string>
     <string name="dialog_ffwd1_text">Dovolí použiť vyššiu rýchlosť hry na %1$s.</string>
-    <string name="notify_badtraffic">Na tejto ceste je veľmi veľká premávka. Odporúčam postaviť viac alebo lepšie cesty.</string>
+    <string name="notify_badtraffic">Cesta je preplnená autami. Mali by ste zvýšiť priepustnosť ciest buď tým, že postavíte nové alebo vylepšíte už postavené.</string>
     <string name="dialog_wb_title">Vitajte naspäť</string>
-    <string name="dialog_wb_text">%1$s zarobilo %2$s kým ste boli neprítomní.</string>
+    <string name="dialog_wb_text">Mesto %1$s zarobilo %2$s kým ste boli neprítomní.</string>
     <string name="notify_fullschool">Táto škola je plná. Kliknite na ňu a zvýšte jej kapacitu alebo postave novú</string>
     <string name="dialog_notenoughmoney_title">Nedostatok peňazí</string>
     <string name="dialog_notenoughmoney_text">Nemáte dostatok peňazí na okamžitú kúpu.\n\nChcete získať chýbajúcich %1$s okamžite?</string>
@@ -985,7 +983,7 @@
     <string name="dialog_connect_title">Pripojiť k susedovi</string>
     <string name="dialog_connect_text">Chcete vytvoriť vonkajšie spojenie?</string>
     <string name="menu_hideui">Skryť používateľské rozhranie</string>
-    <string name="ci_neighbor_title">Susedské obchodovanie</string>
+    <string name="ci_neighbor_title">Obchodovanie so susedmi</string>
     <string name="ci_neighbor_notavailable">Momentálne nedostupné</string>
     <string name="ci_neighbor_import">Import</string>
     <string name="ci_neighbor_export">Export</string>
@@ -1453,10 +1451,10 @@ Ak TheoTown povolíte prístup do externej pamäte, bude ukladať mestá do prie
     <string name="game_remaining_halftunnelprice">Polovičná cena tunelu %s</string>
     <string name="shop_diamonds_sole">%s diamantov</string>
     <string name="dialog_diamondshop_bestvalue">Najlepšia cena</string>
-    <string name="draft_draft_edl_title">Nízke vzdelanie</string>
+    <string name="draft_draft_edl_title">Nižšie vzdelanie</string>
     <string name="draft_draft_edl_text">Základoškolské vzdelanie.</string>
-    <string name="draft_draft_edh_title">Vysoké vzdelanie</string>
-    <string name="draft_draft_edh_text">Vysokoškolské vzdelanie.</string>
+    <string name="draft_draft_edh_title">Vyššie vzdelanie</string>
+    <string name="draft_draft_edh_text">Stredoškolské odborné vzdelanie.</string>
     <string name="draft_draft_crm_title">Kriminalita</string>
     <string name="draft_draft_crm_text">Indikátor kriminality.</string>
     <string name="draft_draft_fire_title">Nebezpečenstvo požiaru</string>
@@ -2095,7 +2093,7 @@ Cons: Žiadna výzva</string>
     <string name="draft_fence_real06_title">Železný plot</string>
     <string name="draft_fence_real06_text">Ťažké železné tyče medzi tehlovými stenami.</string>
     <string name="draft_cat_fence00_title">Plot</string>
-    <string name="ci_neighbor_notrading">Žiadne susedné mestá, s ktorými by as dalo obchodovať.</string>
+    <string name="ci_neighbor_notrading">Žiadne susedné mestá, s ktorými by sa dalo obchodovať.</string>
 
     <string name="settings_sound_master">Celkovo</string>
     <string name="draft_cemetery01_title">Veľký cintorín</string>
@@ -2367,7 +2365,7 @@ Pripojením hry k TheoTown Forum účtu môžete využívať sekciu komentárov.
     <string name="store_cat_transport">Doprava</string>
     <string name="store_cat_residential">Obytné</string>
     <string name="store_cat_commercial">Komerčné</string>
-    <string name="store_cat_industrial">Priemyseln=e</string>
+    <string name="store_cat_industrial">Priemyselné</string>
     <string name="store_cat_parks">Parky, športy a správa mesta</string>
     <string name="store_cat_supply">Zásoby (energia, voda, odvoz odpadu)</string>
     <string name="store_cat_religion">Náboženstvo a kultúra</string>
