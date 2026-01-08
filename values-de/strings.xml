@@ -3357,7 +3357,7 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="ts_route_no_vehicle">Kein Fahrzeug zugewiesen</string>
     <string name="ts_route_path_broken">Die Strecke ist unterbrochen</string>
     <string name="ts_route_usage">Nutzung:</string>
-    <string name="ts_route_set_vehicle">Fahrzeug zuweisen</string>
+    <string name="ts_route_set_vehicle">Fahrzeug</string>
     <string name="ts_route_edit">Route</string>
     <string name="ts_route_more">Mehr</string>
     <string name="ts_route_duplicate">Duplizieren</string>
@@ -3393,7 +3393,7 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="ts_buy_vehicle">Fahrzeug kaufen</string>
     <string name="ts_build_depot">Depot bauen</string>
     <string name="ts_vehicle_assign">Zuweisen</string>
-    <string name="ts_vehicle_unassign">Zuweisung aufheben</string>
+    <string name="ts_vehicle_unassign">Entfernen</string>
     <string name="ts_buy_vehicle_buy_more">Kaufe zuerst ein Fahrzeug, um es zuzuweisen</string>
     <string name="ts_buy_vehicle_title">Fahrzeuge</string>
     <string name="ts_buy_vehicle_cmdbuy">Kaufen</string>
@@ -3536,5 +3536,17 @@ Plugins, die zur Funktion die Skriptausführung erfordern, funktionieren möglic
     <string name="dialog_deletemusic_title">Musik löschen</string>
     <string name="dialog_deletemusic_text">Bist du sicher, dass du `%s` löschen möchtest?</string>
     <string name="gamemenu_catmusic">Musik</string>
+
+
+    <string name="ts_tool_edit_route">%s (%d Stationen)</string>
+    <string name="ts_tool_all_routes">%s (%d Routen)</string>
+    <string name="ts_tool_add_random_station">Zufällige Station</string>
+    <string name="ts_reached_vehicle_limit">Dieser Route können nicht mehr als %d Fahrzeuge zugewiesen werden!</string>
+    <string name="musictype_game">Normal</string>
+    <string name="musictype_action">Action</string>
+    <string name="musictype_default">%s (Standard)</string>
+    <string name="dialog_unlink_steam_title">Account trennen?</string>
+    <string name="dialog_unlink_steam_text">Diese Operation trennt dein Forum von deinem Steam account. Dies könnte zu Problemen führen und sollte daher nur wenn nötig durchgeführt werden. Das Spiel wird nach dem Vorgang neu gestartet.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Account trennen</string>
 
 </resources>

@@ -1,4 +1,4 @@
-<resources>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><resources>
     <string name="app_name">TheoTown</string>
     <string name="settings_title">Beállítások</string>
     <string name="loadcity_title">Város betöltése</string>
@@ -10,14 +10,7 @@
     <string name="control_back">Vissza</string>
     <string name="createcity_start">Start</string>
     <string name="loadcity_load">Indítás</string>
-    <string name="welcome_agree">Egyetértek</string>
-    <string name="welcome_content">Üdvözöllek a TheoTown-ban!
 
-\n\nEz az alkalmazás jelenleg fejlesztés alatt áll. Vedd figyelembe, hogy lehetnek még apróbb hibák. Kérjük, ne hagyd itt a projektet a hibák miatt. Ne feledd, hogy ingyenes.
-
-\n\nHa tetszik ez az alkalmazás, akkor támogathatsz minket azzal, hogy elmondod a barátaidnak.
-
-\n\nÉrezd jól magad! :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">lakosság: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -39,7 +32,6 @@
     <string name="dialog_nocities_text">Úgy tűnik, nem találhatók városok.</string>
     <string name="dialog_nocities_cmdback">Mégse</string>
     <string name="dialog_nocities_cmdnewcity">Új város</string>
-    <string name="settings_showads">Reklámok megjelenítése</string>
     <string name="settings_drawcars">Kocsik megjelenítése</string>
     <string name="settings_drawsmoke">Füst megjelenítése</string>
     <string name="settings_transparencybuildmode">Átláthatóság építkezés módban (build mode)</string>
@@ -47,12 +39,6 @@
     <string name="settings_doublecardrawing">Dupla autó rajz</string>
     <string name="settings_drawwatersparkle">Rajzolj vízszikrát</string>
     <string name="settings_drawmapedges">Pálya széle mutatása</string>
-    <string name="settings_hideads_title">Reklámok el rejtése</string>
-    <string name="settings_hideads_text">Ha valóban el akarod rejteni a hirdetéseket, megköszönnénk hogyha tánogatnl minket azzal hogy megmutatod a TheoTown-t a barátaidnak.
-
-\n\nBiztos vagy benne?</string>
-    <string name="settings_hideads_yes">Igen, nagyon biztos vagyok benne</string>
-    <string name="settings_hideads_no">Mégse</string>
     <string name="loadcity_errordialog_title">Betöltés nem sikerült</string>
     <string name="loadcity_errordialog_text">Nem sikerült betölteni a várost, a fájl sérültnek tűnik.\n\nSajnáljuk.</string>
     <string name="loadcity_errordialog_cmdcancel">Mégse</string>
@@ -132,14 +118,12 @@
     <string name="draft_watertower00_text">Vizet biztosít az épületeknek.</string>
     <string name="settings_areazonetool">Területi zóna eszköz használata</string>
     <string name="createcity_gamemode">Játékmód:</string>
-    <string name="gamemode_sandbox">Homokozó</string>
     <string name="gamemode_easy">Könnyű</string>
     <string name="gamemode_middle">Közepes</string>
     <string name="gamemode_hard">Nehéz</string>
     <string name="game_infinitemoney">Ingyenes játék</string>
     <string name="about_title">Készítők</string>
     <string name="about_cmdback">Vissza</string>
-    <string name="about_text">A TheoTown Android alkalmazás terméke</string>
     <string name="settings_music">Zene</string>
     <string name="draftselector_titleaward">Jutalmak</string>
     <string name="shader_default">Klasszikus</string>
@@ -493,9 +477,7 @@
     <string name="ci_loan_donate">Koldulás</string>
     <string name="ci_loan_get">Felvétel</string>
     <string name="ci_loan_donate_text">Kérlek, adj egy fillért, nagyon szükségem van rá :(</string>
-    <string name="ci_loan_get_text">Alap kölcsön, 10,000Ͳ
-    \nIdőtartam: 24 hónap
-    \nHavi költség: 500Ͳ</string>
+
     <string name="draft_crater4x4_title">Meteorit kráter</string>
     <string name="draft_crater4x4_text">Egy nagy meteoritkráter. El kell távolítanod.</string>
     <string name="draft_crater1x1_title">Meteorit kráter</string>
@@ -849,7 +831,7 @@
     <string name="disaster_ufo_cmdtext">Célpont beállítása</string>
     <string name="topic_theons">Van egy új pénznemünk: Theons Ͳ</string>
     <string name="topic_wip">Folyamatban. Ne lépd át a vonalat.</string>
-    <string name="topic_belong">A városaid a miénk >:D</string>
+    <string name="topic_belong">A városaid a miénk &gt;:D</string>
     <string name="topic_love">Minden, amire szükséged van, az a szeretet</string>
     <string name="topic_build">Saját várost építek fel felhőkarcolókkal és parkokkal</string>
     <string name="topic_news">Jó hírek mindenki számára!</string>
@@ -876,7 +858,6 @@
     <string name="control_off">Ki</string>
     <string name="draft_school03_title">Nagy középiskola</string>
     <string name="draft_school03_text">Nagyobb középiskola több diák számára.</string>
-    <string name="gamemode_sandbox_desc">Ezzel a játékmóddal pénz nélkül játszhatsz. Nincsenek rangok és kevesebb eredmény.</string>
     <string name="gamemode_easy_desc">Ebben a módban sok pénzzel indulsz, és kicsit könnyebb a játék.</string>
     <string name="gamemode_middle_desc">Alapértelmezett játékmód. Megfelelő mennyiségű pénzzel indulsz, és nem túl nehéz megépíteni álmaid városát.</string>
     <string name="gamemode_hard_desc">Pro vagy a TheoTownban? Akkor ez a te módban. Kis összegű pénzzel indulsz, és nehéz a játék.</string>
@@ -931,8 +912,6 @@
     <string name="task_firstcity_text">Üdv az első városodban.\n\nPróbálj elérni 300 lakost.</string>
     <string name="task_reachrank_title">Új rang</string>
     <string name="task_reachrank_text">Gratulálunk, a városod új rangot ért el.\n\nMinden rang új épületeket nyit fel, és jutalmat kapsz.</string>
-    <string name="welcome_sorry_title">Hírek</string>
-    <string name="welcome_sorry_text">Kedves játékos,\n\nnemrég sok előrelépés történt a TheoTownban. Sajnos ez nem lett volna lehetséges egy különleges pénznem és a játékdinamikát érintő változások nélkül, amelyek bizonyos régi városokat megszakíthatnak.\n\nReméljük, megérted. Van valami köszönőajándékunk számodra.</string>
     <string name="menu_achievements">Eredmények</string>
     <string name="menu_leaderboards">Ranglisták</string>
     <string name="menu_screenshot">Kép készítése</string>
@@ -1357,8 +1336,8 @@
     <string name="draft_syl_spawner01_text">Egyszerű tűzijáték.</string>
     <string name="draft_syl_spawner02_title">Medúza</string>
     <string name="draft_syl_spawner02_text">Ez a tűzijáték a medúza alakját utánozza.</string>
-    <string name="draft_syl_emer00_title">Kapcsoló</string>
-    <string name="draft_syl_emer00_text">Kapcsoló a tűzijáték elindításához. Csatlakoztasd vezetékekhez.</string>
+    <string name="draft_syl_emitter00_title">Kapcsoló</string>
+    <string name="draft_syl_emitter00_text">Kapcsoló a tűzijáték elindításához. Csatlakoztasd vezetékekhez.</string>
     <string name="draft_syl_wire_title">Vezeték</string>
     <string name="draft_syl_wire_text">Vezetékezés a tűzijátékhoz.</string>
     <string name="draft_category_firework00_title">Tűzijátékok</string>
@@ -1366,8 +1345,8 @@
     <string name="draft_feature_firework_pack00_text">A korlátozott ajánlat tartalmazza:</string>
     <string name="draft_feature_firework00_title">Tűzijáték</string>
     <string name="draft_feature_firework00_text">Helyezd el és komponáld saját tűzijátékodat.</string>
-    <string name="draft_syl_emer01_title">Időzített kapcsoló</string>
-    <string name="draft_syl_emer01_text">Kapcsoló, amely újévkor automatikusan jelet ad.</string>
+    <string name="draft_syl_emitter01_title">Időzített kapcsoló</string>
+    <string name="draft_syl_emitter01_text">Kapcsoló, amely újévkor automatikusan jelet ad.</string>
 
     <string name="draft_airplane02_title">T430</string>
     <string name="draft_airplane02_text">Gyors, nagy hatótávolságú repülőgép a TheoAir-től.</string>
@@ -1856,8 +1835,8 @@
     <string name="draft_gol_dead_title">Élet játéka</string>
     <string name="draft_gol_dead_text">Hozz létre egy élet-játék mezőt. Érintsd meg az épített csempéket a státuszuk váltásához. Alapértelmezett állapot: halott.</string>
 
-    <string name="draft_coower00_title">Coit Emlékműtorony</string>
-    <string name="draft_coower00_text">A Coit Emlékműtorony 1933-ban épült, a San Francisco-i öt nagy tűzben elhunyt önkéntes tűzoltóknak szentelve.</string>
+    <string name="draft_coittower00_title">Coit Emlékműtorony</string>
+    <string name="draft_coittower00_text">A Coit Emlékműtorony 1933-ban épült, a San Francisco-i öt nagy tűzben elhunyt önkéntes tűzoltóknak szentelve.</string>
     <string name="draft_bankofamerica00_title">Bank of America Központ</string>
     <string name="draft_bankofamerica00_text">A Bank of America Központ 52 emeletes, 237 m magas felhőkarcoló San Franciscóban.</string>
     <string name="draft_transamerica00_title">Transamerica Piramis</string>
@@ -2928,7 +2907,7 @@
     <string name="draft_space_storyline_stage_8_00">Attól tartok, ez az utolsó alkalom, hogy találkozunk.</string>
     <string name="draft_space_storyline_stage_8_01">Most készen állunk, hogy visszatérjünk saját galaxisunkba és újjáépítsük, feltéve, hogy maradt belőle valami.</string>
     <string name="draft_space_storyline_stage_8_02">Most irány a rakéta gyorsan.</string>
-    <string name="draft_space_storyline_8_cutscene">Az uborkák felszállnak a gépre</string>
+    <string name="draft_space_storyline_stage_8_cutscene">Az uborkák felszállnak a gépre</string>
     <string name="draft_space_storyline_ending_00">Azt hiszem, ennyi volt. Nagyon köszönjük, hogy segítettél nekünk.</string>
     <string name="draft_space_storyline_ending_01">Cserébe szeretnénk adni neked ezt a tárolóeszközt.</string>
     <string name="draft_space_storyline_ending_02">Tartalmazza az összes felvett tudásunkat.</string>
@@ -3403,7 +3382,7 @@
     <string name="settings_stretching_wide0">Nyújtott</string>
     <string name="settings_stretching_wide1">Chungus</string>
     <string name="settings_stretching_wide2">W I D E</string>
-    <string name="settings_notransformsupport_hint">A transzformáció nem támogatott a jelenlegi %1$s->%2$s beállításnál</string>
+    <string name="settings_notransformsupport_hint">A transzformáció nem támogatott a jelenlegi %1$s-&gt;%2$s beállításnál</string>
     <string name="ci_airport_launchedairplanes">Indított repülőgépek: %s</string>
     <string name="ci_airport_totalpassengers">Összes utas: %s</string>
 
@@ -3581,6 +3560,17 @@
     <string name="dialog_deletemusic_title">Zene törlése</string>
     <string name="dialog_deletemusic_text">Biztosan törölni akarod `%s`?</string>
     <string name="gamemenu_catmusic">Zene</string>
+
+    <string name="featureselector_doubledincometime">Double income for %1$s</string>
+    <string name="ts_tool_edit_route">%s (%d stations)</string>
+    <string name="ts_tool_all_routes">%s (%d routes)</string>
+    <string name="ts_tool_add_random_station">Add random station</string>
+    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
+    <string name="musictype_game">Game</string>
+    <string name="musictype_action">Action</string>
+    <string name="musictype_default">%s (default)</string>
+    <string name="dialog_unlink_steam_title">Unlink Account?</string>
+    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+
 </resources>
-
-
