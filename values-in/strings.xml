@@ -286,9 +286,9 @@
     <string name="ci_budget_overallincome">Total pendapatan</string>
     <string name="ci_budget_overallspending">Total pengeluaran</string>
     <string name="ci_rci_title">Permintaan</string>
-    <string name="ci_rci_res0">Res ₮</string>
-    <string name="ci_rci_res1">Res ₮₮</string>
-    <string name="ci_rci_res2">Res ₮₮₮</string>
+    <string name="ci_rci_res0">Prm ₮</string>
+    <string name="ci_rci_res1">Prm ₮₮</string>
+    <string name="ci_rci_res2">Prm ₮₮₮</string>
     <string name="ci_rci_com0">Kom ₮</string>
     <string name="ci_rci_com1">Kom ₮₮</string>
     <string name="ci_rci_com2">Kom ₮₮₮</string>
@@ -357,7 +357,7 @@
     <string name="buildinginfo_powerusage">Pemakaian: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Pemakaian: %1$.1f%%</string>
     <string name="settings_maxzoomout">Zoom maksimum</string>
-    <string name="notify_noise">Berisik banget,jauhkan kami dari bangunan bising tersebut!</string>
+    <string name="notify_noise">Berisik banget, jauhkan kami dari bangunan bising itu!</string>
     <string name="happiness_energy">Listrik</string>
     <string name="happiness_gamemode">Mode permainan</string>
     <string name="happiness_level">Level</string>
@@ -981,7 +981,7 @@
     <string name="dialog_connect_title">Hubungkan ke kota tetangga</string>
     <string name="dialog_connect_text">Apakah kamu ingin membangun hubungan ke luar? (Hanya bekerja di kota wilayah!)</string>
     <string name="menu_hideui">Sembunyikan UI</string>
-    <string name="ci_neighbor_title">Komersial dalam kompleks</string>
+    <string name="ci_neighbor_title">Pertukaran layanan antarkota</string>
     <string name="ci_neighbor_notavailable">Tidak tersedia saat ini</string>
     <string name="ci_neighbor_import">Impor</string>
     <string name="ci_neighbor_export">Ekspor</string>
@@ -990,7 +990,7 @@
     <string name="ci_neighbor_power">Listrik</string>
     <string name="ci_neighbor_water">Air</string>
     <string name="dialog_buy_free">Gratis</string>
-    <string name="notify_missiledisaster">Oops...Sepertinya tes roket terakhir memicu bencana galaktik.</string>
+    <string name="notify_missiledisaster">Ups...Sepertinya tes roket terakhir memicu bencana galaktik.</string>
     <string name="notification00_title">BERITA: %1$s punya sangat banyak uang!</string>
     <string name="notification00_text">Wali Kota, kami perlu Anda untuk membelanjakan seluruh uang!</string>
     <string name="roadinfo_bridgetype">Tipe jembatan</string>
@@ -1379,7 +1379,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="notify_disaster_earthquake">Waduh, gempa!</string>
     <string name="notify_disaster_flooding">Kota terendam air!</string>
     <string name="notify_disaster_meteorite">Batu berjatuhan dari langit!</string>
-    <string name="notify_disaster_nuke">Kita punya ledakan nuklir di sini!</string>
+    <string name="notify_disaster_nuke">Ada ledakan nuklir di sini!</string>
     <string name="notify_disaster_tornado">Sangat berangin di sini!</string>
     <string name="notify_disaster_ufo">Alien menyerang!</string>
     <string name="settings_download_static_files">Unduh file statik</string>
@@ -1515,9 +1515,9 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="influence_density_title">Kepadatan</string>
     <string name="influence_density_text">Bangunan tinggi biasanya lebih padat.</string>
     <string name="influence_nature_title">Alam</string>
-    <string name="influence_nature_text">Taman dan, khususnya, hutan punya pengaruh alam yang besar.</string>
+    <string name="influence_nature_text">Taman dan terutama hutan punya pengaruh alam yang besar.</string>
     <string name="influence_waste_disposal_title">Pembuangan sampah</string>
-    <string name="influence_waste_disposal_text">Sampah harus dibuang untuk membuat pendudukmu bahagia..</string>
+    <string name="influence_waste_disposal_text">Sampah harus dibuang untuk membuat pendudukmu bahagia.</string>
     <string name="draft_bus_road00_title">Busway</string>
     <string name="draft_bus_road00_text">Jalan biasa yang hanya bisa dilalui bus.</string>
     <string name="draft_bus_oneway_road00_title">Busway satu arah</string>
@@ -1661,8 +1661,8 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
 
     <string name="draft_toji00_title">Tō-ji</string>
     <string name="draft_toji00_text">Tō-ji adalah sebuah kuil Buddha di Kyoto, Jepang. Diselesaikan pada 796 dengan tinggi 55 meter.</string>
-    <string name="ca_wastedisposal_text2">Transpor sampah: %1$,d/%2$,d L/d</string>
-    <string name="notify_waste_needer00">Sampah tidak diambil untuk bangunan ini.</string>
+    <string name="ca_wastedisposal_text2">Pembuangan sampah: %1$,d/%2$,d L/h</string>
+    <string name="notify_waste_needer00">Sampah belum diambil untuk bangunan ini.</string>
     <string name="notify_waste_producer00">TPA ini penuh, kamu harus membersihkannya!</string>
     <string name="draft_landfill00_text">Tempat yang luas untuk mengumpulkan semua sampah. Hanya bisa dihapus jika kosong.</string>
     <string name="waste_clear">GESER bar di atas untuk membersihkannya.</string>
@@ -1820,8 +1820,8 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="notify_discord_statue00_title">Terima kasih!</string>
     <string name="notify_discord_statue00_text">Terima kasih untuk %d anggota di Discord server kami. Mau mengunjunginya sekarang?</string>
     <string name="draftselector_titlebodydisposal">Pemakaman</string>
-    <string name="draft_roaddeco_protester00_title">Pengunjuk rasa palsu</string>
-    <string name="draft_roaddeco_protester00_text">Beri nasi bungkus untuk membuat pendemo palsu.</string>
+    <string name="draft_roaddeco_protester00_title">Pengunjuk rasa bayaran</string>
+    <string name="draft_roaddeco_protester00_text">Berikan nasi bungkus untuk memanggil pendemo bayaran.</string>
     <string name="draft_roaddeco_riot00_title">Kerusuhan settingan</string>
     <string name="draft_roaddeco_riot00_text">Ini bukan sinetron!</string>
 
@@ -1962,9 +1962,9 @@ Kon: Kurang tantangan</string>
     <string name="influence_traffic_text">Penduduk tidak suka polusi dan kebisingan lalu lintas.</string>
     <string name="ci_neighbor_wastedisposal">Pelayanan pembuangan sampah</string>
     <string name="ci_neighbor_bodydisposal">Pelayanan pemakaman</string>
-    <string name="wastedisposal_transport">%1$,dL/d</string>
-    <string name="bodydisposal_transport">%1$,d/d</string>
-    <string name="draft_cat_elevatedtrain00_title">Kereta Elevated</string>
+    <string name="wastedisposal_transport">%1$,dL/h</string>
+    <string name="bodydisposal_transport">%1$,d/h</string>
+    <string name="draft_cat_elevatedtrain00_title">Kereta Layang</string>
     <string name="draft_cat_metro00_title">MRT</string>
     <string name="draft_cat_tree00_title">Tumbuhan</string>
     <string name="draft_railroof00_title">Atap</string>
@@ -2048,7 +2048,7 @@ Kon: Kurang tantangan</string>
     <string name="gamemode_sandbox_text">Mode ini akan memberimu kesempatan untuk bereksperimen tanpa uang. Pendudukmu masih punya kebutuhan yang harus kamu penuhi.</string>
     <string name="dialog_ubermode_title">Mode Uber</string>
     <string name="dialog_ubermode_text">Pakai mode spesial ini untuk membuang segala kerepotan di kotamu:\n-Tanpa kebakaran\n-Tanpa sampah\n-Tanpa penyakit\n-Tanpa kejahatan\n-Tanpa kematian\n-Pendidikan terpenuhi\n-100% popularitas</string>
-    <string name="topic_pluginsawesome">Plugin itu keren! Tapi, kami menyarankan untuk mematikan plugin yang tidak terpakai.</string>
+    <string name="topic_pluginsawesome">Plugin itu keren-keren! Tapi, kami menyarankan untuk mematikan plugin-plugin yang tidak terpakai.</string>
     <string name="topic_platforms">Apakah kamu mengetahui bahwa TheoTown tersedia di PC, Android, dan iOS?</string>
     <string name="topic_pluginspace">Ingat, ruang plugin terbatas.</string>
     <string name="topic_rotate">Apakah kamu tahu bahwa kamu bisa memutar kotamu?</string>
@@ -2060,20 +2060,20 @@ Kon: Kurang tantangan</string>
     <string name="settings_sound_ambient">Lingkungan</string>
     <string name="settings_vsync">VSync</string>
 
-    <string name="shop_invitefriends">Dapatkan %d berlian untuk tiap teman yang diundang</string>
+    <string name="shop_invitefriends">Dapatkan %d berlian untuk setiap teman yang diundang</string>
     <string name="shop_invitetitle">Undang teman</string>
     <string name="shop_invitationtext">Hei, coba cek permainan ini deh:\n%s</string>
     <string name="gamemenu_gameid">ID permainan: %s</string>
     <string name="gamemenu_gameidcopied">ID permainan telah disalin ke papan klip</string>
     <string name="draft_cat_intersections00_title">Simpang susun</string>
-    <string name="draft_intersection00_title">Overpass</string>
-    <string name="draft_intersection00_text">Jalan beraspal yang terhubung dengan jalan tol di bawahnya, lengkap dengan jembatan di atasnya.</string>
+    <string name="draft_intersection00_title">Jalan layang</string>
+    <string name="draft_intersection00_text">Jalan beraspal yang terhubung dengan jalan tol di bawahnya menggunakan jembatan.</string>
     <string name="draft_intersection01_title">Underpass</string>
-    <string name="draft_intersection01_text">Jalan beraspal yang terhubung kepada jalan tol elevated.</string>
+    <string name="draft_intersection01_text">Jalan beraspal yang terhubung dengan jalan tol layang.</string>
     <string name="draft_intersection02_title">Persimpangan</string>
     <string name="draft_intersection02_text">Dua jalan tol yang bersimpangan satu sama lain. Salah satunya elevated.</string>
     <string name="draft_intersection_complex00_title">Simpang Susun Semanggi</string>
-    <string name="draft_intersection_complex00_text">Dua jalan tol datar yang bersimpangan satu sama lain melalui struktur besar yang rumit.</string>
+    <string name="draft_intersection_complex00_text">Dua jalan tol datar yang bersimpangan satu sama lain dengan struktur besar yang rumit.</string>
     <string name="tool_removefence_title">Hapus pagar</string>
     <string name="tool_removefence_text">Alat ini hanya bisa digunakan untuk menghapus pagar.</string>
     <string name="draft_fence_real00_title">Pagar kayu</string>
