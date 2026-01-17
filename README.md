@@ -35,6 +35,7 @@ Here is a list of currently supported languages:
 - `values-hu`: Hungarian
 - `values-in`: Indonesian
 - `values-it`: Italian
+- `values-jw`: Javanese (Kromo)
 - `values-ja`: Japanese
 - `values-ko`: Korean
 - `values-lt`: Lithuanian
