@@ -146,11 +146,11 @@
     <string name="topic_cake">Kuenya adalah kebohongan</string>
     <string name="topic_panic">Jangan panik</string>
     <string name="draft_bigschool00_title">Sekolah dasar besar</string>
-    <string name="draft_bigschool00_text">Sebuah tempat di mana anak-anak muda belajar ketika mereka terlalu tua untuk masuk sekolah dasar.</string>
+    <string name="draft_bigschool00_text">Sebuah tempat di mana anak-anak muda belajar ketika mereka sudah terlalu tua untuk masuk sekolah dasar.</string>
     <string name="draft_treepark00_title">Taman pohon</string>
     <string name="draft_treepark00_text">Sebuah taman kecil dengan pepohonan. Para penduduk akan menyukainya.</string>
     <string name="menu_premium">Premium</string>
-    <string name="ci_budget_title">Dana</string>
+    <string name="ci_budget_title">Keuangan</string>
     <string name="budget_res0">Perumahan ₮ (%1$,d)</string>
     <string name="budget_res1">Perumahan ₮₮ (%1$,d)</string>
     <string name="budget_res2">Perumahan ₮₮₮ (%1$,d)</string>
@@ -489,9 +489,9 @@
     <string name="disaster_nuke_text">Jadi ingat Chernobyl....</string>
     <string name="disaster_nuke_cmdtext">Kirim perintah</string>
     <string name="budget_loans">Pinjaman</string>
-    <string name="ci_loan_loanlist">Pinjaman berjalan(seluruhnya %1$s dalam %2$,d/%3$,d pinjaman):</string>
+    <string name="ci_loan_loanlist">Pinjaman berjalan (totalnya %1$s untuk %2$,d/%3$,d pinjaman):</string>
     <string name="ci_loan_remaining_runtime">Waktu yang tersisa: %2$,d bulan, %1$,d hari</string>
-    <string name="ci_loan_paybackcost">Harga yang harus dibayar: %1$s</string>
+    <string name="ci_loan_paybackcost">Jumlah yang harus dibayar: %1$s</string>
     <string name="ci_loan_estate">Kekayaan: %1$s</string>
     <string name="topic_support_ads">Anda dapat mendukung kami dengan melihat iklan :)</string>
     <string name="settings_disaster_tornado">Angin topan</string>
@@ -2344,7 +2344,7 @@ Catatan: Kamu tidak dapat bermain pada satu kota yang sama dengan pemain lain un
     <string name="stage_regioncity_lastplayed">Terakhir dimainkan: %1$s yang lalu</string>
     <string name="ci_loan_get_text2">Nilai: %1$s
 \nJangka: %2$,d bulan
-\nBiaya bulanan: %3$s</string>
+\nBunga bulanan: %3$s</string>
     <string name="settings_uianimations">Animasi</string>
     <string name="dialog_configureregion_password">Kata sandi</string>
     <string name="dialog_configureregion_password_desc">Di sini kamu bisa menyetel kata sandi baru. Kosongkan untuk tetap menggunakan kata sandi yang sekarang.</string>
@@ -2771,18 +2771,18 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="draft_dsarocket_title">Stasiun Peluncuran</string>
     <string name="draft_dsarocket_text">Tempat Peluncuran Roket.</string>
     <string name="draft_dsarocket_upg1_title">Tes Roket</string>
-    <string name="draft_dsarocket_upg1_text">Mencoba Roket.\nReadiness: ${_dsareadiness}/1000</string>
+    <string name="draft_dsarocket_upg1_text">Mencoba Roket.\nKesiapan: ${_dsareadiness}/1000</string>
     <string name="draft_dsarocket_upg2_title">Kandang Hewan </string>
-    <string name="draft_dsarocket_upg2_text">Wah Ada Kucing Di Dalam .\nReadiness: ${_dsareadiness}/2500</string>
-    <string name="draft_dsarocket_upg3_title">Nativigasi</string>
-    <string name="draft_dsarocket_upg3_text">Digunakan Agar Kita Tidak Tersesat.\nReadiness: ${_dsareadiness}/5000</string>
+    <string name="draft_dsarocket_upg2_text">Wah Ada Kucing Di Dalam .\nKesiapan: ${_dsareadiness}/2500</string>
+    <string name="draft_dsarocket_upg3_title">Navigasi</string>
+    <string name="draft_dsarocket_upg3_text">Digunakan Agar Kita Tidak Tersesat.\nKesiapan: ${_dsareadiness}/5000</string>
     <string name="draft_dsarocket_upg4_title">Satelit</string>
-    <string name="draft_dsarocket_upg4_text">Benda Yang Terbang Tinggi Di Langit.\nReadiness: ${_dsareadiness}/7500</string>
+    <string name="draft_dsarocket_upg4_text">Benda Yang Terbang Tinggi Di Langit.\nKesiapan: ${_dsareadiness}/7500</string>
     <string name="draft_dsarocket_upg5_title">Eksplorasi</string>
-    <string name="draft_dsarocket_upg5_text">Mencari Hal Baru Di Bulan.\nReadiness: ${_dsareadiness}/10000</string>
+    <string name="draft_dsarocket_upg5_text">Mencari Hal Baru Di Bulan.\nKesiapan: ${_dsareadiness}/10000</string>
     <string name="draft_dsarocket_upg6_title">SDI</string>
-    <string name="draft_dsarocket_upg6_text">Pertahanan Roket Agar Tidak Di Serang Alien.\nReadiness: ${_dsareadiness}/15000</string>
-    <string name="draft_Olsken.LobbysCake_title">Kue Lobby\'s</string>
+    <string name="draft_dsarocket_upg6_text">Pertahanan Roket Agar Tidak Diserang Alien.\nKesiapan: ${_dsareadiness}/15000</string>
+    <string name="draft_Olsken.LobbysCake_title">Kue Lobby</string>
     <string name="draft_Olsken.LobbysCake_text">Kue Dari Lobby!\nHappy Birthday to Lobby!</string>
     <string name="draft_dsa_notify00_text">Hallo Di Sana, Saya CEO Dari DSA.</string>
     <string name="draft_dsa_notify01_text">Awas Akan Ada Gempa.</string>
@@ -2791,7 +2791,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="draft_dsa_notify04_text">Awas Akan Ada Virus Yang Datang.</string>
     <string name="draft_dsa_notify05_text">Semuanya Bersiap Untuk Pergi!</string>
     <string name="draft_dsa_notify06_text">Bolehkah Aku Membangun Rumah Di Kotamu?.</string>
-    <string name="draft_dsa_notify07_text">Ini di luar kendali kita...Waktuny meluncurkan protokol „Explosive Stop“.</string>
+    <string name="draft_dsa_notify07_text">Ini di luar kendali kita...Waktunya meluncurkan protokol „Explosive Stop“.</string>
     <string name="draft_dsa_notify08_text">Inti kuantum mudah meledak. Kamu tahu, kan?</string>
     <string name="draft_dsa_notify09_text">Memulai prosedur pendaratan.\nBersiaplah.</string>
     <string name="draft_dsa_notify10_text">Oh halo, Pak Hacker, kamu tidak keberatan dengan lubang hitam, kan?</string>
