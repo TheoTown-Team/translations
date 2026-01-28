@@ -267,7 +267,7 @@
     <string name="draftselector_cmdview">Mostra</string>
     <string name="busstopinfo_usage">En espera: %2$,d/%3$,d\nÚs: %1$.1f%%</string>
     <string name="ci_rating_title">Qualificació</string>
-    <string name="ci_energy_networks">%1$,d xarxa(es)</string>
+    <string name="ci_energy_networks">Nombre de xarxes: %1$,d</string>
     <string name="ci_energy_produced">Producció: %1$,.0fkW (%2$,d edificis)</string>
     <string name="ci_energy_consumed">Consum: %1$,.0fkW (%2$,d edificis)</string>
     <string name="ci_energy_ratio">Ús: %1$.1f%%</string>
@@ -275,7 +275,7 @@
     <string name="ci_energy_single">Per edificis</string>
     <string name="ci_water_all">General</string>
     <string name="ci_water_single">Per edificis</string>
-    <string name="ci_water_networks">%1$,d xarxa(es)</string>
+    <string name="ci_water_networks">Nombre de xarxes: %1$,d</string>
     <string name="ci_water_consumed">Consum: %1$,.0fL/h (%2$,d edificis)</string>
     <string name="ci_water_produced">Producció: %1$,.0fL/h (%2$,d edificis)</string>
     <string name="ci_water_ratio">Ús: %1$.1f%%</string>
@@ -301,9 +301,9 @@
     <string name="draft_footballfield00_title">Camp de futbol</string>
     <string name="draft_footballfield00_text">Un gran camp de futbol farà que els habitants siguin feliços.\n\nEls residents amb diners valoren les instal·lacions esportives.</string>
     <string name="loadcity_kbsize">%1$,d kB</string>
-    <string name="draftselector_upgrades">%1$,d actualització(ns) disponible(s)</string>
+    <string name="draftselector_upgrades">Actualitzacions disponibles: %1$,d</string>
     <string name="buildinginfo_upgrades">%1$,d/%2$,d actualització(ns)</string>
-    <string name="buildinginfo_construction">En construcció: %1$.0f%% (%2$,d dia(es) restant(s))</string>
+    <string name="buildinginfo_construction">En construcció: %1$.0f%% (dies restants: %2$,d)</string>
     <string name="draft_footballstadion00_title">Estadi de futbol</string>
     <string name="draft_footballstadion00_text">Un estadi enorme per a partits importants, concerts i altres esdeveniments.\n\nEls residents amb diners valoren les instal·lacions esportives.</string>
     <string name="buildinginfo_cmdupgrade">Millora</string>
@@ -311,7 +311,7 @@
     <string name="draft_footballstadion00_lights_text">Instal·la il·luminació adicional per a esdeveniments nocturns.</string>
     <string name="buildinginfo_upgraded">Ja s\'ha millorat.</string>
     <string name="buildinginfo_upgradenotavail">No disponible</string>
-    <string name="buildinginfo_upgrade">Millora(es)</string>
+    <string name="buildinginfo_upgrade">Millores</string>
     <string name="draft_pool00_title">Piscina</string>
     <string name="draft_pool00_text">A tothom li agrada pegar-se una remullada.\n\nEls residents amb diners valoren les instal·lacions esportives.</string>
     <string name="draft_pool00_waterslide_title">Tobogan</string>
@@ -482,7 +482,7 @@
     <string name="disaster_nuke_cmdtext">Prova-la...</string>
     <string name="budget_loans">Préstecs</string>
     <string name="ci_loan_loanlist">Préstecs actius (total %1$s de %2$,d/%3$,d préstecs):</string>
-    <string name="ci_loan_remaining_runtime">Temps restant: %2$,d mes(os), %1$,d dia(es)</string>
+    <string name="ci_loan_remaining_runtime">Temps restant: %2$,d mesos, %1$,d dies</string>
     <string name="ci_loan_paybackcost">Suma a reemborsar: %1$s</string>
     <string name="ci_loan_estate">Balanç: %1$s</string>
     <string name="topic_support_ads">Ens podeu donar suport tocant anuncis :)</string>
@@ -858,7 +858,7 @@
     <string name="dialog_ffwd_title">Avanç ràpid</string>
     <string name="dialog_ffwd_text">Joc accelerat durant %1$,d dies.</string>
     <string name="dialog_ffwd_cmdplayad">Gratuït</string>
-    <string name="game_ramaining_ffwd">Queden %1$,d dia(es) de joc accelerat</string>
+    <string name="game_ramaining_ffwd">Dies restants de joc accelerat: %1$,d</string>
     <string name="settings_useservices">Utilitza els serveis del joc</string>
     <string name="diamonds">%1$,d</string>
     <string name="dialog_present_title">Un regal per a vós</string>
@@ -944,7 +944,7 @@
     <string name="dialog_feedback_cmdok">Tinc comentaris</string>
     <string name="dialog_feedback_cmdcancel">No</string>
     <string name="dialog_buildnow_title">Acaba ara</string>
-    <string name="dialog_buildnow_text">Voleu saltar %1$,d dia(es)?</string>
+    <string name="dialog_buildnow_text">Voleu saltar %1$,d dies?</string>
     <string name="draft_launch_rocket_title">Llança el coet</string>
     <string name="draft_decoconstruction00_title">Lloc en obres</string>
     <string name="draft_decoconstruction00_text">Algunes decoracions que imiten els llocs en obres.</string>
@@ -1018,7 +1018,7 @@
     <string name="draft_feature_firestation00_title">Parc central de bombers</string>
     <string name="draft_feature_firestation00_text">Aquest paquet conté el parc central de bombers: un parc de bombers equipat amb una flota de vehicles d\'emergència. Evitarà les emergències en una àrea prou gran. S\'hi pot instal·lar un heliport per a lluitar contra els incendis des del cel i arribar a llocs de difícil accés.</string>
     <string name="draft_feature_gocart00_title">Pista de carreres</string>
-    <string name="draft_feature_gocart00_text">Què passa amb els esports de motors a la ciutat? També generarà karts a les carreteres normals.</string>
+    <string name="draft_feature_gocart00_text">Desbloca permanentment un circuit de karts i permet que circulin karts per la ciutat. Afegeix una atracció d\'esports de motor i afegeix més diversitat visual amb els karts que es veuran pels carrers.</string>
     <string name="draft_firedepartment02_text">Té un radi enorme i molts cotxes. Útil per prevenir o extingir incendis.</string>
     <string name="draft_prmgocart00_title">Kàrting</string>
     <string name="draft_prmgocart00_text">Què tal si afegim alguns esports de motor a la ciutat? També generarà karts a les carreteres normals.</string>
@@ -1074,15 +1074,15 @@
     <string name="tut_end01">I ara, a divertir-se :)</string>
 
     <string name="featureselector_time">%1$s de velocitat super ràpida</string>
-    <string name="draft_feature_time00_title">Controlador del temps</string>
-    <string name="draft_feature_time00_text">Dóna una capacitat limitada per a la velocitat super ràpida del joc.</string>
-    <string name="draft_feature_time01_title">Mag del temps avançat</string>
-    <string name="draft_feature_time01_text">Podreu utilitzar la velocitat del joc super ràpida durant un període més llarg.</string>
-    <string name="draft_feature_time02_title">Senyor del temps</string>
-    <string name="draft_feature_time02_text">Sou el mestre dels temps. Dóna una gran resistència per a fer servir la velocitat super ràpida .</string>
+    <string name="draft_feature_time00_title">Control del temps</string>
+    <string name="draft_feature_time00_text">Desbloca temporalment l\'opció que el temps avanci més de pressa. Permet accelerar la construcció, el creixement de la ciutat i el progrés de la simulació. Dóna accés per temps limitat als controls del temps i permet avançar les fases de desenvolupament més de pressa.</string>
+    <string name="draft_feature_time01_title">Control del temps avançat</string>
+    <string name="draft_feature_time01_text">Podreu utilitzar la velocitat del joc super ràpida durant un període més llarg. Ideal per a gestionar grans projectes, provar idees o avançar escenaris més de pressa.</string>
+    <string name="draft_feature_time02_title">Mestratge del control del temps</string>
+    <string name="draft_feature_time02_text">Desbloca l\'accés a la velocitat màxima del joc durant períodes més llargs. Per a alcaldes experts que volen el màxim control possible del ritme de simulació.</string>
 
-    <string name="draft_feature_weather_machine00_title">Màquina del clima</string>
-    <string name="draft_feature_weather_machine00_text">La màquina del clima utilitza una tecnologia super secreta per controlar el clima.</string>
+    <string name="draft_feature_weather_machine00_title">Control del clima</string>
+    <string name="draft_feature_weather_machine00_text">Desbloca el control de la meteorologia gràcies a la construcció d\'una màquina del temps a la ciutat. L\'estructura permet crear pluja, tempestes, boira o cels clars.</string>
     <string name="draft_weather_machine00_title">Màquina del clima</string>
     <string name="draft_weather_machine00_text">La màquina del clima utilitza una tecnologia super secreta per a controlar el clima! Utilitzeu-la amb cura!</string>
 
@@ -1102,9 +1102,9 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_weather_machine00_fog00_title">Màquina de boira</string>
     <string name="draft_weather_machine00_fog00_text">Una gran màquina de boira que pot generar boira per tota la ciutat.</string>
     <string name="dialog_cancelupgrade">Cancel·la l\'actualització</string>
-    <string name="draft_feature_ranger00_title">Allotjament del silvicultor</string>
-    <string name="draft_feature_ranger00_text">De vegades, els arbres s\'han de replantar si l\'ambient està massa contaminat. El silvicultor ho fa automàticament.</string>
-    <string name="draft_ranger00_title">Allotjament del silvicultor</string>
+    <string name="draft_feature_ranger00_title">Cabana del silvicultor</string>
+    <string name="draft_feature_ranger00_text">Desbloca la cabana del silvicultor, que plantarà arbres per la ciutat. Caldrà dir-li quin tipus d\'arbre voleu que es plantin.</string>
+    <string name="draft_ranger00_title">Cabana del silvicultor</string>
     <string name="draft_ranger00_text">De vegades, els arbres s\'han de replantar si l\'ambient està massa contaminat. El silvicultor ho fa automàticament.</string>
 
     <string name="ci_general_citypoints">Punts de ciutat: %1$s</string>
@@ -1119,7 +1119,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_decoletters00_title">Lletres</string>
     <string name="draft_decoletters00_text">Algunes lletres per a donar a %1$s un toc personal.</string>
     <string name="draft_feature_letters00_title">Lletres decoratives</string>
-    <string name="draft_feature_letters00_text">Unlock the Decorative Letter Set and add a touch of personality to your cityscape! Place these versatile letters anywhere you desire for delightful decorative purposes. Spell out city names, create custom signage, or simply add a whimsical touch to your urban landscape. Upgrade now and let your creativity take center stage!</string>
+    <string name="draft_feature_letters00_text">Desbloca un conjunt de lletres decoratives que donen un toc personal al paisatge de la ciutat. Situeu les lletres on vulgueu per a decorar els racons que vulgueu. Escriviu els noms de les ciutats, afegiu la vostra signatura o poseu uns detalls especials al paisatge urbà.</string>
 
     <string name="tool_eye_dropper">Selecciona edificis o camins</string>
     <string name="settings_language">Idioma</string>
@@ -1167,7 +1167,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_prm_park00_title">Font grossa</string>
     <string name="draft_prm_park00_text">Una font meravellosa que agradarà molt als habitants de %1$s.</string>
     <string name="draft_feature_fountain00_title">Font grossa</string>
-    <string name="draft_feature_fountain00_text">Una font meravellosa que deixarà meravellats els habitants de la ciutat.</string>
+    <string name="draft_feature_fountain00_text">Desbloca permanentment una font meravellosa que deixarà meravellats els habitants de la ciutat.</string>
 
     <string name="draft_rnk_galaxy_small_title">Galàxia petita</string>
     <string name="draft_rnk_galaxy_medium_title">Galàxia</string>
@@ -1299,7 +1299,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_hydroplant00_title">Planta hidroelèctrica</string>
     <string name="draft_hydroplant00_text">Una central hidroelèctrica que es pot utilitzar per a generar electricitat amb l\'energia dels rius. No genera contaminació.</string>
     <string name="draft_feature_slime00_title">Desastre de Slime</string>
-    <string name="draft_feature_slime00_text">Els desastres de Slime devoraran la ciutat. Per descomptat, només si ho voleu.</string>
+    <string name="draft_feature_slime00_text">Desbloca permanentment els desastres de Slime, que devoraran la ciutat. Per descomptat, només si ho voleu.</string>
 
     <string name="settings_terrainshading">Ombrejat del terreny</string>
     <string name="draft_deco_chr_tree00_title">Arbre de Nadal</string>
@@ -1421,7 +1421,7 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_feature_shortbuildingtime00_title">Temps de construcció reduït</string>
     <string name="draft_feature_shortbuildingtime00_text">Reducció dràstica del temps de construcció de tots els edificis.</string>
     <string name="dialog_shortbuildtime_title">Reducció del temps de construcció</string>
-    <string name="dialog_shortbuildtime_text">Mira un vídeo curt per a reduir el temps de construcció %s.</string>
+    <string name="dialog_shortbuildtime_text">Mireu un vídeo curt per a reduir el temps de construcció %s.</string>
 
 
     <string name="settings_saveonappswitch">Desa al switch</string>
@@ -1727,8 +1727,8 @@ Si proporcioneu accés al TheoTown a l\'emmagatzematge extern, desarà ciutats a
     <string name="draft_cat_roaddeco00_title">Decoracions de carreteres</string>
 
 
-    <string name="draft_feature_doubledincome00_title">Ingressos dobles</string>
-    <string name="draft_feature_doubledincome00_text">Duplica els ingressos.</string>
+    <string name="draft_feature_doubledincome00_title">Més ingressos</string>
+    <string name="draft_feature_doubledincome00_text">Duplica els ingressos de la ciutat temporalment. Proporciona fons per a la ciutat addicionals durant un determinat període de temps.</string>
     <string name="features_duration">Durada %s</string>
     <string name="draft_roaddeco_crosswalk00_title">Pas de vianants</string>
     <string name="draft_roaddeco_crosswalk00_text">És perillós recórrer la carretera.</string>
@@ -2687,12 +2687,12 @@ Premeu una tecla per a assignar-la a aquesta acció.</string>
     <string name="dialog_migratefb_title">Acció necessària</string>
     <string name="dialog_migratefb_text">Sembla que heu iniciat sessió amb un compte del Facebook. Desgraciadament, aquest tipus d\'accés ja no es suporta.\nInicieu sessió amb el compte del fòrum per a migrar les dades.</string>
     <string name="dialog_migratefb_cmdaccountsettings">Configuració del compte</string>
-    <string name="draft_feature_opera00_title">El Teatre de l\'Òpera</string>
-    <string name="draft_feature_opera00_text">Aprofiteu la màgia de la cultura amb el paquet de la màgia de la cultura. Experimenteu la grandesa de la Casa de l\'Òpera, acompanyats d\'un parc per a relaxar-se i una font encantadora. Eleveu l\'atmosfera de la ciutat i inspireu als ciutadans amb l\'harmoniosa mescla de música, natura i seducció artística. Deixeu que la ciutat brilli amb aquesta obra mestra cultural!</string>
-    <string name="draft_opera00_title">L\'Oasi operístic</string>
-    <string name="draft_opera00_text">Entreu a la Mansió de la Melodia, el batec cultural de la ciutat! Aquesta casa de l\'òpera dóna un toc d\'elegància i delicadesa a la metròpoli. Observeu com influencia els ciutadans, convertint-los en refinats coneixedors de les arts. Deixeu que les vibracions harmonioses flueixin!</string>
-    <string name="draft_opera_park00_title">El Parc de la Simfonia Serena</string>
-    <string name="draft_opera_park00_text">Al costat del Teatre de l\'Òpera, el Parc de la Simfonia Serena és un refugi on la natura balla les melodies de l\'òpera. Relaxeu-vos en els seus espais verds, gaudiu de les actuacions i deixeu que la fusió harmoniosa de cultura i natura rejoveneixin la vostra ànima.</string>
+    <string name="draft_feature_opera00_title">Complex operístic</string>
+    <string name="draft_feature_opera00_text">Desbloca la Casa de l\'Òpera i els equipaments adjacents. Aquests edificis culturals milloren el caràcter visual de la ciutat i poden ser un espai monumental dins dels entorns urbans</string>
+    <string name="draft_opera00_title">Casa de l\'Òpera</string>
+    <string name="draft_opera00_text">Un monument cultural que representa l\'art i la música de la ciutat. Contribueix al prestigi de la ciutat i proporciona un centre arquitectoni únic./string>
+    <string name="draft_opera_park00_title">Parc de l\'Òpera</string>
+    <string name="draft_opera_park00_text">Un parc decoratiu dissenyat per a donar èmfasi a la Casa de l\'Òpera. Afegeix espais verds i atractiu visual a l\'àrea del voltant. Per això és adequat per als districtes culturals i cèntrics.</string>
     <string name="stage_comment_plugin_acquirefirst">Adquiriu primer aquest complement.</string>
 
 
@@ -3672,15 +3672,15 @@ Premeu la carretera que voleu construir. Tot seguit, mentre esteu al menú de co
     <string name="gamemenu_catmusic">Música</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
-    <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="ts_tool_edit_route">%s (%d estacions)</string>
+    <string name="ts_tool_all_routes">%s (%d rutes)</string>
+    <string name="ts_tool_add_random_station">Afegeix una estació aleatòria</string>
+    <string name="ts_reached_vehicle_limit">No es poden assignar més de %d vehicles a aquesta ruta!</string>
+    <string name="musictype_game">Joc</string>
+    <string name="musictype_action">Acció</string>
+    <string name="musictype_default">%s (per defecte)</string>
+    <string name="dialog_unlink_steam_title">Desvincula el compte</string>
+    <string name="dialog_unlink_steam_text">Desvincula el compte del fòrum del compte de l\'Steam. Pot tenir efectes contraproduents i només s\'ha de fer si és necessari. El joc es reiniciarà després de la desvinculació.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Desvincula el compte</string>
 
 </resources>
