@@ -34,7 +34,7 @@ Here is a list of currently supported languages:
 - `values-fa`: Farsi
 - `values-fr`: French
 - `values-hu`: Hungarian
-- `values-in`: Indonesian
+- `values-id`: Indonesian
 - `values-it`: Italian
 - `values-ja`: Japanese
 - `values-jv`: Javanese
