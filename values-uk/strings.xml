@@ -3095,343 +3095,181 @@
     <string name="draft_fence_guardrail00_text">Будь у безпеці з цією металевою огорожою.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
+    <string name="draft_dsarocket_launchbutton">Запустити</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Вже запущено</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Запуск триває</string>
+    <string name="draft_dsarocket_requirement_supplies">Запаси: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Ціна: %s</string>
+    <string name="draft_dsarocket_test_text">Запустіть порожню експериментальну ракету у космос, щоб зібрати інформацію та підготуватися до інших запусків та операцій.</string>
+    <string name="draft_dsarocket_animal_text">Запустіть ракету з котом на ім\'я Акіал у космос, щоб зібрати важливу інформацію.</string>
+    <string name="draft_dsarocket_navigation_text">Запустіть ракету з людиною у космос для проведення навігаційних випробувань.</string>
+    <string name="draft_dsarocket_exploration_text">Запустіть ракету на дослідницьку місію, щоб знайти підходяще місце для колонізації.</string>
+    <string name="draft_dsarocket_sdi_text">Запустіть серію ракет у космос, щоб зібрати ініціативу з космічної оборони.</string>
+    <string name="draft_dsarocket_deprecated_text">Стартовий майданчик було оновлено, вам потрібно знищити цей та побудувати новий.</string>
+    <string name="stage_createcity_terrain">Місцевість...</string>
+    <string name="dialog_terrain_title">Рельєф</string>
+    <string name="dialog_missingmanifest_title">Відсутні файли маніфесту плагіна</string>
+    <string name="dialog_missingmanifest_text">Наступні плагіни не визначають файл маніфесту плагіна (plugin.manifest). Це може призвести до проблем з іншими плагінами та онлайн режимом. Майбутня сумісність не може бути гарантована:</string>
+    <string name="dialog_missingmanifest_cmdhelp">Що це?</string>
+    <string name="createcity_rivers">Ріки</string>
+    <string name="createcity_roughness">Шершавість</string>
+    <string name="createcity_roughness_flat">Рівний</string>
+    <string name="createcity_roughness_less">Менше</string>
+    <string name="createcity_roughness_default">Стандарт</string>
+    <string name="createcity_roughness_more">Більше</string>
+    <string name="createcity_roughness_extreme">Екстремально</string>
+    <string name="buildingicon_illness">Люди в цьому будинку хворі. Вам слід відправити лікаря.</string>
+    <string name="buildingicon_noroad">Ця будівля не приєднана до відповідної дороги.</string>
+    <string name="buildingicon_noenergy">Цей будинок не отримує достатньо енергії.</string>
+    <string name="buildingicon_nowater">Цій будівлі не вистачає води.</string>
+    <string name="buildingicon_overloaded">Ця будівля перевантажена. Забезпечте більше ємностей.</string>
+    <string name="buildingicon_unhappy">Люди в цьому будівлі є нещасними.</string>
+    <string name="buildingicon_waste">У цій будівлі є незібране сміття.</string>
+    <string name="buildingicon_wasteoverloaded">Цей смітник переповнений.</string>
+    <string name="buildingicon_deadbodies">У цій будівлі є незібрані трупи.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Цей цвинтар переповнений.</string>
+    <string name="buildingicon_crimegraffiti">Хтось наніс нелегальні графіті тут.</string>
+    <string name="buildingicon_crimeburglary">Тут було вчинено взлом.</string>
+    <string name="buildingicon_crimemurder">Тут вбили когось.</string>
+    <string name="buildingicon_crimeriot">Люди тут бунтують.</string>
+    <string name="dialog_scriptpolicy_title">Політики скриптів плагінів</string>
+    <string name="dialog_scriptpolicy_help_title">Скрипти плагінів можуть бути ризикованими</string>
     <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
 \n
 If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
 \n
 Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
-    <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
-    </string>
-    <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
-    </string>
-    <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
-    </string>
-    <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
-    </string>
-    <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
-    </string>
-    <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
-    </string>
-    <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
-    </string>
-    <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
-    </string>
-    <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
-    </string>
-    <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
-    <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
-    </string>
+    <string name="settings_openscriptpolicy">Політика скриптів плагінів</string>
+    <string name="stage_files_itemcount">%d предмет(и)</string>
+    <string name="tips_title">Поради</string>
+    <string name="tips_cmd_random">Ще одна порада</string>
+    <string name="tip_topic_culture_title">Культура надається деякими пам\'ятками, нагородами та плагінами!</string>
+    <string name="tip_topic_culture_text">Більшість менших пам\'яток аж до Ейфелевої вежі створюють культурний вплив, а також нагороди з культурною значимістю у реальному світі. Більше плагінів, які забезпечують культуру, можна завантажити через магазин плагінів та форум.</string>
+    <string name="tip_topic_fire_too_frequent_title">Якщо будівлі занадто часто загораються, розташуйте пожежну станцію поряд!</string>
+    <string name="tip_topic_fire_too_frequent_text">Якщо будівлі занадто часто загораються, це добрий індикатор того, що зона впливу вашої пожежної станції не покриває їх. Житлові, комерційні та промислові будівлі потребують пожежну станцію, тому піклуйтеся про те, щоб покрити всю карту зонами впливу пожежної станції. Це допоможе уникнути пожеж у майбутньому.</string>
+    <string name="tip_topic_pollution_distance_title">Тримайте житлові райони подалі від забруднення</string>
+    <string name="tip_topic_pollution_distance_text">Мешканці не люблять забруднення. Якщо вони скаржаться на надмірне забруднення, досліджуйте його джерело. Забруднюючу будівлю можна виявити, натиснувши на інструмент "око" та потім на забруднення або шукайте будівлі з червоними кругами навколо них. Перемістіть забруднуючу будівлю або знесіть її на користь більш екологічно чистого варіанту.</string>
+    <string name="tip_topic_pollution_trees_title">Ви можете зменшити забруднення, оточуючи його деревами</string>
+    <string name="tip_topic_pollution_trees_text">Житлові будівлі не люблять забруднення. Щоб уникнути проблеми з перенесенням будівель, особливо у добре спланованих містах, ви можете використовувати дерева. Дерева стримують забруднення. Розміщення більшої кількості дерев зменшить забруднення ще більше. Часто цей метод є найбільш економічно ефективним, адже дерева досить дешеві. Кількість дерев, які необхідно висадити, залежить від кількості забруднення та сили впливу дерев.</string>
+    <string name="tip_topic_traffic_networking_title">Використовуйте односторонні дороги та перехрестя для зменшення трафіку</string>
+    <string name="tip_topic_traffic_networking_text">Часто місця, як-от автомагістралі та промислові зони, можуть стати перевантаженими від трафіку. Для вирішення цієї проблеми потрібна грамотна дорожня мережа. Односторонні дороги та перехрестя можуть допомогти з цим. Є готові перехрестя, які доступні в грі та як плагіни. Ви також можете створювати власні, використовуючи для прикладу реальні розв\'язки. Це дозволить поліпшити рух трафіку, зменшуючи його в вашому місті.</string>
+    <string name="tip_topic_traffic_volume_title">Ви можете налаштувати інтенсивність трафіку в налаштуваннях, щоб зменшити трафік</string>
+    <string name="tip_topic_traffic_volume_text">Щоб налаштувати інтенсивність дорожнього руху в налаштуваннях, спочатку ввімкніть режим налагодження, він також повинен бути там. Після ввімкнення режиму налагодження, вам пропонується опція зменшення або збільшення дорожнього руху. Вибір відсотка залежить від того, скільки у вас дорожнього руху та наскільки великий виклик ви бажаєте.</string>
+    <string name="tip_topic_more_cash_title">Щоб отримати більше грошей, візьми кредит</string>
     <string name="tip_topic_more_cash_text">
 Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
     </string>
-    <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
-    </string>
-    <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
-    </string>
-    <string name="tip_topic_discord_title">
-There\'s an official discord server!
-    </string>
-    <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
-    </string>
-    <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
-    </string>
-    <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
-    </string>
-    <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
-    </string>
-    <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
-    </string>
-    <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
-    </string>
-    <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
-    </string>
-    <string name="tip_topic_airport_title">
-The airport is a good long term investment
-    </string>
-    <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
-    </string>
-    <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
-    </string>
-    <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
-    </string>
-    <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA to go to the moon
-    </string>
-    <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
-    </string>
-    <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
-    </string>
-    <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
-    </string>
-    <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
-    </string>
-    <string name="tip_topic_demands_title">
-Build zones which are above the demand line
-    </string>
-    <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
-    </string>
-    <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
-    </string>
-    <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
-    </string>
-    <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
-    </string>
-    <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
-    </string>
-    <string name="tip_topic_education_title">
-Residentials need both high and low education
-    </string>
-    <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
-    </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="tip_topic_loan_repayment_title">Позики автоматично сплачуються щомісяця</string>
+    <string name="tip_topic_loan_repayment_text">Платежі за кредитом автоматично знімаються з вашого рахунку щомісяця від гри. Їх не потрібно оплачувати вручну, хоча таким чином ви могли б зменшити щомісячні витрати. Період погашення можна переглянути, перейшовши на вкладку кредитів.</string>
+    <string name="tip_topic_discord_title">Є офіційний сервер Discord!</string>
+    <string name="tip_topic_discord_text">Офіційний сервер Discord - це місце, де гравці та творці проводять час, демонструють свої створені об\'єкти та знаходять друзів. Посилання можна знайти в грі в налаштуваннях.</string>
+    <string name="tip_topic_making_plugins_title">Ви можете створити власні плагіни. Це просто™</string>
+    <string name="tip_topic_making_plugins_text">На початку це може здатися трохи лякаючим, але створення плагінів - це просто. Щоб зробити текстури, ви можете використовувати щось на зразок paint.net на ПК та Pixly на мобільному. Щоб створити json або "код", ви можете написати власний за допомогою форумів або використовувати https://pca.svetikas.lt/. Якщо у вас є питання, ми можемо відповісти на них у Discord або на форумах!</string>
+    <string name="tip_topic_online_collaboration_title">Співпрацюйте над регіоном у режимі онлайн</string>
+    <string name="tip_topic_online_collaboration_text">Натиснувши кнопку онлайн у вигляді регіону, ви можете співпрацювати з друзями або іншими учасниками для створення прекрасного регіону. Гра не дозволяє більше ніж одному гравцю працювати над однією картою, але ви можете відвідати інші міста і отримати натхнення.</string>
+    <string name="tip_topic_online_upload_title">Завантаження карти в онлайн-режим вимагає діамантів або монет регіону</string>
+    <string name="tip_topic_online_upload_text">Діаманти (мобільна версія) та монети регіону (ПК) вручаються за щоденний вхід в гру. Вартість завантаження регіону залежить від його розміру. Під час завантаження карти, автор може встановити пароль і визначити деякі правила. Після створення, пароль не можна додати або видалити.</string>
+    <string name="tip_topic_diamonds_title">Ви можете отримати діаманти, щоденно входячи в гру</string>
+    <string name="tip_topic_diamonds_text">Щоденний вхід в гру (мобільну версію) винагороджується діамантами. Якщо Ви входите кожного дня протягом тижня, Ви отримуєте більше винагород. Як тільки Ви отримаєте останню винагороду, вона скидується, і все починається знову. Ви також можете дивитися відео за діаманти кожні 30 хвилин - але не забудьте відключити блокування реклами, щоб вони відображались!</string>
+    <string name="tip_topic_supplies_title">Постачання для ракет забезпечуються деякими промисловими будівлями</string>
+    <string name="tip_topic_supplies_text">Будівлі, які постачають нафту, розташовані на різних рівнях промисловості. Це включає будівлі для видобування нафти, складські будівлі та обробні центри. Вони забезпечують вашу ракету потрібними запасами. Чим більше таких будівель розташовано поруч з ракетою, тим швидше вона буде постачатися.</string>
+    <string name="tip_topic_train_bus_usage_title">Можливо, ви не бачите використання потягів або автобусів, але вони все одно мають ефект</string>
+    <string name="tip_topic_train_bus_usage_text">Автобуси та потяги можуть відображати відсутність пасажирів наразі. Однак вони вже виконують свою функцію, а дані про їх використання можуть бути оновлені в майбутньому. Автобуси та потяги сприяють задоволеності від транспорту. Тому обов\'язково врахуйте це при покритті RCI-зонами.</string>
+    <string name="tip_topic_vandalism_title">Іконка аерозолю свідчить про вандалізм, побудуйте поліцейський відділок</string>
+    <string name="tip_topic_vandalism_text">Іконка аерозолю з\'являється, коли будівлі не знаходяться під впливом поліції. Житлові, комерційні та промислові будівлі вимагають впливу поліції, тому переконайтеся, що ці будівлі забезпечені його наявністю, щоб уникнути майбутніх злочинів.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">Будуйте цвинтарі та крематорії для організації поховання померлих</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Якщо значок у вигляді мерця з\'являється над однією чи кількома будівлями, це означає, що вам потрібно будувати цвинтарі або крематорії. Цвинтарі - добра вибірка на початку, але з ростом міста їх доведеться все частіше очищути. Тому крематорій може бути кращим рішенням на довгий термін.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">Щоб заробити додатковий дохід, встановіть торгівлю в районі</string>
+    <string name="tip_topic_neighbourhood_commercial_text">Це можливо лише в регіонах, де у вас розблоковані найближчі міста. Є вкладка "комерція в районі". Регулюючи ці значення, ви можете імпортувати або експортувати з найближчих міст. Це не працює в онлайн режимі, а також якщо одне або декілька міст, які ви намагаєтеся налаштувати, перебуває в режимі "пісочниця" або "uber".</string>
+    <string name="tip_topic_airport_title">Аеропорт - це хороше довгострокове інвестування</string>
+    <string name="tip_topic_airport_text">Щоб зробити аеропорт функціональним, побудуйте всі аеропортові будівлі, добавте доріжки та призначте літаки на ці доріжки. Аеропорт часто стає прибутковим, коли його використовують. Це означає, що одразу ж як покриваються початкові витрати, можна отримати гарний прибуток.</string>
+    <string name="tip_topic_youtube_title">На YouTube є деякі корисні навчальні матеріали</string>
+    <string name="tip_topic_youtube_text">Є декілька досвідчених гравців та творців TheoTown, які публікують відео на YouTube. Вони варіюються від натхненних геймплейних відео в форматі тайм-лапс до відео, які можуть допомогти вам покращити ваш досвід гри.</string>
+    <string name="tip_topic_price_increase_title">Зростання цін у грі, так само як і в реальному житті</string>
+    <string name="tip_topic_price_increase_text">Розміщення більшої кількості будівель та доріг збільшує їхню вартість. Чим більше вони використовуються, тим вищою стає ціна. Це стосується доріг, декорацій, зон та всіх типів будівель.</string>
+    <string name="tip_topic_creative_gameplay_title">Для більшої креативної свободи, грайте в режимі піщаника/супер</string>
+    <string name="tip_topic_creative_gameplay_text">Багато досвідчених гравців віддають перевагу грати в режимі пісочниці або убер-режимі, щоб виразити більше своєї творчої свободи. Це дозволяє їм будувати без обмежень за кошти, а в разі убер-режиму - не хвилюватися про радість або потреби. Часто будівлі розміщуються вручну, щоб створити дивовижні творіння. Не хвилюйтеся, якщо це не про вас, кожен будує по-своєму!</string>
+    <string name="tip_topic_toggle_disasters_title">Ви можете вимкнути автоматичні катастрофи у налаштуваннях гри</string>
+    <string name="tip_topic_toggle_disasters_text">Катастрофи можна вимкнути у налаштуваннях, а також ви можете вибрати, з якими катастрофами, якщо взагалі, ви хочете грати. Якщо використовуються гірничі станції DSA або військові ракетні шахти, місто все ще може бути під загрозою землетрусів або інших катастроф.</string>
+    <string name="tip_topic_taxes_percentage_title">Більшість вашого доходу надходить від податків, але не встановлюйте їх вище 9%</string>
+    <string name="tip_topic_taxes_percentage_text">Особливо на початку гри, 90% або більше доходу отримується від оподаткування жителів. Добре було б збирати податки в розмірі між 7% та 9%. Якщо податки будуть вищими, є ризик бунтів та того, що люди покинуть свої будинки та місто.</string>
+    <string name="tip_topic_taxes_adjust_title">Ви можете регулювати податки за допомогою кнопок + та -</string>
+    <string name="tip_topic_taxes_adjust_text">Натисніть на іконку з посмішкою, а потім перейдіть до вкладки податків, потім використовуйте кнопки + та -, щоб регулювати рівень оподаткування для кожного типу будівлі та групи доходів. Однак обережно, щоб не встановлювати податок занадто високим.</string>
+    <string name="tip_topic_moon_title">Використовуйте DSA, щоб дістатися до місяця</string>
+    <string name="tip_topic_moon_text">Розблокуйте DSA та оновіть будівлі, аби полетіти на Місяць. Ракета потребує запасів, і коли вона повністю забезпечена, є шанс полетіти на Місяць або розбитися. Якщо польот на Місяць успішний, карту Місяця можна знайти у вкладці окремих міст для повторних візитів. Шляхом видобування певних руд у космосі, ви можете розблокувати певні будівлі для карти, яка була використана для політу на Місяць.</string>
+    <string name="tip_topic_icbm_title">Обережно! МБР знищить ваше місто повністю</string>
+    <string name="tip_topic_icbm_text">ICBM - це не природна катастрофа і може бути активована лише через DSA. Будьте обережні при використанні ICBM, адже вона знищить весь місто, незалежно від його розміру, за кілька секунд. Ви можете створити резервну копію або дублікат міста, щоб уникнути почуття жалю після тестування ICBM на ньому.</string>
+    <string name="tip_topic_normalzone_densezone_title">Щільні зони можуть вмістити більше людей, але їх встановлення дорожче</string>
+    <string name="tip_topic_normalzone_densezone_text">Щільні зони зазвичай дорожчі для розміщення, ніж звичайні, але можуть вмістити більше людей. В свою чергу, вони часто вищі, ніж звичайні зони. При цьому, відмінностей немає багато, оскільки їх потреби такі ж, як і у звичайних зон.</string>
+    <string name="tip_topic_forum_plugins_title">Ви можете завантажити плагіни через форуми</string>
+    <string name="tip_topic_forum_plugins_text">Деякі автори плагінів вибирають ексклюзивно публікувати деякі плагіни на форумах. Це дозволяє вам завантажувати плагіни, яких може не бути в магазині плагінів. Ці плагіни безкоштовні для завантаження і їх треба вручну помістити в папку плагінів на вашому пристрої. Будьте обережні, оскільки ці плагіни не модеруються.</string>
+    <string name="tip_topic_toll_happiness_title">Стоянки для збору мита дають додатковий прибуток, але роблять мешканців нещасними</string>
+    <string name="tip_topic_toll_happiness_text">Пункти оплати можна розмістити для стягнення штрафу з транспортних засобів, що їздять по дорогах, що допомагає зібрати дохід. Сума, що стягується, може бути скоригована натисканням на пункт оплати. Однак це знижує задоволеність від транспорту і робить людей нещасливими.</string>
+    <string name="tip_topic_building_rotation_title">Не всі будівлі мають рамки обертання</string>
+    <string name="tip_topic_building_rotation_text">Деякі стандартні будівлі мають кадри обертання, але не всі. Особливо коли йдеться про плагіни, там можливо не буде кадрів обертання. Це тому, що автор їх не створював. Щоб побачити, які будівлі мають кадри обертання, натисніть на будівлю і подивіться, чи є у верхньому правому куті кнопки "наступне" та "попереднє". Відсутність кадрів обертання забезпечує більше місця для різноманітніших будівель.</string>
+    <string name="tip_topic_map_rotation_title">Змініть орієнтацію мапи за допомогою міні-карти</string>
+    <string name="tip_topic_map_rotation_text">Міні-карту можна використовувати як інструмент для обертання мапи. Натисніть на міні-карту і використовуйте стрілки, щоб повернути мапу вліво або вправо. Важливо зазначити, що під час обертання карти не всі будівлі обертаються, якщо не надано кадри обертання.</string>
+    <string name="tip_topic_demands_title">Будуйте зони, які перевищують лінію попиту</string>
+    <string name="tip_topic_demands_text">Коли попит перевищує лінію попиту, це означає, що люди або бізнеси з відповідним попитом хочуть переїхати до вашого міста. Тому ви повинні надати їм необхідні можливості для цього. Коли попит нижче лінії попиту, це означає, що потрібно будувати інші зони та допоміжні споруди, такі як парки та поліція.</string>
+    <string name="tip_topic_happiness_title">Натисніть на будівлю, щоб побачити її найнижчий рівень щастя</string>
+    <string name="tip_topic_happiness_text">Натискання на будівлю допомагає з\'ясувати, чому будинок та сусідні будівлі незадоволені. Він також надає середній показник щастя для будинку. Як тільки причина найнижчого щастя виявлена, ви можете вжити заходів, щоб виправити її. Наприклад, якщо будівля незадоволена через брак парків, ви повинні розмістити один поряд з будівлею, щоб збільшити щастя.</string>
+    <string name="tip_topic_game_extentions_title">В магазині плагінів є офіційні розширення гри</string>
+    <string name="tip_topic_game_extentions_text">Офіційні розширення гри публікуються в магазині плагінів користувачем Lobby. Зазвичай вони є безкоштовними, оскільки є офіційними розширеннями гри.</string>
+    <string name="tip_topic_inspiration_title">Не порівнюйте своє місто з містами інших гравців, натхненняться ними</string>
+    <string name="tip_topic_inspiration_text">Різні гравці мають різні стилі. Замість того, щоб заздрити містам інших гравців, спробуйте визначити, що саме вам в них подобається. Що саме вам в них так подобається? Як тільки ви це зрозумієте, поступово впроваджуйте це у своїх містах і спостерігайте, як місто розвивається.</string>
+    <string name="tip_topic_road_connection_title">Використовуйте автоматичне підключення доріг при будівництві дорожньої мережі</string>
+    <string name="tip_topic_road_connection_text">Натисніть на обрану дорогу, а потім натисніть "приєднати дорогу" у верхньому правому куті, щоб автоматично приєднати дорогу, яка будується. Це допоможе уникнути того, що дороги не працюють через неналежне підключення.</string>
+    <string name="tip_topic_epidemic_prevention_title">Розміщуйте лікарні, щоб уникнути епідемій</string>
+    <string name="tip_topic_epidemic_prevention_text">Якщо над будівлями з\'являється зелене обличчя, це означає, що мешканці хворі. Щоб уникнути цього у майбутньому, побудуйте лікарні у межах всіх зон. Щоб тримати своїх мешканців у здоров\'ї, вам також слід переконатися, що ваші водойми розташовані в чистих районах.</string>
+    <string name="tip_topic_education_title">Житлові райони потребують як високої, так і низької освіти</string>
+    <string name="tip_topic_education_text">Щоб покращити освітнє задоволення, потрібно забезпечити як вищу, так і нижчу освіту. Вони потрібні для того, щоб будівлі ставали багатшими. Тому обов\'язково охопіть обидві впливи у житлових районах.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">Щоб зменшити лаг, відключіть плавне збільшення</string>
+    <string name="tip_topic_disable_smooth_zoom_text">Якщо ви відчуваєте, що гра працює зі збоями, подумайте про вимкнення опції плавного зуму. Цю опцію можна знайти в налаштуваннях гри. Це може допомогти поліпшити враження від гри.</string>
+    <string name="tip_topic_building_bridges_title">Підніміть дороги, використовуючи опції стрілок справа</string>
+    <string name="tip_topic_building_bridges_text">Натисніть на дорогу, яку потрібно побудувати. Потім, перебуваючи в меню будівництва, натисніть на клітинку і побудуйте вгору, щоб створити схил вгору. Натисніть на підняту дорогу і побудуйте вниз, щоб створити схил вниз. Одночасно натисніть міст, щоб автоматично побудувати міст. Однак не всі дороги підтримують створення піднятих доріг.</string>
+    <string name="store_cmd_downloadall_title">Завантажити все</string>
+    <string name="store_cmd_downloadall_text">Завантажити / активувати всі відсутні плагіни одразу</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Відкрити</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Повідомлення</string>
+    <string name="settings_notify_low_power">Низький рівень заряду</string>
+    <string name="settings_notify_low_water">Низький рівень води</string>
+    <string name="settings_notify_no_power">Немає електроенергії</string>
+    <string name="settings_notify_no_water">Без води</string>
+    <string name="settings_notify_no_road">Немає дороги</string>
+    <string name="settings_notify_no_park">Без парку</string>
+    <string name="settings_notify_no_sport">Немає спорту</string>
+    <string name="settings_notify_pollution">Забруднення</string>
+    <string name="settings_notify_noise">Шум</string>
+    <string name="settings_notify_water_waste">Витрата води</string>
+    <string name="settings_notify_unhappy">Незадоволеність</string>
+    <string name="settings_notify_unlocked">Будівлю розблоковано</string>
+    <string name="settings_notify_low_budget">Низький бюджет</string>
+    <string name="settings_notify_zone_needed">Зона необхідна</string>
+    <string name="settings_notify_polluted_pump">Забруднений насос</string>
+    <string name="settings_notify_school_overloaded">Школа перевантажена</string>
+    <string name="settings_notify_medic_overloaded">Медик перевантажений</string>
+    <string name="settings_notify_destroyed_tile">Повідомлення про знищення тайли</string>
+    <string name="settings_notify_need_low_education">Потрібна низька освіта</string>
+    <string name="settings_notify_need_high_education">Потрібна вища освіта</string>
+    <string name="settings_notify_bad_traffic">Поганий трафік</string>
+    <string name="settings_notify_waste">Збір сміття</string>
+    <string name="settings_notify_body_disposal">Вивезення тіл</string>
+    <string name="settings_notify_bad_attribute">Поганий значення</string>
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="dialog_uploadregionpolicy_title">Політика неактивного регіону</string>
+    <string name="dialog_uploadregionpolicy_text">Зверніть увагу, що регіони, які залишаються неактивними протягом року або більше, можуть бути автоматично видалені. Такий крок необхідний для звільнення простору для нових регіонів та забезпечення оптимального досвіду для активних гравців. Перед будь-яким видаленням через неактивність ми повідомимо вас заздалегідь.</string>
+    <string name="dialog_loginforreport_title">Необхідно Увійти, щоб Повідомити</string>
+    <string name="dialog_loginforreport_text">Щоб забезпечити цілісність нашої системи звітів, тільки зареєстровані користувачі можуть надсилати звіти. Будь ласка, увійдіть в систему, щоб продовжити зі своїм звітом.</string>
+    <string name="settings_debug_hotkeys">Гарячі клавіші налагодження</string>
+    <string name="specialoffer_alreadyunlocked">Ви вже розблокували цей предмет.</string>
+    <string name="settings_highlight_hovered_building">Виділяти будівлю під курсором</string>
+    <string name="settings_cursorscaling">Розмір курсору</string>
     <string name="settings_cursorstyle_citylights">CityLights</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
@@ -3439,155 +3277,160 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+    <string name="stage_files_actioncopy">Копіювати в буфер обміну</string>
+    <string name="stage_files_actionopen">Відкрити</string>
+    <string name="stage_files_imageresolution">Роздільна здатність: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">Застаріла версія</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Цей сценарій вимагає версію %s або вище, але ви використовуєте %s.\n
+\n
+Будь ласка, перевірте наявність оновлень, щоб зіграти цей сценарій.</string>
+    <string name="comments_language">Мова: %s</string>
+    <string name="comments_cmdtranslate">Перекласти (переклад може бути неточним)</string>
+    <string name="waste_clear_onmouseinput">Клацніть та перетягніть сміття, щоб його прибрати.</string>
+    <string name="cemetery_clear_onmouseinput">Клацніть та перетягніть, щоб звільнити деяке місце.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Розташуйте дорогу вздовж відмічених плиток. Щоб побудувати її, натисніть, щоб встановити початкову точку, і знову натисніть, щоб встановити кінцеву точку.</string>
+    <string name="tutorial_rci_onmouseinput">Натисніть на цю кнопку, щоб побачити детальну інформацію про попит для кожного типу зони.</string>
+    <string name="tutorial_money_info_onmouseinput">Клацніть праворуч внизу, щоб отримати більше інформації про ваші гроші або змінити податки.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Клацніть на початок і кінець планованої дороги. Подивіться, як міст автоматично будується через річку.</string>
+    <string name="tool_airplanelane_title_onmouseinput">Клацніть на вільну смугу</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">Просто подарунок. Спробуйте натиснути на нього.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Хочете знову побудувати конкретну дорогу або будівлю? Використовуйте цей інструмент та натисніть на нього. Не підтримується всіма структурами.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Чи бажаєте ви завантажити свій знімок екрана до нашої галереї? \n
+\n
+Натиснувши "Завантажити зараз", ви погоджуєтеся, що приймаєте наші правила.</string>
+    <string name="notify_waste_producer00_onmouseinput">Цей сміттєзвалище заповнене! Клацніть на нього, щоб очистити!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Клацніть лівою кнопкою миші, щоб відкрити або закрити. Чудовий спосіб створити затори в русі.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Створіть поле для гри в життя. Клацніть на існуючі плитки, щоб змінити їх стан. Стан за замовчуванням - мертвий.</string>
+    <string name="loadcity_scenario">Сценарій: %s</string>
+    <string name="trainstationinfo_total">Загалом перевезено: %1$,d</string>
 
 
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">Потрібно: Допомогти Піклсам на Місяці</string>
     <string name="dialog_configureregion_tags">Tags</string>
     <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
+    <string name="dialog_regionrules_notags">- Теги не застосовані -</string>
     <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
-    <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="settings_highrescitypreview">Відобразити високоякісний перегляд міста</string>
+    <string name="draft_native_snow_plow_depot00_title">Депо снігоприбиральників</string>
+    <string name="draft_native_snow_plow_depot00_text">Спеціалізований заклад, призначений для того, щоб тримати дороги чистими взимку. Відправляє снігоплави, які швидко видаляють лід та сніг, забезпечуючи неперервний рух транспорту.</string>
+    <string name="settings_road_snow_overlay">Покриття дороги снігом</string>
+    <string name="settings_ground_snow_overlay">Покриття землі снігом</string>
+    <string name="dialog_scenarios_cmdopen">Сценарії</string>
+    <string name="dialog_scenarios_title">Сценарії</string>
+    <string name="dialog_scenarios_generalinfo_title">Що таке ці сценарії?</string>
+    <string name="dialog_scenarios_generalinfo_text">Сценарії в TheoTown - це готові карти з особливими умовами. Ви будуєте своє місто з певними обмеженнями, такими як обмеженi кошти або спеціальні правила плагінів. Коли сценарій закінчується, ви можете завантажити своє місто, щоб змагатися з іншими в дружньому конкурсі.</string>
+    <string name="dialog_scenarios_cmdreset">Скидання</string>
+    <string name="dialog_scenarios_cmdremove">Видалити</string>
+    <string name="dialog_scenarios_cmdmove">Перемістити</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
+    <string name="dialog_scenarios_cmdplay">Грати</string>
     <string name="dialog_scenarios_cmdstart">Start</string>
-    <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
+    <string name="dialog_scenarios_reset_title">Скидання</string>
+    <string name="dialog_scenarios_reset_text">Ви впевнені, що хочете скинути свій прогрес? Ви можете або перенести його до своїх індивідуальних міст, щоб продовжити гру, або повністю видалити.</string>
+    <string name="dialog_scenarios_empty">Наразі сценаріїв немає.</string>
+    <string name="dialog_scenarios_notplayedyet">Ще не грали</string>
+    <string name="region_download_city">Завантажити місто</string>
+    <string name="region_download_region">Завантажити регіон</string>
+    <string name="toolaction_removelast">Видалити останнє</string>
+    <string name="ci_transportation_title">Транспорт</string>
+    <string name="settings_legacy_bus_system">Використовувати стару систему автобусів</string>
+    <string name="draft_tool_car_follower00_despawn">Транспортний засіб зник</string>
 
 
     <string name="settings_extra_d">Extra D</string>
     <string name="settings_extra_d_gen">%s D</string>
-    <string name="settings_extra_d_max">3D-ish</string>
-    <string name="settings_stretching">Stretching</string>
-    <string name="settings_stretching_narrow2">Square</string>
-    <string name="settings_stretching_narrow1">Slim</string>
-    <string name="settings_stretching_narrow0">Compact</string>
-    <string name="settings_stretching_wide0">Stretchy</string>
-    <string name="settings_stretching_wide1">Chungus</string>
-    <string name="settings_stretching_wide2">W I D E</string>
-    <string name="settings_notransformsupport_hint">Transformation is not supported by current %1$s-&gt;%2$s setting</string>
-    <string name="ci_airport_launchedairplanes">Launched airplanes: %s</string>
-    <string name="ci_airport_totalpassengers">Total passengers: %s</string>
-    <string name="ts_routes">Routes</string>
-    <string name="ts_stations">Stations</string>
-    <string name="ts_vehicles">Vehicles</string>
-    <string name="ts_cityview">City view</string>
-    <string name="ts_routemap">Route map</string>
-    <string name="ts_dialog_buy_vehicle_title">Buy a Vehicle</string>
-    <string name="ts_dialog_select_vehicle_title">Select a Vehicle</string>
-    <string name="ts_missing_reqs">Missing Requirements</string>
-    <string name="ts_warn_no_routes">No Routes</string>
-    <string name="ts_warn_hard_to_reach">Hard to reach, add more routes</string>
-    <string name="ts_route_name_prefix">L</string>
+    <string name="settings_extra_d_max">Трохи 3D</string>
+    <string name="settings_stretching">Розтяжка</string>
+    <string name="settings_stretching_narrow2">Квадрат</string>
+    <string name="settings_stretching_narrow1">Стрункий</string>
+    <string name="settings_stretching_narrow0">Компактний</string>
+    <string name="settings_stretching_wide0">Розтягнутий</string>
+    <string name="settings_stretching_wide1">Великан</string>
+    <string name="settings_stretching_wide2">Ш И Р О К O</string>
+    <string name="settings_notransformsupport_hint">Трансформація не підтримується поточним налаштуванням %1$s-&gt;%2$s</string>
+    <string name="ci_airport_launchedairplanes">Запущені літаки: %s</string>
+    <string name="ci_airport_totalpassengers">Загальна кількість пасажирів: %s</string>
+    <string name="ts_routes">Маршрути</string>
+    <string name="ts_stations">Станції</string>
+    <string name="ts_vehicles">Транспортні засоби</string>
+    <string name="ts_cityview">Вигляд міста</string>
+    <string name="ts_routemap">Маршрутна карта</string>
+    <string name="ts_dialog_buy_vehicle_title">Купити транспортний засіб</string>
+    <string name="ts_dialog_select_vehicle_title">Виберіть транспортний засіб</string>
+    <string name="ts_missing_reqs">Відсутні вимоги</string>
+    <string name="ts_warn_no_routes">Немає маршрутів</string>
+    <string name="ts_warn_hard_to_reach">Важко доїхати, додайте більше маршрутів</string>
+    <string name="ts_route_name_prefix">Л</string>
     <string name="ts_route_copy_suffix">\'</string>
-    <string name="ts_route_invalid">Invalid Route</string>
-    <string name="ts_route_no_vehicle">No Vehicle assigned</string>
-    <string name="ts_route_path_broken">The path is broken</string>
-    <string name="ts_route_usage">Usage:</string>
-    <string name="ts_route_set_vehicle">Set Vehicle</string>
+    <string name="ts_route_invalid">Неправильний маршрут</string>
+    <string name="ts_route_no_vehicle">Не призначено транспортний засіб</string>
+    <string name="ts_route_path_broken">Шлях перервано</string>
+    <string name="ts_route_usage">Використання:</string>
+    <string name="ts_route_set_vehicle">Встановити Транспортний Засіб</string>
     <string name="ts_route_edit">Route</string>
-    <string name="ts_route_more">More</string>
-    <string name="ts_route_duplicate">Duplicate</string>
-    <string name="ts_route_rename">Rename</string>
-    <string name="ts_dialog_route_rename_title">Route Name</string>
-    <string name="ts_route_delete">Delete</string>
-    <string name="ts_station_routes_for">Routes for </string>
-    <string name="ts_station_routes">Routes:</string>
-    <string name="ts_station_waiting">Waiting:</string>
-    <string name="ts_station_usage">Usage:</string>
-    <string name="ts_station_locate">Locate</string>
-    <string name="ts_station_rename">Rename</string>
-    <string name="ts_station_recolor">Change color</string>
-    <string name="ts_dialog_station_rename_title">Station Name</string>
-    <string name="ts_station_routes_clear">Clear</string>
-    <string name="ts_add_route">Add Route</string>
-    <string name="ts_station_show_routes">Routes</string>
-    <string name="ts_vehicle_capacity">Capacity:</string>
-    <string name="ts_vehicle_speed">Speed:</string>
-    <string name="ts_vehicle_price">Price:</string>
-    <string name="ts_vehicle_transferred">Total transferred:</string>
-    <string name="ts_vehicle_on_board">On board:</string>
-    <string name="ts_vehicle_assigned_to">Assigned to </string>
-    <string name="ts_vehicle_not_assigned">Not assigned to a route</string>
-    <string name="ts_vehicle_locate">Locate</string>
-    <string name="ts_vehicle_delete">Delete</string>
-    <string name="ts_dialog_sell_vehicle_title">Sell?</string>
-    <string name="ts_dialog_sell_vehicle_text">Do you want to sell `%s`?\nValue: %s</string>
-    <string name="ts_dialog_sell_vehicle_cmd_sell">Sell</string>
-    <string name="ts_vehicle_count">%d/%d vehicles</string>
-    <string name="ts_vehicle_count_depot_limit">%s (limited by depots)</string>
-    <string name="ts_vehicle_count_station_limit">%s (limited by stations)</string>
-    <string name="ts_buy_vehicle">Buy Vehicle</string>
-    <string name="ts_build_depot">Build Depot</string>
-    <string name="ts_vehicle_assign">Assign</string>
-    <string name="ts_vehicle_unassign">Unassign</string>
-    <string name="ts_buy_vehicle_buy_more">Buy a vehicle first to assign it</string>
-    <string name="ts_buy_vehicle_title">Vehicles</string>
-    <string name="ts_buy_vehicle_cmdbuy">Buy</string>
-    <string name="ts_cityinfo_routes">Routes:</string>
-    <string name="ts_cityinfo_stations">Stations:</string>
-    <string name="ts_routes_title">Routes</string>
-    <string name="ts_stations_title">Stations</string>
-    <string name="ts_vehicles_title">Vehicles</string>
-    <string name="ts_mode_one_shot">One Shot</string>
-    <string name="ts_mode_loop">Loop</string>
-    <string name="ts_mode_ping_pong">Ping Pong</string>
+    <string name="ts_route_more">Більше</string>
+    <string name="ts_route_duplicate">Дублювати</string>
+    <string name="ts_route_rename">Перейменувати</string>
+    <string name="ts_dialog_route_rename_title">Назва маршруту</string>
+    <string name="ts_route_delete">Видалити</string>
+    <string name="ts_station_routes_for">Маршрути для</string>
+    <string name="ts_station_routes">Маршрути:</string>
+    <string name="ts_station_waiting">Очікує:</string>
+    <string name="ts_station_usage">Використання:</string>
+    <string name="ts_station_locate">Розташувати</string>
+    <string name="ts_station_rename">Перейменувати</string>
+    <string name="ts_station_recolor">Змінити колір</string>
+    <string name="ts_dialog_station_rename_title">Назва станції</string>
+    <string name="ts_station_routes_clear">Очистити</string>
+    <string name="ts_add_route">Додати маршрут</string>
+    <string name="ts_station_show_routes">Маршрути</string>
+    <string name="ts_vehicle_capacity">Місткість:</string>
+    <string name="ts_vehicle_speed">Швидкість:</string>
+    <string name="ts_vehicle_price">Ціна:</string>
+    <string name="ts_vehicle_transferred">Всього перевезено:</string>
+    <string name="ts_vehicle_on_board">На борту:</string>
+    <string name="ts_vehicle_assigned_to">Призначено до</string>
+    <string name="ts_vehicle_not_assigned">Не призначено до маршруту</string>
+    <string name="ts_vehicle_locate">Розташувати</string>
+    <string name="ts_vehicle_delete">Видалити</string>
+    <string name="ts_dialog_sell_vehicle_title">Продати?</string>
+    <string name="ts_dialog_sell_vehicle_text">Чи бажаєте ви продати `%s`?\n
+Вартість: %s</string>
+    <string name="ts_dialog_sell_vehicle_cmd_sell">Продати</string>
+    <string name="ts_vehicle_count">%d/%d транспортних засобів</string>
+    <string name="ts_vehicle_count_depot_limit">%s (обмежено депо)</string>
+    <string name="ts_vehicle_count_station_limit">%s (обмежено станціями)</string>
+    <string name="ts_buy_vehicle">Купити транспортний засіб</string>
+    <string name="ts_build_depot">Будувати депо</string>
+    <string name="ts_vehicle_assign">Призначити</string>
+    <string name="ts_vehicle_unassign">Відв\'язати</string>
+    <string name="ts_buy_vehicle_buy_more">Спочатку купіть транспортний засіб, щоб його призначити</string>
+    <string name="ts_buy_vehicle_title">Транспортні засоби</string>
+    <string name="ts_buy_vehicle_cmdbuy">Купити</string>
+    <string name="ts_cityinfo_routes">Маршрути:</string>
+    <string name="ts_cityinfo_stations">Станції:</string>
+    <string name="ts_routes_title">Маршрути</string>
+    <string name="ts_stations_title">Станції</string>
+    <string name="ts_vehicles_title">Транспортні засоби</string>
+    <string name="ts_mode_one_shot">Один Вистріл</string>
+    <string name="ts_mode_loop">Цикл</string>
+    <string name="ts_mode_ping_pong">Пінг Понг</string>
     <string name="draft_bus00_title">TB-20</string>
     <string name="draft_bus02_title">TB-35</string>
     <string name="draft_bus04_title">TB-80</string>
     <string name="draft_bus06_title">TB-140A</string>
     <string name="draft_bus08_title">TB-200B</string>
-    <string name="draft_ts_native_bus00_title">Buses</string>
-    <string name="draft_elevated_train_train00_title">Main</string>
-    <string name="draft_elevated_train_train01_title">Secondary</string>
-    <string name="draft_ts_native_elevatedtrain00_title">Elevated Train</string>
-    <string name="draft_train_freighter_coal00_title">Coal Train</string>
-    <string name="draft_train_freighter_wood00_title">Wood Train</string>
-    <string name="draft_train_freighter_car00_title">Car Train</string>
-    <string name="draft_train_freighter_petrol00_title">Petrol Train</string>
-    <string name="draft_train_freighter_container00_title">Container Train</string>
-    <string name="draft_ts_native_freighttrain00_title">Freight Trains</string>
-    <string name="draft_ts_metro_train00_title">Metro Unit 69</string>
+    <string name="draft_ts_native_bus00_title">Автобуси</string>
+    <string name="draft_elevated_train_train00_title">Головний</string>
+    <string name="draft_elevated_train_train01_title">Вторинний</string>
+    <string name="draft_ts_native_elevatedtrain00_title">Підвісний Потяг</string>
+    <string name="draft_train_freighter_coal00_title">Поїзд з вугіллям</string>
+    <string name="draft_train_freighter_wood00_title">Поїзд для деревини</string>
+    <string name="draft_train_freighter_car00_title">Потяг для перевезення автомобілів</string>
+    <string name="draft_train_freighter_petrol00_title">Поїзд для перевезення бензину</string>
+    <string name="draft_train_freighter_container00_title">Потяг-контейнеровоз</string>
+    <string name="draft_ts_native_freighttrain00_title">Вантажні потяги</string>
+    <string name="draft_ts_metro_train00_title">Метро Юніт 69</string>
     <string name="draft_ts_native_metro00_title">Metro</string>
     <string name="draft_train_odeg00_title">ODEG</string>
     <string name="draft_train_neb00_title">NEB</string>
@@ -3595,100 +3438,130 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_train_ice00_title">ICE</string>
     <string name="draft_train_regio00_title">Regio</string>
     <string name="draft_train_ic00_title">IC</string>
-    <string name="draft_ts_native_passengertrain00_title">Passenger Trains</string>
-    <string name="ts_no_routes">Create a route to get started</string>
-    <string name="ts_no_routes_station">No routes assigned to this station</string>
-    <string name="ts_no_stations">Build stations and connect them with routes</string>
-    <string name="ts_no_vehicles">Buy a vehicle to begin service</string>
-    <string name="control_copy">Copy</string>
-    <string name="control_paste">Paste</string>
-    <string name="dialog_colorpicker_title">Select a color</string>
+    <string name="draft_ts_native_passengertrain00_title">Пасажирські поїзди</string>
+    <string name="ts_no_routes">Створіть маршрут, щоб розпочати</string>
+    <string name="ts_no_routes_station">До цієї станції не призначено маршрутів</string>
+    <string name="ts_no_stations">Будуйте станції та з\'єднуйте їх маршрутами</string>
+    <string name="ts_no_vehicles">Купіть транспортний засіб, щоб почати обслуговування</string>
+    <string name="control_copy">Копіювати</string>
+    <string name="control_paste">Вставити</string>
+    <string name="dialog_colorpicker_title">Виберіть колір</string>
     <string name="ts_location_west">%s West</string>
-    <string name="ts_location_south">%s South</string>
-    <string name="ts_location_north">%s North</string>
-    <string name="ts_location_east">%s East</string>
-    <string name="ts_location_center">%s Center</string>
-    <string name="ts_location_inner">%s Inner</string>
-    <string name="ts_location_outer">%s Outer</string>
-    <string name="ts_location_edge">%s Edge</string>
-    <string name="ts_names_residential_maplestreet">Maple Street Stop</string>
-    <string name="ts_names_residential_elmwooddrive">Elmwood Drive</string>
-    <string name="ts_names_residential_oaklane">Oak Lane</string>
-    <string name="ts_names_residential_villagegreen">Village Green</string>
-    <string name="ts_names_commercial_marketsquare">Market Square</string>
-    <string name="ts_names_commercial_mainstreetmall">Main Street Mall</string>
-    <string name="ts_names_commercial_commerceplaza">Commerce Plaza</string>
-    <string name="ts_names_commercial_downtowncenter">Downtown Center</string>
-    <string name="ts_names_commercial_shoppingdistrict">Shopping District</string>
-    <string name="ts_names_industrial_industrialpark">Industrial Park</string>
-    <string name="ts_names_industrial_factorygate">Factory Gate</string>
-    <string name="ts_names_industrial_warehouserow">Warehouse Row</string>
-    <string name="ts_names_industrial_freightyard">Freight Yard</string>
-    <string name="ts_names_industrial_commercedrive">Commerce Drive</string>
-    <string name="ts_names_harbor_harbourfront">Harbour Front</string>
-    <string name="ts_names_harbor_waterfrontpier">Waterfront Pier</string>
-    <string name="ts_names_harbor_riversidedocks">Riverside Docks</string>
-    <string name="ts_names_harbor_seawallstop">Seawall Stop</string>
-    <string name="ts_names_farm_farmroad">Farm Road</string>
-    <string name="ts_names_farm_countryside">Countryside</string>
-    <string name="ts_names_farm_fieldsstop">Fields Stop</string>
-    <string name="ts_names_farm_orchard">Orchard</string>
-    <string name="ts_names_farm_pastures">Pastures</string>
-    <string name="ts_names_farm_ruralgate">Rural Gate</string>
-    <string name="ts_names_park_centralpark">Central Park</string>
-    <string name="ts_names_park_meadowpark">Meadow Park</string>
-    <string name="ts_names_park_woodlandgardens">Woodland Gardens</string>
-    <string name="ts_names_airport_airportterminal">Airport Terminal</string>
-    <string name="ts_names_airport_terminalshuttle">Terminal Shuttle</string>
-    <string name="ts_names_airport_aviationway">Aviation Way</string>
-    <string name="ts_names_airport_flyerstop">Flyer Stop</string>
-    <string name="ts_names_airport_airportgate">Airport Gate</string>
-    <string name="ts_names_military_basegate">Base Gate</string>
-    <string name="ts_names_military_fortmain">Fort Main</string>
-    <string name="ts_names_military_barracksstop">Barracks Stop</string>
-    <string name="ts_names_military_arsenalroad">Arsenal Road</string>
-    <string name="ts_names_military_garrisondepot">Garrison Depot</string>
-    <string name="ts_names_water_riverside">Riverside</string>
-    <string name="ts_names_water_riverbank">Riverbank</string>
-    <string name="ts_names_water_lakeside">Lakeside</string>
-    <string name="ts_names_water_seaside">Seaside</string>
-    <string name="ts_names_water_beachfront">Beachfront</string>
-    <string name="draft_pmono_tracks00_title">Monorail Tracks</string>
-    <string name="draft_pmono_tracks00_text">Elevated tracks used for monorail operation.</string>
-    <string name="draft_pmono_roaddeco_roof00_title">Monorail Station Roof</string>
-    <string name="draft_pmono_roaddeco_roof00_text">Roof element for covering monorail station platforms.</string>
-    <string name="draft_pmono_station00_title">Monorail Station</string>
-    <string name="draft_pmono_station00_text">A modular station for local monorail traffic.</string>
-    <string name="draft_pmono_station_prebuilt00_title">Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt00_text">A prebuilt monorail station for local traffic.</string>
-    <string name="draft_pmono_station_prebuilt01_title">Large Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt01_text">A larger prebuilt monorail station with extended capacity.</string>
+    <string name="ts_location_south">%s Південь</string>
+    <string name="ts_location_north">%s Північ</string>
+    <string name="ts_location_east">%s Схід</string>
+    <string name="ts_location_center">%s Центр</string>
+    <string name="ts_location_inner">%s Внутрішній</string>
+    <string name="ts_location_outer">%s Зовнішній</string>
+    <string name="ts_location_edge">%s Край</string>
+    <string name="ts_names_residential_maplestreet">Зупинка "Вулиця Кленова"</string>
+    <string name="ts_names_residential_elmwooddrive">Вулиця Ельмвуд</string>
+    <string name="ts_names_residential_oaklane">Дубова алея</string>
+    <string name="ts_names_residential_villagegreen">Сільська Зелень</string>
+    <string name="ts_names_commercial_marketsquare">Ринкова площа</string>
+    <string name="ts_names_commercial_mainstreetmall">Торговий центр на Головній вулиці</string>
+    <string name="ts_names_commercial_commerceplaza">Торговий майданчик</string>
+    <string name="ts_names_commercial_downtowncenter">Центр міста</string>
+    <string name="ts_names_commercial_shoppingdistrict">Торговий район</string>
+    <string name="ts_names_industrial_industrialpark">Промисловий парк</string>
+    <string name="ts_names_industrial_factorygate">Ворота заводу</string>
+    <string name="ts_names_industrial_warehouserow">Ряд складів</string>
+    <string name="ts_names_industrial_freightyard">Товарний двір</string>
+    <string name="ts_names_industrial_commercedrive">Торговий Проїзд</string>
+    <string name="ts_names_harbor_harbourfront">Пристанішна Фронт</string>
+    <string name="ts_names_harbor_waterfrontpier">Прибережний мол</string>
+    <string name="ts_names_harbor_riversidedocks">Причали біля річки</string>
+    <string name="ts_names_harbor_seawallstop">Зупинка морського валу</string>
+    <string name="ts_names_farm_farmroad">Дорога до ферми</string>
+    <string name="ts_names_farm_countryside">Сільська місцевість</string>
+    <string name="ts_names_farm_fieldsstop">Зупинка "Поля"</string>
+    <string name="ts_names_farm_orchard">Садок</string>
+    <string name="ts_names_farm_pastures">Пасовища</string>
+    <string name="ts_names_farm_ruralgate">Сільські ворота</string>
+    <string name="ts_names_park_centralpark">Центральний Парк</string>
+    <string name="ts_names_park_meadowpark">Парк "Луговий"</string>
+    <string name="ts_names_park_woodlandgardens">Лісові Сади</string>
+    <string name="ts_names_airport_airportterminal">Термінал аеропорту</string>
+    <string name="ts_names_airport_terminalshuttle">Термінальний Шатл</string>
+    <string name="ts_names_airport_aviationway">Авіаційна дорога</string>
+    <string name="ts_names_airport_flyerstop">Зупинка для флаєрів</string>
+    <string name="ts_names_airport_airportgate">Вхід до аеропорту</string>
+    <string name="ts_names_military_basegate">Ворота бази</string>
+    <string name="ts_names_military_fortmain">Головний Форт</string>
+    <string name="ts_names_military_barracksstop">Зупинка "Бараці"</string>
+    <string name="ts_names_military_arsenalroad">Вулиця Арсенал</string>
+    <string name="ts_names_military_garrisondepot">Гарнізонний депо</string>
+    <string name="ts_names_water_riverside">Берег річки</string>
+    <string name="ts_names_water_riverbank">Берег річки</string>
+    <string name="ts_names_water_lakeside">Берег озера</string>
+    <string name="ts_names_water_seaside">Узбережжя</string>
+    <string name="ts_names_water_beachfront">Прибережна зона</string>
+    <string name="draft_pmono_tracks00_title">Шляхи монорейки</string>
+    <string name="draft_pmono_tracks00_text">Підйомні колії для роботи монорейки.</string>
+    <string name="draft_pmono_roaddeco_roof00_title">Дах станції монорейки</string>
+    <string name="draft_pmono_roaddeco_roof00_text">Елемент даху для накриття платформ монорейкових станцій.</string>
+    <string name="draft_pmono_station00_title">Станція монорейки</string>
+    <string name="draft_pmono_station00_text">Модульна станція для місцевого монорейкового трафіку.</string>
+    <string name="draft_pmono_station_prebuilt00_title">Станція монорейки</string>
+    <string name="draft_pmono_station_prebuilt00_text">Попередньо збудована станція монорейки для місцевого трафіку.</string>
+    <string name="draft_pmono_station_prebuilt01_title">Велика станція монорейки</string>
+    <string name="draft_pmono_station_prebuilt01_text">Більша попередньо збудована станція монорейки з розширеною місткістю.</string>
     <string name="draft_pmono_train00_title">Monorail 2000</string>
     <string name="draft_ts_native_monorail00_title">Monorail</string>
 
 
-    <string name="stage_musicmanager_title">Music Library</string>
+    <string name="stage_musicmanager_title">Бібліотека музики</string>
     <string name="stage_musicmanager_original">Original</string>
-    <string name="stage_musicmanager_import">Import Music</string>
-    <string name="stage_musicmanager_volume">Volume</string>
-    <string name="stage_musicmanager_alreadyimported">`%s` was imported already</string>
-    <string name="control_active">Active</string>
-    <string name="control_inactive">Inactive</string>
-    <string name="control_delete">Delete</string>
-    <string name="dialog_deletemusic_title">Delete Music</string>
-    <string name="dialog_deletemusic_text">Are you sure that you want to delete `%s`?</string>
-    <string name="gamemenu_catmusic">Music</string>
+    <string name="stage_musicmanager_import">Імпортувати музику</string>
+    <string name="stage_musicmanager_volume">Гучність</string>
+    <string name="stage_musicmanager_alreadyimported">`%s` вже було імпортовано</string>
+    <string name="control_active">Активний</string>
+    <string name="control_inactive">Неактивний</string>
+    <string name="control_delete">Видалити</string>
+    <string name="dialog_deletemusic_title">Видалити музику</string>
+    <string name="dialog_deletemusic_text">Ви впевнені, що хочете видалити `%s`?</string>
+    <string name="gamemenu_catmusic">Музика</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s (%d станцій)</string>
+    <string name="ts_tool_all_routes">%s (%d маршрутів)</string>
+    <string name="ts_tool_add_random_station">Додати випадкову станцію</string>
+    <string name="ts_reached_vehicle_limit">Не можна призначити більше ніж %d транспортних засобів на цей маршрут!</string>
+    <string name="musictype_game">Гра</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (за замовчуванням)</string>
+    <string name="dialog_unlink_steam_title">Відв\'язати аккаунт?</string>
+    <string name="dialog_unlink_steam_text">Ця дія від’єднає ваш обліковий запис на форумі від вашого Steam-аккаунта. Це може мати побічні ефекти і слід робити тільки за необхідності. Гра перезапуститься після від’єднання.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Відв\'язати аккаунт</string>
+
+
+    <string name="store_cat_heightmaps">Висотні карти</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">або електронна пошта</string>
+    <string name="dialog_restore_title">Відновити Місто</string>
+    <string name="dialog_restore_nobackups">Немає доступних резервних копій :(</string>
+    <string name="dialog_restore_current">(активний)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Назавжди розблоковує наступні будівлі для будівництва без діамантів.</string>
+    <string name="settings_edge_gradients">Градієнти краю екрану</string>
+    <string name="legend_pipe">Труба</string>
+    <string name="legend_wet">Вологий</string>
+    <string name="legend_dry">Сухий</string>
+    <string name="legend_protected_buildings">Захищено</string>
+    <string name="legend_density_low">Низька щільність</string>
+    <string name="legend_density_high">Висока щільність</string>
+    <string name="legend_traffic_low">Низький рух транспорту</string>
+    <string name="legend_traffic_high">Високий рівень трафіку</string>
+    <string name="legend_happy">Щасливий</string>
+    <string name="legend_unhappy">Нещасливий</string>
+    <string name="legend_high">Високий</string>
+    <string name="legend_low">Низький</string>
+    <string name="legend_good">Добре</string>
+    <string name="legend_bad">Погано</string>
+    <string name="legend_low_voltage">Нормальна напруга</string>
+    <string name="legend_high_voltage">Висока напруга</string>
+    <string name="legend_mixed_voltage">Обидва</string>
+    <string name="legend_metro">Метро</string>
+    <string name="legend_ts_edit">%s (в редагуванні)</string>
 
 </resources>

@@ -678,7 +678,7 @@
     <string name="notify_nocomzone">Buat zona komersial supaya pebisnis bisa membangun di kotamu.</string>
     <string name="notify_noindzone">Industri-industri bisa membangun di kotamu, tetapi kamu harus membuat zona industri dulu untuk mereka.</string>
     <string name="createcity_sizebigbigbig">Sungguh Besar</string>
-    <string name="locale">en</string>
+    <string name="locale">id</string>
     <string name="draft_police02_title">Markas Besar Brimob</string>
     <string name="draft_police02_text">Markas Brimob ini akan menegakkan ketenteraman dan ketertiban di kotamu.</string>
     <string name="settings_blur">Efek Pudar latar belakang</string>
@@ -1708,7 +1708,7 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_roaddeco_border04_text">Kamu bisa melihat mobil melaluinya.</string>
     <string name="draft_roaddeco_border05_title">Lampu jalan</string>
     <string name="draft_roaddeco_border05_text">Penerangan jalan di saat malam.</string>
-    <string name="draft_cat_roaddeco00_title">Road decoration</string>
+    <string name="draft_cat_roaddeco00_title">Dekorasi Jalan</string>
 
     <string name="draft_feature_doubledincome00_title">Gandakan pemasukan</string>
     <string name="draft_feature_doubledincome00_text">Hanya mengandakan pemasukan.</string>
@@ -1898,7 +1898,7 @@ Kon: Kurang tantangan</string>
     <string name="dialog_storedownload_text">Apakah kamu ingin mengunduh %s?</string>
     <string name="dialog_storerestart_title">Restart</string>
     <string name="dialog_storerestart_text">Perubahan pada plugin mengharuskan kamu untuk melakukan restart.\n\nApakah kamu ingin restart sekarang?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
+    <string name="dialog_storerestart_cmdrestart">Mulai Ulang</string>
     <string name="store_status_notacquired">Belum diperoleh</string>
     <string name="store_status_downloading">Sedang diunduh</string>
     <string name="store_status_downloaderror">Eror: </string>
@@ -2504,7 +2504,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="stage_files_filesize">Ukuran: %1$s</string>
     <string name="stage_files_helptitle">Bantuan</string>
     <string name="stage_files_helptext">Selamat datang di manajer file TheoTown. Di sini kamu bisa mengakses dan mengatur peta, wilayah, plugin, dan sebagainya.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
+    <string name="unit_sizebytes">%1$,d byte</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
@@ -2901,7 +2901,7 @@ Tekan suatu tombol untuk menetapkan tindakannya.</string>
     <string name="moon_region_unsupported">Sayangnya, wilayah di bulan belum didukung aplikasi. Kota ini akan tutup!</string>
     <string name="draft_space_storyline_cancel00">Maaf, aku tidak bisa memberitahukanmu!</string>
     <string name="draft_space_storyline_busy00">Maaf, tapi aku belum punya apa pun untukmu saat ini.</string>
-    <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
+    <string name="draft_space_storyline_intro00">Ḫ̶̛̤̠̲̆̚a̴̫͒ ̶̣͑̈́̾h̴à͓̪͔̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀ỏ̴̡̩͔̗̿̉ di̶̻̪̠͛ sini!</string>
     <string name="draft_space_storyline_intro01">Jangan takut! Kami datang dengan damai.</string>
     <string name="draft_space_storyline_intro02">Pendaratan darurat lebih pas.</string>
     <string name="draft_space_storyline_intro03">Kami percaya kamu tidak akan menyakiti kami. Kami bisa percaya kamu, kan?</string>
@@ -3574,7 +3574,7 @@ Tekan jalan yang ingin dibangun. Kemudian, saat berada di menu pembangunan, teka
     <string name="ts_names_industrial_industrialpark">Kawasan Industri</string>
     <string name="ts_names_industrial_factorygate">Gerbang Pabrik</string>
     <string name="ts_names_industrial_warehouserow">Deretan Gudang</string>
-    <string name="ts_names_industrial_freightyard">Freight Yard</string>
+    <string name="ts_names_industrial_freightyard">Halaman Barang</string>
     <string name="ts_names_industrial_commercedrive">Jalan Niaga</string>
     <string name="ts_names_harbor_harbourfront">Tepi Pelabuhan</string>
     <string name="ts_names_harbor_waterfrontpier">Tepi Laut</string>
@@ -3641,5 +3641,35 @@ Tekan jalan yang ingin dibangun. Kemudian, saat berada di menu pembangunan, teka
     <string name="dialog_unlink_steam_title">Lepaskan tautan akun?</string>
     <string name="dialog_unlink_steam_text">Ini akan memutus tautan akun forum Anda dari akun Steam Anda. Hal ini mungkin memiliki efek samping dan hanya boleh dilakukan jika diperlukan. Gim akan dimulai ulang setelah pemutusan tautan.</string>
     <string name="dialog_unlink_steam_cmdunlink">Lepaskan tautan akun</string>
+
+
+    <string name="store_cat_heightmaps">Peta Ketinggian</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">atau email</string>
+    <string name="dialog_restore_title">Pulihkan Kota</string>
+    <string name="dialog_restore_nobackups">Tidak ada cadangan yang tersedia :(</string>
+    <string name="dialog_restore_current">(diaktifkan)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Membuka secara permanen bangunan berikut untuk pembangunan tanpa berlian.</string>
+    <string name="settings_edge_gradients">Gradien tepi layar</string>
+    <string name="legend_pipe">Pipa</string>
+    <string name="legend_wet">Basah</string>
+    <string name="legend_dry">Kering</string>
+    <string name="legend_protected_buildings">Dilindungi</string>
+    <string name="legend_density_low">Kepadatan Rendah</string>
+    <string name="legend_density_high">Kepadatan Tinggi</string>
+    <string name="legend_traffic_low">Lalu lintas rendah</string>
+    <string name="legend_traffic_high">Lalu lintas tinggi</string>
+    <string name="legend_happy">Bahagia</string>
+    <string name="legend_unhappy">Tidak Bahagia</string>
+    <string name="legend_high">Tinggi</string>
+    <string name="legend_low">Rendah</string>
+    <string name="legend_good">Baik</string>
+    <string name="legend_bad">Buruk</string>
+    <string name="legend_low_voltage">Tegangan normal</string>
+    <string name="legend_high_voltage">Tegangan Tinggi</string>
+    <string name="legend_mixed_voltage">Legenda tegangan campuran</string>
+    <string name="legend_metro">Metro</string>
+    <string name="legend_ts_edit">%s (sedang diedit)</string>
 
 </resources>

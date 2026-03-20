@@ -3561,16 +3561,46 @@
     <string name="dialog_deletemusic_text">Biztosan törölni akarod `%s`?</string>
     <string name="gamemenu_catmusic">Zene</string>
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="featureselector_doubledincometime">Dupla jövedelem %1$s számára</string>
+    <string name="ts_tool_edit_route">%s (%d állomások)</string>
+    <string name="ts_tool_all_routes">%s (%d útvonalak)</string>
+    <string name="ts_tool_add_random_station">Véletlenszerű állomás hozzáadása</string>
+    <string name="ts_reached_vehicle_limit">Nem lehet több mint %d járművet hozzárendelni ehhez az útvonalhoz!</string>
+    <string name="musictype_game">Játék</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (alapértelmezett)</string>
+    <string name="dialog_unlink_steam_title">Fiók leválasztása?</string>
+    <string name="dialog_unlink_steam_text">Ez a művelet leválasztja a fórum fiókodat a Steam fiókodról. Ez mellékhatásokkal járhat és csak szükséges esetben végezze el. A játék újraindul a leválasztás után.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Fiók leválasztása</string>
+
+
+    <string name="store_cat_heightmaps">Magasságtérképek</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">vagy e-mail</string>
+    <string name="dialog_restore_title">Város visszaállítása</string>
+    <string name="dialog_restore_nobackups">Nincsenek elérhető backupok :(</string>
+    <string name="dialog_restore_current">(aktív)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Véglegesen feloldja az alábbi épületeket, hogy gyémánt nélkül építhessen.</string>
+    <string name="settings_edge_gradients">Képernyő szélén található átmenetek</string>
+    <string name="legend_pipe">Csővezeték</string>
+    <string name="legend_wet">Nedves</string>
+    <string name="legend_dry">Száraz</string>
+    <string name="legend_protected_buildings">Védett</string>
+    <string name="legend_density_low">Alacsony sűrűség</string>
+    <string name="legend_density_high">Magas sűrűség</string>
+    <string name="legend_traffic_low">Alacsony forgalom</string>
+    <string name="legend_traffic_high">Nagy forgalom</string>
+    <string name="legend_happy">Boldog</string>
+    <string name="legend_unhappy">Boldogtalan</string>
+    <string name="legend_high">Magas</string>
+    <string name="legend_low">Alacsony</string>
+    <string name="legend_good">Jó</string>
+    <string name="legend_bad">Rossz</string>
+    <string name="legend_low_voltage">Normál feszültség</string>
+    <string name="legend_high_voltage">Magasfeszültség</string>
+    <string name="legend_mixed_voltage">Mindkettő</string>
+    <string name="legend_metro">Metró</string>
+    <string name="legend_ts_edit">%s (szerkesztés alatt)</string>
 
 </resources>

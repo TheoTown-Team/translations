@@ -1777,7 +1777,7 @@
     <string name="draft_roaddeco_barrier_open00_title">차단기</string>
     <string name="draft_roaddeco_barrier_open00_text">눌러서 폐쇄하세요. 교통체증을 만드는 훌륭한 방법입니다.</string>
 
-    <string name="selectable_find">Find (%,d)</string>
+    <string name="selectable_find">찾기 (%,d)</string>
     <string name="gallery_upload_success">성공</string>
     <string name="gallery_upload_fail">업로드 실패</string>
     <string name="draft_medic02_title">작은 병원</string>
@@ -2511,7 +2511,7 @@
     <string name="stage_files_filesize">크기: %1$s</string>
     <string name="stage_files_helptitle">도움말</string>
     <string name="stage_files_helptext">테오타운 파일 관리자에 오신것을 환영합니다. 여기서 여러분은 맵과 지역, 플러그인 등을 관리 하실 수 있습니다.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
+    <string name="unit_sizebytes">%1$,d 바이트</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
@@ -2525,8 +2525,8 @@
     <string name="tool_terrain_smoothwaterheights">부드러운 깊이</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
+    <string name="stage_files_importherefiles">파일(들)</string>
+    <string name="stage_files_importherefolders">폴더</string>
     <string name="draft_mosque10_title">하산 2세 모스크</string>
     <string name="draft_mosque10_text">하산 2세 모스크는 모로코 카사블랑카에 있으며, 아프리카에서 가장 큰 규모의 모스크이자 세계에서 7번째로 큰 모스크입니다. 이 모스크의 미나레트는 210미터로 세계에서 두 번째로 높은 미나레트입니다. 1993년에 완공된 이 미나레트는 하산 2세 왕의 지도 아래 미셸 핀소가 디자인했으며 왕국 전역의 모로코 장인들이 건설했습니다. 이 60층 높이의 이 미나레트에는 메카로 향하는 레이져가 설치되어있습니다. 모스크는 대서양을 바라보는 곶에 서 있으며 예배자들은 바다 위에서 기도할 수 있지만 바다를 바라보는 유리 바닥은 없습니다. 벽은 손으로 만든 대리석으로 되어 있고 지붕은 접을 수 있습니다. 모스크 홀 내부에는 25,000명, 모스크 외부 마당에는 80,000명까지 최대 105,000명의 예배자가 기도를 위해 함께 모일 수 있습니다.</string>
     <string name="dialog_filesrestart_title">재시작</string>
@@ -2534,7 +2534,7 @@
     <string name="dialog_filesrestart_cmdrestart">재시작</string>
     <string name="dialog_filesrestart_cmdlater">나중에</string>
     <string name="settings_multiroaddecosupport">다중 도로장식 지원</string>
-    <string name="loadcity_uberindicator">(uber)</string>
+    <string name="loadcity_uberindicator">(우버모드)</string>
 
 
     <string name="draft_tunnel_management00_title">도로 당국</string>
@@ -2553,8 +2553,8 @@
     <string name="settings_drawpedestrians">보행자</string>
     <string name="draft_pedestrian_road00_title">인도</string>
     <string name="draft_pedestrian_road00_text">보행자들을 위해 가까운 건물들을 이어줍니다.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
+    <string name="draft_deco_chr_manger00_title">나무 구유함</string>
+    <string name="draft_deco_chr_manger00_text">말, 소, 그 외의 동물들이 먹이를 먹는 과도하게 큰 열린 상자.</string>
     <string name="settings_diagonalroadtool">지원되는 도로의 대각선 건설</string>
     <string name="settings_smoothzoom">부드러운 확대</string>
     <string name="settings_smoothzoom_off">꺼짐</string>
@@ -2563,8 +2563,8 @@
     <string name="settings_smoothzoom_fast">빠르게</string>
     <string name="settings_regionoriginbackup">새로 생성된 지역의 도시 초기화 옵션 표시</string>
     <string name="settings_translateplugins">플러그인 번역</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="stage_region_greeter_welcome">에 오신 것을 환영합니다</string>
+    <string name="stage_region_greeter_madewith">게임 제작 도구로 만들어진 게임</string>
 
 
     <string name="settings_darkbuildtool">어두운 건설 도구</string>
@@ -3052,343 +3052,181 @@
     <string name="draft_fence_guardrail00_text">금속으로 된 교통 방벽으로 여러분의 안전을 유지하세요.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
+    <string name="draft_dsarocket_launchbutton">발사</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">이미 발사됨</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">발사 진행 중</string>
+    <string name="draft_dsarocket_requirement_supplies">공급품: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">가격: %s</string>
+    <string name="draft_dsarocket_test_text">다른 발사와 작업을 준비하기 위해 정보를 수집하기 위해 빈 실험용 로켓을 우주로 발사하십시오.</string>
+    <string name="draft_dsarocket_animal_text">아키알이라는 이름의 고양이를 실은 로켓을 발사하여 중요한 정보를 수집하세요.</string>
+    <string name="draft_dsarocket_navigation_text">항해 테스트를 위해 사람을 태운 로켓을 우주로 발사하세요.</string>
+    <string name="draft_dsarocket_exploration_text">식민지를 위한 적절한 장소를 찾기 위해 탐사 임무에 로켓을 발사하십시오.</string>
+    <string name="draft_dsarocket_sdi_text">우주 방어 이니셔티브를 조립하기 위해 일련의 로켓을 우주로 발사하십시오.</string>
+    <string name="draft_dsarocket_deprecated_text">발사대가 업데이트되었으므로, 이것을 파괴하고 새로운 것을 건설해야 합니다.</string>
+    <string name="stage_createcity_terrain">지형...</string>
+    <string name="dialog_terrain_title">지형</string>
+    <string name="dialog_missingmanifest_title">플러그인 매니페스트 파일이 없습니다</string>
+    <string name="dialog_missingmanifest_text">다음 플러그인들은 플러그인 매니페스트 파일(plugin.manifest)을 정의하지 않습니다. 이로 인해 다른 플러그인들과 온라인 모드에서 문제가 발생할 수 있습니다. 미래의 호환성을 보장할 수 없습니다:</string>
+    <string name="dialog_missingmanifest_cmdhelp">그게 뭔가요?</string>
+    <string name="createcity_rivers">강들</string>
+    <string name="createcity_roughness">거칠기</string>
+    <string name="createcity_roughness_flat">평평한</string>
+    <string name="createcity_roughness_less">더 적게</string>
+    <string name="createcity_roughness_default">기본값</string>
+    <string name="createcity_roughness_more">더 많이</string>
+    <string name="createcity_roughness_extreme">극한</string>
+    <string name="buildingicon_illness">이 건물에 있는 사람들이 아파요. 의사를 보내야합니다.</string>
+    <string name="buildingicon_noroad">이 건물은 적합한 도로에 연결되어 있지 않습니다.</string>
+    <string name="buildingicon_noenergy">이 건물은 충분한 에너지를 받지 못하고 있습니다.</string>
+    <string name="buildingicon_nowater">이 건물은 충분한 물을 받지 못합니다.</string>
+    <string name="buildingicon_overloaded">이 건물은 과부하 상태입니다. 더 많은 용량을 제공해주세요.</string>
+    <string name="buildingicon_unhappy">이 건물의 사람들이 불행합니다.</string>
+    <string name="buildingicon_waste">이 건물에는 수거되지 않은 쓰레기가 있습니다.</string>
+    <string name="buildingicon_wasteoverloaded">이 쓰레기 매립지는 가득 찼습니다.</string>
+    <string name="buildingicon_deadbodies">이 건물에는 수거되지 않은 시체들이 있습니다.</string>
+    <string name="buildingicon_deadbodiesoverloaded">이 묘지는 가득 찼습니다.</string>
+    <string name="buildingicon_crimegraffiti">누군가가 여기에 불법적인 그래피티를 그렸어요.</string>
+    <string name="buildingicon_crimeburglary">여기에 누군가가 침입했습니다.</string>
+    <string name="buildingicon_crimemurder">여기서 누군가가 살해당했습니다.</string>
+    <string name="buildingicon_crimeriot">여기 사람들이 폭동을 일으키고 있습니다.</string>
+    <string name="dialog_scriptpolicy_title">플러그인 스크립트 정책</string>
+    <string name="dialog_scriptpolicy_help_title">플러그인 스크립트는 위험할 수 있습니다</string>
     <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
 \n
 If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
 \n
 Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
-    <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
-    </string>
-    <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
-    </string>
-    <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
-    </string>
-    <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
-    </string>
-    <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
-    </string>
-    <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
-    </string>
-    <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
-    </string>
-    <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
-    </string>
-    <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
-    </string>
-    <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
-    <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
-    </string>
+    <string name="settings_openscriptpolicy">플러그인 스크립트 정책</string>
+    <string name="stage_files_itemcount">%d개의 항목</string>
+    <string name="tips_title">팁</string>
+    <string name="tips_cmd_random">다른 하나</string>
+    <string name="tip_topic_culture_title">문화는 일부 랜드마크, 수상 및 플러그인을 통해 제공됩니다!</string>
+    <string name="tip_topic_culture_text">에펠탑까지의 대부분의 작은 랜드마크는 실제 세계에서 문화적 중요성을 가진 상을 부여하고 문화 영향력을 발생시킵니다. 문화를 제공하는 더 많은 플러그인을 플러그인 스토어와 포럼을 통해 다운로드할 수 있습니다.</string>
+    <string name="tip_topic_fire_too_frequent_title">건물이 자주 불이 붙는다면, 가까운 곳에 소방서를 설치하세요!</string>
+    <string name="tip_topic_fire_too_frequent_text">건물이 자주 불에 탄다면, 이는 소방서의 영향 범위가 그걸로부터 덮지 못하고 있다는 좋은 지표입니다. 주거지, 상업지, 그리고 산업지는 모두 소방서가 필요하므로, 지도 전체를 소방서의 영향 범위로 덮도록 주의해야 합니다. 이 것이 앞으로의 화재 발생을 피하는데 도움이 될 것입니다.</string>
+    <string name="tip_topic_pollution_distance_title">오염으로부터 주택지역을 멀리 두세요</string>
+    <string name="tip_topic_pollution_distance_text">주민들은 오염을 좋아하지 않습니다. 너무 많은 오염에 대해 불평하고 있다면, 그 원인을 조사하세요. 영향을 주는 건물은 눈 모양의 도구를 누른 다음 오염을 누르거나 빨간 원이 그려진 건물을 찾아서 확인할 수 있습니다. 오염을 유발하는 건물을 이동시키거나, 환경 친화적인 선택을 위해 그것을 철거하세요.</string>
+    <string name="tip_topic_pollution_trees_title">나무로 둘러싸서 오염을 줄일 수 있습니다</string>
+    <string name="tip_topic_pollution_trees_text">주거용 건물들은 오염을 싫어합니다. 오염을 피하기 위해 건물을 이동시키는 번거로움을 피하고, 특히 잘 계획된 도시에서는 나무를 사용할 수 있습니다. 나무는 오염을 견제합니다. 더 많은 나무를 심으면 오염이 더 줄어듭니다. 나무는 상당히 저렴하기 때문에 비용 효율적인 방법일 수 있습니다. 심을 나무의 수는 오염의 양과 나무의 영향력에 따라 달라집니다.</string>
+    <string name="tip_topic_traffic_networking_title">교통량을 줄이기 위해 일방통행 도로와 교차로를 사용하십시오</string>
+    <string name="tip_topic_traffic_networking_text">자주, 고속도로나 산업 지역처럼 교통이 붐비는 장소들이 있습니다. 이 문제를 해결하기 위해서는 적절한 도로망이 필요합니다. 일방통행 도로와 교차로는 이 문제를 해결하는데 도움이 될 수 있습니다. 또한 게임에 사전 구축된 교차로들과 플러그인들이 있습니다. 실제 교차로를 예시로 사용해 자신만의 것을 만들 수도 있습니다. 이렇게 하면 교통의 흐름이 개선되어 도시의 교통 정체를 줄일 수 있습니다.</string>
+    <string name="tip_topic_traffic_volume_title">설정에서 교통량을 조정하여 교통을 줄일 수 있습니다</string>
+    <string name="tip_topic_traffic_volume_text">설정에서 교통량을 조절하려면 먼저 디버그 모드를 켜야 합니다, 해당 옵션도 같은 곳에 있습니다. 디버그가 활성화되면 교통을 줄이거나 늘리는 옵션이 제공됩니다. 어느 비율을 선택할지는 당신의 교통량과 원하는 도전 정도에 따라 달라집니다.</string>
+    <string name="tip_topic_more_cash_title">더 많은 현금을 얻기 위해선 대출을 받으세요</string>
     <string name="tip_topic_more_cash_text">
 Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
     </string>
-    <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
-    </string>
-    <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
-    </string>
-    <string name="tip_topic_discord_title">
-There\'s an official discord server!
-    </string>
-    <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
-    </string>
-    <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
-    </string>
-    <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
-    </string>
-    <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
-    </string>
-    <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
-    </string>
-    <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
-    </string>
-    <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
-    </string>
-    <string name="tip_topic_airport_title">
-The airport is a good long term investment
-    </string>
-    <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
-    </string>
-    <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
-    </string>
-    <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
-    </string>
-    <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA to go to the moon
-    </string>
-    <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
-    </string>
-    <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
-    </string>
-    <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
-    </string>
-    <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
-    </string>
-    <string name="tip_topic_demands_title">
-Build zones which are above the demand line
-    </string>
-    <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
-    </string>
-    <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
-    </string>
-    <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
-    </string>
-    <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
-    </string>
-    <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
-    </string>
-    <string name="tip_topic_education_title">
-Residentials need both high and low education
-    </string>
-    <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
-    </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="tip_topic_loan_repayment_title">대출은 매달 자동으로 상환됩니다</string>
+    <string name="tip_topic_loan_repayment_text">대출 상환은 게임에서 매달 자동으로 차감됩니다. 이는 수동으로 지불할 필요가 없지만, 수동으로 지불함으로써 월간 비용을 줄일 수 있습니다. 상환 기간은 대출 탭에서 확인할 수 있습니다.</string>
+    <string name="tip_topic_discord_title">공식 디스코드 서버가 있습니다!</string>
+    <string name="tip_topic_discord_text">공식 디스코드 서버는 플레이어와 크리에이터들이 모여서 자신의 창작물을 공유하고 친구를 사귈 수 있는 곳입니다. 링크는 게임 내 설정에서 찾을 수 있습니다.</string>
+    <string name="tip_topic_making_plugins_title">자신만의 플러그인을 만들 수 있습니다. 쉽습니다™</string>
+    <string name="tip_topic_making_plugins_text">처음에는 조금 어려워 보일 수 있지만 플러그인을 만드는 것은 쉽습니다. 텍스처를 만들려면 PC에서는 paint.net과 같은 것을, 모바일에서는 Pixly와 같은 것을 사용할 수 있습니다. json이나 "코드"를 작성하려면 포럼의 도움을 받아 직접 작성하거나 https://pca.svetikas.lt/를 이용할 수 있습니다. 질문이 있다면 디스코드나 포럼에서 해결해 드릴 수 있습니다!</string>
+    <string name="tip_topic_online_collaboration_title">온라인 모드를 사용하여 지역에서 협업하세요</string>
+    <string name="tip_topic_online_collaboration_text">지역 보기에서 온라인 버튼을 누르면 친구나 다른 멤버들과 함께 아름다운 지역을 만들 수 있습니다. 게임은 동일한 맵에서 한 명 이상의 플레이어가 작업하는 것을 허용하지 않지만 다른 도시를 방문하고 영감을 얻을 수 있습니다.</string>
+    <string name="tip_topic_online_upload_title">온라인 모드에 지도를 업로드하려면 다이아몬드 또는 지역 코인이 필요합니다</string>
+    <string name="tip_topic_online_upload_text">다이아몬드(모바일)와 지역 코인(PC)은 매일 로그인할 때마다 받을 수 있습니다. 지역을 업로드하는 비용은 크기에 따라 다릅니다. 맵을 업로드할 때, 제작자는 비밀번호와 일부 규칙을 설정할 수 있습니다. 한 번 생성되면, 비밀번호를 추가하거나 제거할 수 없습니다.</string>
+    <string name="tip_topic_diamonds_title">매일 로그인하여 다이아몬드를 획득할 수 있습니다</string>
+    <string name="tip_topic_diamonds_text">매일 로그인하시면(모바일) 다이아몬드를 보상으로 받게 됩니다. 일주일 동안 매일 로그인하면 더 많은 보상을 받게 됩니다. 최종 보상을 받게 되면 리셋이 되고 다시 시작됩니다. 또한 30분마다 동영상을 보면서 다이아몬드를 받을 수 있습니다 - 그러나 광고 차단을 해제해야 광고가 보입니다!</string>
+    <string name="tip_topic_supplies_title">특정 산업 건물에서 로켓 공급이 제공됩니다</string>
+    <string name="tip_topic_supplies_text">건물들이 공급하는 기름은 다양한 산업 레벨에 걸쳐 분포되어 있습니다. 이에는 기름 추출 건물, 저장 건물, 가공 건물이 포함됩니다. 이들은 로켓에 공급물을 제공할 것입니다. 로켓 근처에 건물이 많을수록, 로켓에 더 빠르게 공급될 것입니다.</string>
+    <string name="tip_topic_train_bus_usage_title">열차나 버스 이용 현황이 눈에 보이지 않을 수 있지만, 그들은 여전히 효과를 발휘합니다</string>
+    <string name="tip_topic_train_bus_usage_text">버스와 기차는 현재 승객이 없다고 나타날 수 있습니다. 하지만, 이미 효과가 있으며, 사용 데이터는 향후 업데이트 될 수 있습니다. 버스와 기차는 교통 만족도를 제공합니다. 그러므로 RCI 지역을 이들로 커버하도록 확실히 해야 합니다.</string>
+    <string name="tip_topic_vandalism_title">스프레이 페인트 아이콘은 무법행위를 나타냅니다, 경찰서를 지어주세요</string>
+    <string name="tip_topic_vandalism_text">스프레이 페인트 아이콘이 나타나는 경우, 건물들이 경찰의 영향력을 받지 못하고 있다는 것을 의미합니다. 주거, 상업, 산업용 건물들은 경찰의 영향력이 필요하므로, 미래의 범죄를 피하기 위해 이러한 건물들에 그것을 제공하도록 합니다.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">사망자를 대하려면 묘지와 화장장을 지어야 합니다</string>
+    <string name="tip_topic_cemetary_cremetorium_text">건물 하나 이상 위에 죽은 사람 아이콘이 나타나면 이는 당신이 묘지나 장의식장을 지어야 함을 나타냅니다. 묘지는 시작할 때 좋지만, 도시가 성장함에 따라 더 자주 청소해야 됩니다. 그래서 장의식장이 장기적인 해결책이 될 수 있습니다.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">추가 수익을 얻기 위해, 주변 상업 시설을 설치하세요</string>
+    <string name="tip_topic_neighbourhood_commercial_text">이 기능은 근처 도시가 잠금 해제된 지역에서만 사용할 수 있습니다. 동네 상업 탭이 있습니다. 이 값을 조정함으로써 이웃 도시로부터 수입하거나 수출할 수 있습니다. 이 기능은 온라인 모드와 샌드박스 또는 우버 모드에 있는 도시를 설정하려 할 경우 동작하지 않습니다.</string>
+    <string name="tip_topic_airport_title">공항은 장기적으로 좋은 투자입니다</string>
+    <string name="tip_topic_airport_text">공항을 기능하게 하려면, 모든 공항 건물을 지으세요, 차선을 추가하고, 비행기를 정해진 차선에 할당하세요. 이용되면 공항은 종종 수익을 창출합니다. 이는 처음 비용이 커버되면 상당한 이익을 낼 수 있다는 것을 의미합니다.</string>
+    <string name="tip_topic_youtube_title">YouTube에는 유용한 튜토리얼이 있습니다</string>
+    <string name="tip_topic_youtube_text">TheoTown의 경험 많은 플레이어와 제작자들이 YouTube에 비디오를 공개하고 있습니다. 이들은 영감을 주는 게임 플레이 타임랩스 비디오부터 게임 플레이 경험을 향상시키는 데 도움이 되는 비디오까지 다양합니다.</string>
+    <string name="tip_topic_price_increase_title">게임 속에서도 현실처럼 가격이 상승합니다</string>
+    <string name="tip_topic_price_increase_text">건물과 도로를 더 많이 배치하면 그 가격이 올라갑니다. 사용량이 많아질수록 가격이 높아집니다. 이 규칙은 도로, 장식, 지역 그리고 모든 종류의 건물에도 적용됩니다.</string>
+    <string name="tip_topic_creative_gameplay_title">더 많은 창의적인 자유를 위해, 샌드박스/우버 모드에서 게임을 즐기세요</string>
+    <string name="tip_topic_creative_gameplay_text">많은 경험 많은 플레이어들이 자신의 창의력을 더욱 표현하기 위해 샌드박스 모드나 우버 모드에서 게임을 즐기는 것을 선호합니다. 이는 그들이 자금의 제한 없이 건물을 지을 수 있게 해주며, 우버 모드의 경우에는 행복이나 필요성에 대해 걱정할 필요가 없습니다. 종종 건물들은 수작업으로 배치되어 놀라운 작품을 만듭니다. 이게 자신을 반영하지 않는다고 해서 걱정하지 마세요, 모두 다르게 건설합니다!</string>
+    <string name="tip_topic_toggle_disasters_title">게임 설정에서 자동 재해를 끌 수 있습니다</string>
+    <string name="tip_topic_toggle_disasters_text">설정에서 재해를 끌 수 있으며, 원하는 재해를 선택하여 플레이할 수 있습니다. DSA의 광산역이나 군사 미사일 실로가 사용되고 있다면, 도시는 여전히 지진이나 다른 재해의 위험에 노출될 수 있습니다.</string>
+    <string name="tip_topic_taxes_percentage_title">당신의 대부분의 수입은 세금에서 나오지만, 9% 이상으로 설정하지 마세요</string>
+    <string name="tip_topic_taxes_percentage_text">게임 초기에는 수입의 90% 이상이 주민에 대한 세금으로 만들어집니다. 적절한 세금 비율은 7%에서 9% 사이입니다. 세율이 이보다 높을 경우, 시민들이 소요를 일으키거나 주택과 도시를 떠나는 위험이 있습니다.</string>
+    <string name="tip_topic_taxes_adjust_title">+ 및 - 버튼을 사용하여 세금을 조정할 수 있습니다</string>
+    <string name="tip_topic_taxes_adjust_text">스마일 아이콘을 누르고 세금 탭으로 이동한 다음, +와 - 버튼을 사용하여 각 건물 유형 및 소득 그룹의 과세를 조정하세요. 그러나 과세를 너무 높게 설정하지 않도록 주의하세요.</string>
+    <string name="tip_topic_moon_title">DSA를 사용하여 달로 가십시오</string>
+    <string name="tip_topic_moon_text">DSA를 잠금 해제하고 건물을 업그레이드하여 달에 갈 수 있습니다. 로켓은 보급품이 필요하며 완전히 보급된 후, 달에 갈 수도 있고 추락할 수도 있는 기회를 가집니다. 달로의 발사가 성공하면, 달 지도는 재방문을위한 단일 도시 아래에서 찾을 수 있습니다. 우주에서 특정 광석을 채굴함으로써, 달에 가기 위해 사용된 지도에 대한 특정 건물을 잠금 해제할 수 있습니다.</string>
+    <string name="tip_topic_icbm_title">조심하세요! ICBM은 당신의 전체 도시를 폭발시킬 것입니다</string>
+    <string name="tip_topic_icbm_text">ICBM은 자연적으로 발생하는 재해가 아니며 DSA를 통해서만 발동할 수 있습니다. ICBM을 사용할 때는 주의하십시오. 이것은 몇 초 안에 도시 전체를, 도시의 크기에 관계없이 부스러기로 만들어 버릴 것입니다. ICBM을 테스트한 후 후회를 피하기 위해 도시를 백업하거나 복제할 수 있습니다.</string>
+    <string name="tip_topic_normalzone_densezone_title">밀집 지역은 더 많은 사람들을 수용할 수 있지만, 배치 비용이 더 비쌉니다</string>
+    <string name="tip_topic_normalzone_densezone_text">밀집 지역은 일반적으로 일반 지역보다 배치하는데 비용이 더 많이 들지만, 더 많은 사람들을 수용할 수 있습니다. 따라서, 일반 지역보다 종종 더 높습니다. 이러한 차이점을 제외하면, 일반 지역과 같은 필요성을 가지고 있으므로 그 외에는 별다른 차이가 없습니다.</string>
+    <string name="tip_topic_forum_plugins_title">포럼을 통해 플러그인을 다운로드할 수 있습니다</string>
+    <string name="tip_topic_forum_plugins_text">일부 플러그인 제작자들은 포럼에서만 일부 플러그인을 배포하기로 선택합니다. 이를 통해 플러그인 스토어에는 없는 플러그인을 다운로드 받을 수 있습니다. 이들은 무료로 다운로드 받을 수 있으나, 당신의 장치 플러그인 폴더에 수동으로 배치해야 합니다. 이러한 플러그인들은 검토되지 않으므로 주의하십시오.</string>
+    <string name="tip_topic_toll_happiness_title">통행료 수금소는 추가 수익을 가져다주지만, 주민들을 불행하게 만듭니다</string>
+    <string name="tip_topic_toll_happiness_text">도로 위를 달리는 차량에게 과태료를 부과하기 위해 톨게이트를 설치할 수 있습니다. 이는 수입을 조달하는 데 도움이 됩니다. 과금할 금액은 톨게이트를 누름으로써 조정할 수 있습니다. 그러나 이는 교통 만족도를 감소시키고 사람들을 불행하게 만듭니다.</string>
+    <string name="tip_topic_building_rotation_title">모든 건물이 회전 프레임을 가지고 있는 것은 아닙니다</string>
+    <string name="tip_topic_building_rotation_text">몇몇 바닐라 건물들은 회전 프레임을 가지고 있지만 모두 그런 것은 아닙니다. 플러그인에 해당하는 경우 회전 프레임이 없을 수 있습니다. 이는 작성자가 그것들을 만들지 않았기 때문입니다. 어떤 건물들이 회전 프레임을 가지고 있는지 알아보려면 건물을 선택하고 그것들의 오른쪽 상단에 다음과 이전 버튼이 있는지 확인하십시오. 회전 프레임이 없는 것은 더 다양한 건물들을 위한 공간을 더 많이 남깁니다.</string>
+    <string name="tip_topic_map_rotation_title">미니 맵을 사용하여 지도 방향을 변경하세요</string>
+    <string name="tip_topic_map_rotation_text">미니 맵을 이용해 지도를 회전시킬 수 있습니다. 미니 맵을 눌러 화살표를 사용해 지도를 왼쪽이나 오른쪽으로 회전시키세요. 지도는 회전하지만, 회전 프레임이 제공되지 않았다면 모든 건물이 회전하지 않는다는 점을 유의해야 합니다.</string>
+    <string name="tip_topic_demands_title">요구선 이상의 구역을 지어보세요</string>
+    <string name="tip_topic_demands_text">수요가 수요선 위에 있을 때, 이는 해당 수요의 사람이나 기업들이 당신의 도시로 이동하고 싶어한다는 것을 나타냅니다. 따라서 그들에게 필요한 시설을 제공해야 합니다. 반면에 수요가 수요선 아래에 있을 때, 이는 다른 구역을 지어주고 공원이나 경찰청 같은 지원 시설을 만들어줘야 함을 나타냅니다.</string>
+    <string name="tip_topic_happiness_title">건물을 눌러 가장 낮은 행복 지수를 확인하세요</string>
+    <string name="tip_topic_happiness_text">건물을 누르면 해당 건물과 주변의 건물들이 왜 불행한지를 파악하는 데 도움이 됩니다. 또한 그 건물에 대한 평균 행복 지수도 제공됩니다. 가장 불행한 이유를 파악하면 그것을 해결하기 위해 대처할 수 있습니다. 예를 들어, 건물이 공원 부족 때문에 불행하다면, 건물 주변에 공원을 설치하여 행복 지수를 향상시켜야 합니다.</string>
+    <string name="tip_topic_game_extentions_title">플러그인 스토어에는 공식 게임 확장 기능이 있습니다</string>
+    <string name="tip_topic_game_extentions_text">공식 게임 확장 프로그램은 사용자 Lobby에 의해 플러그인 스토어에 게시됩니다. 이들은 보통 공식 게임 확장 프로그램이므로 무료입니다.</string>
+    <string name="tip_topic_inspiration_title">다른 플레이어의 도시와 비교하지 마세요, 오히려 그것으로부터 영감을 얻으세요</string>
+    <string name="tip_topic_inspiration_text">다른 플레이어들은 각각 다른 스타일을 가지고 있습니다. 다른 플레이어들의 도시를 부러워하기 보다, 그것이 당신에게 왜 매력적인지를 정확히 찾아보세요. 그 이유를 찾았다면, 당신의 도시에 조금씩 그것을 구현해보세요, 그리고 도시가 성장하는 것을 지켜보세요.</string>
+    <string name="tip_topic_road_connection_title">도로 네트워크 구축 시 자동 연결 도로 사용</string>
+    <string name="tip_topic_road_connection_text">선택한 도로를 누르고 오른쪽 상단의 "도로 연결"을 눌러 건설 중인 도로를 자동으로 연결하세요. 이렇게 하면 제대로 연결되지 않아 도로가 작동하지 않는 상황을 방지할 수 있습니다.</string>
+    <string name="tip_topic_epidemic_prevention_title">전염병을 피하려면 병원을 설치하세요</string>
+    <string name="tip_topic_epidemic_prevention_text">건물 위에 녹색 얼굴이 뜨면, 그것은 거주민들이 아픈 것을 나타냅니다. 이를 향후 피하기 위해 모든 지역에 병원을 건설하세요. 거주민들을 건강하게 유지하기 위해서는 물 공급이 깨끗한 지역에 위치하도록 하세요.</string>
+    <string name="tip_topic_education_title">주거지역은 고등 교육과 초등 교육이 모두 필요합니다</string>
+    <string name="tip_topic_education_text">교육 만족도를 향상시키기 위해서는 고등교육과 초등교육 모두를 제공해야 합니다. 이들은 건물이 부유해지는 데 필요합니다. 따라서 주택 지역이 두 가지 영향을 모두 받도록 해야 합니다.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">지연을 줄이려면 부드러운 확대/축소를 비활성화하세요</string>
+    <string name="tip_topic_disable_smooth_zoom_text">게임이 느려지는 것 같다면 부드러운 확대/축소 옵션을 끄는 것을 고려해보세요. 이 옵션은 게임 설정에서 찾을 수 있습니다. 이렇게 하면 게임 플레이 경험이 향상될 수 있습니다.</string>
+    <string name="tip_topic_building_bridges_title">오른쪽의 화살표 옵션을 사용하여 도로를 높이십시오</string>
+    <string name="tip_topic_building_bridges_text">건설하고자 하는 도로를 누르세요. 건설 메뉴에 있을 때, 타일을 누른 후 위로 건설하여 상향 경사를 만들 수 있습니다. 고가 도로를 누르고 아래로 건설하여 하향 경사를 만드세요. 동시에 다리를 누르면 자동으로 다리를 건설합니다. 하지만 모든 도로가 고가 도로 건설을 지원하는 것은 아닙니다.</string>
+    <string name="store_cmd_downloadall_title">모두 다운로드</string>
+    <string name="store_cmd_downloadall_text">모든 누락된 플러그인을 한 번에 다운로드/활성화합니다</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">열기</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">알림 설정</string>
+    <string name="settings_notify_low_power">저전력 알림 설정</string>
+    <string name="settings_notify_low_water">낮은 수위 알림 설정</string>
+    <string name="settings_notify_no_power">전원 없음</string>
+    <string name="settings_notify_no_water">물이 없습니다</string>
+    <string name="settings_notify_no_road">도로 없음</string>
+    <string name="settings_notify_no_park">공원 없음</string>
+    <string name="settings_notify_no_sport">스포츠 없음</string>
+    <string name="settings_notify_pollution">오염</string>
+    <string name="settings_notify_noise">소음 설정</string>
+    <string name="settings_notify_water_waste">물 낭비 알림 설정</string>
+    <string name="settings_notify_unhappy">불만족</string>
+    <string name="settings_notify_unlocked">건물이 잠금 해제되었습니다</string>
+    <string name="settings_notify_low_budget">낮은 예산</string>
+    <string name="settings_notify_zone_needed">필요한 구역</string>
+    <string name="settings_notify_polluted_pump">오염된 펌프</string>
+    <string name="settings_notify_school_overloaded">학교 과부하</string>
+    <string name="settings_notify_medic_overloaded">의료진 과부하</string>
+    <string name="settings_notify_destroyed_tile">파괴된 타일 알림 설정</string>
+    <string name="settings_notify_need_low_education">낮은 학력이 필요합니다</string>
+    <string name="settings_notify_need_high_education">고급 교육 필요</string>
+    <string name="settings_notify_bad_traffic">나쁜 교통 상황</string>
+    <string name="settings_notify_waste">쓰레기 수집 알림</string>
+    <string name="settings_notify_body_disposal">시체 처리</string>
+    <string name="settings_notify_bad_attribute">잘못된 값</string>
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="dialog_uploadregionpolicy_title">비활성 지역 정책</string>
+    <string name="dialog_uploadregionpolicy_text">1년 이상 비활동 상태인 지역은 자동으로 삭제될 수 있음을 유의하십시오. 이런 조치는 새로운 지역을 위한 공간을 확보하고 활동적인 플레이어들에게 최적의 경험을 제공하기 위해 필요합니다. 비활동으로 인한 어떤 삭제도 이루어지기 전에 우리는 미리 알려드릴 것입니다.</string>
+    <string name="dialog_loginforreport_title">보고하기 위해 로그인이 필요합니다</string>
+    <string name="dialog_loginforreport_text">우리의 신고 시스템의 무결성을 보장하기 위해, 로그인한 사용자만 신고를 제출할 수 있습니다. 신고를 계속하려면 로그인해 주세요.</string>
+    <string name="settings_debug_hotkeys">디버그 단축키</string>
+    <string name="specialoffer_alreadyunlocked">이 아이템은 이미 잠금 해제되었습니다.</string>
+    <string name="settings_highlight_hovered_building">마우스를 올린 건물 하이라이트하기</string>
+    <string name="settings_cursorscaling">커서 크기</string>
     <string name="settings_cursorstyle_citylights">CityLights</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
@@ -3396,155 +3234,160 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+    <string name="stage_files_actioncopy">클립보드에 복사</string>
+    <string name="stage_files_actionopen">열기</string>
+    <string name="stage_files_imageresolution">해상도: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">오래된 버전</string>
+    <string name="loadcity_outdatedscenario_dialog_text">이 시나리오는 버전 %s 이상이 필요하지만, 현재 사용 중인 버전은 %s입니다.\n
+\n
+ 이 시나리오를 플레이하려면 업데이트를 확인해 주세요.</string>
+    <string name="comments_language">언어: %s</string>
+    <string name="comments_cmdtranslate">번역하기 (번역이 부정확할 수 있음)</string>
+    <string name="waste_clear_onmouseinput">클릭하고 드래그하여 쓰레기를 정리하세요.</string>
+    <string name="cemetery_clear_onmouseinput">클릭하고 드래그하여 공간을 확보하세요.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">표시된 타일을 따라 도로를 배치하세요. 시작점을 설정하려면 클릭하고, 끝점을 설정하려면 다시 클릭하세요.</string>
+    <string name="tutorial_rci_onmouseinput">이 버튼을 클릭하여 각 구역 유형에 대한 상세한 수요 정보를 확인하십시오.</string>
+    <string name="tutorial_money_info_onmouseinput">더 많은 자금 정보를 얻거나 세금을 변경하려면 오른쪽 하단을 클릭하세요.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">계획한 도로의 시작점과 끝점을 클릭하세요. 자동으로 강 위에 다리가 어떻게 지어지는지 확인해 보세요.</string>
+    <string name="tool_airplanelane_title_onmouseinput">빈 차선을 클릭하세요</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">그냥 선물입니다. 클릭해 보세요.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">특정 도로나 건물을 다시 건설하고 싶으세요? 이 도구를 사용하고 그 위를 클릭하세요. 모든 구조물에 적용할 수는 없습니다.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">스크린샷을 우리의 갤러리에 업로드하시겠습니까?\n
+\n
+"지금 업로드"를 클릭하면 우리의 정책에 동의하는 것으로 간주됩니다.</string>
+    <string name="notify_waste_producer00_onmouseinput">이 쓰레기 매립지가 가득 찼습니다! 클릭하여 비워주세요!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">클릭하여 열거나 닫을 수 있습니다. 교통 체증을 만드는 데 좋은 방법입니다.</string>
+    <string name="draft_gol_dead_text_onmouseinput">라이프 게임 필드를 생성하세요. 기존 타일을 클릭하여 상태를 변경할 수 있습니다. 기본 상태는 \'죽음\'입니다.</string>
+    <string name="loadcity_scenario">시나리오: %s</string>
+    <string name="trainstationinfo_total">총 이동량: %1$,d</string>
 
 
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">필요: 달에서 피클스 돕기</string>
     <string name="dialog_configureregion_tags">Tags</string>
     <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
+    <string name="dialog_regionrules_notags">- 태그가 적용되지 않았습니다 -</string>
     <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
-    <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="settings_highrescitypreview">고해상도 도시 미리보기 렌더링</string>
+    <string name="draft_native_snow_plow_depot00_title">눈 청소차 창고</string>
+    <string name="draft_native_snow_plow_depot00_text">겨울 동안 도로를 깨끗하게 유지하기 위해 설계된 전문 시설입니다. 효과적으로 빙판과 눈을 제거하는 산소기를 배치하여 교통 흐름이 원활하게 유지되도록 합니다.</string>
+    <string name="settings_road_snow_overlay">도로 눈 덮개</string>
+    <string name="settings_ground_snow_overlay">지면 눈 오버레이</string>
+    <string name="dialog_scenarios_cmdopen">시나리오</string>
+    <string name="dialog_scenarios_title">시나리오</string>
+    <string name="dialog_scenarios_generalinfo_title">이 시나리오들은 무엇인가요?</string>
+    <string name="dialog_scenarios_generalinfo_text">TheoTown의 시나리오는 특별한 조건이 있는 사전 제작된 맵입니다. 한정된 자금이나 특정 플러그인 규칙과 같은 제한 조건 하에서 도시를 건설합니다. 시나리오가 끝나면, 친절한 경쟁에서 다른 사람들과 경쟁하기 위해 도시를 업로드 할 수 있습니다.</string>
+    <string name="dialog_scenarios_cmdreset">재설정</string>
+    <string name="dialog_scenarios_cmdremove">제거</string>
+    <string name="dialog_scenarios_cmdmove">이동</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
+    <string name="dialog_scenarios_cmdplay">플레이</string>
     <string name="dialog_scenarios_cmdstart">Start</string>
-    <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
+    <string name="dialog_scenarios_reset_title">재설정</string>
+    <string name="dialog_scenarios_reset_text">진행 상황을 초기화하고 싶습니까? 계속 플레이하려면 개인 도시로 이동하거나 완전히 삭제할 수 있습니다.</string>
+    <string name="dialog_scenarios_empty">현재 사용 가능한 시나리오가 없습니다.</string>
+    <string name="dialog_scenarios_notplayedyet">아직 플레이하지 않음</string>
+    <string name="region_download_city">도시 다운로드</string>
+    <string name="region_download_region">지역 다운로드</string>
+    <string name="toolaction_removelast">마지막 제거</string>
+    <string name="ci_transportation_title">교통수단</string>
+    <string name="settings_legacy_bus_system">레거시 버스 시스템 사용</string>
+    <string name="draft_tool_car_follower00_despawn">차량이 사라졌습니다</string>
 
 
     <string name="settings_extra_d">Extra D</string>
     <string name="settings_extra_d_gen">%s D</string>
-    <string name="settings_extra_d_max">3D-ish</string>
-    <string name="settings_stretching">Stretching</string>
-    <string name="settings_stretching_narrow2">Square</string>
-    <string name="settings_stretching_narrow1">Slim</string>
-    <string name="settings_stretching_narrow0">Compact</string>
-    <string name="settings_stretching_wide0">Stretchy</string>
-    <string name="settings_stretching_wide1">Chungus</string>
-    <string name="settings_stretching_wide2">W I D E</string>
-    <string name="settings_notransformsupport_hint">Transformation is not supported by current %1$s-&gt;%2$s setting</string>
-    <string name="ci_airport_launchedairplanes">Launched airplanes: %s</string>
-    <string name="ci_airport_totalpassengers">Total passengers: %s</string>
-    <string name="ts_routes">Routes</string>
-    <string name="ts_stations">Stations</string>
-    <string name="ts_vehicles">Vehicles</string>
-    <string name="ts_cityview">City view</string>
-    <string name="ts_routemap">Route map</string>
-    <string name="ts_dialog_buy_vehicle_title">Buy a Vehicle</string>
-    <string name="ts_dialog_select_vehicle_title">Select a Vehicle</string>
-    <string name="ts_missing_reqs">Missing Requirements</string>
-    <string name="ts_warn_no_routes">No Routes</string>
-    <string name="ts_warn_hard_to_reach">Hard to reach, add more routes</string>
+    <string name="settings_extra_d_max">3D스러운</string>
+    <string name="settings_stretching">스트레칭</string>
+    <string name="settings_stretching_narrow2">정사각형</string>
+    <string name="settings_stretching_narrow1">슬림</string>
+    <string name="settings_stretching_narrow0">콤팩트</string>
+    <string name="settings_stretching_wide0">늘어나는</string>
+    <string name="settings_stretching_wide1">청거스</string>
+    <string name="settings_stretching_wide2">넓 게</string>
+    <string name="settings_notransformsupport_hint">현재 %1$s-&gt;%2$s 설정에서는 변환이 지원되지 않습니다</string>
+    <string name="ci_airport_launchedairplanes">발사된 비행기: %s</string>
+    <string name="ci_airport_totalpassengers">총 승객 수: %s</string>
+    <string name="ts_routes">노선들</string>
+    <string name="ts_stations">역들</string>
+    <string name="ts_vehicles">차량</string>
+    <string name="ts_cityview">도시 뷰</string>
+    <string name="ts_routemap">노선 지도</string>
+    <string name="ts_dialog_buy_vehicle_title">차량 구매</string>
+    <string name="ts_dialog_select_vehicle_title">차량 선택</string>
+    <string name="ts_missing_reqs">요구 사항 누락</string>
+    <string name="ts_warn_no_routes">경로 없음</string>
+    <string name="ts_warn_hard_to_reach">도달하기 어렵습니다, 더 많은 경로를 추가하세요</string>
     <string name="ts_route_name_prefix">L</string>
     <string name="ts_route_copy_suffix">\'</string>
-    <string name="ts_route_invalid">Invalid Route</string>
-    <string name="ts_route_no_vehicle">No Vehicle assigned</string>
-    <string name="ts_route_path_broken">The path is broken</string>
-    <string name="ts_route_usage">Usage:</string>
-    <string name="ts_route_set_vehicle">Set Vehicle</string>
+    <string name="ts_route_invalid">잘못된 경로</string>
+    <string name="ts_route_no_vehicle">배정된 차량 없음</string>
+    <string name="ts_route_path_broken">경로가 끊어졌습니다</string>
+    <string name="ts_route_usage">사용법:</string>
+    <string name="ts_route_set_vehicle">차량 설정</string>
     <string name="ts_route_edit">Route</string>
-    <string name="ts_route_more">More</string>
-    <string name="ts_route_duplicate">Duplicate</string>
-    <string name="ts_route_rename">Rename</string>
-    <string name="ts_dialog_route_rename_title">Route Name</string>
-    <string name="ts_route_delete">Delete</string>
-    <string name="ts_station_routes_for">Routes for </string>
-    <string name="ts_station_routes">Routes:</string>
-    <string name="ts_station_waiting">Waiting:</string>
-    <string name="ts_station_usage">Usage:</string>
-    <string name="ts_station_locate">Locate</string>
-    <string name="ts_station_rename">Rename</string>
-    <string name="ts_station_recolor">Change color</string>
-    <string name="ts_dialog_station_rename_title">Station Name</string>
-    <string name="ts_station_routes_clear">Clear</string>
-    <string name="ts_add_route">Add Route</string>
-    <string name="ts_station_show_routes">Routes</string>
-    <string name="ts_vehicle_capacity">Capacity:</string>
-    <string name="ts_vehicle_speed">Speed:</string>
-    <string name="ts_vehicle_price">Price:</string>
-    <string name="ts_vehicle_transferred">Total transferred:</string>
-    <string name="ts_vehicle_on_board">On board:</string>
-    <string name="ts_vehicle_assigned_to">Assigned to </string>
-    <string name="ts_vehicle_not_assigned">Not assigned to a route</string>
-    <string name="ts_vehicle_locate">Locate</string>
-    <string name="ts_vehicle_delete">Delete</string>
-    <string name="ts_dialog_sell_vehicle_title">Sell?</string>
-    <string name="ts_dialog_sell_vehicle_text">Do you want to sell `%s`?\nValue: %s</string>
-    <string name="ts_dialog_sell_vehicle_cmd_sell">Sell</string>
-    <string name="ts_vehicle_count">%d/%d vehicles</string>
-    <string name="ts_vehicle_count_depot_limit">%s (limited by depots)</string>
-    <string name="ts_vehicle_count_station_limit">%s (limited by stations)</string>
-    <string name="ts_buy_vehicle">Buy Vehicle</string>
-    <string name="ts_build_depot">Build Depot</string>
-    <string name="ts_vehicle_assign">Assign</string>
-    <string name="ts_vehicle_unassign">Unassign</string>
-    <string name="ts_buy_vehicle_buy_more">Buy a vehicle first to assign it</string>
-    <string name="ts_buy_vehicle_title">Vehicles</string>
-    <string name="ts_buy_vehicle_cmdbuy">Buy</string>
-    <string name="ts_cityinfo_routes">Routes:</string>
-    <string name="ts_cityinfo_stations">Stations:</string>
-    <string name="ts_routes_title">Routes</string>
-    <string name="ts_stations_title">Stations</string>
-    <string name="ts_vehicles_title">Vehicles</string>
-    <string name="ts_mode_one_shot">One Shot</string>
-    <string name="ts_mode_loop">Loop</string>
-    <string name="ts_mode_ping_pong">Ping Pong</string>
+    <string name="ts_route_more">더 보기</string>
+    <string name="ts_route_duplicate">중복</string>
+    <string name="ts_route_rename">이름 변경</string>
+    <string name="ts_dialog_route_rename_title">노선 이름</string>
+    <string name="ts_route_delete">삭제</string>
+    <string name="ts_station_routes_for">의 루트</string>
+    <string name="ts_station_routes">노선:</string>
+    <string name="ts_station_waiting">대기 중:</string>
+    <string name="ts_station_usage">사용법:</string>
+    <string name="ts_station_locate">위치 찾기</string>
+    <string name="ts_station_rename">이름 바꾸기</string>
+    <string name="ts_station_recolor">색상 변경</string>
+    <string name="ts_dialog_station_rename_title">역 이름</string>
+    <string name="ts_station_routes_clear">삭제하기</string>
+    <string name="ts_add_route">노선 추가</string>
+    <string name="ts_station_show_routes">노선</string>
+    <string name="ts_vehicle_capacity">용량:</string>
+    <string name="ts_vehicle_speed">속도:</string>
+    <string name="ts_vehicle_price">가격:</string>
+    <string name="ts_vehicle_transferred">전체 이전:</string>
+    <string name="ts_vehicle_on_board">탑승 중:</string>
+    <string name="ts_vehicle_assigned_to">할당됨</string>
+    <string name="ts_vehicle_not_assigned">경로에 배정되지 않음</string>
+    <string name="ts_vehicle_locate">위치 찾기</string>
+    <string name="ts_vehicle_delete">삭제</string>
+    <string name="ts_dialog_sell_vehicle_title">팔다?</string>
+    <string name="ts_dialog_sell_vehicle_text">\'%s\'를 팔고 싶으신가요?\n
+가치: %s</string>
+    <string name="ts_dialog_sell_vehicle_cmd_sell">판매</string>
+    <string name="ts_vehicle_count">%d/%d 차량</string>
+    <string name="ts_vehicle_count_depot_limit">%s (창고에 의한 제한)</string>
+    <string name="ts_vehicle_count_station_limit">%s (역에 의해 제한됨)</string>
+    <string name="ts_buy_vehicle">차량 구매</string>
+    <string name="ts_build_depot">디포 건설</string>
+    <string name="ts_vehicle_assign">할당하기</string>
+    <string name="ts_vehicle_unassign">할당 취소</string>
+    <string name="ts_buy_vehicle_buy_more">먼저 차량을 구매하여 할당하세요</string>
+    <string name="ts_buy_vehicle_title">차량</string>
+    <string name="ts_buy_vehicle_cmdbuy">구매하기</string>
+    <string name="ts_cityinfo_routes">노선:</string>
+    <string name="ts_cityinfo_stations">역:</string>
+    <string name="ts_routes_title">노선</string>
+    <string name="ts_stations_title">역들</string>
+    <string name="ts_vehicles_title">차량</string>
+    <string name="ts_mode_one_shot">원샷</string>
+    <string name="ts_mode_loop">루프</string>
+    <string name="ts_mode_ping_pong">핑퐁</string>
     <string name="draft_bus00_title">TB-20</string>
     <string name="draft_bus02_title">TB-35</string>
     <string name="draft_bus04_title">TB-80</string>
     <string name="draft_bus06_title">TB-140A</string>
     <string name="draft_bus08_title">TB-200B</string>
-    <string name="draft_ts_native_bus00_title">Buses</string>
-    <string name="draft_elevated_train_train00_title">Main</string>
-    <string name="draft_elevated_train_train01_title">Secondary</string>
-    <string name="draft_ts_native_elevatedtrain00_title">Elevated Train</string>
-    <string name="draft_train_freighter_coal00_title">Coal Train</string>
-    <string name="draft_train_freighter_wood00_title">Wood Train</string>
-    <string name="draft_train_freighter_car00_title">Car Train</string>
-    <string name="draft_train_freighter_petrol00_title">Petrol Train</string>
-    <string name="draft_train_freighter_container00_title">Container Train</string>
-    <string name="draft_ts_native_freighttrain00_title">Freight Trains</string>
-    <string name="draft_ts_metro_train00_title">Metro Unit 69</string>
+    <string name="draft_ts_native_bus00_title">버스</string>
+    <string name="draft_elevated_train_train00_title">주요</string>
+    <string name="draft_elevated_train_train01_title">보조</string>
+    <string name="draft_ts_native_elevatedtrain00_title">고가 열차</string>
+    <string name="draft_train_freighter_coal00_title">석탄 기차</string>
+    <string name="draft_train_freighter_wood00_title">나무 기차</string>
+    <string name="draft_train_freighter_car00_title">자동차 기차</string>
+    <string name="draft_train_freighter_petrol00_title">기름 기차</string>
+    <string name="draft_train_freighter_container00_title">컨테이너 열차</string>
+    <string name="draft_ts_native_freighttrain00_title">화물 열차</string>
+    <string name="draft_ts_metro_train00_title">메트로 유닛 69</string>
     <string name="draft_ts_native_metro00_title">Metro</string>
     <string name="draft_train_odeg00_title">ODEG</string>
     <string name="draft_train_neb00_title">NEB</string>
@@ -3552,101 +3395,131 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_train_ice00_title">ICE</string>
     <string name="draft_train_regio00_title">Regio</string>
     <string name="draft_train_ic00_title">IC</string>
-    <string name="draft_ts_native_passengertrain00_title">Passenger Trains</string>
-    <string name="ts_no_routes">Create a route to get started</string>
-    <string name="ts_no_routes_station">No routes assigned to this station</string>
-    <string name="ts_no_stations">Build stations and connect them with routes</string>
-    <string name="ts_no_vehicles">Buy a vehicle to begin service</string>
-    <string name="control_copy">Copy</string>
-    <string name="control_paste">Paste</string>
-    <string name="dialog_colorpicker_title">Select a color</string>
+    <string name="draft_ts_native_passengertrain00_title">승객 기차</string>
+    <string name="ts_no_routes">시작하려면 경로를 만드십시오</string>
+    <string name="ts_no_routes_station">이 역에 배정된 노선이 없습니다</string>
+    <string name="ts_no_stations">역을 건설하고 노선으로 연결하세요</string>
+    <string name="ts_no_vehicles">서비스를 시작하려면 차량을 구입하십시오</string>
+    <string name="control_copy">복사</string>
+    <string name="control_paste">붙여넣기</string>
+    <string name="dialog_colorpicker_title">색상을 선택하십시오</string>
     <string name="ts_location_west">%s West</string>
-    <string name="ts_location_south">%s South</string>
-    <string name="ts_location_north">%s North</string>
-    <string name="ts_location_east">%s East</string>
-    <string name="ts_location_center">%s Center</string>
-    <string name="ts_location_inner">%s Inner</string>
-    <string name="ts_location_outer">%s Outer</string>
-    <string name="ts_location_edge">%s Edge</string>
-    <string name="ts_names_residential_maplestreet">Maple Street Stop</string>
-    <string name="ts_names_residential_elmwooddrive">Elmwood Drive</string>
-    <string name="ts_names_residential_oaklane">Oak Lane</string>
-    <string name="ts_names_residential_villagegreen">Village Green</string>
-    <string name="ts_names_commercial_marketsquare">Market Square</string>
-    <string name="ts_names_commercial_mainstreetmall">Main Street Mall</string>
-    <string name="ts_names_commercial_commerceplaza">Commerce Plaza</string>
-    <string name="ts_names_commercial_downtowncenter">Downtown Center</string>
-    <string name="ts_names_commercial_shoppingdistrict">Shopping District</string>
-    <string name="ts_names_industrial_industrialpark">Industrial Park</string>
-    <string name="ts_names_industrial_factorygate">Factory Gate</string>
-    <string name="ts_names_industrial_warehouserow">Warehouse Row</string>
-    <string name="ts_names_industrial_freightyard">Freight Yard</string>
-    <string name="ts_names_industrial_commercedrive">Commerce Drive</string>
-    <string name="ts_names_harbor_harbourfront">Harbour Front</string>
-    <string name="ts_names_harbor_waterfrontpier">Waterfront Pier</string>
-    <string name="ts_names_harbor_riversidedocks">Riverside Docks</string>
-    <string name="ts_names_harbor_seawallstop">Seawall Stop</string>
-    <string name="ts_names_farm_farmroad">Farm Road</string>
-    <string name="ts_names_farm_countryside">Countryside</string>
-    <string name="ts_names_farm_fieldsstop">Fields Stop</string>
-    <string name="ts_names_farm_orchard">Orchard</string>
-    <string name="ts_names_farm_pastures">Pastures</string>
-    <string name="ts_names_farm_ruralgate">Rural Gate</string>
-    <string name="ts_names_park_centralpark">Central Park</string>
-    <string name="ts_names_park_meadowpark">Meadow Park</string>
-    <string name="ts_names_park_woodlandgardens">Woodland Gardens</string>
-    <string name="ts_names_airport_airportterminal">Airport Terminal</string>
-    <string name="ts_names_airport_terminalshuttle">Terminal Shuttle</string>
-    <string name="ts_names_airport_aviationway">Aviation Way</string>
-    <string name="ts_names_airport_flyerstop">Flyer Stop</string>
-    <string name="ts_names_airport_airportgate">Airport Gate</string>
-    <string name="ts_names_military_basegate">Base Gate</string>
-    <string name="ts_names_military_fortmain">Fort Main</string>
-    <string name="ts_names_military_barracksstop">Barracks Stop</string>
-    <string name="ts_names_military_arsenalroad">Arsenal Road</string>
-    <string name="ts_names_military_garrisondepot">Garrison Depot</string>
-    <string name="ts_names_water_riverside">Riverside</string>
-    <string name="ts_names_water_riverbank">Riverbank</string>
-    <string name="ts_names_water_lakeside">Lakeside</string>
-    <string name="ts_names_water_seaside">Seaside</string>
-    <string name="ts_names_water_beachfront">Beachfront</string>
-    <string name="draft_pmono_tracks00_title">Monorail Tracks</string>
-    <string name="draft_pmono_tracks00_text">Elevated tracks used for monorail operation.</string>
-    <string name="draft_pmono_roaddeco_roof00_title">Monorail Station Roof</string>
-    <string name="draft_pmono_roaddeco_roof00_text">Roof element for covering monorail station platforms.</string>
-    <string name="draft_pmono_station00_title">Monorail Station</string>
-    <string name="draft_pmono_station00_text">A modular station for local monorail traffic.</string>
-    <string name="draft_pmono_station_prebuilt00_title">Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt00_text">A prebuilt monorail station for local traffic.</string>
-    <string name="draft_pmono_station_prebuilt01_title">Large Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt01_text">A larger prebuilt monorail station with extended capacity.</string>
+    <string name="ts_location_south">%s 남쪽</string>
+    <string name="ts_location_north">%s 북쪽</string>
+    <string name="ts_location_east">%s 동쪽</string>
+    <string name="ts_location_center">%s 센터</string>
+    <string name="ts_location_inner">%s 내부</string>
+    <string name="ts_location_outer">%s 외부</string>
+    <string name="ts_location_edge">%s 가장자리</string>
+    <string name="ts_names_residential_maplestreet">메이플 스트리트 정류장</string>
+    <string name="ts_names_residential_elmwooddrive">엘름우드 드라이브</string>
+    <string name="ts_names_residential_oaklane">오크 레인</string>
+    <string name="ts_names_residential_villagegreen">마을 초원</string>
+    <string name="ts_names_commercial_marketsquare">시장 광장</string>
+    <string name="ts_names_commercial_mainstreetmall">메인 스트리트 몰</string>
+    <string name="ts_names_commercial_commerceplaza">상업 플라자</string>
+    <string name="ts_names_commercial_downtowncenter">시내 중심지</string>
+    <string name="ts_names_commercial_shoppingdistrict">쇼핑 지구</string>
+    <string name="ts_names_industrial_industrialpark">산업단지</string>
+    <string name="ts_names_industrial_factorygate">공장 게이트</string>
+    <string name="ts_names_industrial_warehouserow">창고 줄</string>
+    <string name="ts_names_industrial_freightyard">화물 마당</string>
+    <string name="ts_names_industrial_commercedrive">상업 드라이브</string>
+    <string name="ts_names_harbor_harbourfront">항구 전면</string>
+    <string name="ts_names_harbor_waterfrontpier">워터프론트 피어</string>
+    <string name="ts_names_harbor_riversidedocks">강변 부두</string>
+    <string name="ts_names_harbor_seawallstop">바다 방파제 정거장</string>
+    <string name="ts_names_farm_farmroad">농장 도로</string>
+    <string name="ts_names_farm_countryside">시골</string>
+    <string name="ts_names_farm_fieldsstop">필드 정류장</string>
+    <string name="ts_names_farm_orchard">과수원</string>
+    <string name="ts_names_farm_pastures">목장</string>
+    <string name="ts_names_farm_ruralgate">시골 게이트</string>
+    <string name="ts_names_park_centralpark">중앙 공원</string>
+    <string name="ts_names_park_meadowpark">들판 공원</string>
+    <string name="ts_names_park_woodlandgardens">숲 정원</string>
+    <string name="ts_names_airport_airportterminal">공항 터미널</string>
+    <string name="ts_names_airport_terminalshuttle">터미널 셔틀</string>
+    <string name="ts_names_airport_aviationway">항공길</string>
+    <string name="ts_names_airport_flyerstop">플라이어 정류장</string>
+    <string name="ts_names_airport_airportgate">공항 게이트</string>
+    <string name="ts_names_military_basegate">기지 게이트</string>
+    <string name="ts_names_military_fortmain">주요 요새</string>
+    <string name="ts_names_military_barracksstop">병영 정류장</string>
+    <string name="ts_names_military_arsenalroad">무기고 길</string>
+    <string name="ts_names_military_garrisondepot">주둔지 보급창고</string>
+    <string name="ts_names_water_riverside">강변</string>
+    <string name="ts_names_water_riverbank">강변</string>
+    <string name="ts_names_water_lakeside">호숫가</string>
+    <string name="ts_names_water_seaside">바닷가</string>
+    <string name="ts_names_water_beachfront">해변가</string>
+    <string name="draft_pmono_tracks00_title">모노레일 궤도</string>
+    <string name="draft_pmono_tracks00_text">모노레일 운행에 사용되는 고가 철로.</string>
+    <string name="draft_pmono_roaddeco_roof00_title">모노레일 역 지붕</string>
+    <string name="draft_pmono_roaddeco_roof00_text">모노레일 역 플랫폼을 덮기 위한 지붕 요소.</string>
+    <string name="draft_pmono_station00_title">모노레일 역</string>
+    <string name="draft_pmono_station00_text">지역 모노레일 교통을 위한 모듈식 역.</string>
+    <string name="draft_pmono_station_prebuilt00_title">모노레일 역</string>
+    <string name="draft_pmono_station_prebuilt00_text">지역 교통을 위한 사전 제작된 모노레일 역.</string>
+    <string name="draft_pmono_station_prebuilt01_title">큰 모노레일 역</string>
+    <string name="draft_pmono_station_prebuilt01_text">확장된 용량의 큰 사전 구축 모노레일 역.</string>
     <string name="draft_pmono_train00_title">Monorail 2000</string>
     <string name="draft_ts_native_monorail00_title">Monorail</string>
 
 
-    <string name="stage_musicmanager_title">Music Library</string>
+    <string name="stage_musicmanager_title">음악 라이브러리</string>
     <string name="stage_musicmanager_original">Original</string>
-    <string name="stage_musicmanager_import">Import Music</string>
-    <string name="stage_musicmanager_volume">Volume</string>
-    <string name="stage_musicmanager_alreadyimported">`%s` was imported already</string>
-    <string name="control_active">Active</string>
-    <string name="control_inactive">Inactive</string>
-    <string name="control_delete">Delete</string>
-    <string name="dialog_deletemusic_title">Delete Music</string>
-    <string name="dialog_deletemusic_text">Are you sure that you want to delete `%s`?</string>
-    <string name="gamemenu_catmusic">Music</string>
+    <string name="stage_musicmanager_import">음악 가져오기</string>
+    <string name="stage_musicmanager_volume">볼륨</string>
+    <string name="stage_musicmanager_alreadyimported">`%s`는 이미 가져왔습니다</string>
+    <string name="control_active">활성화</string>
+    <string name="control_inactive">비활성화</string>
+    <string name="control_delete">삭제</string>
+    <string name="dialog_deletemusic_title">음악 삭제</string>
+    <string name="dialog_deletemusic_text">`%s`을(를) 정말로 삭제하시겠습니까?</string>
+    <string name="gamemenu_catmusic">음악</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s (%d개 역)</string>
+    <string name="ts_tool_all_routes">%s (%d개의 루트)</string>
+    <string name="ts_tool_add_random_station">임의의 역 추가</string>
+    <string name="ts_reached_vehicle_limit">이 경로에 %d 대 이상의 차량을 할당할 수 없습니다!</string>
+    <string name="musictype_game">게임</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (기본)</string>
+    <string name="dialog_unlink_steam_title">계정 연결 해제?</string>
+    <string name="dialog_unlink_steam_text">이것은 포럼 계정과 스팀 계정의 연결을 해제합니다. 부작용이 있을 수 있으므로 반드시 필요할 때만 실행해야합니다. 연결 해제 후 게임이 다시 시작됩니다.</string>
+    <string name="dialog_unlink_steam_cmdunlink">계정 연결 해제</string>
+
+
+    <string name="store_cat_heightmaps">높이 지도</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">또는 이메일</string>
+    <string name="dialog_restore_title">도시 복원</string>
+    <string name="dialog_restore_nobackups">백업 복사본이 없습니다 :(</string>
+    <string name="dialog_restore_current">(활성화)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">다이아몬드 없이 건설할 수 있는 다음 건물들을 영구적으로 해제합니다.</string>
+    <string name="settings_edge_gradients">화면 가장자리 그라디언트</string>
+    <string name="legend_pipe">파이프</string>
+    <string name="legend_wet">축축한</string>
+    <string name="legend_dry">건조</string>
+    <string name="legend_protected_buildings">보호된 건물</string>
+    <string name="legend_density_low">저밀도</string>
+    <string name="legend_density_high">고밀도</string>
+    <string name="legend_traffic_low">낮은 교통량</string>
+    <string name="legend_traffic_high">높은 교통량</string>
+    <string name="legend_happy">행복</string>
+    <string name="legend_unhappy">불행한</string>
+    <string name="legend_high">높음</string>
+    <string name="legend_low">낮음</string>
+    <string name="legend_good">좋은</string>
+    <string name="legend_bad">나쁨</string>
+    <string name="legend_low_voltage">정상 전압</string>
+    <string name="legend_high_voltage">고전압</string>
+    <string name="legend_mixed_voltage">혼합 전압</string>
+    <string name="legend_metro">지하철</string>
+    <string name="legend_ts_edit">%s (편집 중)</string>
 
 </resources><!--
 ㅡ한글 번역에 대한 안내ㅡ

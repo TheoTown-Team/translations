@@ -1857,7 +1857,7 @@
     <string name="draft_discord_statue00_text">Una estatua de Discord.</string>
     <string name="notify_discord_statue00_title">¡Gracias!</string>
     <string name="notify_discord_statue00_text">Gracias por los %d miembros en nuestro servidor de Discord. ¿Lo quieres visitar ahora?</string>
-    <string name="draftselector_titlebodydisposal">Funeral</string>
+    <string name="draftselector_titlebodydisposal">Entierro</string>
     <string name="draft_roaddeco_protester00_title">Manifestantes falsos</string>
     <string name="draft_roaddeco_protester00_text">Paga a algunas personas para fingir ser unos manifestantes.</string>
     <string name="draft_roaddeco_riot00_title">Alboroto falso</string>
@@ -3682,15 +3682,45 @@ Cuando estés construyendo una carretera, primero presiona el punto de inicio, l
     <string name="gamemenu_catmusic">Música</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s (%d estaciones)</string>
+    <string name="ts_tool_all_routes">%s (%d rutas)</string>
+    <string name="ts_tool_add_random_station">Agregar estación aleatoria</string>
+    <string name="ts_reached_vehicle_limit">No se pueden asignar más de %d vehículos a esta ruta!</string>
+    <string name="musictype_game">Juego</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (predeterminado)</string>
+    <string name="dialog_unlink_steam_title">¿Desvincular cuenta?</string>
+    <string name="dialog_unlink_steam_text">Esto desvincula tu cuenta del foro de tu cuenta de Steam. Esto puede tener efectos secundarios y solo se debe hacer si es necesario. El juego se reiniciará después de desvincular.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Desvincular cuenta</string>
+
+
+    <string name="store_cat_heightmaps">Mapas de altura</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">o correo electrónico</string>
+    <string name="dialog_restore_title">Restaurar Ciudad</string>
+    <string name="dialog_restore_nobackups">No hay copias de seguridad disponibles :(</string>
+    <string name="dialog_restore_current">(activo)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Desbloquea permanentemente los siguientes edificios para su construcción sin necesidad de diamantes.</string>
+    <string name="settings_edge_gradients">Degradados del borde de la pantalla</string>
+    <string name="legend_pipe">Tubería</string>
+    <string name="legend_wet">Húmedo</string>
+    <string name="legend_dry">Seco</string>
+    <string name="legend_protected_buildings">Protegido</string>
+    <string name="legend_density_low">Baja densidad</string>
+    <string name="legend_density_high">Alta densidad</string>
+    <string name="legend_traffic_low">Tráfico bajo</string>
+    <string name="legend_traffic_high">Tráfico alto</string>
+    <string name="legend_happy">Feliz</string>
+    <string name="legend_unhappy">Infeliz</string>
+    <string name="legend_high">Alto</string>
+    <string name="legend_low">Bajo</string>
+    <string name="legend_good">Bueno</string>
+    <string name="legend_bad">Malo</string>
+    <string name="legend_low_voltage">Voltaje normal</string>
+    <string name="legend_high_voltage">Alto voltaje</string>
+    <string name="legend_mixed_voltage">Ambos</string>
+    <string name="legend_metro">Metro</string>
+    <string name="legend_ts_edit">%s (editando)</string>
 
 </resources>

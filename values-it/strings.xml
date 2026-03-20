@@ -3627,15 +3627,45 @@ Tocca la strada da costruire. Poi, dal menu Costruzione, tocca una casella e sel
     <string name="gamemenu_catmusic">Musica</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s (%d stazioni)</string>
+    <string name="ts_tool_all_routes">%s (%d percorsi)</string>
+    <string name="ts_tool_add_random_station">Aggiungi stazione casuale</string>
+    <string name="ts_reached_vehicle_limit">Non è possibile assegnare più di %d veicoli a questo percorso!</string>
+    <string name="musictype_game">Gioco</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (predefinito)</string>
+    <string name="dialog_unlink_steam_title">Scollegare l\'account?</string>
+    <string name="dialog_unlink_steam_text">Questo scollega il tuo account del forum dal tuo account Steam. Questo potrebbe avere effetti collaterali e dovrebbe essere fatto solo se necessario. Il gioco si riavvierà dopo lo scollegamento.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Scollega account</string>
+
+
+    <string name="store_cat_heightmaps">Mappe di altezza</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">o email</string>
+    <string name="dialog_restore_title">Ripristina Città</string>
+    <string name="dialog_restore_nobackups">Nessun backup disponibile :(</string>
+    <string name="dialog_restore_current">(attivo)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Sblocca permanentemente i seguenti edifici per la costruzione senza l\'uso di diamanti.</string>
+    <string name="settings_edge_gradients">Gradazioni del bordo dello schermo</string>
+    <string name="legend_pipe">Tubo</string>
+    <string name="legend_wet">Bagnato</string>
+    <string name="legend_dry">Secco</string>
+    <string name="legend_protected_buildings">Protetto</string>
+    <string name="legend_density_low">Bassa densità</string>
+    <string name="legend_density_high">Alta densità</string>
+    <string name="legend_traffic_low">Traffico leggero</string>
+    <string name="legend_traffic_high">Traffico intenso</string>
+    <string name="legend_happy">Felice</string>
+    <string name="legend_unhappy">Infelice</string>
+    <string name="legend_high">Alto</string>
+    <string name="legend_low">Basso</string>
+    <string name="legend_good">Buono</string>
+    <string name="legend_bad">Cattivo</string>
+    <string name="legend_low_voltage">Tensione normale</string>
+    <string name="legend_high_voltage">Alta tensione</string>
+    <string name="legend_mixed_voltage">Entrambi i voltaggi</string>
+    <string name="legend_metro">Metropolitana</string>
+    <string name="legend_ts_edit">%s (in modifica)</string>
 
 </resources>

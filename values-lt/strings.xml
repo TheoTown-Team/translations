@@ -678,7 +678,7 @@
     <string name="notify_nocomzone">Deklaruokite komercinę zoną, kad mūsų mieste galėtų statyti komercinius pastatus.</string>
     <string name="notify_noindzone">Pramonės pastatai gali statytis mūsų mieste, tačiau pirmiausia turite deklaruoti pramonines zonas.</string>
     <string name="createcity_sizebigbigbig">Milžiniškas</string>
-    <string name="locale">en</string>
+    <string name="locale">lt</string>
     <string name="draft_police02_title">S.W.A.T. Būstinė</string>
     <string name="draft_police02_text">Ši policijos nuovada jūsų mieste padaris tvarką ir tylą.</string>
     <string name="settings_blur">Suliejimas</string>
@@ -1457,8 +1457,8 @@ Jei suteiksite „TheoTown“ prieigą prie išorinės saugyklos, ji išsaugos m
     <string name="draft_draft_crm_text">Nusikalstamumo rodiklis.</string>
     <string name="draft_draft_fire_title">Gaisro pavojus</string>
     <string name="draft_draft_fire_text">Gaisro pavojaus rodiklis.</string>
-    <string name="draft_draft_wp_title">Water pollution</string>
-    <string name="draft_draft_wp_text">Indicator for water pollution.</string>
+    <string name="draft_draft_wp_title">Vandens tarša</string>
+    <string name="draft_draft_wp_text">Indikatorius vandens taršai.</string>
     <string name="draft_draft_plt_title">Tarša</string>
     <string name="draft_draft_plt_text">Taršos rodiklis.</string>
     <string name="draft_draft_prk_title">Parkas</string>
@@ -1478,7 +1478,7 @@ Jei suteiksite „TheoTown“ prieigą prie išorinės saugyklos, ji išsaugos m
     <string name="draft_draft_htr_title">Transporto pasitenkinimas</string>
     <string name="draft_draft_htr_text">Pasitenkinimas dėl transporto.</string>
     <string name="draft_draft_hzn_title">Zonų pasitenkinimas</string>
-    <string name="draft_draft_hzn_text">Happiness about near zones.</string>
+    <string name="draft_draft_hzn_text">Džiaugsmas dėl šalia esančių zonų.</string>
     <string name="draft_draft_hspl_title">Tiekimo pasitenkinimas</string>
     <string name="draft_draft_hspl_text">Pasitenkinimas dėl prieinamos energijos ir vandens.</string>
     <string name="draft_draft_hft_title">Laisvalaikio pasitenkinimas</string>
@@ -1493,7 +1493,7 @@ Jei suteiksite „TheoTown“ prieigą prie išorinės saugyklos, ji išsaugos m
     <string name="draft_draft_hpk_text">Pasitenkinimas dėl parkų.</string>
     <string name="draft_draft_hsp_title">Sporto pasitenkinimas</string>
     <string name="draft_draft_hsp_text">Laimė dėl sporto įstaigų.</string>
-    <string name="draft_draft_hgen_title">General happiness</string>
+    <string name="draft_draft_hgen_title">Bendras laimėjimas</string>
     <string name="draft_draft_hgen_text">Bendras pasitenkinimas.</string>
     <string name="influence_passenger_bus_title">Autobusų transportacija</string>
     <string name="influence_passenger_bus_text">Jei žmonės naudosis autobusais, eismas bus mažesnis.</string>
@@ -1693,7 +1693,7 @@ Jei suteiksite „TheoTown“ prieigą prie išorinės saugyklos, ji išsaugos m
     <string name="draft_flowers00_text">Tiesiog keletas gėlių.</string>
 
     <string name="game_remaining_doubledincometime">Padvigubintas uždarbis %s</string>
-    <string name="draft_taipei101_title">Taipei 101</string>
+    <string name="draft_taipei101_title">Taipeh 101</string>
     <string name="draft_taipei101_text">Taipėjaus „Taipei“ finansinis centras yra Taivano super aukštas dangoraižis. Jis esa 510 metrų aukščio ir buvo aukščiausias pastatas pasaulyje iki 2010 m. Jis buvo baigtas 2004 m.</string>
     <string name="draft_roaddeco_border00_title">kelio stulpas</string>
     <string name="draft_roaddeco_border00_text">Padeda automobiliams sekti kelią.</string>
@@ -2297,364 +2297,373 @@ Prijungę žaidimą prie „TheoTown“ forumo paskyros, galite dalyvauti koment
     <string name="stage_regioncity_playtime">Žaidimo laikas: %1$s</string>
 
 
-    <string name="draft_asphalt03_title">Light asphalt</string>
-    <string name="draft_asphalt04_title">White asphalt</string>
-    <string name="draft_concrete00_text">Some concrete for decorative purposes.</string>
-    <string name="draft_concrete00_title">Concrete</string>
-    <string name="draft_concrete01_title">Stripped concrete</string>
-    <string name="createregion_regionname">Region name:</string>
-    <string name="dialog_regionrules_allowsandbox">Sandbox is allowed.</string>
-    <string name="dialog_regionrules_notallowsandbox">Sandbox is not available here.</string>
-    <string name="dialog_configureregion_rules">Rules</string>
-    <string name="dialog_configureregion_infos">Info</string>
-    <string name="dialog_configureregion_allowplugins">Allow plugins</string>
-    <string name="dialog_configureregion_allowsandbox">Allow sandbox</string>
-    <string name="draft_sandstonetiles00_text">Decorative ground.</string>
-    <string name="draft_sandstonetiles00_title">Sandstone tiles</string>
-    <string name="draft_brick00_title">Brick</string>
-    <string name="draft_woodenpier00_title">Wooden pier</string>
-    <string name="draft_cobblestones00_title">Cobblestone</string>
-    <string name="draft_fancylongtiles00_title">Fancy long tiles</string>
-    <string name="draft_finemarble00_title">Fine marble</string>
-    <string name="settings_nightmode">Night mode</string>
-    <string name="settings_nightmode_day">Day</string>
-    <string name="settings_nightmode_night">Night</string>
-    <string name="settings_nightmode_auto">Auto</string>
+    <string name="draft_asphalt03_title">Šviesus asfaltas</string>
+    <string name="draft_asphalt04_title">Balto asfalto</string>
+    <string name="draft_concrete00_text">Šiek tiek betono dekoratyviniams tikslams.</string>
+    <string name="draft_concrete00_title">Betonas</string>
+    <string name="draft_concrete01_title">Juostuotas betonas</string>
+    <string name="createregion_regionname">Regiono pavadinimas:</string>
+    <string name="dialog_regionrules_allowsandbox">Smėlio dėžės režimas yra leidžiamas.</string>
+    <string name="dialog_regionrules_notallowsandbox">Čia nėra leidžiamas smėlio dėžės režimas.</string>
+    <string name="dialog_configureregion_rules">Taisyklės</string>
+    <string name="dialog_configureregion_infos">Informacija</string>
+    <string name="dialog_configureregion_allowplugins">Leisti įskiepius</string>
+    <string name="dialog_configureregion_allowsandbox">Leisti smėlio dėžės režimą</string>
+    <string name="draft_sandstonetiles00_text">Dekoratyvinė žemė.</string>
+    <string name="draft_sandstonetiles00_title">Smėlio akmenio plytelės</string>
+    <string name="draft_brick00_title">Plytos</string>
+    <string name="draft_woodenpier00_title">Medinė prieplauka</string>
+    <string name="draft_cobblestones00_title">Brukliniai akmenys</string>
+    <string name="draft_fancylongtiles00_title">Prabangios ilgos plytelės</string>
+    <string name="draft_finemarble00_title">Puikus marmuras</string>
+    <string name="settings_nightmode">Nakties režimas</string>
+    <string name="settings_nightmode_day">Diena</string>
+    <string name="settings_nightmode_night">Naktis</string>
+    <string name="settings_nightmode_auto">Automatiškai</string>
     <string name="settings_nightmode_real">real time</string>
-    <string name="settings_rushhour">Rush hour</string>
-    <string name="stage_onlineregion_information">Region information</string>
-    <string name="dialog_configureregion_rules_desc">Here you can define some rules the players of this region have to follow:</string>
-    <string name="dialog_configureregion_infos_desc">Here you can provide some general information about your region:</string>
-    <string name="dialog_regionrules_informationcat">Information</string>
-    <string name="dialog_regionrules_rulescat">Rules</string>
-    <string name="dialog_selectuser_title">Select user</string>
-    <string name="dialog_selectuser_namelabel">User name:</string>
-    <string name="dialog_selectuser_namehint">Enter the user name of another player</string>
-    <string name="dialog_selectuser_cmdselect">Select</string>
-    <string name="dialog_transfercity_title">Transfer ownership</string>
-    <string name="dialog_transfercity_text">Are you sure that you want to transfer the ownership over your city %1$s to %2$s?\n\nYou cannot undo that.</string>
-    <string name="dialog_transfercity_cmdtransfer">Transfer</string>
-    <string name="dialog_transferregion_title">Transfer ownership</string>
-    <string name="dialog_transferregion_text">Are you sure that you want to transfer the ownership over your region %1$s to %2$s?\n\nYou cannot undo that.</string>
-    <string name="dialog_transferregion_cmdtransfer">Transfer</string>
-    <string name="stage_region_reportsubject">the region %1$s</string>
-    <string name="dialog_removeowner_title">Remove owner</string>
-    <string name="dialog_removeowner_text">Are you sure that you want to remove %1$s from this plot?\n\nThis cannot be undone.</string>
-    <string name="dialog_removeowner_cmdremove">Remove</string>
-    <string name="stage_regioncity_lastplayed">Last played: %1$s ago</string>
-    <string name="ci_loan_get_text2">Value: %1$s
-\nTerm: %2$,d months
-\nMonthly costs: %3$s</string>
-    <string name="settings_uianimations">Animations</string>
-    <string name="dialog_configureregion_password">Password</string>
-    <string name="dialog_configureregion_password_desc">Here you can set a new password. Leave it blank to reuse the current one.</string>
-    <string name="dialog_configureregion_enforepassword">Require password</string>
-    <string name="dialog_regionstats_title">Region statistics</string>
-    <string name="ci_energy_produced_short">Produced: %1$,.0fkW</string>
-    <string name="ci_energy_consumed_short">Used: %1$,.0fkW</string>
-    <string name="ci_water_consumed_short">Used: %1$,.0fL/h</string>
-    <string name="ci_water_produced_short">Produced: %1$,.0fL/h</string>
-    <string name="dialog_regionstats_general">General</string>
-    <string name="dialog_regionstats_cities">%1$d / %2$d cities</string>
+    <string name="settings_rushhour">Piko valanda</string>
+    <string name="stage_onlineregion_information">Regiono informacija</string>
+    <string name="dialog_configureregion_rules_desc">Čia galite nustatyti kelias taisykles, kurių šios regiono žaidėjai turės laikytis:</string>
+    <string name="dialog_configureregion_infos_desc">Čia galite pateikti bendrąją informaciją apie savo regioną:</string>
+    <string name="dialog_regionrules_informationcat">Informacija</string>
+    <string name="dialog_regionrules_rulescat">Taisyklės</string>
+    <string name="dialog_selectuser_title">Pasirinkite vartotoją</string>
+    <string name="dialog_selectuser_namelabel">Vartotojo vardas:</string>
+    <string name="dialog_selectuser_namehint">Įveskite kito žaidėjo vartotojo vardą</string>
+    <string name="dialog_selectuser_cmdselect">Pasirinkti</string>
+    <string name="dialog_transfercity_title">Perleisti nuosavybę</string>
+    <string name="dialog_transfercity_text">Ar jūs tikrai norite perleisti savo miesto %1$s nuosavybę %2$s?\n
+\n
+To negalėsite atšaukti.</string>
+    <string name="dialog_transfercity_cmdtransfer">Perkelti</string>
+    <string name="dialog_transferregion_title">Perdavimas nuosavybės</string>
+    <string name="dialog_transferregion_text">Ar jūs tikrai norite perduoti savo regiono %1$s nuosavybę %2$s?\n
+\n
+To negalima bus atšaukti.</string>
+    <string name="dialog_transferregion_cmdtransfer">Perkelti</string>
+    <string name="stage_region_reportsubject">regionas %1$s</string>
+    <string name="dialog_removeowner_title">Pašalinti savininką</string>
+    <string name="dialog_removeowner_text">Ar tikrai norite pašalinti %1$s iš šios sklypo dalies?\n
+\n
+Šis veiksmas negali būti atšauktas.</string>
+    <string name="dialog_removeowner_cmdremove">Pašalinti</string>
+    <string name="stage_regioncity_lastplayed">Paskutinį kartą žaista: prieš %1$s</string>
+    <string name="ci_loan_get_text2">Vertė: %1$s\n
+Trukmė: %2$,d mėnesiai\n
+Mėnesio išlaidos: %3$s</string>
+    <string name="settings_uianimations">Animacijos</string>
+    <string name="dialog_configureregion_password">Slaptažodis</string>
+    <string name="dialog_configureregion_password_desc">Čia galite nustatyti naują slaptažodį. Palikite lauką tuščią, jei norite išlaikyti esamą.</string>
+    <string name="dialog_configureregion_enforepassword">Reikalauti slaptažodžio</string>
+    <string name="dialog_regionstats_title">Regiono statistika</string>
+    <string name="ci_energy_produced_short">Pagaminta: %1$,.0fkW</string>
+    <string name="ci_energy_consumed_short">Naudojama: %1$,.0fkW</string>
+    <string name="ci_water_consumed_short">Naudojama: %1$,.0fL/h</string>
+    <string name="ci_water_produced_short">Pagaminta: %1$,.0fL/h</string>
+    <string name="dialog_regionstats_general">Bendras</string>
+    <string name="dialog_regionstats_cities">%1$d / %2$d miestai</string>
 
 
-    <string name="regionlist_cat_popular">Popular</string>
-    <string name="regionlist_cat_new">New</string>
-    <string name="regionlist_cat_free">Free</string>
-    <string name="regionlist_cat_protected">Protected</string>
-    <string name="regionlist_cat_usercities">Own cities</string>
-    <string name="regionlist_cat_userregions">Own regions</string>
-    <string name="store_cat_other">Other</string>
-    <string name="store_cat_road">Road</string>
-    <string name="store_cat_terrain">Terrain</string>
-    <string name="store_cat_trees">Trees</string>
+    <string name="regionlist_cat_popular">Populiarus</string>
+    <string name="regionlist_cat_new">Naujas</string>
+    <string name="regionlist_cat_free">Nemokama</string>
+    <string name="regionlist_cat_protected">Apsaugota</string>
+    <string name="regionlist_cat_usercities">Savo miestai</string>
+    <string name="regionlist_cat_userregions">Savos regionai</string>
+    <string name="store_cat_other">Kitas</string>
+    <string name="store_cat_road">Kelias</string>
+    <string name="store_cat_terrain">Reljefas</string>
+    <string name="store_cat_trees">Medžiai</string>
     <string name="store_cat_transport">Transport</string>
-    <string name="store_cat_residential">Residential</string>
-    <string name="store_cat_commercial">Commercial</string>
-    <string name="store_cat_industrial">Industrial</string>
-    <string name="store_cat_parks">Parks, Sports and Management</string>
+    <string name="store_cat_residential">Gyvenamieji pastatai</string>
+    <string name="store_cat_commercial">Komercija</string>
+    <string name="store_cat_industrial">Pramonė</string>
+    <string name="store_cat_parks">Parkai, sportas ir valdymas</string>
     <string name="store_cat_supply">Supply (Energy, Water, Waste Disposal)</string>
-    <string name="store_cat_religion">Religion and Culture</string>
-    <string name="store_cat_service">Service (Police, Health Care, Education,...)</string>
-    <string name="store_cat_award">Award and Special</string>
-    <string name="store_cat_decoration">Decorations</string>
-    <string name="store_cat_tool">Tools</string>
-    <string name="store_cat_overlay">Weather and Overlay</string>
+    <string name="store_cat_religion">Religija ir Kultūra</string>
+    <string name="store_cat_service">Paslaugos (Policija, sveikatos priežiūra, švietimas,...)</string>
+    <string name="store_cat_award">Apdovanojimai ir Specialūs</string>
+    <string name="store_cat_decoration">Dekoracijos</string>
+    <string name="store_cat_tool">Įrankiai</string>
+    <string name="store_cat_overlay">Orai ir perdanga</string>
     <string name="store_cat_pack">Packs</string>
-    <string name="store_cat_roaddecoration">Road decoration</string>
-    <string name="store_cat_military">Military</string>
-    <string name="dialog_confirmsendgift_title">Send gift</string>
-    <string name="dialog_confirmsendgift_text">Awesome! You are about to send that gift to %1$s.</string>
-    <string name="settings_category_tools">Tools</string>
+    <string name="store_cat_roaddecoration">Kelių dekoracija</string>
+    <string name="store_cat_military">Kariškasis</string>
+    <string name="dialog_confirmsendgift_title">Siųsti dovaną</string>
+    <string name="dialog_confirmsendgift_text">Puiku! Jūs ruošiatės siųsti tą dovaną %1$s.</string>
+    <string name="settings_category_tools">Įrankiai</string>
     <string name="settings_category_gameplay">Gameplay</string>
-    <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
-    <string name="stage_regioncity_visits">Visits: %1$,d</string>
-    <string name="dialog_missingplugins_total">Used plugins</string>
-    <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
-    <string name="dialog_citygifts_title">Gifts</string>
-    <string name="dialog_citygifts_cmdnew">Send a gift</string>
-    <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
-    <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
-    <string name="dialog_citygifts_typemsg">A message</string>
-    <string name="dialog_citygifts_typeunknown">Unknown</string>
-    <string name="dialog_citygifts_private">(private)</string>
-    <string name="dialog_citygifts_cmdcollect">Collect</string>
-    <string name="dialog_citygifts_nomessage">The sender left no message.</string>
-    <string name="dialog_sendgift_title">Send a gift</string>
-    <string name="dialog_sendgift_cmdsend">Send it</string>
+    <string name="settings_autosavewhenleaving">Automatiškai išsaugoti pasirenkant išeiti iš miesto</string>
+    <string name="stage_regioncity_visits">Apsilankymai: %1$,d</string>
+    <string name="dialog_missingplugins_total">Naudojami įskiepiai</string>
+    <string name="settings_maprenderingnobackground">Permatomasis fonas žemėlapių ekrano kopijose</string>
+    <string name="dialog_citygifts_title">Dovanos</string>
+    <string name="dialog_citygifts_cmdnew">Siųsti dovaną</string>
+    <string name="dialog_citygifts_nogifts_receiver">Dar nepriėmėte jokių dovanų :(</string>
+    <string name="dialog_citygifts_nogifts_other">Būk pirmas, siunčiantis dovaną</string>
+    <string name="dialog_citygifts_typemsg">Pranešimas</string>
+    <string name="dialog_citygifts_typeunknown">Nežinomas</string>
+    <string name="dialog_citygifts_private">(privatus)</string>
+    <string name="dialog_citygifts_cmdcollect">Surinkti</string>
+    <string name="dialog_citygifts_nomessage">Siuntėjas nepaliko jokios žinutės.</string>
+    <string name="dialog_sendgift_title">Siųsti dovaną</string>
+    <string name="dialog_sendgift_cmdsend">Siųsti</string>
     <string name="dialog_sendgift_typetext">Text</string>
-    <string name="dialog_sendgift_typemoney">Money</string>
-    <string name="dialog_sendgift_typediamonds">Diamonds / Region coins</string>
-    <string name="dialog_sendgift_lbltype">Type</string>
-    <string name="dialog_sendgift_lblamount">Amount</string>
-    <string name="dialog_sendgift_lblmessage">Message</string>
-    <string name="dialog_sendgift_messagedesc">Here you can enter a message for the receiver if you want to</string>
-    <string name="dialog_sendgift_lblprivate">Private</string>
-    <string name="dialog_citygifts_reportsubject">the gift by %1$s</string>
-    <string name="dialog_deletegift_title">Delete gift</string>
-    <string name="dialog_deletegift_text">Are you sure that you want to delete this gift? This cannot be undone.</string>
-    <string name="dialog_deletegift_cmd">Delete</string>
+    <string name="dialog_sendgift_typemoney">Pinigai</string>
+    <string name="dialog_sendgift_typediamonds">Diamantai / Regiono monetas</string>
+    <string name="dialog_sendgift_lbltype">Tipas</string>
+    <string name="dialog_sendgift_lblamount">Kiekis</string>
+    <string name="dialog_sendgift_lblmessage">Žinutė</string>
+    <string name="dialog_sendgift_messagedesc">Čia galite įrašyti žinutę gavėjui, jei norite.</string>
+    <string name="dialog_sendgift_lblprivate">Privatus</string>
+    <string name="dialog_citygifts_reportsubject">dovana nuo %1$s</string>
+    <string name="dialog_deletegift_title">Dovaną ištrinti</string>
+    <string name="dialog_deletegift_text">Ar tikrai norite ištrinti šią dovaną? Šio proceso negalima atšaukti.</string>
+    <string name="dialog_deletegift_cmd">Ištrinti</string>
 
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
-    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
-By doing so we can circumvent potential data loss caused by app updates or re-installation.
-\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
+    <string name="dialog_insufficientspace2_text">Jei manote, kad tai klaidinga pranešimo problema, įsitikinkite, kad programai iš tikrųjų yra suteiktas prieigos prie išorinės atminties teisė.</string>
+    <string name="dialog_uploadregiontoobig_title">Įkelti regioną</string>
+    <string name="dialog_uploadregiontoobig_text">Šis regionas yra per didelis, kad būtų įkeltas :/</string>
+    <string name="channel_onlinemode_title">Interneto režimas</string>
+    <string name="channel_onlinemode_text">Nauja informacija apie jūsų miestus internetinėje režime.</string>
+    <string name="dialog_externalstorage_proceedwithout">Tęskite savo pačių rizika</string>
+    <string name="dialog_externalstorage_title">Nėra prieigos prie išorinės atminties</string>
+    <string name="dialog_externalstorage_explanation">TheoTown naudoja išorinio saugojimo leidimą, siekdama įrašyti miestus ir regionus būdu, prieinamu naudotojui. Taip mes galime išvengti galimo duomenų praradimo, sukeltų programos atnaujinimais arba iš naujo įdiegiant. Žaidimas turėtų būti žaidžiamas ir be to leidimo. Tačiau mes neprisiimame atsakomybės už galimą duomenų praradimą ar sugadintą funkcionalumą, atsiradusį dėl vidaus saugojimo naudojimo.</string>
+    <string name="dialog_onlinenotifications_title">Pranešimai</string>
+    <string name="dialog_onlinenotifications_time">Prieš %1$s</string>
+    <string name="dialog_onlinenotifications_empty">Kol kas pranešimų nėra</string>
+    <string name="dialog_onlinenotifications_cmdempty">Pranešimai</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Pranešimai (%1$,d)</string>
+    <string name="dialog_reason_title">Priežastis</string>
+    <string name="dialog_reason_text">Norint tęsti, turite nurodyti šio veiksmo priežastį.</string>
     <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="settings_pushnotificationsonline">Pranešimai apie interneto režimą</string>
+    <string name="settings_verticaltoolbar">Vertikalinė įrankių juosta</string>
+    <string name="settings_darktoolbar">Tamsi įrankių juosta</string>
+    <string name="dialog_tutwelcome_title">Sveiki atvykę į TheoTown</string>
+    <string name="dialog_tutwelcome_text">Dabar pradėsime pamoką ir parodysime pagrindus, kaip statyti savo miestą.\n
+\n
+Jei jau žinote, kaip žaisti, galite praleisti pamoką. Pamoką galite praleisti bet kuriuo metu žaidimo meniu.</string>
+    <string name="dialog_tutwelcome_cmdskip">Praleisti mokymą</string>
+    <string name="dialog_tutwelcome_start">Pradėkime</string>
 
 
     <string name="settings_catplugins">Plugins</string>
-    <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_keys">Klavišai</string>
+    <string name="settings_keys_cmdreset">Nustatyti į pradinę būseną</string>
+    <string name="settings_keys_text">Dabar priskirta: %1$s\n
+Numatytasis: %2$s\n
+\n
+Paspauskite mygtuką, kad priskirtumėte jį šiai veiksmui.</string>
+    <string name="settings_toolbarnames">Rodyti pavadinimus įrankių juostoje</string>
+    <string name="settings_toolbarprices">Rodyti kainas įrankių juostoje</string>
 
 
-    <string name="shader_default2">Default</string>
+    <string name="shader_default2">Numatytasis</string>
 
 
-    <string name="dialog_regionnopermission_title">No access</string>
-    <string name="dialog_regionnopermission_text">The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.</string>
-    <string name="ranger_cmdselecttrees">Select trees</string>
-    <string name="draft_treeplantertool00_title">Tree Planter</string>
-    <string name="draft_treeplantertool00_text">This tool can be used to spawn a variety of trees in a natural and convenient way.</string>
-    <string name="treeplanter_cmdconfigure">Configure</string>
-    <string name="treeplanter_species">Species:</string>
-    <string name="treeplanter_density">Density:</string>
-    <string name="treeplanter_roughness">Roughness:</string>
-    <string name="treeplanter_brushsize">Brush size:</string>
+    <string name="dialog_regionnopermission_title">Nėra prieigos</string>
+    <string name="dialog_regionnopermission_text">Programa neturi prieigos prie išorinės atminties, kurioje būtų saugiai laikoma regionų informacija. Prašome suteikti prieigą prie išorinės atminties, kad būtų galima generuoti regionus.</string>
+    <string name="ranger_cmdselecttrees">Pasirinkite medžius</string>
+    <string name="draft_treeplantertool00_title">Medžių sodintojas</string>
+    <string name="draft_treeplantertool00_text">Šis įrankis gali būti naudojamas norint natūraliai ir patogiai padėti įvairių rūšių medžius.</string>
+    <string name="treeplanter_cmdconfigure">Konfigūruoti</string>
+    <string name="treeplanter_species">Rūšys:</string>
+    <string name="treeplanter_density">Tankis:</string>
+    <string name="treeplanter_roughness">Š roughness: roughness</string>
+    <string name="treeplanter_brushsize">Šepetėlio dydis:</string>
     <string name="treeplanter_outofcash">Out of cash</string>
-    <string name="control_about">About</string>
+    <string name="control_about">Apie</string>
     <string name="about_framework">Framework</string>
-    <string name="control_undo">Undo</string>
-    <string name="control_redo">Redo</string>
-    <string name="toolaction_zoneroad">Add roads</string>
-    <string name="settings_fullscreen_resolution">Fullscreen resolution</string>
-    <string name="settings_tool_history">Undo functionality</string>
+    <string name="control_undo">Atšaukti</string>
+    <string name="control_redo">Pakartoti</string>
+    <string name="toolaction_zoneroad">Pridėti kelių</string>
+    <string name="settings_fullscreen_resolution">Pilno ekrano rezoliucija</string>
+    <string name="settings_tool_history">Atšaukimo funkcionalumas</string>
     <string name="topic_birthday_ja">Su gimtadieniu JustAnyone!</string>
 
 
-    <string name="ci_neighbor_se">SE</string>
-    <string name="ci_neighbor_ne">NE</string>
+    <string name="ci_neighbor_se">PI</string>
+    <string name="ci_neighbor_ne">ŠR</string>
     <string name="ci_neighbor_nw">NW</string>
     <string name="ci_neighbor_sw">SW</string>
-    <string name="dialog_removewithprice_title">Removal costs</string>
-    <string name="dialog_removewithprice_text">The price to remove your selection is %1$s. Do you want to proceed?</string>
+    <string name="dialog_removewithprice_title">Pašalinimo kaina</string>
+    <string name="dialog_removewithprice_text">Kaina pašalinti pasirinkimą yra %1$s. Ar norite tęsti?</string>
 
 
-    <string name="featureselector_doubledincometime">Double income for %1$s</string>
-    <string name="draft_marker_powermarker_text">Coverage with energy. Energy is transported using wires.</string>
-    <string name="draft_marker_waterpipemarker_title">Water</string>
-    <string name="draft_marker_waterpipemarker_text">The coverage with water. Water is transported to your residents using pipes.</string>
-    <string name="stage_files_title">File manager</string>
-    <string name="stage_files_importhere">Import here</string>
-    <string name="stage_files_currentdir">Current folder</string>
-    <string name="stage_files_actions">Actions</string>
-    <string name="stage_files_actionexport">Export</string>
-    <string name="stage_files_actionrename">Rename</string>
-    <string name="stage_files_actionrename_text">Rename file %1$s:</string>
-    <string name="stage_files_renamecollision_title">Naming collision</string>
-    <string name="stage_files_renamecollision_text">The file %1$s does already exist!</string>
-    <string name="stage_files_actiondelete">Delete</string>
-    <string name="stage_files_actiondelete_title">Delete?</string>
-    <string name="stage_files_actiondelete_text">Are you sure that you want to delete %1$s? This cannot be undone!</string>
-    <string name="stage_files_settings">Settings</string>
-    <string name="stage_files_settings_showhiddenfiles">Show hidden files</string>
-    <string name="stage_files_filesize">Size: %1$s</string>
-    <string name="stage_files_helptitle">Help</string>
-    <string name="stage_files_helptext">Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.</string>
-    <string name="unit_sizebytes">%1$,d bytes</string>
+    <string name="featureselector_doubledincometime">Dvigubas pajamų dydis %1$s</string>
+    <string name="draft_marker_powermarker_text">Aprėpimas energija. Energija yra perduodama naudojant laidus.</string>
+    <string name="draft_marker_waterpipemarker_title">Vanduo</string>
+    <string name="draft_marker_waterpipemarker_text">Vandentiekio aprėptis. Vanduo iki gyventojų namų yra perduodamas per vamzdynus.</string>
+    <string name="stage_files_title">Failų tvarkyklė</string>
+    <string name="stage_files_importhere">Importuoti čia</string>
+    <string name="stage_files_currentdir">Dabartinis aplankas</string>
+    <string name="stage_files_actions">Veiksmai</string>
+    <string name="stage_files_actionexport">Eksportuoti</string>
+    <string name="stage_files_actionrename">Pervadinti</string>
+    <string name="stage_files_actionrename_text">Pervadinti failą %1$s:</string>
+    <string name="stage_files_renamecollision_title">Pavadinimų konfliktas</string>
+    <string name="stage_files_renamecollision_text">Failas %1$s jau egzistuoja!</string>
+    <string name="stage_files_actiondelete">Ištrinti</string>
+    <string name="stage_files_actiondelete_title">Ištrinti?</string>
+    <string name="stage_files_actiondelete_text">Ar tikrai norite ištrinti %1$s? Šio veiksmo atšaukti nebebus galima!</string>
+    <string name="stage_files_settings">Nustatymai</string>
+    <string name="stage_files_settings_showhiddenfiles">Rodyti paslėptus failus</string>
+    <string name="stage_files_filesize">Dydis: %1$s</string>
+    <string name="stage_files_helptitle">Pagalba</string>
+    <string name="stage_files_helptext">Sveiki atvykę į TheoTown failų tvarkytuvę. Čia galite pasiekti ir tvarkyti savo žemėlapius, regionus, įskiepius ir t.t.</string>
+    <string name="unit_sizebytes">%1$,d baitai</string>
     <string name="unit_sizekb">%1$,.1f KB</string>
     <string name="unit_sizemb">%1$,.1f MB</string>
     <string name="unit_sizegb">%1$,.1f GB</string>
-    <string name="pluginerror_locateplugin">Locate plugin</string>
-    <string name="stage_files_createfolder">Create folder</string>
-    <string name="stage_files_createfolder_title">New folder</string>
-    <string name="stage_files_createfolder_text">Enter a name for the folder:</string>
-    <string name="stage_files_createfolder_cmdcreate">Create</string>
-    <string name="stage_files_createfoldercollision_title">File exists</string>
-    <string name="stage_files_createfoldercollision_text">The file %1$s does already exist!</string>
-    <string name="tool_terrain_smoothwaterheights">Smooth depth</string>
+    <string name="pluginerror_locateplugin">Rasti įskiepį</string>
+    <string name="stage_files_createfolder">Sukurti aplanką</string>
+    <string name="stage_files_createfolder_title">Naujas aplankas</string>
+    <string name="stage_files_createfolder_text">Įveskite aplanko pavadinimą:</string>
+    <string name="stage_files_createfolder_cmdcreate">Sukurti</string>
+    <string name="stage_files_createfoldercollision_title">Failas egzistuoja</string>
+    <string name="stage_files_createfoldercollision_text">Failas %1$s jau egzistuoja!</string>
+    <string name="tool_terrain_smoothwaterheights">Lygink vandenyno gylį</string>
 
 
-    <string name="stage_files_importherefiles">File(s)</string>
-    <string name="stage_files_importherefolders">Folder</string>
-    <string name="draft_mosque10_title">Hassan II Mosque</string>
+    <string name="stage_files_importherefiles">Failas(-ai)</string>
+    <string name="stage_files_importherefolders">Aplankas</string>
+    <string name="draft_mosque10_title">Hassano II mečetė</string>
     <string name="draft_mosque10_text">The Hassan II Mosque is a mosque in Casablanca, Morocco. It is the largest functioning mosque in Africa and is the 7th largest in the world. Its minaret is the world\'s second tallest minaret at 210 metres (689 ft).Completed in 1993, it was designed by Michel Pinseau under the guidance of King Hassan II and built by Moroccan artisans from all over the kingdom. The minaret is 60 stories high topped by a laser, the light from which is directed towards Mecca.The mosque stands on a promontory looking out to the Atlantic Ocean; worshippers can pray over the sea but there is no glass floor looking into the sea. The walls are of hand-crafted marble and the roof is retractable. A maximum of 105,000 worshippers can gather together for prayer: 25,000 inside the mosque hall and another 80,000 on the mosque\'s outside ground.</string>
-    <string name="dialog_filesrestart_title">Restart</string>
-    <string name="dialog_filesrestart_text">You may have to restart the game for changes to come into effect.\n\nDo you want to restart the game now?</string>
-    <string name="dialog_filesrestart_cmdrestart">Restart</string>
-    <string name="dialog_filesrestart_cmdlater">Later</string>
-    <string name="settings_multiroaddecosupport">Support for multiple road decos</string>
-    <string name="loadcity_uberindicator">(uber)</string>
+    <string name="dialog_filesrestart_title">Perkrauti</string>
+    <string name="dialog_filesrestart_text">Tam, kur keitimai turėtų įsigalioti, gali tekti iš naujo paleisti žaidimą.\n
+\n
+Ar norite iš naujo paleisti žaidimą dabar?</string>
+    <string name="dialog_filesrestart_cmdrestart">Perkrauti</string>
+    <string name="dialog_filesrestart_cmdlater">Vėliau</string>
+    <string name="settings_multiroaddecosupport">Palaikymas kelioms kelio dekoracijoms</string>
+    <string name="loadcity_uberindicator">(uber režimas)</string>
 
 
-    <string name="draft_tunnel_management00_title">Road authority</string>
-    <string name="draft_tunnel_management00_text">Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="draft_tunnel_management00_title_premium">Road authority</string>
-    <string name="draft_tunnel_management00_text_premium">Lets tollbooths generate more income and makes roads cheaper overall in this city.</string>
-    <string name="stage_account_whytoregister">Why to register</string>
-    <string name="stage_account_pro_onlinemode">Participate in online mode regions</string>
-    <string name="stage_account_pro_comment">Comment on plugins and cities</string>
-    <string name="stage_account_pro_synchronize">Synchronizes your currency and purchases</string>
-    <string name="stage_account_con_localcities">Local cities will still be stored locally, only</string>
+    <string name="draft_tunnel_management00_title">Kelių administracija</string>
+    <string name="draft_tunnel_management00_text">Leidžia statyti tunelius be deimantų, padidina pajamas iš mokesčių punktų ir sumažina bendras šio miesto kelių išlaidas.</string>
+    <string name="draft_tunnel_management00_title_premium">Kelių eismo valdymas</string>
+    <string name="draft_tunnel_management00_text_premium">Leidžia rinkliavų punktams generuoti daugiau pajamų ir padaro kelių išlaidas šiame mieste pigesnes.</string>
+    <string name="stage_account_whytoregister">Kodėl reikia užsiregistruoti?</string>
+    <string name="stage_account_pro_onlinemode">Dalyvaukite internetinio režimo regionuose</string>
+    <string name="stage_account_pro_comment">Komentuokite įskiepius ir miestus</string>
+    <string name="stage_account_pro_synchronize">Sinchronizuoja jūsų valiutą ir pirkimus</string>
+    <string name="stage_account_con_localcities">Vietiniai miestai vis dar bus saugomi tik vietoje</string>
 
 
     <string name="draft_discord_statue02_title">Discord 20k</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
-    <string name="settings_smoothzoom_off">Off</string>
-    <string name="settings_smoothzoom_nearest">Blocky</string>
-    <string name="settings_smoothzoom_linear">Blurry</string>
-    <string name="settings_smoothzoom_fast">Fast</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="draft_discord_statue02_text">Naujas statulas, skirtas mūsų 20k narių Discord metinėms švęsti. Šioms metinėms surengėme lobio medžioklę, kurią pirmiausia sėkmingai įveikė mūsų nuostabus narys KolaKattz.</string>
+    <string name="settings_drawpedestrians">Pėstieji</string>
+    <string name="draft_pedestrian_road00_title">Trotuaras</string>
+    <string name="draft_pedestrian_road00_text">Paprasta pėsčiųjų takelis, skirta sujungti artimus pastatus pėstiesiems.</string>
+    <string name="draft_deco_chr_manger00_title">Medinė lizdas</string>
+    <string name="draft_deco_chr_manger00_text">Per didelė atvira dėžė, iš kurios maitinasi arklys, karvės ir kiti gyvūnai.</string>
+    <string name="settings_diagonalroadtool">Pastatykite kelią įstrižai, jei tai įmanoma</string>
+    <string name="settings_smoothzoom">Sklandus priartinimas</string>
+    <string name="settings_smoothzoom_off">Išjungta</string>
+    <string name="settings_smoothzoom_nearest">Pikselinis</string>
+    <string name="settings_smoothzoom_linear">Neryškus</string>
+    <string name="settings_smoothzoom_fast">Greitas</string>
+    <string name="settings_regionoriginbackup">Galimybė atstatyti miestus naujai sugeneruotose regionuose</string>
+    <string name="settings_translateplugins">Versti įskiepius</string>
+    <string name="stage_region_greeter_welcome">Sveiki atvykę į</string>
+    <string name="stage_region_greeter_madewith">Žaidimas sukurtas su</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
+    <string name="settings_darkbuildtool">Tamsus statybos įrankis</string>
     <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
-    <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
-    <string name="draft_tree_spruce00_title">Spruce</string>
-    <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
+    <string name="store_rating">Įvertinimas</string>
+    <string name="store_rating_unrated">NEĮVERTINTA</string>
+    <string name="store_rating_verynegative">LABAI NEIGIAMAS</string>
+    <string name="store_rating_negative">NEIGIAMAS</string>
+    <string name="store_rating_mixed">MAIŠYTAS</string>
+    <string name="store_rating_positive">TEIGIAMAS</string>
+    <string name="store_rating_verypositive">LABAI TEIGIAMA</string>
+    <string name="draft_draft_wst_title">Atliekų šalinimo pasitenkinimas</string>
+    <string name="draft_draft_wst_text">Pasitenkinimas dėl atliekų surinkimo ir šalinimo.</string>
+    <string name="settings_plugin_texture_cache">Įskiepių tekstūrų talpykla</string>
+    <string name="draft_tree_spruce00_title">Pušis</string>
+    <string name="draft_tree_spruce00_text">Pušis yra visžalis spygliuočių medis. Jį galima rasti šiaurinėse temperatūriniuose ir borealiniuose regionuose. Pušis gali augti iki 60 metrų aukščio.</string>
+    <string name="draft_tree_alder00_title">Alksnis</string>
+    <string name="draft_tree_alder00_text">Medis, kuris gali užaugti iki 30 metrų ir atrodo gana įprastai.</string>
+    <string name="stage_gallery_loadingimages">Kraunamos nuotraukos...</string>
     <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
     <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
     <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
 
 
-    <string name="stage_account_pro_gallery">Upload screenshots of your cities to the online gallery</string>
-    <string name="comments_locked">This comment section is locked</string>
-    <string name="comments_cmd_lock">Lock</string>
-    <string name="comments_cmd_unlock">Unlock</string>
-    <string name="store_cat_officialgameextensions">Official Game Extensions</string>
-    <string name="dialog_screenshot_cmdshare">Share</string>
-    <string name="settings_targetfps">Target FPS</string>
-    <string name="settings_targetfps_auto">Auto</string>
-    <string name="dialog_nointernetaccess_title">No connection</string>
-    <string name="dialog_nointernetaccess_text">You seem to be offline. Please check your internet connection and look out for updates.</string>
-    <string name="dialog_nointernetaccess_cmdgotit">Got it</string>
-    <string name="store_modebestrated">Best rated</string>
-    <string name="dialog_pluginqualityunsure_title">Be careful</string>
-    <string name="dialog_pluginqualityunsure_text">The plugin you are about to download did not get many downloads or ratings yet. Therefore, it may not exactly hold up to your expectations.</string>
-    <string name="dialog_pluginqualityunsure_gotit">Got it</string>
-    <string name="dialog_pluginqualityunsure_dontshowagain">Don\'t show again</string>
-    <string name="store_modecertifiedcreators">Certified Creators</string>
-    <string name="ci_rating_help">Here you can see the happiness of your inhabitants. More happiness attract more people to live in your city. Tap on a row to see the corresponding distribution in the city.</string>
-    <string name="ci_rank_help">The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.</string>
-    <string name="ci_loan_help">No money left? You can take a loan to continue building stuff. However, keep in mind that you will have to pay back the loan over time.</string>
-    <string name="ci_health_help">Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.</string>
-    <string name="ci_energy_help">Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.</string>
-    <string name="ci_info_help">Here you see some general information about your city.</string>
-    <string name="ci_education_help">Education is essential for inhabitants to improve their living conditions but also to attract educated workers and investors.</string>
-    <string name="ci_airport_help">This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.</string>
-    <string name="ci_water_help">Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don\'t place water pumps in polluted areas or your inhabitants will get sick.</string>
-    <string name="ci_statistics_help">These graphs can help you to track the development of the city. Use the arrows on the right side to switch between different graphs. The +/- buttons can be used to zoom in and out.</string>
+    <string name="stage_account_pro_gallery">Įkelkite savo miestų nuotraukas į internetinę galeriją</string>
+    <string name="comments_locked">Šis komentarų skyrius yra užrakintas</string>
+    <string name="comments_cmd_lock">Užrakinti</string>
+    <string name="comments_cmd_unlock">Atrakinti</string>
+    <string name="store_cat_officialgameextensions">Oficialūs žaidimo plėtiniai</string>
+    <string name="dialog_screenshot_cmdshare">Dalintis</string>
+    <string name="settings_targetfps">Tikslinė FPS</string>
+    <string name="settings_targetfps_auto">Automatiškai</string>
+    <string name="dialog_nointernetaccess_title">Nėra ryšio</string>
+    <string name="dialog_nointernetaccess_text">Atrodo, kad esate neprisijungęs. Patikrinkite savo interneto ryšį ir ieškokite atnaujinimų.</string>
+    <string name="dialog_nointernetaccess_cmdgotit">Supratau</string>
+    <string name="store_modebestrated">Geriausiai įvertintas</string>
+    <string name="dialog_pluginqualityunsure_title">Būk atsargus</string>
+    <string name="dialog_pluginqualityunsure_text">Įskiepį, kurį ketinate atsisiųsti, dar nėra daugelis atsisiuntę ar įvertinę. Dėl to jis gali neatitikti jūsų lūkesčių.</string>
+    <string name="dialog_pluginqualityunsure_gotit">Supratau</string>
+    <string name="dialog_pluginqualityunsure_dontshowagain">Daugiau nerodyti</string>
+    <string name="store_modecertifiedcreators">Sertifikuoti kūrėjai</string>
+    <string name="ci_rating_help">Čia galite matyti savo gyventojų laimę. Daugiau laimės pritraukia daugiau žmonių gyventi į jūsų miestą. Paspauskite eilutėje, kad pamatytumėte atitinkamą pasiskirstymą mieste.</string>
+    <string name="ci_rank_help">Dabartinis miesto rangas rodo jo vystymosi lygį. Galite gauti miesto taškus, siekdami kitą lygį, pritraukdami daugiau gyventojų ar tiesiog bendrai plėtodami miestą. Atrakinus rangą, galite atrakinti naujus pastatus.</string>
+    <string name="ci_loan_help">Nėra likę pinigų? Galite pasiskolinti, kad tęstumėte statybas. Tačiau atsiminkite, kad su laiku turėsite grąžinti skolą.</string>
+    <string name="ci_health_help">Sveika išlikti didmiestyje gali būti problema. Statykite medicinos įstaigas, kad jūsų gyventojai būtų sveiki ir laimingi.</string>
+    <string name="ci_energy_help">Daug pastatų reikia elektros energijos, kad veiktų. Užtikrinkite, kad gaminate pakankamai energijos, bet ir kad viskas būtų prijungta prie elektros tinklo.</string>
+    <string name="ci_info_help">Čia galite rasti keletą bendros informacijos apie savo miestą.</string>
+    <string name="ci_education_help">Švietimas yra būtinas gyventojams pagerinti gyvenimo sąlygas, bet taip pat pritraukti išsilavinusius darbuotojus ir investuotojus.</string>
+    <string name="ci_airport_help">Tai yra iš esmės jūsų oro eismo kontrolės bokštas, skirtas valdyti jūsų oro uostus. Galite rinktis takus iš žemėlapio, pirkti lėktuvus ir priskirti lėktuvus tiems takams.</string>
+    <string name="ci_water_help">Vanduo yra gyvybiškai svarbus, ir jūsų gyventojai nėra išimtis. Užtikrinkite, kad tiekiate pakankamai vandens ir kad viskas būtų sujungta vamzdžiais. Nevietokite vandens siurblių taršotose vietovėse, nes jūsų gyventojai gali susirgti.</string>
+    <string name="ci_statistics_help">Šios diagramos gali padėti stebėti miesto vystymąsi. Naudokite rodykles dešinėje pusėje, kad perjungtumėte tarp skirtingų diagramų. +/- mygtukai gali būti naudojami priartinimui ir nutolinimui.</string>
 
 
-    <string name="store_cat_shaders">Shaders</string>
-    <string name="draft_cat_streetlights00_title">Street lights</string>
-    <string name="toolaction_roadautodecorations">Use decorations</string>
-    <string name="draft_biomeMaker_open00_title">Ground tool</string>
-    <string name="draft_biomeMaker_open00_text">You can place ground easily by using this tool.</string>
-    <string name="biomemaker_types">Types:</string>
+    <string name="store_cat_shaders">Šešėliai</string>
+    <string name="draft_cat_streetlights00_title">Gatvių apšvietimas</string>
+    <string name="toolaction_roadautodecorations">Naudokite dekoracijas</string>
+    <string name="draft_biomeMaker_open00_title">Grunto įrankis</string>
+    <string name="draft_biomeMaker_open00_text">Galite lengvai padėti gruntą naudodamiesi šiuo įrankiu.</string>
+    <string name="biomemaker_types">Tipai:</string>
 
 
-    <string name="control_save">Save</string>
-    <string name="control_load">Load</string>
-    <string name="draft_biomeMaker_cmdsavepreset">Save Preset</string>
-    <string name="draft_biomeMaker_cmdloadpreset">Load Preset</string>
-    <string name="draft_biomeMaker_cmdreset">Reset Selection</string>
-    <string name="draft_biomeMaker_dialogconfigure_title">Configuration</string>
-    <string name="draft_biomeMaker_ground">Ground</string>
-    <string name="draft_biomeMaker_slope">Slope</string>
-    <string name="draft_biomeMaker_decoration">Decoration</string>
-    <string name="draft_biomeMaker_atground">Build at Ground</string>
-    <string name="draft_biomeMaker_atslope">Build at Slope</string>
-    <string name="draft_biomeMaker_useslope">Use Provided Slope</string>
-    <string name="draft_biomeMaker_nogroundtype">No selected type for group</string>
-    <string name="draft_biomeMaker_noslopetype">No selected type for slope</string>
-    <string name="draft_biomeMaker_nodecotype">No selected type for decorations</string>
-    <string name="draft_biomeMaker_dialogreplace_title">Confirm</string>
-    <string name="draft_biomeMaker_dialogreplace_text">Are you sure you want to replace %s with this set? This cannot be undone.</string>
-    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Proceed</string>
-    <string name="draft_biomeMaker_cmdselect">Select</string>
-    <string name="draft_biomeMaker_toastempty">This was empty</string>
-    <string name="store_recommended_plugin">Recommended plugin</string>
+    <string name="control_save">Išsaugoti</string>
+    <string name="control_load">Krauti</string>
+    <string name="draft_biomeMaker_cmdsavepreset">Išsaugoti nustatymą</string>
+    <string name="draft_biomeMaker_cmdloadpreset">Įkelti išankstinį nustatymą</string>
+    <string name="draft_biomeMaker_cmdreset">Atstatyti pasirinkimą</string>
+    <string name="draft_biomeMaker_dialogconfigure_title">Konfigūracija</string>
+    <string name="draft_biomeMaker_ground">Žemė</string>
+    <string name="draft_biomeMaker_slope">Nuolydis</string>
+    <string name="draft_biomeMaker_decoration">Dekoracija</string>
+    <string name="draft_biomeMaker_atground">Statyti žemėje</string>
+    <string name="draft_biomeMaker_atslope">Statyti ant šlaito</string>
+    <string name="draft_biomeMaker_useslope">Naudoti pateiktą nuolydį</string>
+    <string name="draft_biomeMaker_nogroundtype">Nepasirinktas tipas grupei</string>
+    <string name="draft_biomeMaker_noslopetype">Pasirinkto tipo kalnui nėra</string>
+    <string name="draft_biomeMaker_nodecotype">Pasirinkto dekoracijų tipo nėra</string>
+    <string name="draft_biomeMaker_dialogreplace_title">Patvirtinimas</string>
+    <string name="draft_biomeMaker_dialogreplace_text">Ar tikrai norite pakeisti %s šiuo rinkiniu? Šio veiksmo negalima atšaukti.</string>
+    <string name="draft_biomeMaker_dialogreplace_cmdProceed">Tęsti</string>
+    <string name="draft_biomeMaker_cmdselect">Pasirinkti</string>
+    <string name="draft_biomeMaker_toastempty">Tai buvo tuščia</string>
+    <string name="store_recommended_plugin">Rekomenduojamas įskiepis</string>
 
 
-    <string name="dialog_migratefb_title">Action needed</string>
-    <string name="dialog_migratefb_text">You seem to be logged in using a Facebook account. Unfortunately, this kind of access is deprecated and can no longer be supported.\nPlease login using a forum account to migrate your data.</string>
-    <string name="dialog_migratefb_cmdaccountsettings">Account settings</string>
+    <string name="dialog_migratefb_title">Reikia veikti</string>
+    <string name="dialog_migratefb_text">Atrodo, kad esate prisijungęs naudodamiesi „Facebook“ paskyra. Deja, šis prisijungimo būdas yra pasenęs ir nebegali būti palaikomas.\n
+Prašome prisijungti naudojant forumo paskyrą, kad perkeltumėte savo duomenis.</string>
+    <string name="dialog_migratefb_cmdaccountsettings">Paskyros nustatymai</string>
     <string name="draft_feature_opera00_title">Opera House</string>
     <string name="draft_feature_opera00_text">Unleash the magic of culture with our Cultural Delight Bundle! Experience the grandeur of an Opera House, accompanied by a serene park and enchanting fountain. Elevate your city\'s atmosphere and inspire your citizens with the harmonious blend of music, nature, and artistic allure. Upgrade now and let your city shine as a cultural masterpiece!</string>
     <string name="draft_opera00_title">Operatic Oasis</string>
     <string name="draft_opera00_text">Step into the Melody Manor, your city\'s cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!</string>
     <string name="draft_opera_park00_title">Serene Symphony Park</string>
     <string name="draft_opera_park00_text">Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.</string>
-    <string name="stage_comment_plugin_acquirefirst">Please acquire this plugin first</string>
+    <string name="stage_comment_plugin_acquirefirst">Prašome įsigyti šį priedą pirmiausia</string>
 
     <string name="draft_feature_dsa00_title">DSA</string>
     <string name="draft_feature_dsa00_text">Ši integracija sukuria geresnes tiekimo sistemas, keletą naujų tarnybinių automobilių, naują kelią, kuris yra greitesnis ir pigesnis, naują katastrofą, DSA vėliavas, naujus pastatus, daugybę renginių, ištisą kosmoso dimensiją, naujus metodus kaip užsidirbti pinigų ir daug daugiau.</string>
@@ -2824,567 +2833,413 @@ Press a key to assign it to this action.</string>
     <string name="draft_ja_tinypickle00_text">Atrodos, kad tai yra protinga gyvybės forma.</string>
     <string name="draft_moon_artifact_ja00_title">Svetimas artefaktas</string>
     <string name="draft_moon_artifact_ja00_text">Šio objekto paskirtis nėra aiški.</string>
-    <string name="draft_dsa_research00_title">Advanced supplies</string>
-    <string name="draft_dsa_research00_text">Research new experimental advanced supply systems.</string>
-    <string name="draft_dsa_award00_title">A rock</string>
-    <string name="draft_dsa_award00_text">Now where did this rock come from?</string>
-    <string name="draft_dsadrill_text">Used for gathering valuable resources which are sold for a profit, however be aware of it having ability to cause earthquakes.</string>
+    <string name="draft_dsa_research00_title">Pažangūs atsargų tiekimai</string>
+    <string name="draft_dsa_research00_text">Tyrinėk naujas eksperimentines pažangias prekių tiekimo sistemas.</string>
+    <string name="draft_dsa_award00_title">Akmuo</string>
+    <string name="draft_dsa_award00_text">Iš kur atsirado šis akmuo?</string>
+    <string name="draft_dsadrill_text">Naudojamas vertingų išteklių surinkimui, kurie parduodami su pelnu, tačiau atkreipkite dėmesį, kad tai gali sukelti žemės drebėjimus.</string>
     <string name="draft_dsa_drill_upgrade_no_earthquake_title">Stability upgrade</string>
-    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Upgrade the station to gather resources without interfering with the enviroment.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.</string>
-    <string name="draft_dsa_moon_notify03_text">Oof, sorry for the rough landing. We had to adapt some tech to work on here.</string>
-    <string name="draft_dsa_moon_notify04_text">As you also probably saw, I\'ve transfered 10 million theons to build a small outpost.</string>
-    <string name="draft_dsa_moon_notify05_text">Please spend the funds wisely as it\'s your only shot at this.</string>
-    <string name="draft_dsa_moon_notify06_text">As for further funding, you may attempt exploiting those ore deposits.</string>
-    <string name="draft_dsa_moon_notify07_text">Anyways, good luck, mayor! Remember, you can always return here by finding the map in your single cities list.</string>
-    <string name="draft_dsa_time_machine00_title">Time machine</string>
-    <string name="draft_dsa_time_machine00_text">CLASSIFIED</string>
+    <string name="draft_dsa_drill_upgrade_no_earthquake_text">Patobulinkite stočią, kad surinktumėte išteklius nesukeldami problemų aplinkai.\n
+\n
+Leidžiamas tik vienas patobulinimas tuo pačiu metu. Senesni patobulinimai bus pašalinti.</string>
+    <string name="draft_dsa_moon_notify03_text">Oj, atsiprašau už šiurkštų nusileidimą. Mums teko prisitaikyti prie čia veikiančios technologijos.</string>
+    <string name="draft_dsa_moon_notify04_text">Kaip tikriausiai pastebėjote, pervedžiau 10 milijonų theonų, kad pastatyčiau mažą avantpostą.</string>
+    <string name="draft_dsa_moon_notify05_text">Prašome protingai panaudoti lėšas, nes tai yra jūsų vienintelė galimybė.</string>
+    <string name="draft_dsa_moon_notify06_text">Kalbant apie tolesnį finansavimą, galite bandyti išnaudoti tas rūdžių atsargas.</string>
+    <string name="draft_dsa_moon_notify07_text">Bet kuriuo atveju, sėkmės, merai! Atminkite, kad visada galite grįžti čia rasti žemėlapį savo atskirų miestų sąraše.</string>
+    <string name="draft_dsa_time_machine00_title">Laiko mašina</string>
+    <string name="draft_dsa_time_machine00_text">KLASIFIKUOTA</string>
     <string name="draft_dsa_moon_command00_title">Space Command</string>
-    <string name="draft_dsa_moon_command00_text">Building commanding all local and space operations in the vacinity.</string>
+    <string name="draft_dsa_moon_command00_text">Pastatas, valdantis visas vietos ir kosmines operacijas aplinkui.</string>
     <string name="draft_dsacomingsoon_text">COMING SOON</string>
     <string name="draft_dsa_moon_spaceport_title">Spaceport</string>
-    <string name="draft_dsa_moon_spaceport_text">Building which is used for easy transportation of goods, materials or people in space.</string>
+    <string name="draft_dsa_moon_spaceport_text">Pastatas, kuris naudojamas prekių, medžiagų ar žmonių pervežimui į kosmosą lengviau.</string>
     <string name="draft_dsa_moon_sport00_title">Fitness center</string>
-    <string name="draft_dsa_moon_sport00_text">A place for colonists to remain fit and healthy.</string>
-    <string name="draft_dsa_moon_faith00_title">Holy house</string>
-    <string name="draft_dsa_moon_faith00_text">Building for colonist faith and religion.</string>
-    <string name="draft_moon_recycle00_title">Recycling station</string>
-    <string name="draft_moon_recycle00_text">A station where garbage is recycled back into usable objects or materials.</string>
-    <string name="draft_moon_pipe00_title">Water pipes</string>
-    <string name="draft_moon_pipe00_text">Pipes used to transfer water to your local base.</string>
-    <string name="draft_moon_water00_title">Water station</string>
-    <string name="draft_moon_water00_text">Make water out of bodily fluids of colonists or synthesis.</string>
-    <string name="draft_moon_energy00_title">Solar panels</string>
-    <string name="draft_moon_energy00_text">Convert solar energy to power to light up your base.</string>
-    <string name="draft_moon_wire00_title">Power lines</string>
-    <string name="draft_moon_wire00_text">Wires used to transfer electricity underground to your base.</string>
-    <string name="draft_dsa_moon_road00_title">Rover tracks</string>
-    <string name="draft_dsa_moon_road00_text">Reinforced ground tracks for rovers and other vehicles.</string>
+    <string name="draft_dsa_moon_sport00_text">Vieta kolonistams išlaikyti sveikatą ir kūno formą.</string>
+    <string name="draft_dsa_moon_faith00_title">Šventasis namas</string>
+    <string name="draft_dsa_moon_faith00_text">Pastatymas kolonistų tikėjimo ir religijos reikalams.</string>
+    <string name="draft_moon_recycle00_title">Perdirbimo stotis</string>
+    <string name="draft_moon_recycle00_text">Stotis, kurioje šiukšlės perdirbamos į naudojamus daiktus ar medžiagas.</string>
+    <string name="draft_moon_pipe00_title">Vandentiekio vamzdziai</string>
+    <string name="draft_moon_pipe00_text">Vamzdynai, naudojami vandeniui perduoti į jūsų vietinę bazę.</string>
+    <string name="draft_moon_water00_title">Vandens stotis</string>
+    <string name="draft_moon_water00_text">Gaminkite vandenį iš kolonistų kūno skysčių arba sintezės būdu.</string>
+    <string name="draft_moon_energy00_title">Saulės baterijos</string>
+    <string name="draft_moon_energy00_text">Konvertuokite saulės energiją į elektros energiją, kad apšviestumėte savo bazę.</string>
+    <string name="draft_moon_wire00_title">Elektros linijos</string>
+    <string name="draft_moon_wire00_text">Laidai, naudojami perduoti elektros energiją į jūsų bazę po žeme.</string>
+    <string name="draft_dsa_moon_road00_title">Roverio takos</string>
+    <string name="draft_dsa_moon_road00_text">Sustiprinti žemės takai roveriams ir kitoms transporto priemonėms.</string>
     <string name="draft_dsa_moon_farm_title">Aquaponics</string>
-    <string name="draft_dsa_moon_farm_text">A building with artificial ecosystem designed for food production.</string>
-    <string name="draft_dsa_moon_storage_title">Storage facility</string>
-    <string name="draft_dsa_moon_storage_text">Building where food and other critical supplies are stored.\nContents:\nFood: ${food_storage/10}/${total_food_storage/10}</string>
-    <string name="draft_dsa_helium3_upgrade_title">Export helium 3</string>
-    <string name="draft_dsa_helium3_upgrade_text">Export helium 3 back to Theonia for use in fusion reactors. You\'d export enough Helium 3 for up to ${helium_amount} power plants.</string>
-    <string name="draft_dsa_helium3_upgrade_req_text">Need: Helium 3 mining</string>
-    <string name="draft_dsa_helium3_upgrade_req1_text">Already exported</string>
-    <string name="draft_dsa_dyson_upgrade_title">Dyson sphere</string>
-    <string name="draft_dsa_dyson_upgrade_text">Construct a megastructure around a star which would capture a large percentage of star\'s power output.\nMicrowave antenna will be required to receive power.</string>
-    <string name="draft_dsa_dyson_upgrade_req1_text">Already constructed</string>
-    <string name="draft_dsa_dyson_upgrade_req2_text">Need: ${dyson_progress}/5000 Poccolonum</string>
-    <string name="draft_dsa_moon_drillingstation01_text">Building for gathering and refining Helium 3.</string>
-    <string name="draft_dsa_moon_drillingstation02_text">Building for gathering and refining Genericum.</string>
-    <string name="draft_dsa_moon_drillingstation03_text">Building for gathering and refining Poccolonum.</string>
-    <string name="draft_pidroid_remote_template00_title">Pidroid remote</string>
-    <string name="draft_pidroid_remote_template00_text">Remote used for controlling the Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_text">Build a remote to control the Pidroid.</string>
-    <string name="draft_tool_pidroid_remote00_cmd">Control it!</string>
+    <string name="draft_dsa_moon_farm_text">Pastatas su dirbtine ekosistema, skirta maisto gamybai.</string>
+    <string name="draft_dsa_moon_storage_title">Sandėliavimo įrenginys</string>
+    <string name="draft_dsa_moon_storage_text">Pastatas, kuriame saugomas maistas ir kitos svarbios prekės.\n
+Turinys:\n
+Maistas: ${food_storage/10}/${total_food_storage/10}</string>
+    <string name="draft_dsa_helium3_upgrade_title">Eksportuoti helio 3</string>
+    <string name="draft_dsa_helium3_upgrade_text">Eksportuokite helio 3 atgal į Teoniją, kad jį panaudotumėte branduoliniuose reaktoriuose. Jūs eksportuosite pakankamai Helio 3 iki ${helium_amount} jėgainių.</string>
+    <string name="draft_dsa_helium3_upgrade_req_text">Reikia: Helio 3 kasyba</string>
+    <string name="draft_dsa_helium3_upgrade_req1_text">Jau eksportuota</string>
+    <string name="draft_dsa_dyson_upgrade_title">Dysono sfera</string>
+    <string name="draft_dsa_dyson_upgrade_text">Sukurkite megastruktūrą aplink žvaigždę, kuri sugriebtų didelę dalį žvaigždės energijos išvedimo. Mikrobangų antena bus reikalinga gauti energiją.</string>
+    <string name="draft_dsa_dyson_upgrade_req1_text">Jau pastatyta</string>
+    <string name="draft_dsa_dyson_upgrade_req2_text">Reikia: ${dyson_progress}/5000 Poccolonum</string>
+    <string name="draft_dsa_moon_drillingstation01_text">Pastatas, skirtas surinkti ir perdirbti Helio 3.</string>
+    <string name="draft_dsa_moon_drillingstation02_text">Pastatas Genericum surinkimui ir perdirbimui.</string>
+    <string name="draft_dsa_moon_drillingstation03_text">Pastatas, skirtas Poccolonum rinkimui ir perdirbimui.</string>
+    <string name="draft_pidroid_remote_template00_title">Pidroid nuotolinis valdymas</string>
+    <string name="draft_pidroid_remote_template00_text">Nuotolinio valdymo pultas Pidroid valdymui.</string>
+    <string name="draft_tool_pidroid_remote00_text">Pastatyk nuotolinį valdymą, kad valdytum Pidroidą.</string>
+    <string name="draft_tool_pidroid_remote00_cmd">Valdyk jį!</string>
     <string name="draft_pidroid00_title">Pidroid</string>
-    <string name="draft_pidroid00_text">One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.</string>
-    <string name="draft_picklebparty00_text00_text">Happy Birthday Pickle!</string>
-    <string name="draft_picklebparty00_text01_text">Pickles age like wine</string>
-    <string name="draft_picklebparty00_text02_text">You\'re never too old for a pickle</string>
-    <string name="draft_picklebparty00_text03_text">Congrats, now eat you-flavoured cake</string>
-    <string name="draft_picklebparty00_text04_text">So many candles</string>
+    <string name="draft_pidroid00_text">Vienas iš pažangiausių ir protingiausių kada nors sukurtų robotų, kuris veikia branduolinės energijos dėka. \n
+\n
+PASTABA: dėl saugumo klausimų, šiame modelyje buvo pašalinta dirbtinio intelekto sistema.</string>
+    <string name="draft_picklebparty00_text00_text">Sveikinimai su gimtadieniu, Marinuote!</string>
+    <string name="draft_picklebparty00_text01_text">Agurkai senėja kaip vynas</string>
+    <string name="draft_picklebparty00_text02_text">Niekada neseni per senas dėl marinuoto agurko</string>
+    <string name="draft_picklebparty00_text03_text">Sveikiname, dabar valgykite pyragą su savo skoniu</string>
+    <string name="draft_picklebparty00_text04_text">Tiek daug žvakių</string>
     <string name="draft_picklebparty00_text05_text">Nice</string>
     <string name="draft_picklebparty00_text06_text">Oof</string>
     <string name="draft_picklebparty00_text07_text">Woah</string>
-    <string name="draft_picklebparty00_text08_text">Not knowing what I could do</string>
-    <string name="draft_picklebparty00_opentext00_text">Open me...</string>
-    <string name="draft_picklebparty00_opentext01_text">Please</string>
-    <string name="draft_picklebparty00_opentext02_text">Get me out of here</string>
-    <string name="draft_picklebparty00_opentext03_text">Do it...</string>
-    <string name="draft_picklebparty00_opentext04_text">I\'m trapped</string>
-    <string name="draft_ranoutofmoney_notify00">I see you\'ve ran out of money! I\'m sending the last remaining allocated funds for this project. Spend them wisely!</string>
-    <string name="draft_moon_artifact_upgrade00_title">Investigate the artifact</string>
-    <string name="draft_moon_artifact_upgrade00_text">Investigate the artifact and send the collected data back to HQ for a monetary reward.</string>
-    <string name="draft_space_tree00_title">Cyber trees</string>
-    <string name="draft_space_tree00_text">Some fake trees to keep the colonists happy.</string>
-    <string name="draft_dsa_moon_pickle_rocket00_title">Pickle rocket</string>
-    <string name="draft_dsa_moon_pickle_rocket00_text">A huge rocket specifically designed to fit a lot pickles inside it.</string>
-    <string name="moon_region_unsupported">Unfortunately, moon regions are not yet supported. The city will now close!</string>
-    <string name="draft_space_storyline_cancel00">I\'m sorry, I am unable to tell you anything of interest!</string>
-    <string name="draft_space_storyline_busy00">I\'m sorry, but I have nothing for you at this time.</string>
-    <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!</string>
-    <string name="draft_space_storyline_intro01">Please do not be afraid! We came here with peace.</string>
-    <string name="draft_space_storyline_intro02">Well, crash landed would be more fitting.</string>
-    <string name="draft_space_storyline_intro03">We trust you won\'t hurt us. Do we trust you right?</string>
-    <string name="draft_space_storyline_intro_refused00">Very well. You may do whatever you want to us, however we won\'t tell you anything.</string>
-    <string name="draft_space_storyline_intro_affirmed00">That\'s great. Allow me to introduce myself.</string>
-    <string name="draft_space_storyline_intro_affirmed01">I am GenericGiantPickleLeader#01 - leader of the Cucumber galaxy.</string>
-    <string name="draft_space_storyline_intro_affirmed02">All we need is a little help. In return you may have all our knowledge.</string>
-    <string name="draft_space_storyline_intro_affirmed03">I\'ll tell you the exact details later, I need to rest now.</string>
-    <string name="draft_space_storyline_stage_2_00">You came back? Good, we thought you ran away!</string>
-    <string name="draft_space_storyline_stage_2_01">We want to see if you have the willpower and what it takes for the task.</string>
-    <string name="draft_space_storyline_stage_2_02">Destroy all the mining stations which are destroying this fine place!</string>
-    <string name="draft_space_storyline_stage_2_notdone">I can still see some mining stations running, come back again when they are all offline.</string>
-    <string name="draft_space_storyline_stage_3_00">I understand that you rely on those ores for resources...</string>
-    <string name="draft_space_storyline_stage_3_01">But have you ever thought of investing in those strange structures, instead?</string>
-    <string name="draft_space_storyline_stage_3_02">Resources are limited, knowledge isn\'t.</string>
-    <string name="draft_space_storyline_stage_3_03">How about you give that a try, eh?</string>
-    <string name="draft_space_storyline_stage_3_04">Come on, give researching artifacts a try!</string>
-    <string name="draft_space_storyline_stage_4_00">Nice, nice</string>
-    <string name="draft_space_storyline_stage_4_01">We\'ve come to realisation that I need some things...</string>
-    <string name="draft_space_storyline_stage_4_02">Namely, Poccolonum, a very nice resources that we will use later.</string>
-    <string name="draft_space_storyline_stage_4_03">Just build a mining station on top of some of the green ore.</string>
-    <string name="draft_space_storyline_stage_4_04">We\'ll take the ore for our project ourselves.</string>
-    <string name="draft_space_storyline_stage_4_05">Don\'t be shy now, build a Poccolonum mine!</string>
-    <string name="draft_space_storyline_stage_5_00">I am once again asking for your financial support</string>
-    <string name="draft_space_storyline_stage_5_01">I need all of that thing you call theons.</string>
-    <string name="draft_space_storyline_stage_5_02">Can you give me all your theons?</string>
-    <string name="draft_space_storyline_stage_5_02_refused">Too bad, hope you can change your mind later.</string>
-    <string name="draft_space_storyline_stage_5_03">Trust me, I\'ll put it to good use.</string>
-    <string name="draft_space_storyline_stage_7_00">I have one last favour, mayor</string>
-    <string name="draft_space_storyline_stage_7_01">I assume you are familiar with rocket construction</string>
-    <string name="draft_space_storyline_stage_7_02">Could you construct a rocket according to these schematics?</string>
-    <string name="draft_space_storyline_stage_7_03">Being the generous pickle that I am, I\'ve gotten all resources for it</string>
-    <string name="draft_space_storyline_stage_7_04">What do ya say?</string>
-    <string name="draft_space_storyline_stage_7_04_notyetbuilt">I see the rocket construction is still underway</string>
-    <string name="draft_space_storyline_stage_8_00">I\'m afraid this is the last time we\'re seeing each other.</string>
-    <string name="draft_space_storyline_stage_8_01">We are now ready to return to our home galaxy and rebuild it, provided that there\'s something left.</string>
-    <string name="draft_space_storyline_stage_8_02">We will now hustle our way to the rocket.</string>
-    <string name="draft_space_storyline_stage_8_cutscene">Pickles board the plane</string>
-    <string name="draft_space_storyline_ending_00">Guess this is it. Thank you very much for helping us.</string>
-    <string name="draft_space_storyline_ending_01">In return, we would like to give you this storage medium.</string>
-    <string name="draft_space_storyline_ending_02">It contains all of our recorded knowledge.</string>
-    <string name="draft_space_storyline_ending_03">Once you\'re ready, initiate the launch.</string>
-    <string name="draft_space_storyline_ending_04">Farewell, friends!</string>
-    <string name="draft_space_storyline_ending_cutscene">The rocket takes off</string>
+    <string name="draft_picklebparty00_text08_text">Nežinau, ką galėčiau padaryti</string>
+    <string name="draft_picklebparty00_opentext00_text">Atidaryk mane...</string>
+    <string name="draft_picklebparty00_opentext01_text">Prašau</string>
+    <string name="draft_picklebparty00_opentext02_text">Iškelk mane iš čia</string>
+    <string name="draft_picklebparty00_opentext03_text">Daryk tai...</string>
+    <string name="draft_picklebparty00_opentext04_text">Aš įstrigau</string>
+    <string name="draft_ranoutofmoney_notify00">Matau, kad tau baigėsi pinigai! Siunčiu paskutinius šiam projektui skirtus lėšas. Leisk juos protingai!</string>
+    <string name="draft_moon_artifact_upgrade00_title">Ištirkite artefaktą</string>
+    <string name="draft_moon_artifact_upgrade00_text">Ištirkite artefaktą ir nusiųskite surinktus duomenis į pagrindinę bazę už finansinį atlyginimą.</string>
+    <string name="draft_space_tree00_title">Siberiniai medžiai</string>
+    <string name="draft_space_tree00_text">Kai kurie dirbtiniai medžiai kolonistų nuotaikai palaikyti.</string>
+    <string name="draft_dsa_moon_pickle_rocket00_title">Agurkų raketa</string>
+    <string name="draft_dsa_moon_pickle_rocket00_text">Milžiniška raketa, specialiai suprojektuota, kad į ją tilptų daug agurkų.</string>
+    <string name="moon_region_unsupported">Deja, mėnulio regionai kol kas nepalaikomi. Miestas dabar užsidarys!</string>
+    <string name="draft_space_storyline_cancel00">Atsiprašau, bet negaliu jums papasakoti nieko įdomaus!</string>
+    <string name="draft_space_storyline_busy00">Atsiprašau, bet šiuo metu neturiu jums ką pasakyti.</string>
+    <string name="draft_space_storyline_intro00">Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴à͓̪͔̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o č̶̡̩͔̗̉̿̉i̶̻̪̠͛ă̶̛̮̤̠̲̚!</string>
+    <string name="draft_space_storyline_intro01">Prašome nebūti bijantys! Mes čia atvykome su taika.</string>
+    <string name="draft_space_storyline_intro02">Na, labiau tinkamas būtų terminas "nusileido avarijos būdu".</string>
+    <string name="draft_space_storyline_intro03">Mes tikimės, kad jūs mums nepakenksite. Ar teisingai pasitikime jumis?</string>
+    <string name="draft_space_storyline_intro_refused00">Labai gerai. Galite su mumis daryti, ką tik norite, tačiau mes jums nieko nesakysime.</string>
+    <string name="draft_space_storyline_intro_affirmed00">Puiku. Leisk man prisistatyti.</string>
+    <string name="draft_space_storyline_intro_affirmed01">Aš esu GenericGiantPickleLeader#01 - agurkų galaktikos lyderis.</string>
+    <string name="draft_space_storyline_intro_affirmed02">Viskas, ko mums reikia, yra truputėlis pagalbos. Atsilyginsime visu mūsų žinių turtu.</string>
+    <string name="draft_space_storyline_intro_affirmed03">Aš tau pasakysiu tikslias smulkmenas vėliau, dabar man reikia ilsėtis.</string>
+    <string name="draft_space_storyline_stage_2_00">Grįžai? Gerai, mes manėme, kad pabėgai!</string>
+    <string name="draft_space_storyline_stage_2_01">Norime matyti, ar turite valios ir viską, ko reikia užduoties atlikimui.</string>
+    <string name="draft_space_storyline_stage_2_02">Sunaikinkite visas kasybos stotis, kurios niokoja šią nuostabią vietą!</string>
+    <string name="draft_space_storyline_stage_2_notdone">Aš vis dar matau veikiančias kasybos stotis, grįžk, kai jos visos bus išjungtos.</string>
+    <string name="draft_space_storyline_stage_3_00">Suprantu, kad priklausi nuo tų rūdų dėl išteklių...</string>
+    <string name="draft_space_storyline_stage_3_01">Bet kada pagalvojote investuoti į tas keistas struktūras?</string>
+    <string name="draft_space_storyline_stage_3_02">Ištekliai yra riboti, bet žinios ne.</string>
+    <string name="draft_space_storyline_stage_3_03">Kaip būtų, jei pabandytum tai, ah?</string>
+    <string name="draft_space_storyline_stage_3_04">Pabandyk tyrinėti artefaktus!</string>
+    <string name="draft_space_storyline_stage_4_00">Gerai, gerai</string>
+    <string name="draft_space_storyline_stage_4_01">Mes supratome, kad man reikia kai kurių dalykų...</string>
+    <string name="draft_space_storyline_stage_4_02">Tai yra Poccolonum, labai naudingas išteklius, kurio vėliau naudosimės.</string>
+    <string name="draft_space_storyline_stage_4_03"> tiesiog pastatyk kasybos stotį ant kai kurių žaliosios rūdos.</string>
+    <string name="draft_space_storyline_stage_4_04">Mes pačios pasiimsime rūdą mūsų projektui.</string>
+    <string name="draft_space_storyline_stage_4_05">Nedvejok dabar, pastatyk Poccolonum kasyklą!</string>
+    <string name="draft_space_storyline_stage_5_00">Aš vėl prašau jūsų finansinės paramos.</string>
+    <string name="draft_space_storyline_stage_5_01">Man reikia visko to, ką jūs vadinate teonais.</string>
+    <string name="draft_space_storyline_stage_5_02">Ar gali man atiduoti visus savo teonus?</string>
+    <string name="draft_space_storyline_stage_5_02_refused">Gaila, tikiuosi, kad vėliau galėsite pakeisti savo nuomonę.</string>
+    <string name="draft_space_storyline_stage_5_03">Pasitikėk manimi, aš tai panaudosiu protingai.</string>
+    <string name="draft_space_storyline_stage_7_00">Turiu dar vieną prašymą, mero</string>
+    <string name="draft_space_storyline_stage_7_01">Manau, kad jums pažįstama raketų konstrukcija</string>
+    <string name="draft_space_storyline_stage_7_02">Ar galėtumėte pastatyti raketą pagal šiuos brėžinius?</string>
+    <string name="draft_space_storyline_stage_7_03">Atsižvelgdamas į tai, kokios dosnios agurkėlės esu, aš gavau visus reikalingus išteklius</string>
+    <string name="draft_space_storyline_stage_7_04">Ką tu pasakysi?</string>
+    <string name="draft_space_storyline_stage_7_04_notyetbuilt">Matau, kad raketos statyba vis dar vyksta</string>
+    <string name="draft_space_storyline_stage_8_00">Bijau, kad tai paskutinis kartas, kai matome vienas kitą.</string>
+    <string name="draft_space_storyline_stage_8_01">Dabar esame pasirengę grįžti į savo gimtąją galaktiką ir ją atstatyti, jei ten dar kažko liko.</string>
+    <string name="draft_space_storyline_stage_8_02">Dabar mes kibsimės prie raketo.</string>
+    <string name="draft_space_storyline_stage_8_cutscene">Agurkai liptasi į lėktuvą</string>
+    <string name="draft_space_storyline_ending_00">Manau, kad tai yra pabaiga. Labai ačiū, kad mums padėjote.</string>
+    <string name="draft_space_storyline_ending_01">Atsidėkui, norėtume tau padovanoti šią atminties laikmeną.</string>
+    <string name="draft_space_storyline_ending_02">Tai talpina visą mūsų įrašytą žinių.</string>
+    <string name="draft_space_storyline_ending_03">Kai būsi pasiruošęs, pradėk paleidimą.</string>
+    <string name="draft_space_storyline_ending_04">Viso gero, draugai!</string>
+    <string name="draft_space_storyline_ending_cutscene">Raketa skrenda į viršų</string>
     <string name="draft_dsa_park00_title">Akial square</string>
     <string name="draft_dsa_park00_text">A tribute to the first animal ever launched into Earth orbit.</string>
     <string name="draft_rocket_akial_requirement">Need: Animal carriage test</string>
 
-    <string name="draft_space_storyline_stage_4_06">Oh, you don\'t have any available? Let me do a magic trick...</string>
-    <string name="draft_tollbooth00_passedbycars">Passed by cars: </string>
-    <string name="draft_tollbooth00_chargedmoney">Charged money: </string>
-    <string name="draft_tollbooth00_setup">Here you can setup the amount to charge.</string>
-    <string name="draft_cat_monorail00_title">Monorail</string>
-    <string name="draft_tool_car_follower00_novehicle">No drivable vehicle available.</string>
-    <string name="forum_cmddelete">Delete account</string>
-    <string name="settings_modifymouse">Modify cursor</string>
-    <string name="settings_cursorstyle">Cursor style</string>
-    <string name="settings_cursorstyle_default">Default</string>
-    <string name="settings_cursorstyle_dark">Dark</string>
-    <string name="settings_cursorstyle_blue">Blue</string>
+    <string name="draft_space_storyline_stage_4_06">O, neturite jokių prieinamų? Leiskite man padaryti magišką triuką...</string>
+    <string name="draft_tollbooth00_passedbycars">Praeivę automobiliai:</string>
+    <string name="draft_tollbooth00_chargedmoney">Apskaičiuota suma:</string>
+    <string name="draft_tollbooth00_setup">Čia galite nustatyti kiek sumą surinkti.</string>
+    <string name="draft_cat_monorail00_title">Vienbėgis</string>
+    <string name="draft_tool_car_follower00_novehicle">Nėra važiuojamų transporto priemonių.</string>
+    <string name="forum_cmddelete">Ištrinti paskyrą</string>
+    <string name="settings_modifymouse">Keisti žymeklį</string>
+    <string name="settings_cursorstyle">Kursoriaus stilius</string>
+    <string name="settings_cursorstyle_default">Numatytasis</string>
+    <string name="settings_cursorstyle_dark">Tamsus</string>
+    <string name="settings_cursorstyle_blue">Mėlyna</string>
     <string name="settings_cursorstyle_gold">Gold</string>
-    <string name="shop_restore">Restore previous purchases</string>
-    <string name="shop_restored_dialog_title">Purchases restored</string>
-    <string name="shop_restored_dialog_text">All of your previous purchases have been restored. You may have to restart the game in order to see an effect.</string>
-    <string name="dialog_seeds_title">Built-in Seeds</string>
-    <string name="settings_keys_cmdunassign">Unassign</string>
-    <string name="control_apply">Apply</string>
-    <string name="stage_createcity_biomes">Biomes...</string>
-    <string name="dialog_biomes_title">Biomes</string>
-    <string name="dialog_biomes_cmdselectall">All</string>
-    <string name="dialog_biomes_cmdunselectall">None</string>
-    <string name="settings_ground_blending">Ground blending</string>
-    <string name="draft_biome_aspen_forest00_title">Aspen forest</string>
-    <string name="draft_biome_deciduous_forest00_title">Deciduous forest</string>
-    <string name="draft_biome_coniferous_forest00_title">Coniferous forest</string>
-    <string name="draft_biome_mixed_forest00_title">Mixed forest</string>
-    <string name="draft_biome_boreal_forest00_title">Boreal forest</string>
-    <string name="draft_biome_redwood_forest00_title">Redwood forest</string>
-    <string name="draft_biome_desert00_title">Desert</string>
-    <string name="draft_biome_snow00_title">Snow</string>
-    <string name="draft_biome_rainforest00_title">Rainforest</string>
-    <string name="draft_biome_coast00_title">Coast</string>
-    <string name="draft_biome_grassland00_title">Grassland</string>
+    <string name="shop_restore">Atkurti ankstesnius pirkimus</string>
+    <string name="shop_restored_dialog_title">Pirkimai atkurti</string>
+    <string name="shop_restored_dialog_text">Visi jūsų ankstesni pirkimai buvo atstatyti. Galbūt turėsite iš naujo paleisti žaidimą, kad pamatytumėte poveikį.</string>
+    <string name="dialog_seeds_title">Įmontuotos sėklos</string>
+    <string name="settings_keys_cmdunassign">Atšaukti priskyrimą</string>
+    <string name="control_apply">Taikyti</string>
+    <string name="stage_createcity_biomes">Biomas...</string>
+    <string name="dialog_biomes_title">Biomas</string>
+    <string name="dialog_biomes_cmdselectall">Visi</string>
+    <string name="dialog_biomes_cmdunselectall">Komanda atžymėti viską</string>
+    <string name="settings_ground_blending">Žemės sujungimas</string>
+    <string name="draft_biome_aspen_forest00_title">Ašmenų miškas</string>
+    <string name="draft_biome_deciduous_forest00_title">Lapuotasis miškas</string>
+    <string name="draft_biome_coniferous_forest00_title">Pušynas</string>
+    <string name="draft_biome_mixed_forest00_title">Mišrūs miškai</string>
+    <string name="draft_biome_boreal_forest00_title">Borėalinis miškas</string>
+    <string name="draft_biome_redwood_forest00_title">Raudonmedžių miškas</string>
+    <string name="draft_biome_desert00_title">Dykyne</string>
+    <string name="draft_biome_snow00_title">Sniegas</string>
+    <string name="draft_biome_rainforest00_title">Atogrąžų miškas</string>
+    <string name="draft_biome_coast00_title">Pakrantė</string>
+    <string name="draft_biome_grassland00_title">Žolynų žemė</string>
     <string name="draft_biome_steppe00_title">Steppe</string>
-    <string name="draft_biome_flowerygrassland00_title">Flowery grassland</string>
+    <string name="draft_biome_flowerygrassland00_title">Gėlių pieva</string>
     <string name="draft_biome_sakura00_title">Sakura</string>
-    <string name="draft_biome_cursedland00_title">Cursed land</string>
+    <string name="draft_biome_cursedland00_title">Prakeiktas kraštas</string>
     <string name="draft_ground_asphalt00_title">Asphalt</string>
-    <string name="draft_ground_asphalt00_text">Perfect surface for cars and other vehicles alike.</string>
-    <string name="draft_ground_concrete00_title">Concrete</string>
-    <string name="draft_ground_concrete00_text">A healthy dose of concreteosis.</string>
-    <string name="draft_ground_sandstone00_title">Sandstone</string>
-    <string name="draft_ground_sandstone00_text">Sunny sandstone block surface.</string>
-    <string name="draft_ground_dirt00_title">Dirt</string>
-    <string name="draft_ground_dirt00_text">Extra dirty base soil.</string>
-    <string name="draft_ground_wildgrass00_title">Wild grass</string>
-    <string name="draft_ground_wildgrass00_text">Sun-dried wild grass. Perfect for vast plains or grasslands.</string>
-    <string name="draft_ground_darkgrass00_title">Dark grass</string>
-    <string name="draft_ground_darkgrass00_text">Shady grass from the deep woods.</string>
-    <string name="draft_ground_rockysand00_title">Rocky sand</string>
-    <string name="draft_ground_rockysand00_text">Coarse sand mixed with small rocks.</string>
-    <string name="draft_ground_forestgrass00_title">Forest grass</string>
-    <string name="draft_ground_forestgrass00_text">Moist, lush grass. Perfect for wild forests.</string>
-    <string name="draft_ground_cursedland00_title">Cursed land</string>
-    <string name="draft_ground_cursedland00_text">We were told IT lives here.</string>
-    <string name="draft_tree_linden00_title">Linden</string>
-    <string name="draft_tree_linden00_text">A deciduous tree species commonly used for ornamental purposes.</string>
-    <string name="draft_tree_aspen00_title">Aspen</string>
-    <string name="draft_tree_aspen00_text">Tall, orange-leaved trees that mostly thrive in colder climates.</string>
-    <string name="draft_tree_fir00_title">Fir</string>
-    <string name="draft_tree_fir00_text">Decorative evergreen conifers that are often used as Christmas trees.</string>
-    <string name="draft_foliage_bushes00_title">Bushes</string>
-    <string name="draft_foliage_bushes00_text">Mixed small bush species. Great for parks and forests alike.</string>
-    <string name="draft_ancient_temple00_title">Ancient temple</string>
-    <string name="draft_ancient_temple00_text">The path forward will not reveal itself to the weak. Venture forth with strength.</string>
-    <string name="tut_plugins00">You will see, we have plenty of contents. Take your time to explore them all. After that, you may be ready to visit our plugin store to unlock thousands of additional contents.</string>
-    <string name="region_unlock_immediately">Unlock instantly</string>
-    <string name="dialog_unlockcity_im_title">Unlock Instant City</string>
-    <string name="dialog_unlockcity_im_text">Ready to dive into the fun? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let\'s build some epic cities together!</string>
-    <string name="draft_dirt_track_00_title">Dirt track</string>
-    <string name="draft_dirt_track_00_text">Compacted dirt road. Cheap, but slow to move on. Great for rural areas.</string>
-    <string name="draft_lookout_tower00_title">Lookout tower</string>
-    <string name="draft_lookout_tower00_text">Look out! A wooden lookout tower that can for example be used to watch out for fires.</string>
-    <string name="draft_boulders00_title">Boulders</string>
-    <string name="draft_boulders00_text">Huge rock formation of assorted shapes.</string>
-    <string name="draft_highway_sign00_title">Highway Sign</string>
-    <string name="draft_highway_sign00_text">Navigate with style using Highway Signs for your city roads.</string>
-    <string name="draft_road05_ramp00_title">Highway ramp (one-way)</string>
-    <string name="draft_road05_ramp00_text">Connect highways with slower roads or create elaborate interections with this one-way road.</string>
-    <string name="settings_units">Units</string>
-    <string name="settings_units_auto">Auto (%s)</string>
-    <string name="settings_units_metric">Metric (e.g. km)</string>
-    <string name="settings_units_imperial">Imperial (e.g. mi)</string>
-    <string name="draft_fence_tallwooden00_title">Tall wooden fence</string>
-    <string name="draft_fence_tallwooden00_text">To keep the intruders away.</string>
-    <string name="draft_fence_chainlink00_title">Chainlink fence</string>
-    <string name="draft_fence_chainlink00_text">Tall fence made of metal mesh.</string>
-    <string name="draft_fence_metalrailing00_title">Metal railing</string>
-    <string name="draft_fence_metalrailing00_text">A short, black railing to protect pedestrians.</string>
-    <string name="draft_fence_guardrail00_title">Guardrail</string>
-    <string name="draft_fence_guardrail00_text">Keep yourself safe with these metallic traffic barriers.</string>
+    <string name="draft_ground_asphalt00_text">Puiki paviršiaus struktūra automobiliams ir kitoms transporto priemonėms.</string>
+    <string name="draft_ground_concrete00_title">Betonas</string>
+    <string name="draft_ground_concrete00_text">Sveika dozė betonoze.</string>
+    <string name="draft_ground_sandstone00_title">Smiltainis</string>
+    <string name="draft_ground_sandstone00_text">Saulėje išdžiuvusių smėlio akmenų bloko paviršius.</string>
+    <string name="draft_ground_dirt00_title">Žemė</string>
+    <string name="draft_ground_dirt00_text">Ypač purvinas pagrindo dirvožemis.</string>
+    <string name="draft_ground_wildgrass00_title">Laukinė žolė</string>
+    <string name="draft_ground_wildgrass00_text">Saulėje išdžiovintas laukinis žolynas. Puikiai tinka plačioms lygumoms ar pievoms.</string>
+    <string name="draft_ground_darkgrass00_title">Tamsi žolė</string>
+    <string name="draft_ground_darkgrass00_text">Šešėlinė žolė iš gilųjų miškų.</string>
+    <string name="draft_ground_rockysand00_title">Uolėtas smėlis</string>
+    <string name="draft_ground_rockysand00_text">Smėlis, sumaišytas su mažais akmenimis.</string>
+    <string name="draft_ground_forestgrass00_title">Miško žolė</string>
+    <string name="draft_ground_forestgrass00_text">Drėgna, sodri žolė. Puikiai tinka laukinėms miškų vietovėms.</string>
+    <string name="draft_ground_cursedland00_title">Prakeiktas žemės plotas</string>
+    <string name="draft_ground_cursedland00_text">Mums pasakė, kad JIS čia gyvena.</string>
+    <string name="draft_tree_linden00_title">Liepa</string>
+    <string name="draft_tree_linden00_text">Lapuotis medžių rūšis, dažnai naudojama dekoravimo tikslais.</string>
+    <string name="draft_tree_aspen00_title">Ažuolas</string>
+    <string name="draft_tree_aspen00_text">Aukšti, oranžinių lapų medžiai, kurie daugiausiai klesti šaltesnėse klimato zonose.</string>
+    <string name="draft_tree_fir00_title">Eglinė</string>
+    <string name="draft_tree_fir00_text">Dekoratyviniai visžaliai spygliuočiai, dažnai naudojami kaip Kalėdų eglutės.</string>
+    <string name="draft_foliage_bushes00_title">Krūmai</string>
+    <string name="draft_foliage_bushes00_text">Įvairių mažų krūmų rūšys. Puikiai tinka parkams ir miškams.</string>
+    <string name="draft_ancient_temple00_title">Senovinis šventykla</string>
+    <string name="draft_ancient_temple00_text">Kelias pirmyn nesireikš silpniems. Žygiuok toliau su jėga.</string>
+    <string name="tut_plugins00">Matysi, turime daugybę turinio. Skirk laiko viską išnagrinėti. Po to, gali būsi pasiruošęs aplankyti mūsų priedų parduotuvę ir atrakinti tūkstančius papildomų turinių.</string>
+    <string name="region_unlock_immediately">Atrakinti nedelsiant</string>
+    <string name="dialog_unlockcity_im_title">Atrakinkite miestą iškart</string>
+    <string name="dialog_unlockcity_im_text">Pasiruošęs įsitraukti į linksmybes? Atrakinkite šią nuostabią zoną dabar ir pradėkite savo nuosavą miesto nuotykį be jokio laukimo gyventojų reikalavimams.\n
+\n
+Daugiau nereikia laukti - kartu kurkime epines miestus!</string>
+    <string name="draft_dirt_track_00_title">Žvyrkelis</string>
+    <string name="draft_dirt_track_00_text">Sutankinto žemės takas. Pigus, bet judėjimas lėtas. Puikiai tinka kaimo vietovėms.</string>
+    <string name="draft_lookout_tower00_title">Apžvalgos bokštas</string>
+    <string name="draft_lookout_tower00_text">Saugokitės! Medinis apžvalgos bokštas, kuris pavyzdžiui, gali būti naudojamas stebėti gaisrus.</string>
+    <string name="draft_boulders00_title">Uolos</string>
+    <string name="draft_boulders00_text">Didelių uolų formacijos įvairių formų.</string>
+    <string name="draft_highway_sign00_title">Greitkelio Ženklas</string>
+    <string name="draft_highway_sign00_text">Naudokitės stiliaus kelių ženklais savo miesto keliuose.</string>
+    <string name="draft_road05_ramp00_title">Greitkelio įvažiavimas (vienakryptė)</string>
+    <string name="draft_road05_ramp00_text">Sujunkite greitkelius su lėtesniais keliais arba sukurkite sudėtingus sankryžos su šia vienpusia gatve.</string>
+    <string name="settings_units">Vienetai</string>
+    <string name="settings_units_auto">Automatiškai (%s)</string>
+    <string name="settings_units_metric">Metriniai (pvz., km)</string>
+    <string name="settings_units_imperial">Imperinė (pvz., mi)</string>
+    <string name="draft_fence_tallwooden00_title">Aukštas medinis tvoras</string>
+    <string name="draft_fence_tallwooden00_text">Norėdami atbaidyti įsibrovėlius.</string>
+    <string name="draft_fence_chainlink00_title">Viela tvora</string>
+    <string name="draft_fence_chainlink00_text">Aukšta tvora iš metalinio tinklelio.</string>
+    <string name="draft_fence_metalrailing00_title">Metalinė tvora</string>
+    <string name="draft_fence_metalrailing00_text">Trumpas, juodas aptvaras pėstiesiems apsaugai.</string>
+    <string name="draft_fence_guardrail00_title">Apsauginis barjerai</string>
+    <string name="draft_fence_guardrail00_text">Saugiai palaikyk save su šiomis metalinėmis eismo barjeromis.</string>
 
 
-    <string name="draft_dsarocket_launchbutton">Launch</string>
-    <string name="draft_dsarocket_requirement_alreadyCompleted">Already launched</string>
-    <string name="draft_dsarocket_requirement_launchOngoing">Launch is ongoing</string>
-    <string name="draft_dsarocket_requirement_supplies">Supplies: %s/%s</string>
-    <string name="draft_dsarocket_requirement_price">Price: %s</string>
-    <string name="draft_dsarocket_test_text">Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.</string>
-    <string name="draft_dsarocket_animal_text">Launch a rocket with cat inside named Akial to space to gather vital information.</string>
-    <string name="draft_dsarocket_navigation_text">Launch a rocket with a man to space to conduct navigational tests.</string>
-    <string name="draft_dsarocket_exploration_text">Launch a rocket to the exploration mission to find a suitable place for colonisation.</string>
-    <string name="draft_dsarocket_sdi_text">Launch series of rockets to space to assemble the space defense initiative.</string>
-    <string name="draft_dsarocket_deprecated_text">The launchpad has been updated, you will need to destroy this one and build the new one.</string>
-    <string name="stage_createcity_terrain">Terrain...</string>
-    <string name="dialog_terrain_title">Terrain</string>
-    <string name="dialog_missingmanifest_title">Missing Plugin Manifest Files</string>
-    <string name="dialog_missingmanifest_text">The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:</string>
-    <string name="dialog_missingmanifest_cmdhelp">What\'s that?</string>
-    <string name="createcity_rivers">Rivers</string>
-    <string name="createcity_roughness">Roughness</string>
-    <string name="createcity_roughness_flat">Flat</string>
-    <string name="createcity_roughness_less">Less</string>
-    <string name="createcity_roughness_default">Default</string>
-    <string name="createcity_roughness_more">More</string>
-    <string name="createcity_roughness_extreme">Extreme</string>
-    <string name="buildingicon_illness">People in this building are ill. You should send a medic.</string>
-    <string name="buildingicon_noroad">This building is not connected to a suitable road.</string>
-    <string name="buildingicon_noenergy">This building does not receive enough energy.</string>
-    <string name="buildingicon_nowater">This building does not receive enough water.</string>
-    <string name="buildingicon_overloaded">This building is overloaded. Provide more capacities.</string>
-    <string name="buildingicon_unhappy">People in this building are unhappy.</string>
-    <string name="buildingicon_waste">There is non collected garbage in this building.</string>
-    <string name="buildingicon_wasteoverloaded">This landfill is full.</string>
-    <string name="buildingicon_deadbodies">There are uncollected corpses in this building.</string>
-    <string name="buildingicon_deadbodiesoverloaded">This cemetery is full.</string>
-    <string name="buildingicon_crimegraffiti">Someone put illegal graffiti on here.</string>
-    <string name="buildingicon_crimeburglary">Someone broke in here.</string>
-    <string name="buildingicon_crimemurder">Someone was murdered here.</string>
-    <string name="buildingicon_crimeriot">People here are rioting.</string>
-    <string name="dialog_scriptpolicy_title">Plugin Script Policies</string>
-    <string name="dialog_scriptpolicy_help_title">Plugin Scripts can be risky</string>
+    <string name="draft_dsarocket_launchbutton">Paleisti</string>
+    <string name="draft_dsarocket_requirement_alreadyCompleted">Jau paleista</string>
+    <string name="draft_dsarocket_requirement_launchOngoing">Paleidimas vyksta</string>
+    <string name="draft_dsarocket_requirement_supplies">Reikmenys: %s/%s</string>
+    <string name="draft_dsarocket_requirement_price">Kaina: %s</string>
+    <string name="draft_dsarocket_test_text">Paleiskite tuščią eksperimentinę raketą į kosmosą informacijos rinkimui ir paruošimui kitoms iškyloms ir operacijoms.</string>
+    <string name="draft_dsarocket_animal_text">Paleiskite raketą su kate viduje, vardu Akial, į kosmosą, kad surinktumėte gyvybiškai svarbią informaciją.</string>
+    <string name="draft_dsarocket_navigation_text">Paleiskite raketą su žmogumi į kosmosą, kad atliktumėte navigacijos testus.</string>
+    <string name="draft_dsarocket_exploration_text">Paleiskite raketą į tyrinėjimo misiją, ieškodami tinkamos vietos kolonizavimui.</string>
+    <string name="draft_dsarocket_sdi_text">Paleiskite raketų seriją į kosmosą, kad surinktumėte kosminės gynybos iniciatyvą.</string>
+    <string name="draft_dsarocket_deprecated_text">Paleidimo aikštelė buvo atnaujinta, jums reikės sunaikinti šią ir pastatyti naują.</string>
+    <string name="stage_createcity_terrain">Reljefas...</string>
+    <string name="dialog_terrain_title">Reljefas</string>
+    <string name="dialog_missingmanifest_title">Trūkstamos įskiepių manifestacijos failai</string>
+    <string name="dialog_missingmanifest_text">Šie įskiepiai nenurodo įskiepių manifestacijos failo (plugin.manifest). Tai gali sukelti problemų su kitais įskiepiais ir internetiniu režimu. Negalime garantuoti būsimos suderinamumo:</string>
+    <string name="dialog_missingmanifest_cmdhelp">Kas tai?</string>
+    <string name="createcity_rivers">Upės</string>
+    <string name="createcity_roughness">Šiurkštumas</string>
+    <string name="createcity_roughness_flat">Plokščias</string>
+    <string name="createcity_roughness_less">Mažiau</string>
+    <string name="createcity_roughness_default">Numatytasis</string>
+    <string name="createcity_roughness_more">Daugiau</string>
+    <string name="createcity_roughness_extreme">Ekstremalus</string>
+    <string name="buildingicon_illness">Žmonės šiame pastate serga. Turėtumėte siųsti gydytoją.</string>
+    <string name="buildingicon_noroad">Šis pastatas nėra prijungtas prie tinkamo kelio.</string>
+    <string name="buildingicon_noenergy">Šiam pastatui trūksta energijos.</string>
+    <string name="buildingicon_nowater">Šiam pastatui trūksta vandens.</string>
+    <string name="buildingicon_overloaded">Šis pastatas yra perpildytas. Pateikite daugiau talpų.</string>
+    <string name="buildingicon_unhappy">Žmonės šiame pastate yra nelaimingi.</string>
+    <string name="buildingicon_waste">Šiame pastate yra nesurenkama šiukšlių.</string>
+    <string name="buildingicon_wasteoverloaded">Šis šiukšlių sąvartynas yra pilnas.</string>
+    <string name="buildingicon_deadbodies">Šiame pastate yra surinktų lavonų.</string>
+    <string name="buildingicon_deadbodiesoverloaded">Šis kapinynas yra perpildytas.</string>
+    <string name="buildingicon_crimegraffiti">Kažkas čia užtepė nelegalų grafitį.</string>
+    <string name="buildingicon_crimeburglary">Čia įsilaužė.</string>
+    <string name="buildingicon_crimemurder">Čia buvo nužudytas žmogus.</string>
+    <string name="buildingicon_crimeriot">Žmonės čia riaušiuojasi.</string>
+    <string name="dialog_scriptpolicy_title">Įskiepių scenarijaus politikos</string>
+    <string name="dialog_scriptpolicy_help_title">Įskiepių scenarijai gali būti rizikingi</string>
     <string name="dialog_scriptpolicy_help_text">YOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n
 \n
 If in doubt, DO NOT enable script execution without inspecting the code yourself.\n
 \n
 Plugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.</string>
-    <string name="settings_openscriptpolicy">Plugin Script Policies</string>
-    <string name="stage_files_itemcount">%d item(s)</string>
-    <string name="tips_title">Tips</string>
-    <string name="tips_cmd_random">Another one</string>
-    <string name="tip_topic_culture_title">
-Culture is provided by some landmarks, awards and plugins!
-    </string>
-    <string name="tip_topic_culture_text">
-Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.
-    </string>
-    <string name="tip_topic_fire_too_frequent_title">
-If buildings catch fire too often, place a fire station close by!
-    </string>
-    <string name="tip_topic_fire_too_frequent_text">
-If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.
-    </string>
-    <string name="tip_topic_pollution_distance_title">
-Keep residentials far away from pollution
-    </string>
-    <string name="tip_topic_pollution_distance_text">
-Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.
-    </string>
-    <string name="tip_topic_pollution_trees_title">
-You can reduce pollution by surrounding it with trees
-    </string>
-    <string name="tip_topic_pollution_trees_text">
-Residential buildings do not like pollution. To save the hassle of moving buildings, especially in well-planned cities, you can use trees. Trees deter pollution. Placing more trees will reduce the pollution more. It is often also the more cost effective method as trees are pretty cheap. The number of trees to be placed depends on the amount of pollution and the influence strength from the trees.
-    </string>
-    <string name="tip_topic_traffic_networking_title">
-Use one way roads and intersections to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_networking_text">
-Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.
-    </string>
-    <string name="tip_topic_traffic_volume_title">
-You can adjust traffic volume in settings to reduce traffic
-    </string>
-    <string name="tip_topic_traffic_volume_text">
-To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.
-    </string>
-    <string name="tip_topic_more_cash_title">
-To get more cash, take a loan
-    </string>
+    <string name="settings_openscriptpolicy">Įskiepių Scenarijaus Politika</string>
+    <string name="stage_files_itemcount">%d daiktas(-ai)</string>
+    <string name="tips_title">Patarimai</string>
+    <string name="tips_cmd_random">Dar vienas</string>
+    <string name="tip_topic_culture_title">Kultūrą užtikrina kai kurie orientyrai, apdovanojimai ir įskiepiai!</string>
+    <string name="tip_topic_culture_text">Dauguma mažesnių orientyrų nuo Eifelio bokšto sukuria kultūrinį įtaką, taip pat apdovanoja kultūrine reikšme realiame pasaulyje. Daugiau kultūrą skatinančių įskiepių galite atsisiųsti per įskiepių parduotuvę ir forumą.</string>
+    <string name="tip_topic_fire_too_frequent_title">Jei pastatai dažnai užsidega, netoli pasistatykite gaisrinę!</string>
+    <string name="tip_topic_fire_too_frequent_text">Jei pastatai per dažnai užsidega, tai gerai rodo, kad jūsų gaisrinės stoties įtaka neužtenka. Gyvenamieji, komerciniai ir pramoniniai pastatai reikalauja gaisrinės stoties, todėl būkite atidūs ir užtikrinkite, kad visa žemėlapis būtų padengtas gaisrinių stotyčių įtaka. Tai padės išvengti gaisrų ateityje.</string>
+    <string name="tip_topic_pollution_distance_title">Laikykite gyvenamąsias teritorijas toli nuo taršos</string>
+    <string name="tip_topic_pollution_distance_text">Gyventojai nemėgsta taršos. Jei jie skundžiasi per dideliu užterštumu, išsiaiškinkite jo šaltinį. Pastatą, sukuriantį taršą, galima pastebėti paspaudus ant akies įrankio, o tada ant taršos, arba ieškant pastatų su raudonais apskritimais aplink juos. Pakeiskite vietą taršą sukeliančiam pastatui arba jį panaikinkite, pasirenkant ekologiškesnę alternatyvą.</string>
+    <string name="tip_topic_pollution_trees_title">Galite sumažinti taršą apsodindami teritoriją medžiais</string>
+    <string name="tip_topic_pollution_trees_text">Gyvenamieji pastatai nemėgsta taršos. Norint išvengti pastatų perkėlimo trikdžių, ypač gerai suplanuotuose miestuose, galite naudoti medžius. Medžiai apsaugo nuo taršos. Dėliojant daugiau medžių, bus sumažinta tarša. Dažnai tai taip pat yra labiau kainą taupantis būdas, nes medžiai yra gana pigūs. Skaičius medžių, kuriuos reikia pasodinti, priklauso nuo taršos kiekio ir medžių įtakos stiprumo.</string>
+    <string name="tip_topic_traffic_networking_title">Naudokite vienakrypčius kelius ir sankryžas, kad sumažintumėte eismo srautą</string>
+    <string name="tip_topic_traffic_networking_text">Dažnai vietos, pavyzdžiui, greitkeliai ir pramonės rajonai, gali tapti perkrauti transportu. Norint tai ištaisyti, reikia tinkamo kelio tinklo. Vienkryptėmis gatvėmis ir sankryžomis galima padėti. Žaidime ir kaip įskiepiai yra iš anksto paruoštų sankryžų. Taip pat galite sukurti savo, naudodamiesi tikrosios gyvenimo sankryžos pavyzdžiu. Tai leistų geriau paskirstyti eismą, sumažinant jį jūsų mieste.</string>
+    <string name="tip_topic_traffic_volume_title">Galite reguliuoti eismo intensyvumą nustatymuose, kad sumažintumėte eismą</string>
+    <string name="tip_topic_traffic_volume_text">Norint reguliuoti eismo intensyvumą nustatymuose, pirmiausia įjunkite derinimo režimą, jis turėtų būti ten pat. Kai derinimo režimas įjungtas, jums siūloma galimybė mažinti ar didinti eismą. Kurį procentą pasirinksite, priklauso nuo to, kiek eismo turite ir kiek iššūkio pageidaujate.</string>
+    <string name="tip_topic_more_cash_title">Norėdami gauti daugiau pinigų, pasiskolinkite</string>
     <string name="tip_topic_more_cash_text">
 Press the income icon and then switch to the tab with the green cash icon. Then press "raise". The amount of money offered on the loan depends on the estate and up to 5 loans can be taken out at a time.
     </string>
-    <string name="tip_topic_loan_repayment_title">
-Loans get repaid automatically each month
-    </string>
-    <string name="tip_topic_loan_repayment_text">
-Loan payments are automatically deducted from your month automatically by the game each month. They do not have to be paid manually, although you could reduce the monthly expenses by doing so. The payback period can be viewed by going into the loans tab.
-    </string>
-    <string name="tip_topic_discord_title">
-There\'s an official discord server!
-    </string>
-    <string name="tip_topic_discord_text">
-The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.
-    </string>
-    <string name="tip_topic_making_plugins_title">
-You can make your own plugins. It\'s easy™
-    </string>
-    <string name="tip_topic_making_plugins_text">
-It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or "code", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!
-    </string>
-    <string name="tip_topic_online_collaboration_title">
-Collaborate on a region using online mode
-    </string>
-    <string name="tip_topic_online_collaboration_text">
-By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.
-    </string>
-    <string name="tip_topic_online_upload_title">
-Uploading a map to online mode takes diamonds or region coins
-    </string>
-    <string name="tip_topic_online_upload_text">
-Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.
-    </string>
-    <string name="tip_topic_diamonds_title">
-You can get diamonds by logging in daily
-    </string>
-    <string name="tip_topic_diamonds_text">
-Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!
-    </string>
-    <string name="tip_topic_supplies_title">
-Rocket supplies are provided by certain industrial buildings
-    </string>
-    <string name="tip_topic_supplies_text">
-The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.
-    </string>
-    <string name="tip_topic_train_bus_usage_title">
-There may be no visible train nor bus usage, but they still have an effect
-    </string>
-    <string name="tip_topic_train_bus_usage_text">
-Buses and Trains may show that there are no passengers for now. However, they already have an effect and the usage data may be updated in the future. Buses and trains do provide transport happiness. So be sure to cover the RCI areas with them.
-    </string>
-    <string name="tip_topic_vandalism_title">
-The spray paint icon indicates vandalism, build a police station
-    </string>
-    <string name="tip_topic_vandalism_text">
-The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_title">
-Build cemeteries and crematoriums to treat dead people
-    </string>
-    <string name="tip_topic_cemetary_cremetorium_text">
-If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_title">
-To make some extra income, set up neighborhood commercial
-    </string>
-    <string name="tip_topic_neighbourhood_commercial_text">
-This can only be done in regions where you have nearby cities unlocked. There is a neighborhood commercial tab. By adjusting the values, you can import or export from nearby cities. This does not work in online mode nor if one or more of the cities you are trying to set up is in sandbox or uber mode.
-    </string>
-    <string name="tip_topic_airport_title">
-The airport is a good long term investment
-    </string>
-    <string name="tip_topic_airport_text">
-To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.
-    </string>
-    <string name="tip_topic_youtube_title">
-YouTube has some useful tutorials
-    </string>
-    <string name="tip_topic_youtube_text">
-There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.
-    </string>
-    <string name="tip_topic_price_increase_title">
-Prices increase in game just like in real life
-    </string>
-    <string name="tip_topic_price_increase_text">
-Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.
-    </string>
-    <string name="tip_topic_creative_gameplay_title">
-For more creative freedom, play on sandbox/uber mode
-    </string>
-    <string name="tip_topic_creative_gameplay_text">
-A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!
-    </string>
-    <string name="tip_topic_toggle_disasters_title">
-You can turn off auto disasters in the game settings
-    </string>
-    <string name="tip_topic_toggle_disasters_text">
-Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.
-    </string>
-    <string name="tip_topic_taxes_percentage_title">
-Most your income is from taxes, but don\'t set it above 9%
-    </string>
-    <string name="tip_topic_taxes_percentage_text">
-Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.
-    </string>
-    <string name="tip_topic_taxes_adjust_title">
-You can toggle taxes using the + and - buttons
-    </string>
-    <string name="tip_topic_taxes_adjust_text">
-Press the smiley icon and then navigate to the taxes tab, then use the + and - button to toggle the taxation for each building type and income group. Be careful not to set the taxation too high though.
-    </string>
-    <string name="tip_topic_moon_title">
-Use DSA to go to the moon
-    </string>
-    <string name="tip_topic_moon_text">
-Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.
-    </string>
-    <string name="tip_topic_icbm_title">
-Careful! The ICBM will blow up your whole city
-    </string>
-    <string name="tip_topic_icbm_text">
-The ICBM is not a naturally occurring disaster and can only be set off through DSA. Be careful when using the ICBM though, it will blow up the entire city, no matter how big into scraps within seconds. You can backup or duplicate the city to avoid regrets after testing the ICBM on it.
-    </string>
-    <string name="tip_topic_normalzone_densezone_title">
-Dense zones accommodate more people, but is more expensive to place
-    </string>
-    <string name="tip_topic_normalzone_densezone_text">
-Dense zones are generally more expensive to place than normal zones but can house more people. In turn, they are often taller than normal zones as well. Those differences aside, there is not much else as they have the same needs as normal zones.
-    </string>
-    <string name="tip_topic_forum_plugins_title">
-You can download plugins through the forums
-    </string>
-    <string name="tip_topic_forum_plugins_text">
-Some plugin creators choose to exclusively publish some plugins on the forums. This allows you to download plugins the plugin store may not have. These are free to download and have to be placed in the plugins folder of your device manually. Be careful as these plugins aren\'t moderated.
-    </string>
-    <string name="tip_topic_toll_happiness_title">
-Toll booths give additional income but they make residents unhappy
-    </string>
-    <string name="tip_topic_toll_happiness_text">
-Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.
-    </string>
-    <string name="tip_topic_building_rotation_title">
-Not all buildings have rotation frames
-    </string>
-    <string name="tip_topic_building_rotation_text">
-Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.
-    </string>
-    <string name="tip_topic_map_rotation_title">
-Change the map orientation using the mini map
-    </string>
-    <string name="tip_topic_map_rotation_text">
-The mini map can be used as a tool to rotate the map. Press the mini map and use the arrows to rotate the map left or right. It is important to note that while the map rotates, not all buildings will rotate if rotation frames were not provided.
-    </string>
-    <string name="tip_topic_demands_title">
-Build zones which are above the demand line
-    </string>
-    <string name="tip_topic_demands_text">
-When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.
-    </string>
-    <string name="tip_topic_happiness_title">
-Press on a building to see their lowest happiness
-    </string>
-    <string name="tip_topic_happiness_text">
-Pressing on a building helps to identify why the house and the houses close by are unhappy. It also gives an average happiness for the house. Once the reason for lowest happiness is identified you can act to fix it. For example if a building is unhappy because of lack of parks you should place one close to the building to increase the happiness.
-    </string>
-    <string name="tip_topic_game_extentions_title">
-There are official game extensions on the plugin store
-    </string>
-    <string name="tip_topic_game_extentions_text">
-Official game extensions are published on the plugin store by the user Lobby. These are usually free as they are official game extensions.
-    </string>
-    <string name="tip_topic_inspiration_title">
-Don\'t compare with other players\' cities, take inspiration
-    </string>
-    <string name="tip_topic_inspiration_text">
-Different players have different styles. Instead of getting jealous of other players\' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.
-    </string>
-    <string name="tip_topic_road_connection_title">
-Use auto connect roads when building road networks
-    </string>
-    <string name="tip_topic_road_connection_text">
-Press the road of choice and then press "join road" in the upper right corner to automatically join the road that is being built. This will help to avoid roads not working due to not being properly connected.
-    </string>
-    <string name="tip_topic_epidemic_prevention_title">
-Place hospitals to avoid epidemics
-    </string>
-    <string name="tip_topic_epidemic_prevention_text">
-If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.
-    </string>
-    <string name="tip_topic_education_title">
-Residentials need both high and low education
-    </string>
-    <string name="tip_topic_education_text">
-To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_title">
-To reduce lag, disable smooth zoom
-    </string>
-    <string name="tip_topic_disable_smooth_zoom_text">
-If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.
-    </string>
-    <string name="tip_topic_building_bridges_title">
-Elevate roads using the arrow options on the right
-    </string>
-    <string name="tip_topic_building_bridges_text">
-Press the road to be built. Then while in the build menu, press a tile and then build up to build an upward slope. Press an elevated road and build down to build a downward slope. At the same time, press bridge to automatically build a bridge. However, not all roads support building elevated roads.
-    </string>
-    <string name="store_cmd_downloadall_title">Download all</string>
-    <string name="store_cmd_downloadall_text">Download / activate all missing plugins at once</string>
+    <string name="tip_topic_loan_repayment_title">Paskolos automatiškai grąžinamos kiekvieną mėnesį</string>
+    <string name="tip_topic_loan_repayment_text">Paskolos grąžinimai yra automatiškai atimami iš jūsų mėnesio pajamų kiekvieną mėnesį žaidimo. Jie nereikalauja manualinio mokėjimo, nors galėtumėte sumažinti mėnesines išlaidas tai atlikdami. Grąžinimo laikotarpį galite peržiūrėti paskolų skiltyje.</string>
+    <string name="tip_topic_discord_title">Yra oficialus Discord serveris!</string>
+    <string name="tip_topic_discord_text">Oficialusis Discord serveris yra vieta, kur žaidėjai ir kūrėjai susitinka, demonstruoja savo kūrinius ir draugauja. Nuorodą galima rasti žaidime, nustatymuose.</string>
+    <string name="tip_topic_making_plugins_title">Jūs galite kurti savo pluginus. Tai lengva™</string>
+    <string name="tip_topic_making_plugins_text">Iš pradžių tai gali atrodyti kiek bauginanti užduotis, bet kurti priedus (angl. "plugins") yra paprasta. Norėdami kurti tekstūras, galite naudoti tokį kaip paint.net kompiuteryje ir Pixly programėlę mobiliajame telefone. JSON arba "kodą", galite parašyti patys, pasitelkdami forumo pagalbą, arba naudoti https://pca.svetikas.lt/. Jei turite kokių nors klausimų, galime atsakyti į juos per Discord ar forume!</string>
+    <string name="tip_topic_online_collaboration_title">Bendradarbiaukite regione naudodami internetinį režimą</string>
+    <string name="tip_topic_online_collaboration_text">Paspaudę „online“ mygtuką regiono peržiūroje, galite bendradarbiauti su draugais ar kitais nariais, kad sukurtumėte gražų regioną. Žaidimas neleidžia daugiau nei vienam žaidėjui dirbti toje pačioje žemėlapyje, tačiau galite aplankyti kitus miestus ir įgauti įkvėpimo.</string>
+    <string name="tip_topic_online_upload_title">Žemėlapio įkėlimas į internetinį režimą kainuoja deimantus ar regiono monetas</string>
+    <string name="tip_topic_online_upload_text">Diamantai (mobilus) ir regionų monetos (PC) yra suteikiamos už kasdienį prisijungimą. Regiono įkėlimo kaina priklauso nuo dydžio. Įkeliant žemėlapį, kūrėjas gali nustatyti slaptažodį ir keletą taisyklių. Kai sukurtas, slaptažodis negali būti pridėtas arba pašalintas.</string>
+    <string name="tip_topic_diamonds_title">Galite gauti deimantų prisijungdami kasdien</string>
+    <string name="tip_topic_diamonds_text">Prisijungimas kasdien (mobilus) yra atlyginamas deimantais. Prisijungus kas dieną per savaitę, gaunate daugiau apdovanojimų. Kai gaunate galutinį apdovanojimą, jis iš naujo nustatomas ir prasideda viskas iš pradžių. Be to, kas 30 minučių galite žiūrėti vaizdo įrašus už deimantus - tačiau atsiminkite, kad reklamos blokavimą reikėtų išjungti, kad jie būtų rodomi!</string>
+    <string name="tip_topic_supplies_title">Raketų reikmenys yra tiekiami iš tam tikrų pramoninių pastatų</string>
+    <string name="tip_topic_supplies_text">Pastatų, kurie tiekia naftą, galima rasti skirtinguose pramonės lygmenyse. Į juos įeina naftos išgavimo pastatai, sandėliavimo pastatai ir perdirbimo pastatai. Jie tiekia reikiamus išteklius jūsų raketai. Kuo daugiau tokių pastatų bus netoli raketos, tuo greičiau ji bus aprūpinta.</string>
+    <string name="tip_topic_train_bus_usage_title">Gali būti, kad nematote jokių traukinių ar autobusų naudojimo, bet jie vis tiek turi įtaką</string>
+    <string name="tip_topic_train_bus_usage_text">Autobusai ir traukiniai gali rodyti, kad šiuo metu neturi keleivių. Tačiau, jie jau turi poveikį ir naudojimo duomenys gali būti atnaujinti ateityje. Autobusai ir traukiniai suteikia transporto pasitenkinimą. Todėl įsitikinkite, kad aprėpote RCI sritis.</string>
+    <string name="tip_topic_vandalism_title">Balionėlio su dažais piktograma rodo vandalizmą, statykite policijos nuorodą</string>
+    <string name="tip_topic_vandalism_text">Purškimo dažų piktograma pasirodo, kai pastatai nepalaikomi policijos poveikiu. Gyvenamieji, komerciniai ir pramoniniai pastatai reikalauja policijos poveikio, todėl pasirūpinkite, kad šie pastatai būtų aprūpinti juo, kad ateityje išvengtumėte nusikaltimų.</string>
+    <string name="tip_topic_cemetary_cremetorium_title">Statykite kapines ir krematoriumus, kad galėtumėte rūpintis mirusiais žmonėmis</string>
+    <string name="tip_topic_cemetary_cremetorium_text">Jei ant vieno ar kelių pastatų atsiranda mirusio žmogaus piktograma, tai reiškia, kad turite statyti kapines ar krematoriumus. Kapinės yra geras pasirinkimas pradžiai, bet augant miestui, jas vis dažniau reikės išvalyti. Todėl ilgalaikiam sprendimui gali būti geriau pasirinkti krematoriumą.</string>
+    <string name="tip_topic_neighbourhood_commercial_title">Norėdami gauti papildomų pajamų, įsteigkite rajono prekybos įmones</string>
+    <string name="tip_topic_neighbourhood_commercial_text">Tai galima padaryti tik tose vietovėse, kuriose atrakinti šalia esantys miestai. Yra kaimyninių prekybos skyrius. Keisdami reikšmes, galite importuoti arba eksportuoti iš šalia esančių miestų. Tai neveikia internetinėje rėžime, taip pat, jei vienas ar daugiau miestų, kuriuos bandote nustatyti, yra smėlio dėžės ar uber rėžime.</string>
+    <string name="tip_topic_airport_title">Oro uostas yra gera ilgalaikė investicija</string>
+    <string name="tip_topic_airport_text">Norint, kad oro uostas veiktų, pastatykite visus oro uosto pastatus, pridėkite juostas ir priskirkite lėktuvus šioms juostoms. Oro uostas dažnai tampa pelningas, kai jis naudojamas. Tai reiškia, kad kai pradinių išlaidų yra padengta, galima gauti gana didelį pelną.</string>
+    <string name="tip_topic_youtube_title">YouTube turi keletą naudingų pamokymų</string>
+    <string name="tip_topic_youtube_text">Yra keletas patyrusių TheoTown žaidėjų ir kūrėjų, kurie skelbia vaizdo įrašus YouTube. Jie svyruoja nuo įkvepiančių žaidimo eigos laiko praleidimo vaizdo įrašų iki vaizdo įrašų, kurie gali padėti jums pagerinti žaidimo patirtį.</string>
+    <string name="tip_topic_price_increase_title">Kainų kilimas žaidime, kaip ir realiame gyvenime</string>
+    <string name="tip_topic_price_increase_text">Pastatant daugiau pastatų ir kelių, jų kaina didėja. Kuo daugiau jie naudojami, tuo didesnė tampa kaina. Tai taikoma keliams, dekoracijoms, zonoms ir visų rūšių pastatams.</string>
+    <string name="tip_topic_creative_gameplay_title">Daugiau kūrybinės laisvės galėsite patirti žaisdami smėlio dėžės/uber režimu</string>
+    <string name="tip_topic_creative_gameplay_text">Daug patyrusių žaidėjų mėgsta žaisti sandbox ar uber režimuose, kad galėtų išreikšti daugiau savo kūrybinės laisvės. Tai leidžia jiems statyti be finansinių apribojimų ir, uber režimo atveju, nesirūpinti džiaugsmu ar poreikiais. Dažnai pastatai yra rankiniu būdu išdėstyti, siekiant sukurti nuostabius darbus. Nesijaudinkite, jei tai neatrodo kaip jūs - kiekvienas statome kitaip!</string>
+    <string name="tip_topic_toggle_disasters_title">Žaidimo nustatymuose galite išjungti automatiškas katastrofas</string>
+    <string name="tip_topic_toggle_disasters_text">Katastrofas galima išjungti nustatymuose ir galite pasirinkti, su kokiais katastrofais, jei apskritai, norite žaisti. Jei naudojamos DSA kasybos stotys ar karinės raketų silos, miestas vis dar gali kentėti nuo žemės drebėjimų ar kitų katastrofų.</string>
+    <string name="tip_topic_taxes_percentage_title">Daugiausia pajamų gaunate iš mokesčių, tačiau nustatykite juos ne didesnius kaip 9%</string>
+    <string name="tip_topic_taxes_percentage_text">Ypač žaidimo pradžioje, 90% ar daugiau pajamų gaunama iš gyventojų apmokestinimo. Gerai renkamas mokesčių tarifas yra tarp 7% ir 9%. Jei apmokestinimas yra didesnis nei tai, kyla rizika dėl neramumų ir žmonių, paliekančių namus bei miestą.</string>
+    <string name="tip_topic_taxes_adjust_title">Galite reguliuoti mokesčius naudodamiesi + ir - mygtukais</string>
+    <string name="tip_topic_taxes_adjust_text">Paspauskite šypsenėlės piktogramą ir tada pereikite prie mokesčių skirtuko, tada naudokite + ir - mygtukus, kad reguliuotumėte apmokestinimą kiekvienam pastato tipui ir pajamų grupei. Tačiau būkite atsargūs nustatydami per didelį apmokestinimą.</string>
+    <string name="tip_topic_moon_title">Naudokite DSA, kad nueitumėte į mėnulį</string>
+    <string name="tip_topic_moon_text">Atrakinkite DSA ir atnaujinkite pastatus, kad galėtumėte keliauti į Mėnulį. Raketą reikia apsirūpinti, ir kai ji bus pilnai pasiruošusi, ji galės keliauti į Mėnulį arba sprogti. Jei kelionė į Mėnulį bus sėkminga, Mėnulio žemėlapį galima rasti po vienatvės miestais ateities vizitams. Kasdami tam tikrus rudmenis kosmose, galėsite atrakinti tam tikrus pastatus žemėlapiui, kuris buvo naudojamas keliaujant į Mėnulį.</string>
+    <string name="tip_topic_icbm_title">Atsargiai! ICBM visas tavo miestas sprogdins</string>
+    <string name="tip_topic_icbm_text">ICBM nėra natūraliai atsirandanti nelaimė ir gali būti paleista tik per DSA. Būkite atsargūs naudodami ICBM, nes ji sunaikins visą miestą, neatsižvelgiant į jo dydį, per kelias sekundes. Miestą galite išsaugoti arba dubliuoti, kad po ICBM išbandymo ant jo nesusigąstumėte.</string>
+    <string name="tip_topic_normalzone_densezone_title">Tankios zonos talpina daugiau žmonių, tačiau jų įrengimas yra brangesnis</string>
+    <string name="tip_topic_normalzone_densezone_text">Tankios zonos paprastai yra brangesnės nei įprastos zonos, tačiau jose gali gyventi daugiau žmonių. Savo ruožtu, jos dažnai yra aukštesnės nei įprastos zonos. Be šių skirtumų, kitų didelių ypatumų nėra, nes jos turi tas pačias poreikis kaip ir įprastos zonos.</string>
+    <string name="tip_topic_forum_plugins_title">Galite atsisiųsti įskiepius per forumus</string>
+    <string name="tip_topic_forum_plugins_text">Kai kurie įskiepių kūrėjai pasirenka išskirtinai skelbti kai kuriuos įskiepius forumuose. Tai leidžia atsisiųsti įskiepius, kurių gali nebūti įskiepių parduotuvėje. Šie įskiepiai yra nemokami atsisiuntimui ir turi būti rankiniu būdu perkelti į įskiepių aplanką jūsų įrenginyje. Būkite atidūs, nes šie įskiepiai nėra moderuojami.</string>
+    <string name="tip_topic_toll_happiness_title">Mokesčių punktai suteikia papildomų pajamų, bet daro gyventojus nelaimingais</string>
+    <string name="tip_topic_toll_happiness_text">Mokesčių postai gali būti įdėti, kad mokslu už važiavimą keliais būtų apmokestinta transporto priemones, kas padeda gauti pajamas. Mokestis gali būti reguliuojamas paspaudus ant mokesčių posto. Tačiau tai sumažina transporto pasitenkinimą ir daro žmones nelaimingais.</string>
+    <string name="tip_topic_building_rotation_title">Ne visi pastatai turi sukimų kadrus</string>
+    <string name="tip_topic_building_rotation_text">Kai kurie pagrindiniai pastatai turi sukimosi rėmus, bet ne visi. Ypač kalbant apie įskiepius, gali nebūti sukimosi rėmų. Tai todėl, kad autorius jų nesukūrė. Norėdami pamatyti, kurie pastatai turi sukimosi rėmus, paspauskite ant pastato ir patikrinkite, ar viršutiniame dešiniajame kampe turi mygtukus "kitas" ir "ankstesnis". Sukimosi rėmų nebuvimas palieka daugiau vietos įvairesniems pastatams.</string>
+    <string name="tip_topic_map_rotation_title">Pakeiskite žemėlapio orientaciją naudodamiesi mini žemėlapiu</string>
+    <string name="tip_topic_map_rotation_text">Mini žemėlapis gali būti naudojamas kaip įrankis norint pasukti žemėlapį. Paspauskite ant mini žemėlapio ir naudokite rodykles žemėlapio pasukimui kairėn arba dešinėn. Svarbu pastebėti, kad, nors žemėlapis suka, ne visi pastatai sukasi, jei nėra pateiktos sukimosi kadrų.</string>
+    <string name="tip_topic_demands_title">Statyk zonas, kurios yra virš paklausos linijos</string>
+    <string name="tip_topic_demands_text">Kai poreikis yra virš poreikių linijos, tai rodo, kad atitinkamo poreikio žmonės ar verslai nori atsikraustyti į jūsų miestą. Todėl turėtumėte jiems suteikti tam reikalingas sąlygas. Kai poreikis yra žemiau poreikių linijos, tai rodo, kad reikėtų statyti kitas zonas ir paremti objektus, tokius kaip parkai ir policija.</string>
+    <string name="tip_topic_happiness_title">Paspauskite ant pastato, kad pamatytumėte mažiausią jo laimės lygį</string>
+    <string name="tip_topic_happiness_text">Paspaudus ant pastato galima nustatyti, kodėl šis namas ir aplinkiniai namai yra nepatenkinti. Taip pat nurodomas vidutinis namo laimėjimo lygis. Kai nustatoma mažiausia laimės priežastis, galite imtis veiksmų, kad ją ištaisytumėte. Pavyzdžiui, jei pastatas yra nepatenkintas dėl trūkumo parkų, turėtumėte vieną įrengti šalia pastato, kad padidintumėte laimės lygį.</string>
+    <string name="tip_topic_game_extentions_title">Yra oficialių žaidimo priedų įskiepių parduotuvėje</string>
+    <string name="tip_topic_game_extentions_text">Oficialūs žaidimo plėtiniai yra skelbiami priedų parduotuvėje vartotojo Lobby. Šie dažniausiai yra nemokami, nes yra oficialūs žaidimo plėtiniai.</string>
+    <string name="tip_topic_inspiration_title">Nelyginkis su kitų žaidėjų miestais, įkvėpkis</string>
+    <string name="tip_topic_inspiration_text">Skirtingi žaidėjai turi skirtingus stilius. Vietoj to, kad pavydėtum kitų žaidėjų miestams, stenkis nustatyti, kas tiksliai traukia tave prie jų. Kodėl jie tau patinka? Kai tai suprasi, pabandyk įgyvendinti tai savo miestuose po truputį ir stebėk, kaip miestas auga.</string>
+    <string name="tip_topic_road_connection_title">Naudokite automatinį kelių sujungimą statant kelių tinklus</string>
+    <string name="tip_topic_road_connection_text">Paspauskite norimą kelią, o tada viršutiniame dešiniajame kampe paspauskite "prisijungti prie kelio", kad automatiškai prisijungtumėte prie kelio, kuris yra statomas. Tai padės išvengti problemų, kai keliai neveikia dėl netinkamo prisijungimo.</string>
+    <string name="tip_topic_epidemic_prevention_title">Pastatykite ligonines, kad išvengtumėte epidemijų</string>
+    <string name="tip_topic_epidemic_prevention_text">Jei pastatų viršuje yra žalia veidukė, tai reiškia, kad gyventojai yra sergantys. Norint to išvengti ateityje, statykite ligonines visose zonose. Kad išlaikytumėte jūsų gyventojus sveikus, turėtumėte užtikrinti, kad jūsų vandens šaltiniai būtų įsikūrę švariose vietovėse.</string>
+    <string name="tip_topic_education_title">Gyventojams reikia tiek aukšto, tiek žemo išsilavinimo</string>
+    <string name="tip_topic_education_text">Norint pagerinti švietimo laimę, būtina užtikrinti tiek aukštą, tiek žemą švietimo lygį. Tai reikalinga norint, kad pastatai taptų prastesni. Todėl nepraleiskite progos padengti gyvenamąsias zonas abiem švietimo lygiais.</string>
+    <string name="tip_topic_disable_smooth_zoom_title">Norėdami sumažinti užlaikymą, išjunkite sklandų priartinimą</string>
+    <string name="tip_topic_disable_smooth_zoom_text">Jei manote, kad žaidimas užstringa, apsvarstykite galimybę išjungti sklandaus priartinimo parinktį. Šią parinktį galite rasti žaidimo nustatymuose. Tai gali padėti pagerinti žaidimo patirtį.</string>
+    <string name="tip_topic_building_bridges_title">Pakelkite kelius naudodami rodyklių parinktis dešinėje</string>
+    <string name="tip_topic_building_bridges_text">Paspauskite ant kelio, kurį reikia statyti. Būdami statymo meniu, paspauskite ant langelio ir tada statykite aukštyn, norėdami sukurti kilpą į viršų. Paspauskite ant pakelto kelio ir statykite žemyn, norėdami sukurti nusileidimą. Tuo pačiu metu, paspauskite ant tilto, norint automatiškai pastatyti tiltą. Tačiau ne visi keliai palaiko pakeltų kelių statymą.</string>
+    <string name="store_cmd_downloadall_title">Atsisiųsti viską</string>
+    <string name="store_cmd_downloadall_text">Atsisiųskite / aktyvuokite visus trūkstamus priedus iš karto</string>
 
 
-    <string name="tips_cmd_visitwebsite">Open</string>
+    <string name="tips_cmd_visitwebsite">Atidaryti</string>
 
 
-    <string name="settings_category_notifications">Notifications</string>
-    <string name="settings_notify_low_power">Low power</string>
-    <string name="settings_notify_low_water">Low water</string>
-    <string name="settings_notify_no_power">No power</string>
-    <string name="settings_notify_no_water">No water</string>
-    <string name="settings_notify_no_road">No road</string>
-    <string name="settings_notify_no_park">No park</string>
-    <string name="settings_notify_no_sport">No sport</string>
-    <string name="settings_notify_pollution">Pollution</string>
-    <string name="settings_notify_noise">Noise</string>
-    <string name="settings_notify_water_waste">Water waste</string>
-    <string name="settings_notify_unhappy">Unhappy</string>
-    <string name="settings_notify_unlocked">Unlocked building</string>
-    <string name="settings_notify_low_budget">Low budget</string>
-    <string name="settings_notify_zone_needed">Zone needed</string>
-    <string name="settings_notify_polluted_pump">Polluted pump</string>
-    <string name="settings_notify_school_overloaded">School overloaded</string>
-    <string name="settings_notify_medic_overloaded">Medic overloaded</string>
-    <string name="settings_notify_destroyed_tile">Destroyed tile</string>
-    <string name="settings_notify_need_low_education">Need low education</string>
-    <string name="settings_notify_need_high_education">Need high education</string>
-    <string name="settings_notify_bad_traffic">Bad traffic</string>
-    <string name="settings_notify_waste">Garbage collection</string>
-    <string name="settings_notify_body_disposal">Body disposal</string>
-    <string name="settings_notify_bad_attribute">Bad value</string>
+    <string name="settings_category_notifications">Pranešimų nustatymai</string>
+    <string name="settings_notify_low_power">Mažai energijos</string>
+    <string name="settings_notify_low_water">Pranešk apie mažą vandens kiekį</string>
+    <string name="settings_notify_no_power">Nėra energijos</string>
+    <string name="settings_notify_no_water">Nėra vandens</string>
+    <string name="settings_notify_no_road">Nėra kelio</string>
+    <string name="settings_notify_no_park">Nėra parko</string>
+    <string name="settings_notify_no_sport">Nėra sporto</string>
+    <string name="settings_notify_pollution">Terasa</string>
+    <string name="settings_notify_noise">Triukšmas</string>
+    <string name="settings_notify_water_waste">Vandens švaistymas</string>
+    <string name="settings_notify_unhappy">Nepatenkintas</string>
+    <string name="settings_notify_unlocked">Atrakinta pastato dalis</string>
+    <string name="settings_notify_low_budget">Mažas biudžetas</string>
+    <string name="settings_notify_zone_needed">Reikalinga zona</string>
+    <string name="settings_notify_polluted_pump">Užteršta siurblys</string>
+    <string name="settings_notify_school_overloaded">Mokykla perpildyta</string>
+    <string name="settings_notify_medic_overloaded">Medikas per apkrautas</string>
+    <string name="settings_notify_destroyed_tile">Sunaikintas langelis</string>
+    <string name="settings_notify_need_low_education">Reikia paprastosios švietimo</string>
+    <string name="settings_notify_need_high_education">Reikia aukštojo išsilavinimo</string>
+    <string name="settings_notify_bad_traffic">Blogas eismas</string>
+    <string name="settings_notify_waste">Atliekų rinkimas</string>
+    <string name="settings_notify_body_disposal">Kūnų pašalinimas</string>
+    <string name="settings_notify_bad_attribute">Bloga reikšmė</string>
     <string name="show_eula">EULA</string>
 
 
-    <string name="dialog_uploadregionpolicy_title">Inactive Region Policy</string>
-    <string name="dialog_uploadregionpolicy_text">Note that regions that remain inactive for over a year may be subject to automatic deletion. This measure is necessary to free up space for new regions and ensure an optimal experience for active players. Prior to any deletion due to inactivity, we will notify you in advance.</string>
-    <string name="dialog_loginforreport_title">Login Required to Report</string>
-    <string name="dialog_loginforreport_text">To ensure the integrity of our reporting system, only logged-in users can submit reports. Please log in to continue with your report.</string>
-    <string name="settings_debug_hotkeys">Debug hotkeys</string>
-    <string name="specialoffer_alreadyunlocked">You unlocked this item already.</string>
-    <string name="settings_highlight_hovered_building">Highlight hovered building</string>
-    <string name="settings_cursorscaling">Cursor size</string>
+    <string name="dialog_uploadregionpolicy_title">Neaktyvaus regiono politika</string>
+    <string name="dialog_uploadregionpolicy_text">Atkreipkite dėmesį, kad regionai, kurie lieka neaktyvūs ilgiau nei metus, gali būti automatiškai ištrinti. Šis priemonė būtina norint atlaisvinti vietą naujoms regionams ir užtikrinti optimalią patirtį aktyviems žaidėjams. Prieš bet kokį ištrynimą dėl neveiklumo, mes jus iš anksto informuosime.</string>
+    <string name="dialog_loginforreport_title">Prisijungimas reikalingas norint pranešti</string>
+    <string name="dialog_loginforreport_text">Norėdami užtikrinti mūsų pranešimų sistemos vientisumą, pranešimus gali pateikti tik prisijungę vartotojai. Prašome prisijungti, kad tęstumėte savo pranešimą.</string>
+    <string name="settings_debug_hotkeys">Derinimo karštieji klavišai</string>
+    <string name="specialoffer_alreadyunlocked">Šį elementą jau atrakinote.</string>
+    <string name="settings_highlight_hovered_building">Pažymėk pastatą prie pelelės žymeklio</string>
+    <string name="settings_cursorscaling">Kursoriaus dydis</string>
     <string name="settings_cursorstyle_citylights">CityLights</string>
     <string name="settings_cursorstyle_aurora">Aurora</string>
     <string name="settings_cursorstyle_steampunk">Steampunk</string>
@@ -3392,155 +3247,160 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="stats_level00">₮</string>
     <string name="stats_level01">₮₮</string>
     <string name="stats_level02">₮₮₮</string>
-    <string name="stage_files_actioncopy">Copy to clipboard</string>
-    <string name="stage_files_actionopen">Open</string>
-    <string name="stage_files_imageresolution">Resolution: %dx%d</string>
-    <string name="loadcity_outdatedscenario_dialog_title">Outdated version</string>
-    <string name="loadcity_outdatedscenario_dialog_text">This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.</string>
-    <string name="comments_language">Language: %s</string>
-    <string name="comments_cmdtranslate">Translate (translation may be inaccurate)</string>
-    <string name="waste_clear_onmouseinput">Click and drag on the garbage to clear it.</string>
-    <string name="cemetery_clear_onmouseinput">Click and drag to free up some space.</string>
-    <string name="tutorial_buildroad_b_onmouseinput">Place the road along the marked tiles. To build it click to set a start point, click again to set the end point.</string>
-    <string name="tutorial_rci_onmouseinput">Click on this button to see detailed demand information for every zone type.</string>
-    <string name="tutorial_money_info_onmouseinput">Click at the bottom right corner to get more information about your money or to change taxes.</string>
-    <string name="tutorial_buildbridge_b_onmouseinput">Click on the start and the end point of the planned road. See how a bridge will be built automatically over the river.</string>
-    <string name="tool_airplanelane_title_onmouseinput">Click on a free lane</string>
-    <string name="draft_deco_chr_present00_text_onmouseinput">Just a present. Try clicking on it.</string>
-    <string name="draft_tool_eyedropper00_text_onmouseinput">Want to build a specific road or building again? Use this tool and click on it. Not supported by all structures.</string>
-    <string name="dialog_gallerypolicy_text_onmouseinput">Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.</string>
-    <string name="notify_waste_producer00_onmouseinput">This landfill is full! Click on it to clear it!</string>
-    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Left click on it to open and close it. A great way to create traffic jams.</string>
-    <string name="draft_gol_dead_text_onmouseinput">Create a game of life field. Click on existing tiles to switch their state. Default state is dead.</string>
-    <string name="loadcity_scenario">Scenario: %s</string>
-    <string name="trainstationinfo_total">Total transferred: %1$,d</string>
+    <string name="stage_files_actioncopy">Kopijuoti į iškarpinę</string>
+    <string name="stage_files_actionopen">Atidaryti</string>
+    <string name="stage_files_imageresolution">Rezoliucija: %dx%d</string>
+    <string name="loadcity_outdatedscenario_dialog_title">Pasenusi versija</string>
+    <string name="loadcity_outdatedscenario_dialog_text">Šis scenarijus reikalauja %s arba aukštesnės versijos, tačiau jūs naudojate %s.\n
+\n
+Prašome patikrinti atnaujinimus, kad galėtumėte žaisti šį scenarijų.</string>
+    <string name="comments_language">Kalba: %s</string>
+    <string name="comments_cmdtranslate">Versti (vertimas gali būti netikslus)</string>
+    <string name="waste_clear_onmouseinput">Spustelėkite ir tempkite šiukšles, kad jas pašalintumėte.</string>
+    <string name="cemetery_clear_onmouseinput">Spustelėkite ir vilkite, kad išlaisvintumėte vietą.</string>
+    <string name="tutorial_buildroad_b_onmouseinput">Pastatykite kelią per pažymėtas plyteles. Norėdami jį pastatyti, paspauskite, kad nustatytumėte pradžios tašką, vėl paspauskite, kad nustatytumėte pabaigos tašką.</string>
+    <string name="tutorial_rci_onmouseinput">Spustelėkite šį mygtuką, kad pamatytumėte detalų paklausos informaciją kiekvieno zonos tipo.</string>
+    <string name="tutorial_money_info_onmouseinput">Spustelėkite dešinėje apačioje, kad gautumėte daugiau informacijos apie savo pinigus arba pakeistumėte mokesčius.</string>
+    <string name="tutorial_buildbridge_b_onmouseinput">Spustelėkite ant kelio pradžios ir pabaigos taškų. Stebėkite, kaip tiltas virš upės automatiškai statomas.</string>
+    <string name="tool_airplanelane_title_onmouseinput">Spustelėkite ant laisvos juostos</string>
+    <string name="draft_deco_chr_present00_text_onmouseinput">Tik dovana. Pabandyk paspausti ant jos.</string>
+    <string name="draft_tool_eyedropper00_text_onmouseinput">Norite iš naujo pastatyti tam tikrą kelią ar pastatą? Naudokitės šiuo įrankiu ir spustelėkite ant jo. Ne visi statiniai palaiko šią funkciją.</string>
+    <string name="dialog_gallerypolicy_text_onmouseinput">Ar norite įkelti savo ekrano kopiją į mūsų galeriją?\n
+\n
+Paspaudę „Įkelti dabar“, sutinkate su mūsų politika.</string>
+    <string name="notify_waste_producer00_onmouseinput">Šis sąvartynas pilnas! Paspauskite ant jo, kad jį išvalytumėte!</string>
+    <string name="draft_roaddeco_barrier_open00_text_onmouseinput">Spustelėkite kairiuoju pelės mygtuku, kad atidarytumėte ir uždarytumėte. Puikus būdas sukurti eismo spūstis.</string>
+    <string name="draft_gol_dead_text_onmouseinput">Sukurkite „Game of Life“ lauką. Spustelekite egzistuojančius langelius, kad pakeistumėte jų būseną. Numatytoji būsena yra mirusi.</string>
+    <string name="loadcity_scenario">Scenarijus: %s</string>
+    <string name="trainstationinfo_total">Viso pervežta: %1$,d</string>
 
 
-    <string name="draft_dsa_dyson_upgrade_req3_text">Need: Help Pickles on the Moon</string>
+    <string name="draft_dsa_dyson_upgrade_req3_text">Reikia: Padėkite agurkams mėnulyje</string>
     <string name="dialog_configureregion_tags">Tags</string>
     <string name="dialog_regionrules_tagscat">Tags</string>
-    <string name="dialog_regionrules_notags">- No tags applied -</string>
+    <string name="dialog_regionrules_notags">- Taikomos etiketės nėra -</string>
     <string name="regionlist_cat_tags">Tags</string>
-    <string name="settings_highrescitypreview">Render high res city preview</string>
-    <string name="draft_native_snow_plow_depot00_title">Snow Plow Depot</string>
-    <string name="draft_native_snow_plow_depot00_text">A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.</string>
-    <string name="settings_road_snow_overlay">Road snow overlay</string>
-    <string name="settings_ground_snow_overlay">Ground snow overlay</string>
-    <string name="dialog_scenarios_cmdopen">Scenarios</string>
-    <string name="dialog_scenarios_title">Scenarios</string>
-    <string name="dialog_scenarios_generalinfo_title">What are these scenarios?</string>
-    <string name="dialog_scenarios_generalinfo_text">Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.</string>
-    <string name="dialog_scenarios_cmdreset">Reset</string>
-    <string name="dialog_scenarios_cmdremove">Remove</string>
-    <string name="dialog_scenarios_cmdmove">Move</string>
+    <string name="settings_highrescitypreview">Atvaizduoti aukštos raiškos miesto peržiūrą</string>
+    <string name="draft_native_snow_plow_depot00_title">Sniego Plovyklos Sandėlys</string>
+    <string name="draft_native_snow_plow_depot00_text">Specializuotas objektas, skirtas keliai laikyti valomis žiemą. Iš čia išvyksta sniego valyklos, greitai pašalinančios ledą ir sniegą, užtikrinančios nepertraukiamą eismo srautą.</string>
+    <string name="settings_road_snow_overlay">Kelio sniego sluoksnis</string>
+    <string name="settings_ground_snow_overlay">Žemės sniego sluoksnis</string>
+    <string name="dialog_scenarios_cmdopen">Scenarijai</string>
+    <string name="dialog_scenarios_title">Scenarijai</string>
+    <string name="dialog_scenarios_generalinfo_title">Kas yra šie scenarijai?</string>
+    <string name="dialog_scenarios_generalinfo_text">Scenarijai TheoTown yra iš anksto paruošti žemėlapiai su specialiomis sąlygomis. Jūs statote savo miestą tam tikrų apribojimų, tokių kaip ribojamos lėšos ar konkrečios įskiepių taisyklės, sąlygomis. Baigus scenarijų, galite įkelti savo miestą ir konkuruoti su kitais draugiškos varžybos metu.</string>
+    <string name="dialog_scenarios_cmdreset">Atstatyti</string>
+    <string name="dialog_scenarios_cmdremove">Pašalinti</string>
+    <string name="dialog_scenarios_cmdmove">Perkelti</string>
     <string name="dialog_scenarios_cmdinfo">Info</string>
-    <string name="dialog_scenarios_cmdplay">Play</string>
+    <string name="dialog_scenarios_cmdplay">Žaisti</string>
     <string name="dialog_scenarios_cmdstart">Start</string>
-    <string name="dialog_scenarios_reset_title">Reset</string>
-    <string name="dialog_scenarios_reset_text">Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.</string>
-    <string name="dialog_scenarios_empty">There are no scenarios available right now.</string>
-    <string name="dialog_scenarios_notplayedyet">Not played yet</string>
-    <string name="region_download_city">Download City</string>
-    <string name="region_download_region">Download Region</string>
-    <string name="toolaction_removelast">Remove last</string>
-    <string name="ci_transportation_title">Transportation</string>
-    <string name="settings_legacy_bus_system">Use legacy bus system</string>
-    <string name="draft_tool_car_follower00_despawn">Vehicle disappeared</string>
+    <string name="dialog_scenarios_reset_title">Atstatyti</string>
+    <string name="dialog_scenarios_reset_text">Ar tikrai norite ištrinti savo pažangą? Galite ją perkelti į savo individualius miestus, jei norite tęsti žaidimą, arba visiškai ištrinti.</string>
+    <string name="dialog_scenarios_empty">Scenarijų šiuo metu nėra.</string>
+    <string name="dialog_scenarios_notplayedyet">Dar nežaista</string>
+    <string name="region_download_city">Atsisiųsti miestą</string>
+    <string name="region_download_region">Atsisiųsti regioną</string>
+    <string name="toolaction_removelast">Pašalinti paskutinį</string>
+    <string name="ci_transportation_title">Transportas</string>
+    <string name="settings_legacy_bus_system">Naudoti senąjį autobusų sistemą</string>
+    <string name="draft_tool_car_follower00_despawn">Transporto priemonė dingo</string>
 
 
     <string name="settings_extra_d">Extra D</string>
     <string name="settings_extra_d_gen">%s D</string>
-    <string name="settings_extra_d_max">3D-ish</string>
-    <string name="settings_stretching">Stretching</string>
-    <string name="settings_stretching_narrow2">Square</string>
-    <string name="settings_stretching_narrow1">Slim</string>
-    <string name="settings_stretching_narrow0">Compact</string>
-    <string name="settings_stretching_wide0">Stretchy</string>
+    <string name="settings_extra_d_max">3D-panašus</string>
+    <string name="settings_stretching">Išplėtimas</string>
+    <string name="settings_stretching_narrow2">Kvadratas</string>
+    <string name="settings_stretching_narrow1">Plonas</string>
+    <string name="settings_stretching_narrow0">Kompaktiškas</string>
+    <string name="settings_stretching_wide0">Ištempta</string>
     <string name="settings_stretching_wide1">Chungus</string>
-    <string name="settings_stretching_wide2">W I D E</string>
-    <string name="settings_notransformsupport_hint">Transformation is not supported by current %1$s-&gt;%2$s setting</string>
-    <string name="ci_airport_launchedairplanes">Launched airplanes: %s</string>
-    <string name="ci_airport_totalpassengers">Total passengers: %s</string>
-    <string name="ts_routes">Routes</string>
-    <string name="ts_stations">Stations</string>
-    <string name="ts_vehicles">Vehicles</string>
-    <string name="ts_cityview">City view</string>
-    <string name="ts_routemap">Route map</string>
-    <string name="ts_dialog_buy_vehicle_title">Buy a Vehicle</string>
-    <string name="ts_dialog_select_vehicle_title">Select a Vehicle</string>
-    <string name="ts_missing_reqs">Missing Requirements</string>
-    <string name="ts_warn_no_routes">No Routes</string>
-    <string name="ts_warn_hard_to_reach">Hard to reach, add more routes</string>
+    <string name="settings_stretching_wide2">P L A T U S</string>
+    <string name="settings_notransformsupport_hint">Transformacija nepalaikoma esamu %1$s-&gt;%2$s nustatymu</string>
+    <string name="ci_airport_launchedairplanes">Paleidė orlaivius: %s</string>
+    <string name="ci_airport_totalpassengers">Bendras keleivių skaičius: %s</string>
+    <string name="ts_routes">Maršrutai</string>
+    <string name="ts_stations">Stotys</string>
+    <string name="ts_vehicles">Transporto priemonės</string>
+    <string name="ts_cityview">Miesto vaizdas</string>
+    <string name="ts_routemap">Maršruto žemėlapis</string>
+    <string name="ts_dialog_buy_vehicle_title">Pirkti transporto priemonę</string>
+    <string name="ts_dialog_select_vehicle_title">Pasirinkite transporto priemonę</string>
+    <string name="ts_missing_reqs">Trūkstamos reikalavimai</string>
+    <string name="ts_warn_no_routes">Nėra maršrutų</string>
+    <string name="ts_warn_hard_to_reach">Sunku pasiekti, pridėkite daugiau maršrutų</string>
     <string name="ts_route_name_prefix">L</string>
     <string name="ts_route_copy_suffix">\'</string>
-    <string name="ts_route_invalid">Invalid Route</string>
-    <string name="ts_route_no_vehicle">No Vehicle assigned</string>
-    <string name="ts_route_path_broken">The path is broken</string>
-    <string name="ts_route_usage">Usage:</string>
-    <string name="ts_route_set_vehicle">Set Vehicle</string>
+    <string name="ts_route_invalid">Neteisingas maršrutas</string>
+    <string name="ts_route_no_vehicle">Nepriskirta jokių transporto priemonių</string>
+    <string name="ts_route_path_broken">Kelias yra pertrauktas</string>
+    <string name="ts_route_usage">Naudojimas:</string>
+    <string name="ts_route_set_vehicle">Nustatyti transporto priemonę</string>
     <string name="ts_route_edit">Route</string>
-    <string name="ts_route_more">More</string>
-    <string name="ts_route_duplicate">Duplicate</string>
-    <string name="ts_route_rename">Rename</string>
-    <string name="ts_dialog_route_rename_title">Route Name</string>
-    <string name="ts_route_delete">Delete</string>
-    <string name="ts_station_routes_for">Routes for </string>
-    <string name="ts_station_routes">Routes:</string>
-    <string name="ts_station_waiting">Waiting:</string>
-    <string name="ts_station_usage">Usage:</string>
-    <string name="ts_station_locate">Locate</string>
-    <string name="ts_station_rename">Rename</string>
-    <string name="ts_station_recolor">Change color</string>
-    <string name="ts_dialog_station_rename_title">Station Name</string>
-    <string name="ts_station_routes_clear">Clear</string>
-    <string name="ts_add_route">Add Route</string>
-    <string name="ts_station_show_routes">Routes</string>
-    <string name="ts_vehicle_capacity">Capacity:</string>
-    <string name="ts_vehicle_speed">Speed:</string>
-    <string name="ts_vehicle_price">Price:</string>
-    <string name="ts_vehicle_transferred">Total transferred:</string>
-    <string name="ts_vehicle_on_board">On board:</string>
-    <string name="ts_vehicle_assigned_to">Assigned to </string>
-    <string name="ts_vehicle_not_assigned">Not assigned to a route</string>
-    <string name="ts_vehicle_locate">Locate</string>
-    <string name="ts_vehicle_delete">Delete</string>
-    <string name="ts_dialog_sell_vehicle_title">Sell?</string>
-    <string name="ts_dialog_sell_vehicle_text">Do you want to sell `%s`?\nValue: %s</string>
-    <string name="ts_dialog_sell_vehicle_cmd_sell">Sell</string>
-    <string name="ts_vehicle_count">%d/%d vehicles</string>
-    <string name="ts_vehicle_count_depot_limit">%s (limited by depots)</string>
-    <string name="ts_vehicle_count_station_limit">%s (limited by stations)</string>
-    <string name="ts_buy_vehicle">Buy Vehicle</string>
-    <string name="ts_build_depot">Build Depot</string>
-    <string name="ts_vehicle_assign">Assign</string>
-    <string name="ts_vehicle_unassign">Unassign</string>
-    <string name="ts_buy_vehicle_buy_more">Buy a vehicle first to assign it</string>
-    <string name="ts_buy_vehicle_title">Vehicles</string>
-    <string name="ts_buy_vehicle_cmdbuy">Buy</string>
-    <string name="ts_cityinfo_routes">Routes:</string>
-    <string name="ts_cityinfo_stations">Stations:</string>
-    <string name="ts_routes_title">Routes</string>
-    <string name="ts_stations_title">Stations</string>
-    <string name="ts_vehicles_title">Vehicles</string>
-    <string name="ts_mode_one_shot">One Shot</string>
-    <string name="ts_mode_loop">Loop</string>
-    <string name="ts_mode_ping_pong">Ping Pong</string>
+    <string name="ts_route_more">Daugiau</string>
+    <string name="ts_route_duplicate">Dubliuoti</string>
+    <string name="ts_route_rename">Pervadinti</string>
+    <string name="ts_dialog_route_rename_title">Maršruto pavadinimas</string>
+    <string name="ts_route_delete">Ištrinti</string>
+    <string name="ts_station_routes_for">Maršrutai skirti</string>
+    <string name="ts_station_routes">Maršrutai:</string>
+    <string name="ts_station_waiting">Laukiant:</string>
+    <string name="ts_station_usage">Naudojimas:</string>
+    <string name="ts_station_locate">Rodyti</string>
+    <string name="ts_station_rename">Pervadinti</string>
+    <string name="ts_station_recolor">Keisti spalvą</string>
+    <string name="ts_dialog_station_rename_title">Stoties pavadinimas</string>
+    <string name="ts_station_routes_clear">Išvalyti</string>
+    <string name="ts_add_route">Pridėti maršrutą</string>
+    <string name="ts_station_show_routes">Maršrutai</string>
+    <string name="ts_vehicle_capacity">Talpa:</string>
+    <string name="ts_vehicle_speed">Greitis:</string>
+    <string name="ts_vehicle_price">Kaina:</string>
+    <string name="ts_vehicle_transferred">Viso pervežta:</string>
+    <string name="ts_vehicle_on_board">Įsėdę:</string>
+    <string name="ts_vehicle_assigned_to">Priskirta</string>
+    <string name="ts_vehicle_not_assigned">Nepriskirta maršrutui</string>
+    <string name="ts_vehicle_locate">Rasti</string>
+    <string name="ts_vehicle_delete">Ištrinti</string>
+    <string name="ts_dialog_sell_vehicle_title">Parduoti?</string>
+    <string name="ts_dialog_sell_vehicle_text">Ar norite parduoti „%s“?\n
+Vertė: %s</string>
+    <string name="ts_dialog_sell_vehicle_cmd_sell">Parduoti</string>
+    <string name="ts_vehicle_count">%d/%d transporto priemonės</string>
+    <string name="ts_vehicle_count_depot_limit">%s (apribotas sandėlių skaičiumi)</string>
+    <string name="ts_vehicle_count_station_limit">%s (riboti stotys)</string>
+    <string name="ts_buy_vehicle">Pirkti transporto priemonę</string>
+    <string name="ts_build_depot">Statyti sandėlį</string>
+    <string name="ts_vehicle_assign">Priskirti</string>
+    <string name="ts_vehicle_unassign">Atšaukti paskyrimą</string>
+    <string name="ts_buy_vehicle_buy_more">Pirkite transporto priemonę, kad galėtumėte ją priskirti</string>
+    <string name="ts_buy_vehicle_title">Transporto priemonės</string>
+    <string name="ts_buy_vehicle_cmdbuy">Pirkti</string>
+    <string name="ts_cityinfo_routes">Maršrutai:</string>
+    <string name="ts_cityinfo_stations">Stotys:</string>
+    <string name="ts_routes_title">Maršrutai</string>
+    <string name="ts_stations_title">Stotys</string>
+    <string name="ts_vehicles_title">Transporto priemonės</string>
+    <string name="ts_mode_one_shot">Vienas šūvis</string>
+    <string name="ts_mode_loop">Ciklas</string>
+    <string name="ts_mode_ping_pong">Ping Pongas</string>
     <string name="draft_bus00_title">TB-20</string>
     <string name="draft_bus02_title">TB-35</string>
     <string name="draft_bus04_title">TB-80</string>
     <string name="draft_bus06_title">TB-140A</string>
     <string name="draft_bus08_title">TB-200B</string>
-    <string name="draft_ts_native_bus00_title">Buses</string>
-    <string name="draft_elevated_train_train00_title">Main</string>
-    <string name="draft_elevated_train_train01_title">Secondary</string>
-    <string name="draft_ts_native_elevatedtrain00_title">Elevated Train</string>
-    <string name="draft_train_freighter_coal00_title">Coal Train</string>
-    <string name="draft_train_freighter_wood00_title">Wood Train</string>
-    <string name="draft_train_freighter_car00_title">Car Train</string>
-    <string name="draft_train_freighter_petrol00_title">Petrol Train</string>
-    <string name="draft_train_freighter_container00_title">Container Train</string>
-    <string name="draft_ts_native_freighttrain00_title">Freight Trains</string>
-    <string name="draft_ts_metro_train00_title">Metro Unit 69</string>
+    <string name="draft_ts_native_bus00_title">Autobusai</string>
+    <string name="draft_elevated_train_train00_title">Pagrindinis</string>
+    <string name="draft_elevated_train_train01_title">Antrinis</string>
+    <string name="draft_ts_native_elevatedtrain00_title">Pakelta geležinkelio traukinys</string>
+    <string name="draft_train_freighter_coal00_title">Anglies traukinys</string>
+    <string name="draft_train_freighter_wood00_title">Medieno traukinys</string>
+    <string name="draft_train_freighter_car00_title">Automobilių Tranzitas</string>
+    <string name="draft_train_freighter_petrol00_title">Degalų traukinys</string>
+    <string name="draft_train_freighter_container00_title">Konteinerių traukinys</string>
+    <string name="draft_ts_native_freighttrain00_title">Krovinių Trėkiniai</string>
+    <string name="draft_ts_metro_train00_title">Metro vienetas 69</string>
     <string name="draft_ts_native_metro00_title">Metro</string>
     <string name="draft_train_odeg00_title">ODEG</string>
     <string name="draft_train_neb00_title">NEB</string>
@@ -3548,100 +3408,130 @@ Press the road to be built. Then while in the build menu, press a tile and then 
     <string name="draft_train_ice00_title">ICE</string>
     <string name="draft_train_regio00_title">Regio</string>
     <string name="draft_train_ic00_title">IC</string>
-    <string name="draft_ts_native_passengertrain00_title">Passenger Trains</string>
-    <string name="ts_no_routes">Create a route to get started</string>
-    <string name="ts_no_routes_station">No routes assigned to this station</string>
-    <string name="ts_no_stations">Build stations and connect them with routes</string>
-    <string name="ts_no_vehicles">Buy a vehicle to begin service</string>
-    <string name="control_copy">Copy</string>
-    <string name="control_paste">Paste</string>
-    <string name="dialog_colorpicker_title">Select a color</string>
+    <string name="draft_ts_native_passengertrain00_title">Keleiviniai traukiniai</string>
+    <string name="ts_no_routes">Sukurkite maršrutą, kad pradėtumėte</string>
+    <string name="ts_no_routes_station">Šiai stotijai nepriskirta maršrutų</string>
+    <string name="ts_no_stations">Statyti stotis ir jungti jas maršrutais</string>
+    <string name="ts_no_vehicles">Įsigykite transporto priemonę, kad pradėtumėte paslaugą</string>
+    <string name="control_copy">Kopijuoti</string>
+    <string name="control_paste">Įklijuoti</string>
+    <string name="dialog_colorpicker_title">Pasirinkite spalvą</string>
     <string name="ts_location_west">%s West</string>
-    <string name="ts_location_south">%s South</string>
-    <string name="ts_location_north">%s North</string>
-    <string name="ts_location_east">%s East</string>
-    <string name="ts_location_center">%s Center</string>
-    <string name="ts_location_inner">%s Inner</string>
-    <string name="ts_location_outer">%s Outer</string>
-    <string name="ts_location_edge">%s Edge</string>
-    <string name="ts_names_residential_maplestreet">Maple Street Stop</string>
-    <string name="ts_names_residential_elmwooddrive">Elmwood Drive</string>
-    <string name="ts_names_residential_oaklane">Oak Lane</string>
-    <string name="ts_names_residential_villagegreen">Village Green</string>
-    <string name="ts_names_commercial_marketsquare">Market Square</string>
-    <string name="ts_names_commercial_mainstreetmall">Main Street Mall</string>
-    <string name="ts_names_commercial_commerceplaza">Commerce Plaza</string>
-    <string name="ts_names_commercial_downtowncenter">Downtown Center</string>
-    <string name="ts_names_commercial_shoppingdistrict">Shopping District</string>
-    <string name="ts_names_industrial_industrialpark">Industrial Park</string>
-    <string name="ts_names_industrial_factorygate">Factory Gate</string>
-    <string name="ts_names_industrial_warehouserow">Warehouse Row</string>
-    <string name="ts_names_industrial_freightyard">Freight Yard</string>
-    <string name="ts_names_industrial_commercedrive">Commerce Drive</string>
-    <string name="ts_names_harbor_harbourfront">Harbour Front</string>
-    <string name="ts_names_harbor_waterfrontpier">Waterfront Pier</string>
-    <string name="ts_names_harbor_riversidedocks">Riverside Docks</string>
-    <string name="ts_names_harbor_seawallstop">Seawall Stop</string>
-    <string name="ts_names_farm_farmroad">Farm Road</string>
-    <string name="ts_names_farm_countryside">Countryside</string>
-    <string name="ts_names_farm_fieldsstop">Fields Stop</string>
-    <string name="ts_names_farm_orchard">Orchard</string>
-    <string name="ts_names_farm_pastures">Pastures</string>
-    <string name="ts_names_farm_ruralgate">Rural Gate</string>
-    <string name="ts_names_park_centralpark">Central Park</string>
-    <string name="ts_names_park_meadowpark">Meadow Park</string>
-    <string name="ts_names_park_woodlandgardens">Woodland Gardens</string>
-    <string name="ts_names_airport_airportterminal">Airport Terminal</string>
-    <string name="ts_names_airport_terminalshuttle">Terminal Shuttle</string>
-    <string name="ts_names_airport_aviationway">Aviation Way</string>
-    <string name="ts_names_airport_flyerstop">Flyer Stop</string>
-    <string name="ts_names_airport_airportgate">Airport Gate</string>
-    <string name="ts_names_military_basegate">Base Gate</string>
-    <string name="ts_names_military_fortmain">Fort Main</string>
-    <string name="ts_names_military_barracksstop">Barracks Stop</string>
-    <string name="ts_names_military_arsenalroad">Arsenal Road</string>
-    <string name="ts_names_military_garrisondepot">Garrison Depot</string>
-    <string name="ts_names_water_riverside">Riverside</string>
-    <string name="ts_names_water_riverbank">Riverbank</string>
-    <string name="ts_names_water_lakeside">Lakeside</string>
-    <string name="ts_names_water_seaside">Seaside</string>
-    <string name="ts_names_water_beachfront">Beachfront</string>
-    <string name="draft_pmono_tracks00_title">Monorail Tracks</string>
-    <string name="draft_pmono_tracks00_text">Elevated tracks used for monorail operation.</string>
-    <string name="draft_pmono_roaddeco_roof00_title">Monorail Station Roof</string>
-    <string name="draft_pmono_roaddeco_roof00_text">Roof element for covering monorail station platforms.</string>
-    <string name="draft_pmono_station00_title">Monorail Station</string>
-    <string name="draft_pmono_station00_text">A modular station for local monorail traffic.</string>
-    <string name="draft_pmono_station_prebuilt00_title">Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt00_text">A prebuilt monorail station for local traffic.</string>
-    <string name="draft_pmono_station_prebuilt01_title">Large Monorail Station</string>
-    <string name="draft_pmono_station_prebuilt01_text">A larger prebuilt monorail station with extended capacity.</string>
+    <string name="ts_location_south">%s Pietų</string>
+    <string name="ts_location_north">%s Šiaurė</string>
+    <string name="ts_location_east">%s Rytai</string>
+    <string name="ts_location_center">%s Centras</string>
+    <string name="ts_location_inner">%s Vidus</string>
+    <string name="ts_location_outer">%s Išorė</string>
+    <string name="ts_location_edge">%s Kraštas</string>
+    <string name="ts_names_residential_maplestreet">Klevų gatvės stotelė</string>
+    <string name="ts_names_residential_elmwooddrive">Elmwoodo gatvė</string>
+    <string name="ts_names_residential_oaklane">Ąžuolo alėja</string>
+    <string name="ts_names_residential_villagegreen">Kaimo Žaluma</string>
+    <string name="ts_names_commercial_marketsquare">Prekybos aikštė</string>
+    <string name="ts_names_commercial_mainstreetmall">Pagrindinės Gatvės Prekybos Centras</string>
+    <string name="ts_names_commercial_commerceplaza">Prekybos aikštė</string>
+    <string name="ts_names_commercial_downtowncenter">Miesto centras</string>
+    <string name="ts_names_commercial_shoppingdistrict">Pirkimų rajonas</string>
+    <string name="ts_names_industrial_industrialpark">Pramonės parkas</string>
+    <string name="ts_names_industrial_factorygate">Fabriko Vartai</string>
+    <string name="ts_names_industrial_warehouserow">Sandėlių eilė</string>
+    <string name="ts_names_industrial_freightyard">Krovinių Kiemas</string>
+    <string name="ts_names_industrial_commercedrive">Prekybos kelias</string>
+    <string name="ts_names_harbor_harbourfront">Uosto Frontas</string>
+    <string name="ts_names_harbor_waterfrontpier">Prieplaukos Prieiga</string>
+    <string name="ts_names_harbor_riversidedocks">Upės Kranto Dokai</string>
+    <string name="ts_names_harbor_seawallstop">Pajūrio siena Stotelė</string>
+    <string name="ts_names_farm_farmroad">Ūkinis kelias</string>
+    <string name="ts_names_farm_countryside">Kaimiškas kraštovaizdis</string>
+    <string name="ts_names_farm_fieldsstop">Laukų Stotelė</string>
+    <string name="ts_names_farm_orchard">Sodas</string>
+    <string name="ts_names_farm_pastures">Ganyklos</string>
+    <string name="ts_names_farm_ruralgate">Kaimo Vartai</string>
+    <string name="ts_names_park_centralpark">Centrinis Parkas</string>
+    <string name="ts_names_park_meadowpark">Pievinės Parkas</string>
+    <string name="ts_names_park_woodlandgardens">Miško sodai</string>
+    <string name="ts_names_airport_airportterminal">Oro uosto terminalas</string>
+    <string name="ts_names_airport_terminalshuttle">Terminalo Šatlė</string>
+    <string name="ts_names_airport_aviationway">Aviacijos kelias</string>
+    <string name="ts_names_airport_flyerstop">Skraidyklų Stotelė</string>
+    <string name="ts_names_airport_airportgate">Oro uosto vartai</string>
+    <string name="ts_names_military_basegate">Bazės Vartai</string>
+    <string name="ts_names_military_fortmain">Pagrindinė Fortas</string>
+    <string name="ts_names_military_barracksstop">Kareivinės Stotelė</string>
+    <string name="ts_names_military_arsenalroad">Arsenalo gatvė</string>
+    <string name="ts_names_military_garrisondepot">Garnizono Sandėlys</string>
+    <string name="ts_names_water_riverside">Upelio krantas</string>
+    <string name="ts_names_water_riverbank">Kranto pakrante</string>
+    <string name="ts_names_water_lakeside">Ežero pakrantė</string>
+    <string name="ts_names_water_seaside">Pajūris</string>
+    <string name="ts_names_water_beachfront">Pajūrio promenada</string>
+    <string name="draft_pmono_tracks00_title">Monorelio bėgiai</string>
+    <string name="draft_pmono_tracks00_text">Pakeltos bėgiai, naudojami monorelio veiklai.</string>
+    <string name="draft_pmono_roaddeco_roof00_title">Monorailo stoties stogas</string>
+    <string name="draft_pmono_roaddeco_roof00_text">Stogo elementas monorėlės stoties platformų dengimui.</string>
+    <string name="draft_pmono_station00_title">Monorelio stotis</string>
+    <string name="draft_pmono_station00_text">Moduline stotis vietiniam monorelso eismui.</string>
+    <string name="draft_pmono_station_prebuilt00_title">Monorelio Stotis</string>
+    <string name="draft_pmono_station_prebuilt00_text">Iš anksto pastatyta monorelio stotis vietiniam eismui.</string>
+    <string name="draft_pmono_station_prebuilt01_title">Didelė monorelio stotis</string>
+    <string name="draft_pmono_station_prebuilt01_text">Didelė iš anksto pastatyta monorelio stotis su didesne talpa.</string>
     <string name="draft_pmono_train00_title">Monorail 2000</string>
     <string name="draft_ts_native_monorail00_title">Monorail</string>
 
 
-    <string name="stage_musicmanager_title">Music Library</string>
+    <string name="stage_musicmanager_title">Muzikos Biblioteka</string>
     <string name="stage_musicmanager_original">Original</string>
-    <string name="stage_musicmanager_import">Import Music</string>
-    <string name="stage_musicmanager_volume">Volume</string>
-    <string name="stage_musicmanager_alreadyimported">`%s` was imported already</string>
-    <string name="control_active">Active</string>
-    <string name="control_inactive">Inactive</string>
-    <string name="control_delete">Delete</string>
-    <string name="dialog_deletemusic_title">Delete Music</string>
-    <string name="dialog_deletemusic_text">Are you sure that you want to delete `%s`?</string>
-    <string name="gamemenu_catmusic">Music</string>
+    <string name="stage_musicmanager_import">Importuoti muziką</string>
+    <string name="stage_musicmanager_volume">Garsas</string>
+    <string name="stage_musicmanager_alreadyimported">`%s` jau buvo importuotas</string>
+    <string name="control_active">Aktyvus</string>
+    <string name="control_inactive">Neaktyvus</string>
+    <string name="control_delete">Ištrinti</string>
+    <string name="dialog_deletemusic_title">Ištrinti muziką</string>
+    <string name="dialog_deletemusic_text">Ar tikrai norite ištrinti `%s`?</string>
+    <string name="gamemenu_catmusic">Muzika</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s (%d stotys)</string>
+    <string name="ts_tool_all_routes">%s (%d maršrutai)</string>
+    <string name="ts_tool_add_random_station">Pridėti atsitiktinę stotį</string>
+    <string name="ts_reached_vehicle_limit">Negalima priskirti daugiau nei %d transporto priemonių šiam maršrutui!</string>
+    <string name="musictype_game">Žaidimas</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (numatytasis)</string>
+    <string name="dialog_unlink_steam_title">Atsieti paskyrą?</string>
+    <string name="dialog_unlink_steam_text">Tai atjungia jūsų forumo paskyrą nuo jūsų „Steam“ paskyros. Tai gali sukelti šalutinių poveikių ir tai turėtų būti atliekama tik jei būtina. Žaidimas bus perleistas po atjungimo.</string>
+    <string name="dialog_unlink_steam_cmdunlink">Atsieti paskyrą</string>
+
+
+    <string name="store_cat_heightmaps">Aukščių žemėlapiai</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">arba el. paštas</string>
+    <string name="dialog_restore_title">Atkurti miestą</string>
+    <string name="dialog_restore_nobackups">Atsarginių kopijų nėra :(</string>
+    <string name="dialog_restore_current">(aktyvus)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">Nuolat atrakina šiuos pastatus statybai be deimantų.</string>
+    <string name="settings_edge_gradients">Ekrano kraštų gradientai</string>
+    <string name="legend_pipe">Vamzdis</string>
+    <string name="legend_wet">Drėgna</string>
+    <string name="legend_dry">Sausas</string>
+    <string name="legend_protected_buildings">Apsaugota</string>
+    <string name="legend_density_low">Žema tankis</string>
+    <string name="legend_density_high">Aukštas tankis</string>
+    <string name="legend_traffic_low">Mažas eismas</string>
+    <string name="legend_traffic_high">Didelis eismas</string>
+    <string name="legend_happy">Laimingas</string>
+    <string name="legend_unhappy">Nelaimingas</string>
+    <string name="legend_high">Aukštas</string>
+    <string name="legend_low">Žemas</string>
+    <string name="legend_good">Geras</string>
+    <string name="legend_bad">Blogai</string>
+    <string name="legend_low_voltage">Normali įtampa</string>
+    <string name="legend_high_voltage">Aukšta įtampa</string>
+    <string name="legend_mixed_voltage">Abiejų rūšių įtampa</string>
+    <string name="legend_metro">Metro</string>
+    <string name="legend_ts_edit">%s (redagavimas)</string>
 
 </resources>

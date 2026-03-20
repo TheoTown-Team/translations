@@ -817,7 +817,7 @@
     <string name="draft_feature_services00_title">服务套餐</string>
     <string name="draft_feature_tourism00_title">旅游套餐</string>
     <string name="draft_feature_premium00_title">附加套餐</string>
-    <string name="features_money">Get %1$s for %2$s</string>
+    <string name="features_money">获得%1$s作为%2$s的报酬</string>
     <string name="features_getrank">购买级别升级</string>
     <string name="settings_hide_rank_features">隐藏级别升级</string>
     <string name="draftselector_titleairport">机场</string>
@@ -2245,7 +2245,7 @@
     <string name="toolaction_nextbuilding">下个建筑</string>
     <string name="toolaction_prevbuilding">上个建筑</string>
     <string name="toolaction_abortmovebuilding">中止</string>
-    <string name="toolaction_rocketfire">Fire</string>
+    <string name="toolaction_rocketfire">火箭发射</string>
     <string name="toolaction_nextsign">下个标签</string>
     <string name="toolaction_prevsign">上个标签</string>
     <string name="toolaction_terraindeeper">下降</string>
@@ -3596,7 +3596,7 @@
     <string name="draft_train_freighter_petrol00_title">燃油列车</string>
     <string name="draft_train_freighter_container00_title">集装箱列车</string>
     <string name="draft_ts_native_freighttrain00_title">货运列车</string>
-    <string name="draft_ts_metro_train00_title">Metro Unit 69</string>
+    <string name="draft_ts_metro_train00_title">地铁单位69</string>
     <string name="draft_ts_native_metro00_title">地铁</string>
     <string name="draft_train_odeg00_title">ODEG</string>
     <string name="draft_train_neb00_title">NEB</string>
@@ -3690,15 +3690,45 @@
     <string name="gamemenu_catmusic">音乐</string>
 
 
-    <string name="ts_tool_edit_route">%s (%d stations)</string>
-    <string name="ts_tool_all_routes">%s (%d routes)</string>
-    <string name="ts_tool_add_random_station">Add random station</string>
-    <string name="ts_reached_vehicle_limit">Cannot assign more than %d vehicles to this route!</string>
-    <string name="musictype_game">Game</string>
+    <string name="ts_tool_edit_route">%s（%d个车站）</string>
+    <string name="ts_tool_all_routes">%s（%d 条路线）</string>
+    <string name="ts_tool_add_random_station">添加随机站点</string>
+    <string name="ts_reached_vehicle_limit">无法为此路线分配超过%d辆车！</string>
+    <string name="musictype_game">游戏</string>
     <string name="musictype_action">Action</string>
-    <string name="musictype_default">%s (default)</string>
-    <string name="dialog_unlink_steam_title">Unlink Account?</string>
-    <string name="dialog_unlink_steam_text">This unlinks your forum account from your Steam account. This may have side effects and should only be done if necessary. The game will restart after unlinking.</string>
-    <string name="dialog_unlink_steam_cmdunlink">Unlink account</string>
+    <string name="musictype_default">%s (默认)</string>
+    <string name="dialog_unlink_steam_title">解除账户链接？</string>
+    <string name="dialog_unlink_steam_text">这将解除您的论坛帐户与您的Steam帐户的关联。这可能会有副作用，只有在必要时才应执行。解除链接后，游戏将重新启动。</string>
+    <string name="dialog_unlink_steam_cmdunlink">取消链接账户</string>
+
+
+    <string name="store_cat_heightmaps">高度图</string>
+    <string name="buildinginfo_happiness_line">%2$.0f%% (%1$s)</string>
+    <string name="forum_oremail">或电子邮件</string>
+    <string name="dialog_restore_title">恢复城市</string>
+    <string name="dialog_restore_nobackups">没有可用的备份 :(</string>
+    <string name="dialog_restore_current">(活动)</string>
+    <string name="draft_part_of_plugin">Plugin: %s</string>
+    <string name="stage_special_offer_text">永久解锁以下建筑物，可以免费使用钻石进行建造。</string>
+    <string name="settings_edge_gradients">屏幕边缘渐变</string>
+    <string name="legend_pipe">管道</string>
+    <string name="legend_wet">湿润</string>
+    <string name="legend_dry">干燥</string>
+    <string name="legend_protected_buildings">受保护的</string>
+    <string name="legend_density_low">低密度</string>
+    <string name="legend_density_high">高密度</string>
+    <string name="legend_traffic_low">低交通流量</string>
+    <string name="legend_traffic_high">高流量</string>
+    <string name="legend_happy">快乐</string>
+    <string name="legend_unhappy">不快乐</string>
+    <string name="legend_high">高</string>
+    <string name="legend_low">低</string>
+    <string name="legend_good">好的</string>
+    <string name="legend_bad">差</string>
+    <string name="legend_low_voltage">正常电压</string>
+    <string name="legend_high_voltage">高压</string>
+    <string name="legend_mixed_voltage">混合电压</string>
+    <string name="legend_metro">地铁</string>
+    <string name="legend_ts_edit">%s (正在编辑)</string>
 
 </resources>
