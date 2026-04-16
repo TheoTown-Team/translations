@@ -25,6 +25,7 @@ Here is a list of currently supported languages:
 - `values-af`: Afrikaans
 - `values-ar`: Arabic
 - `values-b+fil`: Filipino
+- `values-b+jv+x+sby`: Javanese – East Java (Surabaya)
 - `values-ca`: Catalan
 - `values-cs`: Czech
 - `values-de`: German ← **Always up to date**
