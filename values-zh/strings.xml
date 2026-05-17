@@ -268,7 +268,7 @@
     <string name="topic_android">现在苹果也可以玩了哦 (</string>
     <string name="shader_default">经典</string>
     <string name="shader_colorful">鲜艳</string>
-    <string name="shader_fancy">准确</string>
+    <string name="shader_fancy">华丽</string>
     <string name="settings_sound_ui">界面音效</string>
     <string name="settings_title">设置</string>
     <string name="settings_topstatusbar">状态栏顶置</string>
@@ -819,7 +819,7 @@
     <string name="draft_feature_premium00_title">附加套餐</string>
     <string name="features_money">获得%1$s作为%2$s的报酬</string>
     <string name="features_getrank">购买级别升级</string>
-    <string name="settings_hide_rank_features">隐藏级别升级</string>
+    <string name="settings_hide_rank_features">隐藏等级购买项</string>
     <string name="draftselector_titleairport">机场</string>
     <string name="disaster_ufo_title">UFO</string>
     <string name="disaster_ufo_text">UFO 袭击了你的城市！</string>
@@ -1666,7 +1666,7 @@
     <string name="draft_swfc_tower00_title">上海环球金融中心</string>
     <string name="draft_swfc_tower00_text">上海环球金融中心是一栋位于上海的摩天大楼，在 2008 年竣工，高 494 米。</string>
     <string name="draft_feature_landmarks03_title">地标 IV</string>
-    <string name="draft_feature_landmarks03_text">上海的精美建筑物</string>
+    <string name="draft_feature_landmarks03_text">亚洲的精美建筑物</string>
     <string name="draft_cat_asphalt00_title">沥青</string>
     <string name="draft_asphalt00_title">灰色沥青</string>
     <string name="draft_asphalt00_text">不要用它替代自然！尽管如此，上面也可以种树。</string>
@@ -1684,7 +1684,7 @@
     <string name="draft_toji00_title">东寺 (教王护国寺)</string>
     <string name="draft_toji00_text">东寺是一座位于日本京都市的佛寺。它竣工于 796 年，高 55 米</string>
     <string name="ca_wastedisposal_text2">垃圾运输量：%1$,d/%2$,d 升/天</string>
-    <string name="notify_waste_needer00">这栋建筑物没有受到垃圾处理服务</string>
+    <string name="notify_waste_needer00">这栋建筑物没有受到垃圾处理服务，臭气熏天！</string>
     <string name="notify_waste_producer00">这个填埋场的容量已满，请点击清理！</string>
     <string name="draft_landfill00_text">用来收集所有的垃圾的大量的空间。只能空置时才能移除。</string>
     <string name="waste_clear">在垃圾上 滑动屏幕 来清理它。</string>
@@ -1797,7 +1797,7 @@
     <string name="draft_feature_landmarks04_text">来点宏大的建筑！</string>
 
 
-    <string name="draft_roaddeco_barrier_open00_title">阻拦带</string>
+    <string name="draft_roaddeco_barrier_open00_title">起落栏杆</string>
     <string name="draft_roaddeco_barrier_open00_text">点击以开关。对制造拥堵很有用。</string>
     <string name="selectable_find">查找 (%,d)</string>
     <string name="gallery_upload_success">成功</string>
@@ -2274,7 +2274,7 @@
     <string name="dialog_accountdisclaimer_title">账号</string>
     <string name="dialog_accountdisclaimer_text">您可以将游戏连接到一个或多个帐户。\n\n
 通过将游戏连接到西奥小镇论坛帐户，您可以参与评论。</string>
-    <string name="ci_rci_help">需求描述了对特定建筑物的需求。它分为住宅，商业和工业需求。这三种需求都有三种不同的财富水平。</string>
+    <string name="ci_rci_help">需求描述了对特定建筑物的需求。它分为住宅，商业和工业需求。这三种需求都有三种不同的财富水平；基准线以上代表供小于求，以下则反之</string>
 
 
     <string name="draft_destroyed_tree00_title">烧焦的树</string>
@@ -3086,9 +3086,9 @@
     <string name="draft_lookout_tower00_text">瞭望森林，便于第一时间发现火情。</string>
     <string name="draft_boulders00_title">巨石</string>
     <string name="draft_boulders00_text">巨大的岩石，形状各异。</string>
-    <string name="draft_highway_sign00_title">高速路牌</string>
-    <string name="draft_highway_sign00_text">指导人们该走哪里。</string>
-    <string name="draft_road05_ramp00_title">高速闸道 (单行道)</string>
+    <string name="draft_highway_sign00_title">路牌</string>
+    <string name="draft_highway_sign00_text">电子地图消失时的绝佳选择，指引人们未来的方向。</string>
+    <string name="draft_road05_ramp00_title">高速匝道 (单行道)</string>
     <string name="draft_road05_ramp00_text">连接高速路和普通道路，也可以用于高速之间的连接。</string>
     <string name="settings_units">单位</string>
     <string name="settings_units_auto">自动 (%s)</string>
@@ -3503,7 +3503,7 @@
     <string name="settings_legacy_bus_system">使用旧版公交系统</string>
     <string name="draft_tool_car_follower00_despawn">载具消失</string>
 
-    <string name="settings_extra_d">额外维度</string>
+    <string name="settings_extra_d">画面深度</string>
     <string name="settings_extra_d_gen">%s D</string>
     <string name="settings_extra_d_max">伪3D</string>
     <string name="settings_stretching">画面拉伸</string>
@@ -3709,7 +3709,7 @@
     <string name="dialog_restore_nobackups">没有可用的备份 :(</string>
     <string name="dialog_restore_current">(活动)</string>
     <string name="draft_part_of_plugin">Plugin: %s</string>
-    <string name="stage_special_offer_text">永久解锁以下建筑物，可以免费使用钻石进行建造。</string>
+    <string name="stage_special_offer_text">永久解锁以下建筑物，无需使用钻石进行建造。</string>
     <string name="settings_edge_gradients">屏幕边缘渐变</string>
     <string name="legend_pipe">管道</string>
     <string name="legend_wet">湿润</string>
