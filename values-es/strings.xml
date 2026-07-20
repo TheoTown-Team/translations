@@ -32,7 +32,7 @@
     <string name="dialog_nocities_text">No se puede encontrar ninguna ciudad.</string>
     <string name="dialog_nocities_cmdback">Cancelar</string>
     <string name="dialog_nocities_cmdnewcity">Nueva Ciudad</string>
-    <string name="settings_drawcars">Ver autos</string>
+    <string name="settings_drawcars">Ver coches</string>
     <string name="settings_drawsmoke">Ver humo</string>
     <string name="settings_transparencybuildmode">Transparencia en el modo de construcción</string>
     <string name="settings_buildgrid">Rejilla en modo de construcción</string>
@@ -74,7 +74,7 @@
     <string name="dialog_invalidcityname_text">Utilice otro nombre para la ciudad. No se permite que esté vacío.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Mapa grande</string>
-    <string name="dialog_hugesize_text">Este tamaño es sólo experimental y puede que no funcione en su dispositivo. ¿Realmente necesita un mapa enorme?</string>
+    <string name="dialog_hugesize_text">Este tamaño es solo experimental y puede que no funcione en su dispositivo. ¿Realmente necesita un mapa enorme?</string>
     <string name="dialog_hugesize_cmdyes">Sí</string>
     <string name="dialog_hugesize_cmdno">No</string>
     <string name="draft_church00_title">Iglesia</string>
@@ -86,9 +86,9 @@
     <string name="draft_windturbine00_title">Turbina eólica</string>
     <string name="draft_windturbine00_text">Una turbina eólica hace ruido pero no contamina.</string>
     <string name="draft_coalplant00_title">Planta de carbón</string>
-    <string name="draft_coalplant00_text">La planta de carbón genera mucha energía, pero también es mala para el medio ambiente.</string>
+    <string name="draft_coalplant00_text">La planta de carbón genera mucha energía, pero también es mala para el medioambiente.</string>
     <string name="draft_solarpanels00_title">Paneles solares</string>
-    <string name="draft_solarpanels00_text">Los paneles solares son buenos para el medio ambiente.</string>
+    <string name="draft_solarpanels00_text">Los paneles solares son buenos para el medioambiente.</string>
     <string name="draft_park00_title">Pequeño parque de flores</string>
     <string name="draft_park00_text">A los habitantes les gustará.</string>
     <string name="draft_park01_title">Parque pequeño</string>
@@ -117,7 +117,7 @@
     <string name="draft_waterpump00_text">Proporciona agua para sus edificios.</string>
     <string name="draft_watertower00_title">Torre de agua</string>
     <string name="draft_watertower00_text">Proporciona agua para los edificios.</string>
-    <string name="settings_areazonetool">Utilizar la herramienta zona de área</string>
+    <string name="settings_areazonetool">Utilizar la herramienta zona de área.</string>
     <string name="createcity_gamemode">Modo de juego:</string>
     <string name="gamemode_easy">Fácil</string>
     <string name="gamemode_middle">Medio</string>
@@ -132,7 +132,7 @@
     <string name="settings_shader">Sombreado</string>
     <string name="shader_colorful">Atractivo</string>
     <string name="shader_gray">Gris</string>
-    <string name="shader_fancy">Fantastico</string>
+    <string name="shader_fancy">Fantástico</string>
     <string name="settings_category_graphics">Gráficos</string>
     <string name="settings_category_audio">Sonido</string>
     <string name="settings_category_other">Otro</string>
@@ -165,7 +165,7 @@
     <string name="budget_park">Parques</string>
     <string name="budget_education">Educación</string>
     <string name="budget_firebrigade">Brigada de bomberos</string>
-    <string name="budget_police">Policias</string>
+    <string name="budget_police">Policías</string>
     <string name="budget_award">Regalos</string>
     <string name="budget_energy">Energía</string>
     <string name="budget_water">Agua</string>
@@ -209,7 +209,7 @@
     <string name="draft_treepark01_title">Parque de árboles</string>
     <string name="draft_treepark01_text">Un pequeño parque con árboles. A los habitantes les gustará.</string>
     <string name="buildinginfo_res0">Residencial ₮</string>
-    <string name="buildinginfo_com0">Com ₮</string>
+    <string name="buildinginfo_com0">Comercial ₮</string>
     <string name="buildinginfo_ind0">Industrial ₮</string>
     <string name="buildinginfo_res1">Residencial ₮₮</string>
     <string name="buildinginfo_res2">Residencial ₮₮₮</string>
@@ -224,8 +224,8 @@
     <string name="settings_energysaving">Modo de ahorro de energía</string>
     <string name="about_idea">Idea:</string>
     <string name="about_programming">Programación:</string>
-    <string name="about_graphics">Graficos:</string>
-    <string name="about_music">Musica:</string>
+    <string name="about_graphics">Gráficos:</string>
+    <string name="about_music">Música:</string>
     <string name="about_engine">Motor gráfico:</string>
     <string name="draft_police00_title">Estación de Policía</string>
     <string name="draft_police00_text">Para mayor seguridad.</string>
@@ -254,7 +254,7 @@
     <string name="settings_orientation">Orientación de la pantalla</string>
     <string name="settings_orientationlandscape">Horizontal</string>
     <string name="settings_orientationportrait">Vertical</string>
-    <string name="settings_orientationauto">Auto</string>
+    <string name="settings_orientationauto">Automática</string>
     <string name="draft_busdepot00_title">Estación de autobuses</string>
     <string name="draft_busdepot00_text">Se necesita un depósito para turnar las salidas de los autobuses a diferentes sitios.</string>
     <string name="settings_debugmode">Modo de depuración</string>
@@ -2987,7 +2987,7 @@ Presiona una tecla para asignarlo a esta acción.</string>
     <string name="draft_space_storyline_ending_01">A cambio, nos gustaría darle este medio de almacenamiento.</string>
     <string name="draft_space_storyline_ending_02">Contiene todo nuestro conocimiento guardado.</string>
     <string name="draft_space_storyline_ending_03">Cuando estes listo, inicia el tiro estelar.</string>
-    <string name="draft_space_storyline_ending_04">¡Adios amigos!</string>
+    <string name="draft_space_storyline_ending_04">¡Adiós amigos!</string>
     <string name="draft_dsa_award00_title">Una piedra</string>
     <string name="draft_dsa_award00_text">Ahora, ¿de donde ha salido esta piedra?</string>
     <string name="draft_dsa_moon_pickle_rocket00_title">Cohete pepinillo</string>
@@ -3332,7 +3332,7 @@ No todos los edificios tienen frames de rotación
     Algunos edificios del juego base no tienen frames de rotación, pero esto es más prevalente con los plugins debido a que los autores no suelen dibujarlos. Para ver qué edificios tienen frames de rotación, dale clic en un edificio y mira si se puede cambiar de variante con los botones en la esquina superior derecha. No tener frames de rotación permite más edificios variados.
     </string>
     <string name="tip_topic_map_rotation_title">
-Camvia la rotación del mapa con el minimapa
+Cambia la rotación del mapa con el minimapa
     </string>
     <string name="tip_topic_map_rotation_text">
 El minimapa puede ser usado como una herramienta para girar el mapa. Dale clic al minimapa y luego a las flechas para girar el mapa a la izquierda o a la derecha. Ten en cuenta que algunos edificios no rotarán debidamente ya que no tienen provistos con frames de rotación.
