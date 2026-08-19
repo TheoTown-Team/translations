@@ -1,8 +1,6 @@
 # TheoTown-translation #
 Welcome to the **TheoTown Translation Repository**!
-This is where the community can contribute to localizing TheoTown into various languages.
-Your help makes TheoTown more accessible to players around the globe.
-
+This repository contains the community-maintained translations used by TheoTown. Contributions that improve and maintain existing translations are welcome.
 
 ## For translators ##
 
@@ -15,8 +13,7 @@ Simply translate the text between the tags (e.g. replace `My Translation` with y
 
 The special symbol `\n` can be used to indicate a new line.
 
-When your translation is done, **make sure to create a 'pull request'** so it can be merged to main branch.
-If you forget to do that step your translation won't be added to the project!
+When your changes are done, create a pull request so they can be reviewed and, if appropriate, merged into the main branch.
 
 ### Languages ###
 Each directory in this repository contains a `strings.xml` file for a specific language.
@@ -54,7 +51,7 @@ Here is a list of currently supported languages:
 - `values-zh-rTW`: Traditional Chinese
 - `values-zh`: Chinese
 
-If you'd like to add a new language, refer to the [ISO 639-1](http://www.loc.gov/standards/iso639-2/php/code_list.php) two-letter language codes and create a corresponding directory.
+The list above reflects the languages currently supported by TheoTown. If you are interested in a language that is not listed, please contact us before starting a translation, as additional languages are only considered on a case-by-case basis.
 
 English and German translations *will always be up to date*.
 New strings will be appended to all `strings.xml` files in English by default.
@@ -73,11 +70,3 @@ Character | Escaped form
 Sidenote:
 In [Json based translations](https://forum.theotown.com/viewtopic.php?t=9436) all you have to replace is " by \\".
 
-
-
-## For developers ##
-### Grab script ###
-There's a `grab.sh` script included that can be used to grab current translations files from the project directory automatically (developer only). For that to work you have to setup a local TheoTown symbolic link to your TheoTown project directory. To do this, execute a command like the following (here assuming running WSL):
-```sh
-ln -s /mnt/c/Users/User/StudioProjects/TheoTown66 TheoTown
-```
