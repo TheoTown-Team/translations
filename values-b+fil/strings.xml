@@ -42,7 +42,7 @@
     <string name="loadcity_errordialog_text">Maaaring hindi maikarga ang lungsod, tila may sira ang file.\n\nPaumanhin po.</string>
     <string name="loadcity_errordialog_cmdcancel">Kanselahin</string>
     <string name="dialog_screenshot_title">Nakuhang Screenshot</string>
-    <string name="dialog_screenshot_text">Ang retrato ay nailagak bilang %1$s.</string>
+    <string name="dialog_screenshot_text">Ang  ay nailagak bilang %1$s.</string>
     <string name="dialog_screenshot_cmdok">OK, salamat</string>
     <string name="draftselector_titleparks">Mga Parke</string>
     <string name="draftselector_titlepublics">Pampubliko</string>
@@ -417,7 +417,7 @@
     <string name="tutorial_buildenergy_a">Subukan po nating magpagawa ng solar panels.</string>
     <string name="tutorial_buildenergy_b">Ipuwesto po ito sa minarkahang kahon.</string>
     <string name="tutorial_buildenergy_c">Magaling!</string>
-    <string name="tutorial_buildwire_a">Magagamit po ninyo ang mga kawad sa paghahatid ng koryente.</string>
+    <string name="tutorial_buildwire_a">Magagamit po ninyo ang mga kawad sa paghahatid ng dagitab.</string>
     <string name="tutorial_buildwire_b">Ipuwesto po ito sa kahabaan ng mga minarkahang kahon.</string>
     <string name="tutorial_buildwire_c">Magaling!</string>
     <string name="tutorial_buildwater_a">Subukan naman po nating magpagawa ng tangke ng tubig para po makapaglaan ng tubig.</string>
@@ -724,7 +724,7 @@
     <string name="dialog_copycity_text">Magbigay ng pangalan para sa kopya.</string>
     <string name="dialog_copycity_cmdok">Kopyahin</string>
     <string name="dialog_copycity_cmdcancel">Kanselahin</string>
-    <string name="waiting_screenshot">Κinukuhanan ng Retrato</string>
+    <string name="waiting_screenshot">Κinukuhanan ng larawan</string>
     <string name="waiting_copycity">Kinokopya ang Lungsod</string>
     <string name="app_name_premium">TheoTown Premium</string>
     <string name="busstopinfo_title">Hintuang Bus</string>
@@ -845,7 +845,7 @@
     <string name="topic_plugins">May plugins na po kami</string>
     <string name="topic_page">Bisitahin kami sa www.theotown.com</string>
     <string name="topic_habitants">Maaabot mo ang 1,000,000</string>
-    <string name="ci_statistics_title">Estadistika</string>
+    <string name="ci_statistics_title">Palaulatan</string>
     <string name="statistics_inh_all">Naninirahan</string>
     <string name="statistics_inh_0">Naninirahang Maralita (₮)</string>
     <string name="statistics_inh_1">Naninirahang Maykaya (₮₮)</string>
@@ -916,7 +916,7 @@
     <string name="task_reachrank_text">Pagbati, ang inyo pong lungsod ay nakarating sa bagong ranggo.\n\nAng bawat ranggo po ay may nabubuksang gusali at makatatanggap po kayo ng gantimpala.</string>
     <string name="menu_achievements">Mga Tagumpay</string>
     <string name="menu_leaderboards">Leaderboards</string>
-    <string name="menu_screenshot">Kuhanan ng retrato</string>
+    <string name="menu_screenshot">Kuhanan ng larawan</string>
     <string name="menu_mapscreenshot">Kuhanan ang mapa</string>
     <string name="menu_save">Ilagak (Save)</string>
     <string name="menu_title">Menu</string>
@@ -1043,7 +1043,7 @@
     <string name="tut_build01">Simulan na natin! Magdeklara po ng pook residensiya.</string>
     <string name="tut_build02">Paligiran po natin ng kalsada.</string>
     <string name="tut_build03">Maghintay po tayo.</string>
-    <string name="tut_build030">Oops, kailangan po natin ng koryente!</string>
+    <string name="tut_build030">Oops, kailangan po natin ng dagitab!</string>
     <string name="tut_build04">Magpagawa po tayo ng mga solar panel.</string>
     <string name="tut_build05">Ikonekta po natin ito sa lungsod.</string>
     <string name="tut_build06">Tapikin ang mga solar panel.</string>
@@ -1157,10 +1157,10 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_rnk_planet_medium_title">Daigdig</string>
     <string name="draft_rnk_planet_big_title">Malaking Daigdig</string>
     <string name="draft_rnk_planet_large_title">Dakilang Daigdig</string>
-    <string name="draft_rnk_solar_system_small_title">Munting Sistemang Solar</string>
-    <string name="draft_rnk_solar_system_medium_title">Sistemang Solar</string>
-    <string name="draft_rnk_solar_system_big_title">Malaking Sistemang Solar</string>
-    <string name="draft_rnk_solar_system_large_title">Dakilang Sistemang Solar</string>
+    <string name="draft_rnk_solar_system_small_title">Munting Kaayusang Araw</string>
+    <string name="draft_rnk_solar_system_medium_title">Kaayusang Araw</string>
+    <string name="draft_rnk_solar_system_big_title">Malaking Kaayusang Araw</string>
+    <string name="draft_rnk_solar_system_large_title">Dakilang Kaayusang Araw</string>
     <string name="draft_rnk_universe_small_title">Munting Sansinukob</string>
     <string name="draft_rnk_universe_medium_title">Sansinukob</string>
     <string name="draft_rnk_universe_big_title">Malaking Sansinukob</string>
@@ -1182,10 +1182,10 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_rnk_galaxy_medium_title">Sanlibutan</string>
     <string name="draft_rnk_galaxy_big_title">Malaking Sanlibutan</string>
     <string name="draft_rnk_galaxy_large_title">Dakilang Sanlibutan</string>
-    <string name="draft_rnk_galaxy_cluster_small_title">Munting Galaxy Cluster</string>
-    <string name="draft_rnk_galaxy_cluster_medium_title">Galaxy Cluster</string>
-    <string name="draft_rnk_galaxy_cluster_big_title">Malaking Galaxy Cluster</string>
-    <string name="draft_rnk_galaxy_cluster_large_title">Dakilang Galaxy Cluster</string>
+    <string name="draft_rnk_galaxy_cluster_small_title">Munting Nilipong Sanlibutan</string>
+    <string name="draft_rnk_galaxy_cluster_medium_title">Galaxy Nilipong Sanlibutan</string>
+    <string name="draft_rnk_galaxy_cluster_big_title">Malaking Nilipong Sanlibutan</string>
+    <string name="draft_rnk_galaxy_cluster_large_title">Dakilang Nilipong Sanlibutan</string>
     <string name="draft_rnk_supercluster_small_title">Munting Supercluster</string>
     <string name="draft_rnk_supercluster_medium_title">Supercluster</string>
     <string name="draft_rnk_supercluster_big_title">Malaking Supercluster</string>
@@ -1193,9 +1193,9 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
 
     <string name="ci_airport_title">Paliparan</string>
     <string name="draft_wire01_title">Linya ng Transmisyon</string>
-    <string name="draft_wire01_text">Malalaking kawad para sa mararaming enerhiya. Para sa rehiyonal na palitan ng koryente.</string>
+    <string name="draft_wire01_text">Malalaking kawad para sa mararaming enerhiya. Para sa rehiyonal na palitan ng dagitab.</string>
     <string name="draft_transformator00_title">Transpormer</string>
-    <string name="draft_transformator00_text">Ang transpormer ay kinakailangan para mabago ang boltahe ng daloy ng koryente. Itayo ito malapit sa linya ng transmisyon.</string>
+    <string name="draft_transformator00_text">Ang transpormer ay kinakailangan para mabago ang boltahe ng daloy ng dagitab. Itayo ito malapit sa linya ng transmisyon.</string>
 
     <string name="settings_showtouchpoints">Ipakita ang touch points</string>
     <string name="shop_promotion_limited">Limitadong promosyon</string>
@@ -1206,9 +1206,9 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="airport_lane_assign">Magtalaga</string>
     <string name="airport_lane_assign_airplane">Magdagdag</string>
     <string name="airport_lane_add">Magdagdag ng Linya</string>
-    <string name="airport_airplanes">Mga Eroplano</string>
+    <string name="airport_airplanes">Mga eruplano</string>
     <string name="airport_virtual_lane">Hindi pa naitalaga</string>
-    <string name="airport_lane_no_airplane">Walang nakatakdang eroplano</string>
+    <string name="airport_lane_no_airplane">Walang nakatakdang eruplano</string>
     <string name="topic_lightside">Halika sa liwanag, may sorbetes kami</string>
     <string name="topic_handmade">Ang bawat pixel ay likhang-kamay</string>
     <string name="topic_lunch">Gumawa dito hanggang magtanghalian</string>
@@ -1230,17 +1230,17 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="settings_uploadgameplay_qhigh">Mataas</string>
     <string name="dialog_addairplane_title">Magdagdag</string>
     <string name="draftselector_airplane_buy">Bilhin</string>
-    <string name="dialog_airplanes_title">Iyong Eroplano</string>
+    <string name="dialog_airplanes_title">Iyong eruplano</string>
     <string name="dialog_airplanes_cmdadd">Magdagdag</string>
     <string name="dialog_airplanes_usethis">Gamitin ito</string>
     <string name="dialog_airplanes_selected">Kasalukuyan</string>
     <string name="dialog_airplanes_inuse">Ginagamit</string>
     <string name="dialog_renameairplane_title">Pangalanan</string>
-    <string name="dialog_renameairplane_text">Magbigay ng bagong pangalan sa inyong eroplano:</string>
+    <string name="dialog_renameairplane_text">Magbigay ng bagong pangalan sa inyong eruplano:</string>
     <string name="draft_airplane00_title">T340</string>
-    <string name="draft_airplane00_text">Ang pangmalayuang eroplano mula sa TheoAir.</string>
+    <string name="draft_airplane00_text">Ang pangmalayuang eruplano mula sa TheoAir.</string>
     <string name="draft_prm_airplane00_title">T340 Ginto</string>
-    <string name="draft_prm_airplane00_text">Ang ginituang varyant ng pangmalayuang eroplano ng TheoAir.</string>
+    <string name="draft_prm_airplane00_text">Ang ginituang varyant ng pangmalayuang eruplano ng TheoAir.</string>
     <string name="draftselector_airplane_passenger">Mga Pasahero: %1$,d</string>
     <string name="draft_ap_deco00_title">Pampaliparang deko</string>
     <string name="draft_ap_deco00_text">Gawing mas makatotohanan ang inyong paliparan sa mga dekorasyong ito.</string>
@@ -1273,10 +1273,10 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_ap_gate00_title">Tarangkahan</string>
     <string name="draft_ap_gate00_text">Ang mga tarangkahan ay kinakailangan para sa mga papasok/palabas na pasahero.</string>
     <string name="draft_ap_field00_title">Palapagan</string>
-    <string name="draft_ap_field00_text">Ang palapagan kung saan lumilipad at lumalapag ang mga eroplano. Minimum na haba ay 12.</string>
+    <string name="draft_ap_field00_text">Ang palapagan kung saan lumilipad at lumalapag ang mga eruplano. Minimum na haba ay 12.</string>
     <string name="settings_usezoneradius">Gumamit ng zone radius</string>
     <string name="draft_airplane01_title">T380</string>
-    <string name="draft_airplane01_text">Ang dalawahang-palapag at pangmalayuang eroplano mula sa TheoAir. May malaki itong espasyo.</string>
+    <string name="draft_airplane01_text">Ang dalawahang-palapag at pangmalayuang eruplano mula sa TheoAir. May malaki itong espasyo.</string>
     <string name="dialog_waitingtime_title">Babawasan ang paghihintay</string>
     <string name="dialog_waitingtime_text">Gusto po ba ninyong paikliin nang kaunti ang paghihintay?\n%1$s ang natitira.</string>
 
@@ -1306,7 +1306,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="disaster_pink_slime_text">Lumalawak na lusak na dahan-dahang umuubos ng lahat ng nasa paningin.</string>
     <string name="disaster_pink_slime_cmdtext">Lusak!</string>
     <string name="draft_hydroplant00_title">Ilog Planta-Enerhiya</string>
-    <string name="draft_hydroplant00_text">Ang planta-enerhiyang haydroelektrik na magagamit sa paglikha ng koryente gamit ang lakas ng mga ilog. Hindi lumilikha ng polusyon.</string>
+    <string name="draft_hydroplant00_text">Ang planta-enerhiyang haydroelektrik na magagamit sa paglikha ng dagitab gamit ang lakas ng mga ilog. Hindi lumilikha ng polusyon.</string>
     <string name="draft_feature_slime00_title">Sakunang Lusak</string>
     <string name="draft_feature_slime00_text">Ang mga sakunang lusak ay nangangain ng inyong lungsod. Siyempre, kung gugustuhin mo lang namang mangyari.</string>
 
@@ -1351,7 +1351,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="draft_syl_emitter01_text">Ang pihitan na awtomatikong naglalabas ng signal tuwing bagong taon.</string>
 
     <string name="draft_airplane02_title">T430</string>
-    <string name="draft_airplane02_text">Ang mabilis na pangmalayuang eroplano na mula sa TheoAir.</string>
+    <string name="draft_airplane02_text">Ang mabilis na pangmalayuang eruplano na mula sa TheoAir.</string>
     <string name="draft_syl_spawner03_title">Ningas-Talà</string>
     <string name="draft_syl_spawner03_text">Ang pagsabog ng pula at dilaw na sinamahan pa ng paglalaho ng puti.</string>
     <string name="draft_syl_spawner04_title">Kinulayang Talà</string>
@@ -1553,7 +1553,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="tool_removeuwire_title">Nakalubog na Kawad</string>
     <string name="tool_removeuwire_text">Ito ay pantanggal sa mga nakalubog na kawad.</string>
 
-    <string name="draft_aircraft_boneyard00_title">Tambakan ng Eroplano</string>
+    <string name="draft_aircraft_boneyard00_title">Tambakan ng eruplano</string>
     <string name="draft_aircraft_boneyard00_text">Ang lugar para sa mga retiradong sasakyang panghimpapawid. Marumi dito pero lumilikha ito ng kaunting kita.</string>
     <string name="notify_tutorial_reminder_title">Panahon na po para magsimula</string>
     <string name="notify_tutorial_reminder_text">Uy alkalde, nakalimutan mo na po ba ang \'yong misyon na lumikha ng dakilang lungsod?</string>
@@ -1597,7 +1597,7 @@ Kung bibigyan mo ang TheoTown ng akses sa external storage, maglalagak (save) it
     <string name="gallery">Galeriya</string>
     <string name="gallery_upload">Upload screenshot</string>
     <string name="dialog_galleryupload_title">Ina-upload</string>
-    <string name="dialog_galleryupload_text">Ina-upload ko po ang inyong retrato :)</string>
+    <string name="dialog_galleryupload_text">Ina-upload ko po ang inyong larawan :)</string>
     <string name="gallery_recent">Kamakailan</string>
     <string name="gallery_trends">Trends</string>
     <string name="gallery_own">Akin</string>
@@ -1925,7 +1925,7 @@ Cons: Kaunti ang hamon</string>
     <string name="gamemenu_catcity">Lungsod</string>
     <string name="gamemenu_catcontent">Nilalaman</string>
     <string name="gamemenu_catsocial">Sosyal</string>
-    <string name="gamemenu_catpictures">Retrato</string>
+    <string name="gamemenu_catpictures">Larawan</string>
     <string name="gamemenu_catother">Iba pa</string>
     <string name="store_catcount">%,d plugins</string>
     <string name="store_featured">Tampok</string>
@@ -2610,7 +2610,7 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="ci_energy_help">Maraming gusali ang nangangailangan ng enerhiya upang gumana. Tiyaking nakakalikha ka ng sapat na dami ng enerhiya at ang lahat ay nakakonekta rin sa grid.</string>
     <string name="ci_info_help">Dito mo makikita ang ilang pangkalahatang impormasyon tungkol sa iyong lungsod.</string>
     <string name="ci_education_help">Mahalaga ang edukasyon sa mga naninirahan upang mapabuti ang kanilang mga kondisyon sa pamumuhay at upang maakit ang mga edukadong manggagawa at mamumuhunan.</string>
-    <string name="ci_airport_help">Ito mismo ang iyong tore pangkontrol ng trapikong panghimpapawid upang makontrol ang iyong mga paliparan. Makakapili ka ng mga linya mula sa mapa, bumili ng mga eroplano, at magtakda ng eroplano sa mga linya.</string>
+    <string name="ci_airport_help">Ito mismo ang iyong tore pangkontrol ng trapikong panghimpapawid upang makontrol ang iyong mga paliparan. Makakapili ka ng mga linya mula sa mapa, bumili ng mga eruplano, at magtakda ng eruplano sa mga linya.</string>
     <string name="ci_water_help">Mahalaga ang tubig sa buhay, ganoon din sa iyong mga naninirahan. Tiyaking nagbibigay ka ng sapat na dami ng tubig at ang lahat ay nakakonekta sa mga tubo. Huwag ipuwesto ang mga sigluyang-tubig sa mapolusyong lugar kung hindi ay magkakasakit ang iyong mga naninirahan.</string>
     <string name="ci_statistics_help">Makakatulong sa iyo ang mga talangguhit na ito para subaybayan ang pag-unlad ng lungsod. Gamitin ang mga panuro sa bandang kanan upang lumipat sa pagitan ng iba\'t ibang talangguhit. Ang mga pindutan +/- ay magagamit din para sa pag-zoom palaki at paliit.</string>
 
@@ -2856,8 +2856,8 @@ Pindutin ang susi upang maitalaga sa ganoong aksiyon.</string>
     <string name="draft_moon_water00_title">Himpilang Tubig</string>
     <string name="draft_moon_water00_text">Lumilikha ng tubig mula sa likido ng katawan ng mga kolonista o sa pagsintesis.</string>
     <string name="draft_moon_energy00_title">Solar panels</string>
-    <string name="draft_moon_energy00_text">Isinasalin ang enerhiyang solar patungong puwersa upang magkakoryente ang inyong base.</string>
-    <string name="draft_moon_wire00_title">Kawad-koryente</string>
+    <string name="draft_moon_energy00_text">Isinasalin ang enerhiyang solar patungong puwersa upang magkadagitab ang inyong base.</string>
+    <string name="draft_moon_wire00_title">Kawad-dagitab</string>
     <string name="draft_moon_wire00_text">Mga nakalubog na kawad na naghahatid ng elektrisidad sa ilalim ng inyong base.</string>
     <string name="draft_dsa_moon_road00_title">Daan ng Rover</string>
     <string name="draft_dsa_moon_road00_text">Pinatibay na sahig ng daan para sa mga rover at iba pang sasakyan.</string>
